@@ -1,0 +1,152 @@
+{
+  "number": 96,
+  "title": "Relative clauses 5: extra information clauses (2)",
+  "subtitle": "all of whom / most of which / which was a shame",
+  "summary": "Use a preposition + whom/which, expressions like all of whom and most of which, and which to refer back to a whole idea.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "preposition + whom / which",
+      "text": "In extra information clauses you can put the preposition before **whom** (for people) or **which** (for things): *to whom, with whom, about whom, of which, without which, from which* etc.",
+      "examples": [
+        { "text": "Mr Lee, **to whom I spoke** at the meeting, is interested in our proposal." },
+        { "text": "Fortunately we had a good map, **without which** we would have got lost." },
+        { "text": "The accident, **in which** two people were injured, happened late last night." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The preposition can stay after the verb",
+      "text": "In spoken English we often keep the preposition after the verb. When we do this, we use **who** (not whom) for people.",
+      "examples": [
+        { "text": "Katherine works for a company called 'Latoma', **which I'd never heard of** before." },
+        { "text": "Mr Lee, **who I spoke to** at the meeting, is interested in our proposal.", "wrong": "Mr Lee, whom I spoke to" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "all of / most of / none of + whom/which",
+      "text": "You can say **all of whom, many of whom, some of whom, neither of whom** etc. for people, and **all of which, none of which, both of which, one of which** etc. for things.",
+      "examples": [
+        { "text": "Helen has three brothers, **all of whom** are married." },
+        { "text": "They asked me a lot of questions, **most of which** I couldn't answer." },
+        { "text": "Martin tried on three jackets, **none of which** fitted him." },
+        { "text": "Two men, **neither of whom** I had seen before, came into the office." },
+        { "text": "Sue has a lot of friends, **many of whom** she was at school with." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the name of which / the cause of which",
+      "text": "In the same way you can say **the cause of which**, **the name of which**, **the aim of which** etc.",
+      "examples": [
+        { "text": "The house was damaged in a fire, **the cause of which** was never established." },
+        { "text": "We stayed at a beautiful hotel, **the name of which** I don't remember now." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "which for a whole idea",
+      "text": "Joe got the job. This surprised everybody. In one sentence: *Joe got the job, **which surprised everybody**.* Here **which** = the fact that Joe got the job. We use **which**, never *what*, in sentences like these.",
+      "examples": [
+        { "text": "Sarah couldn't meet us, **which was a shame**.", "wrong": "what was a shame" },
+        { "text": "The weather was good, **which we hadn't expected**.", "wrong": "what we hadn't expected" },
+        { "text": "Alex passed his exams, **which is good news**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When the relative clause comments on the whole sentence before it, always use which - never what."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Fortunately we had a good map, ___ we would have got lost.",
+      "hint": "(without)",
+      "answers": ["without which"],
+      "explanation": "A map is a thing, so after a preposition we use which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The accident, ___ two people were injured, happened late last night.",
+      "hint": "(in)",
+      "answers": ["in which"],
+      "explanation": "Two people were injured in the accident: in + which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I share an office with my boss, ___ I get on really well.",
+      "hint": "(with)",
+      "answers": ["with whom"],
+      "explanation": "My boss is a person, so after a preposition we use whom."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben showed me his new car, ___ he's very proud.",
+      "hint": "(of)",
+      "answers": ["of which"],
+      "explanation": "He is proud of the car - a thing, so of which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah showed us a picture of her son, ___ she's very proud.",
+      "hint": "(of)",
+      "answers": ["of whom"],
+      "explanation": "She is proud of her son - a person, so of whom."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the comment that follows it. Each comment begins with which.",
+      "pairs": [
+        { "left": "Laura couldn't come to the party,", "right": "which was a shame." },
+        { "left": "The street I live in is noisy at night,", "right": "which makes it difficult to sleep sometimes." },
+        { "left": "Kate let me stay at her house,", "right": "which was very kind of her." },
+        { "left": "Jane doesn't have a phone,", "right": "which makes it hard to contact her." },
+        { "left": "Alex passed his exams,", "right": "which is good news." },
+        { "left": "Our car has broken down,", "right": "which means we can't go away tomorrow." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "All of Helen's brothers are married. Helen has three brothers, ___ are married.",
+      "answers": ["all of whom"],
+      "explanation": "For people we say all of whom, not all of which or all of them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the information we were given was useless. We were given a lot of information, ___ useless.",
+      "hint": "(most)",
+      "answers": ["most of which was"],
+      "explanation": "Information is a thing, so we use most of which."
+    },
+    {
+      "type": "word_order",
+      "prompt": "James won a lot of money and he gave half of it to his parents. Make one sentence.",
+      "words": ["James won", "a lot of money,", "half of which", "he gave", "to his parents"],
+      "answer": "James won a lot of money, half of which he gave to his parents",
+      "explanation": "Half of which refers back to the money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We stayed at a very nice hotel, ___ I don't remember.",
+      "hint": "(the name)",
+      "answers": ["the name of which"],
+      "explanation": "We say the name of which / the cause of which / the aim of which."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah couldn't meet us, what was a shame.",
+      "answer": false,
+      "explanation": "Sarah couldn't meet us, which was a shame. We use which, not what, to refer back to a whole idea."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mr Lee, ___ I spoke to at the meeting, is interested in our proposal.",
+      "options": ["who", "whom", "which"],
+      "answer": 0,
+      "explanation": "When the preposition stays after the verb (spoke to), we use who, not whom."
+    }
+  ]
+}

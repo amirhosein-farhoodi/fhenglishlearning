@@ -1,0 +1,171 @@
+{
+  "number": 83,
+  "title": "a friend of mine; my own house; on my own / by myself",
+  "subtitle": "a friend of mine / my own room",
+  "summary": "Learn to say a friend of mine (not of me), to use my own / your own for something that is not shared, and to say on my own or by myself for 'alone'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "a friend of mine",
+      "text": "We say **a friend of mine / of yours / of his / of hers / of ours / of theirs**. *A friend of mine* = one of my friends.",
+      "examples": [
+        { "text": "I'm going to a wedding on Saturday. **A friend of mine** is getting married.", "wrong": "a friend of me" },
+        { "text": "We went on holiday with **some friends of ours**.", "wrong": "some friends of us" },
+        { "text": "Harry had an argument with **a neighbour of his**." },
+        { "text": "It was **a good idea of yours** to go to the cinema." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a friend of my sister's",
+      "text": "In the same way we say **a friend of my sister's**, **a friend of Tom's** etc. - with an apostrophe s after the name.",
+      "examples": [
+        { "text": "That woman over there is **a friend of my sister's**.", "note": "= one of my sister's friends" },
+        { "text": "It was **a good idea of Tom's** to go to the cinema." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "my own ... / your own ...",
+      "text": "**My own / your own / her own** etc. = something that is only mine or yours, not shared and not borrowed. We always put **my/your/her** etc. before **own**.",
+      "examples": [
+        { "text": "I don't want to share a room with anybody. I want **my own room**.", "wrong": "an own room" },
+        { "text": "Vicky and Gary would like to have **their own house**." },
+        { "text": "It's a shame that the apartment hasn't got **its own** parking space." },
+        { "text": "It's **my own fault** that I have no money. I buy too many things I don't need." },
+        { "text": "Why do you want to borrow my car? Why don't you use **your own**?", "note": "= your own car" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a room of my own",
+      "text": "You can also say **a room of my own**, **a house of your own**, **problems of his own** etc. The meaning is the same.",
+      "examples": [
+        { "text": "I'd like to have a room **of my own**." },
+        { "text": "He won't be able to help you with your problems. He has too many problems **of his own**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "He cuts his own hair",
+      "text": "We also use **own** to say that we do something ourselves instead of somebody else doing it for us.",
+      "examples": [
+        { "text": "Paul usually cuts **his own hair**.", "note": "= he cuts it himself" },
+        { "text": "I'd like a garden so that I could grow **my own vegetables**.", "note": "= grow them myself instead of buying them" },
+        { "text": "Helen doesn't often buy clothes. She likes to make **her own**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "on my own / by myself",
+      "left": {
+        "label": "on my own",
+        "text": "on my / your / his / her / its / our / their own",
+        "examples": [
+          "I like living **on my own**.",
+          "Some people prefer to live **on their own**.",
+          "Did you go on holiday **on your own**?"
+        ]
+      },
+      "right": {
+        "label": "by myself",
+        "text": "by myself / yourself / himself / herself / itself / ourselves / yourselves / themselves",
+        "examples": [
+          "I like living **by myself**.",
+          "Some people prefer to live **by themselves**.",
+          "Jack was sitting **by himself** in a corner of the cafe."
+        ]
+      },
+      "note": "Both expressions mean *alone*, so you can choose either one."
+    },
+    {
+      "type": "tip",
+      "text": "Remember the two shapes: after own you need my/your/her etc., and after by you need myself/yourself etc. - never ~~by my own~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I'm meeting one of my friends tonight. = I'm meeting ___ tonight.",
+      "options": ["a friend of mine", "a friend of me", "a friend of my"],
+      "answer": 0,
+      "explanation": "After of we use mine/yours/hers etc., not me/you/her."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We met one of your relatives. = We met ___.",
+      "answers": ["a relative of yours"],
+      "explanation": "One of your relatives = a relative of yours (not of you)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jason borrowed one of my books. = Jason borrowed ___.",
+      "answers": ["a book of mine"],
+      "explanation": "One of my books = a book of mine."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence. All the endings use my own / his own etc.",
+      "pairs": [
+        { "left": "I share a kitchen with the other tenants,", "right": "but I have my own bathroom." },
+        { "left": "Gary doesn't think like me.", "right": "He has his own opinions." },
+        { "left": "Julia doesn't want to work for other people.", "right": "She wants to start her own business." },
+        { "left": "We stayed at a luxury hotel by the sea.", "right": "The hotel had its own private beach." },
+        { "left": "In the test we had to read a story", "right": "and then write it in our own words." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You met one of Amy's friends at the party. Tell someone about it.",
+      "words": ["I met", "a friend", "of Amy's", "at the party"],
+      "answer": "I met a friend of Amy's at the party",
+      "explanation": "After of we use the possessive form of the name: a friend of Amy's."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why do you need to borrow my car? Why don't you use ___?",
+      "answers": ["your own car", "your own"],
+      "explanation": "Your own (car) = the car that belongs to you, not a borrowed one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How can you blame me? It's not my fault. It's ___.",
+      "answers": ["your own fault"],
+      "explanation": "We say my own fault / your own fault - own always follows my, your, her etc."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sam and Chris are colleagues of me.",
+      "answer": false,
+      "explanation": "Sam and Chris are colleagues of mine. After of we use mine, not me."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul never goes to a barber. He ___.",
+      "hint": "(cut)",
+      "answers": ["cuts his own hair"],
+      "explanation": "Own here means he does it himself instead of somebody doing it for him."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We don't often buy bread. We usually ___.",
+      "hint": "(bake)",
+      "answers": ["bake our own bread", "bake our own"],
+      "explanation": "Bake our own bread = bake it ourselves instead of buying it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did you go on holiday ___?",
+      "options": ["on your own", "on yourself", "by your own"],
+      "answer": 0,
+      "explanation": "We say on my/your own or by myself/yourself - never by my own."
+    },
+    {
+      "type": "true_false",
+      "statement": "He must be lonely. He's always with himself.",
+      "answer": false,
+      "explanation": "He must be lonely. He's always by himself (or on his own)."
+    }
+  ]
+}

@@ -20,13 +20,20 @@ Follow these steps exactly and report progress after each one.
    - If the answer key uses a different heading style, pass `--key-marker` (a regex with one capture group for the unit number), or `--no-key`.
    - Spot-check 3 random unit files: each should contain the right lesson, its exercises and its key.
 
-3. **Create the book metadata** at `src/content/books/<slug>/book.json` following `BookMeta` in
+3. **Fetch the cover.** Find the book's ISBN (usually on its copyright page) and download the cover
+   to `public/covers/<slug>.jpg`, e.g.
+   `curl -L -o public/covers/<slug>.jpg https://covers.openlibrary.org/b/isbn/<isbn>-L.jpg`.
+   Open the file to check it is the right book and not a placeholder; if it is not, find the cover
+   elsewhere or skip it (the app falls back to `coverEmoji`).
+
+4. **Create the book metadata** at `src/content/books/<slug>/book.json` following `BookMeta` in
    `src/content/types.ts`: title, subtitle, author credit, level, a 1-2 sentence description, a
-   `coverEmoji`, an `accent` colour that is not already used by another book, `sections` copied from
-   the book's Contents pages (every unit in exactly one section) and `unitTitles` for **every** unit.
+   `coverEmoji`, `cover` set to `/covers/<slug>.jpg`, an `accent` colour that is not already used by
+   another book, `sections` copied from the book's Contents pages (every unit in exactly one
+   section) and `unitTitles` for **every** unit.
    Use `content-src/<slug>/raw/toc.json` as a starting point but fix any garbled titles by hand.
 
-4. **Author the units.** For every `content-src/<slug>/raw/unit-NNN.md` create
+5. **Author the units.** For every `content-src/<slug>/raw/unit-NNN.md` create
    `src/content/books/<slug>/units/unit-NNN.json` by following `tools/prompts/author-unit.md`
    precisely. This is the long step:
    - Do units in batches of about 10 per subagent and run several subagents in parallel.
@@ -35,9 +42,9 @@ Follow these steps exactly and report progress after each one.
      batch and run `node tools/validate-content.mjs` before finishing.
    - After all batches, run `node tools/validate-content.mjs` yourself and fix every error.
 
-5. **Build and check.** Run `npm run validate` then `npm run build`. Start `npm run dev`, open the
+6. **Build and check.** Run `npm run validate` then `npm run build`. Start `npm run dev`, open the
    home page and confirm the new book card appears, the first lesson opens and its quiz works.
    No app code changes are needed: `src/content/registry.ts` discovers books with `import.meta.glob`.
 
-6. **Summarise** what was added (book, number of units authored, any units skipped and why) and
+7. **Summarise** what was added (book, number of units authored, any units skipped and why) and
    remind the user to commit and push so Netlify deploys it.

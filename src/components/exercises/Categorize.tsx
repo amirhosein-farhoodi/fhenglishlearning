@@ -24,18 +24,19 @@ export default function Categorize({ exercise, onResult, seed }: ExProps<Categor
   const drop = (cat: number) => {
     if (checked || selected === null) return
     sfx.tap()
-    setPlacement({ ...placement, [selected]: cat })
-    // auto-select the next pool item for speed
-    const next = pool.find((i) => i !== selected)
-    setSelected(next ?? null)
+    // Functional update: rapid taps must not overwrite each other with stale state.
+    setPlacement((prev) => ({ ...prev, [selected]: cat }))
+    setSelected(null)
   }
 
   const takeBack = (i: number) => {
     if (checked) return
     sfx.tap()
-    const next = { ...placement }
-    delete next[i]
-    setPlacement(next)
+    setPlacement((prev) => {
+      const next = { ...prev }
+      delete next[i]
+      return next
+    })
     setSelected(i)
   }
 
@@ -98,6 +99,10 @@ export default function Categorize({ exercise, onResult, seed }: ExProps<Categor
                           takeBack(i)
                         }}
                         disabled={checked}
+                        // While an item is selected the whole bucket is a drop target, so
+                        // already-placed chips must not swallow the tap.
+                        style={isTarget ? { pointerEvents: 'none' } : undefined}
+                        title={isTarget ? undefined : 'Tap to take this back'}
                       >
                         {renderInline(exercise.items[i].text)}
                       </button>

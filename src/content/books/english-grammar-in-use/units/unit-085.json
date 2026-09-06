@@ -1,0 +1,189 @@
+{
+  "number": 85,
+  "title": "some and any",
+  "subtitle": "some flowers / any flowers",
+  "summary": "Use some in positive sentences and any in negative ones, choose between them in questions, and use any to mean 'it doesn't matter which'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "some or any?",
+      "left": {
+        "label": "some (positive)",
+        "text": "Also somebody / someone / something.",
+        "examples": [
+          "We bought **some** flowers.",
+          "He's busy. He has **some** work to do.",
+          "There's **somebody** at the door.",
+          "I want **something** to eat."
+        ]
+      },
+      "right": {
+        "label": "any (negative)",
+        "text": "Also anybody / anyone / anything.",
+        "examples": [
+          "We didn't buy **any** flowers.",
+          "He's lazy. He never does **any** work.",
+          "There isn't **anybody** at the door.",
+          "I don't want **anything** to eat."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "any when the meaning is negative",
+      "text": "We also use **any** in sentences that are not negative in form but negative in meaning - after **without**, **refuse** and **hardly**, for example.",
+      "examples": [
+        { "text": "She went out without **any** money.", "note": "= she didn't take any money with her" },
+        { "text": "He refused to eat **anything**.", "note": "= he didn't eat anything" },
+        { "text": "It's a very easy exam. Hardly **anybody** fails.", "note": "= almost nobody fails" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "In questions",
+      "left": {
+        "label": "some in questions",
+        "text": "When we think the person or thing exists, and when we ask for or offer things.",
+        "examples": [
+          "Are you waiting for **somebody**?",
+          "Can I have **some** sugar, please?",
+          "Would you like **something** to eat?"
+        ]
+      },
+      "right": {
+        "label": "any in questions",
+        "text": "In most questions - we don't know if the person or thing exists.",
+        "examples": [
+          "Do you have **any** luggage?",
+          "Is there **anybody** in the house?",
+          "Have you seen **any** good films recently?"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if + any",
+      "text": "We use **any** after **if**, and in sentences that have the idea of *if*.",
+      "examples": [
+        { "text": "Let me know if you need **anything**." },
+        { "text": "If anyone has **any** questions, I'll be pleased to answer them." },
+        { "text": "I'm sorry for **any** trouble I've caused.", "note": "= if I have caused any trouble" },
+        { "text": "The police want to speak to **anyone** who saw the accident.", "note": "= if there is anyone" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "any = it doesn't matter which",
+      "text": "**Any** (and **anybody / anyone / anything / anywhere**) can also mean *it doesn't matter which*.",
+      "examples": [
+        { "text": "You can take **any** bus. They all go to the centre.", "note": "= it doesn't matter which bus" },
+        { "text": "Come and see me **any** time you want." },
+        { "text": "We forgot to lock the door. **Anybody** could have come in." },
+        { "text": "*A:* What would you like? *B:* I don't mind. **Anything**." },
+        { "text": "*A:* Where shall we go? *B:* **Anywhere**. I just want to go out." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "somebody, anybody + they",
+      "text": "**Somebody / someone / anybody / anyone** are singular words, so the verb is singular. But we normally use **they / them / their** after them.",
+      "examples": [
+        { "text": "Someone **is** here to see you." },
+        { "text": "Someone has forgotten **their** umbrella.", "note": "= his or her umbrella" },
+        { "text": "If anybody wants to leave early, **they** can.", "note": "= he or she can" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you can put not in the sentence, you almost always need any; if the sentence is positive or you are offering something, use some."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "We didn't buy ___ flowers.",
+      "options": ["any", "some", "no any"],
+      "answer": 0,
+      "explanation": "The sentence is negative (didn't), so we use any."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was too surprised to say ___.",
+      "answers": ["anything"],
+      "explanation": "Too surprised to say = I didn't say anything, so the meaning is negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's ___ at the door. Can you go and see who it is?",
+      "answers": ["somebody", "someone"],
+      "explanation": "A positive sentence about a person we know is there: somebody/someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must be hungry. Why don't I get you ___ to eat?",
+      "answers": ["something"],
+      "explanation": "We use something in questions when we offer things."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need some or any in the gap (shown as ...)?",
+      "categories": ["some", "any"],
+      "items": [
+        { "text": "Tonight I'm going out with ... friends of mine.", "category": 0 },
+        { "text": "Have you seen ... good movies recently?", "category": 1 },
+        { "text": "I'd like ... information about what there is to see in this town.", "category": 0 },
+        { "text": "You can use your card to withdraw money at ... cash machine.", "category": 1 },
+        { "text": "Those apples look nice. Shall we get ...?", "category": 0 },
+        { "text": "If there are ... words you don't understand, look them up in a dictionary.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was hardly ___ on the beach. It was almost deserted.",
+      "answers": ["anybody", "anyone"],
+      "explanation": "Hardly anybody = almost nobody, so the meaning is negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't drive and I don't know ___ about cars.",
+      "answers": ["anything"],
+      "explanation": "A negative sentence (don't know), so we use anything."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let's go away. Let's go ___ warm and sunny.",
+      "answers": ["somewhere"],
+      "explanation": "A positive suggestion about a particular kind of place: somewhere."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the answer that means 'it doesn't matter which'.",
+      "pairs": [
+        { "left": "Which bus do I have to take?", "right": "Any bus. They all go to the centre." },
+        { "left": "When shall we meet? Monday?", "right": "I don't mind. Any day next week will be OK." },
+        { "left": "What do you want to eat?", "right": "Anything. Whatever you have." },
+        { "left": "Who shall I invite to the party?", "right": "It's your party. You can invite anybody you want." },
+        { "left": "Where shall I sit?", "right": "It's up to you. You can sit anywhere you like." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going out now. If ___ asks where I am, tell them you don't know.",
+      "answers": ["anybody", "anyone"],
+      "explanation": "After if we use any-: if anybody asks ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "Someone has forgotten their umbrella.",
+      "answer": true,
+      "explanation": "Correct. Someone takes a singular verb (has), but we use their afterwards."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is a no-parking area. ___ who parks their car here will have to pay a fine.",
+      "answers": ["Anybody", "Anyone"],
+      "explanation": "The sentence has the idea of if: if there is anybody who parks here."
+    }
+  ]
+}

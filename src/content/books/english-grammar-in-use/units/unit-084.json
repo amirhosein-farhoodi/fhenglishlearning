@@ -1,0 +1,177 @@
+{
+  "number": 84,
+  "title": "there ... and it ...",
+  "subtitle": "There's a new restaurant. It's very good.",
+  "summary": "Use there to say that something exists (there is / there was / there will be), and it to talk about a particular thing, place, fact or situation.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "there ... = something exists",
+      "text": "We use **there ...** when we mention something for the first time, to say that it exists. *'**There's** a new restaurant in Hill Street.' 'Yes, I know. I've heard **it's** very good.'*",
+      "examples": [
+        { "text": "**There's** a new restaurant in Hill Street." },
+        { "text": "I'm sorry I'm late. **There was** a lot of traffic.", "wrong": "It was a lot of traffic" },
+        { "text": "Things are very expensive now. **There has been** a big rise in the cost of living." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "there or it?",
+      "left": {
+        "label": "there",
+        "text": "Something exists - we are mentioning it for the first time.",
+        "examples": [
+          "**There's** a lot to do here.",
+          "**There was** a cold wind.",
+          "The house is unoccupied. **There's** nobody living **there**."
+        ]
+      },
+      "right": {
+        "label": "it",
+        "text": "A particular thing, place, fact or situation that we already know about.",
+        "examples": [
+          "We went to the new restaurant. **It's** very good.",
+          "**It was** windy.",
+          "I wasn't expecting her to call me. **It was** a complete surprise."
+        ]
+      },
+      "note": "Compare in one sentence: I like this town. **There's** a lot to do here. **It's** an interesting place."
+    },
+    {
+      "type": "explain",
+      "heading": "there + will be / must be / used to be ...",
+      "text": "You can use **there** with will, must, might, should, going to, used to and with sure to / bound to / likely to / supposed to.",
+      "examples": [
+        { "text": "'Is there a flight to Rome tonight?' '**There might be**. I'll check online.'" },
+        { "text": "If people drove more carefully, **there wouldn't be** so many accidents." },
+        { "text": "I could hear music coming from the house. **There must have been** somebody at home." },
+        { "text": "**There's bound to be** a cafe somewhere near here.", "note": "= There's sure to be ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there and it in the same structures",
+      "text": "Keep **there** for the thing that exists and **it** for the particular thing you are talking about.",
+      "examples": [
+        { "text": "They live on a busy road. **There must be** a lot of noise from the traffic." },
+        { "text": "They live on a busy road. **It must be** very noisy.", "note": "it = living on a busy road" },
+        { "text": "**There used to be** a cinema here, but it closed a few years ago." },
+        { "text": "That building is now a supermarket. **It used to be** a cinema.", "note": "it = that building" },
+        { "text": "There's a flight to Rome tonight, but **it's** sure to be full.", "note": "it = the flight" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It's dangerous to ...",
+      "text": "We normally begin sentences like this with **It**, not with the whole to-phrase.",
+      "examples": [
+        { "text": "**It's dangerous to walk** in the road.", "wrong": "To walk in the road is dangerous" },
+        { "text": "**It didn't take** us long to get here." },
+        { "text": "**It's a shame** (that) you can't come to the party." },
+        { "text": "**It's not worth** waiting any longer. Let's go." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it for distance, time and weather",
+      "text": "We also use **it** to talk about distance, time and the weather.",
+      "examples": [
+        { "text": "How far is **it** from here to the airport?" },
+        { "text": "**It's** a long time since we last saw you." },
+        { "text": "**It was** windy. but **There was** a cold wind." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the sentence introduces something new (a bridge, a reason, a car park), start with there; if it describes something already known, start with it."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The journey took a long time. ___ a lot of traffic.",
+      "options": ["There was", "It was", "There were"],
+      "answer": 0,
+      "explanation": "We are saying that traffic existed, so we use there was (not it was)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ something wrong with the washing machine. It's not working properly.",
+      "answers": ["There's", "There is"],
+      "explanation": "We mention the problem for the first time, so we use there is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wanted to visit the museum yesterday, but ___ enough time.",
+      "answers": ["there wasn't", "there was not"],
+      "explanation": "Time did not exist for me, so the negative is there wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't find my phone. ___ in my bag - I just looked.",
+      "answers": ["It isn't", "It's not", "It is not"],
+      "explanation": "We are talking about one particular thing, the phone, so we use it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How can we get across the river? ___ a bridge?",
+      "options": ["Is there", "Is it", "There is"],
+      "answer": 0,
+      "explanation": "We are asking whether a bridge exists: Is there ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't see anything. ___ completely dark.",
+      "answers": ["It was"],
+      "explanation": "It describes the situation, so we say It was completely dark."
+    },
+    {
+      "type": "word_order",
+      "prompt": "About 50 people came to the meeting. Say the same thing beginning with There.",
+      "words": ["There were", "about 50 people", "at the meeting"],
+      "answer": "There were about 50 people at the meeting",
+      "explanation": "There + plural verb tells us how many people existed at the meeting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There isn't a school in the village now. ___ one, but it closed a few years ago.",
+      "hint": "(used to)",
+      "answers": ["There used to be"],
+      "explanation": "There used to be = a school existed in the past but does not exist now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If people drove more carefully, ___ fewer accidents.",
+      "hint": "(would)",
+      "answers": ["there would be"],
+      "explanation": "There can be used with would, will, might, must etc.: there would be."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's a long way from my house to the nearest shop.",
+      "answer": true,
+      "explanation": "Correct. We use it for distance."
+    },
+    {
+      "type": "true_false",
+      "statement": "After the lecture it will be an opportunity to ask questions.",
+      "answer": false,
+      "explanation": "After the lecture there will be an opportunity to ask questions. The opportunity is something that will exist."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need there or it in the gap (shown as ...)?",
+      "categories": ["there", "it"],
+      "items": [
+        { "text": "Why was she so unfriendly? ... must have been a reason.", "category": 0 },
+        { "text": "... 's a long time since we last saw you.", "category": 1 },
+        { "text": "... used to be a lot of tourists here, but not many come now.", "category": 0 },
+        { "text": "My phone won't work here. ... 's no signal.", "category": 0 },
+        { "text": "... didn't take us long to get here.", "category": 1 },
+        { "text": "We won't have any problem parking. ... 's sure to be a car park somewhere.", "category": 0 },
+        { "text": "I'm sorry about what happened. ... was my fault.", "category": 1 }
+      ]
+    }
+  ]
+}

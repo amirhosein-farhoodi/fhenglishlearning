@@ -46,6 +46,12 @@ function validateBook(dir, slug) {
   }
   if (b.slug !== slug) err(f, `slug "${b.slug}" must equal folder name "${slug}"`)
   for (const k of ['title', 'description', 'coverEmoji', 'accent']) checkStr(f, b, k)
+  checkStr(f, b, 'cover', { optional: true })
+  if (b.cover) {
+    if (!b.cover.startsWith('/')) err(f, 'cover must be an absolute path like "/covers/my-book.jpg"')
+    else if (!existsSync(join(process.cwd(), 'public', b.cover.replace(/^\//, ''))))
+      err(f, `cover file public${b.cover} does not exist`)
+  }
   if (b.accent && !/^#[0-9a-fA-F]{6}$/.test(b.accent)) err(f, 'accent must be a #rrggbb colour')
   if (!Array.isArray(b.sections) || b.sections.length === 0) err(f, 'sections must be a non-empty array')
   if (!b.unitTitles || typeof b.unitTitles !== 'object') err(f, 'unitTitles must be an object')

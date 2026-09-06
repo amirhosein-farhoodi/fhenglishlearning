@@ -1,0 +1,172 @@
+{
+  "number": 145,
+  "title": "Phrasal verbs 9: away/back",
+  "subtitle": "drive away / give back",
+  "summary": "Learn phrasal verbs with away (moving or going from a place) and back (returning, or doing the same thing in return).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "away or back?",
+      "left": {
+        "label": "away = away from home or from a place",
+        "examples": [
+          "We're going **away** on holiday today.",
+          "Sarah got into her car, started the engine and **drove away**.",
+          "I tried to take a picture of the bird, but it **flew away**.",
+          "The police searched the house and **took away** a computer."
+        ]
+      },
+      "right": {
+        "label": "back = back home or back to a place",
+        "examples": [
+          "We'll be **back** in three weeks.",
+          "*A:* I'm going out now. *B:* What time will you be **back**?",
+          "After eating at a restaurant, we **walked back** to our hotel.",
+          "I've still got Jane's keys. I forgot to **give them back** to her."
+        ]
+      },
+      "note": "In the same way you can say walk away, run away, look away ... and go back, come back, get back, take something back."
+    },
+    {
+      "type": "explain",
+      "heading": "get away, get away with, keep away",
+      "text": "**get away** = escape, leave with difficulty. **get away with something** = do something wrong without being caught. **keep away (from ...)** = don't go near.",
+      "examples": [
+        { "text": "We tried to catch the thief, but she **got away**." },
+        { "text": "I parked in a no-parking zone, but I **got away with it**. I didn't have to pay a fine." },
+        { "text": "**Keep away** from the edge of the pool. You might fall in." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "give away, put away, throw away",
+      "text": "**give something away** = give it to somebody because you don't want it any more. **put something away** = put it in the place where it is usually kept. **throw something away** = put it in the rubbish.",
+      "examples": [
+        { "text": "*A:* Did you sell your bike? *B:* No, I **gave it away** to a friend." },
+        { "text": "When the children finished playing with their toys, they **put them away**." },
+        { "text": "I kept the letter, but I **threw away** the envelope." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wave back, smile back",
+      "text": "**back** can also mean doing the same thing in return: **wave back**, **smile back**, **shout back**, **hit somebody back**.",
+      "examples": [
+        { "text": "I waved to her, and she **waved back**." },
+        { "text": "He wasn't very friendly. I smiled at him, but he didn't **smile back**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "call back, get back to, look back, pay back",
+      "text": "**call/phone/ring (somebody) back** = return a phone call. **get back to somebody** = reply to them. **look back (on something)** = think about what happened in the past. **pay back** money, **pay somebody back** = return money you borrowed.",
+      "examples": [
+        { "text": "I can't talk to you now. I'll **call you back** in ten minutes." },
+        { "text": "I sent him an email, but he never **got back to** me." },
+        { "text": "My first job was in a travel agency. I didn't like it much at the time but, **looking back on it**, I learnt a lot." },
+        { "text": "If you borrow money, you have to **pay it back**." },
+        { "text": "Thanks for lending me the money. I'll **pay you back** next week." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Careful with *give away* and *give back*: you give something away to somebody who can keep it, but you give something back to its owner."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She waved to him and he ___.",
+      "hint": "(wave)",
+      "answers": ["waved back"],
+      "explanation": "back can mean doing the same thing in return: he waved back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was windy. I dropped a twenty-pound note and it ___.",
+      "hint": "(blow)",
+      "answers": ["blew away"],
+      "explanation": "blow away = be carried away by the wind."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She opened the letter, read it and ___ in the envelope.",
+      "hint": "(put)",
+      "answers": ["put it back"],
+      "explanation": "put something back = return it to where it was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His shoes were worn out, so he ___.",
+      "hint": "(throw)",
+      "answers": ["threw them away"],
+      "explanation": "throw something away = put it in the rubbish."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I saw a man trying to break into a car. When he saw me, he ___.",
+      "options": ["ran away", "ran back", "got back"],
+      "answer": 0,
+      "explanation": "run away = leave quickly to escape."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be careful! That's an electric fence. Make sure you ___ from it.",
+      "hint": "(keep)",
+      "answers": ["keep away", "keep back"],
+      "explanation": "keep away from something = don't go near it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jane doesn't do anything at work. I don't know how she ___ with it.",
+      "hint": "(get)",
+      "answers": ["gets away"],
+      "explanation": "get away with something = do something wrong without being caught."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What happened to all the books you used to have? *B:* I didn't want them any more, so I ___.",
+      "hint": "(give)",
+      "answers": ["gave them away"],
+      "explanation": "give something away = give it to somebody because you don't want it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Here's the money you asked me to lend you. *B:* Thanks. I'll ___ as soon as I can.",
+      "hint": "(pay)",
+      "answers": ["pay you back", "pay it back"],
+      "explanation": "pay somebody back = return the money you borrowed from them."
+    },
+    {
+      "type": "true_false",
+      "statement": "I sent him an email, but he never got back to me.",
+      "answer": true,
+      "explanation": "Correct. get back to somebody = reply to them."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "get away with something", "right": "do something wrong without being caught" },
+        { "left": "put something away", "right": "put it where it is usually kept" },
+        { "left": "throw something away", "right": "put it in the rubbish" },
+        { "left": "look back on something", "right": "think about what happened in the past" },
+        { "left": "call somebody back", "right": "return their phone call" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need away or back?",
+      "categories": ["away", "back"],
+      "items": [
+        { "text": "Sarah got into her car and drove ...", "category": 0 },
+        { "text": "I forgot to give Jane's keys ... to her.", "category": 1 },
+        { "text": "I tried to photograph the bird, but it flew ...", "category": 0 },
+        { "text": "After the meal we walked ... to our hotel.", "category": 1 },
+        { "text": "The police searched the house and took ... a computer.", "category": 0 },
+        { "text": "When you've finished with that book, put it ... on the shelf.", "category": 1 }
+      ]
+    }
+  ]
+}

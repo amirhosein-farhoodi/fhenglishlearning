@@ -1,0 +1,171 @@
+{
+  "number": 66,
+  "title": "to ... (afraid to do) and preposition + -ing (afraid of -ing)",
+  "subtitle": "afraid to do / afraid of doing",
+  "summary": "Learn when an adjective is followed by to ... and when it is followed by a preposition + -ing, with afraid, interested and sorry.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "afraid to (do)",
+      "text": "**I am afraid to do something** = I don't want to do it because it is dangerous or the result could be bad. So I don't do it.",
+      "examples": [
+        { "text": "This part of town is dangerous. People are **afraid to walk** here at night.", "note": "= they don't walk here at night because it is dangerous" },
+        { "text": "James was **afraid to tell** his parents what had happened.", "note": "= he didn't tell them because he thought they would be angry" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "afraid of (do)ing",
+      "text": "**I am afraid of something happening** = I am afraid that something bad will happen. Here you are not choosing to do something or not - you are worried about a possible result.",
+      "examples": [
+        { "text": "The path was icy, so we walked very carefully. We were **afraid of falling**.", "wrong": "afraid to fall", "note": "= we were afraid that we would fall" },
+        { "text": "I don't like dogs. I'm always **afraid of being** bitten.", "wrong": "afraid to be bitten" }
+      ],
+      "note": "So you are afraid to do something because you are afraid of something happening as a result: I was **afraid to go** near the dog because I was **afraid of being** bitten."
+    },
+    {
+      "type": "compare",
+      "heading": "interested in (do)ing and interested to (do)",
+      "left": {
+        "label": "interested in doing",
+        "text": "= I'm thinking of doing it, I would like to do it.",
+        "examples": [
+          "Let me know if you're **interested in joining** the club. (not to join)",
+          "I tried to sell my car, but nobody was **interested in buying** it. (not to buy)"
+        ]
+      },
+      "right": {
+        "label": "interested to hear / see / know",
+        "text": "= it was (or it would be) interesting for me.",
+        "examples": [
+          "I was **interested to hear** that Tanya left her job.",
+          "I'll ask Mike for his opinion. I would be **interested to know** what he thinks."
+        ]
+      },
+      "note": "This second structure is the same as surprised to ... / glad to ...: I was **surprised to hear** that Tanya left her job."
+    },
+    {
+      "type": "explain",
+      "heading": "sorry for ... and sorry to ...",
+      "text": "We use **sorry for (do)ing** to apologise for something we have done. We use **sorry to ...** to say that we regret something that happens, and also to apologise at the time we do something.",
+      "examples": [
+        { "text": "I'm **sorry for shouting** at you yesterday.", "wrong": "sorry to shout", "note": "you can also say: I'm sorry I shouted at you yesterday" },
+        { "text": "I'm **sorry to hear** that Nicky lost her job.", "wrong": "sorry for hearing" },
+        { "text": "I've enjoyed my stay here. I'll be **sorry to leave**." },
+        { "text": "I'm **sorry to bother** you, but I need to ask you a question." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "to ... or preposition + -ing?",
+      "columns": ["+ to (do)", "+ preposition + (do)ing"],
+      "rows": [
+        ["I want **to do** it / I'd like **to do** it", "I'm thinking **of doing** it"],
+        ["I hope **to do** it", "I dream **of doing** it"],
+        ["I failed **to do** it", "I succeeded **in doing** it"],
+        ["I allowed them **to do** it", "I prevented them **from doing** it"],
+        ["I plan **to do** it", "I'm looking forward **to doing** it"],
+        ["I promised **to do** it", "I insisted **on doing** it"]
+      ],
+      "note": "After a preposition (of, in, from, on, to ...) we always use -ing, never to + infinitive."
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is there a preposition before the verb? If yes, use -ing. Note that in *looking forward to*, the *to* is a preposition, so we say *looking forward to going*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The streets here are not safe at night, so a lot of people ___ out.",
+      "options": ["are afraid to go", "are afraid of go", "are afraid to going"],
+      "answer": 0,
+      "explanation": "They don't go out because it is dangerous: afraid to + infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We walked very carefully along the icy path. We were ___.",
+      "hint": "(afraid / fall)",
+      "answers": ["afraid of falling"],
+      "explanation": "We were afraid that we would fall, so: afraid of + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I thought she would be angry if I told her what had happened, so I was ___ her.",
+      "hint": "(afraid / tell)",
+      "answers": ["afraid to tell"],
+      "explanation": "I didn't tell her because I thought the result would be bad: afraid to + infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like dogs. I'm always afraid to be bitten.",
+      "answer": false,
+      "explanation": "I'm always afraid of being bitten. We are afraid of something bad happening to us, so we use afraid of + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't usually carry my passport with me. I'm ___ it.",
+      "hint": "(afraid / lose)",
+      "answers": ["afraid of losing"],
+      "explanation": "I'm afraid that I will lose it: afraid of + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If there's anything you want to know, you can ask me. Don't be ___.",
+      "hint": "(afraid / ask)",
+      "answers": ["afraid to ask"],
+      "explanation": "Don't decide not to ask: afraid to + infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Let me know if you're ___ the club.",
+      "options": ["interested in joining", "interested to join", "interested in join"],
+      "answer": 0,
+      "explanation": "You would like to do it, so: interested in + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nicola is ___ her own business.",
+      "hint": "(interested / start)",
+      "answers": ["interested in starting"],
+      "explanation": "She is thinking of doing it: interested in + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw Joe recently. You'll be ___ that he's getting married soon.",
+      "hint": "(interested / hear)",
+      "answers": ["interested to hear", "interested to know"],
+      "explanation": "It will be interesting for you to hear this news: interested to hear / know."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm ___ bad things about you. I didn't mean what I said.",
+      "hint": "(sorry / say)",
+      "answers": ["sorry for saying"],
+      "explanation": "You are apologising for something you did, so: sorry for + -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["I was afraid", "to go", "near the dog", "because I was afraid", "of being bitten."],
+      "answer": "I was afraid to go near the dog because I was afraid of being bitten.",
+      "explanation": "afraid to go = I didn't go; afraid of being bitten = I thought this bad thing would happen."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern follows each of these?",
+      "categories": ["+ to (do)", "+ preposition + (do)ing"],
+      "items": [
+        { "text": "I hope ...", "category": 0 },
+        { "text": "I dream ...", "category": 1 },
+        { "text": "I failed ...", "category": 0 },
+        { "text": "I succeeded ...", "category": 1 },
+        { "text": "I promised ...", "category": 0 },
+        { "text": "I insisted ...", "category": 1 },
+        { "text": "I allowed them ...", "category": 0 },
+        { "text": "I'm looking forward ...", "category": 1 }
+      ]
+    }
+  ]
+}

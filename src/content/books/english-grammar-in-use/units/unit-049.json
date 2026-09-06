@@ -1,0 +1,181 @@
+{
+  "number": 49,
+  "title": "Questions 1",
+  "subtitle": "Where do you live?",
+  "summary": "Build questions with the right word order, know when do/does/did is needed, put prepositions at the end, and use negative questions to show surprise.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The subject goes after the first verb",
+      "text": "In questions the subject is usually **after the first verb**. Nothing else moves.",
+      "examples": [
+        { "text": "**Will Tom** be here tomorrow?" },
+        { "text": "**Have you** been working hard?" },
+        { "text": "When **was the house** built?" },
+        { "text": "**Is Katherine** working today?", "wrong": "Is working Katherine" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Statement to question",
+      "columns": ["Statement", "Question"],
+      "rows": [
+        ["Tom **will** be here.", "**Will Tom** be here tomorrow?"],
+        ["You **have** been working hard.", "**Have you** been working hard?"],
+        ["The house **was** built in 1920.", "When **was the house** built?"],
+        ["You **live** near here.", "**Do you live** near here?"],
+        ["You **sold** your car.", "**Did you sell** your car?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do / does / did",
+      "text": "In present simple questions we use **do/does**, and in past simple questions we use **did**. After do/does/did, the main verb stays in its basic form.",
+      "examples": [
+        { "text": "**Do you live** near here?" },
+        { "text": "What time **does the film start**?" },
+        { "text": "**Did you sell** your car?" },
+        { "text": "Why **did the train stop**?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "who/what as object or subject",
+      "left": {
+        "label": "who = object (use did)",
+        "text": "Emma phoned somebody.",
+        "examples": ["**Who did Emma phone?**", "**Who did you hit?**", "**What did you fall over?**"]
+      },
+      "right": {
+        "label": "who = subject (no did)",
+        "text": "Somebody phoned Emma.",
+        "examples": ["**Who phoned Emma?**", "**Who wants** something to eat?", "**What happened** to you last night?", "How many people **came** to the party?"]
+      },
+      "note": "not Who does want ... , not What did happen ... , not Which bus does go ..."
+    },
+    {
+      "type": "explain",
+      "heading": "Prepositions at the end",
+      "text": "In questions beginning **who / what / which / where**, prepositions (in, for, to, with etc.) usually go at the **end**.",
+      "examples": [
+        { "text": "Where are you **from**?" },
+        { "text": "What was the weather **like**?" },
+        { "text": "Who do you want to speak **to**?" },
+        { "text": "Which job has Tina applied **for**?" },
+        { "text": "**To whom** do you wish to speak?", "note": "formal style only" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative questions",
+      "text": "We use negative questions especially to show surprise, or when we expect the listener to agree with us. Note that in the answer, *Yes* means 'yes, I do' and *No* means 'no, I don't'.",
+      "examples": [
+        { "text": "**Didn't you hear** the doorbell? I rang it three times." },
+        { "text": "*A:* **Haven't we met** before? *B:* Yes, I think we have." },
+        { "text": "*A:* Don't you want to go? *B:* **Yes.**", "note": "= Yes, I want to go" },
+        { "text": "**Why don't we** eat out tonight?", "wrong": "Why we don't eat" },
+        { "text": "**Why wasn't Emma** at work yesterday?", "wrong": "Why Emma wasn't" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If who or what is the person or thing *doing* the action, drop do/does/did completely: *What happened?* not ~~What did happen?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["When", "was", "this", "house", "built?"],
+      "answer": "When was this house built?",
+      "explanation": "The subject (this house) comes after the first verb (was)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to know Joe's job. You ask: What ___?",
+      "hint": "(you / do)",
+      "answers": ["do you do"],
+      "explanation": "Present simple questions need do/does + the basic verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Joe is married and you want to know for how long. You ask: How long ___ married?",
+      "hint": "(you / be)",
+      "answers": ["have you been"],
+      "explanation": "The marriage started in the past and continues, so we use the present perfect."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Somebody phoned Emma and you want to know who. What do you ask?",
+      "options": ["Who phoned Emma?", "Who did phone Emma?", "Who did Emma phone?"],
+      "answer": 0,
+      "explanation": "Here who is the subject, so we do not use did."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emma phoned somebody and you want to know who. You ask: Who ___?",
+      "hint": "(Emma / phone)",
+      "answers": ["did Emma phone"],
+      "explanation": "Here who is the object, so the question needs did + the basic verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each statement with the question you would ask about it.",
+      "pairs": [
+        { "left": "I'm looking for something.", "right": "What are you looking for?" },
+        { "left": "Sarah was with somebody.", "right": "Who was she with?" },
+        { "left": "This word means something.", "right": "What does it mean?" },
+        { "left": "Emma reminds me of somebody.", "right": "Who does she remind you of?" },
+        { "left": "I fell over something.", "right": "What did you fall over?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the correct order to make a question.",
+      "words": ["Why", "isn't", "Sue", "working", "today?"],
+      "answer": "Why isn't Sue working today?",
+      "explanation": "In a negative question, isn't stays together and the subject follows it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This book belongs to somebody and you want to know who. You ask: Who ___ to?",
+      "hint": "(it / belong)",
+      "answers": ["does it belong"],
+      "explanation": "The preposition to goes at the end of the question."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In each question, is the question word the subject or the object?",
+      "categories": ["Question word = subject", "Question word = object"],
+      "items": [
+        { "text": "Who lives in that house?", "category": 0 },
+        { "text": "What did you fall over?", "category": 1 },
+        { "text": "What fell off the shelf?", "category": 0 },
+        { "text": "Who was Sarah with?", "category": 1 },
+        { "text": "How many people came to the party?", "category": 0 },
+        { "text": "What does this word mean?", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Why you didn't come to the party?",
+      "answer": false,
+      "explanation": "Why didn't you come to the party? After why, the auxiliary still comes before the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You expected to see Lisa this evening, but your friend says you won't. Surprised, you ask: ___ out with us?",
+      "hint": "(she / come) - negative",
+      "answers": ["Isn't she coming"],
+      "explanation": "A negative question shows surprise: Isn't she coming ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your friend says, 'I'll have to borrow some money.' You are surprised and ask: Why? ___ any?",
+      "hint": "(you / have) - negative",
+      "answers": ["Don't you have", "Haven't you got"],
+      "explanation": "Another negative question of surprise: Don't you have any? / Haven't you got any?"
+    }
+  ]
+}

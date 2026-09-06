@@ -1,0 +1,170 @@
+{
+  "number": 94,
+  "title": "Relative clauses 3: whose/whom/where",
+  "subtitle": "whose car / whom I met / where I grew up",
+  "summary": "Use whose for possession, whom as a formal object pronoun for people, and where for places in relative clauses.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "whose",
+      "text": "When we were driving home, we saw some people standing by the road. Their car had broken down, so we stopped to help them: *We helped some people **whose car had broken down**.* **Whose** replaces *his / her / their* and is used mostly for people.",
+      "examples": [
+        { "text": "A widow is a woman **whose husband** is dead.", "note": "her husband is dead" },
+        { "text": "I met someone **whose brother** I went to school with.", "note": "I went to school with his or her brother" },
+        { "text": "This school is only for children **whose first language** is not English." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "who or whose?",
+      "left": {
+        "label": "who",
+        "text": "who = he / she / they",
+        "examples": [
+          "I met a man **who** knows you.",
+          "I met a couple **who** have just got married.",
+          "I met a man **who** owns a restaurant."
+        ]
+      },
+      "right": {
+        "label": "whose",
+        "text": "whose = his / her / their",
+        "examples": [
+          "I met a man **whose** sister knows you.",
+          "I met somebody **whose** mother writes detective stories.",
+          "I met somebody **whose** parents used to work in a circus."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "whose is not who's",
+      "text": "**Whose** and **who's** sound the same, but **who's** = *who is* or *who has*.",
+      "examples": [
+        { "text": "I have a friend **who's** learning Arabic.", "note": "who's = who is" },
+        { "text": "I have a friend **who's** just started learning Arabic.", "note": "who's = who has" },
+        { "text": "I have a friend **whose** sister is learning Arabic." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whom",
+      "text": "**Whom** is possible instead of *who* when it is the **object** of the verb. You can also use a preposition + whom. Whom is formal and we rarely use it in spoken English.",
+      "examples": [
+        { "text": "George is a person **whom I admire** very much.", "note": "I admire him" },
+        { "text": "It's important to have friends **with whom** you can relax.", "note": "you can relax with them" },
+        { "text": "Less formal: a person **I admire** a lot, or friends **you can relax with**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "where",
+      "text": "We use **where** in a relative clause to talk about a place.",
+      "examples": [
+        { "text": "I recently went back to the town **where I grew up**.", "note": "I grew up there" },
+        { "text": "The restaurant **where we had lunch** was near the airport." },
+        { "text": "I would like to live in a place **where there is** plenty of sunshine." },
+        { "text": "A cemetery is a place **where people are buried**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the day, the time, the reason",
+      "text": "We say *the day we got married*, *the year I was born*, *the last time they met*, *the reason I'm calling you* - with no relative pronoun at all. You can also add **that**.",
+      "examples": [
+        { "text": "I can't meet you on Friday. That's **the day I'm going away**." },
+        { "text": "**The last time I saw** her, she looked great.", "note": "or The last time that I saw her ..." },
+        { "text": "**The reason I'm calling** you is to ask your advice.", "note": "or The reason that / why I'm calling you ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Whose is always followed by a noun (whose car, whose name); where is followed by a complete clause with no missing object."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We helped some people ___ car had broken down.",
+      "answers": ["whose"],
+      "explanation": "Their car had broken down, so we use whose + noun."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I met a man ___ sister knows you.",
+      "options": ["whose", "who", "who's"],
+      "answer": 0,
+      "explanation": "His sister knows you, so we need whose (possession), not who."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its definition.",
+      "pairs": [
+        { "left": "a widow", "right": "a woman whose husband is dead" },
+        { "left": "an orphan", "right": "a child whose parents are dead" },
+        { "left": "a pacifist", "right": "a person who believes that all wars are wrong" },
+        { "left": "a cemetery", "right": "a place where people are buried" },
+        { "left": "a friendly village", "right": "a place where everybody knows everybody else" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the name of the hotel ___ your parents are staying?",
+      "answers": ["where"],
+      "explanation": "A hotel is a place, so we use where."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This school is only for children ___ first language is not English.",
+      "answers": ["whose"],
+      "explanation": "Their first language is not English, so we use whose."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I have a friend ___ just started learning Arabic.",
+      "options": ["who's", "whose", "whom"],
+      "answer": 0,
+      "explanation": "Who's = who has here. Whose would need a noun after it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "At a party you met a person and her mother writes detective stories. Tell a friend about it.",
+      "words": ["I met", "somebody", "whose", "mother", "writes", "detective stories"],
+      "answer": "I met somebody whose mother writes detective stories",
+      "explanation": "Whose replaces her: her mother writes detective stories."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the party I met a couple ___ just got married.",
+      "hint": "(who / have)",
+      "answers": ["who have", "who've", "that have"],
+      "explanation": "The couple have just got married - the relative pronoun is the subject, so we use who."
+    },
+    {
+      "type": "true_false",
+      "statement": "George is a person whom I admire very much.",
+      "answer": true,
+      "explanation": "Correct. Whom is the object of admire, so it is possible here (though who or nothing is more usual in speech)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The person from ___ I bought my car is a friend of my father's.",
+      "answers": ["whom"],
+      "explanation": "After a preposition we use whom, not who."
+    },
+    {
+      "type": "true_false",
+      "statement": "The person to who I spoke wasn't very helpful.",
+      "answer": false,
+      "explanation": "The person to whom I spoke wasn't very helpful (or, less formally, The person I spoke to wasn't very helpful)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The last time ___ her, she looked great.",
+      "hint": "(I / see)",
+      "answers": ["I saw", "that I saw"],
+      "explanation": "After the last time we need no relative pronoun at all - or we can add that."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "number": 109,
+  "title": "Word order 1: verb + object; place and time",
+  "subtitle": "I like my job very much",
+  "summary": "Learn where to put the object, the place and the time in an English sentence: verb + object, then place, then time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + object stay together",
+      "text": "The verb and its object normally go together. We do not usually put other words between them.",
+      "examples": [
+        { "text": "I like **my job** very much.", "wrong": "I like very much my job" },
+        { "text": "Our guide spoke **English** fluently.", "wrong": "spoke fluently English" },
+        { "text": "I didn't use **my phone** yesterday.", "wrong": "didn't use yesterday my phone" },
+        { "text": "Do you eat **meat** every day?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two more examples",
+      "text": "Words like *also* and phrases like *on your left* must not come between the verb and its object either.",
+      "examples": [
+        { "text": "I lost all my money and I **also lost my passport**.", "wrong": "I lost also my passport" },
+        { "text": "At the end of this street you'll **see a supermarket on your left**.", "wrong": "see on your left a supermarket" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Place (where?)",
+      "text": "The verb and the place normally go together: **go home**, **live in a city**, **walk to work**. If the verb has an object, the order is **verb + object + place**.",
+      "examples": [
+        { "text": "We took **the children to the zoo**.", "wrong": "took to the zoo the children" },
+        { "text": "Don't put **anything on the table**." },
+        { "text": "Did you learn **English at school**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The usual order",
+      "columns": ["Subject + verb", "Object", "Place", "Time"],
+      "rows": [
+        ["Ben walks", "", "to work", "every morning"],
+        ["I'm going", "", "to Paris", "on Monday"],
+        ["Sarah gave", "me a lift", "home", "after the party"],
+        ["We need to be", "", "at the airport", "by 8 o'clock"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Time (when? / how often? / how long?)",
+      "text": "Time normally goes **after** place, at the end of the sentence.",
+      "examples": [
+        { "text": "Ben walks to work **every morning**.", "wrong": "walks every morning to work" },
+        { "text": "They've lived in the same house **for a long time**." },
+        { "text": "You really shouldn't go to bed **so late**." },
+        { "text": "Sarah gave me a lift home **after the party**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Time at the beginning",
+      "text": "Sometimes we put the time expression at the beginning of the sentence instead, especially to give it more importance.",
+      "examples": [
+        { "text": "**On Monday** I'm going to Paris." },
+        { "text": "**After the party** Sarah gave me a lift home." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A simple order to remember: verb - object - where - when. Never split the verb from its object."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Ben walks every morning to work.",
+      "answer": false,
+      "explanation": "Ben walks to work every morning. Place comes before time."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tanya speaks German quite well.",
+      "answer": true,
+      "explanation": "Correct. The object (German) comes straight after the verb, and quite well follows it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Joe doesn't like very much football.",
+      "answer": false,
+      "explanation": "Joe doesn't like football very much. Nothing goes between the verb and its object."
+    },
+    {
+      "type": "true_false",
+      "statement": "Have you seen recently Chris?",
+      "answer": false,
+      "explanation": "Have you seen Chris recently? The object comes before the time expression."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the parts in the correct order.",
+      "words": ["I", "forgot", "to put", "a stamp", "on the envelope."],
+      "answer": "I forgot to put a stamp on the envelope.",
+      "explanation": "Verb + object (a stamp) + place (on the envelope)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the parts in the correct order.",
+      "words": ["Did you", "learn", "a lot of things", "at school", "today?"],
+      "answer": "Did you learn a lot of things at school today?",
+      "explanation": "Object, then place (at school), then time (today)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the parts in the correct order.",
+      "words": ["Sarah", "takes", "her children", "to school", "every day."],
+      "answer": "Sarah takes her children to school every day.",
+      "explanation": "Verb + object + place + time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence has the correct word order?",
+      "options": [
+        "I ate my breakfast quickly and went out.",
+        "I ate quickly my breakfast and went out.",
+        "I ate my quickly breakfast and went out."
+      ],
+      "answer": 0,
+      "explanation": "The adverb quickly cannot come between the verb ate and its object my breakfast."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the parts in the correct order.",
+      "words": ["My", "brother", "has been", "in Canada", "since April."],
+      "answer": "My brother has been in Canada since April.",
+      "explanation": "Place (in Canada) before time (since April)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence has the correct word order?",
+      "options": [
+        "I didn't see you at the party on Saturday night.",
+        "I didn't see you on Saturday night at the party.",
+        "I didn't see at the party you on Saturday night."
+      ],
+      "answer": 0,
+      "explanation": "Object (you), then place (at the party), then time (on Saturday night)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the ending that has the right word order.",
+      "pairs": [
+        { "left": "The moon goes", "right": "round the earth every 27 days." },
+        { "left": "Lisa left her umbrella", "right": "in a restaurant last night." },
+        { "left": "We walked", "right": "around the town all morning." },
+        { "left": "I remembered her name", "right": "after a few minutes." },
+        { "left": "Please write your name", "right": "at the top of the page." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each phrase answer 'where?' or 'when? / how long?'",
+      "categories": ["Place (where?)", "Time (when? / how long?)"],
+      "items": [
+        { "text": "to the zoo", "category": 0 },
+        { "text": "every morning", "category": 1 },
+        { "text": "in the market", "category": 0 },
+        { "text": "since April", "category": 1 },
+        { "text": "at the top of the page", "category": 0 },
+        { "text": "for the last three years", "category": 1 }
+      ]
+    }
+  ]
+}

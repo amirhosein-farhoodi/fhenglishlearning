@@ -17,6 +17,8 @@ Currently included: **English Grammar in Use** (145 units, based on Raymond Murp
 - **When you fail a quiz** you get three ways forward: review the lesson, see the answers, or move on
   to the next lesson (plus "try again").
 - **Offline-friendly, no accounts.** Reset progress from the home page footer.
+- **Optional tip jar** on the home page: USDT on Ethereum (sent straight from MetaMask) or USDT on
+  TRON (TronLink, or copy the address for any TRC-20 wallet).
 - Responsive, light/dark aware, keyboard-accessible.
 
 ## Tech
@@ -57,6 +59,13 @@ content-src/<slug>/raw/      # extraction output (git-ignored, regenerate any ti
 source-books/                # put PDFs here (git-ignored)
 ```
 
+## Donations
+
+The tip jar lives in `src/components/Donate.tsx`. To change the wallets, edit the `NETWORKS`
+array at the top of that file (address, USDT token contract, decimals). Amounts are the `AMOUNTS`
+array. Ethereum uses an ERC-20 `transfer` through MetaMask; TRON uses TronLink, because MetaMask
+cannot send TRON. Copying the address always works with any wallet.
+
 ## Adding another book
 
 The app has no hard-coded book list. Any folder under `src/content/books/` with a valid
@@ -73,12 +82,13 @@ fans out the unit authoring to subagents using `tools/prompts/author-unit.md`, v
 
 ### The manual way
 
-1. Put the PDF in `source-books/` and run
+1. Put the PDF in `source-books/` and its cover image in `public/covers/`, then run
    `python tools/extract_book.py source-books/my-book.pdf --slug my-book --units 120`
    (requires `pdftotext` from poppler on your PATH). This writes
    `content-src/my-book/raw/unit-001.md ...`, each with the lesson page, exercise page and answer key.
    Use `--first-page`, `--pages-per-unit`, `--key-marker` or `--no-key` if the book's layout differs.
 2. Create `src/content/books/my-book/book.json` (schema: `BookMeta` in `src/content/types.ts`).
+   Set `cover` to `/covers/my-book.jpg` so the real book cover shows on the home page.
 3. For each raw unit, write `src/content/books/my-book/units/unit-NNN.json` by following
    `tools/prompts/author-unit.md` (paste the prompt plus the raw unit into any capable LLM, or write it by hand).
    `unit-001.json` of the grammar book is the golden example.

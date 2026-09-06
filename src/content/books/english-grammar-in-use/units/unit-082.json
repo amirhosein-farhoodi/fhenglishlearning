@@ -1,0 +1,171 @@
+{
+  "number": 82,
+  "title": "myself/yourself/themselves etc.",
+  "subtitle": "I hurt myself",
+  "summary": "Use myself/yourself/himself etc. when the subject and the object are the same person, and use each other when two people do something to one another.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Subject and object are the same",
+      "text": "At a party Steve says *'Hi, I'm Steve.'* **Steve introduced himself** to the other guests. We use **myself/yourself/himself** etc. (reflexive pronouns) when the subject and the object of the verb are the same person.",
+      "examples": [
+        { "text": "I don't want you to pay for me. I'll pay for **myself**.", "wrong": "I'll pay for me" },
+        { "text": "Amy had a great holiday. She really enjoyed **herself**." },
+        { "text": "Do you talk to **yourself** sometimes?", "note": "said to one person" },
+        { "text": "If you want more to eat, help **yourselves**.", "note": "said to more than one person" }
+      ],
+      "note": "Compare: Lisa introduced **me** to the other guests. / I introduced **myself** to the other guests."
+    },
+    {
+      "type": "table",
+      "heading": "The reflexive pronouns",
+      "columns": ["Person", "-self (singular)", "-selves (plural)"],
+      "rows": [
+        ["I / we", "myself", "ourselves"],
+        ["you", "yourself (one person)", "yourselves (more than one)"],
+        ["he / she / it / they", "himself, herself, itself", "themselves"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that do not take myself etc.",
+      "text": "We do not use **myself/yourself** etc. after **feel, relax, concentrate** or **meet**. And we normally do not use them after **wash, shave** and **dress** either.",
+      "examples": [
+        { "text": "I **feel** nervous. I can't **relax**.", "wrong": "I can't relax myself" },
+        { "text": "You need to **concentrate**.", "wrong": "concentrate yourself" },
+        { "text": "What time shall we **meet** tomorrow?", "wrong": "meet ourselves" },
+        { "text": "He got up, **washed**, **shaved** and **dressed**.", "wrong": "washed himself, shaved himself" }
+      ],
+      "note": "You can also say **get dressed**: He **got dressed** and went out."
+    },
+    {
+      "type": "compare",
+      "heading": "-selves or each other?",
+      "left": {
+        "label": "themselves",
+        "text": "Each person does something to himself or herself.",
+        "examples": [
+          "Kate and Joe stood in front of the mirror and looked at **themselves**.",
+          "Some people only think of **themselves**.",
+          "If people work too hard, they can make **themselves** ill."
+        ]
+      },
+      "right": {
+        "label": "each other",
+        "text": "The two people do something to one another.",
+        "examples": [
+          "Kate looked at Joe, and Joe looked at Kate. They looked at **each other**.",
+          "How long have you and Ben known **each other**?",
+          "Sue and Alice don't like **each other**."
+        ]
+      },
+      "note": "You can use **one another** instead of **each other**: Do they live near each other? or ... near one another?"
+    },
+    {
+      "type": "explain",
+      "heading": "myself etc. for emphasis",
+      "text": "We also use **myself/yourself** etc. to emphasise a word - to say *this person and not another person*. *'Who repaired your bike?'* *'I repaired it **myself**.'* = I repaired it, nobody else did.",
+      "examples": [
+        { "text": "I'm not going to do your work for you. You can do it **yourself**.", "note": "= you, not me" },
+        { "text": "Let's paint the house **ourselves**. It will be much cheaper." },
+        { "text": "The film **itself** wasn't very good, but I loved the music." },
+        { "text": "Lisa doesn't think so **herself**. or Lisa **herself** doesn't think so." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself who does what: if the person doing the action and the person receiving it are the same, use -self/-selves; if two people do it to one another, use each other."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Amy had a great holiday. She really ___.",
+      "options": ["enjoyed herself", "enjoyed her", "enjoyed"],
+      "answer": 0,
+      "explanation": "The subject (she) and the object are the same person, so we use the reflexive pronoun herself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben fell down some steps, but fortunately he didn't ___.",
+      "hint": "(hurt)",
+      "answers": ["hurt himself"],
+      "explanation": "Ben is the person who is hurt, so the object is himself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It isn't Sue's fault. She really shouldn't ___.",
+      "hint": "(blame)",
+      "answers": ["blame herself"],
+      "explanation": "Sue would be blaming Sue, so subject and object are the same: blame herself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not my fault. You can't blame ___.",
+      "answers": ["me"],
+      "explanation": "You and me are different people, so we use me, not myself."
+    },
+    {
+      "type": "true_false",
+      "statement": "I climbed out of the swimming pool and dried myself with a towel.",
+      "answer": true,
+      "explanation": "Correct. I dried me, so the reflexive pronoun myself is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "I tried to study, but I couldn't concentrate myself.",
+      "answer": false,
+      "explanation": "I tried to study, but I couldn't concentrate. We do not use myself after concentrate."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be careful! That pan is hot. Don't ___.",
+      "hint": "(burn)",
+      "answers": ["burn yourself"],
+      "explanation": "Said to one person, so the reflexive pronoun is yourself."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these verbs normally take myself/yourself etc. when the subject and object are the same, and which never take them?",
+      "categories": ["Takes myself/yourself etc.", "No reflexive pronoun"],
+      "items": [
+        { "text": "enjoy", "category": 0 },
+        { "text": "relax", "category": 1 },
+        { "text": "hurt", "category": 0 },
+        { "text": "concentrate", "category": 1 },
+        { "text": "express", "category": 0 },
+        { "text": "meet", "category": 1 },
+        { "text": "blame", "category": 0 },
+        { "text": "feel", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How long have you and Ben known ___?",
+      "answers": ["each other", "one another"],
+      "explanation": "You know Ben and Ben knows you, so we say each other (or one another)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Some people are selfish. They only think of ___.",
+      "options": ["themselves", "each other", "them"],
+      "answer": 0,
+      "explanation": "Each selfish person thinks about that same person, not about one another: themselves."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You didn't buy this cake from a shop. Say who made it.",
+      "words": ["I", "made", "it", "myself"],
+      "answer": "I made it myself",
+      "explanation": "Here myself emphasises I - I made it, not a shop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Who told you Laura was going away?' 'Laura ___.'",
+      "hint": "(tell)",
+      "answers": ["told me herself", "herself told me"],
+      "explanation": "Herself emphasises Laura: Laura told me, nobody else did."
+    }
+  ]
+}

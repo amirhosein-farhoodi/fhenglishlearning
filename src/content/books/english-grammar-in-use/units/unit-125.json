@@ -1,0 +1,181 @@
+{
+  "number": 125,
+  "title": "in/at/on (position) 3",
+  "subtitle": "in hospital / at work / on a bus",
+  "summary": "Learn where to use in, at and on with places like bed, work and school, with events, buildings, towns and forms of transport.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in bed / at work",
+      "text": "We say that somebody is **in bed / in hospital / in prison**, but **at home / at work / at school / at university / at college**.",
+      "examples": [
+        { "text": "James isn't up yet. He's still **in bed**." },
+        { "text": "Anna's mother is **in hospital**." },
+        { "text": "I'll be **at work** until 5.30." },
+        { "text": "My sister is **at university**. My brother is still **at school**." }
+      ],
+      "note": "We say **be at home** or **be home** (with or without at), but **do something at home** (with at): I'll be home all evening. Shall we go to a restaurant or eat **at home**?"
+    },
+    {
+      "type": "explain",
+      "heading": "at a party / at a concert",
+      "text": "We say that somebody is **at** an event - a party, a meeting, a wedding, a conference, a concert.",
+      "examples": [
+        { "text": "Were there many people **at the party** / **at the meeting** / **at the wedding**?" },
+        { "text": "I saw Steve **at a conference** / **at a concert** on Saturday." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in and at for buildings",
+      "text": "You can often use **in** or **at** with buildings: you can eat **in** a restaurant or **at** a restaurant. We usually use **at** when we say where an event takes place, and **in** when we are thinking about the building itself.",
+      "left": {
+        "label": "at = the place of the event",
+        "examples": [
+          "We went to a concert **at the National Concert Hall**.",
+          "There was a robbery **at the supermarket**.",
+          "I was **at Helen's (house)** last night.",
+          "We had dinner **at the hotel**."
+        ]
+      },
+      "right": {
+        "label": "in = the building itself",
+        "examples": [
+          "It's always cold **in Helen's house**. The heating doesn't work well.",
+          "All the rooms **in the hotel** have air conditioning.",
+          "It was really cold **in the cinema**."
+        ]
+      },
+      "note": "We say **at the station** / **at the airport**: There's no need to meet me **at the station**. We also say **at the doctor's**, **at the hairdresser's**."
+    },
+    {
+      "type": "compare",
+      "heading": "in and at for towns",
+      "left": {
+        "label": "in = cities, towns and villages",
+        "examples": [
+          "The Louvre is a famous art museum **in Paris**.",
+          "Sam's parents live **in a village** in the south of France."
+        ]
+      },
+      "right": {
+        "label": "at = a point or station on a journey",
+        "examples": [
+          "Does this train stop **at Oxford**? (= at Oxford station)",
+          "It was a very slow train. It stopped **at every station**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "on a bus / in a car",
+      "text": "We usually say **on a bus / on a train / on a plane / on a ship**, but **in a car / in a taxi**. We also say **on a bike / on a motorbike / on a horse**.",
+      "examples": [
+        { "text": "The bus was very full. There were too many people **on it**." },
+        { "text": "Laura arrived **in a taxi**." },
+        { "text": "Jane passed me **on her bike**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Big things you can walk about in take on (on a train, on a plane); small things you get into take in (in a car, in a taxi)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Some people are ___ for crimes that they did not commit.",
+      "hint": "(prison)",
+      "answers": ["in prison"],
+      "explanation": "We say in prison, in hospital and in bed - without the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Joe wasn't ___ the party. I don't know why he didn't go.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "We use at for events: at the party, at the meeting, at a concert."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We walked to the restaurant, but we went home ___.",
+      "hint": "(a taxi)",
+      "answers": ["in a taxi"],
+      "explanation": "We say in a car and in a taxi (but on a bus, on a train)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I enjoyed the flight, but the food ___ was awful.",
+      "hint": "(the plane)",
+      "answers": ["on the plane"],
+      "explanation": "We say on a plane, on a bus, on a train and on a ship."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the sentence that follows it.",
+      "pairs": [
+        { "left": "James isn't up yet.", "right": "He's still in bed." },
+        { "left": "Anna's mother is ill.", "right": "She's in hospital." },
+        { "left": "Vicky has gone to Japan.", "right": "She's living in Tokyo." },
+        { "left": "Jane passed me this morning.", "right": "She was on her bike." },
+        { "left": "Judy is having her hair cut.", "right": "She's at the hairdresser's." },
+        { "left": "Laura didn't walk here.", "right": "She arrived in a taxi." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was a very slow train. It stopped ___ every station.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "A station is a point on a journey, so we say at every station."
+    },
+    {
+      "type": "true_false",
+      "statement": "The bus was very full. There were too many people in it.",
+      "answer": false,
+      "explanation": "There were too many people on it. We say on a bus, not in a bus."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Does your sister have a job?' 'No, she's only 16. She's still ___.'",
+      "hint": "(school)",
+      "answers": ["at school"],
+      "explanation": "We say at school, at university and at college."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each place?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "bed", "category": 0 },
+        { "text": "prison", "category": 0 },
+        { "text": "a taxi", "category": 0 },
+        { "text": "the airport", "category": 1 },
+        { "text": "a conference", "category": 1 },
+        { "text": "a train", "category": 2 },
+        { "text": "his motorbike", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We went to see a film last night. It was really cold ___ the cinema.",
+      "options": ["in", "at", "on"],
+      "answer": 0,
+      "explanation": "Here we are thinking about the building itself, so we use in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vicky has gone to Japan. She's living ___.",
+      "hint": "(Tokyo)",
+      "answers": ["in Tokyo"],
+      "explanation": "We use in with cities, towns and villages."
+    },
+    {
+      "type": "true_false",
+      "statement": "The meeting took place at the company's head office in Frankfurt.",
+      "answer": true,
+      "explanation": "Correct. At shows where the event happened; in is used with the city."
+    }
+  ]
+}

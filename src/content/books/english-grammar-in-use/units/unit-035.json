@@ -1,0 +1,166 @@
+{
+  "number": 35,
+  "title": "I'd better ... / it's time ...",
+  "subtitle": "I'd better go now.",
+  "summary": "Use had better to say what is advisable in a specific situation, and it's time somebody did something to say that something is already overdue.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "had better (I'd better / you'd better)",
+      "text": "**I'd better do something** = it is advisable to do it. If I don't do it, there will be a problem or a danger.",
+      "examples": [
+        { "text": "I have to meet Amy in ten minutes. **I'd better go** now or I'll be late." },
+        { "text": "*A:* Shall I take an umbrella? *B:* Yes, **you'd better**. It might rain." },
+        { "text": "**We'd better stop** for petrol soon. The tank is almost empty." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The negative: I'd better not",
+      "text": "The negative is **I'd better not** (= I had better not). Note the word order: better comes before not.",
+      "examples": [
+        { "text": "*A:* That jacket looks good on you. Are you going to buy it? *B:* **I'd better not.** It's very expensive." },
+        { "text": "You don't look very well. **You'd better not go** out tonight." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three things to remember",
+      "text": "**I'd better = I had better**, so the question tag is *hadn't I?* Had is normally past, but had better is for the present or future, never the past. And we say *I'd better do* - not *to do*.",
+      "examples": [
+        { "text": "**I'd better** phone Chris, **hadn't I**?" },
+        { "text": "**We had better** go now." },
+        { "text": "I'd better go now / tomorrow.", "note": "present or future, never the past" },
+        { "text": "It might rain. We'd better **take** an umbrella.", "wrong": "We'd better to take" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "had better and should",
+      "left": {
+        "label": "had better",
+        "text": "Only for a specific situation, and there is a problem or a danger if you don't do it.",
+        "examples": ["The film starts at 8.30. **You'd better go** now or you'll miss the beginning.", "It's late. **You'd better go**."]
+      },
+      "right": {
+        "label": "should",
+        "text": "Any situation, general or specific. It only means 'it is a good thing to do'.",
+        "examples": ["You're always at home. **You should go** out more often.", "It's a great film. **You should go** and see it."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "it's time ...",
+      "text": "You can say **It's time (for somebody) to ...** . You can also say **It's time we went** - with a past verb but a present meaning.",
+      "examples": [
+        { "text": "**It's time to go** home." },
+        { "text": "**It's time for us to go** home." },
+        { "text": "It's late. **It's time we went** home." },
+        { "text": "**It's time they were** here. Why are they so late?", "wrong": "It's time they are here" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It's time somebody did something",
+      "text": "**It's time somebody did something** = they should have already done it or started it. We often use this to criticise or to complain. You can also say **It's about time ...** .",
+      "examples": [
+        { "text": "This situation can't continue. **It's time you did** something about it." },
+        { "text": "He's very selfish. **It's time he realised** that he isn't the most important person in the world." },
+        { "text": "Jack is a great talker, but **it's about time he did** something instead of just talking." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After it's time + subject, use a past form even though you mean now: *It's time the children were in bed.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You and Kate plan to go to a restaurant tonight and it will be busy. You say to Kate: We ___ a table.",
+      "hint": "('d better / reserve)",
+      "answers": ["'d better reserve", "had better reserve"],
+      "explanation": "There will be a problem if you don't do it, so use 'd better + infinitive without to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Oliver has just cut himself. It's bleeding and he'll need a plaster. You say to him: You ___ a plaster on it.",
+      "hint": "('d better / put)",
+      "answers": ["'d better put", "had better put"],
+      "explanation": "'d better is used for advice in a specific situation like this one."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you say.",
+      "pairs": [
+        { "left": "You are going for a walk and it looks as if it might rain.", "right": "We'd better take an umbrella." },
+        { "left": "You need to talk to your boss, but she's very busy right now.", "right": "I'd better not disturb her right now." },
+        { "left": "You're going to the cinema, but you're not sure what time the film starts.", "right": "I'd better check what time the film starts." },
+        { "left": "Ben needs to know what happened.", "right": "Somebody had better tell him." },
+        { "left": "The road is too narrow to leave a car in.", "right": "We'd better not park the car here." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rebecca doesn't look well this morning - not well enough to go to work. You say to her: You ___ to work this morning.",
+      "hint": "('d better / go) - negative",
+      "answers": ["'d better not go", "had better not go"],
+      "explanation": "The negative is 'd better not + verb (better comes before not)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It might rain. We'd better ___ an umbrella.",
+      "options": ["take", "to take", "taking"],
+      "answer": 0,
+      "explanation": "We say I'd better do (not to do), so: We'd better take an umbrella."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm glad you came to see us. You'd better come more often.",
+      "answer": false,
+      "explanation": "You should come more often. This is a general suggestion, not a specific situation with a danger, so had better is wrong."
+    },
+    {
+      "type": "true_false",
+      "statement": "We've just missed the last bus. We'd better get a taxi.",
+      "answer": true,
+      "explanation": "Correct. It is a specific situation and there is a problem if you don't get a taxi."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We'd better leave as soon as possible, ___ we?",
+      "hint": "(question tag)",
+      "answers": ["hadn't"],
+      "explanation": "I'd better = I had better, so the tag is hadn't we?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "You're always at home. You ___ out more often.",
+      "options": ["should go", "'d better go", "had better to go"],
+      "answer": 0,
+      "explanation": "This is advice about life in general, not one specific situation, so should is right - not had better."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's 10 o'clock and it's after the children's bedtime. It's time ___ in bed.",
+      "hint": "(the children / be)",
+      "answers": ["the children were"],
+      "explanation": "After it's time + subject we use a past form, but the meaning is present."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You haven't had a holiday for a very long time. You need one now. It's time ___ a holiday.",
+      "hint": "(I / have)",
+      "answers": ["I had"],
+      "explanation": "It's time I had a holiday = I should have had one already."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Kate is always complaining about everything and you think she complains too much. What do you say?",
+      "words": ["It's", "time", "she", "stopped", "complaining", "about", "everything."],
+      "answer": "It's time she stopped complaining about everything.",
+      "explanation": "It's time somebody did something is often used to criticise or complain."
+    }
+  ]
+}

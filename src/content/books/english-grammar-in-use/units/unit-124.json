@@ -1,0 +1,187 @@
+{
+  "number": 124,
+  "title": "in/at/on (position) 2",
+  "subtitle": "in a row / on the left / at the top",
+  "summary": "Learn the fixed phrases with in, at and on for rows, floors, lists, tops and bottoms, fronts and backs, and corners.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in a row, in a picture, in the sky",
+      "text": "We say that somebody or something is **in a line / in a row / in a queue**, **in a picture / in a photograph**, **in a newspaper / in a magazine / in a book**, **in an office / in a department**, **in the sky / in the world**, and **in the country** (= not in a town).",
+      "examples": [
+        { "text": "When I go to the cinema, I like to sit **in the front row**." },
+        { "text": "Amy works **in the sales department**." },
+        { "text": "Who is the woman **in that picture**?" },
+        { "text": "Do you live in a city or **in the country**?" },
+        { "text": "It's a lovely day. There isn't a cloud **in the sky**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on the left, on the second floor, on a list",
+      "text": "We say **on the left / on the right** (or on the left-hand side), **on the ground floor / on the first floor**, and **on a map / on a menu / on a list / on a page / on a website**.",
+      "examples": [
+        { "text": "Do you drive **on the left** or **on the right** in your country?" },
+        { "text": "Our apartment is **on the second floor** of the building." },
+        { "text": "Here's the shopping list. Don't buy anything that's not **on the list**." },
+        { "text": "You'll find the information you need **on our website**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on a river, on the coast, on the way",
+      "text": "We say that a place is **on a river / on a road / on the coast**. We also say **on the way** from one place to another.",
+      "examples": [
+        { "text": "Vienna is **on the (river) Danube**." },
+        { "text": "The town where you live - is it **on the coast** or is it inland?" },
+        { "text": "We stopped at a shop **on the way home**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at the top, at the bottom, at the end",
+      "text": "We say **at the top (of ...)**, **at the bottom (of ...)** and **at the end (of ...)**.",
+      "examples": [
+        { "text": "Write your name **at the top of the page**." },
+        { "text": "Jane lives **at the other end of the street**." },
+        { "text": "They live in a small house **at the bottom of the hill**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "front and back",
+      "left": {
+        "label": "in the front / in the back of a car",
+        "examples": [
+          "I was **in the back** (of the car) when we had the accident.",
+          "When I'm a passenger, I prefer to sit **in the front**."
+        ]
+      },
+      "right": {
+        "label": "at the front / at the back of a building or group",
+        "examples": [
+          "The garden is **at the back of the house**.",
+          "Let's sit **at the front** (of the cinema).",
+          "We were **at the back**, so we couldn't see very well."
+        ]
+      },
+      "note": "But for an envelope or a piece of paper we say **on the front** / **on the back**: I wrote the date **on the back of the photo**."
+    },
+    {
+      "type": "compare",
+      "heading": "in the corner or at the corner?",
+      "left": {
+        "label": "in the corner of a room",
+        "examples": ["The TV is **in the corner of the room**."]
+      },
+      "right": {
+        "label": "at (or on) the corner of a street",
+        "examples": [
+          "There is a small shop **at the corner** of the street.",
+          "or ... **on the corner** of the street."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Remember the pairs: in the back of a car, but at the back of a building and on the back of an envelope."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's a lovely day. There isn't a cloud ___.",
+      "hint": "(the sky)",
+      "answers": ["in the sky"],
+      "explanation": "We say in the sky, like in the world."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In most countries people drive ___.",
+      "options": ["on the right", "in the right", "at the right"],
+      "answer": 0,
+      "explanation": "We say on the left / on the right (or on the left-hand side)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Joe works ___ of a large store.",
+      "hint": "(the furniture department)",
+      "answers": ["in the furniture department"],
+      "explanation": "We work in a department and in an office."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I met a friend of mine ___ this morning.",
+      "hint": "(the way to work)",
+      "answers": ["on the way to work"],
+      "explanation": "We say on the way from one place to another."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "Write your name", "right": "at the top of the page" },
+        { "left": "The garden is", "right": "at the back of the house" },
+        { "left": "I wrote the date", "right": "on the back of the photo" },
+        { "left": "The TV is", "right": "in the corner of the room" },
+        { "left": "There is a small shop", "right": "at the corner of the street" },
+        { "left": "Jane lives", "right": "at the other end of the street" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We couldn't see the film very well because we were sitting ___ of the cinema.",
+      "options": ["at the back", "in the back", "on the back"],
+      "answer": 0,
+      "explanation": "For a building, a theatre or a group of people we say at the front / at the back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "San Francisco is ___ of the United States.",
+      "hint": "(the west coast)",
+      "answers": ["on the west coast"],
+      "explanation": "A place is on the coast, on a river or on a road."
+    },
+    {
+      "type": "true_false",
+      "statement": "The TV is at the corner of the room.",
+      "answer": false,
+      "explanation": "The TV is in the corner of the room. We use at (or on) the corner only for a street."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We went to the theatre last night. We had seats ___.",
+      "hint": "(the front row)",
+      "answers": ["in the front row"],
+      "explanation": "We sit in a row, in a line and in a queue."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't have your address. Could you write it ___?",
+      "options": ["on the back of this card", "in the back of this card", "at the back of this card"],
+      "answer": 0,
+      "explanation": "For a piece of paper, a card or an envelope we say on the front / on the back."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each phrase?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "a queue", "category": 0 },
+        { "text": "today's newspaper", "category": 0 },
+        { "text": "the bottom of the hill", "category": 1 },
+        { "text": "the end of the street", "category": 1 },
+        { "text": "the second floor", "category": 2 },
+        { "text": "our website", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My office is on the top floor. It's ___ your left as you come out of the lift.",
+      "hint": "one word",
+      "answers": ["on"],
+      "explanation": "We say on the left / on the right."
+    }
+  ]
+}

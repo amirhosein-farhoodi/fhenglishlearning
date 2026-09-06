@@ -1,0 +1,169 @@
+{
+  "number": 131,
+  "title": "Adjective + preposition 2",
+  "subtitle": "afraid of / good at / interested in",
+  "summary": "Learn which preposition follows adjectives like afraid, proud, good, married, similar, interested, keen and famous.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "afraid of, proud of, jealous of",
+      "text": "We say **afraid / scared / frightened / terrified of ...** and **fond / proud / ashamed / jealous / envious of ...**.",
+      "examples": [
+        { "text": "'Are you **afraid of** spiders?' 'Yes, I'm **terrified of** them.'" },
+        { "text": "Why is he so **jealous of** other people?" },
+        { "text": "Kate is very **fond of** her younger brother." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "aware of, capable of, full of",
+      "text": "We also use **of** after **suspicious / critical / tolerant**, **aware / conscious**, **capable / incapable**, **full / short** and **typical**. **Certain** and **sure** take **of** or **about**.",
+      "examples": [
+        { "text": "They didn't trust me. They were **suspicious of** my motives." },
+        { "text": "'Did you know he was married?' 'No, I wasn't **aware of** that.'" },
+        { "text": "I'm sure you are **capable of** doing the job well." },
+        { "text": "Amy is a very active person. She's always **full of** energy." },
+        { "text": "I'm a bit **short of** money. Can you lend me some?" },
+        { "text": "He's late again. It's **typical of** him to keep everybody waiting." },
+        { "text": "I think she's arriving this evening, but I'm not **sure of** that.", "note": "or ... not sure about that" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "good at, married to, similar to",
+      "text": "We say **good / bad / brilliant / better / hopeless at ...**, **married / engaged to ...** and **similar to ...**. **Different** takes **from** or **to**.",
+      "examples": [
+        { "text": "I'm not very **good at** repairing things.", "wrong": "good in repairing things" },
+        { "text": "Louise is **married to** an American.", "wrong": "married with an American" },
+        { "text": "Your handwriting is **similar to** mine." },
+        { "text": "The film was **different from** what I'd expected.", "note": "or ... different to what I'd expected" }
+      ],
+      "note": "But: Louise is married **with** three children. (= she is married and has three children)"
+    },
+    {
+      "type": "explain",
+      "heading": "interested in, keen on, dependent on",
+      "text": "We say **interested in ...**, **keen on ...** and **dependent on ...** (but **independent of ...**).",
+      "examples": [
+        { "text": "Are you **interested in** art?" },
+        { "text": "We stayed at home. Chris wasn't **keen on** going out." },
+        { "text": "I don't want to be **dependent on** anybody." },
+        { "text": "Mark has no money of his own. He's completely **dependent on** his parents." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "crowded with or full of?",
+      "left": {
+        "label": "crowded WITH people",
+        "examples": ["The streets were **crowded with** tourists."]
+      },
+      "right": {
+        "label": "full OF people",
+        "examples": ["The streets were **full of** tourists."]
+      },
+      "note": "We also say **famous for ...** and **responsible for ...**: The Italian city of Florence is **famous for** its art treasures. Who was **responsible for** all that noise last night?"
+    },
+    {
+      "type": "tip",
+      "text": "Watch the pairs that learners mix up: good **at** (not in), married **to** (not with), and crowded **with** but full **of**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm a bit ___ money. Can you lend me some?",
+      "hint": "(short)",
+      "answers": ["short of"],
+      "explanation": "Short of something = not having enough of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My children have done very well. I'm ___ them.",
+      "hint": "(proud)",
+      "answers": ["proud of"],
+      "explanation": "Proud of, like fond of, ashamed of and jealous of."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm not very good ___ repairing things.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "Good, bad, brilliant and hopeless all take at."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steven's wife is a doctor. Steven is married ___.",
+      "hint": "(a doctor)",
+      "answers": ["to a doctor"],
+      "explanation": "Married to somebody (but married with three children = has three children)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "Your handwriting is similar", "right": "to mine" },
+        { "left": "Are you interested", "right": "in art?" },
+        { "left": "We stayed at home. Chris wasn't keen", "right": "on going out" },
+        { "left": "The station platform was crowded", "right": "with people" },
+        { "left": "The city of Florence is famous", "right": "for its art treasures" },
+        { "left": "The editor is the person who is responsible", "right": "for what appears in a newspaper" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was surprised when I first met Tina. She was different ___ what I expected.",
+      "options": ["from", "of", "with"],
+      "answer": 0,
+      "explanation": "Different from (or different to) - never different of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a lot of furniture in the room. The room was full ___.",
+      "hint": "(furniture)",
+      "answers": ["of furniture"],
+      "explanation": "Full of something, but crowded with something."
+    },
+    {
+      "type": "true_false",
+      "statement": "The streets were crowded of tourists.",
+      "answer": false,
+      "explanation": "The streets were crowded with tourists. Only full takes of."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition follows each adjective?",
+      "categories": ["of", "at", "on"],
+      "items": [
+        { "text": "afraid", "category": 0 },
+        { "text": "capable", "category": 0 },
+        { "text": "hopeless", "category": 1 },
+        { "text": "brilliant", "category": 1 },
+        { "text": "keen", "category": 2 },
+        { "text": "dependent", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark has no money of his own. He's completely dependent ___ his parents.",
+      "hint": "one word",
+      "answers": ["on"],
+      "explanation": "Dependent on somebody (but independent of somebody)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "These days everybody is aware ___ the dangers of smoking.",
+      "options": ["of", "for", "with"],
+      "answer": 0,
+      "explanation": "Aware of and conscious of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't trust Robert. I'm suspicious ___.",
+      "hint": "(him)",
+      "answers": ["of him"],
+      "explanation": "Suspicious of, like critical of and tolerant of."
+    }
+  ]
+}

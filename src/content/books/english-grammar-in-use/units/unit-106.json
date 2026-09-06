@@ -1,0 +1,177 @@
+{
+  "number": 106,
+  "title": "Comparative 2 (much better / any better etc.)",
+  "subtitle": "much better / any better / better and better",
+  "summary": "Learn how to make a comparative stronger or weaker with much, a bit, any and no, and how to use better and better and the ... the ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "much / a lot + comparative",
+      "text": "You can put these words before a comparative to say how big the difference is: **a bit**, **a little**, **slightly** (= a little), **much**, **a lot**, **far** (= a lot).",
+      "examples": [
+        { "text": "I felt ill earlier, but I feel **much better** now.", "note": "or a lot better" },
+        { "text": "Don't go by train. It's **a lot more expensive**.", "note": "or much more expensive" },
+        { "text": "Could you speak **a bit more slowly**?", "note": "or a little more slowly" },
+        { "text": "This bag is **slightly heavier** than the other one." },
+        { "text": "The problem is **far more serious** than we thought at first." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How big is the difference?",
+      "columns": ["A small difference", "A big difference"],
+      "rows": [
+        ["a bit better", "much better"],
+        ["a little cooler", "a lot cooler"],
+        ["slightly heavier", "far heavier"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "any / no + comparative",
+      "text": "You can also use **any** and **no** before a comparative (any longer, no bigger etc.). They mean 'not even a little'. Use **any** with a negative verb or in a question; use **no** with a positive verb.",
+      "examples": [
+        { "text": "I've waited long enough. I'm not waiting **any longer**.", "note": "= not even a little longer" },
+        { "text": "We expected their apartment to be very big, but it's **no bigger** than ours.", "note": "or ... it isn't any bigger than ours" },
+        { "text": "How do you feel now? Do you feel **any better**?" },
+        { "text": "This hotel is better than the other one, and it's **no more expensive**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "better and better",
+      "text": "We repeat a comparative (better and better, more and more expensive etc.) to say that something changes continuously.",
+      "examples": [
+        { "text": "Your English is improving. It's getting **better and better**." },
+        { "text": "The city has grown fast in recent years. It's got **bigger and bigger**." },
+        { "text": "As I listened to his story, I became **more and more convinced** that he was lying." },
+        { "text": "**More and more tourists** are visiting this part of the country." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the sooner the better",
+      "text": "You can say **the sooner the better**, **the more the better** etc. to mean 'as soon as possible', 'as much as possible'.",
+      "examples": [
+        { "text": "*A:* What time shall we leave? *B:* **The sooner the better.**", "note": "= as soon as possible" },
+        { "text": "*A:* What sort of bag do you want? A big one? *B:* Yes, **the bigger the better.**", "note": "= as big as possible" },
+        { "text": "When you're travelling, **the less** luggage you have **the better**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the ... the ... (one thing depends on another)",
+      "text": "We also use **the ... the ...** with two comparatives to say that one thing depends on another thing.",
+      "examples": [
+        { "text": "**The sooner** we leave, **the earlier** we'll arrive.", "note": "= if we leave sooner, we'll arrive earlier" },
+        { "text": "**The younger** you are, **the easier** it is to learn." },
+        { "text": "**The more expensive** the hotel, **the better** the service." },
+        { "text": "**The more** I thought about the plan, **the less** I liked it." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "older and elder",
+      "text": "The comparative of *old* is **older**. We use **elder** only about people in a family (my elder sister, their elder son), and *older* is possible there too. We never say that somebody 'is elder'.",
+      "examples": [
+        { "text": "David looks **older** than he really is.", "wrong": "looks elder" },
+        { "text": "My **elder** sister is a TV producer.", "note": "or My older sister ..." },
+        { "text": "My sister is **older** than me.", "wrong": "elder than me" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember: *any* and *no* come before comparatives too - use *any* after a negative or in a question (I'm not waiting any longer), and *no* after a positive verb (it's no bigger than ours)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "This bag is too small. I need something ___.",
+      "hint": "(much / big)",
+      "answers": ["much bigger"],
+      "explanation": "much + comparative shows a big difference: much bigger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was very hot yesterday. Today it's ___.",
+      "hint": "(a little / cool)",
+      "answers": ["a little cooler"],
+      "explanation": "a little + comparative shows a small difference: a little cooler."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I liked the museum. It was ___ I expected.",
+      "options": ["a lot more interesting than", "a lot interesting than", "a lot more interesting as"],
+      "answer": 0,
+      "explanation": "a lot + comparative + than: a lot more interesting than I expected."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're driving too fast. Can you drive ___?",
+      "hint": "(a bit / slowly)",
+      "answers": ["a bit more slowly"],
+      "explanation": "slowly is a long word, so the comparative is more slowly: a bit more slowly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm afraid the problem is ___ it seems.",
+      "hint": "(far / complicated)",
+      "answers": ["far more complicated than"],
+      "explanation": "far means 'a lot', and than introduces what we compare with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've waited long enough. I'm not waiting ___.",
+      "hint": "(any / long)",
+      "answers": ["any longer"],
+      "explanation": "any + comparative after a negative verb: not even a little longer."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The traffic isn't especially bad today. It's ___ usual.",
+      "options": ["no worse than", "any worse than", "no worse as"],
+      "answer": 0,
+      "explanation": "The verb is positive (It's), so we use no + comparative + than. We would need a negative for any: It isn't any worse than usual."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That hole in your sweater is getting ___.",
+      "hint": "(big) - repeat the comparative",
+      "answers": ["bigger and bigger"],
+      "explanation": "A repeated comparative shows a continuous change: bigger and bigger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Since Anna went to Canada, her English has got ___.",
+      "hint": "(good) - repeat the comparative",
+      "answers": ["better and better"],
+      "explanation": "The irregular comparative of good is better, repeated: better and better."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of these the ... the ... sentences.",
+      "pairs": [
+        { "left": "The sooner we leave,", "right": "the earlier we'll arrive." },
+        { "left": "The younger you are,", "right": "the easier it is to learn." },
+        { "left": "The more I know,", "right": "the less I understand." },
+        { "left": "The more electricity you use,", "right": "the higher your bill will be." },
+        { "left": "The more tired you are,", "right": "the harder it is to concentrate." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "We should decide what to do as soon as possible. Put the parts in the right order.",
+      "words": ["The sooner", "we", "decide", "what to do,", "the better."],
+      "answer": "The sooner we decide what to do, the better.",
+      "explanation": "the sooner ... the better = as soon as possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm surprised Anna is only 25. I thought she was elder.",
+      "answer": false,
+      "explanation": "I thought she was older. We never say that somebody 'is elder' - elder only goes before a family word, as in my elder sister."
+    }
+  ]
+}

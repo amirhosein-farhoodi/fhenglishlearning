@@ -1,0 +1,188 @@
+{
+  "number": 71,
+  "title": "Countable nouns with a/an and some",
+  "subtitle": "a dog / some dogs",
+  "summary": "Use a/an with singular countable nouns and some with plural ones - and know when the plural noun is better used alone.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Singular and plural",
+      "text": "Countable nouns can be singular or plural. Before a singular countable noun you can use **a/an**. You cannot use a singular countable noun alone, without a/the/my etc.",
+      "examples": [
+        { "text": "Bye! Have **a nice evening**." },
+        { "text": "Do you need **an umbrella**?" },
+        { "text": "She never wears **a hat**.", "wrong": "wears hat" },
+        { "text": "What **a beautiful day**!" },
+        { "text": "Did you hurt **your leg**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["Singular", "Plural"],
+      "rows": [
+        ["a dog", "dogs"],
+        ["a child", "some children"],
+        ["the evening", "the evenings"],
+        ["this party", "these parties"],
+        ["an umbrella", "two umbrellas"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Saying what kind of thing or person",
+      "text": "We use **a/an ...** to say what kind of thing something is, or what kind of person somebody is. In the plural we use the noun alone, without some.",
+      "examples": [
+        { "text": "That's **a nice table**." },
+        { "text": "Those are **nice chairs**.", "wrong": "some nice chairs" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Compare singular and plural",
+      "columns": ["Singular", "Plural"],
+      "rows": [
+        ["**A dog** is **an animal**.", "**Dogs** are **animals**."],
+        ["I'm **an optimist**.", "We're **optimists**."],
+        ["My father is **a doctor**.", "My parents are both **doctors**."],
+        ["Jane is **a really nice person**.", "Jane and Ben are **really nice people**."],
+        ["What **a lovely dress**!", "What **awful shoes**!"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Describing people and jobs",
+      "text": "We say that somebody **has a long nose / a nice face / blue eyes / long fingers**. We also use **a/an** when we say what somebody's job is.",
+      "examples": [
+        { "text": "Jack has **a long nose**.", "wrong": "the long nose" },
+        { "text": "Jack has **blue eyes**.", "wrong": "the blue eyes" },
+        { "text": "Sandra is **a nurse**.", "wrong": "Sandra is nurse" },
+        { "text": "Would you like to be **an English teacher**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some = a number of / a few of",
+      "text": "You can use **some** with plural countable nouns to mean *a number of, a few of, a pair of*. Often you can say the same thing with or without some.",
+      "examples": [
+        { "text": "I've seen **some good movies** recently.", "wrong": "I've seen good movies" },
+        { "text": "**Some friends** of mine are coming to stay at the weekend." },
+        { "text": "I need **some new sunglasses**.", "note": "= a new pair of sunglasses" },
+        { "text": "The room was empty apart from a table and **(some) chairs**." }
+      ],
+      "note": "Do not use some when you are talking about things in general: I love **bananas** (not some bananas). My aunt is a writer. She writes **books** (not some books)."
+    },
+    {
+      "type": "explain",
+      "heading": "some = some but not all",
+      "text": "**Some** can also mean *some but not all*.",
+      "examples": [
+        { "text": "**Some children** learn very quickly.", "note": "but not all children" },
+        { "text": "Tomorrow there will be rain in **some places**, but most of the country will be dry." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you write *some*, ask: do I mean *a number of these* or *these in general*? Only the first one takes some."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Chess is ___.",
+      "hint": "(game)",
+      "answers": ["a game"],
+      "explanation": "A singular countable noun that says what kind of thing something is takes a/an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Nile, the Rhine and the Mekong are ___.",
+      "hint": "(river)",
+      "answers": ["rivers"],
+      "explanation": "In the plural we use the noun alone, not some rivers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A mosquito is ___.",
+      "hint": "(insect)",
+      "answers": ["an insect"],
+      "explanation": "Insect begins with a vowel sound, so we use an."
+    },
+    {
+      "type": "matching",
+      "prompt": "Read what these people do and match each one with their job.",
+      "pairs": [
+        { "left": "Gary works in a restaurant. He brings the food to the tables.", "right": "He's a waiter." },
+        { "left": "Jane writes articles for a newspaper.", "right": "She's a journalist." },
+        { "left": "Kevin works in a hospital. He operates on people.", "right": "He's a surgeon." },
+        { "left": "Dave installs and repairs water pipes.", "right": "He's a plumber." },
+        { "left": "Anna shows visitors round her city and tells them about it.", "right": "She's a tour guide." },
+        { "left": "Lisa translates what people say from one language into another.", "right": "She's an interpreter." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Are you ___?",
+      "options": ["a careful driver", "careful driver", "some careful driver"],
+      "answer": 0,
+      "explanation": "A singular countable noun cannot stand alone: a careful driver."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mark works in a bookshop. He sells ___.",
+      "options": ["books", "some books", "a books"],
+      "answer": 0,
+      "explanation": "This is books in general, so no some."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've been walking for hours. I've got some sore feet.",
+      "answer": false,
+      "explanation": "I've got sore feet. Here we are simply saying what kind of feet they are, so we use the plural noun alone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't feel very well. I've got ___.",
+      "hint": "(sore throat)",
+      "answers": ["a sore throat"],
+      "explanation": "Throat is a singular countable noun, so it needs a."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It might rain. Don't go out without ___.",
+      "hint": "(umbrella)",
+      "answers": ["an umbrella"],
+      "explanation": "Umbrella begins with a vowel sound: an umbrella."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ people learn languages more easily than others.",
+      "hint": "(some, or no word?)",
+      "answers": ["Some"],
+      "explanation": "Some people = some but not all people."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Those are ___ shoes. Where did you get them?",
+      "options": ["nice", "some nice", "a nice"],
+      "answer": 0,
+      "explanation": "We are saying what kind of shoes they are, so the plural noun is used alone."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What is missing in each sentence: a/an, some, or nothing at all?",
+      "categories": ["a/an", "some", "no word"],
+      "items": [
+        { "text": "When I was ___ child, I used to be very shy.", "category": 0 },
+        { "text": "Would you like to be ___ actor?", "category": 0 },
+        { "text": "I didn't expect to see you. What ___ surprise!", "category": 0 },
+        { "text": "I've seen ___ good movies recently.", "category": 1 },
+        { "text": "___ birds, for example the penguin, cannot fly.", "category": 1 },
+        { "text": "You need a visa to visit ___ countries, but not all of them.", "category": 1 },
+        { "text": "Questions, questions! You're always asking ___ questions!", "category": 2 },
+        { "text": "Do you like staying in ___ hotels?", "category": 2 }
+      ]
+    }
+  ]
+}

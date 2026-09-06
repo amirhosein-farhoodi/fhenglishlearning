@@ -1,0 +1,187 @@
+{
+  "number": 33,
+  "title": "should 1",
+  "subtitle": "You should go to bed.",
+  "summary": "Use should to give advice or an opinion, to say what you expect, and use should have done to talk about the right thing to do in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "should = it is a good thing to do",
+      "text": "**You should do something** = it is a good thing to do, or the right thing to do. We use should to give advice or to give an opinion. **You shouldn't do something** = it isn't a good thing to do.",
+      "examples": [
+        { "text": "You look tired. **You should go** to bed." },
+        { "text": "The government **should do** more to improve schools." },
+        { "text": "*A:* **Should we invite** Stephanie to the party? *B:* Yes, I think **we should**." },
+        { "text": "The man on the motorbike **should be wearing** a helmet." },
+        { "text": "**You shouldn't believe** everything you read in newspapers." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I think ... should",
+      "text": "We often use should with **I think / I don't think / Do you think ... ?**",
+      "examples": [
+        { "text": "**I think** the government **should do** more to improve schools." },
+        { "text": "**I don't think** you **should work** so hard." },
+        { "text": "*A:* **Do you think** I **should apply** for this job? *B:* Yes, I think you should." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "should is not as strong as must / have to",
+      "left": {
+        "label": "should",
+        "text": "It would be a good thing to do.",
+        "examples": ["You **should** apologise.", "You **should** tell her the truth."]
+      },
+      "right": {
+        "label": "must / have to",
+        "text": "You have no alternative.",
+        "examples": ["You **must** apologise.", "You **have to** apologise."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "When something is not right, or is expected",
+      "text": "We use should when something is not right or not what we expect. We also use should to say that we expect something to happen.",
+      "examples": [
+        { "text": "Where's Tina? **She should be** here by now.", "note": "= she isn't here yet, and this is not normal" },
+        { "text": "The price on this packet is wrong. **It should be** £2.50, not £3.50." },
+        { "text": "Helen has been studying hard for the exam, so **she should pass**.", "note": "= I expect her to pass" },
+        { "text": "There are plenty of hotels in the town. **It shouldn't be** hard to find a place to stay.", "note": "= I don't expect it to be hard" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "should have done",
+      "text": "**You should have done something** = you didn't do it, but it would have been a good thing to do. **You shouldn't have done something** = you did it, but it wasn't a good thing to do.",
+      "examples": [
+        { "text": "You missed a great party last night. **You should have come.** Why didn't you?", "note": "= you didn't come, but it would have been good to come" },
+        { "text": "I wonder why they're so late. **They should have been** here long ago." },
+        { "text": "I'm feeling sick. **I shouldn't have eaten** so much.", "note": "= I ate too much" },
+        { "text": "**She shouldn't have been listening** to our conversation. It was private.", "note": "= she was listening" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "should (do) and should have (done)",
+      "left": {
+        "label": "should do - now",
+        "examples": ["You look tired. **You should go** to bed now.", "We don't see you enough. **You should come** and see us more often."]
+      },
+      "right": {
+        "label": "should have done - the past",
+        "examples": ["You went to bed very late last night. **You should have gone** to bed earlier.", "My exam results weren't good. **I should have done** better."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "ought to ...",
+      "text": "You can use **ought to** instead of should in all the sentences above. We say *ought to do* - with **to**.",
+      "examples": [
+        { "text": "Do you think I **ought to** apply for this job?", "note": "= Do you think I should apply ... ?" },
+        { "text": "Jack **ought not to** go to bed so late.", "note": "= Jack shouldn't go ..." },
+        { "text": "It was a great party last night. You **ought to have come**.", "note": "= You should have come" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the shape: should + infinitive without to (should go), but ought + to + infinitive (ought to go)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Your salary is very low. ___ for another job.",
+      "hint": "(you / should / look)",
+      "answers": ["You should look", "You ought to look"],
+      "explanation": "should + infinitive without to is used to give advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack always finds it hard to get up in the morning. He ___ so late.",
+      "hint": "(stay up) - negative",
+      "answers": ["shouldn't stay up", "should not stay up", "ought not to stay up"],
+      "explanation": "shouldn't do something = it isn't a good thing to do."
+    },
+    {
+      "type": "true_false",
+      "statement": "Helen has been studying hard for the exam, so she should pass.",
+      "answer": true,
+      "explanation": "Correct. We use should to say that we expect something to happen."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you would say about it.",
+      "pairs": [
+        { "left": "Joe hasn't arrived yet.", "right": "He should be here soon." },
+        { "left": "The TV has been repaired.", "right": "It should be working OK." },
+        { "left": "The best way to get to the airport is by taxi.", "right": "It shouldn't take long - about 20 minutes." },
+        { "left": "The weather is unusually cold.", "right": "It should be much warmer at this time of year." },
+        { "left": "If you have a problem with the computer, try restarting it.", "right": "That should solve the problem." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You have no alternative - there is no choice at all. Which sentence says that?",
+      "options": ["You have to apologise.", "You should apologise.", "You ought to apologise."],
+      "answer": 0,
+      "explanation": "must / have to is stronger than should; should only means 'it would be a good thing to do'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sent the documents to you today, so you ___ them tomorrow.",
+      "hint": "(should / receive)",
+      "answers": ["should receive", "ought to receive"],
+      "explanation": "should + verb = I expect this to happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry that I didn't take your advice. I ___ what you said.",
+      "hint": "(do)",
+      "answers": ["should have done", "should've done", "ought to have done"],
+      "explanation": "You didn't do it, but it would have been a good thing to do: should have done."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went the wrong way and got lost. We should turn right, not left.",
+      "answer": false,
+      "explanation": "We should have turned right, not left. The mistake is in the past, so we need should have + past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "When you got to the restaurant, there were no free tables. You hadn't reserved one. What do you say?",
+      "words": ["We", "should", "have", "reserved", "a", "table."],
+      "answer": "We should have reserved a table.",
+      "explanation": "You didn't reserve a table, but it would have been a good thing to do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you think I ___ apply for this job?",
+      "hint": "(ought)",
+      "answers": ["ought to"],
+      "explanation": "ought to means the same as should here, but ought is always followed by to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker giving advice about now, or talking about the past?",
+      "categories": ["should do - advice for now", "should have done - the past"],
+      "items": [
+        { "text": "You look tired. You should go to bed now.", "category": 0 },
+        { "text": "You went to bed very late. You should have gone to bed earlier.", "category": 1 },
+        { "text": "You missed a great party last night. You should have come.", "category": 1 },
+        { "text": "We don't see you enough. You should come and see us more often.", "category": 0 },
+        { "text": "My exam results weren't good. I should have done better.", "category": 1 },
+        { "text": "I'm in a difficult position. What do you think I should do now?", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm feeling sick. I ___ so much.",
+      "options": ["shouldn't have eaten", "shouldn't eat", "shouldn't have ate"],
+      "answer": 0,
+      "explanation": "You ate too much and now you regret it: shouldn't have + past participle (eaten)."
+    }
+  ]
+}

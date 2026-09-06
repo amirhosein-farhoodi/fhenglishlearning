@@ -1,0 +1,184 @@
+{
+  "number": 36,
+  "title": "would",
+  "subtitle": "It would be nice.",
+  "summary": "Use would for imagined situations now, would have done for imagined situations in the past, and would as the past of will, including for refusals and repeated past actions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Imagining a situation",
+      "text": "We use **would ('d) / wouldn't** when we imagine a situation or action - something that is not real.",
+      "examples": [
+        { "text": "**It would be** nice to buy a new car, but we can't afford it." },
+        { "text": "**I'd love** to live by the sea." },
+        { "text": "*A:* Shall I tell Chris what happened? *B:* No, **I wouldn't say** anything.", "note": "= I wouldn't say anything in your situation" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "would have (done)",
+      "text": "We use **would have (done)** when we imagine something that didn't happen in the past.",
+      "examples": [
+        { "text": "They helped us a lot. I don't know what **we'd have done** without their help.", "note": "we'd have done = we would have done" },
+        { "text": "It's a shame you didn't see the film. **You would have liked** it." },
+        { "text": "I didn't tell Sam what happened. **He wouldn't have been** pleased." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "would (do) and would have (done)",
+      "left": {
+        "label": "now",
+        "examples": ["**I would call** Lisa, but I don't have her number.", "I'm not going to invite them to the party. **They wouldn't come** anyway."]
+      },
+      "right": {
+        "label": "the past",
+        "examples": ["**I would have called** Lisa, but I didn't have her number.", "I didn't invite them to the party. **They wouldn't have come** anyway."]
+      },
+      "note": "We often use would in sentences with if: I would call Lisa if I had her number. / I would have called Lisa if I'd had her number."
+    },
+    {
+      "type": "compare",
+      "heading": "will ('ll) and would ('d)",
+      "left": {
+        "label": "will - it is possible",
+        "examples": ["**I'll stay** a little longer. I've got plenty of time.", "**I'll call** Lisa. I have her number."]
+      },
+      "right": {
+        "label": "would - it isn't possible",
+        "examples": ["**I'd stay** a little longer, but I really have to go now.", "**I'd call** Lisa, but I don't have her number."]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "would as the past of will",
+      "columns": ["Direct speech (present)", "Reported (past)"],
+      "rows": [
+        ["*Tom:* I'**ll** call you on Sunday.", "Tom said he'**d** call me on Sunday."],
+        ["*Amy:* I promise I **won't** be late.", "Amy promised that she **wouldn't** be late."],
+        ["*Lisa:* Oh, no! The car **won't** start.", "Lisa was annoyed because her car **wouldn't** start."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wouldn't = refused to",
+      "text": "**Somebody wouldn't do something** = he or she refused to do it.",
+      "examples": [
+        { "text": "I tried to warn him, but **he wouldn't listen** to me.", "note": "= he refused to listen" },
+        { "text": "The car **wouldn't start**.", "note": "= it 'refused' to start" },
+        { "text": "Martina insisted on carrying all her luggage. **She wouldn't let** me help her." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Repeated actions in the past",
+      "text": "You can also use **would** to talk about things that happened regularly in the past. With this meaning, would is similar to **used to**.",
+      "examples": [
+        { "text": "When we were children, we lived by the sea. In summer, if the weather was fine, **we would** all get up early and go for a swim.", "note": "= we did this regularly" },
+        { "text": "Whenever Richard was angry, **he would walk** out of the room." },
+        { "text": "Whenever Richard was angry, **he used to walk** out of the room." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the situation is over and cannot change, use would have + past participle: *You would have liked it* (but you didn't see it)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You should go and see the film. I think ___ it.",
+      "hint": "(you / enjoy)",
+      "answers": ["you'd enjoy", "you would enjoy"],
+      "explanation": "You haven't seen it yet, so we imagine the situation: you'd enjoy it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why don't you go and see Clare? ___ very pleased to see you.",
+      "hint": "(she / be)",
+      "answers": ["She'd be", "She would be"],
+      "explanation": "An imagined situation now: she'd be pleased if you went."
+    },
+    {
+      "type": "matching",
+      "prompt": "Each sentence on the right follows a sentence on the left. Match them.",
+      "pairs": [
+        { "left": "I'd like to go to Australia one day.", "right": "It would be nice." },
+        { "left": "I wouldn't like to live on a busy road.", "right": "It wouldn't be very nice." },
+        { "left": "I'm sorry your trip was cancelled.", "right": "It would have been fun." },
+        { "left": "I'm looking forward to going out tonight.", "right": "It will be fun." },
+        { "left": "I'm glad we didn't go out in the rain.", "right": "It wouldn't have been very nice." },
+        { "left": "I'm not looking forward to the trip.", "right": "It won't be much fun." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a pity you couldn't come to the party last night. ___ it.",
+      "hint": "(you / enjoy)",
+      "answers": ["You'd have enjoyed", "You would have enjoyed"],
+      "explanation": "It didn't happen, so we imagine the past: would have + past participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ Lisa, but I didn't have her number.",
+      "options": ["would have called", "would call", "will call"],
+      "answer": 0,
+      "explanation": "The situation is finished and in the past, so we use would have (done)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We took a taxi home last night, but got stuck in the traffic. It ___ quicker to walk.",
+      "hint": "(be)",
+      "answers": ["would have been", "'d have been"],
+      "explanation": "Walking didn't happen, so we imagine it in the past: would have been."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Laura is late, and you are surprised because of what she said before.",
+      "words": ["She", "promised", "she", "wouldn't", "be", "late."],
+      "answer": "She promised she wouldn't be late.",
+      "explanation": "won't in direct speech becomes wouldn't after a past reporting verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wonder why Steve hasn't called me. He promised ___.",
+      "hint": "(he / call)",
+      "answers": ["he'd call", "he would call"],
+      "explanation": "'I'll call you' becomes he'd call after promised."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I asked Amanda what had happened, but she ___ me.",
+      "hint": "(tell) - she refused",
+      "answers": ["wouldn't tell", "would not tell"],
+      "explanation": "somebody wouldn't do something = he or she refused to do it."
+    },
+    {
+      "type": "true_false",
+      "statement": "There was a problem with the car yesterday morning. The car won't start.",
+      "answer": false,
+      "explanation": "The car wouldn't start. The refusal was in the past, so we need wouldn't, not won't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We used to live next to a railway line. Every time a train went past, the house ___.",
+      "hint": "(shake)",
+      "answers": ["would shake", "'d shake"],
+      "explanation": "would + verb describes something that happened regularly in the past."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Why is would used in each sentence?",
+      "categories": ["Imagined situation now", "Imagined situation in the past", "Repeated action in the past"],
+      "items": [
+        { "text": "I'd love to live by the sea.", "category": 0 },
+        { "text": "I don't know what we'd have done without their help.", "category": 1 },
+        { "text": "Whenever Richard was angry, he would walk out of the room.", "category": 2 },
+        { "text": "It would be nice to buy a new car, but we can't afford it.", "category": 0 },
+        { "text": "It's a shame you didn't see the film. You would have liked it.", "category": 1 },
+        { "text": "We would stay at the beach all day, playing in the sand.", "category": 2 }
+      ]
+    }
+  ]
+}

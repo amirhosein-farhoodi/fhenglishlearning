@@ -37,13 +37,15 @@ export default function Matching({ exercise, onResult, seed }: ExProps<MatchingE
     if (checked) return
     sfx.tap()
     if (rightOf(l) !== undefined) {
-      const next = { ...pairs }
-      delete next[l]
-      setPairs(next)
+      setPairs((prev) => {
+        const next = { ...prev }
+        delete next[l]
+        return next
+      })
       setActive(l)
       return
     }
-    setActive(active === l ? null : l)
+    setActive((a) => (a === l ? null : l))
   }
 
   const clickRight = (r: number) => {
@@ -51,14 +53,17 @@ export default function Matching({ exercise, onResult, seed }: ExProps<MatchingE
     sfx.tap()
     const existingLeft = leftOf(r)
     if (existingLeft >= 0) {
-      const next = { ...pairs }
-      delete next[existingLeft]
-      setPairs(next)
+      setPairs((prev) => {
+        const next = { ...prev }
+        delete next[existingLeft]
+        return next
+      })
       setActive(existingLeft)
       return
     }
     if (active === null) return
-    setPairs({ ...pairs, [active]: r })
+    // Functional update: rapid taps must not overwrite each other with stale state.
+    setPairs((prev) => ({ ...prev, [active]: r }))
     setActive(null)
   }
 

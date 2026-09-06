@@ -1,0 +1,171 @@
+{
+  "number": 46,
+  "title": "have something done",
+  "subtitle": "Lisa had the roof repaired.",
+  "summary": "Use have (or get) something done to say that you arranged for somebody else to do it for you, or that something happened to you.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "The roof of Lisa's house was damaged. She called a builder, and yesterday he came and repaired it. So: **Lisa had the roof repaired yesterday.** This means Lisa arranged for somebody else to repair the roof - she didn't repair it herself. If you **have something done**, you arrange for somebody to do it for you.",
+      "examples": [
+        { "text": "**Lisa had the roof repaired.**", "note": "= she arranged for somebody else to repair it" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "do it yourself or have it done?",
+      "left": {
+        "label": "You do it yourself",
+        "examples": ["Lisa **repaired** the roof.", "*A:* Did you **make** those curtains yourself? *B:* Yes, I like making things."]
+      },
+      "right": {
+        "label": "Somebody else does it for you",
+        "examples": ["Lisa **had the roof repaired**.", "*A:* Did you **have those curtains made**? *B:* No, I made them myself."]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "The word order",
+      "columns": ["have", "object", "past participle"],
+      "rows": [
+        ["Lisa **had**", "the roof", "**repaired**."],
+        ["Where did you **have**", "your hair", "**cut**?"],
+        ["We are **having**", "the house", "**painted**."],
+        ["I don't like **having**", "my picture", "**taken**."],
+        ["I think you should **have**", "that coat", "**cleaned**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Keep the object in the middle",
+      "text": "The object always comes between **have** and the **past participle**. Never put the past participle straight after have.",
+      "examples": [
+        { "text": "How often do you **have your car serviced**?", "wrong": "have serviced your car" },
+        { "text": "Our neighbour is **having a garage built**.", "wrong": "having built a garage" },
+        { "text": "Your hair looks nice. Did you **have it cut**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get something done",
+      "text": "You can say **get something done** instead of *have something done*. The meaning is the same, and get is a little more informal.",
+      "examples": [
+        { "text": "When are you going to **get the roof repaired**?", "note": "= have the roof repaired" },
+        { "text": "I think you should **get your hair cut** really short." },
+        { "text": "You need to **get this document translated** as soon as possible." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When something happens to you",
+      "text": "We also use **have something done** with a different meaning: to say that something happens to somebody or to their belongings. Here they did not arrange it at all.",
+      "examples": [
+        { "text": "Paul and Karen **had their bags stolen** while they were travelling.", "note": "= their bags were stolen" },
+        { "text": "Gary **had his nose broken** in a fight.", "note": "= his nose was broken" },
+        { "text": "Have you ever **had your bike stolen**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two very different meanings, one form: *I had my hair cut* (I arranged it) and *I had my bag stolen* (it just happened to me). The context tells you which."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sarah goes to a hairdresser and the hairdresser cuts her hair. Which sentence describes this?",
+      "options": ["Sarah is having her hair cut.", "Sarah is cutting her hair.", "Sarah is having cut her hair."],
+      "answer": 0,
+      "explanation": "Somebody else does it for her, so: have + object + past participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dan is standing in front of the mirror with a pair of scissors, cutting his own hair. Which sentence describes this?",
+      "options": ["Dan is cutting his hair.", "Dan is having his hair cut.", "Dan is having cut his hair."],
+      "answer": 0,
+      "explanation": "He does it himself, so we use the ordinary verb: he is cutting his hair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't cut my hair myself. ___.",
+      "hint": "(I / have / it / cut)",
+      "answers": ["I had it cut"],
+      "explanation": "have + object + past participle: I had it cut."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't clean the carpets ourselves. We ___.",
+      "hint": "(have / them / clean)",
+      "answers": ["had them cleaned"],
+      "explanation": "The object (them) goes between had and the past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben didn't build that wall himself. He ___.",
+      "hint": "(have / it / build)",
+      "answers": ["had it built"],
+      "explanation": "The past participle of build is built: he had it built."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Sarah takes her car to a garage once a year. Put the words in the correct order.",
+      "words": ["Sarah", "has", "her", "car", "serviced", "once a year."],
+      "answer": "Sarah has her car serviced once a year.",
+      "explanation": "Never *has serviced her car* - the object comes first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend whether an optician has tested their eyes recently.",
+      "words": ["Have", "you", "had", "your", "eyes", "tested", "recently?"],
+      "answer": "Have you had your eyes tested recently?",
+      "explanation": "In questions the same order stays: had + object + past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "How often do you have serviced your car?",
+      "answer": false,
+      "explanation": "How often do you have your car serviced? The object must come between have and the past participle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each statement with what the speaker says next.",
+      "pairs": [
+        { "left": "My hair is getting long.", "right": "I should get it cut." },
+        { "left": "I really like this picture.", "right": "I'm going to get it framed." },
+        { "left": "The washing machine is broken.", "right": "I need to get it fixed." },
+        { "left": "I want to wear earrings.", "right": "I'm going to get my ears pierced." },
+        { "left": "Can you recommend a dentist?", "right": "I need to get my teeth checked." },
+        { "left": "I've lost my key.", "right": "I'll have to get a new one made." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Security at the airport was strict. We ___.",
+      "hint": "(have / our bags / search)",
+      "answers": ["had our bags searched"],
+      "explanation": "Somebody else searched the bags, so: had + our bags + searched."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul and Karen were travelling and somebody stole their bags. They ___.",
+      "hint": "(have / their bags / steal)",
+      "answers": ["had their bags stolen"],
+      "explanation": "Here have something done means only that this happened to them - they didn't arrange it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Did the person arrange for somebody to do it, or did it simply happen to them?",
+      "categories": ["They arranged it", "It just happened to them"],
+      "items": [
+        { "text": "Lisa had the roof repaired yesterday.", "category": 0 },
+        { "text": "Gary had his nose broken in a fight.", "category": 1 },
+        { "text": "We are having the house painted.", "category": 0 },
+        { "text": "Paul and Karen had their bags stolen while they were travelling.", "category": 1 },
+        { "text": "Where did you have your hair cut?", "category": 0 },
+        { "text": "Have you ever had your bike stolen?", "category": 1 }
+      ]
+    }
+  ]
+}

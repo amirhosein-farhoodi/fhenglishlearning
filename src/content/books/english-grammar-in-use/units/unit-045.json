@@ -1,0 +1,184 @@
+{
+  "number": 45,
+  "title": "it is said that ... / he is said to ... / he is supposed to ...",
+  "subtitle": "He is said to be 108.",
+  "summary": "Report what people say with it is said that ... or he is said to ... , and use supposed to for what people say and for what is arranged or allowed.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two ways of saying it",
+      "text": "George is very old. Nobody knows exactly how old he is, but people say he is 108. There are two ways of reporting that. Both sentences mean 'People say that he is 108 years old.'",
+      "examples": [
+        { "text": "**It is said that** he is 108 years old." },
+        { "text": "**He is said to be** 108 years old." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs used in this way",
+      "text": "You can use these structures with a number of other verbs, especially **alleged, believed, considered, expected, known, reported, thought** and **understood**. They are very common in news reports.",
+      "examples": [
+        { "text": "Cathy loves running. **It is said that** she runs 10 miles a day." },
+        { "text": "Cathy **is said to run** 10 miles a day." },
+        { "text": "The two houses belong to the same family. **There is said to be** a secret tunnel between them." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The same idea, two structures",
+      "columns": ["It is ... that ...", "Subject is ... to ..."],
+      "rows": [
+        ["**It is believed that** the boy is wearing a white sweater.", "The boy **is believed to be wearing** a white sweater."],
+        ["**It is expected that** the strike will end soon.", "The strike **is expected to end** soon."],
+        ["**It is alleged that** he stole a car.", "He **is alleged to have stolen** a car."],
+        ["**It is reported that** two people were injured.", "Two people **are reported to have been injured**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "to do or to have done?",
+      "text": "Use **to + verb** when the action is happening now or in the future. Use **to have + past participle** when the action is in the past.",
+      "examples": [
+        { "text": "The company **is said to be losing** a lot of money.", "note": "now" },
+        { "text": "The company **is believed to have lost** a lot of money last year.", "note": "last year - the past" },
+        { "text": "The company **is expected to make** a loss this year.", "note": "the future" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "supposed to = said to",
+      "text": "You can use **supposed to ...** in the same way as *said to ...* - to report what people say.",
+      "examples": [
+        { "text": "I want to see that film. **It's supposed to be** good.", "note": "= people say it's good" },
+        { "text": "There are many stories about Joe. **He's supposed to have robbed** a bank many years ago." },
+        { "text": "Fireworks **are supposed to have been invented** in China. Is it true?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "supposed to = intended, arranged or expected",
+      "text": "Sometimes **supposed to** has a different meaning. We use it to say what is intended, arranged or expected - and often this is different from the real situation.",
+      "examples": [
+        { "text": "The plan **is supposed to be** a secret, but everybody seems to know about it.", "note": "= the plan is intended to be a secret" },
+        { "text": "What are you doing at work? **You're supposed to be** on holiday." },
+        { "text": "Our guests **were supposed to come** at 7.30, but they were late." },
+        { "text": "Jane **was supposed to phone** me last night, but she didn't." },
+        { "text": "I'd better hurry. **I'm supposed to be meeting** Chris in ten minutes." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not supposed to",
+      "text": "**You're not supposed to do something** = it is not allowed, or it is not advised.",
+      "examples": [
+        { "text": "**You're not supposed to park** your car here. It's private parking only." },
+        { "text": "Joe is much better after his illness, but **he's not supposed to exercise** too hard." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look at the time of the action, not the time of the report: *He is alleged to have stolen a car* - the report is now, the stealing was in the past."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It is reported that many people are homeless after the floods. Say it another way: Many people ___ homeless after the floods.",
+      "hint": "(report)",
+      "answers": ["are reported to be"],
+      "explanation": "The subject comes first, then is/are + past participle + to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is said that the company is losing a lot of money. Say it another way: The company ___ losing a lot of money.",
+      "hint": "(say)",
+      "answers": ["is said to be"],
+      "explanation": "The action is happening now, so we use to be + -ing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It is thought that the thieves got in through a window in the roof. Which sentence means the same?",
+      "options": [
+        "The thieves are thought to have got in through a window in the roof.",
+        "The thieves are thought to get in through a window in the roof.",
+        "The thieves are thought getting in through a window in the roof."
+      ],
+      "answer": 0,
+      "explanation": "The action is in the past, so we use to have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is expected that the company will make a loss this year. Say it another way: The company ___ a loss this year.",
+      "hint": "(expect / make)",
+      "answers": ["is expected to make"],
+      "explanation": "will in the that-clause becomes a simple to + verb: is expected to make."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is believed that the company lost a lot of money last year. Say it another way: The company is believed ___ a lot of money last year.",
+      "hint": "(lose)",
+      "answers": ["to have lost"],
+      "explanation": "last year is finished, so the past form is to have lost."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'It is alleged that the driver of the car was driving at 110 miles an hour.', beginning with The driver.",
+      "words": ["The", "driver", "is", "alleged", "to", "have", "been", "driving", "at 110 miles an hour."],
+      "answer": "The driver is alleged to have been driving at 110 miles an hour.",
+      "explanation": "A past continuous action becomes to have been + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What's the City Hotel like? Can you recommend it?' 'I've never stayed there, but ___ very good.'",
+      "hint": "(it / supposed)",
+      "answers": ["it's supposed to be", "it is supposed to be"],
+      "explanation": "supposed to be = people say it is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is it true that your neighbours were lucky in the lottery?' 'Yes, they're supposed ___ a lot of money.'",
+      "hint": "(win)",
+      "answers": ["to have won"],
+      "explanation": "The winning happened in the past, so we need to have + past participle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the sentence that explains it.",
+      "pairs": [
+        { "left": "How is it that everybody knows about the plan?", "right": "It's supposed to be a secret." },
+        { "left": "I shouldn't be eating this cake really.", "right": "I'm supposed to be on a diet." },
+        { "left": "I'm sorry for what I said. I was trying to be funny.", "right": "It was supposed to be a joke." },
+        { "left": "That's strange. The museum seems to be closed.", "right": "It's supposed to be open every day." },
+        { "left": "You shouldn't criticise me all the time.", "right": "You're supposed to be my friend." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You shouldn't be playing a game now. You're supposed ___.",
+      "hint": "(work)",
+      "answers": ["to be working"],
+      "explanation": "supposed to be + -ing describes what you are expected to be doing at this moment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My flight ___ at 10.15, but it didn't leave until 11.30.",
+      "hint": "(supposed / depart)",
+      "answers": ["was supposed to depart"],
+      "explanation": "This was the arrangement, but the real situation was different, so we use was supposed to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does supposed to mean 'people say', or 'this is what was arranged or intended'?",
+      "categories": ["People say ...", "It was arranged or intended"],
+      "items": [
+        { "text": "I want to see that film. It's supposed to be good.", "category": 0 },
+        { "text": "The plan is supposed to be a secret, but everybody knows about it.", "category": 1 },
+        { "text": "He's supposed to have robbed a bank many years ago.", "category": 0 },
+        { "text": "Jane was supposed to phone me last night, but she didn't.", "category": 1 },
+        { "text": "Fireworks are supposed to have been invented in China.", "category": 0 },
+        { "text": "Our guests were supposed to come at 7.30, but they were late.", "category": 1 }
+      ]
+    }
+  ]
+}

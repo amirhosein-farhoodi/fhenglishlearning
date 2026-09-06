@@ -1,0 +1,183 @@
+{
+  "number": 90,
+  "title": "all, every, whole",
+  "subtitle": "all day / every day / the whole day",
+  "summary": "Learn when to use everybody/everything rather than all, when to use whole instead of all, and the difference between every day, all day and all the time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "everybody / everything, not all",
+      "text": "We do not normally use **all** on its own to mean *everybody* or *everything*. We say **everybody / everyone** for people and **everything** for things.",
+      "examples": [
+        { "text": "**Everybody** was happy. or **Everyone** was happy.", "wrong": "all were happy" },
+        { "text": "He thinks he knows **everything**.", "wrong": "he knows all" },
+        { "text": "Our holiday was a disaster. **Everything** went wrong.", "wrong": "all went wrong" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How we use all",
+      "columns": ["Structure", "Example"],
+      "rows": [
+        ["all + noun", "**All my friends** were happy."],
+        ["all of + us/you/them", "**All of us** were happy."],
+        ["we/you/they ... all ...", "We were **all** happy."],
+        ["all about ...", "He knows **all about** computers."],
+        ["all ... = the only thing(s)", "**All** I've eaten today is a banana."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whole = complete, entire",
+      "text": "**Whole** means *complete* or *entire*. We use it mostly with singular countable nouns, and we put **the / my / a** etc. before it.",
+      "examples": [
+        { "text": "Did you read **the whole book**?", "note": "= all the book, not just a part of it" },
+        { "text": "Emily has lived **her whole life** in the same town." },
+        { "text": "I was so hungry, I ate **a whole packet** of biscuits." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not whole with uncountable nouns",
+      "text": "We do not normally use **whole** with uncountable nouns such as *water, food, money, information, luggage*. We use **all** instead.",
+      "examples": [
+        { "text": "Did you spend **all the money** I gave you?", "wrong": "the whole money" },
+        { "text": "I read **all the information** carefully.", "wrong": "the whole information" },
+        { "text": "When I was on holiday, **all my luggage** was stolen.", "wrong": "my whole luggage" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "every day / all day",
+      "text": "We use **every** to say how often something happens. **All day** or **the whole day** means the complete day from beginning to end.",
+      "examples": [
+        { "text": "When we were on holiday, we went to the beach **every day**.", "wrong": "all days" },
+        { "text": "The bus service is excellent. There's a bus **every ten minutes**." },
+        { "text": "We spent **all day** on the beach. or We spent **the whole day** ...", "note": "not all the day" },
+        { "text": "Dan was very quiet. He didn't say a word **all evening**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "all the time or every time?",
+      "left": {
+        "label": "all the time",
+        "text": "= always, continuously",
+        "examples": [
+          "They never go out. They are at home **all the time**.",
+          "I don't like the weather here. It rains **all the time**."
+        ]
+      },
+      "right": {
+        "label": "every time",
+        "text": "= each time, on every occasion",
+        "examples": [
+          "**Every time** I see you, you look different.",
+          "It's a very sad song. **Every time** I hear it, it makes me cry."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "A singular verb, but they/their",
+      "text": "**Every / everybody / everyone / everything** are singular words, so the verb after them is singular. But we use **they / them / their** to refer back to *everybody* and *everyone*.",
+      "examples": [
+        { "text": "Every seat in the theatre **was** taken." },
+        { "text": "Everybody **has** arrived.", "wrong": "everybody have arrived" },
+        { "text": "Everybody said **they** enjoyed **themselves**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Count the noun: a whole packet, a whole day (countable) but all the money, all my luggage (uncountable)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "It was a good party. ___ had a great time.",
+      "options": ["Everybody", "All", "All people"],
+      "answer": 0,
+      "explanation": "We do not use all on its own for people: everybody (or everyone) had a great time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nothing has changed. ___ is the same as it was.",
+      "answers": ["Everything"],
+      "explanation": "For things we say everything, not all."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm really exhausted. ___ I want to do is sleep.",
+      "answers": ["All"],
+      "explanation": "All I want to do = the only thing I want to do."
+    },
+    {
+      "type": "true_false",
+      "statement": "Everybody have arrived, so we can start the meeting.",
+      "answer": false,
+      "explanation": "Everybody has arrived, so we can start the meeting. Everybody takes a singular verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I read the book from beginning to end. I read ___.",
+      "answers": ["the whole book"],
+      "explanation": "The whole book = all the book, not just a part of it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Everyone in the team played well. Say the same thing using whole.",
+      "words": ["The", "whole", "team", "played", "well"],
+      "answer": "The whole team played well",
+      "explanation": "We put the before whole: the whole team = the complete team."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul opened a box of chocolates and didn't stop until there were none left. He ate ___.",
+      "answers": ["the whole box", "the whole box of chocolates"],
+      "explanation": "Whole = complete, and box is a singular countable noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bus service is very good. There's a bus ___.",
+      "hint": "(ten minutes)",
+      "answers": ["every ten minutes"],
+      "explanation": "We use every to say how often something happens."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm tired. I've been working hard ___.",
+      "options": ["all day", "all the day", "every day"],
+      "answer": 0,
+      "explanation": "We say all day (not all the day) for the complete day from beginning to end."
+    },
+    {
+      "type": "true_false",
+      "statement": "Everybody said they enjoyed themselves.",
+      "answer": true,
+      "explanation": "Correct. Everybody takes a singular verb, but we use they/themselves afterwards."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's a very sad song. ___ I hear it, it makes me cry.",
+      "options": ["Every time", "All the time", "Whole time"],
+      "answer": 0,
+      "explanation": "Every time = each time, on every occasion. All the time means always, continuously."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need whole or all in the gap (shown as ...)?",
+      "categories": ["whole", "all"],
+      "items": [
+        { "text": "Did you spend ... the money I gave you?", "category": 1 },
+        { "text": "Did you read the ... book?", "category": 0 },
+        { "text": "I read ... the information carefully.", "category": 1 },
+        { "text": "Emily has lived her ... life in the same town.", "category": 0 },
+        { "text": "I was so hungry, I ate a ... packet of biscuits.", "category": 0 },
+        { "text": "When I was on holiday, ... my luggage was stolen.", "category": 1 },
+        { "text": "It was a terrible fire. The ... building was destroyed.", "category": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "number": 69,
+  "title": "Countable and uncountable 1",
+  "subtitle": "a banana / rice",
+  "summary": "Learn the difference between countable nouns (a banana, two bananas) and uncountable nouns (rice, music), and which words go with each.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two kinds of noun",
+      "left": {
+        "label": "Countable: banana",
+        "text": "A countable noun can be singular (**banana**) or plural (**bananas**). We can use numbers with it: one banana, two bananas.",
+        "examples": [
+          "I eat **a banana** every day.",
+          "I like **bananas**."
+        ]
+      },
+      "right": {
+        "label": "Uncountable: rice",
+        "text": "An uncountable noun has only one form (**rice**). There is no plural, and we cannot use numbers with it - not ~~one rice~~, ~~two rices~~.",
+        "examples": [
+          "I eat **rice** every day.",
+          "I like **rice**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Some typical examples",
+      "columns": ["Usually countable", "Usually uncountable"],
+      "rows": [
+        ["Kate was singing **a song**.", "Kate was listening to **music**."],
+        ["There's **a nice beach** near here.", "There's **sand** in my shoes."],
+        ["Do you have **a ten-pound note**?", "Do you have any **money**?"],
+        ["It wasn't your fault. It was **an accident**.", "It wasn't your fault. It was bad **luck**."],
+        ["There are no **batteries** in the radio.", "There is no **electricity** in this house."],
+        ["We don't have enough **cups**.", "We don't have enough **water**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a/an with countable nouns",
+      "text": "You can use **a/an** with singular countable nouns: *a beach, a student, an umbrella*. You cannot use a singular countable noun alone, without a/the/my etc.",
+      "examples": [
+        { "text": "Do you want **a banana**?", "wrong": "Do you want banana" },
+        { "text": "There's been **an accident**.", "wrong": "There's been accident" },
+        { "text": "I like **bananas**.", "note": "plural countable nouns can be used alone: = bananas in general" },
+        { "text": "**Accidents** can be prevented." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "No a/an with uncountable nouns",
+      "text": "We do not use **a/an** with uncountable nouns - not ~~a sand~~, ~~a music~~, ~~a rice~~. But you can often use **a ... of**: *a bowl of rice, a packet of rice, a grain of rice*. Uncountable nouns can be used alone, without the/my/some.",
+      "examples": [
+        { "text": "I eat **rice** every day." },
+        { "text": "There's **blood** on your shirt." },
+        { "text": "Can you hear **music**?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Words that go with each type",
+      "left": {
+        "label": "Plural countable",
+        "text": "Use **some / any**, and **many / few**.",
+        "examples": [
+          "We sang **some songs**.",
+          "Did you buy **any apples**?",
+          "We didn't take **many pictures**.",
+          "I have **a few things** to do."
+        ]
+      },
+      "right": {
+        "label": "Uncountable",
+        "text": "Use **some / any**, and **much / little**.",
+        "examples": [
+          "We listened to **some music**.",
+          "Did you buy **any apple juice**?",
+          "We didn't do **much shopping**.",
+          "I have **a little work** to do."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Quick test: if you can say *two ...s*, the noun is countable and needs a/an in the singular. If you cannot, it is uncountable and takes no a/an and no plural."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Joe goes everywhere by bike. He doesn't have car.",
+      "answer": false,
+      "explanation": "He doesn't have a car. Car is a singular countable noun, so it needs a/an."
+    },
+    {
+      "type": "true_false",
+      "statement": "Helen was listening to music when I arrived.",
+      "answer": true,
+      "explanation": "Correct. Music is uncountable, so it is used alone without a/an."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My brother works for ___ insurance company.",
+      "options": ["an", "a", "- (no word)"],
+      "answer": 0,
+      "explanation": "Company is a singular countable noun, and insurance begins with a vowel sound: an insurance company."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like your suggestion. It's interesting idea.",
+      "answer": false,
+      "explanation": "It's an interesting idea. Idea is countable and singular, so it needs an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't get into the house. I didn't have ___.",
+      "hint": "(key)",
+      "answers": ["a key"],
+      "explanation": "Key is countable, so the singular needs a."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the noun that completes it correctly.",
+      "pairs": [
+        { "left": "We didn't take many", "right": "pictures." },
+        { "left": "We didn't do much", "right": "shopping." },
+        { "left": "I have a few", "right": "things to do." },
+        { "left": "I have a little", "right": "work to do." },
+        { "left": "I need some fresh", "right": "air." },
+        { "left": "How many", "right": "languages can you speak?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you hungry? Have ___!",
+      "hint": "(biscuit)",
+      "answers": ["a biscuit"],
+      "explanation": "Biscuit is a singular countable noun: a biscuit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our lives would be very difficult without ___.",
+      "hint": "(electricity)",
+      "answers": ["electricity"],
+      "explanation": "Electricity is uncountable, so it is used alone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had ___ for a job yesterday. It went quite well.",
+      "hint": "(interview)",
+      "answers": ["an interview"],
+      "explanation": "Interview is countable and begins with a vowel sound: an interview."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Outside the cinema there was ___ of people waiting to see the film.",
+      "hint": "(queue)",
+      "answers": ["a queue"],
+      "explanation": "Queue is a singular countable noun: a queue of people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul always wants things quickly. He doesn't have much ___.",
+      "hint": "(patience)",
+      "answers": ["patience"],
+      "explanation": "Patience is uncountable - that is also why we say much, not many."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each noun countable or uncountable?",
+      "categories": ["Countable", "Uncountable"],
+      "items": [
+        { "text": "song", "category": 0 },
+        { "text": "music", "category": 1 },
+        { "text": "accident", "category": 0 },
+        { "text": "luck", "category": 1 },
+        { "text": "battery", "category": 0 },
+        { "text": "electricity", "category": 1 },
+        { "text": "umbrella", "category": 0 },
+        { "text": "sand", "category": 1 }
+      ]
+    }
+  ]
+}

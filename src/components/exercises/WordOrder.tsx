@@ -17,12 +17,13 @@ export default function WordOrder({ exercise, onResult, seed }: ExProps<WordOrde
   const place = (id: number) => {
     if (state !== 'idle') return
     sfx.tap()
-    setPlaced([...placed, id])
+    // Functional update: rapid taps must not overwrite each other with stale state.
+    setPlaced((prev) => (prev.includes(id) ? prev : [...prev, id]))
   }
   const unplace = (id: number) => {
     if (state !== 'idle') return
     sfx.tap()
-    setPlaced(placed.filter((p) => p !== id))
+    setPlaced((prev) => prev.filter((p) => p !== id))
   }
 
   const sentence = placed.map((id) => exercise.words[id]).join(' ')

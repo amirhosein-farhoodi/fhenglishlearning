@@ -1,0 +1,190 @@
+{
+  "number": 119,
+  "title": "during, for, while",
+  "subtitle": "during the film / for two hours / while I was watching",
+  "summary": "Learn when to say during (a noun), for (how long) and while (a subject and verb).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "during",
+      "text": "**during** = at a time between the start and the end of something. It is followed by a noun.",
+      "examples": [
+        { "text": "I fell asleep **during the movie**.", "note": "= at a time between the start and end of the movie" },
+        { "text": "We met some really nice people **during our holiday**." },
+        { "text": "The ground is wet. It must have rained **during the night**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in or during with time words",
+      "text": "With 'time words' (the morning, the night, the summer etc.) you can usually say **in** or **during** with no difference in meaning.",
+      "examples": [
+        { "text": "It rained **in the night**.", "note": "or ... during the night" },
+        { "text": "It's lovely here **during the summer**.", "note": "or ... in the summer" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for = how long",
+      "text": "We use **for** + a period of time to say how long something goes on. We never say *during two hours* or *during five years*.",
+      "examples": [
+        { "text": "We watched TV **for two hours** last night." },
+        { "text": "Jess is going away **for a week** in September." },
+        { "text": "How are you? I haven't seen you **for ages**." },
+        { "text": "It rained **for three days** without stopping.", "wrong": "during three days" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "How long? or When?",
+      "left": {
+        "label": "for = how long",
+        "examples": [
+          "*A:* How long were you asleep? *B:* **For half an hour.**",
+          "We were stuck in a traffic jam **for two hours**."
+        ]
+      },
+      "right": {
+        "label": "during = when",
+        "examples": [
+          "*A:* When did you fall asleep? *B:* **During the movie.**",
+          "Production at the factory was affected **during the strike**."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "during + noun, while + subject + verb",
+      "left": {
+        "label": "during + noun",
+        "examples": [
+          "I fell asleep **during the movie**.",
+          "We met a lot of interesting people **during our holiday**.",
+          "Robert began to feel ill **during the exam**."
+        ]
+      },
+      "right": {
+        "label": "while + subject + verb",
+        "examples": [
+          "I fell asleep **while I was watching TV**.",
+          "We met a lot of interesting people **while we were on holiday**.",
+          "Robert began to feel ill **while he was doing the exam**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "More examples of while",
+      "text": "**while** always introduces a clause with its own subject and verb. It can come first or second in the sentence.",
+      "examples": [
+        { "text": "We saw Clare **while we were waiting** for the bus." },
+        { "text": "**While you were out**, there was a phone call for you." },
+        { "text": "Alex read a book **while Amy watched TV**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "while + present for the future",
+      "text": "When we talk about the future, we use the **present** after *while*. Do not use *will*.",
+      "examples": [
+        { "text": "I'm going to Moscow next week. I hope the weather will be good **while I'm there**.", "wrong": "while I will be there" },
+        { "text": "What are you going to do **while you're waiting**?", "wrong": "while you'll be waiting" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A quick test: if a noun follows, use *during*; if a subject and verb follow, use *while*; if it answers 'how long?', use *for*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I went to the theatre last night. I met Sue ___ the interval.",
+      "options": ["during", "for", "while"],
+      "answer": 0,
+      "explanation": "The interval is a noun and we are saying when, not how long: during the interval."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The traffic was bad. We were stuck in a traffic jam ___ two hours.",
+      "hint": "(for / during)",
+      "answers": ["for"],
+      "explanation": "two hours is a period of time - how long - so we use for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Production at the factory was seriously affected ___ the strike.",
+      "hint": "(for / during)",
+      "answers": ["during"],
+      "explanation": "during + noun says when something happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The president gave a short speech. She spoke ___ only ten minutes.",
+      "hint": "(for / during)",
+      "answers": ["for"],
+      "explanation": "ten minutes answers 'how long?', so we use for."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each phrase need for or during?",
+      "categories": ["for", "during"],
+      "items": [
+        { "text": "... three days without stopping", "category": 0 },
+        { "text": "... the interval", "category": 1 },
+        { "text": "... a few days", "category": 0 },
+        { "text": "... the journey", "category": 1 },
+        { "text": "... eight hours", "category": 0 },
+        { "text": "... the flight", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I met Mike ___ I was shopping.",
+      "hint": "(during / while)",
+      "answers": ["while"],
+      "explanation": "A subject and verb follow (I was shopping), so we need while."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a lot of noise ___ the night. What was it?",
+      "hint": "(during / while)",
+      "answers": ["during", "in"],
+      "explanation": "the night is a noun, so during (or in) is right."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ the festival, it's almost impossible to find a hotel room here.",
+      "options": ["During", "While", "For"],
+      "answer": 0,
+      "explanation": "the festival is a noun, so During is correct. While would need a subject and verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "Please don't interrupt me during I'm speaking.",
+      "answer": false,
+      "explanation": "Please don't interrupt me while I'm speaking. Before a subject and verb we use while."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was very tired. I slept during ten hours.",
+      "answer": false,
+      "explanation": "I slept for ten hours. We never use during to say how long."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you hold my bag ___ I try on this jacket?",
+      "hint": "(during / while)",
+      "answers": ["while"],
+      "explanation": "while + subject + verb: while I try on this jacket."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are going to Moscow next week. Put the parts in order.",
+      "words": ["I hope", "the weather", "will be good", "while", "I'm there."],
+      "answer": "I hope the weather will be good while I'm there.",
+      "explanation": "After while we use the present for the future, not will."
+    }
+  ]
+}

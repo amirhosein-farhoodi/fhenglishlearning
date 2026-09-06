@@ -1,0 +1,168 @@
+{
+  "number": 92,
+  "title": "Relative clauses 1: clauses with who/that/which",
+  "subtitle": "the woman who lives next door",
+  "summary": "Use who or that for people and that or which for things to say which person or thing you mean.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a relative clause?",
+      "text": "A clause is a part of a sentence. Last week we had a party and a lot of people came. Everybody enjoyed it. In one sentence: *Everybody **who came to the party** enjoyed it.* A relative clause tells us **which** person or thing (or what kind of person or thing) the speaker means.",
+      "examples": [
+        { "text": "the woman **who lives next door to me**", "note": "'who lives next door to me' tells us which woman" },
+        { "text": "people **who complain all the time**", "note": "'who complain all the time' tells us what kind of people" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "who for people",
+      "text": "We use **who** in a relative clause for people, not for things.",
+      "examples": [
+        { "text": "The woman **who lives** next door to me is a doctor." },
+        { "text": "I don't like people **who complain** all the time." },
+        { "text": "An architect is someone **who designs** buildings." },
+        { "text": "What was the name of the person **who called**?" },
+        { "text": "Do you know anyone **who wants** to buy a car?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "that for people too",
+      "text": "We can also use **that** for people. But we never use **which** for people.",
+      "examples": [
+        { "text": "The woman **that lives** next door to me is a doctor.", "wrong": "the woman which lives" },
+        { "text": "Do you know the person **that took** these pictures?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "people and things",
+      "left": {
+        "label": "people: who / that",
+        "text": "Never which.",
+        "examples": [
+          "The driver **who** caused the accident was fined.",
+          "The waiter **that** served us was impolite.",
+          "The people **who** were arrested have now been released."
+        ]
+      },
+      "right": {
+        "label": "things: that / which",
+        "text": "Never who. That is usually more natural than which.",
+        "examples": [
+          "I don't like stories **that** have unhappy endings.",
+          "Grace works for a company **which** makes furniture.",
+          "The machine **that** broke down is working again now."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Don't add he/she/they/it",
+      "text": "In relative clauses we use **who/that/which** instead of *he/she/they/it* - we do not use both.",
+      "examples": [
+        { "text": "I met a Canadian woman **who is** an English teacher.", "note": "two sentences: I met a Canadian woman. She is an English teacher." },
+        { "text": "Where are the keys **that were** on the table?", "wrong": "the keys they were on the table" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "what = the thing(s) that",
+      "text": "**What** means *the thing that*. After **everything**, **the machine** and other nouns we use **that**, not what.",
+      "examples": [
+        { "text": "**What happened** was my fault.", "note": "= the thing that happened" },
+        { "text": "Everything **that happened** was my fault.", "wrong": "everything what happened" },
+        { "text": "The machine **that broke down** is now working again.", "wrong": "the machine what broke down" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Test it: if the relative clause answers 'which one?', keep who/that/which - and never follow a noun with what."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "An architect is someone ___ designs buildings.",
+      "answers": ["who", "that"],
+      "explanation": "An architect is a person, so we use who (or that), never which."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its definition. Every definition begins with 'someone who ...'.",
+      "pairs": [
+        { "left": "a customer", "right": "someone who buys something from a shop" },
+        { "left": "a burglar", "right": "someone who breaks into a house to steal things" },
+        { "left": "a coward", "right": "someone who is not brave" },
+        { "left": "a tenant", "right": "someone who pays rent to live somewhere" },
+        { "left": "a liar", "right": "someone who doesn't tell the truth" },
+        { "left": "a pessimist", "right": "someone who expects the worst to happen" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A girl was injured in the accident. She is now in hospital. Make one sentence.",
+      "words": ["The girl", "who", "was injured", "in the accident", "is now", "in hospital"],
+      "answer": "The girl who was injured in the accident is now in hospital",
+      "explanation": "The relative clause 'who was injured in the accident' tells us which girl."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A waiter served us. He was impolite and impatient. The waiter ___ served us was impolite and impatient.",
+      "answers": ["who", "that"],
+      "explanation": "A waiter is a person: who or that, not which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A building was destroyed in the fire. The building ___ was destroyed in the fire has now been rebuilt.",
+      "answers": ["that", "which"],
+      "explanation": "A building is a thing, so we use that or which, never who."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where's the nearest shop ___ bread?",
+      "options": ["that sells", "who sells", "what sells"],
+      "answer": 0,
+      "explanation": "A shop is a thing, so we use that (or which), not who or what."
+    },
+    {
+      "type": "true_false",
+      "statement": "What was the name of the person who phoned?",
+      "answer": true,
+      "explanation": "Correct. Person is a people word, so who is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like stories who have unhappy endings.",
+      "answer": false,
+      "explanation": "I don't like stories that have unhappy endings. We do not use who for things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It seems that Earth is the only planet ___ life.",
+      "hint": "(can support)",
+      "answers": ["that can support", "which can support"],
+      "explanation": "A planet is a thing, so the relative pronoun is that or which."
+    },
+    {
+      "type": "true_false",
+      "statement": "Dan said some things about me they were not true.",
+      "answer": false,
+      "explanation": "Dan said some things about me that were not true. Use that instead of they, not both."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We live in a world ___ changing all the time.",
+      "options": ["that is", "what is", "who is"],
+      "answer": 0,
+      "explanation": "After a noun (a world) we use that or which - never what."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everything ___ happened was my fault.",
+      "answers": ["that"],
+      "explanation": "After everything we use that, not what."
+    }
+  ]
+}

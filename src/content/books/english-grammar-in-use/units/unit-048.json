@@ -1,0 +1,166 @@
+{
+  "number": 48,
+  "title": "Reported speech 2",
+  "subtitle": "He said that his job is boring.",
+  "summary": "Decide when the verb has to change in reported speech, use say and tell correctly, and report orders and requests with tell/ask somebody to do something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "You don't always have to change the verb",
+      "text": "If the situation is still the same, it is not necessary to change the verb to the past. Both forms are correct.",
+      "examples": [
+        { "text": "*direct:* Paul said, 'My new job **is** boring.'" },
+        { "text": "*reported:* Paul said that his new job **is** boring.", "note": "his job is still boring now" },
+        { "text": "*reported:* Paul said that his new job **was** boring.", "note": "also correct" },
+        { "text": "Helen told me that she **wants** to go to Canada next year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When the situation has changed or finished",
+      "text": "If the situation has changed or finished, you **need** a past verb.",
+      "examples": [
+        { "text": "*direct:* Paul left the room suddenly. He said, 'I **have to** go.'" },
+        { "text": "*reported:* Paul left the room suddenly. He said that he **had to** go.", "wrong": "has to go" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When what was said is not really true",
+      "text": "You also need the past in reported speech when what was said is different from what is really true. A few days ago Rachel told you: *'Have you heard? Joe is in hospital.'* Later that day you meet Joe in the street:",
+      "examples": [
+        { "text": "Joe, this is a surprise. Rachel said you **were** in hospital.", "wrong": "you are in hospital" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "say and tell",
+      "left": {
+        "label": "tell somebody",
+        "text": "Use tell when you say who somebody is talking to.",
+        "examples": ["Rachel **told me** that you were in hospital.", "What did you **tell the police**?", "Dan **told me** that he was bored with his job."]
+      },
+      "right": {
+        "label": "say",
+        "text": "Use say when you do not mention the listener.",
+        "examples": ["Rachel **said** that you were in hospital.", "What did you **say**?", "Anna **said goodbye to me** and left."]
+      },
+      "note": "not ~~Rachel said me~~ and not ~~Rachel told that ...~~"
+    },
+    {
+      "type": "explain",
+      "heading": "tell/ask somebody to do something",
+      "text": "We say **tell somebody to ...** and **ask somebody to ...** . For orders and requests, this is usually more natural than a that-clause. The negative is **not to ...** .",
+      "examples": [
+        { "text": "'Drink plenty of water,' the doctor said to me. - The doctor **told me to drink** plenty of water." },
+        { "text": "'Don't work too hard,' I said to Joe. - I **told Joe not to work** too hard." },
+        { "text": "'Can you help me, please,' Jackie said to me. - Jackie **asked me to help** her." },
+        { "text": "Paul **said not to worry** about him.", "wrong": "Paul said me" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Simple rule for say and tell: tell needs a person straight after it (tell me, tell Kate); say does not (say something, say it to me)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Earlier Sarah said, 'I don't like fish.' Now she says, 'Let's have fish for dinner.' You reply: But you said ___ fish.",
+      "hint": "(you / like) - negative",
+      "answers": ["you didn't like", "you did not like"],
+      "explanation": "What she said is different from what is really true, so we need a past verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Earlier Sarah said, 'I can't drive.' Now she says, 'I'm going to buy a car.' You reply: But you said ___.",
+      "hint": "(you / drive) - negative",
+      "answers": ["you couldn't drive", "you could not drive"],
+      "explanation": "can't becomes couldn't in reported speech."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Earlier Sarah said, 'Jane has a very well-paid job.' Now she says, 'Jane is always short of money.' You reply: But you said ___ a very well-paid job.",
+      "hint": "(she / have)",
+      "answers": ["she had"],
+      "explanation": "has becomes had, because what she said does not match the real situation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A few days ago Rachel told you that Joe was in hospital. Today you meet Joe in the street. What do you say?",
+      "options": [
+        "Rachel said you were in hospital.",
+        "Rachel said you are in hospital.",
+        "Rachel told that you were in hospital."
+      ],
+      "answer": 0,
+      "explanation": "Joe clearly isn't in hospital, so we use a past verb; and told always needs an object (told me)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Earlier Sarah said, 'I've never been to the United States.' Now she says, 'I think New York is a great place.' You reply: But you said ___ to the United States.",
+      "hint": "(you / never / be)",
+      "answers": ["you'd never been", "you had never been"],
+      "explanation": "have/has becomes had, so I've never been becomes you'd never been."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each thing that was said with its reported form.",
+      "pairs": [
+        { "left": "'Hurry up!'", "right": "I told him to hurry up." },
+        { "left": "'Please slow down!'", "right": "I asked her to slow down." },
+        { "left": "'Don't worry, Sue.'", "right": "I told her not to worry." },
+        { "left": "'Do you think you could give me a hand, Tom?'", "right": "I asked Tom to give me a hand." },
+        { "left": "'Mind your own business.'", "right": "I told him to mind his own business." },
+        { "left": "'Will you marry me?'", "right": "He asked her to marry him." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't ___ anybody what I said. It's a secret just between us.",
+      "hint": "(say or tell)",
+      "answers": ["tell"],
+      "explanation": "anybody is the listener, and only tell can be followed straight by a person."
+    },
+    {
+      "type": "true_false",
+      "statement": "Rachel said me that you were in hospital.",
+      "answer": false,
+      "explanation": "Rachel told me that you were in hospital. (or Rachel said that you were in hospital.) We never say 'said me'."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verb fits each gap - say or tell?",
+      "categories": ["say", "tell"],
+      "items": [
+        { "text": "Anna ___ goodbye to me and left.", "category": 0 },
+        { "text": "What did you ___ the police?", "category": 1 },
+        { "text": "She ___ she would be here at 8 o'clock.", "category": 0 },
+        { "text": "Gary couldn't help me. He ___ me to ask Chris.", "category": 1 },
+        { "text": "The doctor ___ that I should rest for at least a week.", "category": 0 },
+        { "text": "Did Kate ___ you what happened?", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul left the room suddenly. He said that he has to go.",
+      "answer": false,
+      "explanation": "He said that he had to go. The situation is finished, so we need a past verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Sarah was driving too fast, so you asked her about her speed. Report what you did.",
+      "words": ["I", "asked", "her", "to", "slow", "down."],
+      "answer": "I asked her to slow down.",
+      "explanation": "Requests are reported with ask somebody to do something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue was nervous about the situation, so I told ___.",
+      "hint": "(she / worry) - negative",
+      "answers": ["her not to worry"],
+      "explanation": "The negative of tell somebody to ... is tell somebody not to ... ."
+    }
+  ]
+}

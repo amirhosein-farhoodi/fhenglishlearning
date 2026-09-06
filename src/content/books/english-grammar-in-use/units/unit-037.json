@@ -1,0 +1,166 @@
+{
+  "number": 37,
+  "title": "can/could/would you ... ? (requests, offers, permission and invitations)",
+  "subtitle": "Could you open the door, please?",
+  "summary": "Ask people to do things with can/could you ... ?, ask for things and for permission with can/could I ... ?, and offer and invite with Can I ... ? and Would you like ... ?",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Asking people to do things (requests)",
+      "text": "We use **can** or **could** to ask people to do things. You can also say **Do you think you could ... ?** - with could, not can.",
+      "examples": [
+        { "text": "**Can you wait** a moment, please?" },
+        { "text": "**Could you wait** a moment, please?" },
+        { "text": "Helen, **can you do** me a favour?" },
+        { "text": "Excuse me, **could you tell** me how to get to the bus station?" },
+        { "text": "**Do you think you could** take me to the airport?", "wrong": "Do you think you can" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking for things",
+      "text": "To ask for something, we use **Can (I) have ... ? / Could (I) have ... ?** or **Can (I) get ... ?** **May I have ... ?** is also possible.",
+      "examples": [
+        { "text": "*(in a shop)* **Can I have** these postcards, please?" },
+        { "text": "*(in a shop)* **Can I get** these postcards, please?" },
+        { "text": "*(in a restaurant)* **Could we have** the menu, please?" },
+        { "text": "**May I have** these postcards, please?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking to do things",
+      "text": "We use **can I** or **could I** to ask to do something. **May** is also possible and is more formal. You can also say **Do you mind if I ... ?** or **Is it all right / Is it OK if I ... ?**",
+      "examples": [
+        { "text": "*(on the phone)* Hello, **can I speak** to Steve, please?" },
+        { "text": "*A:* **Could I use** your phone charger? *B:* Sure." },
+        { "text": "**Do you think I could** borrow your bike?" },
+        { "text": "**May I ask** you a question?" },
+        { "text": "*A:* **Is it all right if I** sit here? *B:* Yes, of course." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Offering to do something",
+      "text": "You can use **Can I ... ?** to offer to do something for somebody.",
+      "examples": [
+        { "text": "*A:* **Can I help** you? *B:* No, it's OK. I can manage, thanks." },
+        { "text": "*A:* **Can I get** you some coffee? *B:* That would be nice." },
+        { "text": "**Can I give** you a lift?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Inviting, and saying what you want",
+      "text": "To offer or to invite, we use **Would you like ... ?** - never *Do you like ... ?* **I'd like ...** (= I would like) is a polite way to say what you want.",
+      "examples": [
+        { "text": "*A:* **Would you like** some coffee? *B:* No, thanks.", "wrong": "Do you like some coffee" },
+        { "text": "*A:* **Would you like to eat** with us tonight? *B:* That would be great." },
+        { "text": "*(at a tourist information office)* **I'd like** some information about hotels, please." },
+        { "text": "*(in a shop)* **I'd like to try on** this jacket, please." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "could and would are a little more polite than can and do - useful with strangers or in shops and offices."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with a natural reply.",
+      "pairs": [
+        { "left": "Could you pass the sugar?", "right": "Yes, here you are." },
+        { "left": "Would you like to go to the cinema?", "right": "Maybe. What's on?" },
+        { "left": "Can I use your toilet?", "right": "Sure. It's the door on the left." },
+        { "left": "Do you mind if I leave work early?", "right": "No, that's fine." },
+        { "left": "Can I give you a hand?", "right": "No, it's all right. I can manage, thanks." },
+        { "left": "Would you like something to eat?", "right": "No, thanks. I'm not hungry." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're driving and you see a friend walking along the road. You stop and say: Hi Joe. ___ you a lift?",
+      "hint": "(give)",
+      "answers": ["Can I give", "Could I give"],
+      "explanation": "Can I ... ? is used to offer to do something for somebody."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're making a cold drink for your friend and you think he may want ice. You ask: ___ ice in your drink?",
+      "hint": "(you / like)",
+      "answers": ["Would you like"],
+      "explanation": "To offer something we use Would you like ... ? (not Do you like ... ?)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're ordering something to eat in a cafe. You say: ___ a chicken salad, please.",
+      "hint": "(I / like)",
+      "answers": ["I'd like", "I would like"],
+      "explanation": "I'd like ... is a polite way of saying what you want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You answer the phone and the caller wants to speak to Lisa. You say: Lisa's not here. ___ a message?",
+      "hint": "(take)",
+      "answers": ["Can I take", "Could I take", "May I take"],
+      "explanation": "Can I ... ? offers to do something for the other person."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to invite a friend to eat with you tonight. What do you say?",
+      "options": ["Would you like to eat with us tonight?", "Do you like to eat with us tonight?", "Are you liking to eat with us tonight?"],
+      "answer": 0,
+      "explanation": "To offer or invite, we use Would you like ... ? - not Do you like ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You go into a cafe and see some people you know. You ask: ___ if I join you?",
+      "hint": "(mind)",
+      "answers": ["Do you mind"],
+      "explanation": "Do you mind if I ... ? is another way of asking permission."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You're carrying a lot of things and you can't open the door yourself. There's a man near the door. What do you say to him?",
+      "words": ["Could", "you", "open", "the", "door,", "please?"],
+      "answer": "Could you open the door, please?",
+      "alternatives": ["Can you open the door, please?"],
+      "explanation": "We ask people to do things with Can/Could you ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You've finished your meal in a restaurant and now you want the bill. You ask the waiter: ___ the bill, please?",
+      "hint": "(we / have)",
+      "answers": ["Can we have", "Could we have", "Can I have", "Could I have"],
+      "explanation": "To ask for something we use Can/Could I have ... ? or Can/Could we have ... ?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "You're on a train. The window is open and you're cold, so you'd like to close it. What do you ask the man next to you?",
+      "options": ["Is it OK if I close the window?", "Do you like if I close the window?", "May you close the window?"],
+      "answer": 0,
+      "explanation": "Is it OK / all right if I ... ? asks permission to do something yourself."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you think you can take me to the airport?",
+      "answer": false,
+      "explanation": "Do you think you could take me to the airport? After Do you think we use could, not can."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Are you asking somebody else to do something, or asking to do something yourself?",
+      "categories": ["Asking somebody to do something", "Asking to do something yourself"],
+      "items": [
+        { "text": "Could you tell me how to get to the bus station?", "category": 0 },
+        { "text": "Could I use your phone charger?", "category": 1 },
+        { "text": "Can you wait a moment, please?", "category": 0 },
+        { "text": "Do you mind if I sit here?", "category": 1 },
+        { "text": "Do you think you could turn the music down?", "category": 0 },
+        { "text": "May I ask you a question?", "category": 1 }
+      ]
+    }
+  ]
+}

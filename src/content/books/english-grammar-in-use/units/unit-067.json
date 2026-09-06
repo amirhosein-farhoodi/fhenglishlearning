@@ -1,0 +1,168 @@
+{
+  "number": 67,
+  "title": "see somebody do and see somebody doing",
+  "subtitle": "I saw him do / I saw him doing",
+  "summary": "Use see somebody do for a complete action you saw from start to finish, and see somebody doing for an action in progress.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I saw him do something",
+      "text": "Tom got into his car and drove off, and you saw this. You can say: **I saw Tom get into his car and drive off.** We say 'I saw him **do** something' = he did it and I saw this.",
+      "examples": [
+        { "text": "I didn't hear you **come** in.", "note": "= you came in and I didn't hear this" },
+        { "text": "Lisa suddenly felt somebody **touch** her on the shoulder." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs used in this way",
+      "columns": ["Verb", "+ object", "+ infinitive without to"],
+      "rows": [
+        ["see", "somebody", "**do** something"],
+        ["hear", "somebody", "**say** something"],
+        ["listen to", "somebody", "**tell** a story"],
+        ["watch", "something", "**happen**"],
+        ["feel", "something", "**touch** you"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I saw her doing something",
+      "text": "Yesterday you saw Kate. She was waiting for a bus. You can say: **I saw Kate waiting for a bus.** We say 'I saw her **doing** something' = she was doing it and I saw this. You can use *see, hear, listen to, watch, feel, smell* and *find* in this way.",
+      "examples": [
+        { "text": "I could hear it **raining**.", "note": "= it was raining and I could hear it" },
+        { "text": "Listen to the birds **singing**!" },
+        { "text": "Can you smell something **burning**?" },
+        { "text": "We looked for Paul and finally we found him **sitting** under a tree **eating** an apple." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The difference in meaning",
+      "left": {
+        "label": "I saw him do something",
+        "text": "He did something and I saw this. I saw the complete action from start to finish.",
+        "examples": [
+          "He jumped over the wall and ran away. I saw this. -> I saw him **jump** over the wall and **run** away.",
+          "They went out. I heard this. -> I heard them **go** out."
+        ]
+      },
+      "right": {
+        "label": "I saw him doing something",
+        "text": "He was doing something and I saw this. I saw him in the middle of doing it, not from start to finish.",
+        "examples": [
+          "I saw Tom as I drove past. He was walking along the street. -> I saw Tom **walking** along the street.",
+          "I heard them. They were talking. -> I heard them **talking**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "When either form is possible",
+      "text": "Sometimes the difference is not important and you can use either form.",
+      "examples": [
+        { "text": "I've never seen her **dance**. *or* I've never seen her **dancing**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After see, hear, watch and feel we never use to: say *I saw him go out*, not ~~I saw him to go out~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Tom doesn't have the keys. I saw him ___ them to Lisa.",
+      "options": ["give", "gave", "to give"],
+      "answer": 0,
+      "explanation": "After see + object we use the infinitive without to: I saw him give them to Lisa."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We heard a car ___ outside our house, and then it drove off again.",
+      "hint": "(stop)",
+      "answers": ["stop"],
+      "explanation": "We heard the complete action, so: heard a car stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben gave me the envelope and watched me ___ it.",
+      "hint": "(open)",
+      "answers": ["open"],
+      "explanation": "He watched the whole action from start to finish: watched me open it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah is Canadian. I heard her say she's from Toronto.",
+      "answer": true,
+      "explanation": "Correct. hear somebody say something = the complete thing was said and I heard it."
+    },
+    {
+      "type": "true_false",
+      "statement": "We saw a man fell over in the street, so we went to help him.",
+      "answer": false,
+      "explanation": "We saw a man fall over in the street. After see + object we use the infinitive without to, not a past form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday we passed the bus stop. Kate was standing there. We saw Kate ___ for a bus.",
+      "hint": "(wait)",
+      "answers": ["waiting"],
+      "explanation": "She was in the middle of waiting, so: saw Kate waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a strange smell in the kitchen. We could smell something ___.",
+      "hint": "(burn)",
+      "answers": ["burning"],
+      "explanation": "Something was burning at that moment: smell something + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Listen. Can you hear a baby ___?",
+      "hint": "(cry)",
+      "answers": ["crying"],
+      "explanation": "The baby is in the middle of crying: hear somebody + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everybody heard the bomb ___. It was a tremendous noise.",
+      "hint": "(explode)",
+      "answers": ["explode"],
+      "explanation": "The explosion was one complete action: heard the bomb explode."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["We looked for Paul", "and finally", "we found him", "sitting under a tree", "eating an apple."],
+      "answer": "We looked for Paul and finally we found him sitting under a tree eating an apple.",
+      "explanation": "find somebody + -ing: he was in the middle of sitting and eating when we found him."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "I looked out of the window and saw Dan", "right": "riding his bike along the road." },
+        { "left": "I heard somebody", "right": "slam a door in the middle of the night." },
+        { "left": "When I got home, I found a cat", "right": "lying on the kitchen table." },
+        { "left": "Oh! I can feel something", "right": "crawling up my leg. It must be an insect." },
+        { "left": "We listened to the old man", "right": "tell his story from beginning to end." },
+        { "left": "There was an accident outside my house, but I didn't see it", "right": "happen." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Did the speaker see or hear the complete action, or only the middle of it?",
+      "categories": ["The complete action", "In the middle of it"],
+      "items": [
+        { "text": "I saw him jump over the wall and run away.", "category": 0 },
+        { "text": "I saw Tom walking along the street.", "category": 1 },
+        { "text": "I heard them go out.", "category": 0 },
+        { "text": "I heard them talking.", "category": 1 },
+        { "text": "I didn't hear you come in.", "category": 0 },
+        { "text": "I could hear it raining.", "category": 1 }
+      ]
+    }
+  ]
+}

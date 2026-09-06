@@ -1,0 +1,173 @@
+{
+  "number": 133,
+  "title": "Verb + preposition 2: about/for/of/after",
+  "subtitle": "talk about / wait for / look after",
+  "summary": "Learn the verbs that take about and for, and the difference between look for, look after, care for and care about.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "talk about, do something about",
+      "text": "We say **talk / read / know about** something and **have a discussion about** something. We also **do something / nothing about** a problem, meaning we act to improve the situation.",
+      "examples": [
+        { "text": "We **talked about** a lot of things at the meeting." },
+        { "text": "We had a **discussion about** what we should do." },
+        { "text": "If you're worried about the problem, you should **do something about** it." }
+      ],
+      "note": "But we say **discuss something** with no preposition: We **discussed** what we should do. (not ~~discussed about~~)"
+    },
+    {
+      "type": "explain",
+      "heading": "ask for, apply for",
+      "text": "We **ask (somebody) for** something and **apply (to a company) for** a job.",
+      "examples": [
+        { "text": "I sent an email to the company **asking** them **for** more information about the job." },
+        { "text": "I think you could do this job. Why don't you **apply for** it?" },
+        { "text": "I've **applied to** three universities. I hope one of them accepts me." }
+      ],
+      "note": "But we say **ask somebody the way / the time** with no preposition: I asked somebody the way to the station."
+    },
+    {
+      "type": "explain",
+      "heading": "wait for, search for, leave for",
+      "text": "We **wait for** somebody or for something to happen, **search a place for** something, and **leave** one place **for** another.",
+      "examples": [
+        { "text": "Don't **wait for** me. I'll join you later." },
+        { "text": "I'm not going out yet. I'm **waiting for** the rain to stop." },
+        { "text": "I've **searched** the house **for** my keys, but I still can't find them." },
+        { "text": "I haven't seen her since she **left** (home) **for** work.", "wrong": "left to work" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "take care of, care for, care about",
+      "text": "**take care of** = look after, take responsibility for. **care for** somebody = look after them; but *I don't care for something* = I don't like it. **care about** somebody or something = think they are important.",
+      "examples": [
+        { "text": "Don't worry about me. I can **take care of** myself." },
+        { "text": "I'll **take care of** the travel arrangements. You don't need to do anything." },
+        { "text": "Alan is 85 and lives alone. He needs somebody to **care for** him." },
+        { "text": "I **don't care for** hot weather.", "note": "= I don't like hot weather" },
+        { "text": "He's very selfish. He **doesn't care about** other people." }
+      ],
+      "note": "We say **care what / where / how ...** without about: You can do what you like. I don't **care what** you do."
+    },
+    {
+      "type": "compare",
+      "heading": "look for or look after?",
+      "left": {
+        "label": "look for = search for, try to find",
+        "examples": [
+          "I've lost my keys. Can you help me to **look for** them?",
+          "Kate is **looking for** a job. I hope she finds one soon."
+        ]
+      },
+      "right": {
+        "label": "look after = take care of, keep in good condition",
+        "examples": [
+          "Alan is 85 and lives alone. He needs somebody to **look after** him.",
+          "You can borrow this book, but please **look after** it."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "If somebody is missing, you look **for** them; if somebody needs help, you look **after** them."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not going out yet. I'm waiting ___ the rain to stop.",
+      "hint": "one word",
+      "answers": ["for"],
+      "explanation": "Wait always takes for before its object."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We ___ the problem, but we didn't reach a decision.",
+      "options": ["discussed", "discussed about", "discussed for"],
+      "answer": 0,
+      "explanation": "Discuss takes no preposition, but we have a discussion about something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you don't want the job, there's no point in applying ___ it.",
+      "hint": "one word",
+      "answers": ["for"],
+      "explanation": "Apply for a job (but apply to a company or a university)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My flight is at 9.30. What time do I need to leave the hotel ___ the airport?",
+      "hint": "one word",
+      "answers": ["for"],
+      "explanation": "Leave one place for another place, not to another place."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "I've lost my keys. Can you help me to", "right": "look for them?" },
+        { "left": "You can borrow this book, but please", "right": "look after it" },
+        { "left": "Alan is 85 and lives alone. He needs somebody to", "right": "care for him" },
+        { "left": "He's very selfish. He doesn't", "right": "care about other people" },
+        { "left": "Don't worry about the shopping. I'll", "right": "take care of that" },
+        { "left": "I never eat in hot weather. I", "right": "don't care for it" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A security guard ___ as I entered the building.",
+      "options": ["searched my bag", "searched for my bag", "searched about my bag"],
+      "answer": 0,
+      "explanation": "We search a place or a bag; we search a place for the thing we want to find."
+    },
+    {
+      "type": "true_false",
+      "statement": "There are many problems, but the government does nothing for them.",
+      "answer": false,
+      "explanation": "The government does nothing about them. Do something about a problem = act to improve it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who's going to take care ___ you when you are old?",
+      "hint": "one word",
+      "answers": ["of"],
+      "explanation": "Take care of somebody = look after them."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition does each verb need?",
+      "categories": ["about", "for", "no preposition"],
+      "items": [
+        { "text": "talk ... the problem", "category": 0 },
+        { "text": "know ... the problem", "category": 0 },
+        { "text": "wait ... the bus", "category": 1 },
+        { "text": "apply ... a job", "category": 1 },
+        { "text": "discuss ... the problem", "category": 2 },
+        { "text": "ask somebody ... the way", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate is ___ a job. I hope she finds one soon.",
+      "hint": "(look)",
+      "answers": ["looking for"],
+      "explanation": "Look for = try to find."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen's car is very old, but she ___ it. It's in excellent condition.",
+      "hint": "(look)",
+      "answers": ["looks after", "has looked after"],
+      "explanation": "Look after = keep something in good condition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I paid the taxi driver and ___.",
+      "options": ["asked him for a receipt", "asked him a receipt", "asked to him a receipt"],
+      "answer": 0,
+      "explanation": "Ask somebody for something (but ask somebody the way or the time)."
+    }
+  ]
+}

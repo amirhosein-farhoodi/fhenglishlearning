@@ -4,6 +4,7 @@ import { explanationOf, solutionLines, TYPE_LABEL } from '../components/exercise
 import { getBook, loadUnit, nextAvailableUnit } from '../content/registry'
 import type { Exercise, Unit } from '../content/types'
 import { renderInline } from '../lib/markup'
+import { ArrowLeft, ArrowRight } from '../components/Icons'
 
 function questionText(x: Exercise): string {
   switch (x.type) {
@@ -56,7 +57,7 @@ export default function Review() {
     <main className="page">
       <div className="container narrow">
         <Link to={`/learn/${book.slug}`} className="back">
-          ← {book.title}
+          <ArrowLeft size={16} /> {book.title}
         </Link>
         <header className="lesson-head">
           <p className="eyebrow">Answer key · Unit {unit.number}</p>
@@ -99,7 +100,7 @@ export default function Review() {
             </Link>
             {nextUnit && (
               <Link to={`/learn/${book.slug}/${nextUnit}`} className="btn btn-ghost">
-                Next lesson →
+                Next lesson <ArrowRight size={18} />
               </Link>
             )}
           </div>

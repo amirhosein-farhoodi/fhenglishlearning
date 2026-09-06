@@ -1,0 +1,191 @@
+{
+  "number": 123,
+  "title": "in/at/on (position) 1",
+  "subtitle": "in the room / at the door / on the wall",
+  "summary": "Use in for something inside a space, at for a point or place, and on for a surface.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in = inside a space",
+      "text": "We use **in** when something is inside a larger space: in a room, in a building, in a box, in a garden, in a town, in the city centre, in a pool, in the sea, in a river.",
+      "examples": [
+        { "text": "There's no-one **in the room** / **in the building** / **in the garden**." },
+        { "text": "What do you have **in your hand** / **in your mouth**?" },
+        { "text": "When we were **in Italy**, we spent a few days **in Venice**." },
+        { "text": "I have a friend who lives **in a small village in the mountains**." },
+        { "text": "There were some people swimming **in the pool** / **in the sea** / **in the river**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at = a point or a place",
+      "text": "We use **at** when we think of a place as a point: at the bus stop, at the door, at the roundabout, at her desk. We also use **at** for the place where we get on or off something.",
+      "examples": [
+        { "text": "Who is that man standing **at the bus stop** / **at the door** / **at the window**?" },
+        { "text": "Turn left **at the traffic lights** / **at the next junction** / **at the roundabout** / **at the church**." },
+        { "text": "We have to get off the bus **at the next stop**." },
+        { "text": "When you leave the hotel, please leave your key **at reception**.", "note": "= at the reception desk" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in or at?",
+      "left": {
+        "label": "in = inside the space",
+        "examples": [
+          "There were a lot of people **in the shop**. It was crowded.",
+          "I'll meet you **in the hotel lobby**. (= in the building)"
+        ]
+      },
+      "right": {
+        "label": "at = the point on the way",
+        "examples": [
+          "Go along this road, then turn left **at the shop**.",
+          "I'll meet you **at the entrance** to the hotel. (= outside the building)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "on = on a surface",
+      "text": "We use **on** for a surface or a line: on the wall, on the floor, on the ceiling, on a page, on an island.",
+      "examples": [
+        { "text": "I sat **on the floor** / **on the ground** / **on the grass** / **on the beach** / **on a chair**." },
+        { "text": "There's a dirty mark **on the ceiling** / **on your nose** / **on your shirt**." },
+        { "text": "Did you see the notice **on the wall** / **on the door**?" },
+        { "text": "You'll find details of TV programmes **on page seven** of the newspaper." },
+        { "text": "The hotel is **on a small island** in the middle of a lake." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in or on? at or on?",
+      "left": {
+        "label": "inside it",
+        "examples": [
+          "There is some water **in the bottle**.",
+          "There is somebody **at the door**. Shall I go and see who it is?"
+        ]
+      },
+      "right": {
+        "label": "on the surface of it",
+        "examples": [
+          "There is a label **on the bottle**.",
+          "There is a notice **on the door**. It says 'Do not disturb'."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Typical examples",
+      "columns": ["in", "at", "on"],
+      "rows": [
+        ["in a box", "at the bus stop", "on the wall"],
+        ["in the city centre", "at the traffic lights", "on the floor"],
+        ["in the sea", "at the entrance", "on the beach"],
+        ["in a tent", "at a desk", "on page seven"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: am I talking about a space (in), a point (at) or a surface (on)? The same noun can take all three - water in the bottle, a label on the bottle, meet me at the bottle bank."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "There was a long queue of people ___ the bus stop.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "A bus stop is a point on a journey, so we say at the bus stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were some people swimming ___.",
+      "hint": "(the river)",
+      "answers": ["in the river"],
+      "explanation": "We swim inside the water, so: in the river (also in the sea, in the pool)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was holding something ___, but I couldn't see what it was.",
+      "hint": "(his hand)",
+      "answers": ["in his hand"],
+      "explanation": "Things we hold are in the hand: What do you have in your hand?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Nicola was wearing a silver ring ___ her little finger.",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "A ring sits on the surface of the finger, so we say on her little finger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Leave the motorway ___ and then turn left.",
+      "hint": "(junction 14)",
+      "answers": ["at junction 14"],
+      "explanation": "A junction is a point on the road: turn left at the next junction."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with the right place phrase.",
+      "pairs": [
+        { "left": "The car is waiting", "right": "at the traffic lights" },
+        { "left": "The shelves are", "right": "on the wall" },
+        { "left": "The Eiffel Tower is", "right": "in Paris" },
+        { "left": "The children are playing", "right": "on the beach" },
+        { "left": "The bird is sitting", "right": "on the gate" },
+        { "left": "The key is", "right": "in the door" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "There is some water on the bottle and there is a label in the bottle.",
+      "answer": false,
+      "explanation": "There is some water in the bottle and there is a label on the bottle. The water is inside, the label is on the surface."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can go skiing ___. There's plenty of snow.",
+      "hint": "(the mountains)",
+      "answers": ["in the mountains"],
+      "explanation": "We say in the mountains, as with in a village, in the country."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each place?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "the city centre", "category": 0 },
+        { "text": "a tent", "category": 0 },
+        { "text": "the next junction", "category": 1 },
+        { "text": "the entrance to the building", "category": 1 },
+        { "text": "the ceiling", "category": 2 },
+        { "text": "page seven of the newspaper", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wouldn't like an office job. I couldn't spend the whole day sitting ___ a desk.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "We sit at a desk, at a table, at the window - a point where we are."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's nobody living ___. It's uninhabited.",
+      "hint": "(the island)",
+      "answers": ["on the island"],
+      "explanation": "We say on an island, as with on the beach and on the coast."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like that picture hanging on the wall ___ the kitchen.",
+      "hint": "one word",
+      "answers": ["in"],
+      "explanation": "The kitchen is a room, so the picture is in the kitchen (and on the wall)."
+    }
+  ]
+}

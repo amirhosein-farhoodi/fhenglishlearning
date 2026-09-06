@@ -1,0 +1,178 @@
+{
+  "number": 127,
+  "title": "in/on/at (other uses)",
+  "subtitle": "in the rain / on TV / at the age of 16",
+  "summary": "Learn the fixed expressions with in, on and at that are not about place or time - in the rain, on holiday, at the age of 16.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in the rain, in the shade",
+      "text": "We use **in** for the weather and the light around us: in the rain, in the sun, in the shade, in the dark, in bad weather, in fog.",
+      "examples": [
+        { "text": "We sat **in the shade**. It was too hot to sit **in the sun**." },
+        { "text": "Don't go out **in the rain**. Wait until it stops." },
+        { "text": "Can you turn the light on? I don't want to sit **in the dark**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in French, in love, in my opinion",
+      "text": "We also use **in** for languages and currencies, for **in love (with somebody)**, for **in a good/bad mood** and for **in my opinion**.",
+      "examples": [
+        { "text": "How do you say 'thank you' **in Russian**?" },
+        { "text": "How much is a hundred pounds **in dollars**?" },
+        { "text": "They're very happy together. They're **in love**." },
+        { "text": "You seem to be **in a bad mood**. What's the matter?" },
+        { "text": "**In my opinion** the film wasn't very good." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on TV, on purpose, on the whole",
+      "text": "We use **on** with media and a group of common expressions: on TV / on television, on the radio, on the phone, on fire, on purpose (= intentionally), on the whole (= in general).",
+      "examples": [
+        { "text": "I didn't see the news **on TV**." },
+        { "text": "I've never met her, but I've spoken to her **on the phone**." },
+        { "text": "Look! That car is **on fire**." },
+        { "text": "I'm sorry. I didn't mean to hurt you. I didn't do it **on purpose**." },
+        { "text": "Sometimes I have problems at work, but **on the whole** I enjoy my job." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on holiday, on strike, on a diet",
+      "text": "We say **(be/go) on holiday**, **on a trip / on a tour / on a cruise**, **on business**, **on strike** and **on a diet**.",
+      "examples": [
+        { "text": "I'm going **on holiday** next week." },
+        { "text": "One day I'd like to go **on a world tour**." },
+        { "text": "Emma's away **on business** at the moment." },
+        { "text": "There are no trains today. The drivers are **on strike**." },
+        { "text": "I've put on weight. I'll have to go **on a diet**." }
+      ],
+      "note": "We can also say go somewhere **for a holiday**: Steve has gone to France **for a holiday**."
+    },
+    {
+      "type": "explain",
+      "heading": "at the age of 16, at 100 degrees",
+      "text": "We use **at** with an age, a speed, a temperature and an altitude.",
+      "examples": [
+        { "text": "Tracy left school **at 16**.", "note": "or at the age of 16" },
+        { "text": "The train was travelling **at 120 miles an hour**." },
+        { "text": "Water boils **at 100 degrees Celsius**." },
+        { "text": "We are now flying **at a speed of** 800 kilometres an hour and **at an altitude of** 9,000 metres." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quick reference",
+      "columns": ["in", "on", "at"],
+      "rows": [
+        ["in the rain / sun / shade / dark", "on TV / on the radio", "at the age of 16"],
+        ["in French / in dollars", "on the phone / on fire", "at 120 miles an hour"],
+        ["in love / in a good mood", "on purpose / on the whole", "at 100 degrees"],
+        ["in my opinion", "on holiday / on strike / on a diet", "at a speed of ..."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two easy pairs to mix up: do something **on purpose** (not in purpose) and **on the whole** (not in the whole)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Don't go out ___. Wait until it stops.",
+      "hint": "(the rain)",
+      "answers": ["in the rain"],
+      "explanation": "Weather goes with in: in the rain, in the sun, in fog."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's too hot here. I'm going to sit ___ under that tree.",
+      "hint": "(the shade)",
+      "answers": ["in the shade"],
+      "explanation": "We sit in the sun or in the shade."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say 'thank you' ___ Russian?",
+      "options": ["in", "on", "at"],
+      "answer": 0,
+      "explanation": "Languages and currencies take in: in French, in dollars."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Workers at the company have gone ___ for better pay and conditions.",
+      "hint": "(strike)",
+      "answers": ["on strike"],
+      "explanation": "We say be/go on strike, like on holiday and on a diet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was panic when people realised that the building was ___.",
+      "hint": "(fire)",
+      "answers": ["on fire"],
+      "explanation": "The fixed expression is be on fire."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Julia's grandmother died recently ___ the age of 90.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "Ages take at: at 16, at the age of 90."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "I heard the weather forecast", "right": "on the radio" },
+        { "left": "Water boils", "right": "at 100 degrees Celsius" },
+        { "left": "I shouldn't eat too much. I'm supposed to be", "right": "on a diet" },
+        { "left": "The film was", "right": "in French with English subtitles" },
+        { "left": "Jane's job involves travelling. She often goes away", "right": "on business" },
+        { "left": "Ben is a happy sort of person. He always seems to be", "right": "in a good mood" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each expression?",
+      "categories": ["in", "on", "at"],
+      "items": [
+        { "text": "the dark", "category": 0 },
+        { "text": "my opinion", "category": 0 },
+        { "text": "purpose", "category": 1 },
+        { "text": "the whole", "category": 1 },
+        { "text": "the age of 16", "category": 2 },
+        { "text": "120 miles an hour", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm sorry. It was an accident. I didn't do it in purpose.",
+      "answer": false,
+      "explanation": "I didn't do it on purpose. On purpose means intentionally."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amanda thought the restaurant was OK, but ___ it wasn't very good.",
+      "hint": "(my opinion)",
+      "answers": ["in my opinion"],
+      "explanation": "We say in my opinion, not on or at my opinion."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wouldn't like to go ___ a cruise. I think I'd get bored.",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "Journeys of this kind take on: on a trip, on a tour, on a cruise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some of the exam questions were hard, but ___ it was OK.",
+      "hint": "(the whole)",
+      "answers": ["on the whole"],
+      "explanation": "On the whole = in general."
+    }
+  ]
+}

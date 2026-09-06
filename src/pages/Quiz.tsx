@@ -10,6 +10,7 @@ import type { Unit } from '../content/types'
 import { renderInline } from '../lib/markup'
 import { recordQuiz, XP_PER_CORRECT, type QuizOutcome } from '../lib/storage'
 import { sfx } from '../lib/sfx'
+import { ArrowRight } from '../components/Icons'
 
 type Phase = 'loading' | 'quiz' | 'result'
 
@@ -152,7 +153,7 @@ export default function Quiz() {
               <div className="result-actions">
                 {nextUnit ? (
                   <button type="button" className="btn btn-primary btn-lg" onClick={() => nav(`/learn/${book.slug}/${nextUnit}`)}>
-                    Next lesson: Unit {nextUnit} →
+                    Next lesson: Unit {nextUnit} <ArrowRight />
                   </button>
                 ) : (
                   <p className="muted">You have reached the last available lesson. More are coming!</p>

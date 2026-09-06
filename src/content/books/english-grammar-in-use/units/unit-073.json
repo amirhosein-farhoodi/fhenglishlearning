@@ -1,0 +1,190 @@
+{
+  "number": 73,
+  "title": "the 1",
+  "subtitle": "the sun / the same / the cinema",
+  "summary": "Use the when there is only one of something, and learn the everyday expressions that take the - and the ones that don't.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Only one of something",
+      "text": "We use **the** when there is only one of something. We also use **the** with a superlative (the best, the oldest ...).",
+      "examples": [
+        { "text": "Have you ever crossed **the equator**?", "note": "there is only one equator" },
+        { "text": "Our apartment is on **the tenth floor**." },
+        { "text": "Buenos Aires is **the capital** of Argentina." },
+        { "text": "I'm going away at **the end** of this month." },
+        { "text": "What's **the longest** river in Europe?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the and a/an",
+      "left": {
+        "label": "the - the only one",
+        "examples": [
+          "**The sun** is a star.",
+          "What's **the best** way to learn a language?"
+        ]
+      },
+      "right": {
+        "label": "a/an - one of many",
+        "examples": [
+          "The sun is **a star**. (= one of many stars)",
+          "The hotel where we stayed was **a very old hotel**.",
+          "We live in **an apartment** on the tenth floor."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "the same",
+      "text": "We always say **the same**, never just 'same'.",
+      "examples": [
+        { "text": "Your sweater is **the same** colour as mine.", "wrong": "is same colour" },
+        { "text": "'Are these keys **the same**?' 'No, they're different.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the world, the sun, the sky ...",
+      "text": "We say **the world, the universe, the sun, the moon, the earth, the sky, the sea, the ground** and **the country** (= not a town). But we use **Earth** without the when we think of it as a planet, and **space** without the when we mean space in the universe.",
+      "examples": [
+        { "text": "I love to look at the stars in **the sky**.", "wrong": "in sky" },
+        { "text": "Do you live in a town or in **the country**?" },
+        { "text": "**The earth** goes round **the sun**, and **the moon** goes round **the earth**." },
+        { "text": "Which is the planet nearest **Earth**?" },
+        { "text": "There are millions of stars in **space**.", "wrong": "in the space" },
+        { "text": "I tried to park my car, but **the space** was too small." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "the cinema, TV, the radio",
+      "columns": ["We say", "Example"],
+      "rows": [
+        ["**the cinema**, **the theatre**", "I go to **the cinema** a lot, but I haven't been to **the theatre** for ages."],
+        ["**TV / television** (no the)", "I watch **TV** a lot."],
+        ["**the radio**", "I don't listen to **the radio** much."],
+        ["**the television** (= the TV set)", "Can you turn off **the television**, please?"],
+        ["**the internet**", "**The internet** has changed the way we live."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Meals",
+      "text": "We usually say **breakfast / lunch / dinner** without the. But when there is an adjective, we say **a big lunch**, **a wonderful dinner**, **an early breakfast**.",
+      "examples": [
+        { "text": "What did you have for **breakfast**?" },
+        { "text": "We had **lunch** in a very nice restaurant." },
+        { "text": "We had **a very nice lunch**.", "wrong": "We had very nice lunch" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Numbered things",
+      "text": "We say **size 43, platform 5, room 126, page 29, vitamin A, section B** - without the.",
+      "examples": [
+        { "text": "Our train leaves from **platform 5**.", "wrong": "the platform 5" },
+        { "text": "Do you have these shoes in **size 43**?", "wrong": "the size 43" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the odd pair: we watch **TV** but we listen to **the radio**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Our apartment is on the tenth floor. *B:* Is it? I hope there's ___ lift.",
+      "hint": "(a or the?)",
+      "answers": ["a"],
+      "explanation": "This is not a specific lift we already know about, so we use a."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Did you have a nice holiday? *B:* Yes, it was ___ best holiday I've ever had.",
+      "options": ["the", "a", "- (no word)"],
+      "answer": 0,
+      "explanation": "We use the with a superlative: the best holiday."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a lovely day, isn't it? Yes, there isn't a cloud in ___ sky.",
+      "hint": "(a or the?)",
+      "answers": ["the"],
+      "explanation": "There is only one sky, so we say the sky."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Would you like to travel in ___ space?",
+      "options": ["- (no word)", "the", "a"],
+      "answer": 0,
+      "explanation": "Space in the universe takes no article; the space means an empty gap."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yes, I'd love to go to ___ moon.",
+      "hint": "(a or the?)",
+      "answers": ["the"],
+      "explanation": "There is only one moon, so we say the moon."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah spends most of her free time watching the TV.",
+      "answer": false,
+      "explanation": "Sarah spends most of her free time watching TV. We say watch TV without the (but turn off the television = the TV set)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you ever listen to ___?",
+      "options": ["the radio", "radio", "a radio"],
+      "answer": 0,
+      "explanation": "We say listen to the radio, even though we say watch TV."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's confusing when two people have ___ name.",
+      "hint": "(same)",
+      "answers": ["the same"],
+      "explanation": "We always say the same, never just same."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This computer is not connected to ___ internet.",
+      "hint": "(a or the?)",
+      "answers": ["the"],
+      "explanation": "We say the internet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The next train to London leaves from ___.",
+      "hint": "(platform 3)",
+      "answers": ["platform 3"],
+      "explanation": "Numbered things take no article: platform 3, not the platform 3."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["You'll find", "the information", "you need", "at the top", "of page 15."],
+      "answer": "You'll find the information you need at the top of page 15.",
+      "explanation": "the information (we know which information) and the top (there is only one top), but page 15 with no article."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these expressions take the, and which take no word at all?",
+      "categories": ["with the", "without the"],
+      "items": [
+        { "text": "go to ___ cinema", "category": 0 },
+        { "text": "listen to ___ radio", "category": 0 },
+        { "text": "connected to ___ internet", "category": 0 },
+        { "text": "a nice restaurant by ___ sea", "category": 0 },
+        { "text": "watch ___ TV", "category": 1 },
+        { "text": "have ___ breakfast", "category": 1 },
+        { "text": "millions of stars in ___ space", "category": 1 },
+        { "text": "boarding at ___ Gate 24", "category": 1 }
+      ]
+    }
+  ]
+}

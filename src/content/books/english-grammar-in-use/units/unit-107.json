@@ -1,0 +1,195 @@
+{
+  "number": 107,
+  "title": "Comparative 3 (as ... as / than)",
+  "subtitle": "as rich as / the same as / than me",
+  "summary": "Learn to compare things with as ... as, not as ... as, less than and the same as, and to choose between than me and than I am.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Sarah, Joe and David are all very rich. Sarah has $20 million, Joe has $15 million and David has $10 million. Joe is rich, and he is richer than David. But he **isn't as rich as** Sarah - Sarah is richer than he is.",
+      "examples": [
+        { "text": "Joe is **richer than** David." },
+        { "text": "Joe **isn't as rich as** Sarah.", "note": "= Sarah is richer than he is" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not as ... (as)",
+      "text": "**not as ... as** means that the first thing has less of the quality than the second one.",
+      "examples": [
+        { "text": "Jack **isn't as old as** he looks.", "note": "= he looks older than he is" },
+        { "text": "The town centre **wasn't as crowded as** usual.", "note": "= it is usually more crowded" },
+        { "text": "Lisa **didn't do as well** in the exam **as** she had hoped." },
+        { "text": "I **don't know as many** people **as** you do.", "note": "= you know more people than me" },
+        { "text": "*A:* How much was it? Fifty dollars? *B:* No, **not as much as** that.", "note": "= less than fifty dollars" }
+      ],
+      "note": "You can also say not so ... as: It's not warm, but it's not so cold as yesterday."
+    },
+    {
+      "type": "compare",
+      "heading": "less than = not as ... as",
+      "left": {
+        "label": "less than",
+        "examples": [
+          "I spent **less money than** you.",
+          "The city centre was **less crowded than** usual.",
+          "I play tennis **less than** I used to."
+        ]
+      },
+      "right": {
+        "label": "not as ... as",
+        "examples": [
+          "I **didn't spend as much money as** you.",
+          "It **wasn't as crowded as** usual.",
+          "I **don't play as much as** I used to."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "as ... as in positive sentences and questions",
+      "text": "We use **as ... as** (but not *so ... as*) in positive sentences and in questions too.",
+      "examples": [
+        { "text": "I'm sorry I'm late. I got here **as fast as** I could." },
+        { "text": "There's plenty of food. You can have **as much as** you want." },
+        { "text": "Can you send me the information **as soon as** possible, please?" },
+        { "text": "Let's walk. It's **just as quick as** taking the bus." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "twice as ... as",
+      "text": "You can also say **twice as ... as**, **three times as ... as** etc.",
+      "examples": [
+        { "text": "Petrol is **twice as expensive as** it was a few years ago." },
+        { "text": "Their house is about **three times as big as** ours.", "note": "or ... three times the size of ours" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the same as",
+      "text": "We say **the same as** - never *the same like*.",
+      "examples": [
+        { "text": "Laura's salary is **the same as** mine.", "wrong": "the same like mine", "note": "or Laura gets the same salary as me" },
+        { "text": "David is **the same age as** James." },
+        { "text": "Sarah hasn't changed. She still looks **the same as** she did ten years ago." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "than me or than I am?",
+      "left": {
+        "label": "than / as + me, him, us",
+        "examples": [
+          "You're taller **than me**.",
+          "He's not as clever **as her**.",
+          "They have more money **than us**.",
+          "I can't run as fast **as him**."
+        ]
+      },
+      "right": {
+        "label": "than / as + I am, she is ...",
+        "examples": [
+          "You're taller **than I am**.",
+          "He's not as clever **as she is**.",
+          "They have more money **than we have**.",
+          "I can't run as fast **as he can**."
+        ]
+      },
+      "note": "We do not usually say 'You're taller than I' on its own."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I'm tall, but you are taller. So: I'm not ___ you.",
+      "options": ["as tall as", "as tall than", "so tall than"],
+      "answer": 0,
+      "explanation": "not as + adjective + as: I'm not as tall as you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My salary is high, but yours is higher. My salary isn't ___ yours.",
+      "hint": "(high)",
+      "answers": ["as high as", "so high as"],
+      "explanation": "not as high as (or not so high as) = yours is higher."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a difficult question. I answered it ___ I could.",
+      "hint": "(well)",
+      "answers": ["as well as"],
+      "explanation": "as + adverb + as in a positive sentence: as well as I could."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need the information quickly, so let me know ___ possible.",
+      "hint": "(soon)",
+      "answers": ["as soon as"],
+      "explanation": "as soon as possible is a fixed phrase for 'without any delay'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't want to wake anybody, so I came in ___ I could.",
+      "hint": "(quietly)",
+      "answers": ["as quietly as"],
+      "explanation": "as + adverb + as: as quietly as I could."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "David and James are both 22 years old. David is ___ James.",
+      "hint": "(the same ... as / age)",
+      "answers": ["the same age as"],
+      "explanation": "the same + noun + as: the same age as James."
+    },
+    {
+      "type": "true_false",
+      "statement": "Laura's salary is the same like mine.",
+      "answer": false,
+      "explanation": "Laura's salary is the same as mine. After the same we use as, never like."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Petrol costs two times what it cost a few years ago. Petrol is ___ expensive as it was a few years ago.",
+      "options": ["twice as", "twice more", "two times more"],
+      "answer": 0,
+      "explanation": "twice as + adjective + as shows that something is two times as much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The meal didn't cost as much as I expected. In other words: the meal cost ___ I expected.",
+      "hint": "(less)",
+      "answers": ["less than"],
+      "explanation": "less than has the same meaning as not as much as."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Karen's hair isn't as long as it used to be. Write the same idea with used to.",
+      "words": ["Karen", "used to", "have", "longer", "hair."],
+      "answer": "Karen used to have longer hair.",
+      "explanation": "not as long as it used to be = her hair was longer before."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know them better than you do. In other words: you don't ___ me.",
+      "hint": "(know them / well)",
+      "answers": ["know them as well as"],
+      "explanation": "not as well as = the other person knows them better."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need as or than in the gap?",
+      "categories": ["as", "than"],
+      "items": [
+        { "text": "My friends arrived earlier ... I expected.", "category": 1 },
+        { "text": "I live in the same street ... Katherine.", "category": 0 },
+        { "text": "He doesn't know much. I know more ... him.", "category": 1 },
+        { "text": "Let's walk. It's just ... quick as taking the bus.", "category": 0 },
+        { "text": "This morning there was less traffic ... usual.", "category": 1 },
+        { "text": "Your bag is light. Mine is twice ... heavy as yours.", "category": 0 }
+      ]
+    }
+  ]
+}

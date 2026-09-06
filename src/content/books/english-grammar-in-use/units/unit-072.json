@@ -1,0 +1,185 @@
+{
+  "number": 72,
+  "title": "a/an and the",
+  "subtitle": "a sandwich / the sandwich",
+  "summary": "Use a/an the first time you mention something, and the when it is clear to the listener which thing or person you mean.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "First time, then after that",
+      "text": "Joe is telling you about his lunch: *'I had **a sandwich** and **an apple** for lunch. **The sandwich** wasn't very good, but **the apple** was nice.'* He says a sandwich and an apple because it is the first time he talks about them. Then he says the sandwich and the apple because now we know which ones he means.",
+      "examples": [
+        { "text": "**A man** and **a woman** were sitting opposite me. **The man** was American, but I think **the woman** was British." },
+        { "text": "When we were on holiday, we stayed at **a hotel**. Sometimes we ate at **the hotel** and sometimes we went to **a restaurant**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a/an or the?",
+      "left": {
+        "label": "a/an - not a specific one",
+        "examples": [
+          "Tim sat down on **a chair**. (maybe one of many chairs in the room)",
+          "Do you have **a car**? (not a specific car)"
+        ]
+      },
+      "right": {
+        "label": "the - a specific one",
+        "examples": [
+          "Tim sat down on **the chair** nearest the door. (a specific chair)",
+          "I cleaned **the car** yesterday. (= my car)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Saying what kind of thing",
+      "text": "We use **a/an** when we say what kind of thing or person we mean, and **the** when we point to one specific thing.",
+      "examples": [
+        { "text": "We stayed at **a very cheap hotel**.", "note": "= a type of hotel" },
+        { "text": "**The hotel** where we stayed was very cheap.", "note": "= a specific hotel" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When it is clear which one we mean",
+      "text": "We use **the** when it is clear from the situation which thing or person we mean. In a room, for example, we talk about **the light / the floor / the ceiling / the door / the carpet**.",
+      "examples": [
+        { "text": "Can you turn off **the light**, please?", "note": "= the light in this room" },
+        { "text": "I took a taxi to **the station**.", "note": "= the station in that town" },
+        { "text": "(in a shop) I'd like to speak to **the manager**, please.", "note": "= the manager of this shop" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the bank, the doctor ...",
+      "left": {
+        "label": "the + place we all know",
+        "text": "We say (go to) the bank / the post office / the doctor / the dentist - the speaker is usually thinking of a specific one.",
+        "examples": [
+          "I have to go to **the bank** and then I'm going to **the post office**.",
+          "Clare isn't well. She's gone to **the doctor**.",
+          "I don't like going to **the dentist**."
+        ]
+      },
+      "right": {
+        "label": "a/an - one of many, or a job",
+        "examples": [
+          "Is there **a bank** near here?",
+          "My sister is **a dentist**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "once a week, £1.50 a kilo",
+      "text": "We use **a/an** to mean 'each' or 'per' in expressions of frequency, price and speed.",
+      "examples": [
+        { "text": "I go to the cinema about **once a month**." },
+        { "text": "'How much are those potatoes?' '**£1.50 a kilo**.'" },
+        { "text": "Helen works eight hours **a day**, six days **a week**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you say *the*, ask yourself: does the listener already know which one I mean? If not, use *a/an*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I saw ___ accident this morning.",
+      "options": ["an", "the", "a"],
+      "answer": 0,
+      "explanation": "It is the first time the accident is mentioned, and accident begins with a vowel sound: an accident."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This morning I bought a book and a magazine. ___ book is in my bag, but I can't remember where I put the magazine.",
+      "hint": "(a/an or the?)",
+      "answers": ["The"],
+      "explanation": "The book has already been mentioned, so now we know which book: the book."
+    },
+    {
+      "type": "true_false",
+      "statement": "Can you close door, please?",
+      "answer": false,
+      "explanation": "Can you close the door, please? It is clear which door we mean - the one in this room."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This house is very nice. Does it have ___ garden?",
+      "options": ["a", "the", "- (no word)"],
+      "answer": 0,
+      "explanation": "We don't know yet whether there is a garden, so it is not a specific one: a garden."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I like living in this house, but it's a shame that ___ garden is so small.",
+      "options": ["the", "a", "- (no word)"],
+      "answer": 0,
+      "explanation": "It is clear which garden we mean - the garden of this house."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A car crashed into a tree. ___ of the car wasn't hurt, but the car was badly damaged.",
+      "hint": "(driver)",
+      "answers": ["The driver"],
+      "explanation": "The car has already been mentioned, so its driver is a specific person: the driver."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had dinner in ___ best restaurant in town.",
+      "hint": "(a/an or the?)",
+      "answers": ["the"],
+      "explanation": "There is only one best restaurant in town, so we use the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There isn't ___ airport near where I live.",
+      "hint": "(a/an or the?)",
+      "answers": ["an"],
+      "explanation": "Not a specific airport, and airport begins with a vowel sound: an airport."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ nearest airport is 70 miles away.",
+      "hint": "(a/an or the?)",
+      "answers": ["The"],
+      "explanation": "There is only one nearest airport, so it is specific: the nearest airport."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I go to the cinema about once ___ month.",
+      "hint": "(a/an or the?)",
+      "answers": ["a"],
+      "explanation": "In expressions of frequency, a/an means 'each': once a month."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "Clare isn't well. She's gone to", "right": "the doctor." },
+        { "left": "I have to go to the bank and then I'm going to", "right": "the post office." },
+        { "left": "I didn't want to walk, so I took a taxi to", "right": "the station." },
+        { "left": "'How much are those potatoes?'", "right": "'£1.50 a kilo.'" },
+        { "left": "Helen works eight hours a day,", "right": "six days a week." },
+        { "left": "In a shop you can say: I'd like to speak to", "right": "the manager, please." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word is missing in each sentence: a/an or the?",
+      "categories": ["a/an", "the"],
+      "items": [
+        { "text": "Is there ___ bank near here?", "category": 0 },
+        { "text": "I have to go to ___ bank today.", "category": 1 },
+        { "text": "My sister is ___ dentist.", "category": 0 },
+        { "text": "I don't like going to ___ dentist.", "category": 1 },
+        { "text": "We stayed at ___ very cheap hotel.", "category": 0 },
+        { "text": "___ hotel where we stayed was very cheap.", "category": 1 }
+      ]
+    }
+  ]
+}

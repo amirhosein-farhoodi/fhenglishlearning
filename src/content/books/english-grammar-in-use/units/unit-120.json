@@ -1,0 +1,171 @@
+{
+  "number": 120,
+  "title": "by and until; by the time ...",
+  "subtitle": "by Monday / until Monday",
+  "summary": "Learn the difference between by (not later than) and until (how long something continues), and how to use by the time ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "by = not later than",
+      "text": "**by** + a time means 'at or before that time, not later than that time'.",
+      "examples": [
+        { "text": "I sent the documents today, so they should arrive **by Monday**.", "note": "= on or before Monday" },
+        { "text": "We'd better hurry. We have to be home **by 5 o'clock**.", "note": "= at or before 5 o'clock" },
+        { "text": "Where's Sarah? She should be here **by now**.", "note": "= now or before now, so she should already be here" },
+        { "text": "This milk has to be used **by 14 August**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "until = how long",
+      "text": "We use **until** (or **till**) to say how long a situation continues.",
+      "examples": [
+        { "text": "*A:* Shall we go now? *B:* No, let's wait **until it stops raining**.", "note": "or ... till it stops raining" },
+        { "text": "I was very tired this morning. I stayed in bed **until half past ten**." },
+        { "text": "I didn't get up **until half past ten**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "until or by?",
+      "left": {
+        "label": "until - a situation continues to that time",
+        "examples": [
+          "Joe will be away **until Monday**.",
+          "I'll be working **until 11.30**."
+        ]
+      },
+      "right": {
+        "label": "by - something happens not later than that time",
+        "examples": [
+          "Joe will be back **by Monday**.",
+          "I'll have finished my work **by 11.30**."
+        ]
+      },
+      "note": "Joe will be away until Monday = he'll be back on Monday. Joe will be back by Monday = not later than Monday."
+    },
+    {
+      "type": "explain",
+      "heading": "by the time something happens",
+      "text": "You can say **by the time** + a clause. It means that something else will happen (or has happened) during the time in between.",
+      "examples": [
+        { "text": "It's too late to go to the bank now. **By the time we get there**, it will be closed.", "note": "it will close between now and the time we get there" },
+        { "text": "You'll need plenty of time at the airport. **By the time you check in** and go through security, it will be time for your flight." },
+        { "text": "Hurry up! **By the time we get to the cinema**, the film will already have started." }
+      ],
+      "note": "After by the time we use the present, not will."
+    },
+    {
+      "type": "explain",
+      "heading": "by the time something happened",
+      "text": "You can use **by the time** for the past in the same way. The other action is often in the past perfect (**had left**, **had started**).",
+      "examples": [
+        { "text": "Karen's car broke down on the way to the party. **By the time she arrived**, most of the other guests **had left**." },
+        { "text": "I had a lot of work to do yesterday evening. I was very tired **by the time I finished**." },
+        { "text": "It took us a long time to find somewhere to park. **By the time we got to the cinema**, the film **had already started**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "by then / by that time",
+      "text": "When the time is already clear, you can simply say **by then** or **by that time**.",
+      "examples": [
+        { "text": "Karen finally got to the party at midnight, but **by then** most of the other guests had left.", "note": "or ... but by that time, most of the other guests had left" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: does the situation continue (*until*) or does something happen at some point before a deadline (*by*)?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I have to be at the airport not later than 8.30. In other words: I have to be at the airport ___.",
+      "hint": "(by)",
+      "answers": ["by 8.30", "by 8 30", "by half past eight"],
+      "explanation": "by 8.30 = at or before 8.30, not later than 8.30."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let me know ___ whether you can come to the party.",
+      "hint": "(not later than Saturday)",
+      "answers": ["by Saturday"],
+      "explanation": "by + a day means 'on or before that day'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve has gone away. He'll be away ___ Monday.",
+      "hint": "(by / until)",
+      "answers": ["until", "till"],
+      "explanation": "The situation (being away) continues to Monday, so we use until."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sorry, but I must go. I have to be home ___ 5 o'clock.",
+      "hint": "(by / until)",
+      "answers": ["by"],
+      "explanation": "This is a deadline: not later than 5 o'clock."
+    },
+    {
+      "type": "mcq",
+      "prompt": "According to the forecast, the bad weather will continue ___ the weekend.",
+      "options": ["until", "by", "by the time"],
+      "answer": 0,
+      "explanation": "The bad weather continues all the way to the weekend, so we need until."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm still waiting for Tom to call me. He should have called me ___.",
+      "hint": "(by / until) + now",
+      "answers": ["by now"],
+      "explanation": "by now = now or before now, so it should already have happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't pay the bill today. Wait ___ tomorrow.",
+      "hint": "(by / until)",
+      "answers": ["until", "till"],
+      "explanation": "Waiting continues up to tomorrow, so we use until."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Will you still be in the office at 6.30? *B:* No, I'll have gone home ___.",
+      "options": ["by then", "until then", "by the time"],
+      "answer": 0,
+      "explanation": "by then = at or before that time; the going home will already have happened."
+    },
+    {
+      "type": "true_false",
+      "statement": "We have plenty of time. The film doesn't start by 8.30.",
+      "answer": false,
+      "explanation": "The film doesn't start until 8.30. The waiting continues to 8.30, so we need until."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw two men trying to steal a car and called the police, but it was some time before they came. By the time ___, the two men had disappeared.",
+      "hint": "(the police / arrive)",
+      "answers": ["the police arrived"],
+      "explanation": "by the time + past simple, with the past perfect (had disappeared) for what happened first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You meant to catch a train, but it took you longer than expected to get to the station. Put the parts in order.",
+      "words": ["By the time", "I got", "to the station,", "my train", "had already left."],
+      "answer": "By the time I got to the station, my train had already left.",
+      "explanation": "The train left during the time it took you to get there."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you can say about it.",
+      "pairs": [
+        { "left": "Karen's car broke down on the way to the party.", "right": "By the time she arrived, most of the other guests had left." },
+        { "left": "It's too late to go to the bank now.", "right": "By the time we get there, it will be closed." },
+        { "left": "It took us ages to find somewhere to park.", "right": "By the time we got to the cinema, the film had already started." },
+        { "left": "I had a lot of work to do yesterday evening.", "right": "I was very tired by the time I finished." },
+        { "left": "You'll need plenty of time at the airport.", "right": "By the time you check in, it will be time for your flight." }
+      ]
+    }
+  ]
+}

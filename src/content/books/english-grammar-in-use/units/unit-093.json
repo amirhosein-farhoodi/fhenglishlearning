@@ -1,0 +1,163 @@
+{
+  "number": 93,
+  "title": "Relative clauses 2: clauses with and without who/that/which",
+  "subtitle": "the keys (that) you lost",
+  "summary": "Keep who/that/which when it is the subject of the relative clause, and leave it out when it is the object.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Subject: you must use who/that/which",
+      "text": "In *The woman **who lives** next door to me is a doctor*, **who** = the woman, and the woman is the person who *lives* next door. Who is the **subject** of the relative clause, so you cannot leave it out.",
+      "examples": [
+        { "text": "The woman **who lives** next door to me is a doctor.", "note": "or The woman that lives ..." },
+        { "text": "Where are the keys **that were** on the table?", "note": "or ... the keys which were ..." },
+        { "text": "The people **who work** in the office are very friendly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Object: you can leave it out",
+      "text": "In *The woman **who I wanted to see** was away*, **I** is the subject and **who** (= the woman) is the object of *see*. When who/that/which is the object, you can leave it out.",
+      "examples": [
+        { "text": "The woman **I wanted to see** was away.", "note": "or The woman who I wanted to see ..." },
+        { "text": "Did you find the keys **you lost**?", "note": "or ... the keys that you lost?" },
+        { "text": "The dress **Lisa bought** doesn't fit her very well." },
+        { "text": "Is there anything **I can do**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Do not repeat the object",
+      "text": "The relative clause already contains the object, so we do not add *it / them / him* at the end.",
+      "examples": [
+        { "text": "the keys **you lost**", "wrong": "the keys you lost them" },
+        { "text": "the dress **Lisa bought**", "wrong": "the dress Lisa bought it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where the preposition goes",
+      "text": "In relative clauses the preposition (**to / in / for / with** etc.) stays with the verb, at the end of the clause.",
+      "examples": [
+        { "text": "Do you know the woman Tom is talking **to**?", "note": "two sentences: Tom is talking to a woman. Do you know her?" },
+        { "text": "The bed I slept **in** wasn't comfortable." },
+        { "text": "Are these the books you were looking **for**?" },
+        { "text": "The man I was sitting next **to** on the plane talked all the time." }
+      ],
+      "note": "Again, we do not repeat the object: the books you were looking for (not ~~looking for them~~)."
+    },
+    {
+      "type": "compare",
+      "heading": "that or what?",
+      "left": {
+        "label": "noun + (that)",
+        "text": "After everything, all the money, the best thing etc.",
+        "examples": [
+          "Everything **(that) they said** was true.",
+          "I gave her all the money **(that) I had**.",
+          "I'll do the best **(that) I can**."
+        ]
+      },
+      "right": {
+        "label": "what = the thing(s) that",
+        "text": "What starts the clause with no noun in front of it.",
+        "examples": [
+          "**What they said** was true.",
+          "I don't agree with **what you said**.",
+          "Tell me **what you want** and I'll try to get it for you."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Ask who does the verb in the relative clause. If the answer is the noun itself, keep who/that/which; if it is somebody else, you can drop it."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The woman ___ next door is a doctor.",
+      "options": ["who lives", "lives", "she lives"],
+      "answer": 0,
+      "explanation": "Who is the subject of lives, so it cannot be left out."
+    },
+    {
+      "type": "true_false",
+      "statement": "The dress Lisa bought doesn't fit her very well.",
+      "answer": true,
+      "explanation": "Correct. Lisa is the subject and the dress is the object, so that can be left out."
+    },
+    {
+      "type": "true_false",
+      "statement": "The people work in the office are very friendly.",
+      "answer": false,
+      "explanation": "The people who work in the office are very friendly. Who is the subject here, so we must keep it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to ask about some lost books.",
+      "words": ["Did you find", "the books", "you", "were looking", "for"],
+      "answer": "Did you find the books you were looking for",
+      "explanation": "The preposition for stays at the end of the relative clause."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the sentence you would say.",
+      "pairs": [
+        { "left": "A friend is wearing a dress and you like it.", "right": "I like the dress you're wearing." },
+        { "left": "You wanted to visit a museum, but it was shut.", "right": "The museum I wanted to visit was shut." },
+        { "left": "Your friend had to do some work and you want to know if she has finished.", "right": "Have you finished the work you had to do?" },
+        { "left": "You rented a car and it broke down after a few miles.", "right": "The car I rented broke down after a few miles." },
+        { "left": "You invited people to your party and some of them couldn't come.", "right": "Some of the people I invited to the party couldn't come." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friend told you about a hotel. You ask: What's the name of the hotel ___?",
+      "hint": "(you / tell me / about)",
+      "answers": ["you told me about", "that you told me about", "which you told me about"],
+      "explanation": "The preposition about goes at the end, and that can be left out because it is the object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You applied for a job but didn't get it. Unfortunately I didn't get the job ___.",
+      "hint": "(I / apply / for)",
+      "answers": ["I applied for", "that I applied for", "which I applied for"],
+      "explanation": "The job is the object of applied for, so the relative pronoun can be dropped."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gary is a good person to know. He's somebody ___.",
+      "hint": "(you / can rely / on)",
+      "answers": ["you can rely on", "that you can rely on", "who you can rely on"],
+      "explanation": "Keep the preposition on at the end - and do not add him."
+    },
+    {
+      "type": "true_false",
+      "statement": "What happened to the money was on the table?",
+      "answer": false,
+      "explanation": "What happened to the money that was on the table? Here that is the subject of was, so we cannot leave it out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why do you blame me for everything ___ wrong?",
+      "hint": "(go)",
+      "answers": ["that goes"],
+      "explanation": "After everything we use that, not what."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't agree with ___ you said.",
+      "answers": ["what"],
+      "explanation": "There is no noun before the clause, so we use what = the things that."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't trust him. I don't believe anything ___.",
+      "options": ["he says", "what he says", "he says it"],
+      "answer": 0,
+      "explanation": "After anything we can leave the relative pronoun out - and we never add it at the end."
+    }
+  ]
+}

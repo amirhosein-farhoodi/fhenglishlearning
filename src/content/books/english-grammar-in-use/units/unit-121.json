@@ -1,0 +1,184 @@
+{
+  "number": 121,
+  "title": "at/on/in (time)",
+  "subtitle": "at 5 o'clock / on Friday / in June",
+  "summary": "Learn which preposition of time to use: at for clock times, on for days and dates, in for longer periods.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "at, on and in",
+      "text": "We use **at** for the time of day, **on** for days and dates, and **in** for longer periods such as months, years and seasons.",
+      "examples": [
+        { "text": "They arrived **at 5 o'clock**." },
+        { "text": "They arrived **on Friday**." },
+        { "text": "They arrived **in June**.", "note": "or They arrived in 2012." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The three prepositions",
+      "columns": ["at - time of day", "on - days and dates", "in - longer periods"],
+      "rows": [
+        ["at five o'clock", "on Friday / on Fridays", "in June"],
+        ["at 11.45", "on 16 May 2012", "in 2012"],
+        ["at midnight", "on New Year's Day", "in the 1990s"],
+        ["at lunchtime", "on my birthday", "in the 20th century"],
+        ["at sunset", "on Christmas Day", "in winter"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions with at",
+      "text": "We say **at the moment / at present** (= now), **at the same time**, **at the weekend(s)** and **at Christmas** (but *on Christmas Day*). We also say **at night** for nights in general, but **in the night** for one particular night.",
+      "examples": [
+        { "text": "Can we talk later? I'm busy **at the moment**." },
+        { "text": "Kate and I arrived **at the same time**." },
+        { "text": "Will you be here **at the weekend**?", "note": "or ... on the weekend in American English" },
+        { "text": "Do you give each other presents **at Christmas**?" },
+        { "text": "I don't like working **at night**. But I was woken up by a noise **in the night**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in the morning or on Friday morning?",
+      "left": {
+        "label": "in the morning(s) / afternoon(s) / evening(s)",
+        "examples": [
+          "I'll see you **in the morning**.",
+          "Do you work **in the evenings**?"
+        ]
+      },
+      "right": {
+        "label": "on + a day + morning / afternoon / evening",
+        "examples": [
+          "I'll see you **on Friday morning**.",
+          "Do you work **on Saturday evenings**?",
+          "I don't work **on Monday mornings**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "No preposition before last / next / this / every",
+      "text": "We do not use at/on/in before **last**, **next**, **this** or **every**. We also often leave out **on** before the names of days.",
+      "examples": [
+        { "text": "I'll see you **next Friday**.", "wrong": "on next Friday" },
+        { "text": "They got married **last June**.", "wrong": "in last June" },
+        { "text": "I'll see you **on Friday**.", "note": "or I'll see you Friday." },
+        { "text": "I don't work **on Monday mornings**.", "note": "or I don't work Monday mornings." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in a few minutes",
+      "text": "We say that something will happen **in a few minutes / in six months** etc., meaning 'from now'. We also use **in ...** to say how long it takes to do something.",
+      "examples": [
+        { "text": "The train will be leaving **in a few minutes**.", "note": "= a few minutes from now" },
+        { "text": "Andy has gone away. He'll be back **in a week**.", "note": "= a week from now" },
+        { "text": "They'll be here **in a moment**." },
+        { "text": "I learnt to drive **in four weeks**.", "note": "= it took me four weeks to learn" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Think of the size of the time: a point in the day takes *at*, a whole day takes *on*, anything longer takes *in*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I've been invited to a wedding ___ 14 February.",
+      "hint": "(at / on / in)",
+      "answers": ["on"],
+      "explanation": "We use on with dates."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy's birthday is ___ May, but I don't know which date.",
+      "hint": "(at / on / in)",
+      "answers": ["in"],
+      "explanation": "We use in with months."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jonathan is 63. He'll be retiring from his job ___ two years.",
+      "options": ["in", "at", "on"],
+      "answer": 0,
+      "explanation": "in two years = two years from now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sam isn't here ___ the moment, but he'll be here this afternoon.",
+      "hint": "(at / on / in)",
+      "answers": ["at"],
+      "explanation": "at the moment is a fixed expression meaning 'now'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It rained very hard ___ the night. Did you hear it?",
+      "hint": "(at / on / in)",
+      "answers": ["in", "during"],
+      "explanation": "in the night = during one particular night."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't like the dark. I try to avoid going out ___ night.",
+      "options": ["at", "in", "on"],
+      "answer": 0,
+      "explanation": "at night means nights in general; in the night means one particular night."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The office is closed ___ Wednesday afternoons.",
+      "hint": "(at / on / in)",
+      "answers": ["on"],
+      "explanation": "A day + morning/afternoon/evening takes on: on Wednesday afternoons."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition of time goes with each expression?",
+      "categories": ["at", "on", "in"],
+      "items": [
+        { "text": "five o'clock", "category": 0 },
+        { "text": "lunchtime", "category": 0 },
+        { "text": "Friday", "category": 1 },
+        { "text": "16 May 2012", "category": 1 },
+        { "text": "New Year's Day", "category": 1 },
+        { "text": "2012", "category": 2 },
+        { "text": "winter", "category": 2 },
+        { "text": "the 20th century", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the time expression that completes it.",
+      "pairs": [
+        { "left": "Neil Armstrong was the first man to walk on the moon", "right": "on 21 July 1969." },
+        { "left": "Jazz became popular in the United States", "right": "in the 1920s." },
+        { "left": "Ben is a very fast runner. He can run 100 metres", "right": "in 11 seconds." },
+        { "left": "If the sky is clear, you can see the stars", "right": "at night." },
+        { "left": "After working hard during the day, I like to relax", "right": "in the evening." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'll see you on next Friday.",
+      "answer": false,
+      "explanation": "I'll see you next Friday. We do not use at/on/in before last, next, this or every."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were ill in the same time.",
+      "answer": false,
+      "explanation": "We were ill at the same time. at the same time is a fixed expression."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Oliver was born ___ 10 May 1993.",
+      "options": ["on", "at", "in"],
+      "answer": 0,
+      "explanation": "Full dates take on: on 10 May 1993."
+    }
+  ]
+}

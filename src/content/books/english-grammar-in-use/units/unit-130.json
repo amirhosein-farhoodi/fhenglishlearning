@@ -1,0 +1,174 @@
+{
+  "number": 130,
+  "title": "Adjective + preposition 1",
+  "subtitle": "nice of you / angry with me / tired of waiting",
+  "summary": "Learn which preposition follows adjectives like nice, angry, pleased, surprised, fed up and sorry.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "nice of you or nice to me?",
+      "text": "We use **of somebody** to say what we think of a person's action, and **to somebody** to say how a person behaves towards another person.",
+      "left": {
+        "label": "nice / kind / good / generous / polite / stupid / silly OF somebody (to do something)",
+        "examples": [
+          "Thank you. It was very nice **of you** to help me.",
+          "It was stupid **of me** to go out without a coat in such cold weather."
+        ]
+      },
+      "right": {
+        "label": "(be) nice / kind / polite / rude / friendly / cruel TO somebody",
+        "examples": [
+          "They have always been very nice **to me**.",
+          "Why were you so unfriendly **to Lucy**?"
+        ]
+      },
+      "note": "We say nice **to** me, not ~~nice with me~~."
+    },
+    {
+      "type": "explain",
+      "heading": "angry about something, angry with somebody",
+      "text": "**angry / annoyed / furious / upset about** something, but **with somebody for doing** something.",
+      "examples": [
+        { "text": "There's no point in getting **angry about** things that don't matter." },
+        { "text": "Are you **annoyed with** me **for** being late?" },
+        { "text": "Lisa is **upset about** not being invited to the party." },
+        { "text": "Our neighbours were **furious with** us **for** making so much noise." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "excited about, pleased with",
+      "text": "We say **excited / worried / nervous / happy about** something. But we use **with** for something you get or experience: **pleased / satisfied / happy / delighted / disappointed with**.",
+      "examples": [
+        { "text": "Are you **nervous about** the exam?" },
+        { "text": "Tanya doesn't look very well. I'm **worried about** her." },
+        { "text": "They were **delighted with** the present I gave them." },
+        { "text": "Were you **happy with** your exam results?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "surprised at/by, fed up with, tired of",
+      "text": "We say **surprised / shocked / amazed / astonished / upset at** or **by** something, **impressed with** or **by** somebody, **fed up / bored with** something, and **tired of** something.",
+      "examples": [
+        { "text": "Everybody was **surprised at** the news.", "note": "or ... by the news" },
+        { "text": "I hope you weren't **shocked by** what I said." },
+        { "text": "I'm very **impressed with** her English. It's very good.", "note": "or impressed by" },
+        { "text": "I don't enjoy my job any more. I'm **fed up with** it. / I'm **bored with** it." },
+        { "text": "Come on, let's go! I'm **tired of** waiting." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sorry about / sorry for",
+      "text": "We say **sorry about** a situation or something that happened, and **sorry for** (or about) something you did. We feel **sorry for** somebody who is in a bad situation.",
+      "examples": [
+        { "text": "I'm **sorry about** the mess. I'll clear it up later." },
+        { "text": "I'm **sorry for** shouting at you yesterday.", "note": "or sorry about shouting" },
+        { "text": "I'm sorry I shouted at you yesterday." },
+        { "text": "I feel **sorry for** Mark. He's had a lot of bad luck.", "wrong": "I feel sorry about Mark" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two to remember: we are angry **with** a person but angry **about** a thing, and we are tired **of** something we have had enough of."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Tom offered to drive me to the airport. That was nice ___ him.",
+      "hint": "one word",
+      "answers": ["of"],
+      "explanation": "We judge an action with nice/kind/stupid of somebody."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I needed money and Lisa gave me some. That was ___ her.",
+      "hint": "(generous)",
+      "answers": ["generous of"],
+      "explanation": "That was generous of her - adjective + of + person for an action."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They have always been very nice ___ me.",
+      "options": ["to", "with", "of"],
+      "answer": 0,
+      "explanation": "Be nice/kind/rude to somebody, not with somebody."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What have I done wrong? Why are you ___ me?",
+      "hint": "(angry)",
+      "answers": ["angry with"],
+      "explanation": "We are angry with a person, but angry about a thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must be very ___ your trip next week. It sounds really great.",
+      "hint": "(excited)",
+      "answers": ["excited about"],
+      "explanation": "Excited, worried and nervous all take about."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "They were delighted", "right": "with the present I gave them" },
+        { "left": "I don't enjoy my job any more. I'm fed up", "right": "with it" },
+        { "left": "Come on, let's go! I'm tired", "right": "of waiting" },
+        { "left": "He's had a lot of bad luck. I feel sorry", "right": "for Mark" },
+        { "left": "Everybody was surprised", "right": "at the news" },
+        { "left": "Are you annoyed with me", "right": "for being late?" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We had a good holiday, but we were disappointed ___ the hotel.",
+      "options": ["with", "of", "to"],
+      "answer": 0,
+      "explanation": "Pleased, satisfied, delighted and disappointed take with."
+    },
+    {
+      "type": "true_false",
+      "statement": "I can't understand people who are cruel with animals.",
+      "answer": false,
+      "explanation": "I can't understand people who are cruel to animals. Behaviour towards somebody takes to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been trying to learn Japanese, but I'm not very satisfied ___ my progress.",
+      "hint": "one word",
+      "answers": ["with"],
+      "explanation": "Satisfied with something you get or experience."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition normally follows each adjective?",
+      "categories": ["about", "with", "at"],
+      "items": [
+        { "text": "nervous", "category": 0 },
+        { "text": "worried", "category": 0 },
+        { "text": "satisfied", "category": 1 },
+        { "text": "fed up", "category": 1 },
+        { "text": "amazed", "category": 2 },
+        { "text": "astonished", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "There's no point in feeling sorry ___ yourself. It won't help you.",
+      "options": ["for", "about", "to"],
+      "answer": 0,
+      "explanation": "We feel sorry for a person in a bad situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our neighbours were furious with us ___ making so much noise.",
+      "hint": "one word",
+      "answers": ["for"],
+      "explanation": "Furious/annoyed with somebody for doing something."
+    }
+  ]
+}

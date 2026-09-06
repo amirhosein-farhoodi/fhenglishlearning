@@ -1,0 +1,173 @@
+{
+  "number": 126,
+  "title": "to, at, in and into",
+  "subtitle": "go to work / arrive in Madrid / go into a room",
+  "summary": "Use to for movement to a place, in/at for position, arrive in a town but arrive at a building, and into to enter something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "go/come/travel to a place",
+      "text": "We say **go to** / **come to** / **travel to** a place or an event: go to China, go to work, go to the bank, drive to the airport, return to London, go to a party, be taken to hospital.",
+      "examples": [
+        { "text": "When are your friends going back **to Italy**?", "wrong": "going back in Italy" },
+        { "text": "Three people were injured in the accident and taken **to hospital**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Welcome to ... / been to ...",
+      "text": "In the same way we say **Welcome to ...**, **a trip to ...**, **a visit to ...**, **on my way to ...** . We also say that somebody **has been to** a place or an event.",
+      "examples": [
+        { "text": "**Welcome to** our country!", "wrong": "Welcome in" },
+        { "text": "We had to cancel our **trip to** Paris." },
+        { "text": "I've **been to** Italy four times, but I've never **been to** Rome." },
+        { "text": "Amanda has never **been to** a football match in her life." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "to or in/at?",
+      "left": {
+        "label": "to = movement",
+        "examples": [
+          "They are going **to France**.",
+          "Can you come **to the party**?"
+        ]
+      },
+      "right": {
+        "label": "in / at = position",
+        "examples": [
+          "They live **in France**.",
+          "I'll see you **at the party**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "get and arrive",
+      "text": "We say **get to** a place. With **arrive** we use **in** for a town or country and **at** for other places and events - never *arrive to*.",
+      "examples": [
+        { "text": "They **got to** the hotel at midnight." },
+        { "text": "What time did you **get to** the party?" },
+        { "text": "They **arrived in** Madrid / **in** Spain a week ago." },
+        { "text": "What time did you **arrive at** the hotel / **at** the airport / **at** the party?", "wrong": "arrive to the hotel" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "home takes no preposition",
+      "text": "We say **go home, come home, get home, arrive home, on the way home**. We do not use *to* before home.",
+      "examples": [
+        { "text": "What time did you **get home**?", "wrong": "get to home" },
+        { "text": "I met Lisa **on my way home**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "into = enter",
+      "text": "**go into / get into** = enter a room, a building, a car. The opposite of into is **out of**. With go, get and put we often use **in** instead of into. For buses, trains and planes we say **get on** and **get off**.",
+      "examples": [
+        { "text": "I opened the door, went **into the room** and sat down." },
+        { "text": "A bird flew **into the kitchen** through the window." },
+        { "text": "Every month my salary is paid directly **into my bank account**." },
+        { "text": "She got **in the car** and drove away.", "note": "or She got into the car ..." },
+        { "text": "She got **out of the car** and went **into a shop**." },
+        { "text": "You need to **get off** (the train) at the next station." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Cars and taxis: get in / get out of. Buses, trains and planes: get on / get off."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Three people were taken ___ hospital after the accident.",
+      "hint": "one word",
+      "answers": ["to"],
+      "explanation": "Movement to a place: be taken to hospital."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They arrived ___ Barcelona a few days ago.",
+      "options": ["in", "at", "to"],
+      "answer": 0,
+      "explanation": "We arrive in a town or a country (never arrive to)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What time do you usually arrive ___ work in the morning?",
+      "options": ["at", "in", "to"],
+      "answer": 0,
+      "explanation": "For buildings, places of work and events we say arrive at."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We left our luggage ___ the station and went to find something to eat.",
+      "hint": "one word",
+      "answers": ["at"],
+      "explanation": "There is no movement here - the luggage stays in one place, so we use at."
+    },
+    {
+      "type": "true_false",
+      "statement": "Welcome in our country! We hope you enjoy your stay.",
+      "answer": false,
+      "explanation": "Welcome to our country! We say welcome to, a trip to, a visit to."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you did.",
+      "pairs": [
+        { "left": "A friend stopped her car and opened the door for you.", "right": "I got into the car." },
+        { "left": "Your bus came and the doors opened.", "right": "I got on the bus." },
+        { "left": "You parked outside your house.", "right": "I got out of the car." },
+        { "left": "The train reached Manchester.", "right": "I got off the train." },
+        { "left": "A taxi stopped and you opened the door.", "right": "I got into the taxi." },
+        { "left": "Your plane landed and the doors were opened.", "right": "I got off the plane." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Amazon flows ___ the Atlantic Ocean.",
+      "hint": "one word",
+      "answers": ["into"],
+      "explanation": "Into shows movement from outside to inside something."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["I opened the door,", "went", "into", "the room", "and", "sat down."],
+      "answer": "I opened the door, went into the room and sat down.",
+      "explanation": "go/come into a room = enter it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["I've been to Italy four times.", "I've been in Italy four times.", "I've been at Italy four times."],
+      "answer": 0,
+      "explanation": "We say I've been to a place or an event."
+    },
+    {
+      "type": "true_false",
+      "statement": "What time did you get to home last night?",
+      "answer": false,
+      "explanation": "What time did you get home last night? We never use to before home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We drove along the main road and then turned ___ a narrow side street.",
+      "hint": "one word",
+      "answers": ["into"],
+      "explanation": "Turn into a street: the car moves from one place inside another."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Marcel is French. He has just returned to France after two years ___ Brazil.",
+      "hint": "one word",
+      "answers": ["in"],
+      "explanation": "Return to shows movement, but the two years were spent in Brazil (position)."
+    }
+  ]
+}

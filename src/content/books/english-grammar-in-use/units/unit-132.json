@@ -1,0 +1,169 @@
+{
+  "number": 132,
+  "title": "Verb + preposition 1: to and at",
+  "subtitle": "listen to / look at",
+  "summary": "Learn which verbs take to, which take at, and which take no preposition at all - and how shout at and shout to differ.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "talk to, listen to, apologise to",
+      "text": "We say **talk / speak to** somebody (talk with is also possible), **listen to** something and **apologise to** somebody (for something).",
+      "examples": [
+        { "text": "Who were you **talking to**?" },
+        { "text": "When I'm driving, I like to **listen to** the radio.", "wrong": "listen the radio" },
+        { "text": "They **apologised to** me for their mistake.", "wrong": "apologised me" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "explain / describe something to somebody",
+      "text": "We **explain something to** somebody and **describe something to** somebody. The person always comes after **to**.",
+      "examples": [
+        { "text": "Can you **explain** this word **to me**?", "wrong": "explain me this word" },
+        { "text": "I **explained to** them why I was worried.", "wrong": "I explained them" },
+        { "text": "Let me **describe to** you what I saw.", "wrong": "Let me describe you" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs with no preposition",
+      "text": "Some verbs take the person straight after them: **phone / call / email / text** somebody, **answer** somebody or something, **ask** somebody (a question), **thank** somebody (for something).",
+      "examples": [
+        { "text": "I **called the airline** to cancel my flight.", "wrong": "called to the airline" },
+        { "text": "You didn't **answer my email**.", "wrong": "answer to my email" },
+        { "text": "If there's anything you want to know, you can **ask me**.", "wrong": "ask to me" },
+        { "text": "He **thanked me** for helping him.", "wrong": "He thanked to me" }
+      ],
+      "note": "But we say **write (a letter) to** somebody and **reply to** an email or a letter."
+    },
+    {
+      "type": "explain",
+      "heading": "look at, laugh at, point at",
+      "text": "We say **look / stare / glance at**, **have a look / take a look at**, **laugh at**, **aim / point (something) at** and **shoot / fire (a gun) at**.",
+      "examples": [
+        { "text": "Why are you **looking at** me like that?" },
+        { "text": "I look stupid with this haircut. Everybody will **laugh at** me." },
+        { "text": "Don't **point** that knife **at** me. It's dangerous." },
+        { "text": "We saw someone with a gun **shooting at** birds, but he didn't hit any." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "shout at or shout to? throw at or throw to?",
+      "left": {
+        "label": "at = aggressive, or trying to hit",
+        "examples": [
+          "He got very angry and started **shouting at** me.",
+          "Somebody **threw** an egg **at** the politician."
+        ]
+      },
+      "right": {
+        "label": "to = so they can hear or catch",
+        "examples": [
+          "He **shouted to** me from the other side of the street.",
+          "Lisa shouted 'Catch!' and **threw** the keys **to** me from the window."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Two mistakes to avoid: never say ~~listen the radio~~ or ~~explain me something~~ - it's listen **to** the radio and explain something **to** me."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "When I'm driving, I like to listen ___ the radio.",
+      "hint": "one word",
+      "answers": ["to"],
+      "explanation": "Listen always takes to before an object."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["They apologised to me for their mistake.", "They apologised me for their mistake.", "They apologised for me their mistake."],
+      "answer": 0,
+      "explanation": "We apologise to somebody for something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I glanced ___ my watch to see what time it was.",
+      "hint": "one word",
+      "answers": ["at"],
+      "explanation": "Look, stare and glance all take at."
+    },
+    {
+      "type": "true_false",
+      "statement": "My friend texted to me to let me know she was going to be late.",
+      "answer": false,
+      "explanation": "My friend texted me. Phone, call, email and text take no preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We live in the same building, but we've never ___ one another.",
+      "hint": "(speak)",
+      "answers": ["spoken to", "talked to"],
+      "explanation": "Speak to or talk to somebody."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "He got very angry and started", "right": "shouting at me" },
+        { "left": "He was on the other side of the street, so he", "right": "shouted to me" },
+        { "left": "Somebody threw an egg", "right": "at the politician" },
+        { "left": "Lisa shouted 'Catch!' and threw the keys", "right": "to me from the window" },
+        { "left": "I look stupid with this haircut. Everybody will", "right": "laugh at me" },
+        { "left": "If there's anything you want to know, you can", "right": "ask me" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was a difficult question. I couldn't ___.",
+      "options": ["answer it", "answer to it", "answer for it"],
+      "answer": 0,
+      "explanation": "Answer takes no preposition (but we reply to something)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I tried to contact Tina, but she didn't ___ my emails.",
+      "hint": "(reply)",
+      "answers": ["reply to"],
+      "explanation": "We answer an email but we reply to an email."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition does each verb need before its object?",
+      "categories": ["to", "at", "no preposition"],
+      "items": [
+        { "text": "listen", "category": 0 },
+        { "text": "apologise", "category": 0 },
+        { "text": "stare", "category": 1 },
+        { "text": "laugh", "category": 1 },
+        { "text": "phone", "category": 2 },
+        { "text": "thank", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I need somebody to explain me what I have to do.",
+      "answer": false,
+      "explanation": "I need somebody to explain to me what I have to do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you don't want that sandwich, throw it ___ the birds. They'll eat it.",
+      "hint": "one word",
+      "answers": ["to"],
+      "explanation": "Throw something to somebody so that they can take or catch it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was so angry she threw a book ___ the wall.",
+      "hint": "one word",
+      "answers": ["at"],
+      "explanation": "Throw something at something when you want to hit it."
+    }
+  ]
+}

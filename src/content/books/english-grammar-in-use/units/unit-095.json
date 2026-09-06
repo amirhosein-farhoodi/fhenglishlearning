@@ -1,0 +1,163 @@
+{
+  "number": 95,
+  "title": "Relative clauses 4: extra information clauses (1)",
+  "subtitle": "My brother Ben, who lives in Hong Kong, ...",
+  "summary": "Tell the two types of relative clause apart: the kind that says which person or thing you mean, and the kind that only adds extra information and needs commas.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two types of relative clause",
+      "left": {
+        "label": "Type 1: which one?",
+        "text": "The clause tells us which person or thing the speaker means. No commas.",
+        "examples": [
+          "The woman **who lives next door to me** is a doctor.",
+          "Grace works for a company **that makes furniture**.",
+          "We stayed at the hotel **(that) you recommended**."
+        ]
+      },
+      "right": {
+        "label": "Type 2: extra information",
+        "text": "We already know which person or thing is meant. The clause just adds extra information, and we use commas.",
+        "examples": [
+          "My brother Ben, **who lives in Hong Kong**, is an architect.",
+          "Anna told me about her new job, **which she's enjoying a lot**.",
+          "We stayed at the Park Hotel, **which a friend of ours recommended**."
+        ]
+      },
+      "note": "In Type 2 we already know who or what is meant: 'My brother Ben', 'Anna's new job', 'the Park Hotel'."
+    },
+    {
+      "type": "explain",
+      "heading": "Type 1: no commas",
+      "text": "In Type 1 the relative clause is essential - without it we would not know which person or thing is meant. We do not use commas.",
+      "examples": [
+        { "text": "We know a lot of people **who live in London**." },
+        { "text": "The doctor **who examined me** couldn't find anything wrong." },
+        { "text": "The office **I'm using** at the moment is very small." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In Type 2 you cannot use that",
+      "text": "In both types we use **who** for people and **which** for things. But in Type 2 you cannot use **that**, and you cannot leave who/which out.",
+      "examples": [
+        { "text": "John, **who speaks** French and Italian, works as a tour guide.", "wrong": "John, that speaks French and Italian" },
+        { "text": "We stayed at the Park Hotel, **which** a friend of ours recommended.", "note": "which cannot be left out here" },
+        { "text": "Type 1: Do you know anyone **who/that speaks** French and Italian?" },
+        { "text": "Type 1: We stayed at the hotel **(that/which) you recommended**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whom in Type 2",
+      "text": "In Type 2 clauses you can use **whom** for people when it is the object. In Type 1 we do not often use whom.",
+      "examples": [
+        { "text": "This morning I met Chris, **who I hadn't seen** for ages." },
+        { "text": "This morning I met Chris, **whom I hadn't seen** for ages." },
+        { "text": "Kate's husband, **who I've never met**, is an airline pilot." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whose and where in both types",
+      "text": "**Whose** and **where** work in Type 1 and Type 2 clauses in the same way. Only the commas change.",
+      "examples": [
+        { "text": "Type 1: We helped some people **whose car had broken down**." },
+        { "text": "Type 2: Lisa, **whose car had broken down**, was in a very bad mood." },
+        { "text": "Type 1: What's the name of the place **where you went on holiday**?" },
+        { "text": "Type 2: Kate has just been to Sweden, **where her daughter lives**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Read the sentence without the relative clause. If it still tells you exactly who or what is meant, the clause is extra information and needs commas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "My brother Ben, ___ lives in Hong Kong, is an architect.",
+      "options": ["who", "that", "which"],
+      "answer": 0,
+      "explanation": "This is an extra information clause about a person, and we cannot use that in this type."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Anna told me about her new job, ___ she's enjoying a lot.",
+      "options": ["which", "that", "what"],
+      "answer": 0,
+      "explanation": "Extra information about a thing takes which - never that or what."
+    },
+    {
+      "type": "true_false",
+      "statement": "The office I'm using at the moment is very small.",
+      "answer": true,
+      "explanation": "Correct. This clause tells us which office, so there are no commas and the relative pronoun can be left out."
+    },
+    {
+      "type": "true_false",
+      "statement": "My office that is on the second floor is very small.",
+      "answer": false,
+      "explanation": "My office, which is on the second floor, is very small. We already know which office is meant, so we need commas and which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We drove to the airport, ___ not far from the city.",
+      "hint": "(which)",
+      "answers": ["which was"],
+      "explanation": "Extra information about the airport, so we use which after a comma."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lisa is away from home a lot. Her job involves a lot of travelling. Lisa, ___ job involves a lot of travelling, is away from home a lot.",
+      "answers": ["whose"],
+      "explanation": "Whose works in extra information clauses too: her job involves a lot of travelling."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Catherine is very friendly and she lives next door to us. Make one sentence.",
+      "words": ["Catherine,", "who lives", "next door to us,", "is very", "friendly"],
+      "answer": "Catherine, who lives next door to us, is very friendly",
+      "explanation": "We already know who Catherine is, so the clause is extra information between commas."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate has just been to Sweden, ___ her daughter lives.",
+      "answers": ["where"],
+      "explanation": "Where is used for places in both types of relative clause."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah's father that used to be in the army now works for a TV company.",
+      "answer": false,
+      "explanation": "Sarah's father, who used to be in the army, now works for a TV company. We know which person is meant, so we need commas and who."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our teacher was very kind, but I have forgotten her name. Our teacher, ___ name I have forgotten, was very kind.",
+      "answers": ["whose"],
+      "explanation": "Whose replaces her: I have forgotten her name."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate's husband, ___ I have never met, is an airline pilot.",
+      "answers": ["who", "whom"],
+      "explanation": "In an extra information clause both who and whom are possible for the object - but not that."
+    },
+    {
+      "type": "categorize",
+      "prompt": "The commas have been removed. Does the relative clause say which person or thing is meant, or does it only add extra information?",
+      "categories": ["Says which one (no commas)", "Extra information (commas)"],
+      "items": [
+        { "text": "My brother Ben who lives in Hong Kong is an architect.", "category": 1 },
+        { "text": "The woman who lives next door to me is a doctor.", "category": 0 },
+        { "text": "Anna told me about her new job which she's enjoying a lot.", "category": 1 },
+        { "text": "We know a lot of people who live in London.", "category": 0 },
+        { "text": "The sun which is one of millions of stars provides us with heat and light.", "category": 1 },
+        { "text": "The doctor who examined me couldn't find anything wrong.", "category": 0 }
+      ]
+    }
+  ]
+}

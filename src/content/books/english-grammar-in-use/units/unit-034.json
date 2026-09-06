@@ -1,0 +1,165 @@
+{
+  "number": 34,
+  "title": "should 2",
+  "subtitle": "I insisted that he should apologise.",
+  "summary": "Use should after verbs like insist, suggest and recommend, after adjectives like strange and natural, in if ... should ... , and to give advice with I should ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "should after insist, suggest, recommend ...",
+      "text": "You can use should after **insist, demand, recommend, suggest** and **propose**. You can also use it after **It's important / vital / necessary / essential that ...** .",
+      "examples": [
+        { "text": "I insisted that he **should apologise**." },
+        { "text": "Doctors recommend that everyone **should eat** plenty of fruit." },
+        { "text": "What do you suggest we **should do**?" },
+        { "text": "Many people are demanding that something **should be done** about the problem." },
+        { "text": "It's essential that everyone **should be** here on time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "You can leave should out",
+      "text": "In all those sentences you can simply leave **should** out. The form that is left (be / do / apologise) is called the subjunctive - it is the same as the infinitive without to. Normal present and past forms are possible too.",
+      "examples": [
+        { "text": "It's essential that everyone **be** here on time.", "note": "= ... that everyone should be here ..." },
+        { "text": "I insisted that he **apologise**." },
+        { "text": "What do you suggest we **do**?" },
+        { "text": "It's essential that everyone **is** here on time." },
+        { "text": "I insisted that he **apologised**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "suggest: never with to ...",
+      "text": "We do not use **to ...** with suggest. Say *What do you suggest we should do?* or *What do you suggest we do?* Jane won the lottery, so:",
+      "examples": [
+        { "text": "I suggested that **she should buy** a car with the money she won.", "wrong": "I suggested her to buy" },
+        { "text": "I suggested that **she buy** a car." },
+        { "text": "I suggested that **she bought** a car." },
+        { "text": "What do you suggest **we do**?", "wrong": "What do you suggest us to do" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "should after some adjectives",
+      "text": "You can use should after some adjectives, especially **strange, odd, funny, typical, natural, interesting, surprised** and **surprising**.",
+      "examples": [
+        { "text": "It's strange that he **should be** late. He's usually on time." },
+        { "text": "I was surprised that he **should say** such a thing." },
+        { "text": "It's only natural that parents **should worry** about their children." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if something should happen ...",
+      "text": "You can say *if something should happen ...* . You can also begin the sentence with **should**. The meaning is the same as *if something happens*, but with should the speaker feels the possibility is smaller.",
+      "examples": [
+        { "text": "We have no jobs at present, but **if the situation should change**, we will contact you." },
+        { "text": "**Should the situation change**, we will contact you." },
+        { "text": "**If anyone should ask** where I'm going, say you don't know." },
+        { "text": "**Should there be** any problems, I'm sure we'll be able to solve them." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I should ... to give advice",
+      "text": "You can use **I should ... / I shouldn't ...** to give advice. Here *I should ...* means 'I would ... if I were you' or 'I advise you to ...'.",
+      "examples": [
+        { "text": "*A:* Shall I leave now? *B:* No, **I should wait** a bit.", "note": "= I advise you to wait" },
+        { "text": "*A:* I'm going out now. Is it cold outside? *B:* Yes, **I should wear** a coat." },
+        { "text": "**I shouldn't stay up** too late. You have to be up early tomorrow." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After suggest, never use an object + to: not ~~I suggest you to read this book~~, but *I suggest you read this book*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'It would be a good idea to eat more fruit,' the doctor said to me. The doctor recommended that I ___ more fruit.",
+      "hint": "(should / eat)",
+      "answers": ["should eat", "eat", "ate"],
+      "explanation": "After recommend we can use should + verb (or simply the verb on its own)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tom suggested that I look for another job.",
+      "answer": true,
+      "explanation": "Correct. After suggest you can leave should out: suggested that I (should) look."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You really must stay a little longer,' she said to me. She insisted that I ___ a little longer.",
+      "hint": "(should / stay)",
+      "answers": ["should stay", "stay", "stayed"],
+      "explanation": "After insist we use should + verb, the subjunctive (stay) or a normal past form (stayed)."
+    },
+    {
+      "type": "true_false",
+      "statement": "What do you suggest me to do?",
+      "answer": false,
+      "explanation": "What do you suggest I do? or What do you suggest I should do? We never use to ... with suggest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's funny that you ___ that. I was thinking the same thing.",
+      "hint": "(should / say)",
+      "answers": ["should say"],
+      "explanation": "should is often used after adjectives like funny, strange and odd."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's only natural that parents ___ about their children.",
+      "hint": "(should / worry)",
+      "answers": ["should worry"],
+      "explanation": "natural is one of the adjectives that take should + verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the advice that answers it.",
+      "pairs": [
+        { "left": "Shall I leave now?", "right": "No, I should wait a bit." },
+        { "left": "Shall I throw these things away?", "right": "No, I should keep them. You may need them." },
+        { "left": "Shall I go and see Paul?", "right": "Yes, but I should call him first." },
+        { "left": "Is it worth getting this computer repaired?", "right": "No, I should get a new one." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Shall I leave now?' 'No, I should wait a bit.' What does the second speaker mean?",
+      "options": ["I advise you to wait a bit.", "I have to wait a bit myself.", "I waited a bit yesterday."],
+      "answer": 0,
+      "explanation": "I should ... here means 'I would ... if I were you' - it is advice for the other person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bridge needs to be repaired. It's essential that the work ___ as soon as possible.",
+      "hint": "(should / do)",
+      "answers": ["should be done", "be done"],
+      "explanation": "The work is not doing the job, so we need the passive: should be done."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've hung out the washing to dry on the balcony. If ___, can you bring it inside?",
+      "hint": "(it / should / rain)",
+      "answers": ["it should rain"],
+      "explanation": "if ... should ... = if this happens (and the speaker thinks it is not very likely)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say the same thing as 'If the situation changes, we will contact you.', beginning with Should.",
+      "words": ["Should", "the", "situation", "change,", "we", "will", "contact", "you."],
+      "answer": "Should the situation change, we will contact you.",
+      "explanation": "You can drop if and put should first: Should something happen, ... ."
+    },
+    {
+      "type": "true_false",
+      "statement": "I suggest you to read this book.",
+      "answer": false,
+      "explanation": "I suggest you read this book. or I suggest you should read this book. suggest is never followed by to ... ."
+    }
+  ]
+}

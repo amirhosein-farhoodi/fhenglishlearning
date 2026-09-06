@@ -23,7 +23,10 @@ export interface BookMeta {
   author?: string
   level?: string
   description: string
+  /** Fallback shown when there is no cover image. */
   coverEmoji: string
+  /** Path to the real book cover, e.g. "/covers/my-book.jpg" (file lives in public/covers/). */
+  cover?: string
   /** Accent colour (hex) used for the book card and course theming. */
   accent: string
   sections: BookSection[]

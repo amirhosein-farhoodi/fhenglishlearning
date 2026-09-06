@@ -5,6 +5,7 @@ import { getBook, loadUnit, sectionOf } from '../content/registry'
 import type { Unit } from '../content/types'
 import { markLessonSeen } from '../lib/storage'
 import { renderInline } from '../lib/markup'
+import { ArrowLeft, ArrowRight } from '../components/Icons'
 
 export default function Lesson() {
   const { slug, unit: unitParam } = useParams()
@@ -68,7 +69,7 @@ export default function Lesson() {
     <main className="page">
       <div className="container narrow">
         <Link to={`/learn/${book.slug}`} className="back">
-          ← {book.title}
+          <ArrowLeft size={16} /> {book.title}
         </Link>
 
         <header className="lesson-head">
@@ -105,7 +106,7 @@ export default function Lesson() {
                 Show everything
               </button>
               <button type="button" className="btn btn-primary btn-lg" onClick={() => setShown((s) => Math.min(s + 1, total))}>
-                Continue →
+                Continue <ArrowRight />
               </button>
             </div>
           ) : (
@@ -127,6 +128,7 @@ export default function Lesson() {
             onClick={() => nav(`/learn/${book.slug}/${unit.number}/quiz`)}
           >
             {allShown ? 'Start the quiz 🎯' : 'Skip to quiz'}
+            {allShown && <ArrowRight />}
           </button>
         </div>
       </div>

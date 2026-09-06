@@ -1,0 +1,185 @@
+{
+  "number": 108,
+  "title": "Superlative (the longest, the most enjoyable etc.)",
+  "subtitle": "the longest / the most enjoyable",
+  "summary": "Learn to form superlatives with -est and most ..., and to use the right preposition after them (in a place, of a period of time).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a superlative?",
+      "text": "A superlative says that something is the most of all. We add **-est** to short words and put **most** before longer words.",
+      "examples": [
+        { "text": "What is **the longest** river in the world?" },
+        { "text": "What was **the most enjoyable** holiday you've ever had?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Short words: -est", "Longer words: most ...", "Irregular"],
+      "rows": [
+        ["long - longest", "famous - most famous", "good - best"],
+        ["hot - hottest", "boring - most boring", "bad - worst"],
+        ["easy - easiest", "enjoyable - most enjoyable", "far - furthest / farthest"],
+        ["hard - hardest", "difficult - most difficult", ""]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the + superlative",
+      "text": "We normally use **the** (or my/your etc.) before a superlative.",
+      "examples": [
+        { "text": "Yesterday was **the hottest** day of the year." },
+        { "text": "The Louvre in Paris is one of **the most famous** museums in the world." },
+        { "text": "She is really nice - one of **the nicest** people I know." },
+        { "text": "What's **the best** movie you've ever seen, and what's **the worst**?" },
+        { "text": "How old is **your youngest** child?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Superlative or comparative?",
+      "left": {
+        "label": "Superlative (all the others)",
+        "examples": [
+          "This hotel is **the cheapest** in town.",
+          "He's **the most patient** person I've ever met."
+        ]
+      },
+      "right": {
+        "label": "Comparative (two things, or ... than)",
+        "examples": [
+          "It's **cheaper than** all the others in town.",
+          "He's **much more patient than** I am."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "oldest and eldest",
+      "text": "The superlative of *old* is **oldest**. We use **eldest** only about people in a family, and *oldest* is possible there too.",
+      "examples": [
+        { "text": "That church is **the oldest** building in the town.", "wrong": "the eldest" },
+        { "text": "Their **eldest** son is 13 years old.", "note": "or Their oldest son" },
+        { "text": "Are you **the eldest** in your family?", "note": "or the oldest" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in or of after a superlative?",
+      "text": "After a superlative we use **in** with places, and also with organisations and groups of people (a class, a company). For a period of time (a day, a year, your life) we use **of**.",
+      "examples": [
+        { "text": "What's the longest river **in the world**?", "wrong": "of the world" },
+        { "text": "We had a nice room. It was one of the best **in the hotel**.", "wrong": "of the hotel" },
+        { "text": "Who is the youngest student **in the class**?", "wrong": "of the class" },
+        { "text": "Yesterday was the hottest day **of the year**." },
+        { "text": "What was the happiest day **of your life**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Superlative + present perfect",
+      "text": "We often use the present perfect (**I have done**) after a superlative, especially with **ever**.",
+      "examples": [
+        { "text": "What's the most important decision **you've ever made**?" },
+        { "text": "That was the best holiday **I've had** for a long time." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Places take *in* (the tallest building in the city), periods of time take *of* (the happiest day of my life)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It was an awful day. It was ___ day of my life.",
+      "hint": "(bad)",
+      "answers": ["the worst"],
+      "explanation": "bad has an irregular superlative: the worst."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A straight line is ___ distance between two points.",
+      "hint": "(short)",
+      "answers": ["the shortest"],
+      "explanation": "short is a short word, so we add -est: the shortest."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is ___ sport in your country?",
+      "options": ["the most popular", "the popularest", "most popular"],
+      "answer": 0,
+      "explanation": "popular is a long word, so the superlative is the most popular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wasn't feeling well yesterday, but I feel a bit ___ today.",
+      "hint": "(good)",
+      "answers": ["better"],
+      "explanation": "We compare today with yesterday, so we need the comparative better, not the best."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which is ___ - the bus or the train?",
+      "hint": "(quick)",
+      "answers": ["quicker"],
+      "explanation": "Only two things are compared, so we use the comparative quicker."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Amy and Ben have three daughters. ___ is 14 years old.",
+      "options": ["The eldest", "The elder", "The more old"],
+      "answer": 0,
+      "explanation": "There are three daughters, so we need a superlative: The eldest (or The oldest) - eldest is used about a family."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brazil is a very large country. It's ___ South America.",
+      "hint": "(large) + preposition",
+      "answers": ["the largest country in"],
+      "explanation": "South America is a place, so the superlative takes in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a very happy day. It was ___ my life.",
+      "hint": "(happy) + preposition",
+      "answers": ["the happiest day of"],
+      "explanation": "A period of time (my life) takes of after a superlative."
+    },
+    {
+      "type": "true_false",
+      "statement": "Spring is a very busy time for me. It's the busiest time in the year.",
+      "answer": false,
+      "explanation": "It's the busiest time of the year. Periods of time take of, not in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's a very good student. She's one of ___ the class.",
+      "hint": "(good) + preposition",
+      "answers": ["the best students in"],
+      "explanation": "one of + superlative + plural noun, and a class takes in."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Someone has just told you a joke and you think it is very funny. Say so.",
+      "words": ["That's", "the funniest", "joke", "I've", "ever", "heard."],
+      "answer": "That's the funniest joke I've ever heard.",
+      "explanation": "We often use the present perfect with ever after a superlative."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each superlative need in or of?",
+      "categories": ["in", "of"],
+      "items": [
+        { "text": "the longest river ... the world", "category": 0 },
+        { "text": "the hottest day ... the year", "category": 1 },
+        { "text": "the youngest student ... the class", "category": 0 },
+        { "text": "the happiest day ... your life", "category": 1 },
+        { "text": "one of the best rooms ... the hotel", "category": 0 },
+        { "text": "one of the worst experiences ... my life", "category": 1 }
+      ]
+    }
+  ]
+}

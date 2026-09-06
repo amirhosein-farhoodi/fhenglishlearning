@@ -1,0 +1,175 @@
+{
+  "number": 70,
+  "title": "Countable and uncountable 2",
+  "subtitle": "a paper / some paper",
+  "summary": "Learn which nouns change meaning when they are countable or uncountable, and which common nouns (advice, luggage, news ...) are always uncountable.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The same word, two meanings",
+      "text": "Many nouns are sometimes countable and sometimes uncountable. Usually there is a difference in meaning: the countable form is one specific thing, the uncountable form is the material or the idea in general.",
+      "examples": [
+        { "text": "Did you hear **a noise** just now?", "note": "= one specific noise" },
+        { "text": "I can't work here. There's too much **noise**.", "note": "= noise in general" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Compare",
+      "columns": ["Countable", "Uncountable"],
+      "rows": [
+        ["I bought **a paper** to read. (= a newspaper)", "I need some **paper** to write on. (= material)"],
+        ["There's **a hair** in my soup! (= one single hair)", "You've got very long **hair**. (not hairs)"],
+        ["This is **a nice room**. (= a room in a house)", "You can't sit here. There isn't **room**. (= space)"],
+        ["I had some interesting **experiences** while I was travelling.", "I was offered the job because I had a lot of **experience**. (not experiences)"],
+        ["Enjoy your trip. Have **a great time**!", "I can't wait. I don't have **time**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Drinks",
+      "text": "Coffee, tea, juice, beer and other drinks are normally uncountable. But you can say **a coffee** (= a cup of coffee), **two coffees** (= two cups) and so on.",
+      "examples": [
+        { "text": "I don't like **coffee** very much." },
+        { "text": "**Two coffees** and **an orange juice**, please." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Nouns that are usually uncountable",
+      "text": "These nouns are normally uncountable: **accommodation, advice, baggage, behaviour, bread, chaos, damage, furniture, information, luck, luggage, news, permission, progress, scenery, traffic, weather, work**. We do not use a/an with them, and they are not usually plural.",
+      "examples": [
+        { "text": "I'm going to buy some **bread**. *or* ... **a loaf of bread**.", "wrong": "a bread" },
+        { "text": "Enjoy your holiday! I hope you have good **weather**.", "wrong": "a good weather" },
+        { "text": "Where are you going to put all your **furniture**?", "wrong": "furnitures" },
+        { "text": "Let me know if you need more **information**.", "wrong": "informations" },
+        { "text": "The **news was** unexpected.", "wrong": "The news were" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "travel, trip and journey",
+      "text": "**Travel** (noun) means travelling in general and is uncountable. We do not say 'a travel' to mean a single trip - use **a trip** or **a journey**.",
+      "examples": [
+        { "text": "They spend a lot of money on **travel**." },
+        { "text": "We had a very good **trip/journey**.", "wrong": "a good travel" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Countable and uncountable pairs",
+      "columns": ["Countable", "Uncountable"],
+      "rows": [
+        ["I'm looking for **a job**.", "I'm looking for **work**. (not a work)"],
+        ["What a beautiful **view**!", "What beautiful **scenery**!"],
+        ["It's **a nice day** today.", "It's **nice weather** today."],
+        ["We had a lot of **bags**.", "We had a lot of **baggage/luggage**."],
+        ["These **chairs are** mine.", "This **furniture is** mine."],
+        ["That's **a good suggestion**.", "That's **good advice**."],
+        ["There were a lot of **cars**.", "There was a lot of **traffic**."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Uncountable nouns take a singular verb: *The news **is** good*, *This furniture **is** mine*, *There **was** a lot of traffic*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The engine is making ___. What is it?",
+      "options": ["a strange noise", "strange noise", "strange noises"],
+      "answer": 0,
+      "explanation": "One specific noise, so noise is countable here: a strange noise."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We live near a busy road, so ___.",
+      "options": ["there's a lot of noise", "there are a lot of noises", "there's a lot of a noise"],
+      "answer": 0,
+      "explanation": "Noise in general is uncountable: a lot of noise."
+    },
+    {
+      "type": "true_false",
+      "statement": "We really enjoyed our holiday. We had great time.",
+      "answer": false,
+      "explanation": "We had a great time. When time means an occasion or experience it is countable, so it needs a."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Be careful. The window has been broken and there's ___ on the floor.",
+      "options": ["broken glass", "a broken glass", "broken glasses"],
+      "answer": 0,
+      "explanation": "Here glass is the material, so it is uncountable: broken glass."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did you have ___ when you were away?",
+      "options": ["nice weather", "a nice weather", "nice weathers"],
+      "answer": 0,
+      "explanation": "Weather is uncountable: no a/an and no plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "Bad news don't make people happy.",
+      "answer": false,
+      "explanation": "Bad news doesn't make people happy. News is uncountable, not plural, so it takes a singular verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our ___ from Paris to Moscow by train was very tiring.",
+      "hint": "(travel or journey?)",
+      "answers": ["journey", "trip"],
+      "explanation": "Travel means travelling in general; for one particular trip we say a journey or a trip."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have no ___, not even a bed or a table.",
+      "hint": "(furniture)",
+      "answers": ["furniture"],
+      "explanation": "Furniture is uncountable - never furnitures."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Carla's English is better than it was. She's made good ___.",
+      "hint": "(progress)",
+      "answers": ["progress"],
+      "explanation": "Progress is uncountable, so no a/an and no plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate has done many interesting things. She could write a book about her ___.",
+      "hint": "(experience)",
+      "answers": ["experiences"],
+      "explanation": "Things that happened to her are countable experiences (uncountable experience = knowledge of a job)."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you say in each situation? Match them.",
+      "pairs": [
+        { "left": "Your friends have arrived at the station and you can't see any cases or bags.", "right": "Do you have any luggage?" },
+        { "left": "You are at a tourist office and want to know about places to visit.", "right": "I'd like some information." },
+        { "left": "You want your teacher to help you choose your courses.", "right": "Can you give me some advice?" },
+        { "left": "You call Tom to tell him you have got the job.", "right": "I've got some good news." },
+        { "left": "You are at the top of a mountain and can see a very long way.", "right": "It's a beautiful view, isn't it?" },
+        { "left": "You look out of the window: it's cold, wet and windy.", "right": "What horrible weather!" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these nouns can take a/an and a plural, and which are normally uncountable?",
+      "categories": ["Countable", "Usually uncountable"],
+      "items": [
+        { "text": "suggestion", "category": 0 },
+        { "text": "advice", "category": 1 },
+        { "text": "bag", "category": 0 },
+        { "text": "luggage", "category": 1 },
+        { "text": "journey", "category": 0 },
+        { "text": "traffic", "category": 1 },
+        { "text": "view", "category": 0 },
+        { "text": "scenery", "category": 1 }
+      ]
+    }
+  ]
+}

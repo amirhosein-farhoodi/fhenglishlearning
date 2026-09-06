@@ -1,0 +1,188 @@
+{
+  "number": 128,
+  "title": "by",
+  "subtitle": "by car / by chance / a book by ...",
+  "summary": "Use by to say how something happens, how you travel, who did something, what is next to you, and how big a difference is.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "by chance, by mistake",
+      "text": "Something can happen **by mistake / by accident / by chance**. In these expressions we use **by + noun** with no *the* or *a*. But if you mean to do something, you do it **on purpose**.",
+      "examples": [
+        { "text": "We hadn't arranged to meet. We met **by chance**.", "wrong": "by the chance" },
+        { "text": "I didn't do it **on purpose**. It was an accident." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "by car, by bus",
+      "text": "We use **by** to say how somebody travels: by car, by train, by plane, by boat, by ship, by bus, by bike. But we usually say **on foot**.",
+      "examples": [
+        { "text": "Jess usually goes to work **by bus** / **by bike** / **by car**." },
+        { "text": "Did you come here **by car** or **on foot**?", "wrong": "by foot" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "by car, but in my car",
+      "text": "We do not use **by** if we say *my car / the train / a taxi*. We use **in** for cars and taxis, and **on** for bikes and public transport.",
+      "left": {
+        "label": "by + noun alone",
+        "examples": [
+          "They usually travel **by car**.",
+          "We went **by train**."
+        ]
+      },
+      "right": {
+        "label": "in / on with my, the, a ...",
+        "examples": [
+          "They didn't come **in their car**. They came **in a taxi**.",
+          "We travelled **on the 6.45 train**, which arrived at 8.30."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Other ways of doing things",
+      "text": "We also use **by** to say how we do other things: send something **by post**, pay **by card** or **by cheque**, do something **by hand**.",
+      "examples": [
+        { "text": "Can I pay **by credit card**?" },
+        { "text": "Don't put my sweater in the washing machine. It has to be washed **by hand**." }
+      ],
+      "note": "But we say **pay cash** or **pay in cash**, not usually *by cash*."
+    },
+    {
+      "type": "compare",
+      "heading": "by or with?",
+      "text": "In passive sentences the person or thing that does the action comes after **by**. The tool or instrument that is used comes after **with**.",
+      "left": {
+        "label": "by = who or what did it",
+        "examples": [
+          "Have you ever been bitten **by a dog**?",
+          "The programme was watched **by millions of people**.",
+          "The door must have been opened **by somebody with a key**."
+        ]
+      },
+      "right": {
+        "label": "with = the thing used",
+        "examples": [
+          "The door must have been opened **with a key**.",
+          "We managed to put the fire out **with a fire extinguisher**."
+        ]
+      },
+      "note": "We also say a play **by** Shakespeare, a painting **by** Rembrandt, a novel **by** Tolstoy: 'Who is this painting **by**? Picasso?'"
+    },
+    {
+      "type": "explain",
+      "heading": "by = next to; by = the difference",
+      "text": "**By** can also mean *next to / beside*. And we use **by** to show the difference between two amounts.",
+      "examples": [
+        { "text": "The light switch is **by the door**." },
+        { "text": "Come and sit **by me**.", "note": "= next to me" },
+        { "text": "Clare's salary has increased **by ten per cent**.", "note": "= it's now ten per cent more than before" },
+        { "text": "Carl won the race **by five metres**.", "note": "= he was five metres in front of the other runners" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the pattern: by + bare noun (by car, by chance, by hand), but in/on + my/the/a (in my car, on the train)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We don't need cash. We can pay ___.",
+      "hint": "(credit card)",
+      "answers": ["by credit card", "by card"],
+      "explanation": "We pay by card, by cheque or by credit card."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't intend to take your umbrella. I took it ___.",
+      "hint": "(mistake)",
+      "answers": ["by mistake"],
+      "explanation": "By mistake, by accident, by chance - no the or a after by."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I think he arrived late ___. He wanted to keep us waiting.",
+      "options": ["on purpose", "by purpose", "with purpose"],
+      "answer": 0,
+      "explanation": "If you mean to do something, you do it on purpose."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I saw Jane this morning. She was ___ the bus.",
+      "options": ["on", "by", "in"],
+      "answer": 0,
+      "explanation": "By bus, but on the bus - we use on with the/my/a and public transport."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How did you get here? Did you come ___?",
+      "hint": "(train)",
+      "answers": ["by train"],
+      "explanation": "By + the means of transport on its own: by train, by car, by plane."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition do we use with each phrase?",
+      "categories": ["by", "in", "on"],
+      "items": [
+        { "text": "car", "category": 0 },
+        { "text": "plane", "category": 0 },
+        { "text": "my friend's car", "category": 1 },
+        { "text": "a taxi", "category": 1 },
+        { "text": "the 6.45 train", "category": 2 },
+        { "text": "foot", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We travelled ___ because it is larger and more comfortable than mine.",
+      "hint": "(my friend's car)",
+      "answers": ["in my friend's car"],
+      "explanation": "With my/the/a we use in for cars and taxis, not by."
+    },
+    {
+      "type": "true_false",
+      "statement": "He doesn't drive much. He goes everywhere by bike or by foot.",
+      "answer": false,
+      "explanation": "He goes everywhere by bike or on foot. We say on foot, not by foot."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of the sentences.",
+      "pairs": [
+        { "left": "'Mona Lisa' is a famous painting", "right": "by Leonardo da Vinci" },
+        { "left": "I hate getting bitten", "right": "by mosquitoes" },
+        { "left": "The plane was damaged", "right": "by lightning" },
+        { "left": "We lost the game because of a mistake", "right": "by one of our players" },
+        { "left": "I was woken up in the night", "right": "by a strange noise" },
+        { "left": "This music is", "right": "by Beethoven" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We managed to put the fire out ___ a fire extinguisher.",
+      "options": ["with", "by", "on"],
+      "answer": 0,
+      "explanation": "With is for the tool that is used; by is for the person or thing that does the action."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who's that man standing ___ the window?",
+      "hint": "one word",
+      "answers": ["by"],
+      "explanation": "Here by means next to or beside."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Carl was five metres in front of the other runners, so Carl won the race ___.",
+      "hint": "(five metres)",
+      "answers": ["by five metres"],
+      "explanation": "By shows the size of the difference: won by five metres, increased by ten per cent."
+    }
+  ]
+}

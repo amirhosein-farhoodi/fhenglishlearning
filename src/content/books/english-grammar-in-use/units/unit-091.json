@@ -1,0 +1,180 @@
+{
+  "number": 91,
+  "title": "each and every",
+  "subtitle": "each book / every book",
+  "summary": "Use each when you think of things separately, one by one, and every when you think of them as a group - and learn the structures that go with each of them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "each or every?",
+      "left": {
+        "label": "each = one by one",
+        "text": "We think of the things separately. Each is more usual for a small number.",
+        "examples": [
+          "Study **each** sentence carefully.",
+          "There were four books on the table. **Each** book was a different colour.",
+          "At the beginning of the game, **each** player has three cards."
+        ]
+      },
+      "right": {
+        "label": "every = all of them",
+        "text": "We think of the things as a group. Every is more usual for a large number.",
+        "examples": [
+          "**Every** window in the house was open.",
+          "Kate loves reading. She has read **every** book in the library.",
+          "I'd like to visit **every** country in the world."
+        ]
+      },
+      "note": "Often either word is possible: **Each** time I see you, you look different. or **Every** time I see you ..."
+    },
+    {
+      "type": "explain",
+      "heading": "each for two; every for how often",
+      "text": "We use **each** (not every) when we are talking about two things. And we use **every** (not each) to say how often something happens.",
+      "examples": [
+        { "text": "In football, **each** team has eleven players.", "wrong": "every team" },
+        { "text": "'How often do you use your car?' '**Every** day.'", "wrong": "Each day" },
+        { "text": "There's a bus **every** ten minutes.", "wrong": "each ten minutes" },
+        { "text": "The Olympic Games are held **every** four years." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The structures",
+      "left": {
+        "label": "each",
+        "text": "We can use each with or without a noun.",
+        "examples": [
+          "None of the rooms are the same. **Each room** is different.",
+          "**Each** is different. or **Each one** is different.",
+          "**Each of** the books was a different colour.",
+          "**Each of** them was a different colour."
+        ]
+      },
+      "right": {
+        "label": "every",
+        "text": "We use every with a noun - never alone.",
+        "examples": [
+          "She's read **every book** in the library.",
+          "*A:* Have you read all these books? *B:* Yes, **every one**.",
+          "I've read **every one of** those books.",
+          "I've read **every one of** them."
+        ]
+      },
+      "note": "We say each of the books (not ~~each of books~~) and every one of those books (not ~~every of those books~~)."
+    },
+    {
+      "type": "explain",
+      "heading": "each in the middle of a sentence",
+      "text": "**Each** can also come in the middle of a sentence, after the subject or after the verb *be*. We also say **a dollar each**, **ten pounds each** etc.",
+      "examples": [
+        { "text": "The students **were each given** a book.", "note": "= Each student was given a book." },
+        { "text": "These oranges are 40 pence **each**.", "note": "each = for one orange" },
+        { "text": "We paid 200 dollars **each**. or We **each** paid 200 dollars." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "everyone or every one?",
+      "text": "**Everyone** (one word) is only for people and means *everybody*. **Every one** (two words) is for things or people and means *each one*.",
+      "examples": [
+        { "text": "**Everyone** enjoyed the party.", "note": "= Everybody enjoyed the party." },
+        { "text": "Sarah is invited to lots of parties and she goes to **every one**.", "note": "= to every party" },
+        { "text": "I dropped a tray of glasses. Unfortunately **every one** broke." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A quick test: if you could say all instead, every is usually right; if you are picking things out one by one, use each."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "There were four books on the table. ___ book was a different colour.",
+      "options": ["Each", "Every", "Each of"],
+      "answer": 0,
+      "explanation": "Four is a small number and we look at the books one by one, so each is more natural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'How often do you use your car?' '___ day.'",
+      "options": ["Every", "Each", "Each of"],
+      "answer": 0,
+      "explanation": "We use every, not each, to say how often something happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are six apartments in the building. ___ one has a balcony.",
+      "answers": ["Each"],
+      "explanation": "We are looking at the apartments separately, one by one: each one."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need each or every in the gap (shown as ...)?",
+      "categories": ["each", "every"],
+      "items": [
+        { "text": "... side of a square is the same length.", "category": 0 },
+        { "text": "... seat in the theatre was taken.", "category": 1 },
+        { "text": "There's a train to London ... hour.", "category": 1 },
+        { "text": "She was wearing four rings - one on ... finger.", "category": 0 },
+        { "text": "In football, ... team has eleven players.", "category": 0 },
+        { "text": "Our football team is playing well. We've won ... game this season.", "category": 1 },
+        { "text": "The Olympic Games are held ... four years.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ parent worries about their children.",
+      "answers": ["Every"],
+      "explanation": "We mean parents as a group, like all parents, so we use every."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The book is divided into five parts and ___ these has three sections.",
+      "hint": "(each)",
+      "answers": ["each of"],
+      "explanation": "Before the/these/them we say each of: each of these."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friend of mine has three children. I always give ___ them a present at Christmas.",
+      "hint": "(each)",
+      "answers": ["each of"],
+      "explanation": "Each of them - we think of the children one by one."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Every student in the class was given a book. Say this with each in the middle of the sentence.",
+      "words": ["The students", "were", "each", "given", "a book"],
+      "answer": "The students were each given a book",
+      "explanation": "Each can go in the middle of the sentence: The students were each given a book."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The price of one of those oranges is 40 pence. Those oranges are 40 pence ___.",
+      "answers": ["each"],
+      "explanation": "We say 40 pence each = 40 pence for one orange."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had ten pounds and so did Sonia. Sonia and I had ten pounds ___.",
+      "answers": ["each"],
+      "explanation": "Each at the end means each of us had ten pounds."
+    },
+    {
+      "type": "true_false",
+      "statement": "Amy is very popular. Every one likes her.",
+      "answer": false,
+      "explanation": "Amy is very popular. Everyone likes her. For people in general we use everyone as one word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is invited to a lot of parties and she goes to ___.",
+      "hint": "(2 words)",
+      "answers": ["every one"],
+      "explanation": "Every one (two words) = every party. Everyone as one word is only for people."
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import Stars from '../components/Stars'
 import { availableUnits, getBook, orderedUnits } from '../content/registry'
 import { bookStats, getUnitProgress, useProgress } from '../lib/storage'
+import { ArrowLeft, ArrowRight, Lock } from '../components/Icons'
 
 export default function Course() {
   const { slug } = useParams()
@@ -40,7 +41,7 @@ export default function Course() {
     <main className="page">
       <div className="container">
         <Link to="/" className="back">
-          ← All books
+          <ArrowLeft size={16} /> All books
         </Link>
 
         <section className="course-head" style={{ ['--book' as string]: book.accent }}>
@@ -70,7 +71,8 @@ export default function Course() {
               </h3>
             </div>
             <button type="button" className="btn btn-primary" onClick={() => nav(`/learn/${book.slug}/${continueUnit}`)}>
-              {continueStatus?.lessonSeen ? 'Continue' : 'Start lesson'} →
+              {continueStatus?.lessonSeen ? 'Continue' : 'Start lesson'}
+              <ArrowRight />
             </button>
           </div>
         )}
@@ -119,7 +121,7 @@ export default function Course() {
                         </span>
                       </span>
                       <span className="unit-status">
-                        {!has ? <span>🔒</span> : up && up.attempts > 0 ? <Stars count={up.stars} /> : <span className="label-text">Start →</span>}
+                        {!has ? <Lock /> : up && up.attempts > 0 ? <Stars count={up.stars} /> : <span className="label-text">Start <ArrowRight size={16} /></span>}
                       </span>
                     </button>
                   )

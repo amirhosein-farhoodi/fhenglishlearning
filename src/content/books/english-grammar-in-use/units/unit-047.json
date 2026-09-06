@@ -1,0 +1,167 @@
+{
+  "number": 47,
+  "title": "Reported speech 1 (he said that ...)",
+  "subtitle": "Paul said that he was feeling ill.",
+  "summary": "Report what somebody said with said/told + that, moving the verb one step into the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two ways of reporting",
+      "text": "You saw Paul yesterday and you want to tell somebody what he said. Paul's words were: *'I'm feeling ill.'* You can repeat his exact words (direct speech), or you can report them (reported speech).",
+      "examples": [
+        { "text": "*direct:* Paul said, '**I am feeling** ill.'" },
+        { "text": "*reported:* Paul said that **he was feeling** ill." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The verb goes back into the past",
+      "text": "When we use reported speech, the main verb of the sentence is usually past (*Paul said that ... / I told Lisa that ...*). The rest of the sentence is usually past too. You can leave **that** out.",
+      "examples": [
+        { "text": "Paul said **that** he was feeling ill." },
+        { "text": "Paul said he was feeling ill.", "note": "the same, without that" },
+        { "text": "I told Lisa that **I didn't have** any money." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How the verbs change",
+      "columns": ["Direct speech", "Reported speech"],
+      "rows": [
+        ["am / is", "was"],
+        ["are", "were"],
+        ["do / does", "did"],
+        ["have / has", "had"],
+        ["will", "would"],
+        ["can", "could"],
+        ["want / like / know / go", "wanted / liked / knew / went"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Anna's words, reported later",
+      "text": "You met Anna and she told you several things. Later you tell somebody else what she said.",
+      "examples": [
+        { "text": "'I've lost my phone.' - Anna said that **she had lost** her phone." },
+        { "text": "'I want to buy a car.' - She said that **she wanted** to buy a car." },
+        { "text": "'I can't come to the party on Friday.' - She said that **she couldn't come** to the party on Friday." },
+        { "text": "'My parents are fine.' - She said that **her parents were** fine." },
+        { "text": "'I'll phone you when I get back.' - She said that **she would phone** me when **she got** back." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past simple can stay the same",
+      "text": "The past simple (*did / saw / knew*) can stay the same in reported speech, or you can change it to the past perfect (*had done / had seen / had known*). Both are correct.",
+      "examples": [
+        { "text": "*direct:* Paul said: 'I woke up feeling ill, so I didn't go to work.'" },
+        { "text": "*reported:* Paul said he **woke up** feeling ill, so he **didn't go** to work." },
+        { "text": "*reported:* Paul said he **had woken up** feeling ill, so he **hadn't gone** to work." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch the pronouns as well as the verbs: *'You can borrow mine'* becomes *Kate said I could borrow hers*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Paul said, 'I'm feeling ill.' Later you say: Paul didn't go to work today. He said he ___ ill.",
+      "hint": "(feel)",
+      "answers": ["was feeling"],
+      "explanation": "am/is becomes was, so am feeling becomes was feeling."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom said, 'It's too far. Let's get a taxi.' Later you say: I wanted to walk to the station, but Tom said ___ too far.",
+      "hint": "(it / be)",
+      "answers": ["it was", "that it was"],
+      "explanation": "is becomes was in reported speech."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna said, 'I don't want to go.' Later you say: Anna has been invited to the party but she told me ___ to go.",
+      "hint": "(she / want) - negative",
+      "answers": ["she didn't want", "that she didn't want", "she did not want"],
+      "explanation": "don't becomes didn't in reported speech."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dan said, 'I'll let you know next week.' How do you report this?",
+      "options": [
+        "He said he would let me know next week.",
+        "He said he will let me know next week.",
+        "He said he let me know next week."
+      ],
+      "answer": 0,
+      "explanation": "will becomes would after a past reporting verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben said, 'I haven't seen her for a while.' Later you say: I asked Ben about Rachel, but he told me ___ her for a while.",
+      "hint": "(he / see) - negative",
+      "answers": ["he hadn't seen", "that he hadn't seen", "he had not seen"],
+      "explanation": "have/has becomes had, so haven't seen becomes hadn't seen."
+    },
+    {
+      "type": "matching",
+      "prompt": "Anna said these things. Match each one with its reported form.",
+      "pairs": [
+        { "left": "'I've lost my phone.'", "right": "Anna said that she had lost her phone." },
+        { "left": "'I want to buy a car.'", "right": "She said that she wanted to buy a car." },
+        { "left": "'I can't come to the party on Friday.'", "right": "She said that she couldn't come to the party on Friday." },
+        { "left": "'I don't have much free time.'", "right": "She said that she didn't have much free time." },
+        { "left": "'My parents are fine.'", "right": "She said that her parents were fine." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate said, 'You can borrow mine.' Later you say: I needed to borrow a guitar and Kate said ___ hers.",
+      "hint": "(I / borrow)",
+      "answers": ["I could borrow", "that I could borrow"],
+      "explanation": "can becomes could, and you/mine become I/hers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue said, 'I'm not enjoying it very much.' Later you say: I asked Sue about her job. She said ___ it very much.",
+      "hint": "(she / enjoy) - negative",
+      "answers": ["she wasn't enjoying", "that she wasn't enjoying", "she was not enjoying"],
+      "explanation": "am not becomes wasn't, so I'm not enjoying becomes she wasn't enjoying."
+    },
+    {
+      "type": "true_false",
+      "statement": "James said, 'I sold my car a few months ago.' Reported: He told me that he sold it a few months ago.",
+      "answer": true,
+      "explanation": "Correct. The past simple can stay the same, or you can say he had sold it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Sarah said, 'I don't know.' Report what she said.",
+      "words": ["She", "said", "that", "she", "didn't", "know."],
+      "answer": "She said that she didn't know.",
+      "explanation": "don't becomes didn't; that is optional but here it is one of the chunks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy said, 'There are twenty students in my class.' Later you say: I asked Amy about her school and she told me ___ twenty students in her class.",
+      "hint": "(there / be)",
+      "answers": ["there were", "that there were"],
+      "explanation": "are becomes were, and my becomes her."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does each direct-speech form become in reported speech?",
+      "categories": ["was / were", "had", "would / could"],
+      "items": [
+        { "text": "am / is", "category": 0 },
+        { "text": "are", "category": 0 },
+        { "text": "have / has", "category": 1 },
+        { "text": "will", "category": 2 },
+        { "text": "can", "category": 2 },
+        { "text": "I've lost", "category": 1 }
+      ]
+    }
+  ]
+}

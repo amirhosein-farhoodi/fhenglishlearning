@@ -1,0 +1,166 @@
+{
+  "number": 97,
+  "title": "-ing and -ed clauses (the woman talking to Tom, the boy injured in the accident)",
+  "subtitle": "the woman talking to Tom",
+  "summary": "Use an -ing clause to say what somebody or something is doing, and an -ed clause with a passive meaning, to add information after a noun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "-ing clauses",
+      "text": "A clause is a part of a sentence. Some clauses begin with **-ing**: *Who is the woman **talking to Tom**?* We use an -ing clause to say what somebody or something **is** (or **was**) doing at a particular time.",
+      "examples": [
+        { "text": "Who is the woman **talking to Tom**?", "note": "the woman is talking to Tom" },
+        { "text": "Police **investigating the crime** are looking for three men.", "note": "police are investigating the crime" },
+        { "text": "Who were those people **waiting outside**?" },
+        { "text": "I was woken up by a bell **ringing**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-ing clauses for things that are always true",
+      "text": "You can also use an **-ing** clause to say what happens all the time, not just at one particular moment.",
+      "examples": [
+        { "text": "The road **connecting the two villages** is very narrow.", "note": "the road connects the two villages" },
+        { "text": "I have a large room **overlooking the garden**.", "note": "the room overlooks the garden" },
+        { "text": "Can you think of the name of a flower **beginning with T**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-ed clauses",
+      "text": "Some clauses begin with a past participle: *The boy **injured in the accident** was taken to hospital.* These **-ed** clauses have a **passive** meaning.",
+      "examples": [
+        { "text": "The boy **injured in the accident** was taken to hospital.", "note": "he was injured in the accident" },
+        { "text": "George showed me some pictures **painted by his father**.", "note": "they were painted by his father" },
+        { "text": "The gun **used in the robbery** has been found.", "note": "the gun was used in the robbery" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "-ing or -ed?",
+      "left": {
+        "label": "-ing (active)",
+        "text": "The person or thing does the action.",
+        "examples": [
+          "The taxi **taking us to the airport** broke down.",
+          "Life is unpleasant for people **living near busy airports**.",
+          "I received an email **offering me the job**."
+        ]
+      },
+      "right": {
+        "label": "-ed (passive)",
+        "text": "The action is done to the person or thing.",
+        "examples": [
+          "The paintings **stolen from the museum** haven't been found.",
+          "We've repaired the gate **damaged in the storm**.",
+          "Most of the suggestions **made at the meeting** were not practical."
+        ]
+      },
+      "note": "Most past participles end in -ed, but many are irregular: **stolen, made, built, blown, written**."
+    },
+    {
+      "type": "explain",
+      "heading": "there is / there was + -ing or -ed",
+      "text": "You can use **there is / there was** etc. with -ing and -ed clauses. We also use **left** in this way, meaning *not used, still there*.",
+      "examples": [
+        { "text": "There were some children **swimming** in the river." },
+        { "text": "Is there anybody **waiting**?" },
+        { "text": "There was a big red car **parked** outside the house." },
+        { "text": "We've eaten nearly all the chocolates. There are only a few **left**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is the noun doing the action or receiving it? Doing it takes -ing, receiving it takes the past participle."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A bell was ringing and it woke me up. I was woken up by a bell ___.",
+      "hint": "(ring)",
+      "answers": ["ringing"],
+      "explanation": "The bell was doing the action, so we use the -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "George showed me some pictures ___ by his father.",
+      "hint": "(paint)",
+      "answers": ["painted"],
+      "explanation": "The pictures were painted by his father - a passive meaning, so we use the past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "Most of the goods made in this factory are exported.",
+      "answer": true,
+      "explanation": "Correct. The goods are made in the factory, so the -ed clause with a passive meaning is right."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with the -ed clause that completes it.",
+      "pairs": [
+        { "left": "The paintings ... haven't been found yet.", "right": "stolen from the museum" },
+        { "left": "We've repaired the gate ... .", "right": "damaged in the storm" },
+        { "left": "Most of the suggestions ... were not practical.", "right": "made at the meeting" },
+        { "left": "Our friends live in a beautiful house ... .", "right": "surrounded by trees" },
+        { "left": "Everybody ... worked very well.", "right": "involved in the project" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Life must be very unpleasant for people ___ near busy airports.",
+      "hint": "(live)",
+      "answers": ["living"],
+      "explanation": "The people live near the airports, so the clause is active: -ing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A taxi was taking us to the airport and it broke down. The taxi ___ us to the airport broke down.",
+      "options": ["taking", "taken", "took"],
+      "answer": 0,
+      "explanation": "The taxi was taking us, so the -ing clause is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few days after the interview, I received an email ___ me the job.",
+      "hint": "(offer)",
+      "answers": ["offering"],
+      "explanation": "The email offered me the job, so the clause is active: offering."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The building was badly damaged in a fire ___ by an electrical fault.",
+      "hint": "(cause)",
+      "answers": ["caused"],
+      "explanation": "The fire was caused by a fault - a passive meaning, so we use caused."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you see the picture of the trees ___ down in the storm?",
+      "hint": "(blow)",
+      "answers": ["blown"],
+      "explanation": "The trees were blown down. Blow is irregular: the past participle is blown."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The college offers English courses in the evening and a course begins next Monday. Say this with There.",
+      "words": ["There's", "a course", "beginning", "next Monday"],
+      "answer": "There's a course beginning next Monday",
+      "explanation": "There is / there was can be followed by a noun + an -ing clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've spent all the money I had. There's ___.",
+      "hint": "(nothing / leave)",
+      "answers": ["nothing left"],
+      "explanation": "Left here means not used, still there - and here there is none."
+    },
+    {
+      "type": "true_false",
+      "statement": "The piece of paper was blank. There was nothing wrote on it.",
+      "answer": false,
+      "explanation": "There was nothing written on it. We need the past participle written, not the past simple wrote."
+    }
+  ]
+}
