@@ -18,11 +18,11 @@ export default function Home() {
         <section className="hero">
           <p className="eyebrow">Welcome back</p>
           <h1>
-            Learn English grammar, <em>one lesson</em> at a time.
+            Learn English, <em>one lesson</em> at a time.
           </h1>
           <p>
-            Pick a book, read a short lesson, then prove it in a playful quiz. Your progress is saved on this device -
-            no account needed.
+            Pick a book, read a short lesson, then prove it in a playful quiz. Grammar, vocabulary, phrasal verbs -
+            whatever the book covers. Your progress is saved on this device, no account needed.
           </p>
           <div className="stats-row">
             <div className="stat">

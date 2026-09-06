@@ -4,6 +4,7 @@ A gamified English-learning web app. Pick a book, read a short lesson, then prov
 with six interactive exercise types. Everything (progress, XP, streaks) is stored in the browser's
 `localStorage` - there is no backend.
 
+Any English-learning book can become a course - grammar, vocabulary, phrasal verbs, exam practice.
 Currently included: **English Grammar in Use** (145 units, based on Raymond Murphy's book, 5th edition).
 
 ## Features

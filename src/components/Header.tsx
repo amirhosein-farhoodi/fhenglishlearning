@@ -7,11 +7,11 @@ export default function Header() {
   return (
     <header className="header">
       <div className="container header-inner">
-        <Link to="/" className="brand" aria-label="FH Language Learning home">
+        <Link to="/" className="brand" aria-label="FH Language Learning - home">
           <span className="brand-mark">FH</span>
           <span className="name">
             <small>Language Learning</small>
-            English Grammar
+            Learn English
           </span>
         </Link>
         <div className="header-stats">
