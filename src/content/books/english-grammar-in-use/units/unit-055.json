@@ -1,0 +1,170 @@
+{
+  "number": 55,
+  "title": "Verb (+ object) + to ... (I want you to ...)",
+  "subtitle": "I want you to ... / make somebody do",
+  "summary": "Use verb + somebody + to ... (want you to go, told me to wait) and remember that make and let take the bare infinitive (make him wait).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "want to ... / want somebody to ...",
+      "left": {
+        "label": "verb + to ...",
+        "text": "want, expect, ask, help, would like, would prefer",
+        "examples": [
+          "We **expected to be** late.",
+          "**Would you like to go** now?",
+          "He **doesn't want to know**."
+        ]
+      },
+      "right": {
+        "label": "verb + object + to ...",
+        "text": "want somebody to, expect somebody to, ask somebody to, help somebody to ...",
+        "examples": [
+          "We **expected Dan to be** late.",
+          "**Would you like me to go** now?",
+          "He **doesn't want anybody to know**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Not 'want that'; help with or without to",
+      "text": "We do not usually say 'want that'. You can use **help** with or without to.",
+      "examples": [
+        { "text": "Do you **want me to come** with you?", "wrong": "want that I come" },
+        { "text": "Can you **help me to move** this table?", "note": "or Can you help me move this table?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "tell / advise / remind somebody to ...",
+      "text": "These verbs have the structure **verb + object + to ...**: **tell, advise, remind, warn, invite, encourage, persuade, get, force, teach, allow, enable**. The verb can also be passive: *I was warned ... / we are allowed ...*.",
+      "examples": [
+        { "text": "It's not a nice hotel. I wouldn't **advise you to stay** there." },
+        { "text": "Can you **remind me to call** Sam tomorrow?" },
+        { "text": "Joe said the switch was dangerous and **warned me not to touch** it." },
+        { "text": "I didn't move the piano by myself. I **got somebody to help** me." },
+        { "text": "Who **taught you to drive**?" },
+        { "text": "They don't **allow people to park** in front of the building." },
+        { "text": "I **was warned not to touch** the switch. / Are we **allowed to park** here?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "suggest",
+      "text": "We do not use **suggest** with to ... . Use a *that* clause instead.",
+      "examples": [
+        { "text": "Jane **suggested that I ask** you for advice.", "wrong": "Jane suggested me to ask" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "make somebody do / let somebody do",
+      "text": "We say **make somebody do something** and **let somebody do something** - without to. But in the passive we say **(be) made to do** - with to.",
+      "examples": [
+        { "text": "I **made him promise** that he wouldn't tell anybody what happened.", "wrong": "made him to promise" },
+        { "text": "Hot weather **makes me feel** tired.", "note": "= causes me to feel tired" },
+        { "text": "Her parents wouldn't **let her go** out alone.", "note": "= wouldn't allow her to go out" },
+        { "text": "**Let me carry** your bag for you." },
+        { "text": "We **were made to wait** for two hours.", "note": "= They made us wait ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "make and let are the two exceptions: make him wait, let her go - no to. Almost every other verb in this group (allow, force, persuade, tell ...) needs somebody + to ..."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Do you have enough money, or do you want ___ you some?",
+      "hint": "(me / lend)",
+      "answers": ["me to lend"],
+      "explanation": "want + object + to ...: do you want me to lend you some?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Shall I leave the window open, or would you like ___ it?",
+      "hint": "(me / shut)",
+      "answers": ["me to shut"],
+      "explanation": "would like + object + to ...: would you like me to shut it?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Why don't you come and stay with us?' 'That would be nice.' They invited him ___.",
+      "hint": "(stay / with them)",
+      "answers": ["to stay with them"],
+      "explanation": "invite somebody to ...: invited him to stay with them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Don't forget to call Joe.' 'No, I won't forget.' He reminded her ___.",
+      "hint": "(call / Joe)",
+      "answers": ["to call Joe"],
+      "explanation": "remind somebody to ...: reminded her to call Joe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Be careful.' 'Don't worry. I will.' She warned ___.",
+      "hint": "(him / be careful)",
+      "answers": ["him to be careful"],
+      "explanation": "warn somebody to ...: warned him to be careful."
+    },
+    {
+      "type": "categorize",
+      "prompt": "After which verbs do we use somebody + to do, and after which somebody + do (no to)?",
+      "categories": ["+ somebody + to do", "+ somebody + do (no to)"],
+      "items": [
+        { "text": "make", "category": 1 },
+        { "text": "allow", "category": 0 },
+        { "text": "let", "category": 1 },
+        { "text": "persuade", "category": 0 },
+        { "text": "force", "category": 0 },
+        { "text": "want", "category": 0 },
+        { "text": "advise", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "I was surprised that it rained. Say this with expect.",
+      "words": ["I", "didn't", "expect", "it", "to", "rain."],
+      "answer": "I didn't expect it to rain.",
+      "explanation": "expect + object + to ...: I didn't expect it to rain."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The film was very sad. It made me ___.",
+      "options": ["cry", "to cry", "crying"],
+      "answer": 0,
+      "explanation": "make somebody do - without to: made me cry."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lisa's parents always encouraged her ___ hard at school.",
+      "options": ["to study", "study", "studying"],
+      "answer": 0,
+      "explanation": "encourage somebody to ...: encouraged her to study."
+    },
+    {
+      "type": "word_order",
+      "prompt": "My lawyer said I shouldn't say anything to the police. Say this with advise.",
+      "words": ["My lawyer", "advised", "me", "not", "to say", "anything", "to the police."],
+      "answer": "My lawyer advised me not to say anything to the police.",
+      "explanation": "advise somebody not to ...: advised me not to say anything."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sarah won't let me ___ her car. She doesn't trust me.",
+      "options": ["drive", "to drive", "driving"],
+      "answer": 0,
+      "explanation": "let somebody do - without to: let me drive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jane suggested me to ask you for advice.",
+      "answer": false,
+      "explanation": "Jane suggested that I ask you for advice. We do not use suggest + somebody + to ..."
+    }
+  ]
+}

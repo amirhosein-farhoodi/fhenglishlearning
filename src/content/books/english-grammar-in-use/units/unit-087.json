@@ -1,0 +1,199 @@
+{
+  "number": 87,
+  "title": "much, many, little, few, a lot, plenty",
+  "subtitle": "much / many / little / few / a lot of / plenty of",
+  "summary": "Choose much, many, little, few, a lot of or plenty of according to the noun and the sentence type, and tell the difference between little/few and a little/a few.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Which words go with which nouns?",
+      "columns": ["Words", "Used with", "Examples"],
+      "rows": [
+        ["much / little", "uncountable nouns", "much luck, much time, little energy, little money"],
+        ["many / few", "plural nouns", "many friends, many people, few children, few cars"],
+        ["a lot of / lots of / plenty of", "both", "a lot of luck, lots of time, plenty of money, a lot of friends, lots of people, plenty of ideas"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "plenty = more than enough",
+      "text": "**Plenty of** means more than enough. You can also say **plenty to** + verb.",
+      "examples": [
+        { "text": "There's no need to hurry. We've got **plenty of** time." },
+        { "text": "There's **plenty to** do in this town." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "much or a lot?",
+      "left": {
+        "label": "much - questions and negatives",
+        "text": "much is unusual in positive sentences, especially in spoken English",
+        "examples": [
+          "We didn't spend **much** money.",
+          "Do you see David **much**?",
+          "We spent **too much** money. (too much / so much / as much are fine in positive sentences)"
+        ]
+      },
+      "right": {
+        "label": "a lot (of) - positive sentences",
+        "examples": [
+          "We spent **a lot of** money.",
+          "I see David **a lot**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "many and a lot of",
+      "text": "We use **many** and **a lot of** in all kinds of sentences - positive, negative and questions. Note that we say **many years / many weeks / many days**.",
+      "examples": [
+        { "text": "**Many** people drive too fast. or **A lot of** people drive too fast." },
+        { "text": "Do you know **many** people? or Do you know **a lot of** people?" },
+        { "text": "There aren't **many** tourists here. or There aren't **a lot of** tourists here." },
+        { "text": "We've lived here for **many** years.", "wrong": "a lot of years" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "little = not much, few = not many",
+      "text": "**little** and **few** have a negative idea: less than you want or expect. We often say **very little** and **very few**.",
+      "examples": [
+        { "text": "Gary is very busy with his job. He has **little** time for other things.", "note": "= not much time, less time than he would like" },
+        { "text": "Vicky doesn't like living in London. She has **few** friends there.", "note": "= not many friends, not as many as she would like" },
+        { "text": "Gary has **very little** time for other things." },
+        { "text": "Vicky has **very few** friends in London." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a little = some, a few = some",
+      "text": "**a little** = some, a small amount. **a few** = some, a small number. These have a positive idea: not a lot, but enough.",
+      "examples": [
+        { "text": "Let's go and have coffee. We have **a little** time before the train leaves.", "note": "= some time, enough time to have a coffee" },
+        { "text": "'Do you speak English?' '**A little**.'", "note": "so we can talk a bit" },
+        { "text": "I enjoy my life here. I have **a few** friends and we meet quite often.", "note": "= not many, but enough to have a good time" },
+        { "text": "'When was the last time you saw Clare?' '**A few** days ago.'", "note": "= 3 or 4 days ago" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "little / few or a little / a few?",
+      "left": {
+        "label": "little / few (negative: not much, not many)",
+        "examples": [
+          "He spoke **little** English, so it was difficult to communicate with him.",
+          "She's lucky. She has **few** problems."
+        ]
+      },
+      "right": {
+        "label": "a little / a few (positive: some)",
+        "examples": [
+          "He spoke **a little** English, so we were able to communicate with him.",
+          "Things are not going so well for her. She has **a few** problems."
+        ]
+      },
+      "note": "We say only a little (not only little) and only a few (not only few): Hurry! We only have a little time. The village was small. There were only a few houses."
+    },
+    {
+      "type": "tip",
+      "text": "In positive statements prefer a lot of: We spent a lot of money, not ~~We spent much money~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Be quick. We don't have much time.",
+      "answer": true,
+      "explanation": "Correct. much is natural in negative sentences and questions."
+    },
+    {
+      "type": "true_false",
+      "statement": "It cost much to repair the car.",
+      "answer": false,
+      "explanation": "It cost a lot to repair the car. much is unusual in positive sentences."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You have ___ luggage. Let me help you.",
+      "options": ["a lot of", "much", "many"],
+      "answer": 0,
+      "explanation": "A positive sentence, so a lot of (not much). luggage is uncountable, so many is impossible."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which nouns go with much / little and which with many / few?",
+      "categories": ["much / little (uncountable)", "many / few (plural)"],
+      "items": [
+        { "text": "money", "category": 0 },
+        { "text": "friends", "category": 1 },
+        { "text": "time", "category": 0 },
+        { "text": "people", "category": 1 },
+        { "text": "energy", "category": 0 },
+        { "text": "cars", "category": 1 },
+        { "text": "luck", "category": 0 },
+        { "text": "children", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings with the endings that use plenty of ... or plenty to ...",
+      "pairs": [
+        { "left": "He has no financial problems.", "right": "He has plenty of money." },
+        { "left": "Come and sit with us.", "right": "There's plenty of room." },
+        { "left": "She knows a lot, but ...", "right": "she still has plenty to learn." },
+        { "left": "It's an interesting town to visit.", "right": "There is plenty to see." },
+        { "left": "I'm sure we'll find somewhere to stay.", "right": "There are plenty of hotels." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna is very busy these days. She has ___ free time.",
+      "hint": "(much / many / little / few)",
+      "answers": ["little"],
+      "explanation": "free time is uncountable and the idea is negative (not much), so little."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you take ___ pictures at the wedding?",
+      "hint": "(much / many / little / few)",
+      "answers": ["many"],
+      "explanation": "pictures is plural and this is a question, so many."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't know much people in this town.",
+      "answer": false,
+      "explanation": "I don't know many people (or a lot of people) in this town. people is plural, so many, not much."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was the middle of the night, so there was ___.",
+      "options": ["little traffic", "a little traffic", "few traffic"],
+      "answer": 0,
+      "explanation": "little = not much, a negative idea: there was hardly any traffic. traffic is uncountable, so few is impossible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't know much Russian - ___.",
+      "options": ["only a few words", "only few words", "only a little words"],
+      "answer": 0,
+      "explanation": "We say only a few (not only few); words is plural, so a few, not a little."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Listen carefully. I'm going to give you ___ advice.",
+      "hint": "(little / a little / few / a few)",
+      "answers": ["a little"],
+      "explanation": "a little = some, a small amount; advice is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think Amy would be a good teacher. She has ___ patience.",
+      "hint": "(little / a little / few / a few)",
+      "answers": ["little"],
+      "explanation": "little = not much, a negative idea: she doesn't have enough patience."
+    }
+  ]
+}

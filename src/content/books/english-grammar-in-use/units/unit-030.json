@@ -1,0 +1,169 @@
+{
+  "number": 30,
+  "title": "may and might 2",
+  "subtitle": "I might go / We might as well walk",
+  "summary": "Use may and might for possible future actions, choose might when the situation is not real, and use might as well when there is no better alternative.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Possible actions in the future",
+      "text": "We use **may** and **might** to talk about possible actions or happenings in the future (= perhaps it will happen). The negative forms are **may not** and **might not** (mightn't).",
+      "examples": [
+        { "text": "I haven't decided where to go on holiday. I **may go** to Ireland.", "note": "= perhaps I will go there" },
+        { "text": "Take an umbrella with you. It **might rain** later.", "note": "= perhaps it will rain" },
+        { "text": "The bus isn't always on time. We **might have to wait** a few minutes.", "note": "= perhaps we will have to wait" },
+        { "text": "Amy **may not go** out tonight. She isn't feeling well.", "note": "= perhaps she will not go out" },
+        { "text": "There **might not be** enough time to discuss everything at the meeting." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "For sure or possible?",
+      "left": {
+        "label": "going to = for sure",
+        "examples": [
+          "I'm going to buy a car.",
+          "I'm going to Ireland soon."
+        ]
+      },
+      "right": {
+        "label": "may / might = possible",
+        "examples": [
+          "I **may buy** a car. or I **might buy** a car.",
+          "I **might be going** (or I **may be going**) to Ireland soon."
+        ]
+      },
+      "note": "We also use may/might be -ing for possible plans."
+    },
+    {
+      "type": "explain",
+      "heading": "may or might?",
+      "text": "Usually you can use may or might. But we use **might** (not may) when the situation is not real. In *If they paid me better*, the situation is not real: they do not pay me well, so I'm not going to work harder.",
+      "examples": [
+        { "text": "I **may go** to Ireland. or I **might go** to Ireland." },
+        { "text": "Jane **might be able to** help you. or Jane **may be able to** help you." },
+        { "text": "If they paid me better, I **might work** harder.", "wrong": "I may work" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "will be -ing or may / might be -ing?",
+      "left": {
+        "label": "will be -ing = sure",
+        "examples": [
+          "Don't phone at 8.30. I**'ll be watching** the football on TV."
+        ]
+      },
+      "right": {
+        "label": "might be -ing = perhaps",
+        "examples": [
+          "Don't phone at 8.30. I **might be watching** the football on TV. (= perhaps I'll be watching it)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "might as well",
+      "text": "Helen and Clare have just missed the bus. The buses run every hour. *What shall we do? Shall we walk?* - *We **might as well**. It's a nice day and I don't want to wait here for an hour.* **We might as well do something** = we should do it because there is no better alternative. There is no reason not to do it. You can also use **may as well**.",
+      "examples": [
+        { "text": "*A:* What time are you going out? *B:* Well, I'm ready, so I **might as well go** now. or ... I **may as well go** now." },
+        { "text": "Buses are so expensive these days, you **might as well get** a taxi.", "note": "= taxis are as good, no more expensive than buses" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Decided = I'm going to ...; not decided = I might ... . And after an unreal if (If they paid me better ...), only might is possible."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "A: Have you decided what sort of car you want to buy? B: Yes, ___ a sports car.",
+      "options": ["I'm going to get", "I might get", "I might to get"],
+      "answer": 0,
+      "explanation": "B has decided, so it is for sure: I'm going to get. Might is for something possible, not decided."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A: When is Tom coming to see us? B: He hasn't said yet. ___ on Sunday.",
+      "options": ["He might come", "He's coming", "He might to come"],
+      "answer": 0,
+      "explanation": "Nothing is decided, so it is only possible: He might come (might + infinitive without to)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A: Do you have plans for the weekend? B: Nothing fixed. ___.",
+      "options": ["I might go away", "I'm going away", "I may going away"],
+      "answer": 0,
+      "explanation": "Nothing fixed = not decided, so: I might go away."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't make too much noise. You ___ the baby.",
+      "hint": "(might + wake)",
+      "answers": ["might wake", "may wake"],
+      "explanation": "A possible future happening: might wake (= perhaps you will wake the baby)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be careful. This footpath is icy. You ___.",
+      "hint": "(might + slip)",
+      "answers": ["might slip", "may slip"],
+      "explanation": "Perhaps you will slip: might + infinitive."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which phrase completes each sentence: might be able to or might have to?",
+      "categories": ["might be able to", "might have to"],
+      "items": [
+        { "text": "Tell me about your problem. I ___ help you.", "category": 0 },
+        { "text": "I can come to the meeting, but I ___ leave before the end.", "category": 1 },
+        { "text": "I'm not free this evening, but I ___ meet you tomorrow evening.", "category": 0 },
+        { "text": "I'm not sure whether this car park is free or not. We ___ pay.", "category": 1 },
+        { "text": "There's a long queue. We ___ wait a long time.", "category": 1 },
+        { "text": "'I've got a problem with my bike.' 'Let me have a look. I ___ fix it.'", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "I haven't seen him for a long time. I don't know if I will recognise him or not. Make a sentence with might not.",
+      "words": ["I", "might", "not", "recognise", "him."],
+      "answer": "I might not recognise him.",
+      "explanation": "Perhaps I will not recognise him: might not + infinitive."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I've been invited to the wedding, but I'm not sure that I'll be able to go. Make a sentence with might not.",
+      "words": ["I", "might", "not", "be able to", "go", "to the wedding."],
+      "answer": "I might not be able to go to the wedding.",
+      "explanation": "Perhaps I won't be able to go: might not be able to."
+    },
+    {
+      "type": "true_false",
+      "statement": "If they paid me better, I may work harder.",
+      "answer": false,
+      "explanation": "If they paid me better, I might work harder. The situation is not real (they don't pay me well), so we use might, not may."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't phone at 8.30. I might be watching the football on TV.",
+      "answer": true,
+      "explanation": "Correct. Might be -ing = perhaps I'll be watching it at that time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your computer doesn't work any more and it will cost a lot to repair. You say: It's not worth repairing. I ___ a new one.",
+      "hint": "(might as well + buy)",
+      "answers": ["might as well buy", "may as well buy"],
+      "explanation": "There is no better alternative, so: might as well buy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You and a friend are at home and bored. There's a film on TV starting in a few minutes. You say: We ___ it. There's nothing else to do.",
+      "hint": "(might as well + watch)",
+      "answers": ["might as well watch", "may as well watch"],
+      "explanation": "There is no reason not to watch it: might as well watch."
+    }
+  ]
+}

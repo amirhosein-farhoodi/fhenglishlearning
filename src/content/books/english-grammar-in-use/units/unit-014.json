@@ -1,0 +1,194 @@
+{
+  "number": 14,
+  "title": "Present perfect and past 2 (I have done and I did)",
+  "subtitle": "I have done and I did",
+  "summary": "Choose the present perfect for a period that continues until now, and the past simple for a time that is finished.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A finished time needs the past simple",
+      "text": "We do not use the present perfect (I have done) when we talk about a finished time - for example **yesterday / last year / ten minutes ago**. We use a past tense.",
+      "examples": [
+        { "text": "It **was** very cold yesterday.", "wrong": "has been" },
+        { "text": "Paul and Lucy **arrived** ten minutes ago.", "wrong": "have arrived" },
+        { "text": "**Did you eat** a lot of sweets when you were a child?", "wrong": "have you eaten" },
+        { "text": "I **got** home late last night. I **was** very tired and **went** straight to bed." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When ... ? and What time ... ?",
+      "text": "Use the past simple to ask **When ... ?** or **What time ... ?** These questions are about a point in the past, so the present perfect is not possible.",
+      "examples": [
+        { "text": "**When did** your friends **arrive**?", "wrong": "have ... arrived" },
+        { "text": "**What time did** you **finish** work?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Result now or finished event?",
+      "left": {
+        "label": "Present perfect",
+        "text": "The past action is connected with now.",
+        "examples": [
+          "Tom **has lost** his key. He can't get into the house.",
+          "Is Carla here or **has she left**?"
+        ]
+      },
+      "right": {
+        "label": "Past simple",
+        "text": "The action happened at a finished time.",
+        "examples": [
+          "Tom **lost** his key yesterday. He couldn't get into the house.",
+          "When **did Carla leave**?"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Unfinished time and finished time",
+      "left": {
+        "label": "Present perfect (have done)",
+        "text": "A period of time that continues until now: today / this week / since 2010.",
+        "examples": [
+          "**I've done** a lot of work today.",
+          "**It hasn't rained** this week.",
+          "**Have you seen** Anna this morning? (it is still morning now)",
+          "**Have you seen** Ben recently? (in the last few days or weeks)",
+          "**I've been working** here since 2010. (I still work here now)"
+        ]
+      },
+      "right": {
+        "label": "Past simple (did)",
+        "text": "A finished time in the past: yesterday / last week / from 2010 to 2014.",
+        "examples": [
+          "**I did** a lot of work yesterday.",
+          "**It didn't rain** last week.",
+          "**Did you see** Anna this morning? (it is now afternoon or evening)",
+          "**Did you see** Ben on Sunday?",
+          "**I worked** here from 2010 to 2014. (I don't work here now)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Still true now, or over?",
+      "text": "Ask yourself whether the situation continues to the present. If it does, use the present perfect. If it is over, use the past simple.",
+      "examples": [
+        { "text": "I don't know where Lisa is. **I haven't seen** her. (= I haven't seen her recently)" },
+        { "text": "*A:* Was Lisa at the party on Sunday? *B:* I don't think so. **I didn't see** her." },
+        { "text": "**We've been waiting** for an hour. (we are still waiting now)" },
+        { "text": "**We waited** (or were waiting) for an hour. (we are no longer waiting)" },
+        { "text": "Jack lives in Los Angeles. **He has lived** there for seven years." },
+        { "text": "Jack **lived** in New York for ten years. Now he lives in Los Angeles." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "never, and the end of a holiday",
+      "text": "**I've never ridden a horse** means never in my life, up to now. **I never rode a bike when I was a child** is about a finished period. Compare what you say on the last day of a holiday and after you come back.",
+      "examples": [
+        { "text": "**I've never ridden** a horse. (in my life)" },
+        { "text": "**I never rode** a bike when I was a child." },
+        { "text": "Last day of your holiday: **It's been** a really good holiday. **I've really enjoyed** it." },
+        { "text": "After you come back: **It was** a really good holiday. **I really enjoyed** it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the sentence names a finished time (yesterday, last week, in 1999, ten minutes ago, when I was a child) or asks When ... ?, the present perfect is not possible - use the past simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "I've lost my key. I can't find it anywhere.",
+      "answer": true,
+      "explanation": "Correct. The key is still lost now, so the present perfect connects the past action with the present."
+    },
+    {
+      "type": "true_false",
+      "statement": "Have you eaten a lot of sweets when you were a child?",
+      "answer": false,
+      "explanation": "Did you eat a lot of sweets when you were a child? 'When you were a child' is a finished time, so use the past simple."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each time expression describe a period that continues until now (present perfect) or a finished time (past simple)?",
+      "categories": ["Continues until now", "Finished time"],
+      "items": [
+        { "text": "today", "category": 0 },
+        { "text": "yesterday", "category": 1 },
+        { "text": "this week", "category": 0 },
+        { "text": "last week", "category": 1 },
+        { "text": "since 2010", "category": 0 },
+        { "text": "from 2010 to 2014", "category": 1 },
+        { "text": "recently", "category": 0 },
+        { "text": "ten minutes ago", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul and Lucy ___ about ten minutes ago.",
+      "hint": "(arrive)",
+      "answers": ["arrived"],
+      "explanation": "'Ten minutes ago' is a finished time: past simple."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence: (the weather / be / cold / recently)",
+      "words": ["The weather", "has", "been", "cold", "recently."],
+      "answer": "The weather has been cold recently.",
+      "explanation": "'Recently' covers a period up to now, so the present perfect is used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm tired. ___ well last night.",
+      "hint": "(I / not / sleep)",
+      "answers": ["I didn't sleep", "I did not sleep"],
+      "explanation": "'Last night' is finished: I didn't sleep."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mary lives in Dublin. ___ there all her life.",
+      "hint": "(She / live)",
+      "answers": ["She's lived", "She has lived"],
+      "explanation": "She still lives there, so the period continues until now: She has lived."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question: (you / have / a holiday recently?)",
+      "words": ["Have", "you", "had", "a holiday", "recently?"],
+      "answer": "Have you had a holiday recently?",
+      "explanation": "'Recently' = in the last few weeks up to now, so use the present perfect."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is correct? 'My grandfather died before I was born. ___ him.' / 'I don't know Karen's husband. ___ him.'",
+      "options": ["I never met / I've never met", "I've never met / I never met", "I never met / I never met"],
+      "answer": 0,
+      "explanation": "The grandfather's life is a finished time (I never met him). Karen's husband is alive, so the period continues (I've never met him)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's nearly lunchtime, and ___ Martin all morning. I wonder where he is.",
+      "hint": "(I / not / see)",
+      "answers": ["I haven't seen", "I have not seen"],
+      "explanation": "It is still morning, so the period is unfinished: I haven't seen him."
+    },
+    {
+      "type": "true_false",
+      "statement": "When has this bridge been built?",
+      "answer": false,
+      "explanation": "When was this bridge built? Questions with When ... ? take the past simple."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Where do you live? *B:* In Boston. *A:* How long ___ there? *B:* Five years. *A:* Where ___ before that? *B:* In Chicago.",
+      "options": ["have you lived / did you live", "did you live / have you lived", "do you live / did you live"],
+      "answer": 0,
+      "explanation": "Living in Boston continues now (have you lived / have you been living); Chicago is finished (did you live)."
+    }
+  ]
+}

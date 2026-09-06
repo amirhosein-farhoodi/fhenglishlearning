@@ -1,0 +1,197 @@
+{
+  "number": 113,
+  "title": "although, though, even though; in spite of, despite",
+  "subtitle": "although it rained / in spite of the rain / despite the rain",
+  "summary": "Use although (or though / even though) with a subject and verb, and in spite of / despite with a noun, pronoun or -ing, to contrast two ideas.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Last year Paul and Sarah had a holiday by the sea. It rained a lot, but they had a good time. You can say this with **although** + a clause, or with **in spite of / despite** + a noun.",
+      "examples": [
+        { "text": "**Although** it rained a lot, they had a good time.", "note": "= It rained a lot, but they ..." },
+        { "text": "**In spite of** the rain, they had a good time." },
+        { "text": "**Despite** the rain, they had a good time." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "although or because?",
+      "left": {
+        "label": "although + subject + verb",
+        "text": "After although we use a subject + verb. Although introduces a contrast.",
+        "examples": [
+          "**Although** it rained a lot, they had a good time.",
+          "I didn't apply for the job **although** I had the necessary qualifications.",
+          "We went out **although** it was raining heavily."
+        ]
+      },
+      "right": {
+        "label": "because + subject + verb",
+        "text": "Because introduces a reason.",
+        "examples": [
+          "We didn't go out **because** it was raining heavily."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "in spite of / despite",
+      "text": "After **in spite of** or **despite**, we use a noun, a pronoun (this / that / what etc.) or -ing. Despite is the same as in spite of. We say in spite of, but despite (without of). You can also say **in spite of the fact (that) ...** and **despite the fact (that) ...**. Compare in spite of (contrast) and because of (reason).",
+      "examples": [
+        { "text": "**In spite of** the rain, we had a good time." },
+        { "text": "She wasn't well, but **in spite of this** she continued working." },
+        { "text": "**In spite of what** I said yesterday, I still love you." },
+        { "text": "I didn't apply for the job **in spite of having** the necessary qualifications." },
+        { "text": "She wasn't well, but **despite this** she continued working.", "wrong": "despite of this" },
+        { "text": "I didn't apply for the job **despite the fact that** I had the necessary qualifications." },
+        { "text": "We went out **in spite of** the rain. / We didn't go out **because of** the rain." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "although or in spite of / despite?",
+      "left": {
+        "label": "although + clause",
+        "examples": [
+          "**Although** the traffic was bad, we arrived on time.",
+          "I couldn't sleep **although** I was very tired."
+        ]
+      },
+      "right": {
+        "label": "in spite of / despite + noun or -ing",
+        "examples": [
+          "**In spite of** the traffic, we arrived on time. (not in spite of the traffic was bad)",
+          "I couldn't sleep **despite** being very tired. (not despite I was tired)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "though and even though",
+      "text": "**Though** = although. In spoken English we often use though at the end of a sentence, where it means 'but'. **Even though** (but not 'even' alone) is similar to although.",
+      "examples": [
+        { "text": "I didn't apply for the job **though** I had the necessary qualifications." },
+        { "text": "The house isn't so nice. I like the garden **though**.", "note": "= but I like the garden" },
+        { "text": "I see them every day. I've never spoken to them **though**.", "note": "= but I've never spoken to them" },
+        { "text": "**Even though** I was really tired, I couldn't sleep.", "wrong": "Even I was really tired" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look at what follows: a subject + verb needs although / though / even though; a noun, pronoun or -ing needs in spite of / despite. And it is always despite, never ~~despite of~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "___ it rained a lot, we had a good time.",
+      "options": ["Although", "In spite of", "Because", "Because of"],
+      "answer": 0,
+      "explanation": "There is a subject + verb (it rained), and the sentence is a contrast, so: Although."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ all our careful plans, a lot of things went wrong.",
+      "options": ["In spite of", "Although", "Because", "Because of"],
+      "answer": 0,
+      "explanation": "A noun phrase (all our careful plans) and a contrast: In spite of (or Despite)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Complete each sentence with the right although-clause.",
+      "pairs": [
+        { "left": "She isn't well-paid,", "right": "although she has a very important job." },
+        { "left": "I recognised her from a photo,", "right": "although I had never seen her before." },
+        { "left": "Sarah wasn't wearing a coat,", "right": "although it was quite cold." },
+        { "left": "We decided to invite them to the party,", "right": "although we don't like them very much." },
+        { "left": "I managed to make myself understood,", "right": "although I didn't speak the language well." },
+        { "left": "The room wasn't warm,", "right": "although the heating was on." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went to work the next day ___ I was still feeling unwell.",
+      "options": ["although", "because", "in spite of", "because of"],
+      "answer": 0,
+      "explanation": "A contrast followed by subject + verb (I was feeling): although."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sam accepted the job ___ the salary, which was rather low.",
+      "options": ["in spite of", "because of", "although", "because"],
+      "answer": 0,
+      "explanation": "A noun (the salary) and a contrast (the salary was low, but he accepted): in spite of (or despite)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words can follow each group? Sort the endings.",
+      "categories": ["although / even though + ...", "in spite of / despite + ..."],
+      "items": [
+        { "text": "the rain", "category": 1 },
+        { "text": "it rained a lot", "category": 0 },
+        { "text": "having the necessary qualifications", "category": 1 },
+        { "text": "I had the necessary qualifications", "category": 0 },
+        { "text": "this", "category": 1 },
+        { "text": "the traffic was bad", "category": 0 },
+        { "text": "being very tired", "category": 1 },
+        { "text": "what I said yesterday", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't sleep ___ very tired.",
+      "hint": "(despite / be)",
+      "answers": ["despite being"],
+      "explanation": "After despite we use -ing, not a subject + verb: despite being very tired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We live in the same building, but we hardly ever see each other. ___ in the same building, we hardly ever see each other.",
+      "hint": "(despite / live)",
+      "answers": ["Despite living"],
+      "explanation": "Despite + -ing: Despite living in the same building."
+    },
+    {
+      "type": "word_order",
+      "prompt": "We played quite well, but we lost the game. Make one sentence with in spite of.",
+      "words": ["In spite of", "playing", "quite well,", "we", "lost", "the game."],
+      "answer": "In spite of playing quite well, we lost the game.",
+      "explanation": "In spite of + -ing (playing) introduces the contrast."
+    },
+    {
+      "type": "word_order",
+      "prompt": "They hadn't been invited, but they came to the party. Make one sentence with even though.",
+      "words": ["They", "came", "to the party", "even though", "they", "hadn't been", "invited."],
+      "answer": "They came to the party even though they hadn't been invited.",
+      "alternatives": ["Even though they hadn't been invited, they came to the party."],
+      "explanation": "Even though + subject + verb (they hadn't been invited)."
+    },
+    {
+      "type": "true_false",
+      "statement": "She wasn't well, but despite of this she continued working.",
+      "answer": false,
+      "explanation": "She wasn't well, but despite this she continued working. We say in spite of, but despite (without of)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Even I was really tired, I couldn't sleep.",
+      "answer": false,
+      "explanation": "Even though I was really tired, I couldn't sleep. Even alone cannot introduce a clause."
+    },
+    {
+      "type": "true_false",
+      "statement": "I see them every day. I've never spoken to them though.",
+      "answer": true,
+      "explanation": "Correct. In spoken English, though at the end of a sentence means 'but'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Laura is very nice. I ___ though.",
+      "hint": "(don't like / husband)",
+      "answers": ["don't like her husband", "do not like her husband"],
+      "explanation": "Though at the end of the sentence = but: I don't like her husband though."
+    }
+  ]
+}

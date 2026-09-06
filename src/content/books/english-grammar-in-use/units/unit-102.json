@@ -1,0 +1,168 @@
+{
+  "number": 102,
+  "title": "so and such",
+  "subtitle": "so stupid / such a stupid story",
+  "summary": "Use so before an adjective or adverb and such before a noun (with or without an adjective) to make the meaning stronger.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "so + adjective/adverb, such + noun",
+      "left": {
+        "label": "so + adjective / adverb",
+        "text": "so stupid, so nice, so quick, so quickly",
+        "examples": [
+          "I didn't like the book. The story was **so stupid**.",
+          "Everything happened **so quickly**."
+        ]
+      },
+      "right": {
+        "label": "such + (adjective +) noun",
+        "text": "such a story, such people, such a stupid story, such nice people",
+        "examples": [
+          "I didn't like the book. It was **such a stupid story**. (not a so stupid story)",
+          "I like Liz and Joe. They are **such nice people**. (not so nice people)",
+          "**such a** big dog (not a such big dog)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "so and such make the meaning stronger",
+      "text": "**So tired** = really tired; **such a good time** = a really good time. You can use **so ... that** and **such ... that**, but we usually leave out *that*.",
+      "examples": [
+        { "text": "I've had a busy day. I'm **so tired**.", "note": "= really tired" },
+        { "text": "It's difficult to understand him. He talks **so quietly**." },
+        { "text": "We had a great trip. We had **such a good time**.", "note": "= a really good time" },
+        { "text": "You always think good things are going to happen. You're **such an optimist**." },
+        { "text": "I was **so tired (that)** I fell asleep in the armchair." },
+        { "text": "It was **such nice weather (that)** we spent the whole day on the beach." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "so and such = 'like this'",
+      "text": "So and such can also mean 'like this' or 'as ... as it is'. Note the expression **no such ...** (= this does not exist).",
+      "examples": [
+        { "text": "Somebody told me the house was built 100 years ago. I didn't realise it was **so old**.", "note": "= as old as it is" },
+        { "text": "I'm tired because I got up at six. I don't usually get up **so early**." },
+        { "text": "I didn't realise it was **such an old house**." },
+        { "text": "You know it's not true. How can you say **such a thing**?", "note": "= a thing like this" },
+        { "text": "You won't find the word 'blid' in the dictionary. There's **no such word**.", "note": "= this word does not exist" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "so long / such a long time",
+      "left": {
+        "label": "so long, so far, so much/many",
+        "examples": [
+          "I haven't seen her for **so long** I've forgotten what she looks like.",
+          "I didn't know it was **so far**.",
+          "I'm sorry I'm late - there was **so much** traffic."
+        ]
+      },
+      "right": {
+        "label": "such a long time, such a long way, such a lot (of)",
+        "examples": [
+          "I haven't seen her for **such a long time**. (not so long time)",
+          "I didn't know it was **such a long way**.",
+          "I'm sorry I'm late - there was **such a lot of** traffic."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Look at the word after the gap: if it is a noun (or adjective + noun), use such; if it is only an adjective or adverb, use so. Remember: such a ..., never a such."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Everything is ___ expensive these days, isn't it?",
+      "options": ["so", "such", "such a"],
+      "answer": 0,
+      "explanation": "Expensive is an adjective with no noun after it, so we use so."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He always looks good. He wears ___ nice clothes.",
+      "options": ["such", "so", "such a"],
+      "answer": 0,
+      "explanation": "Nice clothes is adjective + plural noun, so we use such (no article)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I couldn't believe the news. It was ___ shock.",
+      "options": ["such a", "so", "such"],
+      "answer": 0,
+      "explanation": "Shock is a singular countable noun: such a shock."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like Liz and Joe. They are so nice people.",
+      "answer": false,
+      "explanation": "They are such nice people. Before adjective + noun we use such, not so."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The party was great. It was ___ shame you couldn't come.",
+      "hint": "(so / such / such a)",
+      "answers": ["such a"],
+      "explanation": "Shame is a singular noun here, so: such a shame."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves to make one sentence.",
+      "pairs": [
+        { "left": "The bag was so heavy", "right": "she couldn't lift it." },
+        { "left": "I've got such a lot to do", "right": "I don't know where to begin." },
+        { "left": "The music was so loud", "right": "it could be heard from miles away." },
+        { "left": "It was such horrible weather", "right": "we spent the whole day indoors." },
+        { "left": "Her English is so good", "right": "you would think it was her native language." },
+        { "left": "The hotel was such a long way", "right": "it took us ages to get there." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Can't you drive faster? Put the words in the right order to make the question.",
+      "words": ["Why", "are", "you", "in", "such", "a", "hurry?"],
+      "answer": "Why are you in such a hurry?",
+      "explanation": "Hurry is a noun, so we use such a: in such a hurry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was ___ that I didn't know what to say.",
+      "hint": "(I was surprised - use so or such)",
+      "answers": ["so surprised"],
+      "explanation": "Surprised is an adjective on its own, so: so surprised (that) ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everything went wrong. We had ___ bad luck.",
+      "hint": "(so / such / such a)",
+      "answers": ["such"],
+      "explanation": "Luck is an uncountable noun, so we use such without a: such bad luck."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's good to see you again! I haven't seen you for so long time.",
+      "answer": false,
+      "explanation": "I haven't seen you for such a long time (or: for so long). Before the noun time we need such a."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Two months? Put the words in the right order to make the question.",
+      "words": ["How", "did", "you", "learn", "English", "in", "such a", "short", "time?"],
+      "answer": "How did you learn English in such a short time?",
+      "explanation": "Short time is adjective + noun, so we use such a short time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had ___ that I didn't eat anything for the rest of the day.",
+      "hint": "(I had a big breakfast - use so or such)",
+      "answers": ["such a big breakfast"],
+      "explanation": "Big breakfast is adjective + noun: such a big breakfast (that) ..."
+    }
+  ]
+}

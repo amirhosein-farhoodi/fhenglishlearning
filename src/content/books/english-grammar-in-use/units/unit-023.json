@@ -1,0 +1,175 @@
+{
+  "number": 23,
+  "title": "I will and I'm going to",
+  "subtitle": "I'll do / I'm going to do",
+  "summary": "Use will for a decision you make as you speak, and going to for a decision made earlier or for something the present situation shows is going to happen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A new decision: will",
+      "text": "Sarah is talking to Helen. Sarah: 'Let's have a party.' Helen: 'That's a great idea. **We'll invite** lots of people.' We use **will** (We'll invite ...) to announce a new decision. The party is a new idea - the decision is made *now*.",
+      "examples": [
+        { "text": "Let's have a party. That's a great idea. **We'll invite** lots of people." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A decision already made: (be) going to",
+      "text": "Later that day, Helen meets Max. Helen: 'Sarah and I have decided to have a party. **We're going to invite** lots of people.' We use **(be) going to** when we have already decided to do something. Helen had already decided to invite lots of people *before* she spoke to Max.",
+      "examples": [
+        { "text": "Sarah and I have decided to have a party. **We're going to invite** lots of people." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Decided now or decided before?",
+      "left": {
+        "label": "will (deciding now)",
+        "examples": [
+          "'Gary has been trying to contact you.' 'Has he? OK, **I'll call** him.'",
+          "'Anna is in hospital.' 'Really? I didn't know. **I'll go** and visit her.'"
+        ]
+      },
+      "right": {
+        "label": "going to (decided before)",
+        "examples": [
+          "'Gary has been trying to contact you.' 'Yes, I know. **I'm going to call** him.'",
+          "'Anna is in hospital.' 'Yes, I know. **I'm going to visit** her this evening.'"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Predicting the future: both are possible",
+      "text": "We use both **will** and **going to** for future happenings and situations. Often you can say either.",
+      "examples": [
+        { "text": "I think the weather **will be** nice later. or I think the weather **is going to be** nice later." },
+        { "text": "Those shoes are well-made. **They'll last** a long time. or **They're going to last** a long time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "going to: the situation now shows it",
+      "text": "When we say something **is going to** happen, we believe this because of the situation *now*. What is happening now shows that something is going to happen in the future.",
+      "examples": [
+        { "text": "Look at those black clouds. **It's going to rain.** (we can see that it is going to rain - the black clouds are in the sky now)", "wrong": "it will rain" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Evidence now, or what I know about a person?",
+      "left": {
+        "label": "going to (clear from the situation now)",
+        "examples": [
+          "**We're going to be late.** The meeting starts in five minutes and it takes 15 minutes to get there. (it is clear now that we don't have enough time)"
+        ]
+      },
+      "right": {
+        "label": "will (what I believe from experience)",
+        "examples": [
+          "Jane **will be** late for the meeting. She's always late. (I believe this because I know what Jane is like)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "If the words 'Yes, I know' or 'I've decided' fit before the sentence, use going to. If the idea only came to you as you spoke, use I'll."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sarah: 'Let's have a party.' Helen: 'That's a great idea. ___ lots of people.'",
+      "options": ["We'll invite", "We're going to invite", "We invite"],
+      "answer": 0,
+      "explanation": "The party is a new idea, so Helen announces a new decision with will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I forgot my wallet. I don't have any money. *B:* Not to worry. ___ you some.",
+      "hint": "(I / lend)",
+      "answers": ["I'll lend", "I will lend"],
+      "explanation": "An offer decided at the moment of speaking: I'll lend you some."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Why are you filling that bucket with water? *B:* ___ the car.",
+      "hint": "(I / wash)",
+      "answers": ["I'm going to wash", "I am going to wash"],
+      "explanation": "The decision was made before (the bucket is already being filled): I'm going to wash the car."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which sentence goes with which?",
+      "pairs": [
+        { "left": "Why don't you come to the party with us?", "right": "You'll enjoy it." },
+        { "left": "That ceiling looks dangerous.", "right": "It looks as if it's going to fall down." },
+        { "left": "He's looking very tired.", "right": "I think he's going to fall asleep." },
+        { "left": "This table is too big.", "right": "I don't think it will fit in the room." },
+        { "left": "Jack is very determined.", "right": "He'll get what he wants." },
+        { "left": "I haven't seen Ben for ages.", "right": "He probably won't remember me." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Gary has been trying to contact you.' 'Yes, I know. ___ him.'",
+      "options": ["I'm going to call", "I'll call", "I call"],
+      "answer": 0,
+      "explanation": "'Yes, I know' shows the decision was made earlier, so going to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've decided to paint this room. *B:* That's nice. What colour ___ it?",
+      "hint": "(you / paint)",
+      "answers": ["are you going to paint"],
+      "explanation": "A asks about a decision that has already been made: What colour are you going to paint it?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Look at those black clouds. It will rain.",
+      "answer": false,
+      "explanation": "It's going to rain. The clouds are evidence now, so we use going to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Why does the speaker use will or going to?",
+      "categories": ["will: deciding now, or what I know about a person", "going to: decided before, or clear from the situation now"],
+      "items": [
+        { "text": "Has he? OK, I'll call him.", "category": 0 },
+        { "text": "Yes, I know. I'm going to call him.", "category": 1 },
+        { "text": "Look at those black clouds. It's going to rain.", "category": 1 },
+        { "text": "Jane will be late for the meeting. She's always late.", "category": 0 },
+        { "text": "We're going to be late. The meeting starts in five minutes.", "category": 1 },
+        { "text": "Really? I didn't know. I'll go and visit her.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* This food doesn't taste very good, does it? *B:* No, it's horrible. ___ it.",
+      "hint": "(I / not / finish)",
+      "answers": ["I'm not going to finish", "I am not going to finish"],
+      "explanation": "The situation now (horrible food) makes the intention clear: I'm not going to finish it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jane will be late for the meeting. She's always late.",
+      "answer": true,
+      "explanation": "Correct. The speaker predicts from what they know about Jane, so will is right."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You: 'This camera is broken. ___ it away.' Your friend, who collects old cameras: 'Don't throw it away! ___ it.'",
+      "options": ["I'm going to throw / I'll have", "I'll throw / I'm going to have", "I throw / I have"],
+      "answer": 0,
+      "explanation": "You had already decided (going to throw); your friend decides on the spot (I'll have it)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy has already offered to take Joe to the airport. Later Paul offers too. Joe says: 'Thanks, Paul, but ___ me.'",
+      "hint": "(Amy / take)",
+      "answers": ["Amy is going to take", "Amy's going to take", "Amy is taking", "Amy's taking"],
+      "explanation": "It was arranged earlier, so going to (or the present continuous), not will."
+    }
+  ]
+}

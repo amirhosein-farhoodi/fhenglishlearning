@@ -1,0 +1,171 @@
+{
+  "number": 63,
+  "title": "there's no point in -ing, it's worth -ing etc.",
+  "subtitle": "no point in -ing / worth -ing / trouble -ing / go -ing",
+  "summary": "Use the -ing form after there's no point in, it's no use, it's worth, have trouble, spend time, be busy and go (for sports and activities).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "there's no point in / it's no use / it's no good",
+      "text": "To say that doing something is useless, we say **there's no point in doing**, **it's no use doing** or **it's no good doing** something. Note that we say *no point in* but *the point of*.",
+      "examples": [
+        { "text": "**There's no point in having** a car if you never use it." },
+        { "text": "**There was no point in waiting** any longer, so we left." },
+        { "text": "**It's no use worrying** about what happened. There's nothing you can do about it." },
+        { "text": "**It's no good trying** to persuade me. You won't succeed." },
+        { "text": "What's **the point of having** a car if you never use it?", "note": "the point of ... but no point in ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it's worth / it's not worth",
+      "text": "We say **it's worth doing** or **it's not worth doing** something. You can also say that something **is worth it** or **not worth it**, and that a place is *worth visiting*, a movie is *worth seeing* etc.",
+      "examples": [
+        { "text": "It's a nice town. **It's worth spending** a few days there." },
+        { "text": "Our flight was very early in the morning, so **it wasn't worth going** to bed." },
+        { "text": "You should spend a couple of days here. **It's worth it.**" },
+        { "text": "It's a great movie. **It's worth seeing.**" },
+        { "text": "Thieves broke into the house, but didn't take anything. There was **nothing worth stealing**." },
+        { "text": "It's an interesting idea. **It's worth thinking about.**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "have trouble / difficulty / a problem doing something",
+      "text": "After **have trouble**, **have difficulty** and **have a problem** we use **-ing**, not *to ...*.",
+      "examples": [
+        { "text": "I **had no trouble finding** a place to stay.", "wrong": "trouble to find" },
+        { "text": "Did you **have a problem getting** a visa?" },
+        { "text": "People sometimes **have difficulty reading** my writing." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "spend / waste time doing; be busy doing",
+      "text": "We say **spend (time) doing** and **waste (time) doing** something. We also say **(be) busy doing** something.",
+      "examples": [
+        { "text": "He **spent hours trying** to repair the clock." },
+        { "text": "I **waste a lot of time doing** nothing." },
+        { "text": "She said she couldn't meet me. She was too **busy doing** other things." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go swimming / go skiing etc.",
+      "text": "We use **go -ing** for sports and other activities: *go sailing, go swimming, go fishing, go riding, go hiking, go surfing, go scuba diving, go skiing, go jogging, go camping*.",
+      "examples": [
+        { "text": "How often do you **go swimming**?" },
+        { "text": "We **went skiing** last year." },
+        { "text": "Tom isn't here. He's **gone shopping**." },
+        { "text": "I've never **been sailing**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Summary: expressions followed by -ing",
+      "columns": ["Expression", "Example"],
+      "rows": [
+        ["there's no point in", "There's no point in **waiting**."],
+        ["it's no use / it's no good", "It's no use **worrying**."],
+        ["it's (not) worth", "It's worth **seeing**."],
+        ["have trouble / difficulty / a problem", "I had trouble **finding** it."],
+        ["spend / waste time", "I waste time **doing** nothing."],
+        ["be busy", "She was busy **working**."],
+        ["go (activities)", "We went **skiing**."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Worth* is always followed by -ing, never by *to*: *It's worth seeing* (not ~~worth to see~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "It's a great movie. It's worth ___.",
+      "options": ["seeing", "to see", "see"],
+      "answer": 0,
+      "explanation": "worth + -ing: It's worth seeing."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which sentence follows which? Match the pairs.",
+      "pairs": [
+        { "left": "It's a nice town.", "right": "It's worth spending a few days here." },
+        { "left": "It's an interesting idea.", "right": "It's worth considering." },
+        { "left": "It's no use standing here talking.", "right": "We have to do something." },
+        { "left": "There's no point in looking for him.", "right": "We'll never find him." },
+        { "left": "It's no good apologising to me.", "right": "I don't believe you're sorry." },
+        { "left": "It's not worth arguing with him.", "right": "He won't change his opinion." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I waste too much time ___ TV.",
+      "hint": "(watch)",
+      "answers": ["watching"],
+      "explanation": "waste time + -ing: I waste too much time watching TV."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Karen is going on holiday tomorrow, so she's busy ___ her things ready.",
+      "hint": "(get)",
+      "answers": ["getting"],
+      "explanation": "be busy + -ing: she's busy getting her things ready."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Why work if you don't need money? Say this with There's no point ... .",
+      "words": ["There's", "no point", "in", "working", "if", "you", "don't", "need", "money."],
+      "answer": "There's no point in working if you don't need money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I find it hard to remember people's names. I have a problem ___.",
+      "hint": "(remember people's names)",
+      "answers": ["remembering people's names"],
+      "explanation": "have a problem + -ing: I have a problem remembering people's names."
+    },
+    {
+      "type": "true_false",
+      "statement": "I had no trouble to find a place to stay.",
+      "answer": false,
+      "explanation": "I had no trouble finding a place to stay. After have trouble we use -ing, not to + infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a very hot day, so we ___ in the lake.",
+      "hint": "(go swimming - past)",
+      "answers": ["went swimming"],
+      "explanation": "go + -ing for activities, in the past simple: we went swimming."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan isn't here. He ___. There were a few things he needed to buy.",
+      "hint": "(go shopping)",
+      "answers": ["'s gone shopping", "has gone shopping", "went shopping"],
+      "explanation": "go + -ing: He's gone shopping (he is still out) or He went shopping."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What's ___ having a car if you never use it?",
+      "options": ["the point of", "no point in", "the point in"],
+      "answer": 0,
+      "explanation": "We say there's no point in ..., but What's the point of ...?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was easy for us to understand one another. We had no difficulty ___.",
+      "hint": "(understand one another)",
+      "answers": ["understanding one another", "understanding each other"],
+      "explanation": "have difficulty + -ing: We had no difficulty understanding one another."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Why hurry if you have plenty of time? Say this with There's no point ... .",
+      "words": ["There's", "no point", "in", "hurrying", "if", "you have", "plenty of", "time."],
+      "answer": "There's no point in hurrying if you have plenty of time."
+    }
+  ]
+}

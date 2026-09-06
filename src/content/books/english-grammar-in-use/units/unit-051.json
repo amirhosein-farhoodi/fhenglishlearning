@@ -1,0 +1,180 @@
+{
+  "number": 51,
+  "title": "Auxiliary verbs (have/do/can etc.); I think so / I hope so etc.",
+  "subtitle": "Yes, I have. / So am I. / I hope so.",
+  "summary": "Use auxiliary verbs (have, do, can, was etc.) on their own to avoid repeating words, and use I think so / I hope not etc. as short answers.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Auxiliary verb + main verb",
+      "columns": ["Sentence", "Auxiliary verb", "Main verb"],
+      "rows": [
+        ["I **have** lost my keys.", "have", "lost"],
+        ["She **can't** come to the party.", "can't", "come"],
+        ["The hotel **was** built ten years ago.", "was", "built"],
+        ["Why **do** you want to go home?", "do", "want"]
+      ],
+      "note": "have / can't / was / do are auxiliary (= helping) verbs."
+    },
+    {
+      "type": "explain",
+      "heading": "Not repeating the main verb",
+      "text": "You can use an auxiliary verb on its own when you don't want to repeat something. We use **do/does/did** for the present and past simple.",
+      "examples": [
+        { "text": "'Have you locked the door?' 'Yes, **I have**.'", "note": "= I have locked the door" },
+        { "text": "Gary wasn't working, but **Laura was**.", "note": "= Laura was working" },
+        { "text": "Jessica could lend me the money, but **she won't**.", "note": "= she won't lend me the money" },
+        { "text": "'Do you like onions?' 'Yes, **I do**.'", "note": "= I like onions" },
+        { "text": "'Does Simon live in London?' '**He did**, but **he doesn't** any more.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Denying what somebody says",
+      "text": "You can also use auxiliary verbs to deny what somebody says (= to say it is not true).",
+      "examples": [
+        { "text": "'You're sitting in my place.' 'No, **I'm not**.'", "note": "= I'm not sitting in your place" },
+        { "text": "'You didn't lock the door before you left.' 'Yes, **I did**.'", "note": "= I locked the door" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Have you? Isn't she? Did it?",
+      "text": "We use **have you? / isn't she? / are they?** etc. to show that we are interested in what somebody has said, or to show surprise.",
+      "examples": [
+        { "text": "'I've just seen Steven.' 'Oh, **have you**? How is he?'" },
+        { "text": "'Lisa isn't very well today.' '**Isn't she**? What's wrong with her?'" },
+        { "text": "'It rained every day during our holiday.' '**Did it**? What a shame!'" },
+        { "text": "'James and Tanya are getting married.' '**Are they**? Really?'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "So am I / Neither do I",
+      "text": "We use auxiliary verbs with **so** and **neither**. Note the word order: the verb comes before the subject. Instead of neither, you can use **nor** or **not ... either**.",
+      "examples": [
+        { "text": "'I'm tired.' '**So am I**.'", "note": "= I'm tired too" },
+        { "text": "'I never read newspapers.' '**Neither do I**.'", "note": "= I never read newspapers either" },
+        { "text": "Sarah can't drive and **neither can Mark**." },
+        { "text": "I passed the exam and **so did Paul**.", "wrong": "so Paul did" },
+        { "text": "'I don't know.' '**Neither do I**.' or '**Nor do I**.' or '**I don't either**.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I think so / I suppose so",
+      "text": "You can say **I think so / I suppose so** etc. when you don't want to repeat something. In the same way we say **I hope so, I expect so, I guess so** and **I'm afraid so**.",
+      "examples": [
+        { "text": "'Are those people Korean?' '**I think so**.'", "note": "= I think they are Korean" },
+        { "text": "'Is Kate working tomorrow?' '**I suppose so**.'", "note": "= I suppose she is working tomorrow" },
+        { "text": "'Will you be at home this evening?' '**I expect so**.'", "note": "= I expect I'll be at home this evening" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The negative forms",
+      "columns": ["Positive", "Negative"],
+      "rows": [
+        ["I think so / I expect so", "I **don't think so** / I **don't expect so**"],
+        ["I hope so / I'm afraid so", "I **hope not** / I'm **afraid not**"],
+        ["I guess so / I suppose so", "I **guess not** / I **suppose not**"]
+      ],
+      "note": "'Do you think it will rain?' 'I hope so. / I hope not.' (not I don't hope so)"
+    },
+    {
+      "type": "tip",
+      "text": "Match the auxiliary to the tense of the other speaker: *I've seen ...* - *Have you?*; *It rained ...* - *Did it?*; *I'm tired* - *So am I*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I like hot weather, but Ann ___.",
+      "hint": "(negative auxiliary)",
+      "answers": ["doesn't", "does not"],
+      "explanation": "Present simple, so use does; Ann does not like it: Ann doesn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is Andy here?' 'He ___ five minutes ago, but I think he's gone home now.'",
+      "hint": "(auxiliary verb)",
+      "answers": ["was"],
+      "explanation": "He was here five minutes ago - the past of is, so the auxiliary is was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I haven't travelled much, but Gary ___.",
+      "hint": "(auxiliary verb)",
+      "answers": ["has"],
+      "explanation": "Gary has travelled a lot - the present perfect auxiliary is has."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Amy says: 'I like football.' You never agree with Amy. What do you say?",
+      "options": ["Do you? I don't.", "Are you? I'm not.", "Did you? I didn't."],
+      "answer": 0,
+      "explanation": "I like is present simple, so the auxiliary is do: Do you? I don't."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Amy says: 'I didn't enjoy the film.' You never agree with Amy. What do you say?",
+      "options": ["Didn't you? I did.", "Don't you? I do.", "Weren't you? I was."],
+      "answer": 0,
+      "explanation": "didn't enjoy is past simple, so the auxiliary is did: Didn't you? I did."
+    },
+    {
+      "type": "matching",
+      "prompt": "Tina tells you something and the same is true for you. Match each statement with your reply using So ... or Neither ... .",
+      "pairs": [
+        { "left": "I'm not tired.", "right": "Neither am I." },
+        { "left": "I watched TV last night.", "right": "So did I." },
+        { "left": "I won't be at home tomorrow.", "right": "Neither will I." },
+        { "left": "I like reading.", "right": "So do I." },
+        { "left": "I'd like to live somewhere else.", "right": "So would I." },
+        { "left": "I can't go out tonight.", "right": "Neither can I." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order. Sarah and Mark both have no driving licence.",
+      "words": ["Sarah", "can't", "drive", "and", "neither", "can", "Mark."],
+      "answer": "Sarah can't drive and neither can Mark.",
+      "explanation": "After neither the verb comes before the subject: neither can Mark."
+    },
+    {
+      "type": "true_false",
+      "statement": "I passed the exam and so Paul did.",
+      "answer": false,
+      "explanation": "I passed the exam and so did Paul. After so and neither the verb comes before the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You need more money. Sam asks: 'Do you think you'll get a pay rise?' You answer: '___.'",
+      "hint": "(hope)",
+      "answers": ["I hope so"],
+      "explanation": "You want it to happen, so: I hope so (= I hope I'll get a pay rise)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're going to a party. You can't stand John. Sam asks: 'Will John be at the party?' You answer: '___.'",
+      "hint": "(hope)",
+      "answers": ["I hope not"],
+      "explanation": "The negative of I hope so is I hope not (not I don't hope so)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're not sure whether Amy is married, but she probably isn't. Sam asks: 'Is Amy married?' You answer: '___.'",
+      "hint": "(think)",
+      "answers": ["I don't think so", "I do not think so"],
+      "explanation": "The negative of I think so is I don't think so."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are the receptionist at a hotel. The hotel is full. Sam asks: 'Do you have a room for tonight?' What do you say?",
+      "options": ["I'm afraid not.", "I don't afraid so.", "I'm not afraid so."],
+      "answer": 0,
+      "explanation": "The negative of I'm afraid so is I'm afraid not."
+    }
+  ]
+}

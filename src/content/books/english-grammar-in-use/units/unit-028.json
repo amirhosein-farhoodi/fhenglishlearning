@@ -1,0 +1,170 @@
+{
+  "number": 28,
+  "title": "must and can't",
+  "subtitle": "You must be tired / You can't be hungry",
+  "summary": "Use must when you believe something is certain and can't when you believe it is not possible, in the present (must be) and in the past (must have been).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "must = we believe it is certain",
+      "text": "Imagine somebody tells you: *My house is very near the motorway.* You can answer: *It **must be** very noisy.* We use **must** to say that we believe something is certain.",
+      "examples": [
+        { "text": "You've been travelling all day. You **must be** tired.", "note": "travelling is tiring and you've been travelling all day, so you must be tired" },
+        { "text": "'Joe is a hard worker.' 'Joe? You **must be joking**. He doesn't do anything.'" },
+        { "text": "Louise **must get** very bored in her job. She does the same thing every day." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "can't = we believe it is not possible",
+      "text": "We use **can't** to say that we believe something is not possible.",
+      "examples": [
+        { "text": "You've just had lunch. You **can't be** hungry already.", "note": "we don't expect people to be hungry immediately after a meal" },
+        { "text": "They haven't lived here for very long. They **can't know** many people." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The structure: must / can't + ...",
+      "columns": ["must / can't +", "Example"],
+      "rows": [
+        ["be (tired / hungry / at work etc.)", "You **must be** tired."],
+        ["be -ing (doing / going / joking etc.)", "You **must be joking**."],
+        ["get / know / have etc.", "They **can't know** many people."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past: must have and can't have",
+      "text": "Martin and Lucy expected their friends to be at home. They rang the doorbell twice, but nobody has answered. Lucy says: *They **must have gone** out.* (= there is no other possibility). For the past we use **must have ...** and **can't have ...**.",
+      "examples": [
+        { "text": "I lost one of my gloves. I **must have dropped** it somewhere.", "note": "that's the only explanation I can think of" },
+        { "text": "'We used to live very near the motorway.' 'Did you? It **must have been** noisy.'" },
+        { "text": "Sarah hasn't contacted me. She **can't have got** my message." },
+        { "text": "Max walked into a wall. He **can't have been looking** where he was going." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The structure: must / can't have + ...",
+      "columns": ["must / can't have +", "Example"],
+      "rows": [
+        ["been (asleep / at work etc.)", "It **must have been** noisy."],
+        ["been -ing (doing / looking etc.)", "He **can't have been looking** where he was going."],
+        ["gone / got / known etc.", "They **must have gone** out."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "couldn't have = can't have",
+      "text": "You can use **couldn't have** instead of can't have. The meaning is the same.",
+      "examples": [
+        { "text": "Sarah **couldn't have got** my message." },
+        { "text": "Max **couldn't have been looking** where he was going." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "must = 'I'm sure it is'; can't = 'I'm sure it isn't'. For the past, add have: must have been / can't have been."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "That restaurant ___ be very good. It's always full of people.",
+      "options": ["must", "can't", "mustn't"],
+      "answer": 0,
+      "explanation": "A full restaurant makes us sure it is good: must = we believe it is certain."
+    },
+    {
+      "type": "mcq",
+      "prompt": "That restaurant ___ be very good. It's always empty.",
+      "options": ["can't", "must", "mustn't"],
+      "answer": 0,
+      "explanation": "An empty restaurant makes us believe it is not possible that it is good: can't."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: must or can't?",
+      "categories": ["must", "can't"],
+      "items": [
+        { "text": "I'm sure Kate gave me her address. I ___ have it somewhere.", "category": 0 },
+        { "text": "I often see that man in this street. He ___ live near here.", "category": 0 },
+        { "text": "It rained every day during their holiday. It ___ have been very nice for them.", "category": 1 },
+        { "text": "Congratulations on passing your exam. You ___ be very pleased.", "category": 0 },
+        { "text": "This bill ___ be correct. It's much too high.", "category": 1 },
+        { "text": "Bill and Sue always stay at five-star hotels. They ___ be short of money.", "category": 1 },
+        { "text": "Karen hasn't left the office yet. She ___ be working late tonight.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'How old is Ed?' 'He's older than me. He ___ at least 40.'",
+      "hint": "(must + be)",
+      "answers": ["must be"],
+      "explanation": "A present certainty: must be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't seem to have my wallet with me. I ___ it at home.",
+      "hint": "(must + leave)",
+      "answers": ["must have left"],
+      "explanation": "The only explanation for something in the past: must have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You're going on holiday soon. You ___ forward to it.' 'Yes, I am.'",
+      "hint": "(must + look)",
+      "answers": ["must be looking"],
+      "explanation": "Something happening now that we are sure about: must be + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't hear my phone. I ___ asleep.",
+      "hint": "(must + be)",
+      "answers": ["must have been"],
+      "explanation": "A past state we are sure about: must have been asleep."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Do you have a car?' 'You ___! How could I afford to have a car?'",
+      "hint": "(must + joke)",
+      "answers": ["must be joking"],
+      "explanation": "The speaker is sure the other person is joking now: must be joking."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The jacket you bought is very good quality. Make a sentence with must have about its price.",
+      "words": ["It", "must", "have", "been", "very expensive."],
+      "answer": "It must have been very expensive.",
+      "explanation": "A conclusion about the past: must have been."
+    },
+    {
+      "type": "word_order",
+      "prompt": "There was a man standing outside the cafe. He was there a long time. Make a sentence with must have about why he was there.",
+      "words": ["He", "must", "have", "been", "waiting", "for somebody."],
+      "answer": "He must have been waiting for somebody.",
+      "explanation": "An action in progress in the past: must have been + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Rachel did the opposite of what I asked her to do. She must have understood what I said.",
+      "answer": false,
+      "explanation": "She can't have understood what I said (or She couldn't have understood ...). We believe it is not possible that she understood."
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul has had these shoes for years, but they still look new. He can't have worn them much.",
+      "answer": true,
+      "explanation": "Correct. Can't have + past participle = we believe this was not possible in the past."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The light was red, but the car didn't stop. The driver ___ the red light.",
+      "options": ["can't have seen", "must have seen", "can't see"],
+      "answer": 0,
+      "explanation": "We are sure the driver did not see the light. Past + not possible = can't have seen (or couldn't have seen)."
+    }
+  ]
+}

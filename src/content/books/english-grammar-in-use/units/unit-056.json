@@ -1,0 +1,191 @@
+{
+  "number": 56,
+  "title": "Verb + -ing or to ... 1 (remember, regret etc.)",
+  "subtitle": "remember doing / remember to do",
+  "summary": "Choose between -ing and to ... after remember, regret and go on, where the two forms have different meanings, and after begin/start/continue, where they do not.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Two groups of verbs",
+      "columns": ["Verbs + -ing (not to ...)", "Verbs + to ..."],
+      "rows": [
+        ["admit, avoid, consider, deny, enjoy", "afford, agree, arrange, decide, deserve"],
+        ["fancy, finish, imagine, keep (on), mind", "fail, forget, hope, learn, manage"],
+        ["postpone, risk, stop, suggest", "offer, plan, promise, refuse, tend"]
+      ],
+      "note": "Some verbs can be followed by -ing or to ... with a difference of meaning: remember, regret, go on."
+    },
+    {
+      "type": "compare",
+      "heading": "remember",
+      "left": {
+        "label": "I remember doing something",
+        "text": "= I did it and now I remember this. You remember doing something after you have done it.",
+        "examples": [
+          "I know I locked the door. I clearly **remember locking** it.",
+          "He could **remember driving** along the road just before the accident, but he couldn't remember the accident itself."
+        ]
+      },
+      "right": {
+        "label": "I remembered to do something",
+        "text": "= I remembered that I had to do it, so I did it. You remember to do something before you do it.",
+        "examples": [
+          "I **remembered to lock** the door, but I forgot to shut the windows.",
+          "**Remember to buy** some bananas. (= Don't forget to buy them)"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "regret",
+      "left": {
+        "label": "I regret doing something",
+        "text": "= I did it and now I am sorry about it.",
+        "examples": [
+          "I now **regret saying** what I said. I shouldn't have said it.",
+          "Do you **regret not going** to college?"
+        ]
+      },
+      "right": {
+        "label": "I regret to say / to tell you / to inform you",
+        "text": "= I am sorry that I have to say (formal).",
+        "examples": [
+          "(from a formal letter) I **regret to say** that we are unable to accept your offer."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "go on",
+      "left": {
+        "label": "go on doing something",
+        "text": "= continue doing the same thing.",
+        "examples": [
+          "The president paused for a moment and then **went on talking**.",
+          "We need to change. We can't **go on living** like this."
+        ]
+      },
+      "right": {
+        "label": "go on to do something",
+        "text": "= do or say something new.",
+        "examples": [
+          "After discussing the economy, the president **went on to talk** about foreign policy."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "begin / start / continue / intend / bother",
+      "text": "We use these verbs with -ing or to ... with **no difference of meaning**. But normally we do not use -ing after -ing.",
+      "examples": [
+        { "text": "It **started raining**.", "note": "or It started to rain." },
+        { "text": "Andy **intends buying** a house.", "note": "or Andy intends to buy ..." },
+        { "text": "Don't **bother locking** the door.", "note": "or Don't bother to lock ..." },
+        { "text": "It's **starting to rain**.", "wrong": "It's starting raining" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "remember/forget + to = the task is still ahead (Remember to lock it). remember/forget + -ing = looking back at something you did (I remember locking it)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I don't enjoy ___ very much.",
+      "hint": "(drive)",
+      "answers": ["driving"],
+      "explanation": "enjoy is always followed by -ing: enjoy driving."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't afford ___ away. I don't have enough money.",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "afford is followed by to ...: can't afford to go away."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form follows each verb?",
+      "categories": ["-ing (avoid doing)", "to ... (promise to do)"],
+      "items": [
+        { "text": "avoid", "category": 0 },
+        { "text": "promise", "category": 1 },
+        { "text": "postpone", "category": 0 },
+        { "text": "deserve", "category": 1 },
+        { "text": "imagine", "category": 0 },
+        { "text": "refuse", "category": 1 },
+        { "text": "fancy", "category": 0 },
+        { "text": "manage", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The driver of one of the cars admitted ___ the accident.",
+      "hint": "(cause)",
+      "answers": ["causing", "having caused"],
+      "explanation": "admit is followed by -ing: admitted causing the accident."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah doesn't know about the meeting. I forgot ___ her.",
+      "hint": "(tell)",
+      "answers": ["to tell"],
+      "explanation": "forget to do = you did not do it because you forgot: I forgot to tell her."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with its meaning.",
+      "pairs": [
+        { "left": "I remember locking the door.", "right": "I locked it, and now I remember this." },
+        { "left": "I remembered to lock the door.", "right": "I knew I had to lock it, so I did." },
+        { "left": "I regret saying that.", "right": "I said it and now I am sorry about it." },
+        { "left": "I regret to say we cannot accept your offer.", "right": "I am sorry that I have to say this." },
+        { "left": "He went on talking.", "right": "He continued doing the same thing." },
+        { "left": "He went on to talk about foreign policy.", "right": "He started saying something new." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom cried on his first day at school, but he can't remember this now. He doesn't remember ___ on his first day at school.",
+      "hint": "(cry)",
+      "answers": ["crying"],
+      "explanation": "remember + -ing looks back at something that happened: doesn't remember crying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Once Tom was bitten by a dog, but he can't remember this. He doesn't remember ___ by a dog.",
+      "hint": "(be / bitten)",
+      "answers": ["being bitten"],
+      "explanation": "remember + -ing for a past event; the passive -ing form is being bitten."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When you see Steve, remember ___ hello to him from me.",
+      "options": ["to say", "saying", "say"],
+      "answer": 0,
+      "explanation": "remember to do = don't forget to do it (the action is still ahead): remember to say hello."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The course I did wasn't very good, but I don't regret ___ it.",
+      "options": ["doing", "to do", "do"],
+      "answer": 0,
+      "explanation": "regret doing = I did it and (do not) feel sorry about it: don't regret doing it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ben became assistant manager after two years, and a few years later he went on ___ manager of the company.",
+      "options": ["to become", "becoming", "become"],
+      "answer": 0,
+      "explanation": "go on to do = do something new (a new job): went on to become manager."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's starting raining.",
+      "answer": false,
+      "explanation": "It's starting to rain. Normally we do not use -ing after -ing."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "number": 135,
+  "title": "Verb + preposition 4: of/for/from/on",
+  "subtitle": "accuse of, pay for, suffer from, depend on",
+  "summary": "Use the right preposition (of, for, from or on) after common verbs such as accuse, pay, apologise, blame, suffer and depend.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + of",
+      "text": "These verbs take **of**: **accuse / suspect somebody of** something, **approve / disapprove of** something, **die of** (or **die from**) an illness, and **consist of** (= be made up of).",
+      "examples": [
+        { "text": "Tina **accused me of** being selfish." },
+        { "text": "Some students were **suspected of** cheating in the exam." },
+        { "text": "His parents don't **approve of** what he does, but they can't stop him." },
+        { "text": "'What did he **die of**?' 'A heart attack.'" },
+        { "text": "We had an enormous meal. It **consisted of** seven courses." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + for",
+      "text": "These verbs take **for**: **pay (somebody) for** something, **thank / forgive somebody for** something, **apologise (to somebody) for** something, and **blame somebody for** something. You can also say somebody **is to blame for** something.",
+      "examples": [
+        { "text": "We didn't have enough money to **pay for** the meal.", "wrong": "pay the meal" },
+        { "text": "I'll never **forgive them for** what they did." },
+        { "text": "When I realised I was wrong, I **apologised (to them) for** my mistake." },
+        { "text": "Everybody **blamed me for** the accident." },
+        { "text": "Everybody said that I **was to blame for** the accident." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two special cases",
+      "left": {
+        "label": "pay FOR a thing, but pay a bill (no preposition)",
+        "text": "We say pay a bill / a fine / a fee / tax / rent / a sum of money without a preposition.",
+        "examples": [
+          "We didn't have enough money to **pay for** the meal.",
+          "We didn't have enough money to **pay the rent**."
+        ]
+      },
+      "right": {
+        "label": "blame somebody FOR, but blame a problem ON somebody",
+        "text": "The preposition changes with the object.",
+        "examples": [
+          "Everybody **blamed me for** the accident.",
+          "It wasn't my fault. Don't **blame it on** me."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + from",
+      "text": "**suffer from** an illness etc. and **protect somebody / something from** something.",
+      "examples": [
+        { "text": "There's been an increase in the number of people **suffering from** heart disease." },
+        { "text": "Sun cream **protects** the skin **from** the sun." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + on",
+      "text": "**depend on**, **rely on**, **live on** money or food, and **congratulate / compliment somebody on** something. After **depend** you can use when / where / how etc. with or without **on**.",
+      "examples": [
+        { "text": "I don't know what time we'll arrive. It **depends on** the traffic." },
+        { "text": "You can **rely on** Anna. She always keeps her promises." },
+        { "text": "'Are you going to buy it?' 'It **depends how** much it is.' or 'It **depends on how** much ...'" },
+        { "text": "Michael's salary is very low. It isn't enough to **live on**." },
+        { "text": "I **congratulated her on** doing so well in her exams." },
+        { "text": "The meal was really good. I **complimented Mark on** his cooking skills." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Summary",
+      "columns": ["Preposition", "Verbs"],
+      "rows": [
+        ["of", "accuse, suspect, approve, disapprove, die, consist"],
+        ["for", "pay, thank, forgive, apologise, blame somebody ... for"],
+        ["from", "suffer, protect, die"],
+        ["on", "depend, rely, live, congratulate, compliment, blame a problem ... on"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You **pay for** a thing you buy (pay for the meal, pay for the tickets), but you **pay** a bill, a fine, a fee, rent or a sum of money with no preposition at all."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Are you going to apologise ___ what you did?",
+      "options": ["for", "of", "on"],
+      "answer": 0,
+      "explanation": "apologise (to somebody) FOR something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The apartment ___ three rooms, a kitchen and bathroom.",
+      "hint": "(consist + preposition)",
+      "answers": ["consists of"],
+      "explanation": "consist of = be made up of."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We finished our meal, paid ___ the bill, and left the restaurant.",
+      "options": ["for", "on", "no preposition"],
+      "answer": 2,
+      "explanation": "We pay a bill / a fine / rent etc. with no preposition. We pay FOR a thing we buy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The accident was my fault, so I had to ___ the repairs.",
+      "hint": "(pay + preposition)",
+      "answers": ["pay for"],
+      "explanation": "pay for something you buy or receive (the repairs)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition completes each sentence: of, for or on?",
+      "categories": ["of", "for", "on"],
+      "items": [
+        { "text": "I was accused ___ lying, but I was telling the truth.", "category": 0 },
+        { "text": "I called Helen to thank her ___ the present.", "category": 1 },
+        { "text": "When something goes wrong, you always blame it ___ other people.", "category": 2 },
+        { "text": "Most people approve ___ the government's policies.", "category": 0 },
+        { "text": "Forgive me ___ interrupting, but I'd like to ask you something.", "category": 1 },
+        { "text": "You know you can always rely ___ me if you need any help.", "category": 2 },
+        { "text": "Do you blame the government ___ our economic problems?", "category": 1 },
+        { "text": "My usual breakfast consists ___ fruit, cereal and coffee.", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jane won the tournament, so you congratulated her. Put the words in order.",
+      "words": ["I", "congratulated", "her", "on", "winning", "the tournament."],
+      "answer": "I congratulated her on winning the tournament.",
+      "explanation": "congratulate somebody ON (doing) something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sandra eats only bread and eggs. In other words, Sandra lives ___.",
+      "hint": "(preposition + bread and eggs)",
+      "answers": ["on bread and eggs"],
+      "explanation": "live ON food or money = have only that to live on."
+    },
+    {
+      "type": "true_false",
+      "statement": "Some people are dying from hunger, while others eat too much.",
+      "answer": true,
+      "explanation": "Correct. You can say die of or die from - both are possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sophie will have to borrow money to pay for her college fees.",
+      "answer": false,
+      "explanation": "Sophie will have to borrow money to pay her college fees. We pay a fee / a bill / a fine with no preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alex ___ back pain. He spends too much time working at his desk.",
+      "hint": "(suffer + preposition)",
+      "answers": ["suffers from"],
+      "explanation": "suffer FROM an illness or a pain."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        { "left": "The police suspected my friend", "right": "of stealing a car." },
+        { "left": "I called Jack to congratulate him", "right": "on passing his driving test." },
+        { "left": "Vaccinations may protect you", "right": "from a number of diseases." },
+        { "left": "You were rude to Lisa. I think you should apologise", "right": "to her." },
+        { "left": "Anna doesn't have a job. She depends", "right": "on her parents for money." },
+        { "left": "We hope to go to the beach tomorrow, but it depends", "right": "on the weather." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't know whether I'll go out tonight. It depends how I feel.",
+      "answer": true,
+      "explanation": "Correct. After depend you can use how / when / where etc. with or without on: It depends how I feel or It depends on how I feel."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "number": 80,
+  "title": "Noun + noun (a bus driver / a headache)",
+  "subtitle": "a bus driver / a two-hour flight",
+  "summary": "Put two nouns together to describe one thing (a bus driver, a washing machine) and keep the first noun singular (a three-hour journey).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two nouns together",
+      "text": "You can use two nouns together (noun + noun) to mean one thing, person or idea. The first noun is like an adjective: it tells us what kind of thing, person or idea we mean.",
+      "examples": [
+        { "text": "**a bus driver** = the driver of a bus" },
+        { "text": "**income tax** = tax that you pay on your income" },
+        { "text": "**the city centre** = the centre of the city" },
+        { "text": "**an apple tree** = a tree that has apples" },
+        { "text": "**a Paris hotel** = a hotel in Paris; **my life story** = the story of my life" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Building combinations",
+      "text": "So you can build many combinations with the same first noun (things or people to do with television) or with the same second noun (different kinds of problems). Sometimes the first word ends in -ing.",
+      "examples": [
+        { "text": "**a television camera**, **a television programme**, **a television studio**, **a television producer**" },
+        { "text": "**language problems**, **marriage problems**, **health problems**, **work problems**" },
+        { "text": "**a frying pan** (= a pan for frying), **a washing machine**, **a swimming pool**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More than two nouns; one word or two?",
+      "text": "Sometimes there are more than two nouns together. When two nouns are together like this, we sometimes write them as one word and sometimes as two separate words. There are no clear rules for this. If you are not sure, write two words.",
+      "examples": [
+        { "text": "I waited at **the hotel reception desk**." },
+        { "text": "We watched **the World Swimming Championships** on TV." },
+        { "text": "If you want to play **table tennis** (= a game), you need **a table tennis table** (= a table)." },
+        { "text": "**a headache**, **toothpaste**, **a weekend** but **a car park**, **a road sign**" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a coffee cup / a cup of coffee",
+      "left": {
+        "label": "noun + noun (the container)",
+        "examples": [
+          "**a coffee cup** (maybe empty)",
+          "**a shopping bag** (maybe empty)"
+        ]
+      },
+      "right": {
+        "label": "noun + of + noun (the contents)",
+        "examples": [
+          "**a cup of coffee** (= a cup with coffee in it)",
+          "**a bag of shopping** (= a bag full of shopping)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "The first noun is singular",
+      "text": "When we use noun + noun, the first noun is like an adjective. It is normally singular, but the meaning is often plural: a car park is a place to park cars, an apple tree is a tree that has apples. In the same way we say a three-hour journey, a ten-pound note. After the verb, we use the normal plural.",
+      "examples": [
+        { "text": "**a three-hour journey** (= a journey that takes three hours)", "wrong": "a three-hours journey" },
+        { "text": "**a ten-pound note** (= a note with the value of ten pounds)" },
+        { "text": "**a four-week course**, **a six-mile walk**, **two 14-year-old girls**" },
+        { "text": "It was **a four-week course**. but The course lasted **four weeks**.", "wrong": "a four weeks course" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before a noun, number + noun stays singular and takes a hyphen: a two-hour flight. After the verb it is a normal plural: The flight took two hours."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A ticket to travel by train is a ___.",
+      "hint": "(train / ticket)",
+      "answers": ["train ticket"],
+      "explanation": "The main thing is a ticket; the first noun says what kind: a train ticket."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A horse that runs in races is ___.",
+      "options": ["a race horse", "a horse race", "a races horse"],
+      "answer": 0,
+      "explanation": "The second noun is the main thing (a horse); the first noun says what kind. The first noun stays singular."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A race for horses is ___.",
+      "options": ["a horse race", "a race horse", "a horses race"],
+      "answer": 0,
+      "explanation": "Here the main thing is a race, so horse comes first and stays singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person who cleans windows is a ___.",
+      "hint": "(window / cleaner)",
+      "answers": ["window cleaner"],
+      "explanation": "window (singular, like an adjective) + cleaner (the person)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the noun + noun it describes.",
+      "pairs": [
+        { "left": "You should wear this when you're driving.", "right": "a seat belt" },
+        { "left": "You can use this to pay for things.", "right": "a credit card" },
+        { "left": "This will tell you if it's going to rain or not.", "right": "the weather forecast" },
+        { "left": "This is useful if you have a lot of dirty clothes.", "right": "a washing machine" },
+        { "left": "This is something you might wear if you're married.", "right": "a wedding ring" },
+        { "left": "This person transports things by road.", "right": "a truck driver" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Anna's employer makes films.",
+      "words": ["Anna", "works for", "a", "film", "production", "company."],
+      "answer": "Anna works for a film production company.",
+      "explanation": "Three nouns together: the last one (company) is the main thing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Where can a visitor get a map?",
+      "words": ["You can get", "a map", "at the", "tourist", "information", "office."],
+      "answer": "You can get a map at the tourist information office.",
+      "explanation": "tourist information office = an office for tourist information."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's only a ___ flight from London to Madrid.",
+      "options": ["two-hour", "two-hours", "two hour's"],
+      "answer": 0,
+      "explanation": "Before a noun, number + singular noun with a hyphen: a two-hour flight."
+    },
+    {
+      "type": "true_false",
+      "statement": "It took only two hour to fly to Madrid.",
+      "answer": false,
+      "explanation": "It took only two hours to fly to Madrid. After the verb we use the normal plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't have any change. I only have a ___ note.",
+      "hint": "(twenty pounds)",
+      "answers": ["twenty-pound", "twenty pound"],
+      "explanation": "Before a noun the number expression stays singular: a twenty-pound note."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Are these phrases correct or incorrect?",
+      "categories": ["correct", "incorrect"],
+      "items": [
+        { "text": "a two-hour flight", "category": 0 },
+        { "text": "a twenty pounds note", "category": 1 },
+        { "text": "two ten-pound notes", "category": 0 },
+        { "text": "There are 60-minute in an hour.", "category": 1 },
+        { "text": "a twelve-storey building", "category": 0 },
+        { "text": "I work five-day a week.", "category": 1 },
+        { "text": "Five-star hotels are the most expensive.", "category": 0 },
+        { "text": "Sam's daughter is six-year-old.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Sam has a six-year-old daughter.",
+      "answer": true,
+      "explanation": "Correct. Before the noun daughter we say six-year-old; on its own we say She is six years old."
+    }
+  ]
+}

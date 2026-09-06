@@ -1,0 +1,183 @@
+{
+  "number": 25,
+  "title": "when I do and when I've done; if and when",
+  "subtitle": "when I do / when I've done; if and when",
+  "summary": "After when, while, before, after, until, as soon as and if, use a present tense (not will) to talk about the future.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "when I do (not when I will do)",
+      "text": "Amy is on a train. She's calling a friend: '**I'll call** you again later **when I arrive**.' The sentence has two parts: the main part (I'll call you again later) and the when-part (when I arrive). The time is future ('later'), but Amy says *when I arrive*, not ~~when I will arrive~~. We say **when I do something** (not will do) and **when something happens** (not will happen).",
+      "examples": [
+        { "text": "We'll go out **when it stops** raining.", "wrong": "when it will stop" },
+        { "text": "**When you are** here again, you must come and see us.", "wrong": "When you will be" },
+        { "text": "Don't forget to lock the door **when you go** out.", "wrong": "will go" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The same after while / before / after / as soon as / until",
+      "text": "These time words work like when: the verb after them is present, even though the time is future.",
+      "examples": [
+        { "text": "What are you going to do **while I'm away**?", "wrong": "while I will be" },
+        { "text": "**Before you go**, there's something I want to ask you." },
+        { "text": "Wait here **until I come back**. or ... **till I come back**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "when I've done: one thing complete before the other",
+      "text": "You can also use the present perfect (have done) after when / after / until / as soon as. We use it to show that one thing is complete *before* the other - the two things do not happen together. Do not use the present perfect if the two things happen together.",
+      "examples": [
+        { "text": "Can I have the newspaper **when you've finished** with it?" },
+        { "text": "Don't say anything while Ian is here. Wait **until he has gone**." },
+        { "text": "**When I've phoned** Kate, we can go out. (= first I'll phone Kate and after that we can go out)" },
+        { "text": "**When I phone** Kate, I'll ask her about the party.", "wrong": "when I've phoned", "note": "the two things happen together" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Often either form is possible",
+      "left": {
+        "label": "Present simple",
+        "examples": [
+          "I'll come as soon as **I finish**.",
+          "You'll feel better after **you have** something to eat."
+        ]
+      },
+      "right": {
+        "label": "Present perfect",
+        "examples": [
+          "I'll come as soon as **I've finished**.",
+          "You'll feel better after **you've had** something to eat."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if + present for the future",
+      "text": "After **if**, we normally use the present (if I do / if I see etc.) for the future.",
+      "examples": [
+        { "text": "I'll be angry **if it happens** again.", "wrong": "if it will happen" },
+        { "text": "Hurry up! **If we don't hurry**, we'll be late." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if or when?",
+      "left": {
+        "label": "if = possibly",
+        "text": "For things that will possibly happen (or not happen).",
+        "examples": [
+          "**If it is raining** this evening, I won't go out. (not when it is raining)",
+          "Don't worry **if I'm late** tonight. (not when I'm late)",
+          "**If they don't come** soon, I'm not going to wait for them.",
+          "I might go out later. (it's possible) **If I go out**, I'll get some bread."
+        ]
+      },
+      "right": {
+        "label": "when = for sure",
+        "text": "For things which are sure to happen.",
+        "examples": [
+          "I'm going out later. (for sure) **When I go out**, I'll get some bread."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Will belongs in the main part of the sentence only. After when, while, before, after, until, as soon as and if, switch to the present."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "As soon as we get any more information, ___ you know.",
+      "options": ["we'll let", "we let", "we're letting"],
+      "answer": 0,
+      "explanation": "The main part of the sentence takes will; the present (we get) is only after as soon as."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I want to see Sophie before ___ away next week.",
+      "hint": "(she / go)",
+      "answers": ["she goes"],
+      "explanation": "After before we use the present, even for next week: before she goes away."
+    },
+    {
+      "type": "true_false",
+      "statement": "We'll go out when it will stop raining.",
+      "answer": false,
+      "explanation": "We'll go out when it stops raining. No will after when."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remind your flatmate about the door before they leave.",
+      "words": ["Don't forget", "to lock", "the door", "when", "you", "go out."],
+      "answer": "Don't forget to lock the door when you go out.",
+      "explanation": "Present simple (you go out) after when, even though the time is future."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Don't drive through a red light. Wait until it ___ to green.",
+      "options": ["changes", "will change", "changed"],
+      "answer": 0,
+      "explanation": "After until we use the present: until it changes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going out for about an hour. ___ here when I get back?",
+      "hint": "(you / still / be)",
+      "answers": ["Will you still be"],
+      "explanation": "The main part is a will-question (Will you still be ...?); the present (I get) is after when."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: if or when?",
+      "categories": ["if", "when"],
+      "items": [
+        { "text": "Be careful. You'll hurt yourself ... you fall.", "category": 0 },
+        { "text": "I'm going away for a few days. I'll call you ... I get back.", "category": 1 },
+        { "text": "I'm going shopping. ... you want anything, I can get it for you.", "category": 0 },
+        { "text": "I'm watching a programme on TV right now. ... it finishes, I'm going to bed.", "category": 1 },
+        { "text": "... I don't see you tomorrow, when will I see you again?", "category": 0 },
+        { "text": "We can eat at home or, ... you prefer, we can go to a restaurant.", "category": 0 },
+        { "text": "I hope Sarah can come to the party. It will be a shame ... she can't come.", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You'll feel better after ___ something to eat.",
+      "options": ["you've had", "you'll have", "you'd have"],
+      "answer": 0,
+      "explanation": "After after we can use the present perfect (you've had) or present simple (you have), but never will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone you know has been very rude to you, and you want her to apologise. You say: I won't speak to her until ___.",
+      "hint": "(she / apologise)",
+      "answers": ["she apologises", "she's apologised", "she has apologised"],
+      "explanation": "After until: present simple or present perfect, both are possible here."
+    },
+    {
+      "type": "true_false",
+      "statement": "When I've phoned Kate, I'll ask her about the party.",
+      "answer": false,
+      "explanation": "When I phone Kate, I'll ask her about the party. Phoning and asking happen together, so the present perfect is wrong here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think everything will be fine, but if ___ any problems, I'll let you know, OK?",
+      "hint": "(there / be)",
+      "answers": ["there are"],
+      "explanation": "After if we use the present for the future: if there are any problems."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I might go out later. ___ I go out, I'll get some bread.",
+      "options": ["If", "When", "While"],
+      "answer": 0,
+      "explanation": "Going out is only possible, not certain, so if (not when)."
+    }
+  ]
+}

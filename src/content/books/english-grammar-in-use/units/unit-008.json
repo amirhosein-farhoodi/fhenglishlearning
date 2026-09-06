@@ -1,0 +1,158 @@
+{
+  "number": 8,
+  "title": "Present perfect 2 (I have done)",
+  "subtitle": "Have you ever ... ? / It's the first time ...",
+  "summary": "Use the present perfect for a period that continues until now (ever, never, so far, this week) and in 'It's the first time something has happened'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this conversation",
+      "text": "*Dave:* Have you travelled a lot, Jane? *Jane:* Yes, I've been to lots of places. *Dave:* Really? Have you ever been to China? *Jane:* Yes, I've been to China twice. *Dave:* What about India? *Jane:* No, I haven't been to India. When we talk about a period of time that continues from the past until now, we use the present perfect. Dave and Jane are talking about the places Jane has visited in her life - a period that continues until now.",
+      "examples": [
+        { "text": "**Have you ever been** to China?" },
+        { "text": "Yes, **I've been** to China twice." },
+        { "text": "No, **I haven't been** to India." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "ever, never, three times ...",
+      "text": "In the same way we use the present perfect for experiences in a person's life up to now. **been (to)** = visited.",
+      "examples": [
+        { "text": "**Have you ever eaten** caviar?" },
+        { "text": "**We've never had** a car." },
+        { "text": "I don't know what the film is about. **I haven't seen** it." },
+        { "text": "Susan really loves that book. **She's read** it three times.", "note": "She's = She has" },
+        { "text": "It's a really boring movie. It's the most boring movie **I've ever seen**." },
+        { "text": "**I've never been** to Canada. Have you been there?", "note": "been (to) = visited" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A period that continues until now",
+      "text": "The speakers here are also talking about a period that continues until now: **recently**, **in the last few days**, **so far**, **since I arrived**, **for a long time** etc.",
+      "examples": [
+        { "text": "**Have you heard** anything from Ben recently?" },
+        { "text": "**I've met** a lot of people in the last few days." },
+        { "text": "Everything is going well. **There haven't been** any problems so far." },
+        { "text": "The weather is bad here. **It's rained** every day since I arrived.", "note": "= from when I arrived until now" },
+        { "text": "It's good to see you again. **We haven't seen** each other for a long time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "today, this evening, this year",
+      "text": "In the same way we use the present perfect with **today**, **this evening**, **this year** etc. when these periods are not finished at the time of speaking.",
+      "examples": [
+        { "text": "**I've drunk** four cups of coffee today." },
+        { "text": "**Have you had** a holiday this year?" },
+        { "text": "**I haven't seen** Tom this morning. Have you?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It's the first time something has happened",
+      "text": "Don is having a driving lesson. It's his first lesson. We say: It's the first time **he has driven** a car (not drives). or **He hasn't driven** a car before. or **He has never driven** a car before.",
+      "examples": [
+        { "text": "It's the first time **he has driven** a car.", "wrong": "he drives" },
+        { "text": "**He hasn't driven** a car before. / **He has never driven** a car before." },
+        { "text": "Sarah has lost her passport again. This is the second time this **has happened**.", "wrong": "happens" },
+        { "text": "Andy is phoning his girlfriend again. It's the third time **he's phoned** her this evening." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Time words that reach up to now - ever, never, so far, recently, today, this week - point to the present perfect."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "You ask people about things they have done. Ask about California.",
+      "words": ["Have", "you", "ever", "been", "to California?"],
+      "answer": "Have you ever been to California?",
+      "explanation": "Have + subject + ever + past participle. been to = visited."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match A's questions with B's answers.",
+      "pairs": [
+        { "left": "What's Mark's sister like?", "right": "I've no idea. I've never met her." },
+        { "left": "Is everything going well?", "right": "Yes, we haven't had any problems so far." },
+        { "left": "Can you play chess?", "right": "Yes, but I haven't played for ages." },
+        { "left": "What's that book about?", "right": "I don't know. I haven't read it." },
+        { "left": "Is Brussels an interesting place?", "right": "I've no idea. I've never been there." },
+        { "left": "Do you like caviar?", "right": "I don't know. I've never tried it." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Are you hungry?' 'Yes. I ___ much today.'",
+      "hint": "(not / eat)",
+      "answers": ["haven't eaten", "have not eaten"],
+      "explanation": "today is not finished, so present perfect: haven't eaten."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Are you enjoying your holiday?' 'Yes, it's the best holiday ___ for a long time.'",
+      "hint": "(I / have)",
+      "answers": ["I've had", "I have had"],
+      "explanation": "for a long time = a period up to now: the best holiday I've had."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's a really boring movie. It's the most boring movie I've ever seen.",
+      "answer": true,
+      "explanation": "Correct. Superlative + ever + present perfect: the most boring movie I've ever seen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I hear your car broke down again yesterday.' 'Yes, it's the second time ___ this month.'",
+      "hint": "(it / happen)",
+      "answers": ["it's happened", "it has happened", "that's happened", "that has happened"],
+      "explanation": "It's the second time + present perfect: it's happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Mike was late for work again today.' 'Again? He ___ late every day this week.'",
+      "hint": "(be)",
+      "answers": ["'s been", "has been"],
+      "explanation": "this week is not finished yet: He's been late every day this week."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jack is driving a car for the first time. He's very nervous. It's the first time he ___ a car.",
+      "options": ["has driven", "drives", "is driving"],
+      "answer": 0,
+      "explanation": "It's the first time + present perfect: he has driven (not drives)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah has lost her passport again. This is the second time this happens.",
+      "answer": false,
+      "explanation": "This is the second time this has happened. After 'the first/second time' we use the present perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some children at the zoo are looking at a giraffe. They've never seen one before. It's the first time ___ a giraffe.",
+      "hint": "(they / see)",
+      "answers": ["they've seen", "they have seen"],
+      "explanation": "It's the first time + present perfect: they've seen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue is riding a horse. She doesn't look very confident or comfortable. She ___ a horse before.",
+      "hint": "(never / ride)",
+      "answers": ["has never ridden", "'s never ridden", "hasn't ridden", "has not ridden"],
+      "explanation": "First experience: She has never ridden a horse before (past participle ridden)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend about the most beautiful place in their life so far.",
+      "words": ["What's", "the most beautiful place", "you've", "ever", "visited?"],
+      "answer": "What's the most beautiful place you've ever visited?",
+      "explanation": "Superlative + (that) you've ever + past participle."
+    }
+  ]
+}

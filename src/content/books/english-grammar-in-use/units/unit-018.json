@@ -1,0 +1,180 @@
+{
+  "number": 18,
+  "title": "used to (do)",
+  "subtitle": "I used to do",
+  "summary": "Use used to + verb for habits and situations that were true in the past but are not true any more.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Nicola doesn't travel much these days. She prefers to stay at home. But **she used to travel** a lot. **She used to go** away two or three times a year. *She used to travel a lot* = she travelled often in the past, but she doesn't do this any more.",
+      "examples": [
+        { "text": "A few years ago: **she used to travel**. These days: she doesn't travel." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I used to do something",
+      "text": "**I used to do something** = I did it often in the past, but not any more. We also use **used to ...** for things that were true, but are not true any more.",
+      "examples": [
+        { "text": "I **used to play** tennis a lot, but I don't play very much now." },
+        { "text": "David **used to spend** a lot of money on clothes. These days he can't afford it." },
+        { "text": "'Do you go to the cinema much?' 'Not now, but **I used to**.' (= I used to go)" },
+        { "text": "This building is now a furniture shop. It **used to be** a cinema." },
+        { "text": "I've started drinking coffee recently. I **never used to like** it before." },
+        { "text": "Lisa **used to have** very long hair when she was a child." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "used to is past - there is no present",
+      "columns": ["Past", "Present"],
+      "rows": [
+        ["he **used to play**", "he plays"],
+        ["we **used to live**", "we live"],
+        ["there **used to be**", "there is"]
+      ],
+      "note": "You cannot say 'I use to do'. To talk about the present, use the present simple: We used to live in a small village, but now we live in a city. There used to be four cinemas in the town. Now there is only one."
+    },
+    {
+      "type": "explain",
+      "heading": "Questions and negatives",
+      "text": "The normal question form is **did (you) use to ... ?** The negative form is **didn't use to ...** (used not to ... is also possible).",
+      "examples": [
+        { "text": "**Did you use to eat** a lot of sweets when you were a child? (= did you do this often?)" },
+        { "text": "I **didn't use to like** him. (or I used not to like him.)" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I used to do or I was doing?",
+      "left": {
+        "label": "I used to do",
+        "text": "A past habit that has stopped.",
+        "examples": [
+          "I **used to watch** TV a lot. (= I watched TV often in the past, but I don't do this any more)"
+        ]
+      },
+      "right": {
+        "label": "I was doing",
+        "text": "In the middle of an action at a past moment.",
+        "examples": [
+          "I **was watching** TV when Rob called. (= I was in the middle of watching TV)"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "I used to do or I am used to doing?",
+      "left": {
+        "label": "I used to do",
+        "text": "Past, not any more.",
+        "examples": [
+          "I **used to live** alone. (= I lived alone in the past, but I no longer live alone.)"
+        ]
+      },
+      "right": {
+        "label": "I am used to doing",
+        "text": "Present, and it is not a problem for me.",
+        "examples": [
+          "I **am used to living** alone. (= I live alone, and it's not a problem for me because I've lived alone for some time.)"
+        ]
+      },
+      "note": "The structures and the meanings are different - do not confuse them."
+    },
+    {
+      "type": "tip",
+      "text": "Spelling check: after did or didn't the form is use to (Did you use to ... ? / I didn't use to ...), everywhere else it is used to."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Nicola doesn't travel much these days, but she ___ a lot.",
+      "options": ["used to travel", "use to travel", "uses to travel"],
+      "answer": 0,
+      "explanation": "A past habit that has stopped: used to + verb. There is no present form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sophie ___ a motorbike, but last year she sold it and bought a car.",
+      "hint": "(used to + a suitable verb)",
+      "answers": ["used to have", "used to ride"],
+      "explanation": "She had (or rode) a motorbike in the past but not now: used to have / used to ride."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our friends moved to Spain a few years ago. They ___ in Paris.",
+      "hint": "(used to + a suitable verb)",
+      "answers": ["used to live"],
+      "explanation": "A past situation that is no longer true: They used to live in Paris."
+    },
+    {
+      "type": "matching",
+      "prompt": "Karen has changed a lot in ten years. Match how she used to be with how she is today.",
+      "pairs": [
+        { "left": "She used to travel a lot,", "right": "but she doesn't go away much these days." },
+        { "left": "She used to be very lazy,", "right": "but she works very hard these days." },
+        { "left": "She didn't use to like cheese,", "right": "but she eats lots of it now." },
+        { "left": "She used to play the piano,", "right": "but she hasn't played for a long time." },
+        { "left": "She didn't use to drink tea,", "right": "but she likes it now." },
+        { "left": "She used to have a dog,", "right": "but it died two years ago." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jackie ___ my best friend, but we aren't friends any more.",
+      "hint": "(used to + a suitable verb)",
+      "answers": ["used to be"],
+      "explanation": "Something that was true in the past but not now: used to be."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question about someone's childhood habits.",
+      "words": ["Did", "you", "use to", "eat", "a lot of sweets", "when you were", "a child?"],
+      "answer": "Did you use to eat a lot of sweets when you were a child?",
+      "explanation": "The question form is did + subject + use to + verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "I use to play tennis a lot, but I don't play very much now.",
+      "answer": false,
+      "explanation": "I used to play tennis a lot. Used to is past; the form 'I use to' does not exist."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence means 'I was in the middle of watching TV'?",
+      "options": ["I was watching TV when Rob called.", "I used to watch TV a lot.", "I am used to watching TV."],
+      "answer": 0,
+      "explanation": "Was doing = in the middle of an action at a past moment. Used to = a past habit that has stopped."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There ___ a hotel near the airport, but it closed a long time ago.",
+      "hint": "(used to + a suitable verb)",
+      "answers": ["used to be"],
+      "explanation": "There used to be = there was in the past, but not now."
+    },
+    {
+      "type": "true_false",
+      "statement": "There used to be four cinemas in the town. Now there is only one.",
+      "answer": true,
+      "explanation": "Correct. Used to be describes a past situation; the present simple (there is) describes now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "These days I eat more than before. I ___ use to eat as much.",
+      "options": ["didn't", "did", "used"],
+      "answer": 0,
+      "explanation": "The negative form is didn't use to (used not to is also possible)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence means 'I live alone now, and it's not a problem for me'?",
+      "options": ["I am used to living alone.", "I used to live alone.", "I used to living alone."],
+      "answer": 0,
+      "explanation": "I am used to doing = I am accustomed to it now. I used to do = I did it in the past but not any more."
+    }
+  ]
+}

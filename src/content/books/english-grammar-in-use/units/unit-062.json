@@ -1,0 +1,176 @@
+{
+  "number": 62,
+  "title": "Verb + preposition + -ing (succeed in -ing / insist on -ing etc.)",
+  "subtitle": "succeed in -ing / insist on -ing",
+  "summary": "After a verb + preposition (insist on, succeed in, accuse somebody of ...), use the -ing form of the next verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + preposition + -ing",
+      "text": "Some verbs are followed by a preposition and an object: *talk about* something, *apologise for* something. If the object is another verb, that verb takes the **-ing** form. The negative is **not -ing**.",
+      "examples": [
+        { "text": "We talked about **the problem**.", "note": "verb + preposition + object" },
+        { "text": "We talked about **going** to South America.", "note": "verb + preposition + -ing" },
+        { "text": "I apologised for what I said." },
+        { "text": "You should apologise for **not telling** the truth." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common verb + preposition combinations",
+      "columns": ["Verb + preposition", "Example"],
+      "rows": [
+        ["approve of", "He doesn't approve of **swearing**."],
+        ["decide against", "We have decided against **moving** to London."],
+        ["dream of", "I wouldn't dream of **asking** them for money."],
+        ["feel like", "I don't feel like **going** out tonight."],
+        ["insist on", "They insisted on **paying** for the meal."],
+        ["look forward to", "Are you looking forward to **going** away?"],
+        ["succeed in", "Has Paul succeeded in **finding** a job yet?"],
+        ["think of / about", "I'm thinking of **buying** a house."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "approve of somebody doing something",
+      "text": "You can put a person between the preposition and the -ing verb: *approve of somebody doing something*, *look forward to somebody doing something* and so on.",
+      "examples": [
+        { "text": "I don't approve of **people killing** animals as a sport." },
+        { "text": "We are all looking forward to **Andy coming** home next week." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verb + object + preposition + -ing",
+      "columns": ["Verb + object + preposition", "Example"],
+      "rows": [
+        ["accuse ... of", "He accused me of **telling** lies."],
+        ["congratulate ... on", "We congratulated Lisa on **winning** the first prize."],
+        ["prevent ... from", "What prevented you from **coming** to see us?"],
+        ["stop ... from", "The rain didn't stop us from **enjoying** our holiday."],
+        ["suspect ... of", "Nobody suspected the general of **being** a spy."],
+        ["thank ... for", "I thanked everyone for **helping** me."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "stop somebody (from) doing, not -ing and the passive",
+      "text": "With *stop*, you can use *from* or leave it out: *stop somebody doing* or *stop somebody from doing*. The negative is **not -ing**. Some of these verbs are often used in the passive: *be accused of*, *be suspected of*.",
+      "examples": [
+        { "text": "You can't **stop me doing** what I want. *or* You can't **stop me from doing** ..." },
+        { "text": "He accused me of **not telling** the truth." },
+        { "text": "We **were accused of telling** lies.", "note": "or ... accused of lying" },
+        { "text": "The general **was suspected of being** a spy." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "apologise to somebody for ...",
+      "text": "Note the two prepositions with *apologise*: you apologise **to** a person **for** something you did.",
+      "examples": [
+        { "text": "I **apologised to them for** keeping them waiting.", "wrong": "I apologised them" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In *look forward to*, the word *to* is a preposition, so it is followed by -ing: *I'm looking forward to seeing you* (not ~~to see you~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I'm tired. I don't feel like ___ tonight.",
+      "options": ["going out", "to go out", "go out"],
+      "answer": 0,
+      "explanation": "After a verb + preposition (feel like), the next verb takes the -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel lazy. I don't feel like ___ any work.",
+      "hint": "(do)",
+      "answers": ["doing"],
+      "explanation": "feel like + -ing: I don't feel like doing any work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wanted to go out alone, but Joe insisted on ___ with me.",
+      "hint": "(come / go)",
+      "answers": ["coming", "going"],
+      "explanation": "insist on + -ing: Joe insisted on coming (or going) with me."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's great that Amy and Sam are coming to visit us. I'm looking forward to ___ them again.",
+      "hint": "(see)",
+      "answers": ["seeing"],
+      "explanation": "look forward to + -ing: the to here is a preposition, so we say looking forward to seeing (not to see)."
+    },
+    {
+      "type": "true_false",
+      "statement": "We talked about to go to South America.",
+      "answer": false,
+      "explanation": "We talked about going to South America. After a preposition (about) we use -ing, not to + infinitive."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match what each person said with the sentence that reports it.",
+      "pairs": [
+        { "left": "Kevin: 'It was nice of you to help me. Thanks very much.'", "right": "Kevin thanked me for helping him." },
+        { "left": "Dan: 'I hear you got married. Congratulations!'", "right": "Dan congratulated me on getting married." },
+        { "left": "Kate: 'Sorry I'm late.'", "right": "Kate apologised for being late." },
+        { "left": "Jane: 'You don't care about other people.'", "right": "Jane accused me of not caring about other people." },
+        { "left": "Amy: 'I'm not letting you pay. This is on me.'", "right": "Amy insisted on paying for the meal." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police stopped the car because they suspected the driver ___ it.",
+      "hint": "(preposition + steal)",
+      "answers": ["of stealing"],
+      "explanation": "suspect somebody of + -ing: they suspected the driver of stealing it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our flight was delayed. Bad weather prevented the plane ___.",
+      "hint": "(preposition + take off)",
+      "answers": ["from taking off"],
+      "explanation": "prevent something from + -ing: prevented the plane from taking off."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition follows each verb before the -ing form?",
+      "categories": ["of", "on", "from"],
+      "items": [
+        { "text": "accuse somebody ...", "category": 0 },
+        { "text": "insist ...", "category": 1 },
+        { "text": "prevent somebody ...", "category": 2 },
+        { "text": "dream ...", "category": 0 },
+        { "text": "congratulate somebody ...", "category": 1 },
+        { "text": "stop somebody ...", "category": 2 },
+        { "text": "suspect somebody ...", "category": 0 },
+        { "text": "approve ...", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tom said to Ann: 'I'll take you to the station. I insist.' Report what Tom did.",
+      "words": ["Tom", "insisted", "on", "taking", "Ann", "to", "the station."],
+      "answer": "Tom insisted on taking Ann to the station."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I did my best. Nobody can accuse me ___.",
+      "hint": "(preposition + not + try)",
+      "answers": ["of not trying"],
+      "explanation": "accuse somebody of + -ing; the negative is not -ing: accuse me of not trying."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ for keeping them waiting.",
+      "options": ["apologised to them", "apologised them", "apologised at them"],
+      "answer": 0,
+      "explanation": "We apologise to somebody for something: I apologised to them for keeping them waiting (not I apologised them)."
+    }
+  ]
+}

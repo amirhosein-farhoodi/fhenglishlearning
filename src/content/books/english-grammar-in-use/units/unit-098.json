@@ -1,0 +1,176 @@
+{
+  "number": 98,
+  "title": "Adjectives ending in -ing and -ed (boring/bored etc.)",
+  "subtitle": "boring / bored",
+  "summary": "Use -ing adjectives (boring) for the thing or person that causes a feeling, and -ed adjectives (bored) for how somebody feels.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Jane has been doing the same job for a very long time. Every day she does exactly the same thing again and again. She doesn't enjoy her job any more and would like to do something different. Many adjectives end in **-ing** and **-ed**, like **boring** and **bored**.",
+      "examples": [
+        { "text": "Jane's job is **boring**." },
+        { "text": "Jane is **bored** with her job." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Who is bored, and what is boring?",
+      "text": "Somebody is **bored** or gets bored if something (or somebody else) is **boring**. If something is boring, you get bored with it. If a *person* is boring, this means that they make other people bored.",
+      "examples": [
+        { "text": "Jane is **bored** because her job is **boring**." },
+        { "text": "Jane's job is **boring**, so Jane is **bored**.", "wrong": "Jane is boring" },
+        { "text": "Paul always talks about the same things. He's really **boring**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "My job is boring / I'm bored",
+      "left": {
+        "label": "-ing tells you about the job",
+        "examples": [
+          "My job is **boring**.",
+          "My job is **interesting**.",
+          "My job is **tiring**.",
+          "My job is **satisfying**.",
+          "My job is **depressing**."
+        ]
+      },
+      "right": {
+        "label": "-ed tells you how somebody feels",
+        "examples": [
+          "I'm **bored** with my job.",
+          "I'm not **interested** in my job any more.",
+          "I get very **tired** doing my job.",
+          "I'm not **satisfied** with my job.",
+          "My job makes me **depressed**."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "More pairs",
+      "left": {
+        "label": "-ing (the thing or situation)",
+        "examples": [
+          "Julia thinks politics is **interesting**.",
+          "Did you meet anyone **interesting** at the party?",
+          "It was **surprising** that he passed the exam.",
+          "The movie was **disappointing**. We expected it to be better.",
+          "The news was **shocking**."
+        ]
+      },
+      "right": {
+        "label": "-ed (the feeling)",
+        "examples": [
+          "Julia is **interested** in politics. (not interesting in politics)",
+          "Are you **interested** in buying a car? I'm trying to sell mine.",
+          "Everybody was **surprised** that he passed the exam.",
+          "We were **disappointed** with the movie.",
+          "I was **shocked** when I heard the news."
+        ]
+      },
+      "note": "Notice the prepositions: interested in, bored with, disappointed with, satisfied with."
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: am I describing the thing that causes the feeling (-ing) or the person who has the feeling (-ed)? A film is boring; the audience is bored."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I was ___ with the movie. I had expected it to be better.",
+      "options": ["disappointed", "disappointing", "disappoint"],
+      "answer": 0,
+      "explanation": "The sentence describes how I felt, so we need the -ed adjective: disappointed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Donna teaches young children. It's a very hard job, but she enjoys it. She enjoys her job, but it's often ___.",
+      "hint": "(exhaust...)",
+      "answers": ["exhausting"],
+      "explanation": "The job causes the feeling, so it is exhausting (-ing)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Donna teaches young children. At the end of a day's work, she is often ___.",
+      "hint": "(exhaust...)",
+      "answers": ["exhausted"],
+      "explanation": "Donna has the feeling, so she is exhausted (-ed)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The new project sounds ___. I'm looking forward to working on it.",
+      "options": ["exciting", "excited", "excite"],
+      "answer": 0,
+      "explanation": "The project causes the feeling: it is exciting (-ing). The people who feel it are excited."
+    },
+    {
+      "type": "true_false",
+      "statement": "Julia is interesting in politics.",
+      "answer": false,
+      "explanation": "Julia is interested in politics. The -ed adjective describes how Julia feels; politics is interesting."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence need the -ing form or the -ed form of the adjective in brackets?",
+      "categories": ["-ing (describes the thing)", "-ed (describes the feeling)"],
+      "items": [
+        { "text": "It can be very ___ when you have to ask people for money. (embarrass)", "category": 0 },
+        { "text": "I'm not particularly ___ in football. (interest)", "category": 1 },
+        { "text": "She's learnt very fast. She's made ___ progress. (amaze)", "category": 0 },
+        { "text": "I'd never expected to get the job. I was ___ when I was offered it. (amaze)", "category": 1 },
+        { "text": "It was a really ___ experience. (terrify)", "category": 0 },
+        { "text": "I didn't find the situation funny. I was not ___. (amuse)", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you easily get ___?",
+      "options": ["embarrassed", "embarrassing", "embarrass"],
+      "answer": 0,
+      "explanation": "We are asking about your feeling, so: get embarrassed (-ed)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's been raining all day. I hate this weather. This weather makes me ___.",
+      "hint": "(depress...)",
+      "answers": ["depressed"],
+      "explanation": "The weather is depressing; it makes me depressed (-ed = how I feel)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the adjective that completes it.",
+      "pairs": [
+        { "left": "The teacher's explanation was ... Nobody understood it.", "right": "confusing" },
+        { "left": "The kitchen hadn't been cleaned for ages. It was really ...", "right": "disgusting" },
+        { "left": "The lecture was ... I fell asleep.", "right": "boring" },
+        { "left": "Steve is good at telling funny stories. He can be very ...", "right": "amusing" },
+        { "left": "I've been working very hard all day and now I'm ...", "right": "exhausted" },
+        { "left": "I'm starting a new job next week. I'm very ... about it.", "right": "excited" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people get ___ very easily. They always need something new.",
+      "hint": "(boring / bored)",
+      "answers": ["bored"],
+      "explanation": "People get bored (-ed): the adjective describes their feeling."
+    },
+    {
+      "type": "true_false",
+      "statement": "He's one of the most bored people I've ever met. He never stops talking and he never says anything interesting.",
+      "answer": false,
+      "explanation": "He's one of the most boring people I've ever met. He makes other people bored, so he is boring."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why do you always look so ___? Is your life really so ___?",
+      "options": ["bored ... boring", "boring ... bored", "bored ... bored", "boring ... boring"],
+      "answer": 0,
+      "explanation": "You look bored (your feeling); your life is boring (the thing that causes the feeling)."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "number": 79,
+  "title": "Singular and plural",
+  "subtitle": "trousers are / gymnastics is / the police are",
+  "summary": "Choose a singular or plural verb correctly with words like trousers, news, government, police, people and amounts of money, time and distance.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Plural nouns for one thing with two parts",
+      "text": "Some things with two parts have plural names: trousers (two legs), pyjamas, glasses, binoculars, scissors, and also jeans, tights, shorts and pants. These words are plural, so they take a plural verb. You can also use a pair of + these words.",
+      "examples": [
+        { "text": "My trousers **are** too long.", "wrong": "My trousers is" },
+        { "text": "Those are nice jeans. or That's **a nice pair of jeans**.", "wrong": "a nice jeans" },
+        { "text": "I need some new glasses. or I need **a new pair of glasses**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-ics words, news, means / series / species",
+      "text": "Some nouns end in -ics but are not usually plural: athletics, gymnastics, economics, politics, physics, electronics, maths (= mathematics). News is not plural either. Some words that end in -s can be singular or plural: means, series, species.",
+      "examples": [
+        { "text": "**Gymnastics is** my favourite sport.", "wrong": "Gymnastics are" },
+        { "text": "I have some **news** for you. **It's** good news!" },
+        { "text": "a **means** of transport / many **means** of transport" },
+        { "text": "a TV **series** / two TV **series**" },
+        { "text": "a **species** of fish / 200 **species** of fish" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Groups of people: often a plural verb",
+      "text": "Some singular nouns are often used with a plural verb: audience, committee, company, family, firm, government, staff, team. These are all groups of people. We often think of them as a number of people (= they), not as one thing (= it). In the same way, we often use a plural verb after the name of a company or a sports team. A singular verb is also possible.",
+      "examples": [
+        { "text": "**The government** (= they) **have** decided to increase taxes.", "note": "The government wants ... is also correct" },
+        { "text": "**The staff** at the company (= they) **are** not happy with their working conditions." },
+        { "text": "**Shell have** increased the price of petrol.", "note": "Shell has ... is also correct" },
+        { "text": "**Italy are playing** Brazil next Sunday.", "note": "in a football match" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "police; person / people",
+      "text": "We always use a plural verb with police. One member is a police officer / a policeman / a policewoman (not a police). We do not often use persons; the normal plural of person is people, which is a plural word.",
+      "examples": [
+        { "text": "**The police are** investigating the crime, but **haven't** arrested anyone yet.", "wrong": "The police is ... hasn't" },
+        { "text": "**a police officer** / **a policeman** / **a policewoman**", "wrong": "a police" },
+        { "text": "He's a nice person. but They are nice **people**.", "wrong": "nice persons" },
+        { "text": "Many people **don't** have enough to eat.", "wrong": "Many people doesn't" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sums of money, periods of time, distances: singular",
+      "text": "We think of a sum of money, a period of time, a distance etc. as one thing. So we use a singular verb.",
+      "examples": [
+        { "text": "Fifty thousand pounds (= it) **was** stolen in the robbery.", "wrong": "were stolen" },
+        { "text": "Three years (= it) **is** a long time to be without a job.", "wrong": "Three years are" },
+        { "text": "Two miles **isn't** very far to walk." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Singular or plural verb?",
+      "columns": ["Noun", "Verb", "Example"],
+      "rows": [
+        ["trousers, jeans, glasses, scissors", "plural", "My trousers are too long."],
+        ["gymnastics, physics, maths, news", "singular", "Gymnastics is my favourite sport."],
+        ["government, staff, team, family, Shell", "plural (or singular)", "The government have decided ..."],
+        ["police, people", "plural", "The police are investigating."],
+        ["fifty pounds, three years, two miles", "singular", "Three years is a long time."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Money, time and distance count as one thing: Ten dollars isn't enough. But police and people are always plural: The police are here."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "My new glasses ___ fit very well.",
+      "options": ["don't", "doesn't", "isn't"],
+      "answer": 0,
+      "explanation": "glasses is a plural word, so it takes a plural verb: don't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The trousers you bought for me ___ fit me.",
+      "hint": "(don't / doesn't)",
+      "answers": ["don't", "do not"],
+      "explanation": "trousers is plural: The trousers don't fit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went shopping and bought ___ jeans.",
+      "options": ["a pair of", "a", "a pairs of"],
+      "answer": 0,
+      "explanation": "jeans is plural, so we say a pair of jeans (not a jeans)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't find my binoculars. Have you seen ___?",
+      "hint": "(it / them)",
+      "answers": ["them"],
+      "explanation": "binoculars is a plural word, so the pronoun is them."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the word that completes it.",
+      "pairs": [
+        { "left": "The bicycle is a ... of transport.", "right": "means" },
+        { "left": "A lot of American TV ... are shown in other countries.", "right": "series" },
+        { "left": "The tiger is an endangered ...", "right": "species" },
+        { "left": "Fortunately the ... wasn't as bad as we expected.", "right": "news" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The police ___ to interview two men about the robbery.",
+      "options": ["want", "wants", "is wanting"],
+      "answer": 0,
+      "explanation": "police always takes a plural verb: The police want."
+    },
+    {
+      "type": "true_false",
+      "statement": "Germany are playing Spain tomorrow night. Are you going to watch it?",
+      "answer": true,
+      "explanation": "Correct. After the name of a sports team we often use a plural verb. Germany is playing is also correct."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ten dollars ___. We need more than that.",
+      "hint": "(is / isn't + enough money)",
+      "answers": ["isn't enough money", "is not enough money"],
+      "explanation": "A sum of money is one thing, so a singular verb: Ten dollars isn't enough."
+    },
+    {
+      "type": "true_false",
+      "statement": "There was a police directing traffic in the street.",
+      "answer": false,
+      "explanation": "There was a police officer / a policeman / a policewoman directing traffic. We don't say 'a police'."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like Martin and Jane. They're very nice persons.",
+      "answer": false,
+      "explanation": "They're very nice people. The normal plural of person is people."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Singular or plural verb? Sort the subjects.",
+      "categories": ["singular verb (is / was)", "plural verb (are / were)"],
+      "items": [
+        { "text": "Gymnastics", "category": 0 },
+        { "text": "The police", "category": 1 },
+        { "text": "My trousers", "category": 1 },
+        { "text": "Fifty thousand pounds", "category": 0 },
+        { "text": "Physics", "category": 0 },
+        { "text": "Most people", "category": 1 },
+        { "text": "Two miles", "category": 0 },
+        { "text": "These scissors", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Notice the verb.",
+      "words": ["Twelve hours", "is", "a long time", "to be", "on", "a plane."],
+      "answer": "Twelve hours is a long time to be on a plane.",
+      "explanation": "A period of time is one thing, so is (not are)."
+    }
+  ]
+}

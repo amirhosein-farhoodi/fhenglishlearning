@@ -1,0 +1,180 @@
+{
+  "number": 15,
+  "title": "Past perfect (I had done)",
+  "subtitle": "I had done",
+  "summary": "Use the past perfect (had + past participle) for something that happened before another time in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Sarah and Paul went to the same party last week, but they didn't see each other. Paul left the party at 10.30 and Sarah arrived at 11 o'clock. So when Sarah arrived at the party, Paul wasn't there. **He had gone** home. **had gone** is the past perfect.",
+      "examples": [
+        { "text": "When Sarah arrived at the party, Paul **had already gone** home." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form: had + past participle",
+      "columns": ["Subject", "had", "past participle"],
+      "rows": [
+        ["I / we / they / you", "had (= I'd etc.)", "gone"],
+        ["he / she / it", "had (= he'd etc.)", "seen"],
+        ["", "", "finished etc."]
+      ],
+      "note": "The past perfect (simple) is had + past participle (gone / seen / finished etc.)."
+    },
+    {
+      "type": "explain",
+      "heading": "Before the starting point of the story",
+      "text": "Sometimes we talk about something that happened in the past: *Sarah arrived at the party.* This is the starting point of the story. If we then want to talk about things that happened *before* this time, we use the past perfect (**had ...**).",
+      "examples": [
+        { "text": "When we got home last night, we found that somebody **had broken** into the flat." },
+        { "text": "Karen didn't come to the cinema with us. **She'd already seen** the movie." },
+        { "text": "At first I thought **I'd done** the right thing, but I soon realised that **I'd made** a big mistake." },
+        { "text": "The people sitting next to me on the plane were nervous. **They hadn't flown** before. or **They'd never flown** before." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present perfect or past perfect?",
+      "left": {
+        "label": "Present perfect (have seen)",
+        "text": "Before now.",
+        "examples": [
+          "Who is that woman? **I've seen** her before, but I can't remember where.",
+          "We aren't hungry. **We've just had** lunch.",
+          "The house is dirty. **They haven't cleaned** it for weeks."
+        ]
+      },
+      "right": {
+        "label": "Past perfect (had seen)",
+        "text": "Before a time in the past.",
+        "examples": [
+          "I wasn't sure who she was. **I'd seen** her before, but I couldn't remember where.",
+          "We weren't hungry. **We'd just had** lunch.",
+          "The house was dirty. **They hadn't cleaned** it for weeks."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Past simple or past perfect?",
+      "left": {
+        "label": "Past simple (left, was)",
+        "text": "The action happened at or after the time we are talking about.",
+        "examples": [
+          "*A:* Was Tom there when you arrived? *B:* Yes, but he **left** soon afterwards.",
+          "Kate **wasn't** at home when I phoned. She **was** at her mother's house."
+        ]
+      },
+      "right": {
+        "label": "Past perfect (had left, had been)",
+        "text": "The action happened before the time we are talking about.",
+        "examples": [
+          "*A:* Was Tom there when you arrived? *B:* No, **he'd already left**.",
+          "Kate **had just got** home when I phoned. **She'd been** at her mother's house."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Find the past moment your story is about (when I arrived, when I phoned). Anything that happened earlier than that moment takes had + past participle."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each past situation with the sentence that explains it.",
+      "pairs": [
+        { "left": "There was a picture lying on the floor.", "right": "It had fallen off the wall." },
+        { "left": "The people next to me on the plane were nervous.", "right": "They hadn't flown before." },
+        { "left": "I invited Rachel, but she couldn't come.", "right": "She'd arranged to do something else." },
+        { "left": "My friends didn't want anything to eat.", "right": "They'd just had lunch." },
+        { "left": "Sam wasn't very good at tennis yesterday.", "right": "He'd never played before." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paul wasn't at the party when I arrived. ___ home.",
+      "options": ["He'd gone", "He went", "He's gone"],
+      "answer": 0,
+      "explanation": "Going home happened before I arrived, so the past perfect: He'd gone (He had gone)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You went back to your home town recently after many years. It wasn't the same as before. ___ a lot.",
+      "hint": "(It / change)",
+      "answers": ["It had changed", "It'd changed"],
+      "explanation": "The change happened before your visit: It had changed a lot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody sang a song. You didn't know it. ___ it before.",
+      "hint": "(I / not / hear)",
+      "answers": ["I hadn't heard", "I had not heard"],
+      "explanation": "Before the moment they sang it: I hadn't heard it before."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Sarah got to the party at 11; Paul left at 10.30.",
+      "words": ["When Sarah arrived", "at the party,", "Paul", "had", "already", "gone", "home."],
+      "answer": "When Sarah arrived at the party, Paul had already gone home.",
+      "explanation": "'Already' goes between had and the past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "Karen didn't come to the cinema with us. She's already seen the movie.",
+      "answer": false,
+      "explanation": "She'd already seen the movie. Seeing the movie happened before the past moment (she didn't come), so use the past perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last year we went to Mexico. It was our first time there. ___ there before.",
+      "hint": "(We / not / be)",
+      "answers": ["We hadn't been", "We had not been"],
+      "explanation": "Before last year's trip: We hadn't been there before."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker looking back from now (present perfect) or from a moment in the past (past perfect)?",
+      "categories": ["Before now: present perfect", "Before a past moment: past perfect"],
+      "items": [
+        { "text": "I've seen her before, but I can't remember where.", "category": 0 },
+        { "text": "I'd seen her before, but I couldn't remember where.", "category": 1 },
+        { "text": "We aren't hungry. We've just had lunch.", "category": 0 },
+        { "text": "We weren't hungry. We'd just had lunch.", "category": 1 },
+        { "text": "The house was dirty. They hadn't cleaned it for weeks.", "category": 1 },
+        { "text": "The house is dirty. They haven't cleaned it for weeks.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I felt very tired when I got home, so ___ straight to bed.",
+      "hint": "(I / go)",
+      "answers": ["I went"],
+      "explanation": "Going to bed happened after getting home, not before, so the past simple: I went."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went to Laura's house this morning and rang her doorbell, but there was no answer. She ___ out.",
+      "options": ["had gone", "went", "has gone"],
+      "answer": 0,
+      "explanation": "Laura went out before I rang the bell, so the past perfect: She'd gone out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark travels a lot. When I first met him, ___ round the world.",
+      "hint": "(he / already / travel)",
+      "answers": ["he'd already travelled", "he had already travelled"],
+      "explanation": "The travelling happened before I met him: he'd already travelled."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We were driving along the road when we ___ a car which ___ down, so we stopped to help.",
+      "options": ["saw / had broken", "had seen / broke", "saw / broke"],
+      "answer": 0,
+      "explanation": "We saw the car (past simple, the story's moment); it had broken down before that (past perfect)."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "number": 31,
+  "title": "have to and must",
+  "subtitle": "I have to go / I must go",
+  "summary": "Use have to and must to say that something is necessary, and know when have to is the only choice and why mustn't and don't have to mean different things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "have to = it is necessary",
+      "text": "**I have to do something** = it is necessary to do it, I am obliged to do it. Have to has all the usual tenses: have to / has to, had to, have had to.",
+      "examples": [
+        { "text": "You can't turn right here. You **have to turn** left." },
+        { "text": "I **have to wear** glasses for reading." },
+        { "text": "Robert can't come out with us this evening. He **has to work** late." },
+        { "text": "Last week Tina broke her arm and **had to go** to hospital." },
+        { "text": "I **haven't had to go** to the doctor for ages." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions, negatives and the future",
+      "text": "We use **do/does/did** in questions and negative sentences (for the present and past simple). For the future you can say **I'll have to ...**, **I'm going to have to ...**, **I might have to ...** or **I may have to ...**.",
+      "examples": [
+        { "text": "What **do** I **have to do** to get a new driving licence?", "wrong": "What have I to do?" },
+        { "text": "Karen **doesn't have to work** Saturdays.", "wrong": "Karen hasn't to" },
+        { "text": "'**Did** you **have to wait** a long time for a bus?' 'No, only ten minutes.'" },
+        { "text": "They can't repair my computer, so I**'ll have to buy** a new one. or ... I**'m going to have to buy** a new one." },
+        { "text": "We **might have to change** our plans. or We **may have to change** ...", "note": "= it's possible that we will have to change them" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "must or have to?",
+      "left": {
+        "label": "must / have to = your own opinion",
+        "text": "You can use must or have to when you give your own opinion - to say what you think is necessary, or to recommend something.",
+        "examples": [
+          "It's later than I thought. I **must go**. or I **have to go**.",
+          "I haven't spoken to Sue for ages. I **must phone** her. / I **have to phone** her. (= I say this is necessary)",
+          "Mark is a really nice person. You **must meet** him. / You **have to meet** him. (= I recommend this)"
+        ]
+      },
+      "right": {
+        "label": "have to = a fact",
+        "text": "We use have to (not usually must) to say what someone is obliged to do. This is a fact, not the speaker's own opinion.",
+        "examples": [
+          "I **have to work** from 8.30 to 5.30 every day. (a fact, not an opinion)",
+          "Jane **has to travel** a lot for her work."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "must in rules; had to for the past",
+      "text": "We use **must** in written rules and instructions. But we use **had to** (not must) to talk about the past.",
+      "examples": [
+        { "text": "Applications for the job **must be received** by 18 May." },
+        { "text": "Seat belts **must be worn**." },
+        { "text": "I went to the meeting yesterday, but I **had to leave** early.", "wrong": "I must leave" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "mustn't or don't have to?",
+      "left": {
+        "label": "mustn't = don't do it",
+        "text": "You mustn't do something = it is necessary that you do not do it.",
+        "examples": [
+          "You must keep this a secret. You **mustn't tell** anyone. (= don't tell anyone)",
+          "I promised I would be on time. I **mustn't be** late. (= I must be on time)"
+        ]
+      },
+      "right": {
+        "label": "don't have to = you don't need to",
+        "text": "You don't have to do something = it is not necessary to do it (but you can if you want).",
+        "examples": [
+          "You **don't have to come** with me. I can go alone.",
+          "I **don't have to be** at the meeting, but I'm going anyway."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "have got to",
+      "text": "You can use **have got to** instead of have to. The meaning is the same.",
+      "examples": [
+        { "text": "I**'ve got to work** tomorrow. or I have to work tomorrow." },
+        { "text": "When **has** Helen **got to go**? or When does Helen have to go?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Must has no past form and no do/does/did questions: for the past say had to, and for questions and negatives use do you have to / I don't have to."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Joe starts work at 5 am every day, which means ___ at four.",
+      "hint": "(he / get up)",
+      "answers": ["he has to get up"],
+      "explanation": "A present fact about what Joe is obliged to do: he has to get up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We nearly missed the bus this morning. ___ to catch it.",
+      "hint": "(we / run)",
+      "answers": ["We had to run"],
+      "explanation": "This morning is past, so we use had to."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about the age you need to be for a driving licence. Put the words in order.",
+      "words": ["How old", "do", "you", "have to", "be", "to have", "a driving licence?"],
+      "answer": "How old do you have to be to have a driving licence?",
+      "explanation": "Questions with have to use do/does: How old do you have to be?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Was the exhibition free, or ___ to go in?",
+      "hint": "(you / pay)",
+      "answers": ["did you have to pay"],
+      "explanation": "A past question needs did: did you have to pay?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can let me know later what you want to do. You ___ now.",
+      "hint": "(decide) - negative",
+      "answers": ["don't have to decide", "do not have to decide"],
+      "explanation": "It is not necessary to decide now: don't have to decide."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man was slightly injured in the accident, but he ___ to hospital.",
+      "hint": "(go) - negative",
+      "answers": ["didn't have to go", "did not have to go"],
+      "explanation": "Past and negative: didn't have to go (= it was not necessary)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When Patrick starts his new job next month, he ___ 50 miles to work every day.",
+      "options": ["will have to drive", "will must drive", "had to drive"],
+      "answer": 0,
+      "explanation": "Future obligation: will have to (or is going to have to). Must has no future form with will."
+    },
+    {
+      "type": "true_false",
+      "statement": "I couldn't get a taxi last night. I must walk home.",
+      "answer": false,
+      "explanation": "I couldn't get a taxi last night. I had to walk home. We use had to (not must) for the past."
+    },
+    {
+      "type": "true_false",
+      "statement": "You must come and see us again soon.",
+      "answer": true,
+      "explanation": "Correct. The speaker gives their own opinion / recommendation, so must is fine (You have to come is also correct)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tom isn't going out this evening. He must study for his exam.",
+      "answer": false,
+      "explanation": "He has to study for his exam. This is a fact about what Tom is obliged to do, not the speaker's opinion, so have to is more natural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What ___ to get a new driving licence?",
+      "options": ["do I have to do", "have I to do", "must I to do"],
+      "answer": 0,
+      "explanation": "Questions with have to are formed with do/does: What do I have to do?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which phrase completes each sentence: mustn't or don't/doesn't have to?",
+      "categories": ["mustn't", "don't have to / doesn't have to"],
+      "items": [
+        { "text": "There's a lift in the building, so we ___ climb the stairs.", "category": 1 },
+        { "text": "I promised Kate I'd call her tomorrow. I ___ forget.", "category": 0 },
+        { "text": "Sophie likes weekends because she ___ get up early.", "category": 1 },
+        { "text": "You ___ be a good player to enjoy a game of tennis.", "category": 1 },
+        { "text": "You should keep trying to find a job. You ___ give up.", "category": 0 },
+        { "text": "I ___ eat too much. I'm supposed to be on a diet.", "category": 0 },
+        { "text": "We have plenty of time before our flight. We ___ check in yet.", "category": 1 }
+      ]
+    }
+  ]
+}

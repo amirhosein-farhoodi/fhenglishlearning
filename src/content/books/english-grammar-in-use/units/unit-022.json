@@ -1,0 +1,172 @@
+{
+  "number": 22,
+  "title": "will and shall 2",
+  "subtitle": "will / won't for predictions; I shall / we shall",
+  "summary": "Use will and won't to say what you know or believe about the future, not for things that are already arranged.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Not will for arrangements",
+      "text": "We do not use **will** to say what somebody has already arranged or decided to do. For that we use the present continuous or going to.",
+      "examples": [
+        { "text": "Lisa **is working** next week.", "wrong": "Lisa will work" },
+        { "text": "**Are you going to watch** TV this evening?", "wrong": "will you watch" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "will = what we know or believe about the future",
+      "text": "Kate has her driving test next week. Chris asks Joe: 'Do you think Kate **will pass**?' Joe answers: 'Yes, she's a good driver. **She'll pass** easily.' Joe believes that Kate will pass - he is *predicting* the future. When we predict a future happening or situation, we use **will / won't**.",
+      "examples": [
+        { "text": "They've been away a long time. When they return, **they'll find** a lot of changes here." },
+        { "text": "'Where **will you be** this time next year?' '**I'll be** in Japan.'" },
+        { "text": "That plate is hot. If you touch it, **you'll burn** yourself." },
+        { "text": "Anna looks completely different now. **You won't recognise** her." },
+        { "text": "When **will you get** your exam results?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Already decided, or will decide?",
+      "left": {
+        "label": "is going to (decided)",
+        "examples": [
+          "I think James **is going** to the party on Friday. (= I think he has already decided to go)"
+        ]
+      },
+      "right": {
+        "label": "will (a prediction)",
+        "examples": [
+          "I think James **will go** to the party on Friday. (= I think he will decide to go)"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "We often use will ('ll) with these phrases",
+      "columns": ["Phrase", "Example"],
+      "rows": [
+        ["probably", "**I'll probably be** home late tonight."],
+        ["I'm sure", "Don't worry about the exam. I'm sure **you'll pass**."],
+        ["I think", "Do you think Sarah **will like** the present we bought her?"],
+        ["I don't think", "I don't think the exam **will be** very difficult."],
+        ["I wonder", "I wonder what **will happen**."]
+      ],
+      "note": "After I hope, we generally use the present: I hope Kate passes the driving test. I hope it doesn't rain tomorrow."
+    },
+    {
+      "type": "explain",
+      "heading": "will about now",
+      "text": "Generally we use will to talk about the future, but sometimes we use **will** to talk about *now* - to say what we believe is true at this moment.",
+      "examples": [
+        { "text": "Don't phone Amy now. **She'll be** busy. (= she'll be busy now)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "shall: only with I and we",
+      "text": "Normally we use **shall** only with **I** and **we**. You can say I shall or I will (I'll), we shall or we will (we'll). In spoken English we normally use I'll and we'll. The negative of shall is **shall not** or **shan't**. We do not normally use shall with he/she/it/you/they.",
+      "examples": [
+        { "text": "I **shall** be late this evening. (or I will be)" },
+        { "text": "We **shall** probably go to France in June. (or We will probably go) - in speech: **We'll** probably go to France." },
+        { "text": "I **shan't** be here tomorrow. (or I won't be)" },
+        { "text": "She **will be** very angry.", "wrong": "She shall be" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask whether the sentence reports a plan or a guess. A plan somebody has made is I'm doing / I'm going to; a guess, belief or prediction is will / won't."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm glad I'm meeting Emma tomorrow. It ___ be good to see her again.",
+      "hint": "(will or won't)",
+      "answers": ["'ll", "will"],
+      "explanation": "A positive belief about the future: It'll be good."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Kate has her driving test next week. She's a good driver. ___ easily.",
+      "options": ["She'll pass", "She's passing", "She passes"],
+      "answer": 0,
+      "explanation": "This is a prediction, not an arrangement, so we use will: She'll pass."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've invited Anna to the party, but I don't think ___.",
+      "hint": "(she / come)",
+      "answers": ["she'll come", "she will come"],
+      "explanation": "I don't think + will: I don't think she'll come."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The meeting is still going on. Ask when it is likely to finish, using do you think.",
+      "words": ["When", "do you think", "it", "will", "end?"],
+      "answer": "When do you think it will end?",
+      "explanation": "Question word + do you think + subject + will + verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lisa isn't free on Saturday. She'll work.",
+      "answer": false,
+      "explanation": "She's working. Something already arranged takes the present continuous, not will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've got some incredible news! You ___ believe it.",
+      "hint": "(will or won't)",
+      "answers": ["won't", "will not"],
+      "explanation": "A negative prediction: You won't believe it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about something already arranged or decided, or is it a prediction / belief?",
+      "categories": ["Already arranged or decided", "Prediction or belief (will)"],
+      "items": [
+        { "text": "Lisa is working next week.", "category": 0 },
+        { "text": "She'll pass easily.", "category": 1 },
+        { "text": "Are you going to watch TV this evening?", "category": 0 },
+        { "text": "You won't recognise her.", "category": 1 },
+        { "text": "I think James is going to the party on Friday.", "category": 0 },
+        { "text": "I think James will go to the party on Friday.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can't meet you this evening. A friend of mine ___ to see me.",
+      "options": ["is coming", "will come", "comes"],
+      "answer": 0,
+      "explanation": "The visit is already arranged, so the present continuous (is coming), not will."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The future situation is uncertain. Ask what is likely to happen, using do you think.",
+      "words": ["What", "do", "you", "think", "will", "happen?"],
+      "answer": "What do you think will happen?",
+      "explanation": "When the question word is the subject, will follows do you think directly: What do you think will happen?"
+    },
+    {
+      "type": "true_false",
+      "statement": "I hope Kate passes the driving test.",
+      "answer": true,
+      "explanation": "Correct. After I hope we generally use the present, not will."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Have you decided where to go for your holidays? *B:* Yes, ___ to Italy.",
+      "options": ["we're going", "we'll go", "we go"],
+      "answer": 0,
+      "explanation": "The decision has already been made, so we're going (not we'll go)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["I shall be late this evening.", "She shall be very angry.", "They shall probably go to France."],
+      "answer": 0,
+      "explanation": "Shall is normally used only with I and we. With she or they use will."
+    }
+  ]
+}

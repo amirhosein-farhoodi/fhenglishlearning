@@ -1,0 +1,180 @@
+{
+  "number": 21,
+  "title": "will and shall 1",
+  "subtitle": "I'll do / shall I ... ?",
+  "summary": "Use I'll when you decide something at the moment of speaking - to offer, agree, promise or refuse - and shall I / shall we to ask for suggestions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I'll = a decision made now",
+      "text": "We use **I'll ...** (= I will) when we've just decided to do something. When we say *I'll do something*, we announce our decision. We do not use the present simple (I do / I go etc.) in these sentences.",
+      "examples": [
+        { "text": "Oh, I left the door open. **I'll go** and shut it." },
+        { "text": "'What would you like to drink?' '**I'll have** orange juice, please.'" },
+        { "text": "'Did you call Max?' 'Oh no, I forgot. **I'll call** him now.'" },
+        { "text": "**I'll phone** him now.", "wrong": "I phone him now" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I think I'll ... and won't",
+      "text": "We often use **I think I'll ...** / **I don't think I'll ...** In spoken English **will not** is usually **won't**.",
+      "examples": [
+        { "text": "I'm a little hungry. **I think I'll have** something to eat." },
+        { "text": "**I don't think I'll go** out tonight. I'm too tired." },
+        { "text": "I can see you're busy, so **I won't stay** long. (= I will not stay long)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Offering, agreeing, promising",
+      "text": "We often use **I'll** to offer to do something, to agree to do something, and to promise to do something.",
+      "examples": [
+        { "text": "Offering: That bag looks heavy. **I'll help** you with it.", "wrong": "I help" },
+        { "text": "Agreeing: *A:* Can you give Tom this book? *B:* Sure, **I'll give** it to him when I see him this afternoon." },
+        { "text": "Promising: Thanks for lending me the money. **I'll pay** you back on Friday." },
+        { "text": "Promising: **I won't tell** anyone what happened. I promise." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "won't = refuses; Will you ... ? = please",
+      "text": "We use **won't** to say that somebody refuses to do something. **Will you (do something)?** = please do it.",
+      "examples": [
+        { "text": "I've tried to give her advice, but she **won't listen**." },
+        { "text": "The car **won't start**. (= the car 'refuses' to start)" },
+        { "text": "**Will you** please turn the music down? It's too loud." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Decided before or decided now?",
+      "left": {
+        "label": "I'm doing (decided before)",
+        "text": "We do not use will for what has been decided or arranged before.",
+        "examples": [
+          "**I'm going** on holiday next Saturday. (not I'll go)",
+          "**I'm meeting** Kate tomorrow morning."
+        ]
+      },
+      "right": {
+        "label": "I'll do (decided now)",
+        "text": "The decision is made at the moment of speaking.",
+        "examples": [
+          "*A:* **I'll meet** you at half past ten, OK? *B:* Fine. See you then."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "shall I ... ? / shall we ... ?",
+      "text": "We use **shall** mostly in the questions **shall I ... ?** / **shall we ... ?** - to ask if it's OK to do something or to ask for a suggestion. Compare *shall I ... ?* and *will you ... ?*",
+      "examples": [
+        { "text": "**Shall I open** the window? (= do you want me to open it?)" },
+        { "text": "I've got no money. **What shall I do?** (= what do you suggest?)" },
+        { "text": "'**Shall we go?**' 'Just a minute. I'm not ready yet.'" },
+        { "text": "'**Where shall we have** lunch?' 'Let's go to Marino's.'" },
+        { "text": "**Shall I shut** the door? (= do you want me to shut it?) / **Will you shut** the door? (= I want you to shut it)" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "I'll is for decisions you make as you speak. If you already had the plan before the conversation, use I'm doing instead."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'Did you call Max?' 'Oh no, I forgot. ___ him now.'",
+      "options": ["I'll call", "I call", "I'm calling"],
+      "answer": 0,
+      "explanation": "A decision made at the moment of speaking: I'll call (not the present simple)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Would you like tea or coffee?' '___ coffee, please.'",
+      "hint": "(I'll + a suitable verb)",
+      "answers": ["I'll have", "I will have"],
+      "explanation": "Announcing a decision now: I'll have coffee."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Are you free next Friday?' 'Let me see. ___ my diary.'",
+      "hint": "(I'll + a suitable verb)",
+      "answers": ["I'll check", "I will check"],
+      "explanation": "You decide to do it now, so I'll check."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are feeling tired and it's getting late. Say that you have decided to go to bed.",
+      "words": ["I'm tired,", "so", "I think", "I'll", "go", "to bed."],
+      "answer": "I'm tired, so I think I'll go to bed.",
+      "explanation": "I think I'll + verb is a common way to announce a decision."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What is the speaker doing with will / won't?",
+      "categories": ["Offering or agreeing", "Promising", "Refusing"],
+      "items": [
+        { "text": "That bag looks heavy. I'll help you with it.", "category": 0 },
+        { "text": "Sure, I'll give it to him when I see him this afternoon.", "category": 0 },
+        { "text": "Thanks for lending me the money. I'll pay you back on Friday.", "category": 1 },
+        { "text": "I won't tell anyone what happened. I promise.", "category": 1 },
+        { "text": "I've tried to give her advice, but she won't listen.", "category": 2 },
+        { "text": "The car won't start.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "That bag looks heavy. I help you with it.",
+      "answer": false,
+      "explanation": "I'll help you with it. Offers are made with I'll, not the present simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Can you finish this report today?' 'Well, ___, but I can't promise.'",
+      "hint": "(I'll + a suitable verb)",
+      "answers": ["I'll try", "I will try"],
+      "explanation": "Agreeing to do something: I'll try."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'___ you outside the hotel at 10.30, OK?' 'Yes, that's fine.'",
+      "options": ["I'll meet", "I meet", "I'm meeting"],
+      "answer": 0,
+      "explanation": "The arrangement is being made now, so I'll meet."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm having a party next Saturday. I hope you can come.",
+      "answer": true,
+      "explanation": "Correct. The party was decided before, so the present continuous is right (not I'll have)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with its meaning.",
+      "pairs": [
+        { "left": "Shall I shut the door?", "right": "Do you want me to shut it?" },
+        { "left": "Will you shut the door?", "right": "I want you to shut it." },
+        { "left": "What shall I do?", "right": "What do you suggest?" },
+        { "left": "The car won't start.", "right": "The car 'refuses' to start." },
+        { "left": "I won't stay long.", "right": "I will not stay long." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You and a friend are going on holiday together, but you have to decide where. Ask your friend.",
+      "words": ["Where", "shall", "we", "go", "on holiday?"],
+      "answer": "Where shall we go on holiday?",
+      "explanation": "Shall we ... ? asks for a suggestion."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I asked Sue what happened, but she ___ me.",
+      "options": ["won't tell", "doesn't tell", "isn't telling"],
+      "answer": 0,
+      "explanation": "Won't expresses refusal: she refuses to tell me."
+    }
+  ]
+}

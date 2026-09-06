@@ -1,0 +1,176 @@
+{
+  "number": 42,
+  "title": "Passive 1 (is done / was done)",
+  "subtitle": "is done / was done",
+  "summary": "Use the passive (be + past participle) to say what happens to the subject, especially when who does the action is unknown or unimportant.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Active or passive?",
+      "left": {
+        "label": "Active: what the subject does",
+        "text": "When we use an active verb, we say what the subject does.",
+        "examples": [
+          "Somebody **built** this house in 1981.",
+          "My grandfather was a builder. He **built** this house in 1981.",
+          "It's a big company. It **employs** two hundred people."
+        ]
+      },
+      "right": {
+        "label": "Passive: what happens to the subject",
+        "text": "When we use a passive verb, we say what happens to the subject.",
+        "examples": [
+          "This house **was built** in 1981.",
+          "'How old is this house?' 'It **was built** in 1981.'",
+          "Two hundred people **are employed** by the company."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "When we use the passive",
+      "text": "When we use the passive, who or what causes the action is often unknown or unimportant. If we want to say who does or what causes the action, we use **by**.",
+      "examples": [
+        { "text": "A lot of money **was stolen** in the robbery.", "note": "somebody stole it, but we don't know who" },
+        { "text": "**Is** this room **cleaned** every day?", "note": "does somebody clean it? - it's not important who" },
+        { "text": "This house was built **by** my grandfather." },
+        { "text": "Two hundred people are employed **by** the company." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The form: be + past participle",
+      "text": "The passive is **be** (is/was etc.) + **past participle** (done/cleaned/seen etc.): (be) done, (be) cleaned, (be) damaged, (be) built, (be) seen. The past participle often ends in -ed (cleaned/damaged etc.), but many important verbs are irregular (built/done/stolen etc.).",
+      "examples": [
+        { "text": "This room **is cleaned** every day." },
+        { "text": "This room **was cleaned** yesterday." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Present simple and past simple",
+      "columns": ["Tense", "Active", "Passive"],
+      "rows": [
+        ["Present simple", "Somebody cleans this room every day. (clean(s) / see(s) etc.)", "This room is cleaned every day. (am/is/are + cleaned/seen etc.)"],
+        ["Past simple", "Somebody cleaned this room yesterday. (cleaned/saw etc.)", "This room was cleaned yesterday. (was/were + cleaned/seen etc.)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present simple passive",
+      "text": "**am/is/are + past participle**. Questions put am/is/are before the subject.",
+      "examples": [
+        { "text": "Many accidents **are caused** by careless driving." },
+        { "text": "**I'm not invited** to parties very often." },
+        { "text": "How **is** this word **pronounced**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Past simple passive",
+      "text": "**was/were + past participle**. Questions put was/were before the subject.",
+      "examples": [
+        { "text": "We **were woken up** by a loud noise during the night." },
+        { "text": "'Did you go to the party?' 'No, **I wasn't invited**.'" },
+        { "text": "How much money **was stolen** in the robbery?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask: does the subject do the action (active) or does something happen to the subject (passive)? The camera was stolen - the camera didn't do anything."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'How old is this house?' 'It ___ in 1981.'",
+      "options": ["was built", "built", "is built"],
+      "answer": 0,
+      "explanation": "Something happened to the house in the past, so use the past simple passive: was built."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cheese ___ from milk.",
+      "hint": "(make)",
+      "answers": ["is made"],
+      "explanation": "A general fact about what happens to cheese: present simple passive (is made)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The roof of the building ___ in a storm a few days ago.",
+      "hint": "(damage)",
+      "answers": ["was damaged"],
+      "explanation": "A few days ago is past, and something happened to the roof: was damaged."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the verb in each sentence active or passive?",
+      "categories": ["Active verb", "Passive verb"],
+      "items": [
+        { "text": "While I was on holiday, my camera was stolen from my hotel room.", "category": 1 },
+        { "text": "While I was on holiday, my camera disappeared from my hotel room.", "category": 0 },
+        { "text": "Robert's parents died when he was very young.", "category": 0 },
+        { "text": "Robert and his sister were brought up by their grandparents.", "category": 1 },
+        { "text": "The boat hit a rock and sank quickly.", "category": 0 },
+        { "text": "Fortunately everybody was rescued.", "category": 1 },
+        { "text": "Bill was fired from his job. He wasn't very good at it.", "category": 1 },
+        { "text": "Sue resigned from her job because she didn't enjoy it any more.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ___ to the party. Why didn't you go?",
+      "hint": "(invite)",
+      "answers": ["were invited"],
+      "explanation": "Somebody invited you (past), so: you were invited."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Water ___ most of the earth's surface.",
+      "options": ["covers", "is covered", "covered"],
+      "answer": 0,
+      "explanation": "Water does the covering, so the verb is active: covers. Compare: the surface is covered by water."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about silver. (what / use for?)",
+      "words": ["What", "is", "silver", "used", "for?"],
+      "answer": "What is silver used for?",
+      "explanation": "Present simple passive question: What + is + subject + past participle, with the preposition at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "Many accidents are caused by careless driving.",
+      "answer": true,
+      "explanation": "Correct. Present simple passive (are caused), with by to say what causes the accidents."
+    },
+    {
+      "type": "true_false",
+      "statement": "There was an accident last night, but fortunately nobody injured.",
+      "answer": false,
+      "explanation": "Fortunately nobody was injured. Something happened to the people, so we need the passive: was injured."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It can be noisy living here, but I ___ by it.",
+      "options": ["'m not bothered", "don't bother", "am not bother"],
+      "answer": 0,
+      "explanation": "The noise bothers me, so I am (not) bothered by it - present simple passive with the full past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "People warned us not to go out alone. Write a passive sentence beginning We ...",
+      "words": ["We", "were", "warned", "not to", "go out", "alone."],
+      "answer": "We were warned not to go out alone.",
+      "explanation": "Past simple passive: were + warned. Who warned us is not important."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I haven't seen these flowers before. What ___?",
+      "hint": "(they / call)",
+      "answers": ["are they called"],
+      "explanation": "The flowers don't do the calling, so use the passive question: What are they called?"
+    }
+  ]
+}

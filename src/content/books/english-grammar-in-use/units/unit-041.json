@@ -1,0 +1,189 @@
+{
+  "number": 41,
+  "title": "wish",
+  "subtitle": "I wish you luck / I wish I knew / I wish it would stop",
+  "summary": "Use wish somebody luck for good wishes, wish + past to regret how things are, and wish ... would to say you want something to happen or change.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "wish somebody luck",
+      "text": "We say **wish somebody luck / all the best / success** etc. We say 'wish somebody something' (luck, happiness etc.), but we do not say 'I wish something happens'. We use **hope** in this situation.",
+      "examples": [
+        { "text": "**I wish you** all the best in the future." },
+        { "text": "I saw Mark before the exam and he **wished me luck**." },
+        { "text": "I'm sorry you're not well. **I hope** you feel better soon.", "wrong": "I wish you feel" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I wish or I hope?",
+      "left": {
+        "label": "wish somebody something",
+        "examples": ["**I wish you** a pleasant stay at this hotel."]
+      },
+      "right": {
+        "label": "hope (that) something happens",
+        "examples": ["**I hope you enjoy** your stay at this hotel. (not I wish you enjoy)"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "wish + past = regret about now",
+      "text": "We also use wish to say that we regret something - that something is not as we would like it. When we use wish in this way, we use the **past** (knew/lived etc.), but the meaning is present.",
+      "examples": [
+        { "text": "**I wish I knew** what to do about the problem.", "note": "but I don't know" },
+        { "text": "**I wish you didn't have** to go so soon.", "note": "but you have to go" },
+        { "text": "Do you **wish you lived** near the sea?", "note": "you don't live near the sea" },
+        { "text": "Jack's going on a trip to Mexico soon. **I wish I was going** too.", "note": "but I'm not going" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wish + had done = regret about the past",
+      "text": "To say that we regret something that happened before, we use **wish + had known / had said** etc.",
+      "examples": [
+        { "text": "**I wish I'd known** about the party. I'd have gone if I'd known.", "note": "but I didn't know" },
+        { "text": "It was a stupid thing to say. **I wish I hadn't said** it.", "note": "but I said it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I wish I could / I wish I could have",
+      "text": "**I wish I could** (do something) = I regret that I cannot do it. **I wish I could have** (done something) = I regret that I could not do it.",
+      "examples": [
+        { "text": "I'm sorry you have to go. **I wish you could stay** longer.", "note": "but you can't" },
+        { "text": "I've met that man before. **I wish I could remember** his name.", "note": "but I can't" },
+        { "text": "I hear the party was great. **I wish I could have gone**.", "note": "but I couldn't go" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I wish ... would",
+      "text": "It's been raining all day and Tanya doesn't like it. She would like the rain to stop, but this will probably not happen. We use **I wish ... would** when we would like something to happen or change, and often to complain about a situation. **I wish ... wouldn't** complains about things that people do repeatedly.",
+      "examples": [
+        { "text": "**I wish it would stop** raining." },
+        { "text": "The phone has been ringing for five minutes. **I wish somebody would answer** it." },
+        { "text": "**I wish you'd do** something instead of just sitting and doing nothing.", "note": "you'd do = you would do" },
+        { "text": "**I wish you wouldn't keep** interrupting me.", "note": "= please stop interrupting me" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "would or was/had?",
+      "left": {
+        "label": "I wish ... would (I want it to happen)",
+        "examples": [
+          "**I wish Sarah would come**. (= I want her to come)",
+          "**I wish somebody would buy** me a car."
+        ]
+      },
+      "right": {
+        "label": "I wish ... was/had (how I'd like things to be)",
+        "examples": [
+          "**I wish Sarah was** (or were) here now. (not I wish Sarah would be)",
+          "**I wish I had** a car. (not I wish I would have)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Wish + would is for something you want to happen or change. For a state you'd like to be different, use wish + past (I wish I had / I wish I was)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which word fills the gap in each sentence: wish or hope?",
+      "categories": ["wish", "hope"],
+      "items": [
+        { "text": "I ___ you a pleasant stay at this hotel.", "category": 0 },
+        { "text": "Enjoy your holiday. I ___ you have a great time.", "category": 1 },
+        { "text": "Goodbye. I ___ you all the best for the future.", "category": 0 },
+        { "text": "We're going to have a picnic tomorrow, so I ___ the weather is nice.", "category": 1 },
+        { "text": "Congratulations on your new job. I ___ you every success.", "category": 0 },
+        { "text": "Good luck in your new job. I ___ it works out well for you.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm sorry you're not well. I ___ you feel better soon.",
+      "options": ["hope", "wish", "wished"],
+      "answer": 0,
+      "explanation": "We say wish somebody something (luck etc.), but for 'something happens' we use hope."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a difficult question. I wish ___ the answer.",
+      "hint": "(I / know)",
+      "answers": ["I knew"],
+      "explanation": "A regret about now takes the past after wish: I wish I knew."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I bought these shoes, but now I don't like them. I wish I ___ them.",
+      "hint": "(not / buy)",
+      "answers": ["hadn't bought", "had not bought"],
+      "explanation": "A regret about something that happened before: wish + had done (I wish I hadn't bought them)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You're looking for a job - so far without success. Nobody will give you a job. Say what you wish.",
+      "words": ["I wish", "somebody", "would", "give", "me", "a job."],
+      "answer": "I wish somebody would give me a job.",
+      "explanation": "You want something to happen, so use I wish ... would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wish ___. We've been waiting for 20 minutes.",
+      "hint": "(the bus / come)",
+      "answers": ["the bus would come"],
+      "explanation": "You want something to happen: I wish ... would (I wish the bus would come)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I wish Sarah would be here now.",
+      "answer": false,
+      "explanation": "I wish Sarah was (or were) here now. For how we'd like things to be, use wish + past, not would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're lucky to be going away. I wish ___ with you.",
+      "hint": "(I / can / come)",
+      "answers": ["I could come"],
+      "explanation": "I wish I could = I regret that I cannot: I wish I could come with you."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you say.",
+      "pairs": [
+        { "left": "You're waiting for Jane. She's late and you're getting impatient.", "right": "I wish she would hurry up." },
+        { "left": "A dog has been barking for a long time and you're trying to study.", "right": "I wish that dog would stop barking." },
+        { "left": "Your friend always drives fast and you don't like this.", "right": "I wish you wouldn't drive so fast." },
+        { "left": "Joe leaves the door open all the time. This annoys you.", "right": "I wish you wouldn't leave the door open." },
+        { "left": "A lot of people drop litter in the street. You don't like this.", "right": "I wish people wouldn't drop litter." },
+        { "left": "It's raining. You want to go out, but not in the rain.", "right": "I wish it would stop raining." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You keep interrupting me! I wish you wouldn't keep interrupting me.",
+      "answer": true,
+      "explanation": "Correct. I wish ... wouldn't complains about something a person does repeatedly."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't have a car and I'd love one. I wish I ___ a car.",
+      "options": ["had", "would have", "have"],
+      "answer": 0,
+      "explanation": "This is how I'd like things to be, so wish + past (had), not wish ... would have."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When we were in London last year, we didn't have time to see all the things we wanted to see. I wish ___ there longer.",
+      "hint": "(we / can / stay)",
+      "answers": ["we could have stayed"],
+      "explanation": "I wish I could have (done) = I regret that I could not do it in the past."
+    }
+  ]
+}

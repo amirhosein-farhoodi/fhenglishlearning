@@ -1,0 +1,181 @@
+{
+  "number": 16,
+  "title": "Past perfect continuous (I had been doing)",
+  "subtitle": "I had been doing",
+  "summary": "Use the past perfect continuous (had been + -ing) for an activity that was in progress before a moment in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Yesterday morning I got up and looked out of the window. The sun was shining, but the ground was very wet. **It had been raining.** It was not raining when I looked out of the window - the sun was shining. But it had been raining *before*. **had been -ing** is the past perfect continuous.",
+      "examples": [
+        { "text": "The ground was wet. **It had been raining.**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form: had been + -ing",
+      "columns": ["Subject", "had been", "-ing"],
+      "rows": [
+        ["I / we / you / they", "had been (= I'd been etc.)", "doing"],
+        ["he / she / it", "had been (= he'd been etc.)", "working"],
+        ["", "", "playing etc."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "An activity before a past moment",
+      "text": "We use the past perfect continuous for something that had been happening before a time in the past. Often it explains a past result, like dirty hands or tiredness.",
+      "examples": [
+        { "text": "My hands were dirty because **I'd been repairing** my bike." },
+        { "text": "Tom was tired when he got home. **He'd been working** hard all day." },
+        { "text": "I went to Madrid a few years ago and stayed with a friend of mine. **She hadn't been living** there very long, but she knew the city very well." },
+        { "text": "**We'd been playing** tennis for about half an hour when it started to rain heavily.", "note": "something had been happening before something else happened" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "have been -ing or had been -ing?",
+      "left": {
+        "label": "Present perfect continuous",
+        "text": "Up to now.",
+        "examples": [
+          "I hope the bus comes soon. **I've been waiting** for 20 minutes. (before now)",
+          "James is out of breath. **He's been running.** (= he has been running)"
+        ]
+      },
+      "right": {
+        "label": "Past perfect continuous",
+        "text": "Up to a moment in the past.",
+        "examples": [
+          "At last the bus came. **I'd been waiting** for 20 minutes. (before the bus came)",
+          "James was out of breath. **He'd been running.** (= he had been running)"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "was -ing or had been -ing?",
+      "left": {
+        "label": "Past continuous (was -ing)",
+        "text": "In progress at that moment.",
+        "examples": [
+          "It wasn't raining when we went out. The sun **was shining**.",
+          "Katherine **was lying** on the sofa."
+        ]
+      },
+      "right": {
+        "label": "Past perfect continuous (had been -ing)",
+        "text": "Finished (or interrupted) before that moment.",
+        "examples": [
+          "But **it had been raining**, so the ground was wet.",
+          "She was tired because **she'd been working** hard."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs not used in continuous forms",
+      "text": "Some verbs (for example **know**) are not normally used in continuous forms (be + -ing). With these verbs use the past perfect simple, even for a long period.",
+      "examples": [
+        { "text": "We were good friends. We **had known** each other for years.", "wrong": "had been knowing" },
+        { "text": "A few years ago Lisa cut her hair really short. I was surprised because **she'd always had** long hair.", "wrong": "she'd been having" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "was -ing tells you what was happening at the moment; had been -ing tells you what had been going on before that moment and explains the situation you found."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Tom was very tired when he got home. ___ hard all day.",
+      "options": ["He'd been working", "He was working", "He's been working"],
+      "answer": 0,
+      "explanation": "The working happened before he got home and explains his tiredness: He'd been working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The children came into the house. They had a football and they were both very tired. ___ football.",
+      "hint": "(They / play)",
+      "answers": ["They'd been playing", "They had been playing"],
+      "explanation": "An activity before they came in: They'd been playing football."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was disappointed when I had to cancel my holiday. ___ to it.",
+      "hint": "(I / look / forward)",
+      "answers": ["I'd been looking forward", "I had been looking forward"],
+      "explanation": "The looking forward went on before the cancellation: I'd been looking forward to it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the activity before now (present perfect continuous) or before a moment in the past (past perfect continuous)?",
+      "categories": ["Before now", "Before a past moment"],
+      "items": [
+        { "text": "I hope the bus comes soon. I've been waiting for 20 minutes.", "category": 0 },
+        { "text": "At last the bus came. I'd been waiting for 20 minutes.", "category": 1 },
+        { "text": "James is out of breath. He's been running.", "category": 0 },
+        { "text": "James was out of breath. He'd been running.", "category": 1 },
+        { "text": "Tom was tired. He'd been working hard all day.", "category": 1 },
+        { "text": "I'm running a marathon next month. I've been training every day.", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say that the tennis game was interrupted by rain.",
+      "words": ["We'd been playing", "tennis", "for about", "half an hour", "when", "it started", "to rain."],
+      "answer": "We'd been playing tennis for about half an hour when it started to rain.",
+      "explanation": "had been -ing for the activity in progress, past simple (started) for the event that interrupted it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "James was on his hands and knees on the floor. ___ for his contact lens.",
+      "options": ["He was looking", "He'd been looking", "He's been looking"],
+      "answer": 0,
+      "explanation": "He was in the middle of looking at that moment, so the past continuous: He was looking."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sue was sitting on the ground. She was out of breath. ___",
+      "options": ["She'd been running.", "She was running.", "She's been running."],
+      "answer": 0,
+      "explanation": "She had stopped running; the earlier activity explains why she was out of breath: She'd been running."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were good friends. We had been knowing each other for years.",
+      "answer": false,
+      "explanation": "We had known each other for years. Know is not used in continuous forms."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had arranged to meet Tom in a restaurant. ___ for 20 minutes when I realised that I was in the wrong restaurant.",
+      "hint": "(I / wait)",
+      "answers": ["I'd been waiting", "I had been waiting"],
+      "explanation": "Waiting was in progress before I realised: I'd been waiting for 20 minutes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was sad when I sold my car. ___ for a very long time.",
+      "options": ["I'd had it", "I'd been having it", "I've had it"],
+      "answer": 0,
+      "explanation": "Have for possession is not used in continuous forms, and the time is before a past moment: I'd had it."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was sad when my local cafe closed. I'd been going there for many years.",
+      "answer": true,
+      "explanation": "Correct. Going there was a repeated activity before the cafe closed, so had been -ing is right."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I had arranged to meet Kate, but I was late. When I finally arrived, ___ for me. She was annoyed because ___ such a long time.",
+      "options": ["she was waiting / she'd been waiting", "she'd been waiting / she was waiting", "she was waiting / she was waiting"],
+      "answer": 0,
+      "explanation": "At the moment I arrived she was still waiting (was waiting); the long wait before that explains her annoyance (she'd been waiting)."
+    }
+  ]
+}

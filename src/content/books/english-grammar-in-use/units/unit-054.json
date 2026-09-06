@@ -1,0 +1,170 @@
+{
+  "number": 54,
+  "title": "Verb + to ... (decide to ... / forget to ... etc.)",
+  "subtitle": "decide to ... / forget to ...",
+  "summary": "Use to + infinitive after verbs like decide, agree, offer, refuse, manage, seem and pretend, and after a question word (how/what/where to ...).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verbs followed by to ...",
+      "text": "After these verbs you can use **to ...** (infinitive): **offer, agree, refuse, decide, plan, arrange, hope, forget, manage, fail, promise, threaten, deserve, afford, learn, tend**.",
+      "examples": [
+        { "text": "It was a long way to walk, so we **decided to take** a taxi home." },
+        { "text": "Simon was in a difficult situation, so I **agreed to help** him." },
+        { "text": "I waved to Karen, but **failed to attract** her attention." },
+        { "text": "I like Dan, but I think he **tends to talk** too much." },
+        { "text": "How old were you when you **learnt to drive**?", "note": "or ... learnt how to drive?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The negative, and verbs that take -ing instead",
+      "text": "The negative is **not to ...**. Remember that after some verbs we use -ing (not to ...), for example enjoy, think of and suggest.",
+      "examples": [
+        { "text": "We decided **not to go** out because of the weather." },
+        { "text": "I promised **not to be** late." },
+        { "text": "I **enjoy reading**.", "wrong": "enjoy to read" },
+        { "text": "Andy **suggested meeting** for coffee.", "wrong": "suggested to meet" },
+        { "text": "Are you **thinking of buying** a car?", "wrong": "thinking to buy" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "dare",
+      "text": "After **dare** you can use the infinitive with or without to. But after **dare not** (or **daren't**), we do not use to.",
+      "examples": [
+        { "text": "I didn't **dare to tell** him.", "note": "or I didn't dare tell him." },
+        { "text": "I **daren't tell** him what happened.", "wrong": "I daren't to tell him" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "seem / appear / pretend / claim",
+      "text": "We also use **to ...** after **seem, appear, pretend** and **claim**. You can also use **to be -ing** (continuous infinitive) and **to have (done)** (perfect infinitive).",
+      "examples": [
+        { "text": "They **seem to have** plenty of money." },
+        { "text": "Ann **pretended not to see** me when she passed me in the street." },
+        { "text": "I **pretended to be reading** the newspaper.", "note": "= I pretended that I was reading" },
+        { "text": "Have you seen my keys? I **seem to have lost** them.", "note": "= it seems that I have lost them" },
+        { "text": "She **claimed not to have seen** me.", "note": "= she claimed that she hadn't seen me" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Question word + to ...",
+      "text": "After **ask, know, decide, remember, forget, learn, explain, understand** and **wonder** you can use a question word (what/how/where etc.) + to ... . You can also **show/tell/ask/advise/teach somebody what/how/where to do** something.",
+      "examples": [
+        { "text": "We asked **how to get** to the station." },
+        { "text": "Have you decided **where to go** on holiday?" },
+        { "text": "I don't know **whether to apply** for the job or not." },
+        { "text": "Can somebody show me **how to use** this camera?" },
+        { "text": "Ask Jack. He'll tell you **what to do**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "decide, agree, refuse, offer, promise, manage, fail, afford - all take to ... . Contrast them with enjoy, suggest, mind, avoid - which take -ing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'Please help me.' 'OK.' She agreed ___.",
+      "hint": "(help / him)",
+      "answers": ["to help him"],
+      "explanation": "agree is followed by to ...: agreed to help him."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Please don't tell anyone.' 'I won't. I promise.' She promised ___.",
+      "hint": "(not / tell / anyone)",
+      "answers": ["not to tell anyone", "not to tell anybody"],
+      "explanation": "The negative is not to ...: promised not to tell anyone."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form follows each verb?",
+      "categories": ["to ... (decide to go)", "-ing (enjoy going)"],
+      "items": [
+        { "text": "decide", "category": 0 },
+        { "text": "enjoy", "category": 1 },
+        { "text": "refuse", "category": 0 },
+        { "text": "mind", "category": 1 },
+        { "text": "fail", "category": 0 },
+        { "text": "suggest", "category": 1 },
+        { "text": "pretend", "category": 0 },
+        { "text": "risk", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a lot of traffic, but we managed ___ to the airport in time.",
+      "hint": "(get)",
+      "answers": ["to get"],
+      "explanation": "manage is followed by to ...: managed to get."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't play a musical instrument, but I'd like to learn ___ the guitar.",
+      "hint": "(play)",
+      "answers": ["to play", "how to play"],
+      "explanation": "learn is followed by to ... (or how to ...): learn to play the guitar."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm not in a hurry. I don't mind ___.",
+      "options": ["waiting", "to wait", "wait"],
+      "answer": 0,
+      "explanation": "mind is followed by -ing: don't mind waiting."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tina ran in a marathon last week, but she failed ___.",
+      "options": ["to finish", "finishing", "finish"],
+      "answer": 0,
+      "explanation": "fail is followed by to ...: failed to finish."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were all afraid to speak. Nobody dared to say anything.",
+      "answer": true,
+      "explanation": "Correct. After dare you can use the infinitive with or without to: dared to say / dared say."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tom is worried about something. Say this with appear.",
+      "words": ["Tom", "appears", "to be", "worried", "about something."],
+      "answer": "Tom appears to be worried about something.",
+      "explanation": "appear + to be: Tom appears to be worried."
+    },
+    {
+      "type": "word_order",
+      "prompt": "They have solved the problem - that is what they say. Say this with claim.",
+      "words": ["They", "claim", "to have", "solved", "the problem."],
+      "answer": "They claim to have solved the problem.",
+      "explanation": "The perfect infinitive to have (done) refers to something already finished: claim to have solved."
+    },
+    {
+      "type": "mcq",
+      "prompt": "David is very quiet. He tends not ___ much.",
+      "options": ["to say", "saying", "say"],
+      "answer": 0,
+      "explanation": "tend is followed by to ...; the negative is not to ...: tends not to say much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been invited to the party, but I haven't decided ___ or not.",
+      "hint": "(whether / go)",
+      "answers": ["whether to go"],
+      "explanation": "decide + question word + to ...: decided whether to go or not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have some clothes to wash. Can you show me ___ the washing machine?",
+      "hint": "(how / use)",
+      "answers": ["how to use"],
+      "explanation": "show somebody + how + to ...: show me how to use."
+    }
+  ]
+}

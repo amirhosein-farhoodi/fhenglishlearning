@@ -1,0 +1,168 @@
+{
+  "number": 53,
+  "title": "Verb + -ing (enjoy doing / stop doing etc.)",
+  "subtitle": "enjoy doing / stop doing",
+  "summary": "Use the -ing form after verbs like enjoy, mind, suggest, stop, finish, avoid and after give up, put off, go on and keep (on).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "enjoy / mind / suggest + -ing",
+      "text": "After **enjoy, mind** and **suggest**, we use **-ing** (not to ...). Some more verbs that are followed by -ing: **stop, finish, recommend, consider, admit, deny, avoid, risk, imagine, fancy**.",
+      "examples": [
+        { "text": "I **enjoy reading**.", "wrong": "I enjoy to read" },
+        { "text": "Would you **mind closing** the door?", "wrong": "mind to close" },
+        { "text": "Chris **suggested going** to the cinema.", "wrong": "suggested to go" },
+        { "text": "Suddenly everybody **stopped talking**. There was silence." },
+        { "text": "I'll do the shopping when I've **finished cleaning** the flat." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More examples, and the negative",
+      "text": "The negative form is **not -ing**.",
+      "examples": [
+        { "text": "He tried to **avoid answering** my question." },
+        { "text": "I don't **fancy going** out this evening.", "note": "= I'm not enthusiastic about it" },
+        { "text": "Have you ever **considered going** to live in another country?" },
+        { "text": "They said they were innocent. They **denied doing** anything wrong." },
+        { "text": "When I'm on holiday, I enjoy **not having** to get up early." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "give up / put off / go on / keep on + -ing",
+      "text": "We also use -ing after **give up** (= stop), **put off** (= delay until later), **go on** or **carry on** (= continue) and **keep** or **keep on** (= do something continuously or repeatedly).",
+      "examples": [
+        { "text": "I've **given up buying** newspapers. I don't read them any more." },
+        { "text": "You shouldn't **put off telling** him what happened. You need to tell him now." },
+        { "text": "Katherine doesn't want to retire. She wants to **go on working**.", "note": "or ... to carry on working" },
+        { "text": "You **keep interrupting** when I'm talking.", "note": "or You keep on interrupting ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + somebody + -ing",
+      "text": "With some verbs you can use the structure **verb + somebody + -ing**.",
+      "examples": [
+        { "text": "You can't **stop people doing** what they want." },
+        { "text": "I can't **imagine George riding** a motorbike." },
+        { "text": "Did she really say that? I don't **remember her saying** that." },
+        { "text": "Sorry to **keep you waiting** so long." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "having done",
+      "text": "When you talk about finished actions, you can say **having done / having stolen** etc. But it is not necessary to use having (done) - the simple -ing form is also fine.",
+      "examples": [
+        { "text": "They admitted **having stolen** the money.", "note": "or They admitted stealing the money." },
+        { "text": "I now regret **saying** that.", "note": "or I now regret having said that." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other structures with admit, deny, suggest, recommend",
+      "text": "After **admit, deny, suggest** and **recommend** you can also use a *that* clause instead of -ing.",
+      "examples": [
+        { "text": "They **denied (that) they had done** anything wrong.", "note": "= They denied doing ..." },
+        { "text": "Chris **suggested (that) we go** to the cinema.", "note": "= Chris suggested going ..." },
+        { "text": "I **recommend (that) you travel** by train.", "note": "= I recommend travelling ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn these as a group: enjoy, mind, suggest, stop, finish, avoid, fancy, consider, admit, deny, risk, imagine - all take -ing, never to ..."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I enjoy ___ to music.",
+      "options": ["listening", "to listen", "listen"],
+      "answer": 0,
+      "explanation": "After enjoy we use -ing: enjoy listening (not enjoy to listen)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Do you want to play tennis?' 'No, not really.' He didn't fancy ___.",
+      "hint": "(play / tennis)",
+      "answers": ["playing tennis"],
+      "explanation": "fancy is followed by -ing: didn't fancy playing tennis."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Let's go for a walk.' 'Good idea!' She suggested ___.",
+      "hint": "(go / for a walk)",
+      "answers": ["going for a walk"],
+      "explanation": "suggest is followed by -ing: suggested going (not suggested to go)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You caused the accident.' 'No, I didn't.' He denied ___.",
+      "hint": "(cause / the accident)",
+      "answers": ["causing the accident", "having caused the accident"],
+      "explanation": "deny is followed by -ing: denied causing the accident."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its meaning.",
+      "pairs": [
+        { "left": "give up", "right": "stop" },
+        { "left": "put off", "right": "delay until later" },
+        { "left": "carry on", "right": "continue" },
+        { "left": "keep on", "right": "do something again and again" },
+        { "left": "fancy", "right": "be enthusiastic about, want" },
+        { "left": "deny", "right": "say that you did not do something" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm trying to concentrate. Please stop ___ so much noise!",
+      "hint": "(make)",
+      "answers": ["making"],
+      "explanation": "stop + -ing: stop making so much noise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We need to change our routine. We can't go on ___ like this.",
+      "hint": "(live)",
+      "answers": ["living"],
+      "explanation": "go on (= continue) + -ing: go on living like this."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've put off ___ this bill so many times. I really must do it today.",
+      "options": ["paying", "to pay", "pay"],
+      "answer": 0,
+      "explanation": "put off (= delay) is followed by -ing: put off paying."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It's OK if you want to drive my car. Put the words in the right order.",
+      "words": ["I", "don't mind", "you", "driving", "it."],
+      "answer": "I don't mind you driving it.",
+      "explanation": "verb + somebody + -ing: I don't mind you driving it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Would you mind not ___ me all the time? Let me speak!",
+      "hint": "(interrupt)",
+      "answers": ["interrupting"],
+      "explanation": "The negative form after mind is not + -ing: mind not interrupting."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I'll be as quick as I can. Put the words in the right order.",
+      "words": ["I", "don't want", "to keep", "you", "waiting."],
+      "answer": "I don't want to keep you waiting.",
+      "explanation": "keep + somebody + -ing: keep you waiting."
+    },
+    {
+      "type": "true_false",
+      "statement": "They admitted having stolen the money.",
+      "answer": true,
+      "explanation": "Correct. For a finished action you can say having stolen (or simply admitted stealing the money)."
+    }
+  ]
+}

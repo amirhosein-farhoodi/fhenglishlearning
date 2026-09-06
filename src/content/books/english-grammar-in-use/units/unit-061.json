@@ -1,0 +1,165 @@
+{
+  "number": 61,
+  "title": "be/get used to ... (I'm used to ...)",
+  "subtitle": "I'm used to driving on the left",
+  "summary": "Use be/get used to something or doing something to say that something is not new or strange for you, and keep it apart from I used to do (a past habit).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Lisa's story",
+      "text": "Lisa is American, but she lives in Britain. When she first drove a car in Britain, driving on the left was a problem for her, because Americans drive on the right. She **wasn't used to it**. She **wasn't used to driving** on the left. But after some time, driving on the left became easier. She **got used to driving** on the left. Now it's no problem for Lisa: she **is used to driving** on the left.",
+      "examples": [
+        { "text": "At first: She **wasn't used to driving** on the left." },
+        { "text": "After some time: She **got used to driving** on the left." },
+        { "text": "Now: She **is used to driving** on the left." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "be / get used to",
+      "columns": ["Form", "Meaning", "Example"],
+      "rows": [
+        ["be used to something / doing something", "it is not new or strange for me", "He **is used to living** alone."],
+        ["get used to something / doing something", "it becomes normal for me", "We'll **get used to the noise**."],
+        ["not be used to something / doing something", "it is new or strange for me", "She **isn't used to getting up** so early."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I'm used to something = it is not new or strange for me",
+      "text": "Paul lives alone. He has lived alone for a long time, so it is not strange for him. He's used to it. He **is used to living** alone.",
+      "examples": [
+        { "text": "I bought some new shoes. They felt a little strange at first because I **wasn't used to them**." },
+        { "text": "Our new apartment is on a busy street. I expect we'll **get used to the noise**, but at the moment it's very disturbing." },
+        { "text": "Helen has a new job. She has to get up much earlier now than before - at 6.30. She finds this difficult because she **isn't used to getting up** so early." },
+        { "text": "Katherine's husband is often away from home. She doesn't mind this. She**'s used to him being** away." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "be/get used to doing (not to do)",
+      "text": "We say **be/get used to doing something** (not I'm used to do). When we say 'I am used to ...', **to** is a preposition, so the verb ends in -ing. Compare to + infinitive: *We don't want to live here.*",
+      "examples": [
+        { "text": "Lisa **is used to driving** on the left.", "wrong": "is used to drive" },
+        { "text": "I**'m used to living** alone.", "wrong": "I'm used to live" },
+        { "text": "We're not used to **the noise** / **it** / **living here**.", "wrong": "live here" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I am used to doing / I used to do",
+      "left": {
+        "label": "I am used to (doing) something",
+        "text": "= it isn't strange or new for me. Present or past: am/was used to.",
+        "examples": [
+          "I**'m used to** the weather here.",
+          "I**'m used to driving** on the left because I've lived in Britain a long time."
+        ]
+      },
+      "right": {
+        "label": "I used to do something",
+        "text": "= I did it regularly in the past but no longer do it. Only for the past.",
+        "examples": [
+          "I **used to drive** to work every day, but these days I usually go by bike.",
+          "We **used to live** just outside the town, but now we live near the centre."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "be/get used to + -ing (I'm used to working nights) is about what feels normal. used to + infinitive (I used to work nights) is a finished past habit."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Lisa has lived in Britain for years. She ___ on the left.",
+      "options": ["is used to driving", "is used to drive", "used to driving"],
+      "answer": 0,
+      "explanation": "be used to + -ing: is used to driving (not used to drive)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't feel good. I stayed up until 3 am. I'm not ___ to bed so late.",
+      "hint": "(used to / go)",
+      "answers": ["used to going"],
+      "explanation": "not be used to + -ing: I'm not used to going to bed so late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My feet hurt. I can't go any further. I'm not ___ so far.",
+      "hint": "(used to / walk)",
+      "answers": ["used to walking"],
+      "explanation": "It is new and hard for me: I'm not used to walking so far."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like this part of town. I've been here a long time, so I'm ___ here.",
+      "hint": "(used to / live)",
+      "answers": ["used to living"],
+      "explanation": "It is not strange for me any more: I'm used to living here."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about something that feels normal to the speaker (be used to doing) or about a past habit (used to do)?",
+      "categories": ["be used to doing - not strange for me", "used to do - a past habit"],
+      "items": [
+        { "text": "I'm used to the weather here.", "category": 0 },
+        { "text": "I used to drive to work every day.", "category": 1 },
+        { "text": "We used to live just outside the town.", "category": 1 },
+        { "text": "Lisa is used to driving on the left.", "category": 0 },
+        { "text": "He's used to living alone.", "category": 0 },
+        { "text": "Daniel used to drink a lot of coffee.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is a nurse. A year ago she started working nights. At first it was hard for her. It took her a few months to ___ it.",
+      "hint": "(get used to)",
+      "answers": ["get used to"],
+      "explanation": "get used to something = it becomes normal for you: took her a few months to get used to it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack has to drive two hours to work every morning. When he started this job, he ___ driving two hours to work, but after some time he got used to it.",
+      "hint": "(not / be used to)",
+      "answers": ["wasn't used to", "was not used to"],
+      "explanation": "At first it was strange for him: he wasn't used to driving two hours."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You sleep on the floor. It's OK for you - you have always slept on the floor. A friend asks: 'Wouldn't you prefer to sleep in a bed?' You: 'No, I'm used to ___.'",
+      "hint": "(sleep / on the floor)",
+      "answers": ["sleeping on the floor"],
+      "explanation": "be used to + -ing: I'm used to sleeping on the floor."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Kate moved from a big house to a much smaller one. She found it strange at first. Put the words in order.",
+      "words": ["She", "had to", "get used to", "living", "in a much smaller house."],
+      "answer": "She had to get used to living in a much smaller house.",
+      "explanation": "had to get used to + -ing: get used to living."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Daniel used to ___ a lot of coffee. Now he prefers tea.",
+      "options": ["drink", "drinking", "to drink"],
+      "answer": 0,
+      "explanation": "used to + infinitive for a past habit that has stopped: used to drink."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm the boss here! I'm not used to ___ told what to do.",
+      "options": ["being", "be", "to be"],
+      "answer": 0,
+      "explanation": "be used to + -ing; the passive -ing form is being told."
+    },
+    {
+      "type": "true_false",
+      "statement": "There used to be a school here, but it was knocked down a few years ago.",
+      "answer": true,
+      "explanation": "Correct. used to + infinitive (used to be) describes a past situation that no longer exists."
+    }
+  ]
+}

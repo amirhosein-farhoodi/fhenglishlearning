@@ -1,0 +1,181 @@
+{
+  "number": 74,
+  "title": "the 2 (school / the school etc.)",
+  "subtitle": "go to school / go to the school",
+  "summary": "Say school, hospital, prison, bed, work and home without the when you mean the general idea of the place, and use the when you mean a specific building.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "school or the school?",
+      "left": {
+        "label": "school (as a student)",
+        "text": "Ellie is ten years old. Every day she goes to school. We are not thinking of a specific school. We are thinking of school as a general idea - children learning in a classroom.",
+        "examples": [
+          "Every day Ellie **goes to school**.",
+          "She's **at school** now.",
+          "**School** starts at 9 and finishes at 3."
+        ]
+      },
+      "right": {
+        "label": "the school (a specific building)",
+        "text": "Today Ellie's mother wants to speak to her daughter's teacher. She is not a student, so she doesn't 'go to school'. She goes to the school - Ellie's school, a specific building.",
+        "examples": [
+          "She has gone to **the school** to see the teacher.",
+          "She's **at the school** now."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "prison, hospital, university, college",
+      "text": "We use prison (or jail), hospital, university, college and church in the same way. We do not use the when we are thinking of the general idea of these places and what they are used for - being a student, a patient or a prisoner. We use the when we mean a specific building, for example when we go there as a visitor.",
+      "examples": [
+        { "text": "When I leave school, I plan to **go to university** / **go to college**.", "note": "as a student" },
+        { "text": "I went to **the university** to meet Professor Thomas.", "note": "as a visitor, not as a student" },
+        { "text": "Joe had an accident last week. He was taken **to hospital**. He's still **in hospital** now.", "note": "as a patient" },
+        { "text": "Jane has gone to **the hospital** to visit Joe. She's **at the hospital** now.", "note": "as a visitor, not as a patient" },
+        { "text": "Ken's brother is **in prison** for robbery.", "note": "he is a prisoner - we are not thinking of a specific prison" },
+        { "text": "Ken went to **the prison** to visit his brother.", "note": "as a visitor, not as a prisoner" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "church, and most other places",
+      "text": "Church works the same way: go to church means go there for a religious service, and the church means the building. With most other places you need the: the station, the cinema, the bank.",
+      "examples": [
+        { "text": "Sarah's father **goes to church** every Sunday.", "note": "for a religious service" },
+        { "text": "Some workmen went to **the church** to repair the roof.", "note": "a specific building" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "bed",
+      "text": "We say go to bed / be in bed etc. (not the bed) when we are talking about sleeping or resting. We use the bed only for a specific piece of furniture.",
+      "examples": [
+        { "text": "I'm going **to bed** now. Goodnight.", "wrong": "to the bed" },
+        { "text": "Do you ever have breakfast **in bed**?" },
+        { "text": "I sat down on **the bed**.", "note": "a specific piece of furniture" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "work",
+      "text": "We say go to work / be at work / start work / finish work etc. - never the work.",
+      "examples": [
+        { "text": "Chris didn't **go to work** yesterday.", "wrong": "go to the work" },
+        { "text": "What time do you usually **finish work**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "home",
+      "text": "We say go home / come home / arrive home / get home (no to and no the), and be (at) home / do something at home.",
+      "examples": [
+        { "text": "It's late. Let's **go home**.", "wrong": "go to home" },
+        { "text": "I don't go out to work. I work **at home**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is the person there for the purpose of the place (a pupil at school, a patient in hospital, a prisoner in prison)? Then no the. A visitor goes to the school / the hospital / the prison."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "When he was younger, Ben hated ___, but he enjoys it now.",
+      "hint": "(school / the school)",
+      "answers": ["school"],
+      "explanation": "Ben was a pupil, so we mean school as a general idea: no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Neil left school and got a job. He didn't want to ___.",
+      "options": ["go to university", "go to the university", "go to universities"],
+      "answer": 0,
+      "explanation": "Going to university as a student is the general idea, so no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were some parents waiting outside ___ to meet their children.",
+      "hint": "(school / the school)",
+      "answers": ["the school"],
+      "explanation": "The parents are not pupils. They are outside a specific building: the school."
+    },
+    {
+      "type": "true_false",
+      "statement": "John's mother is a regular churchgoer. She goes to church every Sunday.",
+      "answer": true,
+      "explanation": "Correct. She goes for a religious service, so church without the."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the phrase that completes it.",
+      "pairs": [
+        { "left": "How do you usually go ... in the morning? By bus?", "right": "to work" },
+        { "left": "Sam likes to go to ... early and get up early.", "right": "bed" },
+        { "left": "I don't have my phone. I left it ...", "right": "at home" },
+        { "left": "'Have you seen my keys?' 'Yes, they're on ...'", "right": "the bed" },
+        { "left": "I like to read ... before going to sleep.", "right": "in bed" },
+        { "left": "It's nice to travel around, but there's no place ...", "right": "like home" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "When my friend was ill, I went to ___ to see her.",
+      "options": ["hospital", "the hospital", "a hospital"],
+      "answer": 1,
+      "explanation": "I went as a visitor, not as a patient, so we need the: the hospital."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw an accident. A woman was injured and was taken to ___.",
+      "hint": "(hospital / the hospital)",
+      "answers": ["hospital"],
+      "explanation": "She was taken there as a patient, so hospital without the."
+    },
+    {
+      "type": "true_false",
+      "statement": "There was a fire at prison. Firefighters were called to put it out.",
+      "answer": false,
+      "explanation": "There was a fire at the prison. We mean a specific building, not the idea of being a prisoner."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to ask when someone's working day ends.",
+      "words": ["What time", "do", "you", "usually", "finish", "work?"],
+      "answer": "What time do you usually finish work?",
+      "explanation": "finish work - never finish the work in this meaning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark didn't go out last night. He stayed ___.",
+      "hint": "(at / in / to + home)",
+      "answers": ["at home", "home"],
+      "explanation": "be at home / stay at home (or stay home, without at) - never the home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben never gets up before 9 o'clock. It's 8.30 now, so he is still ___.",
+      "hint": "(at / in / to + bed)",
+      "answers": ["in bed"],
+      "explanation": "be in bed (not in the bed) - we are talking about sleeping, not the piece of furniture."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need the? Sort the sentences.",
+      "categories": ["no the (school / hospital / prison)", "with the (the school / the hospital / the prison)"],
+      "items": [
+        { "text": "Why aren't your children at ... today? Are they ill?", "category": 0 },
+        { "text": "What was the name of ... you attended?", "category": 1 },
+        { "text": "My brother has always been healthy. He's never been in ...", "category": 0 },
+        { "text": "When I was visiting my friend, I met Lisa, who is a nurse at ...", "category": 1 },
+        { "text": "Why is she in ...? What crime did she commit?", "category": 0 },
+        { "text": "The village is very nice. You should visit ... It's interesting.", "category": 1 },
+        { "text": "Do you think too many people are sent to ...?", "category": 0 },
+        { "text": "How do your children get to and from ...? Do you take them?", "category": 0 }
+      ]
+    }
+  ]
+}

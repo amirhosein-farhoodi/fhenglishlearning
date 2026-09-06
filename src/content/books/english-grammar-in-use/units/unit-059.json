@@ -1,0 +1,164 @@
+{
+  "number": 59,
+  "title": "prefer and would rather",
+  "subtitle": "I prefer ... to ... / I'd rather ...",
+  "summary": "Say what you prefer in general (prefer X to Y) and in a specific situation (I'd prefer to ... / I'd rather ...), including I'd rather you did something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "prefer to ... and prefer -ing",
+      "text": "When you say what you prefer in general, you can use **prefer to ...** or **prefer -ing**. You can say **prefer something to something else**, **prefer doing something to doing something else** (or **rather than doing**), and **prefer to do something rather than (do) something else**.",
+      "examples": [
+        { "text": "I don't like cities. I **prefer to live** in the country.", "note": "or I prefer living in the country." },
+        { "text": "I **prefer** this coat **to** the other one." },
+        { "text": "I **prefer driving to travelling** by train.", "note": "or I prefer driving rather than travelling by train." },
+        { "text": "I **prefer to drive rather than travel** by train." },
+        { "text": "Sarah **prefers to live** in the country **rather than** in a city." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "would prefer (I'd prefer ...)",
+      "text": "We use **would prefer** to say what somebody wants in a *specific* situation (not in general). We say **would prefer to do** something (not usually would prefer doing).",
+      "examples": [
+        { "text": "'**Would you prefer** tea or coffee?' 'Coffee, please.'" },
+        { "text": "'Shall we go by train?' '**I'd prefer to drive**.'", "note": "= I would prefer ..." },
+        { "text": "**I'd prefer to stay** at home tonight **rather than go** to the cinema." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "would rather (I'd rather ...)",
+      "left": {
+        "label": "I'd prefer to do",
+        "text": "with to",
+        "examples": [
+          "'Shall we go by train?' '**I'd prefer to drive**.'",
+          "Which **would you prefer to do**, go to the cinema or go shopping?"
+        ]
+      },
+      "right": {
+        "label": "I'd rather do",
+        "text": "no to: I'd rather do (not to do)",
+        "examples": [
+          "'Shall we go by train?' '**I'd rather drive**.' (not to drive)",
+          "Which **would you rather do**, go to the cinema or go shopping?"
+        ]
+      },
+      "note": "I'd rather = I would rather. I'd rather do something = I'd prefer to do it."
+    },
+    {
+      "type": "explain",
+      "heading": "I'd rather not / I'd rather ... than ...",
+      "text": "The negative is **I'd rather not ...**. We say **I'd rather do one thing than do another**.",
+      "examples": [
+        { "text": "I'm tired. **I'd rather not go** out this evening, if you don't mind." },
+        { "text": "'Do you want to go out this evening?' '**I'd rather not**.'" },
+        { "text": "**I'd rather stay** at home tonight **than go** to the cinema." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I'd rather somebody did something",
+      "text": "We say **I'd rather you did something** (not I'd rather you do). We use the past (drove, did etc.) here, but the meaning is present, not past. **I'd rather you didn't (do something)** = I'd prefer you not to do it.",
+      "examples": [
+        { "text": "'Who's going to drive, you or me?' '**I'd rather you drove**.'", "note": "= I would prefer this" },
+        { "text": "'Jack says he'll repair your bike tomorrow, OK?' '**I'd rather he did** it today.'" },
+        { "text": "Are you going to tell Anna what happened, or **would you rather I told** her?" },
+        { "text": "I'd rather make dinner now. / **I'd rather you made** dinner now.", "wrong": "I'd rather you make" },
+        { "text": "**I'd rather you didn't** tell anyone what I said." },
+        { "text": "'Shall I tell Anna what happened?' '**I'd rather you didn't**.'" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "I'd prefer TO drive, but I'd rather drive (no to). And when somebody else does it: I'd rather YOU drove (past form, present meaning)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'Shall we go by train?' 'I'd rather ___.'",
+      "options": ["drive", "to drive", "driving"],
+      "answer": 0,
+      "explanation": "After would rather we use the infinitive without to: I'd rather drive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Would you like to watch TV?' 'I'd ___ to listen to some music.'",
+      "hint": "(one word)",
+      "answers": ["prefer"],
+      "explanation": "Before to + verb we need would prefer: I'd prefer to listen (I'd rather would need no to)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Do you want to go to a restaurant?' 'I'd rather ___ at home.'",
+      "hint": "(one word)",
+      "answers": ["eat", "stay"],
+      "explanation": "I'd rather + infinitive without to: I'd rather eat at home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What about a game of tennis?' 'I'd prefer ___ for a swim.'",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "would prefer is followed by to ...: I'd prefer to go for a swim."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You would like to listen to music, not watch TV. Put the words in order.",
+      "words": ["I'd rather", "listen", "to some music", "than", "watch", "TV."],
+      "answer": "I'd rather listen to some music than watch TV.",
+      "explanation": "I'd rather do one thing than do another: I'd rather listen ... than watch."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You would like to eat at home, not go to a restaurant. Put the words in order.",
+      "words": ["I'd prefer", "to eat", "at home", "rather than", "go", "to a restaurant."],
+      "answer": "I'd prefer to eat at home rather than go to a restaurant.",
+      "explanation": "With would prefer we use to ... and rather than: I'd prefer to eat at home rather than go ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "I prefer driving to travelling by train.",
+      "answer": true,
+      "explanation": "Correct. prefer doing something to doing something else is a general preference."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you going to pay the bill or would you rather ___?",
+      "hint": "(I / pay / it)",
+      "answers": ["I paid it"],
+      "explanation": "would you rather I did something - the past form with a present meaning: would you rather I paid it?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you going to phone Tina or would you rather ___?",
+      "hint": "(I / phone / her)",
+      "answers": ["I phoned her"],
+      "explanation": "I'd rather somebody did something: would you rather I phoned her?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "You can stay here if you want to, but I'd rather you ___ with us.",
+      "options": ["came", "come", "to come"],
+      "answer": 0,
+      "explanation": "I'd rather you did something - the verb is in the past form although the meaning is present: I'd rather you came."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is a private matter. I'd rather you ___ tell anybody else.",
+      "hint": "(one word)",
+      "answers": ["didn't", "did not"],
+      "explanation": "I'd rather you didn't (do something) = I'd prefer you not to do it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hate doing the shopping. I'd rather somebody else ___ it.",
+      "hint": "(do)",
+      "answers": ["did"],
+      "explanation": "I'd rather somebody did something: past form, present meaning."
+    }
+  ]
+}

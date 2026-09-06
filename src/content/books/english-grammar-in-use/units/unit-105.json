@@ -1,0 +1,177 @@
+{
+  "number": 105,
+  "title": "Comparative 1 (cheaper, more expensive etc.)",
+  "subtitle": "cheaper / more expensive",
+  "summary": "Form comparatives with -er for short words and more ... for longer words, and use the irregular forms better, worse and further.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Comparative forms",
+      "text": "How shall we travel? Shall we drive or go by train? *Let's drive. It's cheaper. Don't go by train. It's more expensive.* **Cheaper** and **more expensive** are comparative forms. After comparatives you can use **than**.",
+      "examples": [
+        { "text": "It's **cheaper** to drive **than** go by train." },
+        { "text": "Going by train is **more expensive than** driving." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "-er or more ...?",
+      "left": {
+        "label": "-er for short words (one syllable)",
+        "text": "Also for two-syllable words that end in -y (-y becomes -ier).",
+        "examples": [
+          "cheap → **cheaper**, fast → **faster**, large → **larger**, thin → **thinner**",
+          "lucky → **luckier**, early → **earlier**, easy → **easier**, pretty → **prettier**"
+        ]
+      },
+      "right": {
+        "label": "more ... for longer words (two syllables or more)",
+        "text": "Also for adverbs that end in -ly.",
+        "examples": [
+          "**more serious**, **more expensive**, **more often**, **more comfortable**",
+          "**more slowly**, **more seriously**, **more easily**, **more quietly**"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Compare these examples",
+      "left": {
+        "label": "-er",
+        "examples": [
+          "You're **older** than me.",
+          "The exam was quite easy - **easier** than I expected.",
+          "Can you walk a bit **faster**?",
+          "I'd like to have a **bigger** car.",
+          "Last night I went to bed **earlier** than usual."
+        ]
+      },
+      "right": {
+        "label": "more ...",
+        "examples": [
+          "You're **more patient** than me.",
+          "The exam was quite difficult - **more difficult** than I expected.",
+          "Can you walk a bit **more slowly**?",
+          "I'd like to have a **more reliable** car.",
+          "I don't play tennis much these days. I used to play **more often**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Both forms are possible",
+      "text": "We use both **-er** and **more ...** with some two-syllable adjectives, especially **clever, narrow, quiet, shallow, simple**.",
+      "examples": [
+        { "text": "It's too noisy here. Can we go somewhere **quieter**? or ... somewhere **more quiet**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular comparatives",
+      "columns": ["Adjective / adverb", "Comparative", "Example"],
+      "rows": [
+        ["good / well", "**better**", "The garden looks **better** since you tidied it up. I know him well - probably **better** than anybody else knows him."],
+        ["bad / badly", "**worse**", "'How's your headache? Better?' 'No, it's **worse**.' He did very badly in the exam - **worse** than expected."],
+        ["far", "**further** (or **farther**)", "It's a long walk from here to the park - **further** than I thought."]
+      ],
+      "note": "Further (but not farther) also means 'more' or 'additional': Let me know if you hear any further news."
+    },
+    {
+      "type": "tip",
+      "text": "Count the syllables: one syllable (or two ending in -y) takes -er; longer words and -ly adverbs take more. Never use both: not 'more cheaper'."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "This coffee is very weak. I like it ___.",
+      "hint": "(strong)",
+      "answers": ["stronger"],
+      "explanation": "Strong is a one-syllable adjective, so the comparative is stronger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The hotel was surprisingly cheap. I expected it to be ___.",
+      "hint": "(expensive)",
+      "answers": ["more expensive"],
+      "explanation": "Expensive has three syllables, so we use more expensive."
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do you make the comparative of these words?",
+      "categories": ["-er (cheaper)", "more ... (more expensive)"],
+      "items": [
+        { "text": "cheap", "category": 0 },
+        { "text": "serious", "category": 1 },
+        { "text": "thin", "category": 0 },
+        { "text": "comfortable", "category": 1 },
+        { "text": "lucky", "category": 0 },
+        { "text": "slowly", "category": 1 },
+        { "text": "easy", "category": 0 },
+        { "text": "often", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your work isn't very good. I'm sure you can do ___.",
+      "hint": "(good / well)",
+      "answers": ["better"],
+      "explanation": "The comparative of good and well is irregular: better."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sorry about my mistake. I'll try and be more ___ in future.",
+      "options": ["careful", "carefully", "carefuller"],
+      "answer": 0,
+      "explanation": "After be we need an adjective: more careful."
+    },
+    {
+      "type": "true_false",
+      "statement": "The exam was quite easy - more easy than I expected.",
+      "answer": false,
+      "explanation": "The exam was quite easy - easier than I expected. Two-syllable adjectives ending in -y take -ier."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Unfortunately the problem was ___ we thought at first.",
+      "hint": "(serious - use than)",
+      "answers": ["more serious than"],
+      "explanation": "Serious is a longer word: more serious, followed by than."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The journey takes four hours by car and five hours by train. Compare them.",
+      "words": ["The journey", "takes", "longer", "by train", "than", "by car."],
+      "answer": "The journey takes longer by train than by car.",
+      "explanation": "Long → longer; use than to compare the two ways of travelling."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry I don't understand. Can you speak ___, please?",
+      "hint": "(slowly)",
+      "answers": ["more slowly"],
+      "explanation": "Adverbs ending in -ly take more: more slowly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're too near the camera. Can you move a bit ___ away?",
+      "hint": "(far)",
+      "answers": ["further", "farther"],
+      "explanation": "The comparative of far is further (or farther)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I know him well - probably better than anybody else knows him.",
+      "answer": true,
+      "explanation": "Correct. Better is the comparative of well."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I expected my friends to arrive at about 4 o'clock. In fact they arrived at 2.30. Describe this.",
+      "words": ["My friends", "arrived", "earlier", "than", "I", "expected."],
+      "answer": "My friends arrived earlier than I expected.",
+      "explanation": "Early → earlier (a two-syllable word ending in -y)."
+    }
+  ]
+}

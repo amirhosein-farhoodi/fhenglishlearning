@@ -1,0 +1,176 @@
+{
+  "number": 116,
+  "title": "as (as I walked ... / as I was ... etc.)",
+  "subtitle": "as she drove away / as I was hungry",
+  "summary": "Use as to say that two things happen at the same time, or to mean 'because', and know when to use when instead.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "as = at the same time as",
+      "text": "You can use **as** when two things happen together at the same time. You can also say that something happened **as** you were doing something else (in the middle of doing it).",
+      "examples": [
+        { "text": "We all waved goodbye to Liz **as** she drove away.", "note": "we waved and she drove away at the same time" },
+        { "text": "**As** I walked along the street, I looked in the shop windows." },
+        { "text": "Can you turn off the light **as** you go out, please?" },
+        { "text": "Kate slipped **as** she was getting off the bus." },
+        { "text": "We met Paul **as** we were leaving the hotel." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "just as, and longer periods",
+      "text": "You can also use **just as** (= exactly at that moment). We also use **as** when two things happen together over a longer period of time - one develops while the other develops.",
+      "examples": [
+        { "text": "**Just as** I sat down, the doorbell rang." },
+        { "text": "I had to leave **just as** the conversation was getting interesting." },
+        { "text": "**As** the day went on, the weather got worse." },
+        { "text": "I began to enjoy the job more **as** I got used to it." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "as or when? (time)",
+      "left": {
+        "label": "as - two things happen at the same time",
+        "examples": [
+          "**As** I drove home, I listened to music. (= at the same time)"
+        ]
+      },
+      "right": {
+        "label": "when - one thing happens after another",
+        "examples": [
+          "**When** I got home, I had something to eat. (not as I got home)"
+        ]
+      },
+      "note": "We use as only if two things happen at the same time. Use when (not as) if one thing happens after another."
+    },
+    {
+      "type": "explain",
+      "heading": "as = because",
+      "text": "**As** also means 'because'. You can also use **since** in this way.",
+      "examples": [
+        { "text": "**As** I was hungry, I decided to find somewhere to eat.", "note": "= because I was hungry" },
+        { "text": "**As** it's late and we're tired, let's get a taxi home.", "note": "= because it's late ..." },
+        { "text": "We watched TV all evening **as** we didn't have anything better to do." },
+        { "text": "**As** I don't watch TV any more, I gave my television to a friend of mine." },
+        { "text": "**Since** it's late and we're tired, let's get a taxi home." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "as (= because) or when?",
+      "left": {
+        "label": "as = because",
+        "examples": [
+          "David wasn't in the office **as** he was on holiday. (= because he was on holiday)",
+          "**As** they lived near us, we used to see them quite often. (= because they lived near us)"
+        ]
+      },
+      "right": {
+        "label": "when = at the time that",
+        "examples": [
+          "David lost his passport **when** he was on holiday. (= during the time he was away)",
+          "**When** they lived near us, we used to see them quite often. (= at the time they lived near us)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "If you can replace as with 'while' the meaning is 'at the same time'; if you can replace it with 'because', it gives a reason. If neither works, you probably need when."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'As I was hungry, I decided to find somewhere to eat.' What does as mean here?",
+      "options": ["because", "at the same time as", "after"],
+      "answer": 0,
+      "explanation": "Here as gives the reason: because I was hungry."
+    },
+    {
+      "type": "matching",
+      "prompt": "In these sentences as means 'at the same time as'. Match the two halves.",
+      "pairs": [
+        { "left": "We all waved goodbye to Liz", "right": "as she drove away." },
+        { "left": "I listened", "right": "as she told me her story." },
+        { "left": "I burnt myself", "right": "as I was taking a hot dish out of the oven." },
+        { "left": "The spectators cheered", "right": "as the two teams came onto the field." },
+        { "left": "A dog ran out in front of the car", "right": "as we were driving along the road." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Today is a public holiday, so all government offices are shut. Say this with as (= because).",
+      "words": ["As", "today", "is", "a public holiday,", "all government offices", "are shut."],
+      "answer": "As today is a public holiday, all government offices are shut.",
+      "explanation": "As (= because) + the reason, then the result."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I can't go to the concert, so you can have my ticket. Say this with as (= because).",
+      "words": ["As", "I can't go", "to the concert,", "you", "can have", "my ticket."],
+      "answer": "As I can't go to the concert, you can have my ticket.",
+      "explanation": "As I can't go = because I can't go."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does as mean in each sentence?",
+      "categories": ["because", "at the same time as"],
+      "items": [
+        { "text": "As they lived near us, we used to see them quite often.", "category": 0 },
+        { "text": "Kate slipped as she was getting off the bus.", "category": 1 },
+        { "text": "As I was tired, I went to bed early.", "category": 0 },
+        { "text": "Unfortunately, as I was parking the car, I hit the car behind me.", "category": 1 },
+        { "text": "As we climbed the hill, we got more and more tired.", "category": 1 },
+        { "text": "We decided to go out to eat as we had no food at home.", "category": 0 },
+        { "text": "As we don't use the car very often, we've decided to sell it.", "category": 0 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "As the day went on, the weather got worse.",
+      "answer": true,
+      "explanation": "Correct. Two things developed together over a longer period, so as is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "Julia got married as she was 22.",
+      "answer": false,
+      "explanation": "Julia got married when she was 22. Being 22 is a point in time, not something happening at the same time or a reason."
+    },
+    {
+      "type": "true_false",
+      "statement": "He dropped the glass as he was taking it out of the cupboard.",
+      "answer": true,
+      "explanation": "Correct. It happened while he was in the middle of doing something else."
+    },
+    {
+      "type": "true_false",
+      "statement": "I used to live near the sea as I was a child.",
+      "answer": false,
+      "explanation": "I used to live near the sea when I was a child. Here we mean 'at the time that', not 'because' or 'at the same moment'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "David lost his passport ___ he was on holiday.",
+      "options": ["when", "as", "just as"],
+      "answer": 0,
+      "explanation": "We mean 'during the time he was away', so when. As would mean 'because', which makes no sense here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We watched TV all evening ___ we didn't have anything better to do.",
+      "hint": "(as / since - one word meaning 'because')",
+      "answers": ["as", "since"],
+      "explanation": "As (or since) = because: we watched TV because we had nothing better to do."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["When I left school, I didn't know what to do.", "As I left school, I didn't know what to do.", "Just as I left school, I didn't know what to do."],
+      "answer": 0,
+      "explanation": "Leaving school is a point in time after which something else was true, so when (not as) is correct."
+    }
+  ]
+}

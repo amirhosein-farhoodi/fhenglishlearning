@@ -1,0 +1,173 @@
+{
+  "number": 39,
+  "title": "if I knew ... / I wish I knew ...",
+  "subtitle": "if I knew / I wish I knew",
+  "summary": "Use if + past and wish + past to imagine a present situation that is not real, and put would in the other part of the sentence.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Sarah wants to phone Paul, but she can't do this because she doesn't know his number. Sarah doesn't know Paul's number, so she says 'if I knew'. She imagines what she would do if she knew his number.",
+      "examples": [
+        { "text": "**I'd phone** him **if I knew** his number.", "note": "I'd phone = I would phone" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if + past, but the meaning is present",
+      "text": "When we imagine a situation like this, we use **if + past** (if I knew / if you were / if we didn't etc.). But the meaning is present, not past.",
+      "examples": [
+        { "text": "There are many things I'd like to do **if I had** more time.", "note": "but I don't have time" },
+        { "text": "**If I didn't want** to go to the party, I wouldn't go.", "note": "but I want to go" },
+        { "text": "**If you were** in my position, what would you do?" },
+        { "text": "It's a pity he can't drive. It would be useful **if he could**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wish + past",
+      "text": "We use the past in the same way after **wish** (I wish I knew / I wish you were etc.). We use wish to say that we regret something - that something is not as we would like it to be.",
+      "examples": [
+        { "text": "**I wish I knew** Paul's phone number.", "note": "= I don't know it and I regret this" },
+        { "text": "Do you ever **wish you could** fly?", "note": "you can't fly" },
+        { "text": "It's very crowded here. **I wish there weren't** so many people.", "note": "there are a lot of people" },
+        { "text": "**I wish I didn't have** to work tomorrow, but unfortunately I do." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I'm glad or I wish?",
+      "left": {
+        "label": "I'm glad (it is true)",
+        "examples": ["**I'm glad I live** here. (I live here and that's good)"]
+      },
+      "right": {
+        "label": "I wish (it is not true)",
+        "examples": ["**I wish I lived** here. (I don't live here, unfortunately)"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "were or was",
+      "text": "After if and wish, you can use **were** instead of was (if I were / I wish it were etc.). You can also use was. Both are correct.",
+      "examples": [
+        { "text": "**If I were** you, I wouldn't buy that coat.", "note": "or If I was you, ..." },
+        { "text": "I'd go for a walk **if it weren't** so cold.", "note": "or ... if it wasn't so cold" },
+        { "text": "**I wish Anna were** here.", "note": "or I wish Anna was here" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "No would after if or wish",
+      "text": "We do not usually say 'if ... would'. We use **would ('d)** in the other part of the sentence. In the same way, we do not say 'I wish ... would have' or 'I wish ... would be'.",
+      "examples": [
+        { "text": "**If I were** rich, I would travel a lot.", "wrong": "If I would be rich" },
+        { "text": "Who would you ask **if you needed** help?", "wrong": "if you would need" },
+        { "text": "**I wish I had** something to read.", "wrong": "I wish I would have" },
+        { "text": "**I wish she were** here now.", "wrong": "I wish she would be" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "could = would be able to / was able to",
+      "text": "**Could** sometimes means 'would be able to' and sometimes 'was/were able to'.",
+      "examples": [
+        { "text": "She **could get** a better job if she **could speak** another language.", "note": "she could get = she would be able to get; if she could speak = if she was able to speak" },
+        { "text": "**I wish I could** help you.", "note": "I wish I could = I wish I was able" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After if and wish, a past form talks about now: I wish I knew = I don't know now. Keep would for the other part of the sentence."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sarah doesn't know Paul's number. She says: I'd phone him if I ___ his number.",
+      "options": ["knew", "know", "would know"],
+      "answer": 0,
+      "explanation": "An imagined present situation: if + past (knew). We don't use would in the if-part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ you if I could, but I'm afraid I can't.",
+      "hint": "(I / help)",
+      "answers": ["I'd help", "I would help"],
+      "explanation": "The if-part has could (past), so the other part takes would: I'd help you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We live in a city and don't need a car, but we would need one if ___ in the country.",
+      "hint": "(we / live)",
+      "answers": ["we lived"],
+      "explanation": "We don't live in the country, so we imagine it with if + past: if we lived in the country."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This soup isn't very nice. It ___ better if it wasn't so salty.",
+      "options": ["would taste", "tasted", "will taste"],
+      "answer": 0,
+      "explanation": "The if-part has the past (wasn't), so the main part uses would: it would taste better."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the sentence beginning I wish ...",
+      "pairs": [
+        { "left": "I don't know many people, and I'm lonely.", "right": "I wish I knew more people." },
+        { "left": "It's cold, and I hate cold weather.", "right": "I wish it wasn't so cold." },
+        { "left": "I'm not feeling well.", "right": "I wish I was feeling better." },
+        { "left": "I don't know much about science.", "right": "I wish I knew more about science." },
+        { "left": "Helen isn't here, and I need to see her.", "right": "I wish Helen were here." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd make a lot of changes if ___ the manager of the company.",
+      "hint": "(I / be)",
+      "answers": ["I was", "I were"],
+      "explanation": "After if, both was and were are possible: if I was / if I were the manager."
+    },
+    {
+      "type": "true_false",
+      "statement": "I wish I would have something to read.",
+      "answer": false,
+      "explanation": "I wish I had something to read. We don't say 'I wish ... would have'; use the past after wish."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I like these shoes but they're too expensive, so I'm not going to buy them. Write a sentence with if ...",
+      "words": ["I'd", "buy", "them", "if", "they", "weren't", "so expensive."],
+      "answer": "I'd buy them if they weren't so expensive.",
+      "explanation": "Would ('d) goes in the main part; the if-part takes the past: if they weren't so expensive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have to get up early tomorrow, but I'd prefer to sleep late. I wish I ___ to get up early tomorrow.",
+      "hint": "(not / have)",
+      "answers": ["didn't have", "did not have"],
+      "explanation": "Wish + past for a present situation we regret: I wish I didn't have to get up early."
+    },
+    {
+      "type": "true_false",
+      "statement": "She could get a better job if she could speak another language.",
+      "answer": true,
+      "explanation": "Correct. She could get = she would be able to get; if she could speak = if she was able to speak."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We all need jobs and money, but what ___ if you didn't have to work?",
+      "hint": "(you / do)",
+      "answers": ["would you do"],
+      "explanation": "The if-part is past (didn't have), so the question uses would: what would you do?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "I don't want his advice, and that's why I'm not going to ask for it. Write a sentence beginning If ...",
+      "words": ["If", "I", "wanted", "his advice,", "I'd", "ask", "for it."],
+      "answer": "If I wanted his advice, I'd ask for it.",
+      "explanation": "If + past (wanted) for the imagined situation, and would ('d) in the other part."
+    }
+  ]
+}

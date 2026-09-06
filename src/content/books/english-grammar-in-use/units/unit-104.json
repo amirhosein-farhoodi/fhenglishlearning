@@ -1,0 +1,167 @@
+{
+  "number": 104,
+  "title": "quite, pretty, rather and fairly",
+  "subtitle": "quite famous / rather cloudy / fairly big",
+  "summary": "Use quite, pretty, rather and fairly to say 'less than very' with the right shade of meaning, and recognise when quite means 'completely'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "quite and pretty",
+      "text": "**Quite** and **pretty** are similar in meaning: less than 'very', but more than 'a little'. Pretty is an informal word used mainly in spoken English. Quite goes *before* a/an; pretty goes after it.",
+      "examples": [
+        { "text": "I'm surprised you haven't heard of her. She's **quite famous**. or She's **pretty famous**." },
+        { "text": "Anna lives **quite near** me, so we see each other **pretty often**." },
+        { "text": "We live in **quite an old** house.", "wrong": "a quite old house" },
+        { "text": "Sarah has **quite a good** job. / Sarah has **a pretty good** job." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "quite a ..., quite a lot, quite like",
+      "text": "You can also use quite (but not pretty) with **quite a/an + noun** (without an adjective), **quite a lot (of ...)** and **quite + verb**, especially like and enjoy.",
+      "examples": [
+        { "text": "I didn't expect to see them. It was **quite a surprise**.", "note": "= quite a big surprise" },
+        { "text": "There were **quite a lot of** guests at the wedding." },
+        { "text": "I **quite like** tennis, but it's not my favourite sport." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "rather",
+      "text": "**Rather** is similar to quite and pretty. We often use rather for negative ideas (things we think are not good). When we use rather for positive ideas (good/nice etc.), it means 'unusually' or 'surprisingly'.",
+      "examples": [
+        { "text": "The weather isn't so good. It's **rather cloudy**." },
+        { "text": "Paul is **rather shy**. He doesn't talk very much." },
+        { "text": "These oranges are **rather good**. Where did you get them?", "note": "= surprisingly good" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "fairly",
+      "text": "**Fairly** is weaker than quite/rather/pretty. If something is fairly good, it is not very good and it could be better.",
+      "examples": [
+        { "text": "My room is **fairly big**, but I'd prefer a bigger one." },
+        { "text": "We see each other **fairly often**, but not as often as we used to." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "quite = completely",
+      "text": "Quite also means 'completely' with a number of adjectives, especially: **sure, right, true, clear, different, incredible, amazing, impossible, certain, wrong, safe, obvious, unnecessary, extraordinary**. We also use quite (= completely) with some verbs, and **not quite** = not completely.",
+      "examples": [
+        { "text": "'Are you sure?' 'Yes, **quite sure**.'", "note": "= completely sure" },
+        { "text": "She was **quite different** from what I expected. Everything they said was **quite true**." },
+        { "text": "I **quite agree** with you.", "note": "= I completely agree" },
+        { "text": "I don't **quite understand** what you mean. 'Are you ready yet?' '**Not quite**.'" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The two meanings of quite",
+      "left": {
+        "label": "less than 'very'",
+        "examples": ["The story is **quite interesting**.", "It's **quite cold**. You need a coat."]
+      },
+      "right": {
+        "label": "completely",
+        "examples": ["The story is **quite true**.", "It was **quite incredible**."]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "With 'gradable' adjectives (cold, big, good) quite means fairly; with 'absolute' adjectives (true, sure, impossible) quite means completely."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm ___. Is there anything to eat?",
+      "hint": "(quite + hungry)",
+      "answers": ["quite hungry"],
+      "explanation": "Quite + adjective = less than very, more than a little."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We go to the cinema ___ - maybe once a month.",
+      "hint": "(quite + often)",
+      "answers": ["quite often"],
+      "explanation": "Quite can go before an adverb: quite often."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We live in ___ house.",
+      "options": ["quite an old", "a quite old", "an quite old"],
+      "answer": 0,
+      "explanation": "Quite goes before a/an: quite an old house."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tom likes to sing. Complete the sentence about his voice.",
+      "words": ["He", "has", "quite", "a", "good", "voice."],
+      "answer": "He has quite a good voice.",
+      "explanation": "Quite comes before a/an: quite a good voice."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah has a quite good job.",
+      "answer": false,
+      "explanation": "Sarah has quite a good job (or a pretty good job). Quite goes before a/an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to bed ___ last night, so I'm a bit tired this morning.",
+      "hint": "(quite + late)",
+      "answers": ["quite late"],
+      "explanation": "Quite late = fairly late, less than very late."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The roads were busy. Complete the sentence.",
+      "words": ["There", "was", "quite", "a lot of", "traffic."],
+      "answer": "There was quite a lot of traffic.",
+      "explanation": "Quite a lot (of ...) - pretty is not possible here."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does quite mean in each sentence?",
+      "categories": ["more than 'a little', less than 'very'", "completely"],
+      "items": [
+        { "text": "It's quite cold. You need a coat.", "category": 0 },
+        { "text": "'Are you sure?' 'Yes, quite sure.'", "category": 1 },
+        { "text": "Anna's English is quite good.", "category": 0 },
+        { "text": "I couldn't believe it. It was quite incredible.", "category": 1 },
+        { "text": "My bedroom is quite big.", "category": 0 },
+        { "text": "I'm quite tired. I think I'll go to bed.", "category": 0 },
+        { "text": "I quite agree with you.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You won't fall. The ladder is ___.",
+      "hint": "(quite + safe)",
+      "answers": ["quite safe"],
+      "explanation": "Here quite means 'completely': the ladder is completely safe."
+    },
+    {
+      "type": "true_false",
+      "statement": "These oranges are rather good. Where did you get them?",
+      "answer": true,
+      "explanation": "Correct. With a positive idea, rather means 'unusually' or 'surprisingly' good."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm afraid I can't do what you ask. It's ___.",
+      "hint": "(quite + impossible)",
+      "answers": ["quite impossible"],
+      "explanation": "Quite impossible = completely impossible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think I saw them go out, but I'm not ___.",
+      "hint": "(quite + sure)",
+      "answers": ["quite sure"],
+      "explanation": "Not quite sure = not completely sure."
+    }
+  ]
+}

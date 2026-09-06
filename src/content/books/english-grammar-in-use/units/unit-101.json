@@ -1,0 +1,172 @@
+{
+  "number": 101,
+  "title": "Adjectives and adverbs 2 (well, fast, late, hard/hardly)",
+  "subtitle": "well, fast, late, hard / hardly",
+  "summary": "Use well as the adverb of good, know that fast, hard and late are both adjectives and adverbs, and understand that hardly means 'very little' or 'almost not'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "good and well",
+      "text": "**Good** is an adjective. The adverb is **well**. We also use well (not good) with past participles: **well-known, well-educated, well-paid, well-behaved**. Well is also an adjective meaning 'in good health'.",
+      "examples": [
+        { "text": "Your English is **good**. but You speak English **well**." },
+        { "text": "Sophie is a **good** pianist. but Sophie plays the piano **well**." },
+        { "text": "Sophie's father is a **well-known** writer." },
+        { "text": "'How are you today?' 'I'm very **well**, thanks.'" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "fast, hard and late: adjective and adverb",
+      "columns": ["Adjective", "Adverb"],
+      "rows": [
+        ["Darren is a **fast** runner.", "Darren can run **fast**."],
+        ["It's **hard** to find a job right now.", "Kate works **hard**. (not works hardly)"],
+        ["Sorry I'm **late**.", "I got up **late**."]
+      ],
+      "note": "lately = recently: Have you seen Kate lately?"
+    },
+    {
+      "type": "explain",
+      "heading": "hardly = very little, almost not",
+      "text": "**Hardly** is not the adverb of hard. It means 'very little' or 'almost not'. Compare **hard** (= a lot, with a lot of effort) and **hardly** (= very little). Hardly goes before the verb.",
+      "examples": [
+        { "text": "Sarah wasn't very friendly at the party. She **hardly spoke** to me.", "note": "= she spoke to me very little" },
+        { "text": "He tried **hard** to find a job, but he had no luck.", "note": "= he tried a lot" },
+        { "text": "I'm not surprised he didn't find a job. He **hardly tried**.", "note": "= he tried very little" },
+        { "text": "We **hardly know** each other.", "wrong": "We know each other hardly" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I can hardly ...",
+      "text": "**I can hardly do something** = it's very difficult for me, almost impossible.",
+      "examples": [
+        { "text": "Your writing is terrible. I **can hardly read** it.", "note": "= it is almost impossible to read it" },
+        { "text": "My leg was hurting. I **could hardly walk**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "hardly any / anybody / anything / anywhere / ever",
+      "text": "You can use **hardly + any/anybody/anyone/anything/anywhere** (= very little, almost none). **Hardly ever** = almost never.",
+      "examples": [
+        { "text": "*A:* How much money do we have? *B:* **Hardly any**.", "note": "= very little, almost none" },
+        { "text": "These two cameras are very similar. There's **hardly any** difference between them." },
+        { "text": "The exam results were bad. **Hardly anybody** in our class passed.", "note": "= very few students passed" },
+        { "text": "She was very quiet. She said **hardly anything**. or She **hardly said** anything." },
+        { "text": "I'm nearly always at home in the evenings. I **hardly ever** go out." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "hardly = certainly not",
+      "text": "**Hardly** also means 'certainly not'.",
+      "examples": [
+        { "text": "It's **hardly surprising** that you're tired. You haven't slept for three days.", "note": "= it's certainly not surprising" },
+        { "text": "The situation is serious, but it's **hardly a crisis**.", "note": "= it's certainly not a crisis" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Hard and hardly are not a pair like quick and quickly. 'He works hard' = a lot of effort; 'He hardly works' = almost never."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Joe's exam results were very ___. Joe did ___ in his exams.",
+      "options": ["good ... well", "well ... good", "good ... good", "well ... well"],
+      "answer": 0,
+      "explanation": "Good is the adjective (results were good); well is the adverb (he did well)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't sleep ___ last night.",
+      "hint": "(good / well)",
+      "answers": ["well"],
+      "explanation": "Well is the adverb: it says how I slept."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the well- word that completes it.",
+      "pairs": [
+        { "left": "I'm surprised you haven't heard of her. She is quite ...", "right": "well-known" },
+        { "left": "Our neighbours' garden is neat and tidy. It is very ...", "right": "well-kept" },
+        { "left": "I enjoyed the book. It's a great story and it's very ...", "right": "well-written" },
+        { "left": "Tanya knows about everything. She is very ...", "right": "well-informed" },
+        { "left": "Jane works very hard in her job, but she isn't very ...", "right": "well-paid" },
+        { "left": "The children were very good. They were ...", "right": "well-behaved" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Slow down! You're walking too ___ for me.",
+      "options": ["fast", "fastly", "quick"],
+      "answer": 0,
+      "explanation": "Fast is both an adjective and an adverb; there is no word 'fastly'."
+    },
+    {
+      "type": "true_false",
+      "statement": "I haven't been to the cinema late.",
+      "answer": false,
+      "explanation": "I haven't been to the cinema lately. Lately means 'recently'; late means 'not on time'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I tried ___ to remember her name, but I couldn't.",
+      "hint": "(hard / hardly)",
+      "answers": ["hard"],
+      "explanation": "I tried hard = I tried a lot, with a lot of effort. Hardly would mean 'almost not'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Scott and Tracy have only met once before. Put the words in order.",
+      "words": ["They", "hardly", "know", "each", "other."],
+      "answer": "They hardly know each other.",
+      "explanation": "Hardly goes before the verb: they hardly know each other."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're speaking very quietly. I can ___ you.",
+      "hint": "(hardly + hear)",
+      "answers": ["hardly hear"],
+      "explanation": "I can hardly hear you = it is almost impossible for me to hear you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't feel good this morning. I ___ last night.",
+      "hint": "(hardly + sleep)",
+      "answers": ["hardly slept"],
+      "explanation": "Hardly goes before the verb: I hardly slept = I slept very little."
+    },
+    {
+      "type": "true_false",
+      "statement": "This coat is practically unused. I've hard worn it.",
+      "answer": false,
+      "explanation": "I've hardly worn it. Hardly = very little, almost not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a very warm day and there was ___ wind.",
+      "hint": "(hardly + any / anybody / anything / anywhere / ever)",
+      "answers": ["hardly any"],
+      "explanation": "Hardly any wind = very little wind, almost none."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I listen to the radio a lot, but I ___ watch TV.",
+      "options": ["hardly ever", "hard ever", "hardly never"],
+      "answer": 0,
+      "explanation": "Hardly ever = almost never."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The hotel was almost empty. There was ___ staying there.",
+      "hint": "(hardly + any / anybody / anything / anywhere / ever)",
+      "answers": ["hardly anybody", "hardly anyone"],
+      "explanation": "Hardly anybody / hardly anyone = very few people."
+    }
+  ]
+}

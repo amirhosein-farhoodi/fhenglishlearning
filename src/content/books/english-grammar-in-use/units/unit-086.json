@@ -1,0 +1,201 @@
+{
+  "number": 86,
+  "title": "no/none/any; nothing/nobody etc.",
+  "subtitle": "no / none / any; nothing / nobody / nowhere",
+  "summary": "Use no + noun, none on its own and any after a negative verb, and use nothing/nobody/nowhere without adding a second negative.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "no + noun",
+      "text": "We use **no** + noun (no bus, no shops etc.). **no** = not a or not any. You can also put **no** + noun at the beginning of a sentence.",
+      "examples": [
+        { "text": "We had to walk home. There was **no** bus.", "note": "= There wasn't a bus." },
+        { "text": "Sarah will have **no** trouble finding a job.", "note": "= Sarah won't have any trouble ..." },
+        { "text": "There were **no** shops open.", "note": "= There weren't any shops open." },
+        { "text": "**No** reason was given for the change of plan." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "none - without a noun",
+      "text": "We use **none** when there is no noun after it, or **none of** + the/this/it/them etc. After **none of** + a plural noun, the verb can be singular or plural.",
+      "examples": [
+        { "text": "'How much money do you have?' '**None**.'", "note": "= no money" },
+        { "text": "All the tickets have been sold. There are **none** left.", "note": "= no tickets left" },
+        { "text": "This money is all yours. **None of** it is mine." },
+        { "text": "**None of** the students **were** happy. or **None of** the students **was** happy." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "no / none or any?",
+      "left": {
+        "label": "no / none",
+        "text": "with a noun, or alone",
+        "examples": [
+          "I have **no** luggage.",
+          "'How much luggage do you have?' '**None**.'"
+        ]
+      },
+      "right": {
+        "label": "any - after a negative verb",
+        "text": "not ... any = no",
+        "examples": [
+          "I **don't** have **any** luggage.",
+          "There **weren't any** shops open."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "nothing / nobody / no-one / nowhere",
+      "text": "You can use these words at the beginning of a sentence or alone, as answers to questions. You can also use them after a verb, especially after **be** and **have**.",
+      "examples": [
+        { "text": "'What's going to happen?' '**Nobody** knows. / **No-one** knows.'" },
+        { "text": "'What happened?' '**Nothing**.'" },
+        { "text": "'Where are you going?' '**Nowhere**. I'm staying here.'" },
+        { "text": "The house is empty. There's **nobody** living there." },
+        { "text": "We had **nothing** to eat." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "nothing = not + anything",
+      "text": "**nothing / nobody / nowhere** = not + anything / anybody / anywhere. With nothing/nobody etc. the verb stays positive - we do not add a negative verb (isn't, didn't etc.).",
+      "examples": [
+        { "text": "I said **nothing**.", "wrong": "I didn't say nothing", "note": "= I didn't say anything." },
+        { "text": "Jane told **nobody** about her plans.", "note": "= Jane didn't tell anybody about her plans." },
+        { "text": "They have **nowhere** to live.", "note": "= They don't have anywhere to live." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "they / them / their after nobody",
+      "text": "After **nobody / no-one** you can use **they / them / their**, so you do not have to say 'he or she'.",
+      "examples": [
+        { "text": "**Nobody** is perfect, are **they**?", "note": "= is he or she perfect?" },
+        { "text": "**No-one** did what I asked **them** to do.", "note": "= him or her" },
+        { "text": "**Nobody** in the class did **their** homework.", "note": "= his or her homework" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "no- or any-?",
+      "left": {
+        "label": "no- (= not any)",
+        "examples": [
+          "There was **no** bus, so we walked home.",
+          "'What do you want to eat?' '**Nothing**. I'm not hungry.'",
+          "It's a difficult job. **Nobody** wants to do it."
+        ]
+      },
+      "right": {
+        "label": "any- (= it doesn't matter which / what / who)",
+        "examples": [
+          "You can take **any** bus. They all go to the centre.",
+          "I'm so hungry. I could eat **anything**.",
+          "It's a very easy job. **Anybody** can do it."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "One negative is enough. Say I didn't see anybody or I saw nobody - never ~~I didn't see nobody~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We had to walk home. There were ___ taxis.",
+      "hint": "(no / none / any)",
+      "answers": ["no"],
+      "explanation": "no + noun: There were no taxis (= there weren't any taxis)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had to walk home. There weren't ___ taxis.",
+      "hint": "(no / none / any)",
+      "answers": ["any"],
+      "explanation": "After a negative verb (weren't) we use any: There weren't any taxis."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'How many eggs do we have?' '___. Shall I get some?'",
+      "options": ["None", "No", "Any"],
+      "answer": 0,
+      "explanation": "With no noun after it, we use none (= no eggs)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We took a few pictures, but ___ of them were very good.",
+      "hint": "(no / none / any)",
+      "answers": ["none"],
+      "explanation": "Before of them we use none, and the verb stays positive: none of them were very good."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the short answer that uses none / nobody / nothing / nowhere.",
+      "pairs": [
+        { "left": "What did you do at the weekend?", "right": "Nothing. It was very boring." },
+        { "left": "Who are you waiting for?", "right": "Nobody. I'm just standing here." },
+        { "left": "How much bread did you buy?", "right": "None. We already have enough." },
+        { "left": "Where are you going?", "right": "Nowhere. I'm staying here." },
+        { "left": "How much does it cost to get into the museum?", "right": "Nothing. It's free." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bus was completely empty. There was ___ on it.",
+      "hint": "(no- or any- + -body)",
+      "answers": ["nobody", "no-one", "no one"],
+      "explanation": "The verb is positive (was), so we need the negative word: There was nobody on it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "'Who are you waiting for?' Give the same answer as 'Nobody', but with a negative verb + anybody.",
+      "words": ["I'm", "not", "waiting", "for", "anybody."],
+      "answer": "I'm not waiting for anybody.",
+      "explanation": "not ... anybody = nobody: I'm not waiting for anybody."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't know ___ about economics.",
+      "options": ["anything", "nothing", "no"],
+      "answer": 0,
+      "explanation": "The verb is already negative (don't know), so we use anything, not nothing."
+    },
+    {
+      "type": "true_false",
+      "statement": "She didn't tell nobody about her plans.",
+      "answer": false,
+      "explanation": "She didn't tell anybody about her plans. (or She told nobody about her plans.) We do not use a negative verb with nobody."
+    },
+    {
+      "type": "true_false",
+      "statement": "The accident looked bad, but fortunately nobody was seriously injured.",
+      "answer": true,
+      "explanation": "Correct. nobody + a positive verb (was)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let's go away. We can go ___ you like.",
+      "hint": "(no- or any- + -where)",
+      "answers": ["anywhere"],
+      "explanation": "anywhere = it doesn't matter where: We can go anywhere you like."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the word in each sentence mean 'not any' or 'it doesn't matter which / what / who'?",
+      "categories": ["not any (no-)", "it doesn't matter which (any-)"],
+      "items": [
+        { "text": "There was no bus, so we walked home.", "category": 0 },
+        { "text": "You can take any bus. They all go to the centre.", "category": 1 },
+        { "text": "'What do you want to eat?' 'Nothing. I'm not hungry.'", "category": 0 },
+        { "text": "I'm so hungry. I could eat anything.", "category": 1 },
+        { "text": "It's a difficult job. Nobody wants to do it.", "category": 0 },
+        { "text": "It's a very easy job. Anybody can do it.", "category": 1 }
+      ]
+    }
+  ]
+}

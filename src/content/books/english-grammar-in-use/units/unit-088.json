@@ -1,0 +1,181 @@
+{
+  "number": 88,
+  "title": "all / all of; most / most of; no / none of etc.",
+  "subtitle": "most people / most of the people / most of them",
+  "summary": "Know when quantifiers like all, most, some and none need of (before the/my/these and it/us/them) and when they stand directly before a noun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "all / some / most / no + noun",
+      "text": "You can use **all, some, any, most, much, many, (a) little, (a) few, no** directly with a noun (some food, few books etc.). We do not say 'all of cars' or 'some of people'.",
+      "examples": [
+        { "text": "**All** cars have wheels." },
+        { "text": "**Some** cars can go faster than others." },
+        { "text": "**Many** people drive too fast." },
+        { "text": "I go away **most** weekends." },
+        { "text": "I feel really tired. I've got **no** energy." },
+        { "text": "**Some** people learn more easily than others.", "wrong": "Some of people" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some of / most of / none of + the / my / these ...",
+      "text": "Before **the, this, that, these, those, my, your** etc. we use **of**: some of the people, some of those people (but not some of people); most of my time, most of the time (but not most of time).",
+      "examples": [
+        { "text": "**Some of the** people I work with are very strange." },
+        { "text": "**None of this** money is mine." },
+        { "text": "Have you read **any of these** books?" },
+        { "text": "I was ill yesterday. I spent **most of the** day in bed." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "all and half - of is optional",
+      "text": "You don't need **of** after **all** or **half** when a noun follows.",
+      "examples": [
+        { "text": "**All my** friends live near here. or **All of my** friends ..." },
+        { "text": "**Half this** money is mine. or **Half of this** money ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "In general or a specific group?",
+      "left": {
+        "label": "In general - no of",
+        "examples": [
+          "**All** flowers are beautiful. (= all flowers in general)",
+          "**Most** problems have a solution. (= most problems in general)"
+        ]
+      },
+      "right": {
+        "label": "A specific group - with of",
+        "examples": [
+          "**All (of) these** flowers are beautiful. (= a specific group of flowers)",
+          "We were able to solve **most of the** problems we had. (= a specific group of problems)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "all of / some of / none of + it / us / you / them",
+      "text": "Before **it, us, you, them** you always need **of**: all of us, half of it, none of them.",
+      "examples": [
+        { "text": "*A:* Do you like this music? *B:* **Some of it**. Not all of it." },
+        { "text": "*A:* How many of these people do you know? *B:* **None of them**. / **A few of them**." },
+        { "text": "Do **any of you** want to come to a party tonight?", "note": "said to more than 2 people" },
+        { "text": "**All of us** were late.", "wrong": "all us" },
+        { "text": "I haven't finished the book yet. I've only read **half of it**.", "wrong": "half it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some / most / half alone",
+      "text": "We also use **some, most, half** etc. alone, without a noun.",
+      "examples": [
+        { "text": "**Some** cars have four doors and **some** have two." },
+        { "text": "A few of the shops were open, but **most** (of them) were closed." },
+        { "text": "Half this money is mine, and **half** (of it) is yours.", "wrong": "the half" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look at the next word. the / this / my / them after the quantifier? Then you need of (most of the time, none of them). A noun on its own? No of (most people)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "There were problems at the airport and some of flights were cancelled.",
+      "answer": false,
+      "explanation": "... some flights were cancelled. No of when the noun stands alone (some flights, not some of flights)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Some of the films I've seen recently have been very violent.",
+      "answer": true,
+      "explanation": "Correct. Before the ... we need of: some of the films."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you want any ___ or can I throw them away?",
+      "options": ["of these magazines", "these magazines", "of magazines"],
+      "answer": 0,
+      "explanation": "Before these we use of: any of these magazines."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Kate has lived in London ___ her life.",
+      "options": ["most of", "most", "the most"],
+      "answer": 0,
+      "explanation": "Before her we need of: most of her life."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I spend much ___ gardening.",
+      "hint": "(my spare time)",
+      "answers": ["of my spare time"],
+      "explanation": "much of + my ...: much of my spare time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many ___ are caused by bad driving.",
+      "hint": "(accidents)",
+      "answers": ["accidents"],
+      "explanation": "Accidents in general - no the, so no of: many accidents."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When Emily got married, she kept it a secret. She didn't tell any ___.",
+      "hint": "(her friends)",
+      "answers": ["of her friends"],
+      "explanation": "any of + her ...: any of her friends."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Not all ___ can fly. For example, the penguin can't fly.",
+      "hint": "(birds)",
+      "answers": ["birds"],
+      "explanation": "Birds in general - all birds (no of)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings with the endings (all of / some of / none of + it / them / us).",
+      "pairs": [
+        { "left": "'How many of these books have you read?'", "right": "'All of them. Every one.'" },
+        { "left": "We all got wet in the rain because", "right": "none of us had an umbrella." },
+        { "left": "Some of this money is yours and", "right": "some of it is mine." },
+        { "left": "Many of my friends have travelled a lot, but", "right": "none of them has ever been to Africa." },
+        { "left": "I watched most of the film, but", "right": "not all of it." },
+        { "left": "He told us his life story, but", "right": "none of it was true. It was all invented." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "I haven't finished the book yet. Put the words in order.",
+      "words": ["I've", "only", "read", "half", "of", "it."],
+      "answer": "I've only read half of it.",
+      "explanation": "You need of before it / us / you / them: half of it (not half it)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker talking about things in general or about a specific group?",
+      "categories": ["In general (all / most + noun)", "A specific group (all of / most of the ...)"],
+      "items": [
+        { "text": "All flowers are beautiful.", "category": 0 },
+        { "text": "All of these flowers are beautiful.", "category": 1 },
+        { "text": "Most problems have a solution.", "category": 0 },
+        { "text": "We were able to solve most of the problems we had.", "category": 1 },
+        { "text": "Many people drive too fast.", "category": 0 },
+        { "text": "Some of the people I work with are very strange.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Not all the tourists in the group were Spanish. ___ were French.",
+      "hint": "(some / them)",
+      "answers": ["Some of them"],
+      "explanation": "some of + them: Some of them were French."
+    }
+  ]
+}

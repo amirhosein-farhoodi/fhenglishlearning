@@ -1,0 +1,169 @@
+{
+  "number": 7,
+  "title": "Present perfect 1 (I have done)",
+  "subtitle": "I have done",
+  "summary": "Use the present perfect (have/has + past participle) for past actions that have a result now, and use it with just, already and yet.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Tom can't find his key. **He's lost** his key. (= He has lost ...) he has lost his key = he lost it and he doesn't have it now. have lost / has lost is the present perfect simple: **have/has + past participle**. The past participle often ends in **-ed** (finished/decided etc.), but many verbs are irregular (lost/done/written etc.).",
+      "examples": [
+        { "text": "**I've lost** my key.", "note": "= I lost it and I don't have it now" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "have / has", "past participle"],
+      "rows": [
+        ["I / we / you / they", "have (I've etc.)", "finished / lost / done / been"],
+        ["he / she / it", "has (he's etc.)", "finished / lost / done / been"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "New information with a result now",
+      "text": "When we say 'something **has happened**', this is usually new information. When we use the present perfect, there is a connection with *now*: the action in the past has a result now.",
+      "examples": [
+        { "text": "Ow! **I've cut** my finger." },
+        { "text": "The road is closed. **There's been** an accident.", "note": "= There has been ..." },
+        { "text": "Police **have arrested** two men in connection with the robbery." },
+        { "text": "Tom **has lost** his key.", "note": "= he doesn't have it now" },
+        { "text": "He told me his name, but **I've forgotten** it.", "note": "= I can't remember it now" },
+        { "text": "Sally is still here. She **hasn't gone** out.", "note": "= she is here now" },
+        { "text": "I can't find my bag. **Have you seen** it?", "note": "= do you know where it is now?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "gone (to) and been (to)",
+      "left": {
+        "label": "has gone to",
+        "text": "= is there now, or on the way there",
+        "examples": ["James is on holiday. He **has gone** to Italy."]
+      },
+      "right": {
+        "label": "has been to",
+        "text": "= went there and has now come back",
+        "examples": ["Amy is back home now. She **has been** to Italy."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "just, already and yet",
+      "text": "**just** = a short time ago. **already** = sooner than expected. **yet** = until now; we use it to show that we are expecting something to happen, and only in questions and negative sentences.",
+      "examples": [
+        { "text": "'Are you hungry?' 'No, **I've just had** lunch.'" },
+        { "text": "Hello. **Have you just arrived**?" },
+        { "text": "'Don't forget to pay the bill.' '**I've already paid** it.'" },
+        { "text": "'What time is Mark leaving?' '**He's already left**.'" },
+        { "text": "**Has** it **stopped** raining **yet**?" },
+        { "text": "I've written the email, but **I haven't sent** it **yet**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past simple is also possible",
+      "text": "You can also use the past simple (did, went, had etc.) in the examples in this lesson. Both forms are correct.",
+      "examples": [
+        { "text": "Ben isn't here. **He's gone** out. or **He went** out." },
+        { "text": "'Are you hungry?' 'No, **I've just had** lunch.' or 'No, **I just had** lunch.'" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "just and already go between have and the past participle (I've just had, he's already left); yet goes at the end of questions and negatives (Has it stopped yet?)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the sentence that describes the result now.",
+      "pairs": [
+        { "left": "Tom is looking for his key. He can't find it.", "right": "Tom has lost his key." },
+        { "left": "My bag was here, but it isn't here any more.", "right": "My bag has disappeared." },
+        { "left": "Lisa can't walk and her leg is in plaster.", "right": "Lisa has broken her leg." },
+        { "left": "Last week the bus fare was 1.80. Now it is 2.", "right": "The bus fare has gone up." },
+        { "left": "Dan didn't have a beard before. Now he has one.", "right": "Dan has grown a beard." },
+        { "left": "I washed my sweater, and now it's too small for me.", "right": "My sweater has shrunk." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maria's English wasn't very good. Now it is better. Her English ___.",
+      "hint": "(improve)",
+      "answers": ["has improved", "'s improved"],
+      "explanation": "A past change with a result now: has improved."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Hello! I've just ___ to the shops. I've bought lots of things.",
+      "options": ["been", "gone", "went"],
+      "answer": 0,
+      "explanation": "I went to the shops and I'm back now, so been (not gone)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tom has just ___ out. He'll be back in about an hour.",
+      "options": ["gone", "been", "go"],
+      "answer": 0,
+      "explanation": "Tom is out now (not back yet), so has gone."
+    },
+    {
+      "type": "true_false",
+      "statement": "James is on holiday in Italy right now. He has been to Italy.",
+      "answer": false,
+      "explanation": "He has gone to Italy - he is there now. has been to = went and has come back."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sally is still here. She hasn't gone out.",
+      "answer": true,
+      "explanation": "Correct. The present perfect tells us about the situation now: she is here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't find my bag. ___ anywhere?",
+      "hint": "(you / see / it)",
+      "answers": ["Have you seen it"],
+      "explanation": "Question: Have + subject + past participle. There is a connection with now (where is it now?)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't log on to the website. ___ my password.",
+      "hint": "(I / forget)",
+      "answers": ["I've forgotten", "I have forgotten"],
+      "explanation": "I forgot it and I can't remember it now: I've forgotten."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sent Joe an email this morning, but ___.",
+      "hint": "(he / not / reply)",
+      "answers": ["he hasn't replied", "he has not replied"],
+      "explanation": "Negative: hasn't + past participle. No reply until now."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Joe went out five minutes ago. The phone rings and the caller asks for him. What do you say?",
+      "words": ["I'm afraid", "he's", "just", "gone", "out."],
+      "answer": "I'm afraid he's just gone out.",
+      "explanation": "just = a short time ago, placed between has and the past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Lisa is looking for a place to live. Perhaps she has been successful. Ask her.",
+      "words": ["Have", "you", "found", "a place", "to live", "yet?"],
+      "answer": "Have you found a place to live yet?",
+      "explanation": "yet goes at the end of the question; it shows you expect it to happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___? *B:* Not yet. It starts next week.",
+      "hint": "(your course / start / yet)",
+      "answers": ["Has your course started yet"],
+      "explanation": "Has + subject + past participle, with yet at the end."
+    }
+  ]
+}

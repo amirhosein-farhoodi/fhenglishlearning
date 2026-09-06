@@ -1,0 +1,178 @@
+{
+  "number": 40,
+  "title": "if I had known ... / I wish I had known ...",
+  "subtitle": "if I had known / I wish I had known",
+  "summary": "Use if + had done and would have done to imagine a different past, and wish + had done to say you regret something that happened.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Last month Gary was in hospital for a few days. Rachel didn't know this. A few days ago they met by chance, and Rachel said she would have visited him. If I'd known = If I had known. This tells us that she didn't know before.",
+      "examples": [
+        { "text": "**If I'd known** you were in hospital, I **would have gone** to visit you.", "note": "= I didn't know, so I didn't go to visit you" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if + had done ... for the past",
+      "text": "We use **if + had ('d)** ... to talk about the past (if I'd known / if you'd done etc.). In the other part we use **would have** + past participle.",
+      "examples": [
+        { "text": "I didn't see you when you passed me in the street. **If I'd seen** you, I **would have said** hello." },
+        { "text": "They didn't go out last night. They **would have gone** out **if they hadn't been** so tired.", "note": "but they were tired" },
+        { "text": "**If you'd been looking** where you were going, you **wouldn't have walked** into the wall.", "note": "but you weren't looking" },
+        { "text": "The view was wonderful. I **would have taken** some pictures **if I'd had** a camera with me.", "note": "if I'd had = if I had had; but I didn't have a camera" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "now or past?",
+      "left": {
+        "label": "now: if I was ... I would ...",
+        "examples": ["I'm not hungry. **If I was** hungry, I **would eat** something."]
+      },
+      "right": {
+        "label": "past: if I had been ... I would have ...",
+        "examples": ["I wasn't hungry. **If I had been** hungry, I **would have eaten** something."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "No would have in the if-part",
+      "text": "We do not say 'if something would have happened'. We use **would** in the other part of the sentence. Be careful: the short form **'d** can be would or had.",
+      "examples": [
+        { "text": "**If I had seen** you, I would have said hello.", "wrong": "If I would have seen you" },
+        { "text": "**If I'd seen** you, ...", "note": "I'd seen = I had seen" },
+        { "text": "... **I'd have said** hello.", "note": "I'd have said = I would have said" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wish + had done",
+      "text": "We use had done/known/been etc. in the same way after **wish**. I wish something **had happened** = I am sorry that it didn't happen. I wish something **hadn't happened** = I am sorry that it happened. We do not say 'wish ... would have'.",
+      "examples": [
+        { "text": "**I wish I'd known** that Gary was ill. I would have gone to see him.", "note": "but I didn't know" },
+        { "text": "I feel sick. **I wish I hadn't eaten** so much.", "note": "I ate too much" },
+        { "text": "Do you **wish you'd studied** science instead of languages?", "note": "you didn't study science" },
+        { "text": "The weather was cold. **I wish it had been** warmer.", "wrong": "I wish it would have been" }
+      ],
+      "note": "Compare: I'm glad I saw him (= I saw him) and I wish I'd seen him (= I didn't see him)."
+    },
+    {
+      "type": "compare",
+      "heading": "would (do) or would have (done)?",
+      "left": {
+        "label": "would do (present result)",
+        "examples": ["If I'd gone to the party last night, **I would be** tired now. (I am not tired now - present)"]
+      },
+      "right": {
+        "label": "would have done (past result)",
+        "examples": ["If I'd gone to the party last night, **I would have met** lots of people. (I didn't meet lots of people - past)"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "would have, could have and might have",
+      "text": "After if + had done, you can also use **could have** (= would have been able to) and **might have** (= maybe would have).",
+      "examples": [
+        { "text": "If the weather hadn't been so bad, we **would have gone** out." },
+        { "text": "If the weather hadn't been so bad, we **could have gone** out.", "note": "= we would have been able to go out" },
+        { "text": "If the weather hadn't been so bad, we **might have gone** out.", "note": "= maybe we would have gone out" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Talking about a past that didn't happen? Use had done in the if-part and would have done in the other part - never would have in both."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Rachel didn't know Gary was in hospital. She says: If I'd known you were in hospital, I ___ to visit you.",
+      "options": ["would have gone", "would go", "had gone"],
+      "answer": 0,
+      "explanation": "A past situation that didn't happen: if + had known, and would have gone in the other part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thanks for reminding me about Lisa's birthday. ___ if you hadn't reminded me.",
+      "hint": "(I / forget)",
+      "answers": ["I'd have forgotten", "I would have forgotten"],
+      "explanation": "The if-part is past (hadn't reminded), so the result uses would have: I'd have forgotten."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah got to the station just in time to catch her train to the airport. If ___ the train, she would have missed her flight too.",
+      "hint": "(she / miss)",
+      "answers": ["she'd missed", "she had missed"],
+      "explanation": "Imagining a different past: if + had done (if she'd missed the train)."
+    },
+    {
+      "type": "true_false",
+      "statement": "If I would have seen you, I would have said hello.",
+      "answer": false,
+      "explanation": "If I had seen you, I would have said hello. We don't use would have in the if-part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Their trip was OK, but they would have enjoyed it more if the weather ___ better.",
+      "hint": "(be)",
+      "answers": ["had been"],
+      "explanation": "Past situation: the if-part takes had + past participle (had been)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The accident happened because the road was icy. Write a sentence beginning If ...",
+      "words": ["If", "the road", "hadn't been", "icy,", "the accident", "wouldn't have", "happened."],
+      "answer": "If the road hadn't been icy, the accident wouldn't have happened.",
+      "explanation": "If + hadn't been (past) and wouldn't have happened in the other part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You've painted the gate red. Now you think red was the wrong colour. You say: I wish ___ it red.",
+      "hint": "(I / not / paint)",
+      "answers": ["I hadn't painted", "I had not painted"],
+      "explanation": "I wish something hadn't happened = I am sorry that it happened: I wish I hadn't painted it red."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wasn't tired last night. If I ___ tired, I would have gone home earlier.",
+      "options": ["had been", "was", "would have been"],
+      "answer": 0,
+      "explanation": "Last night is past, so the if-part needs had been (not was, which is for now)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker imagining something about now, or about the past?",
+      "categories": ["About now (present)", "About the past"],
+      "items": [
+        { "text": "If I was hungry, I would eat something.", "category": 0 },
+        { "text": "If I had been hungry, I would have eaten something.", "category": 1 },
+        { "text": "If I'd gone to the party, I would be tired now.", "category": 0 },
+        { "text": "If I'd gone to the party, I would have met lots of people.", "category": 1 },
+        { "text": "I wish I hadn't eaten so much.", "category": 1 },
+        { "text": "I wish I knew his phone number.", "category": 0 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If I'd gone to the party last night, I would be tired now.",
+      "answer": true,
+      "explanation": "Correct. The if-part is past (I'd gone), but the result is about now, so would be is right."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You didn't have any breakfast - that's why you're hungry now. Write a sentence beginning If ...",
+      "words": ["If", "you'd had", "some", "breakfast,", "you", "wouldn't be", "hungry", "now."],
+      "answer": "If you'd had some breakfast, you wouldn't be hungry now.",
+      "explanation": "The if-part is past (you'd had), but the result is present (now), so wouldn't be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You decided to travel by car, but the journey was long and tiring. Going by train would have been better. You say: I wish ___ by train.",
+      "hint": "(we / go)",
+      "answers": ["we'd gone", "we had gone"],
+      "explanation": "A regret about the past: wish + had done (I wish we'd gone by train)."
+    }
+  ]
+}

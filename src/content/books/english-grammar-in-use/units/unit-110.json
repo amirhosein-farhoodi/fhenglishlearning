@@ -1,0 +1,196 @@
+{
+  "number": 110,
+  "title": "Word order 2: adverbs with the verb",
+  "subtitle": "Emily always drives / we were also hungry / I can never remember",
+  "summary": "Put adverbs like always, also and probably in the right place: before a one-word verb, after am/is/are/was/were, and after the first part of a two-word verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adverbs in the middle of a sentence",
+      "text": "Some adverbs (for example **always, also, probably**) go with the verb in the middle of a sentence, not at the beginning or the end.",
+      "examples": [
+        { "text": "Emily **always drives** to work." },
+        { "text": "We were feeling very tired and we **were also** hungry." },
+        { "text": "The meeting **will probably be** cancelled." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "One-word verbs and the verb be",
+      "left": {
+        "label": "Before a one-word verb (drives, cooked etc.)",
+        "text": "If the verb is one word, the adverb goes before it. These adverbs also go before **have to**.",
+        "examples": [
+          "Emily **always drives** to work.",
+          "I **almost fell** as I was going down the stairs.",
+          "I cleaned the house and **also cooked** the dinner. (not cooked also)",
+          "Laura **hardly ever watches** television and **rarely reads** newspapers.",
+          "'Shall I give you my address?' 'No, I **already have** it.'",
+          "Joe never phones me. I **always have to** phone him. (not I have always to phone)"
+        ]
+      },
+      "right": {
+        "label": "After am/is/are/was/were",
+        "text": "But adverbs go after the verb **be**.",
+        "examples": [
+          "We were feeling very tired and we **were also** hungry. (not also were)",
+          "You**'re always** late. You**'re never** on time.",
+          "The traffic **isn't usually** as bad as it was this morning."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Two or more verbs: adverb after the first verb",
+      "columns": ["Subject", "Verb 1", "Adverb", "Verb 2", "Rest"],
+      "rows": [
+        ["I", "can", "never", "remember", "her name."],
+        ["Clare", "doesn't", "usually", "drive", "to work."],
+        ["Are you", "-", "definitely", "going", "away next week?"],
+        ["The meeting", "will", "probably", "be", "cancelled."]
+      ],
+      "note": "If the verb is two or more words (can remember, will be cancelled), the adverb usually goes after the first verb (can / doesn't / will etc.)."
+    },
+    {
+      "type": "explain",
+      "heading": "More examples with two-word verbs",
+      "text": "The same rule works with the present perfect, with can't and with questions. Note that **probably** goes before a negative (isn't / won't etc.).",
+      "examples": [
+        { "text": "You**'ve always been** very kind to me." },
+        { "text": "Jack can't cook. He **can't even boil** an egg." },
+        { "text": "**Do** you **still work** for the same company?" },
+        { "text": "The house **was only built** a year ago and it**'s already falling** down." },
+        { "text": "I **probably won't** see you. or I**'ll probably not** see you.", "wrong": "I won't probably" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "all and both",
+      "text": "We also use **all** and **both** with the verb in the middle of a sentence. They follow the same rules as the adverbs above.",
+      "examples": [
+        { "text": "We **all felt** ill after the meal.", "wrong": "felt all ill" },
+        { "text": "My parents **are both** teachers." },
+        { "text": "Sarah and Jane **have both applied** for the job." },
+        { "text": "My friends **are all going** out tonight." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short forms with is / will / did",
+      "text": "Sometimes we use **is / will / did** etc. instead of repeating part of a sentence. When we do this, we put **always / never** etc. before the verb.",
+      "examples": [
+        { "text": "Tom says he isn't clever, but I think he **is**.", "note": "= he is clever" },
+        { "text": "He always says he won't be late, but he **always is**.", "note": "= he is always late" },
+        { "text": "I've never done it and I **never will**.", "note": "= I will never do it" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Quick rule: one verb - adverb before it (she always drives); am/is/are/was/were - adverb after it (she is always late); two verbs - adverb between them (she can always drive)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Helen ___ to work.",
+      "options": ["always drives", "drives always", "always is driving"],
+      "answer": 0,
+      "explanation": "With a one-word verb (drives), the adverb goes before the verb: Helen always drives to work."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm usually hungry when I get home from work.",
+      "answer": true,
+      "explanation": "Correct. Adverbs go after am/is/are: I'm usually hungry."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have usually a shower in the morning.",
+      "answer": false,
+      "explanation": "I usually have a shower in the morning. With a one-word verb (have), the adverb goes before it."
+    },
+    {
+      "type": "true_false",
+      "statement": "You don't listen! I have always to repeat things.",
+      "answer": false,
+      "explanation": "I always have to repeat things. Adverbs like always go before have to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Katherine ___ very generous.",
+      "hint": "(is / always)",
+      "answers": ["is always"],
+      "explanation": "Adverbs go after am/is/are: Katherine is always very generous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Martin is learning Spanish and he ___ Japanese.",
+      "hint": "(is / also / learning)",
+      "answers": ["is also learning", "'s also learning"],
+      "explanation": "With two verbs (is learning), the adverb goes after the first one: he is also learning Japanese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ to work on Sundays.",
+      "hint": "(don't / usually / have)",
+      "answers": ["don't usually have", "do not usually have"],
+      "explanation": "The adverb goes after the first verb (don't): I don't usually have to work on Sundays."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Mark and Amy", "were", "both", "born", "in", "Manchester."],
+      "answer": "Mark and Amy were both born in Manchester.",
+      "explanation": "Both goes after the first verb (were): were both born."
+    },
+    {
+      "type": "word_order",
+      "prompt": "How do you go to work? Ask if your friend goes by bus.",
+      "words": ["Do", "you", "usually", "go", "by bus?"],
+      "answer": "Do you usually go by bus?",
+      "explanation": "In a question the adverb goes after the first verb (do) and the subject: Do you usually go?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does the adverb go in each sentence? Sort the sentences by the rule they follow.",
+      "categories": ["Before a one-word verb", "After am/is/are/was/were", "After the first verb of two"],
+      "items": [
+        { "text": "Emily always drives to work.", "category": 0 },
+        { "text": "You're always late.", "category": 1 },
+        { "text": "I can never remember her name.", "category": 2 },
+        { "text": "We were also hungry.", "category": 1 },
+        { "text": "Laura hardly ever watches television.", "category": 0 },
+        { "text": "Do you still work for the same company?", "category": 2 },
+        { "text": "I always have to phone him.", "category": 0 },
+        { "text": "The meeting will probably be cancelled.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thanks for the invitation, but ___ able to come to the party.",
+      "hint": "(probably / I / be / won't)",
+      "answers": ["I probably won't be", "I probably will not be"],
+      "explanation": "Probably goes before a negative: I probably won't be able to come (not I won't probably be)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the sentence that follows it.",
+      "pairs": [
+        { "left": "What's her name again?", "right": "I can never remember it." },
+        { "left": "This shop is always busy.", "right": "You always have to wait a long time to be served." },
+        { "left": "We haven't moved.", "right": "We're still living in the same place." },
+        { "left": "Helen goes away a lot.", "right": "She's hardly ever at home." },
+        { "left": "Lisa is a good pianist.", "right": "She can also sing very well." },
+        { "left": "This could be the last time I see you.", "right": "We might never meet again." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tanya ___ that she'll phone me, but ___.",
+      "options": ["always says ... she never does", "says always ... she does never", "always says ... never she does", "says always ... she never does"],
+      "answer": 0,
+      "explanation": "Always goes before the one-word verb (always says), and when we use does instead of repeating the verb, never goes before it (she never does)."
+    }
+  ]
+}

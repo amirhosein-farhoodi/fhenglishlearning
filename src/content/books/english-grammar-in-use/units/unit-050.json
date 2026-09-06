@@ -1,0 +1,181 @@
+{
+  "number": 50,
+  "title": "Questions 2 (do you know where ... ? / he asked me where ...)",
+  "subtitle": "Do you know where ... ? / He asked me where ...",
+  "summary": "Put a question inside a longer sentence (Do you know ... ? / She asked me ...) and change the word order back to subject + verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Do you know where ... ?",
+      "text": "We say *Where has Tom gone?* But when the question is part of a longer sentence (*Do you know ... ? / I don't know ... / Can you tell me ... ?*), the word order changes. The subject comes before the verb, as in a normal statement.",
+      "examples": [
+        { "text": "Do you know **where Tom has gone**?", "wrong": "where has Tom gone" },
+        { "text": "Do you know **what time it is**?", "note": "direct question: What time is it?" },
+        { "text": "I don't know **who those people are**.", "note": "direct question: Who are those people?" },
+        { "text": "Can you tell me **where I can find** Louise?", "note": "direct question: Where can I find Louise?" },
+        { "text": "Do you have any idea **how much it will cost**?", "note": "direct question: How much will it cost?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Be careful with do/does/did",
+      "left": {
+        "label": "Direct question",
+        "text": "do/does/did is needed in the question.",
+        "examples": [
+          "What time **does** the film **start**?",
+          "What **do** you **mean**?",
+          "Why **did** she **leave** early?"
+        ]
+      },
+      "right": {
+        "label": "Inside a longer sentence",
+        "text": "No do/does/did. The verb changes back to its normal form.",
+        "examples": [
+          "Do you know what time the film **starts**? (not does the film start)",
+          "Please explain what you **mean**.",
+          "I wonder why she **left** early."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if or whether",
+      "text": "Use **if** or **whether** where there is no other question word (what, why, where etc.). This is for yes/no questions.",
+      "examples": [
+        { "text": "Did anybody see you? - I don't know **if anybody saw** me.", "note": "or ... whether anybody saw me" },
+        { "text": "Is Kate working tomorrow? - Do you know **whether Kate is working** tomorrow?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "He asked me where ...",
+      "text": "The same change in word order happens in questions in reported speech. The verb usually moves into the past (are - were, do - did etc.).",
+      "examples": [
+        { "text": "*direct:* The police officer said to us, 'Where **are you going**?'" },
+        { "text": "*reported:* The police officer asked us where **we were going**.", "wrong": "where were we going" },
+        { "text": "*direct:* Clare asked, 'What time **do the shops close**?'" },
+        { "text": "*reported:* Clare wanted to know what time **the shops closed**.", "wrong": "what time did the shops close" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting a job interview",
+      "text": "You had a job interview. The interviewer asked: *Are you willing to travel? What do you do in your spare time? How long have you been working in your present job? Why did you apply for the job? Can you speak any other languages? Do you have a driving licence?* Later you tell a friend what she asked:",
+      "examples": [
+        { "text": "She asked **if** (or **whether**) **I was willing** to travel." },
+        { "text": "She wanted to know **what I did** in my spare time." },
+        { "text": "She asked **how long I had been working** in my present job." },
+        { "text": "She asked **why I had applied** for the job.", "note": "or ... why I applied ..." },
+        { "text": "She wanted to know **if** (or **whether**) **I could speak** any other languages." },
+        { "text": "She asked **if** (or **whether**) **I had** a driving licence." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Inside *Do you know ... ? / I wonder ... / She asked ...* the question becomes a statement: subject first, then verb, and no do/does/did."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which is right?",
+      "options": [
+        "Do you know what time the film starts?",
+        "Do you know what time does the film start?",
+        "Do you know what time starts the film?"
+      ],
+      "answer": 0,
+      "explanation": "Inside Do you know ... ? the question becomes a statement: subject (the film) + verb (starts), with no does."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is right?",
+      "options": [
+        "Why Amy does get up so early every day?",
+        "Why Amy gets up so early every day?",
+        "Why does Amy get up so early every day?"
+      ],
+      "answer": 2,
+      "explanation": "This is a direct question, not part of a longer sentence, so it needs does: Why does Amy get up ... ?"
+    },
+    {
+      "type": "true_false",
+      "statement": "I want to know what does this word mean.",
+      "answer": false,
+      "explanation": "I want to know what this word means. After I want to know ... there is no does and the verb is means."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the correct order to make a direct question.",
+      "words": ["How", "far", "is", "it", "to the airport?"],
+      "answer": "How far is it to the airport?",
+      "explanation": "A direct question keeps question word order: How far is it ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't remember where ___ the car.",
+      "hint": "(I / park)",
+      "answers": ["I parked"],
+      "explanation": "After I can't remember where ... use statement order and no did: where I parked the car."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the correct order.",
+      "words": ["Do you", "know", "how long", "they", "have", "been", "married?"],
+      "answer": "Do you know how long they have been married?",
+      "explanation": "Inside Do you know ... ? the word order is subject + verb: they have been married."
+    },
+    {
+      "type": "matching",
+      "prompt": "You were visiting London and people asked you questions. Match each direct question with the way you reported it to a friend.",
+      "pairs": [
+        { "left": "Where are you from?", "right": "He asked me where I was from." },
+        { "left": "Do you like London?", "right": "She asked me if I liked London." },
+        { "left": "Where are you staying?", "right": "He asked me where I was staying." },
+        { "left": "How long are you going to stay?", "right": "She asked me how long I was going to stay." },
+        { "left": "Why did you come to London?", "right": "They asked me why I'd come to London." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone asked, 'How long have you been in London?' You report it: She asked me how long ___ in London.",
+      "hint": "(I / be)",
+      "answers": ["I'd been", "I had been"],
+      "explanation": "In reported speech the verb moves into the past: have been becomes had been, and the subject comes before the verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone asked, 'Have you been to London before?' You report it: They asked me ___ to London before.",
+      "hint": "(I / be) - a yes/no question, so start with if or whether",
+      "answers": ["if I'd been", "whether I'd been", "if I had been", "whether I had been"],
+      "explanation": "There is no question word, so use if or whether; the verb moves into the past: if I'd been / whether I had been."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is right?",
+      "options": [
+        "Do you know where does Helen work?",
+        "Do you know where Helen does work?",
+        "Do you know where Helen works?"
+      ],
+      "answer": 2,
+      "explanation": "No does inside Do you know ... ? - the verb takes its normal form: where Helen works."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the correct order. You are not sure if anyone was hurt.",
+      "words": ["I", "don't know", "whether", "anyone", "was", "injured", "in the accident."],
+      "answer": "I don't know whether anyone was injured in the accident.",
+      "explanation": "Yes/no questions inside a longer sentence use whether (or if) and statement word order."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone asked, 'Do you think London is expensive?' You report it: She asked me ___ London was expensive.",
+      "hint": "(I / think)",
+      "answers": ["if I thought", "whether I thought"],
+      "explanation": "A yes/no question is reported with if or whether, and the verb moves into the past: if I thought."
+    }
+  ]
+}

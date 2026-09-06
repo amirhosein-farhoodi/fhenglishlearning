@@ -1,0 +1,181 @@
+{
+  "number": 136,
+  "title": "Verb + preposition 5: in/into/with/to/on",
+  "subtitle": "believe in, crash into, fill with, happen to, insist on",
+  "summary": "Use in, into, with, to and on correctly after verbs such as believe, crash, provide, prefer and insist.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + in",
+      "text": "**believe in** something = believe that it exists, or believe that it is good to do it. **specialise in** and **succeed in** also take **in**.",
+      "examples": [
+        { "text": "Do you **believe in** God?", "note": "= do you believe that God exists?" },
+        { "text": "I **believe in** saying what I think.", "note": "= I believe it is right to say what I think" },
+        { "text": "Helen is a lawyer. She **specialises in** company law." },
+        { "text": "I hope you **succeed in** finding the job you want." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "believe in or believe?",
+      "left": {
+        "label": "believe IN something",
+        "text": "= believe that it exists / that it is a good thing",
+        "examples": [
+          "Do you **believe in** ghosts?",
+          "I **believe in** saying what I think."
+        ]
+      },
+      "right": {
+        "label": "believe something / somebody (no preposition)",
+        "text": "= believe that it is true / believe what they say",
+        "examples": [
+          "The story can't be true. I don't **believe it**. (not believe in it)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + into",
+      "text": "**break into** a house, **crash / drive / bump / run into** something, **divide / cut / split** something **into** two or more parts, and **translate** a book **from** one language **into** another.",
+      "examples": [
+        { "text": "Our house was **broken into** a few days ago, but nothing was stolen." },
+        { "text": "He lost control of the car and **crashed into** a wall." },
+        { "text": "The book is **divided into** three parts." },
+        { "text": "She's a famous writer. Her books have been **translated into** many languages." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + with",
+      "text": "**collide with** something, **fill** something **with** something, and **provide / supply somebody with** something. Note that the adjective is different: something is full of water, but you fill it with water.",
+      "examples": [
+        { "text": "There was an accident this morning. A bus **collided with** a car." },
+        { "text": "Take this saucepan and **fill it with** water." },
+        { "text": "The school **provides** all its students **with** books." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + to",
+      "text": "**happen to** somebody / something, **invite somebody to** a party or a wedding, and **prefer** one thing **to** another.",
+      "examples": [
+        { "text": "What **happened to** that gold watch you used to have?", "note": "= where is it now?" },
+        { "text": "They only **invited** a few people **to** their wedding." },
+        { "text": "I **prefer** tea **to** coffee." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + on",
+      "text": "**concentrate on** something, **insist on** (doing) something, and **spend** money **on** something.",
+      "examples": [
+        { "text": "I tried to **concentrate on** my work, but I kept thinking about other things." },
+        { "text": "I wanted to go alone, but some friends of mine **insisted on** coming with me." },
+        { "text": "How much do you **spend on** food each week?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Movement or change goes with **into**: crash into a wall, break into a house, divide into parts, translate into English."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I haven't seen Mike for ages. I wonder what has happened ___ him.",
+      "options": ["to", "with", "on"],
+      "answer": 0,
+      "explanation": "happen TO somebody / something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very large house. It's ___ four apartments.",
+      "hint": "(divide + preposition)",
+      "answers": ["divided into"],
+      "explanation": "divide / split / cut something INTO parts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We've been ___ the party, but unfortunately we can't go.",
+      "hint": "(invite + preposition)",
+      "answers": ["invited to"],
+      "explanation": "invite somebody TO a party / a wedding etc."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition is missing: in, into or with?",
+      "categories": ["in", "into", "with"],
+      "items": [
+        { "text": "I don't believe ___ ghosts.", "category": 0 },
+        { "text": "A burglar is someone who breaks ___ a house to steal things.", "category": 1 },
+        { "text": "Steve told me to fill the bucket ___ water.", "category": 2 },
+        { "text": "Helen specialises ___ company law.", "category": 0 },
+        { "text": "The teacher decided to split the class ___ four groups.", "category": 1 },
+        { "text": "The school provides all its students ___ books.", "category": 2 },
+        { "text": "Ben was injured when he collided ___ another player.", "category": 2 },
+        { "text": "I hope you succeed ___ getting what you want.", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "I don't mind big cities, but I prefer small towns. Say this in one sentence with prefer.",
+      "words": ["I", "prefer", "small towns", "to", "big cities."],
+      "answer": "I prefer small towns to big cities.",
+      "explanation": "prefer one thing TO another."
+    },
+    {
+      "type": "word_order",
+      "prompt": "This morning I bought a pair of shoes, which cost eighty pounds. Say this with spend.",
+      "words": ["This morning", "I", "spent", "eighty pounds", "on", "a pair of shoes."],
+      "answer": "This morning I spent eighty pounds on a pair of shoes.",
+      "explanation": "spend money ON something."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was amazed when I heard the news. I couldn't believe in it.",
+      "answer": false,
+      "explanation": "I couldn't believe it. believe something (no preposition) = believe that it is true. believe in = believe that something exists."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't try and do two things together. ___ one thing at a time.",
+      "hint": "(concentrate + preposition)",
+      "answers": ["Concentrate on"],
+      "explanation": "concentrate ON something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some things are difficult to translate from one language ___ another.",
+      "hint": "(preposition)",
+      "answers": ["into"],
+      "explanation": "translate FROM one language INTO another."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was quite cold, but Tom insisted on having the window open.",
+      "answer": true,
+      "explanation": "Correct. insist ON (doing) something."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        { "left": "Mark decided to give up sport to concentrate", "right": "on his studies." },
+        { "left": "My present job isn't wonderful, but I prefer it", "right": "to what I did before." },
+        { "left": "Patrick is a photographer. He specialises", "right": "in sports photography." },
+        { "left": "There was an awful noise as the car crashed", "right": "into a tree." },
+        { "left": "The company provided me", "right": "with all the information I needed." },
+        { "left": "Joe doesn't spend much money", "right": "on clothes." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The car in front of me stopped suddenly. Unfortunately I couldn't stop in time and ___ the back of it.",
+      "hint": "(drive + preposition)",
+      "answers": ["drove into"],
+      "explanation": "crash / drive / bump / run INTO something."
+    }
+  ]
+}

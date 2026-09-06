@@ -1,0 +1,181 @@
+{
+  "number": 29,
+  "title": "may and might 1",
+  "subtitle": "He may be / He might have been",
+  "summary": "Use may and might to say that something is possible now (may be) or was possible in the past (may have been), and know how they differ from couldn't.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "may / might = perhaps",
+      "text": "You are looking for Ben. Nobody is sure where he is, but you get some suggestions. We use **may** or **might** to say that something is possible. You can use may or might - the meaning is the same. The negative forms are **may not** and **might not**.",
+      "examples": [
+        { "text": "He **may be** in his office.", "note": "= perhaps he is in his office" },
+        { "text": "He **might be having** lunch.", "note": "= perhaps he is having lunch" },
+        { "text": "Ask Kate. She **might know**.", "note": "= perhaps she knows" },
+        { "text": "It **may be** true. or It **might be** true.", "note": "= perhaps it is true" },
+        { "text": "It **may not be** true. / She **might not know**.", "note": "= perhaps it isn't true / perhaps she doesn't know" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The structure: may / might (not) + ...",
+      "columns": ["may / might (not) +", "Example"],
+      "rows": [
+        ["be (true / in his office etc.)", "He **may be** in his office."],
+        ["be -ing (doing / working / having etc.)", "He **might be having** lunch."],
+        ["know / work / want etc.", "She **might not know**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "may be or maybe?",
+      "text": "Note the difference between **may be** (two words: may + verb) and **maybe** (one word = it's possible, perhaps).",
+      "examples": [
+        { "text": "It **may be** true.", "note": "may + verb" },
+        { "text": "'Is it true?' '**Maybe**. I'm not sure.'", "note": "maybe = perhaps" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past: may have / might have",
+      "text": "For the past we use **may have ...** or **might have ...** (+ past participle). The negative is may not have / might not have.",
+      "examples": [
+        { "text": "*A:* I wonder why Kate didn't answer her phone. *B:* She **may have been** asleep.", "note": "= perhaps she was asleep" },
+        { "text": "*A:* I can't find my phone anywhere. *B:* You **might have left** it at work.", "note": "= perhaps you left it at work" },
+        { "text": "*A:* Why wasn't Amy at the meeting yesterday? *B:* She **might not have known** about it.", "note": "= perhaps she didn't know" },
+        { "text": "*A:* I wonder why David was in such a bad mood yesterday. *B:* He **may not have been feeling** well.", "note": "= perhaps he wasn't feeling well" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The structure: may / might (not) have + ...",
+      "columns": ["may / might (not) have +", "Example"],
+      "rows": [
+        ["been (asleep / at home etc.)", "She **may have been** asleep."],
+        ["been -ing (doing / working / feeling etc.)", "He **may not have been feeling** well."],
+        ["known / had / wanted / left etc.", "You **might have left** it at work."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "could is similar - but couldn't is different",
+      "left": {
+        "label": "could = it is possible",
+        "text": "Could means the same as may / might.",
+        "examples": [
+          "It's a strange story, but it **could be** true. (= it is possible that it's true)",
+          "You **could have left** your phone at work. (= it's possible that you left it there)"
+        ]
+      },
+      "right": {
+        "label": "couldn't = it is not possible",
+        "text": "Couldn't is different from may not and might not.",
+        "examples": [
+          "Sarah **couldn't have received** my message. Otherwise she would have replied. (= it is not possible that she got my message)",
+          "Why hasn't Sarah replied to my message? I suppose she **might not have received** it. (= it's possible that she didn't receive it - perhaps she did, perhaps she didn't)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "might not = 'perhaps not'; couldn't = 'definitely not'. If you are sure something was impossible, use couldn't have, not might not have."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with the reply that fits it.",
+      "pairs": [
+        { "left": "Is there a bookshop near here?", "right": "I'm not sure, but ask Anna. She might know." },
+        { "left": "Where are those people from?", "right": "I don't know. They might be Brazilian." },
+        { "left": "I hope you can help me.", "right": "I'll try, but it may not be possible." },
+        { "left": "Why doesn't George answer his phone?", "right": "He might be driving." },
+        { "left": "Do you know anyone who has a key to this cupboard?", "right": "Rachel might have one, but I'm not sure." },
+        { "left": "Gary is in a strange mood today.", "right": "Yes, he is. He may not be feeling well." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Whose phone is this? B: It's not mine. It ___.",
+      "hint": "(may / might + be + Tom's)",
+      "answers": ["may be Tom's", "might be Tom's"],
+      "explanation": "A present possibility: may be / might be (= perhaps it is Tom's)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Is it true?' '___. I'm not sure.'",
+      "options": ["Maybe", "May be", "Might"],
+      "answer": 0,
+      "explanation": "Maybe (one word) means perhaps. May be (two words) is may + the verb be and needs a subject."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker talking about now or about the past?",
+      "categories": ["now", "the past"],
+      "items": [
+        { "text": "He might be having lunch.", "category": 0 },
+        { "text": "She may have been asleep.", "category": 1 },
+        { "text": "You might have left it at work.", "category": 1 },
+        { "text": "Ask Kate. She might know.", "category": 0 },
+        { "text": "He may not have been feeling well.", "category": 1 },
+        { "text": "It may not be true.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Gary said he would meet us in the cafe, but he isn't here. B: He might ___ outside. I'll go and look.",
+      "hint": "(wait)",
+      "answers": ["be waiting"],
+      "explanation": "Something possibly happening now: might be + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Who was the guy we saw with Anna yesterday? B: I'm not sure. It may ___ her brother.",
+      "hint": "(be)",
+      "answers": ["have been"],
+      "explanation": "Yesterday is past, so: may have been (= perhaps it was)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Is Ellie here? B: I can't see her. She may not ___ yet.",
+      "hint": "(arrive)",
+      "answers": ["have arrived"],
+      "explanation": "Perhaps she hasn't arrived: may not have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: I rang Dan's doorbell, but he didn't answer. I'm sure he was there. B: He might not ___ the doorbell.",
+      "hint": "(hear)",
+      "answers": ["have heard"],
+      "explanation": "A past possibility in the negative: might not have heard (= perhaps he didn't hear)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A: The man you spoke to - are you sure he was American? B: No, I'm not sure. ... Put the words in order to complete B's reply.",
+      "words": ["He", "might", "not", "have", "been", "American."],
+      "answer": "He might not have been American.",
+      "explanation": "Perhaps he wasn't American: might not have been."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: I wonder why Tom didn't come to the party. Perhaps he didn't want to come. B: It's possible. He ___ to come.",
+      "hint": "(might not have / couldn't have + want)",
+      "answers": ["might not have wanted"],
+      "explanation": "It's possible, but not certain, that he didn't want to come: might not have wanted."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: I wonder how the fire started. Was it an accident? B: No, the police say it ___ an accident. It was deliberate.",
+      "hint": "(might not have / couldn't have + be)",
+      "answers": ["couldn't have been", "could not have been"],
+      "explanation": "The police are sure it was not an accident, so it is not possible: couldn't have been."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mike says he tried to find you yesterday. - Well, he might not have tried very hard. I was in my office all day.",
+      "answer": false,
+      "explanation": "He couldn't have tried very hard. I was in my office all day, so it is not possible that he tried hard. Might not = perhaps not; couldn't = not possible."
+    }
+  ]
+}

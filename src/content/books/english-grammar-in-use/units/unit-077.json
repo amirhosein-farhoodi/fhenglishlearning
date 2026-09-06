@@ -1,0 +1,188 @@
+{
+  "number": 77,
+  "title": "Names with and without the 1",
+  "subtitle": "France / the United States; Everest / the Alps",
+  "summary": "Use no the with most names of people, countries, cities and mountains, but use the with oceans, rivers, deserts, plural names and names with Republic, Kingdom or States.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Names without the",
+      "columns": ["Type of name", "Examples"],
+      "rows": [
+        ["people", "Helen, Helen Taylor"],
+        ["continents", "Africa (not the Africa), South America"],
+        ["countries, states etc.", "France (not the France), Japan, Texas"],
+        ["islands", "Sicily, Tasmania"],
+        ["cities, towns etc.", "Cairo, Bangkok"],
+        ["mountains", "Everest, Kilimanjaro"]
+      ],
+      "note": "We do not use the with names of people, and in the same way we do not use the with most names of places."
+    },
+    {
+      "type": "explain",
+      "heading": "Republic, Kingdom, States",
+      "text": "But we normally use the in names that contain a word like Republic, Kingdom or States.",
+      "examples": [
+        { "text": "**the Czech Republic**, **the Dominican Republic**" },
+        { "text": "**the United Kingdom** (**the UK**)" },
+        { "text": "**the United States of America** (**the USA**)" },
+        { "text": "Have you been to **Canada** or **the United States**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Mr, Doctor, Captain, Mount, Lake",
+      "text": "When we use Mr/Ms/Captain/Doctor/President etc. + a name, we do not use the. The same is true of Uncle, Saint and Queen, and of Mount (= mountain) and Lake before a name.",
+      "examples": [
+        { "text": "We called **the doctor**. but We called **Doctor Johnson**.", "wrong": "the Doctor Johnson" },
+        { "text": "**Mr Johnson** / **Captain Johnson** / **President Johnson** / **Uncle Robert** / **Saint Catherine** / **Queen Catherine**" },
+        { "text": "They live near **the lake**. but They live near **Lake Superior**.", "wrong": "the Lake Superior" },
+        { "text": "**Mount Everest**, **Mount Etna**, **Lake Victoria**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Oceans, seas, rivers, canals, deserts: with the",
+      "text": "We use the with the names of oceans, seas, rivers and canals, and also with the names of deserts.",
+      "examples": [
+        { "text": "**the Atlantic** (Ocean), **the Indian Ocean**, **the Mediterranean** (Sea), **the Red Sea**" },
+        { "text": "**the Amazon**, **the Nile**, **the Suez Canal**" },
+        { "text": "**the Channel** (between France and Britain)" },
+        { "text": "**the Sahara** (Desert), **the Gobi Desert**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Plural names: with the",
+      "text": "We use the with plural names of people and places: families, countries with plural names, groups of islands and mountain ranges.",
+      "examples": [
+        { "text": "**the Taylors** (= the Taylor family), **the Johnsons**" },
+        { "text": "**the Netherlands**, **the Philippines**, **the United States**" },
+        { "text": "**the Canaries** (or **the Canary Islands**), **the Bahamas**" },
+        { "text": "**the Andes**, **the Alps**, **the Urals**" },
+        { "text": "The highest mountain in **the Andes** is (Mount) Aconcagua." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the north of Brazil / northern Brazil",
+      "left": {
+        "label": "the north / the southeast (of ...)",
+        "examples": [
+          "**the north** (of Brazil)",
+          "**the southeast** (of Spain)",
+          "Sweden is in northern Europe; Spain is in **the south**."
+        ]
+      },
+      "right": {
+        "label": "northern / southeastern + name (no the)",
+        "examples": [
+          "**northern Brazil**",
+          "**southeastern Spain**",
+          "**North America**, **South Africa**, **southeast Asia**"
+        ]
+      },
+      "note": "We also use north/south etc. without the in the names of some regions and countries. On maps, the is not usually included in a name."
+    },
+    {
+      "type": "tip",
+      "text": "Single names (France, Everest, Lake Superior) take no the. Plural names and names with Republic / Kingdom / States (the Alps, the Netherlands, the UK) take the."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Who is ___?",
+      "options": ["Doctor Johnson", "the Doctor Johnson", "a Doctor Johnson"],
+      "answer": 0,
+      "explanation": "No the before a title + name: Doctor Johnson."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the United States, the President is elected for four years.",
+      "answer": true,
+      "explanation": "Correct. President here is used alone, not as a title + name, so the President. And the United States takes the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ was assassinated in 1963.",
+      "options": ["President Kennedy", "The President Kennedy", "The Kennedy President"],
+      "answer": 0,
+      "explanation": "Title + name takes no the: President Kennedy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julia spent three years as a student in ___.",
+      "hint": "(United States / the United States)",
+      "answers": ["the United States"],
+      "explanation": "Names with States, Kingdom or Republic take the."
+    },
+    {
+      "type": "true_false",
+      "statement": "Milan and Turin are cities in north of Italy.",
+      "answer": false,
+      "explanation": "Milan and Turin are cities in the north of Italy. We say the north (of ...) but northern Italy."
+    },
+    {
+      "type": "true_false",
+      "statement": "Chicago is on Lake Michigan.",
+      "answer": true,
+      "explanation": "Correct. Lake + name takes no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "Next year we're going skiing in Swiss Alps.",
+      "answer": false,
+      "explanation": "Next year we're going skiing in the Swiss Alps. Mountain ranges are plural names and take the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The River Volga flows into ___.",
+      "hint": "(Caspian Sea - use the if necessary)",
+      "answers": ["the Caspian Sea"],
+      "explanation": "Names of seas take the: the Caspian Sea."
+    },
+    {
+      "type": "matching",
+      "prompt": "Geography quiz: match each question with its answer.",
+      "pairs": [
+        { "left": "What do you have to cross to travel from Europe to America?", "right": "the Atlantic" },
+        { "left": "Which is the longest river in Africa?", "right": "the Nile" },
+        { "left": "What is the name of the mountain range in the west of North America?", "right": "the Rockies" },
+        { "left": "What is the name of the sea between Africa and Europe?", "right": "the Mediterranean" },
+        { "left": "Which river flows through London?", "right": "the Thames" },
+        { "left": "What joins the Atlantic and Pacific Oceans?", "right": "the Panama Canal" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Of which country is Stockholm the capital? - ___",
+      "hint": "(Sweden / Denmark - use the if necessary)",
+      "answers": ["Sweden"],
+      "explanation": "Most country names take no the: Sweden."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the name take the? Sort these names.",
+      "categories": ["no the", "the"],
+      "items": [
+        { "text": "Everest", "category": 0 },
+        { "text": "Alps", "category": 1 },
+        { "text": "Africa", "category": 0 },
+        { "text": "Nile", "category": 1 },
+        { "text": "Lake Michigan", "category": 0 },
+        { "text": "Netherlands", "category": 1 },
+        { "text": "South Africa", "category": 0 },
+        { "text": "Indian Ocean", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say where the Seychelles are.",
+      "words": ["The Seychelles", "are", "a group", "of islands", "in", "the Indian Ocean."],
+      "answer": "The Seychelles are a group of islands in the Indian Ocean.",
+      "explanation": "A group of islands (plural name) and an ocean both take the."
+    }
+  ]
+}

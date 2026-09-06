@@ -1,0 +1,172 @@
+{
+  "number": 20,
+  "title": "I'm going to (do)",
+  "subtitle": "I'm going to do",
+  "summary": "Use I'm going to for things you have decided to do, and for things the present situation shows are going to happen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I am going to do something",
+      "text": "**I am going to do something** = I have already decided to do it, I intend to do it.",
+      "examples": [
+        { "text": "'**Are you going to eat** anything?' 'No, I'm not hungry.'" },
+        { "text": "*A:* I hear Sarah won the lottery. **What is she going to do** with the money? *B:* **She's going to buy** a new car." },
+        { "text": "**I'm just going to make** a quick phone call. Can you wait for me?" },
+        { "text": "This cheese smells horrible. **I'm not going to eat** it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "am / is / are", "going to + verb"],
+      "rows": [
+        ["I", "am (I'm) / am not", "going to buy"],
+        ["he / she / it", "is (she's) / isn't", "going to eat"],
+        ["we / you / they", "are (we're) / aren't", "going to do"]
+      ],
+      "note": "Questions: What is she going to do? Are you going to eat anything?"
+    },
+    {
+      "type": "compare",
+      "heading": "I am doing or I am going to do?",
+      "left": {
+        "label": "I am doing",
+        "text": "It is already fixed or arranged - for example, you have arranged to go somewhere or meet somebody.",
+        "examples": [
+          "**I'm leaving** next week. I've booked my flight.",
+          "What time **are you meeting** Emily this evening?",
+          "I don't know what **I'm doing** tomorrow. (= I don't know my schedule or plans)"
+        ]
+      },
+      "right": {
+        "label": "I am going to do",
+        "text": "I've decided to do it. Maybe I've arranged it, maybe not.",
+        "examples": [
+          "*A:* Your shoes are dirty. *B:* Yes, I know. **I'm going to clean** them. (= I've decided, but I haven't arranged this with anybody)",
+          "I don't want to stay here. Tomorrow **I'm going to look** for somewhere else to stay.",
+          "I don't know what **I'm going to do** about the problem. (= I haven't decided what to do)"
+        ]
+      },
+      "note": "Often the difference is small and either form is possible."
+    },
+    {
+      "type": "explain",
+      "heading": "Something is going to happen",
+      "text": "You can also say that something **is going to happen** in the future. Imagine a man who isn't looking where he is going. He is walking towards a wall now, so we can see that **he is going to walk** into it. When we say that something is going to happen, the situation *now* makes this clear.",
+      "examples": [
+        { "text": "Look at those black clouds! **It's going to rain.** (we can see the clouds now)" },
+        { "text": "I feel terrible. I think **I'm going to be** sick. (I feel terrible now)" },
+        { "text": "The economic situation is bad now and things **are going to get** worse." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I was going to do something",
+      "text": "**I was going to do something** = I intended to do it, but didn't do it. You can also say that something **was going to happen** (but didn't happen).",
+      "examples": [
+        { "text": "**We were going to travel** by train, but then we decided to drive instead." },
+        { "text": "**I was just going to cross** the road when somebody shouted 'Stop!'" },
+        { "text": "I thought **it was going to rain**, but it didn't." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Going to looks forward from a present decision or a present sign. If the plan is already fixed with other people (a flight, a meeting), I'm doing is the more natural choice."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I hear Sarah won the lottery. What ___ with the money?",
+      "options": ["is she going to do", "does she going to do", "she is going to do"],
+      "answer": 0,
+      "explanation": "Question form: what + is + subject + going to + verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend is going to a wedding next week. Ask: (what / wear?)",
+      "words": ["What", "are", "you", "going to", "wear?"],
+      "answer": "What are you going to wear?",
+      "explanation": "Question word + are you going to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'The car is very dirty.' 'I know. ___ it.'",
+      "hint": "(wash)",
+      "answers": ["I'm going to wash", "I am going to wash"],
+      "explanation": "A decision you have made: I'm going to wash it."
+    },
+    {
+      "type": "matching",
+      "prompt": "What is going to happen? Match each situation with the prediction.",
+      "pairs": [
+        { "left": "There are a lot of black clouds in the sky.", "right": "It's going to rain." },
+        { "left": "Tom has to be at work in 15 minutes, but the journey takes 30.", "right": "He's going to be late." },
+        { "left": "Water is coming in through a hole in the boat.", "right": "The boat is going to sink." },
+        { "left": "The tank is nearly empty and the petrol station is far away.", "right": "They're going to run out of petrol." },
+        { "left": "Sarah's car was badly damaged in an accident.", "right": "It's going to cost a lot to repair." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been offered a job, but ___ it. The pay is too low.",
+      "hint": "(not / accept)",
+      "answers": ["I'm not going to accept", "I am not going to accept"],
+      "explanation": "A negative intention: I'm not going to accept it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend has just bought a new table. Ask: (where / put?)",
+      "words": ["Where", "are", "you", "going to", "put", "it?"],
+      "answer": "Where are you going to put it?",
+      "explanation": "Where + are you going to + verb + object."
+    },
+    {
+      "type": "true_false",
+      "statement": "This cheese smells horrible. I don't going to eat it.",
+      "answer": false,
+      "explanation": "I'm not going to eat it. The negative is am/is/are + not + going to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a hole in the bottom of the boat. A lot of water is coming in. The boat ___.",
+      "hint": "(sink)",
+      "answers": ["is going to sink", "'s going to sink"],
+      "explanation": "The situation now makes it clear: The boat is going to sink."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which meaning does each sentence have?",
+      "categories": ["Already arranged (I am doing)", "Decided, not necessarily arranged (I am going to do)", "Intended but did not happen (I was going to do)"],
+      "items": [
+        { "text": "I'm leaving next week. I've booked my flight.", "category": 0 },
+        { "text": "Yes, I know my shoes are dirty. I'm going to clean them.", "category": 1 },
+        { "text": "We were going to travel by train, but we drove instead.", "category": 2 },
+        { "text": "What time are you meeting Emily this evening?", "category": 0 },
+        { "text": "Tomorrow I'm going to look for somewhere else to stay.", "category": 1 },
+        { "text": "I was just going to cross the road when somebody shouted 'Stop!'", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ some new clothes yesterday, but I didn't have time to go to the shops.",
+      "hint": "(buy)",
+      "answers": ["was going to buy"],
+      "explanation": "An intention that did not happen: I was going to buy."
+    },
+    {
+      "type": "true_false",
+      "statement": "I thought it was going to rain, but it didn't.",
+      "answer": true,
+      "explanation": "Correct. Was going to happen describes something that seemed likely in the past but didn't happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry I interrupted you. What ___?",
+      "hint": "(you / say)",
+      "answers": ["were you going to say"],
+      "explanation": "Past intention in a question: What were you going to say?"
+    }
+  ]
+}

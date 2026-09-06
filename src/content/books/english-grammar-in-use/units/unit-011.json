@@ -1,0 +1,164 @@
+{
+  "number": 11,
+  "title": "how long have you (been) ... ?",
+  "subtitle": "How long have you been ... ?",
+  "summary": "Use the present perfect (not the present) to say how long a present situation has continued: They have been married for 20 years.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Dan and Kate are married. They got married exactly 20 years ago, so today is their 20th wedding anniversary. **They have been married for 20 years.** We say: They *are* married (present), but **How long have they been married?** (present perfect). We use the present perfect to talk about something that began in the past and still continues now.",
+      "examples": [
+        { "text": "How long **have they been** married?", "wrong": "How long are they married?" },
+        { "text": "They **have been** married for 20 years.", "wrong": "They are married for 20 years" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present and present perfect",
+      "left": {
+        "label": "Present: the situation now",
+        "examples": [
+          "Paul **is** in hospital.",
+          "We **know** each other very well.",
+          "**Do they have** a car?",
+          "**She's waiting** for somebody."
+        ]
+      },
+      "right": {
+        "label": "Present perfect: how long / since when",
+        "examples": [
+          "**He's been** in hospital since Monday. (not Paul is in hospital since Monday)",
+          "**We've known** each other for a long time. (not We know)",
+          "How long **have they had** their car?",
+          "She **hasn't been waiting** very long."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Simple or continuous?",
+      "text": "**I've known / I've had / I've lived** etc. is the present perfect simple. **I've been learning / I've been waiting** etc. is the present perfect continuous. When we ask or say 'how long', the continuous is more usual. But some verbs (for example **know** and **like**) are not normally used in the continuous.",
+      "examples": [
+        { "text": "**I've been learning** English since January." },
+        { "text": "**It's been raining** all morning." },
+        { "text": "Richard **has been doing** the same job for 20 years." },
+        { "text": "'How long **have you been driving**?' 'Since I was 17.'" },
+        { "text": "How long **have you known** Jane?", "wrong": "have you been knowing" },
+        { "text": "**I've had** these shoes for ages.", "wrong": "I've been having" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "live and work",
+      "text": "You can use either the continuous or the simple with **live** and **work**. But we use the simple (have lived etc.) with **always**.",
+      "examples": [
+        { "text": "Julia **has been living** in this house for a long time. or Julia **has lived** ..." },
+        { "text": "How long **have you been working** here? or How long **have you worked** here?" },
+        { "text": "**I've always lived** in the country.", "wrong": "always been living" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I haven't ... since/for",
+      "text": "We say 'I haven't (done something) **since/for** ...' with the present perfect simple, to say when or how long ago the last time was.",
+      "examples": [
+        { "text": "I **haven't seen** Tom since Monday.", "note": "= Monday was the last time I saw him" },
+        { "text": "Sarah **hasn't phoned** for ages.", "note": "= the last time she phoned was ages ago" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A present tense says what the situation is (She's in Germany). As soon as you add how long, since or for, switch to the present perfect (She's been in Germany since Monday)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I like your house. How long ___ here?",
+      "options": ["have you lived", "do you live", "are you living"],
+      "answer": 0,
+      "explanation": "how long about a situation that continues now: present perfect (have you lived)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You'll need an umbrella if you go out now. ___.",
+      "options": ["It's raining", "It's been raining", "It rains"],
+      "answer": 0,
+      "explanation": "The situation now, with no how long: present continuous, It's raining."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The weather ___ awful since I arrived here.",
+      "options": ["has been", "is", "was"],
+      "answer": 0,
+      "explanation": "since I arrived = from then until now: present perfect, has been."
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul is in hospital since Monday.",
+      "answer": false,
+      "explanation": "Paul has been in hospital since Monday. With since we need the present perfect."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You know that Jane is a good friend of Katherine's. Ask Jane how long.",
+      "words": ["How long", "have", "you", "known", "Katherine?"],
+      "answer": "How long have you known Katherine?",
+      "explanation": "know is not used in the continuous, so the present perfect simple: have you known."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend's sister went to Australia some time ago and she's still there. Ask your friend.",
+      "words": ["How long", "has", "your sister", "been", "in Australia?"],
+      "answer": "How long has your sister been in Australia?",
+      "explanation": "She is still there, so: How long has she been in Australia?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match A's questions with B's answers.",
+      "pairs": [
+        { "left": "Is Paul married?", "right": "Yes, he's been married for ten years." },
+        { "left": "Do you still play tennis?", "right": "No, I haven't played tennis for years." },
+        { "left": "Are you waiting for the bus?", "right": "Yes, I've been waiting for about 20 minutes." },
+        { "left": "Jack is never ill, is he?", "right": "No, he hasn't been ill since I've known him." },
+        { "left": "Do you have a headache?", "right": "Yes, I've had a headache all morning." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Do you see Lisa very often?' 'No, I ___ her for three months.'",
+      "hint": "(not / see)",
+      "answers": ["haven't seen", "have not seen"],
+      "explanation": "I haven't (done something) for ...: present perfect simple, haven't seen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is Amy married?' 'Yes, she ___ married to a German guy.'",
+      "hint": "(be)",
+      "answers": ["'s", "is"],
+      "explanation": "No how long / for / since here - just the situation now: she is married."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Sue lives in Berlin, doesn't she?' 'Yes, she ___ in Berlin for many years.'",
+      "hint": "(live)",
+      "answers": ["'s lived", "has lived", "'s been living", "has been living"],
+      "explanation": "for many years: present perfect. With live, both simple and continuous are possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Would you like to go to New York one day?' 'Yes, I ___ to go to New York.'",
+      "hint": "(always / want)",
+      "answers": ["'ve always wanted", "have always wanted"],
+      "explanation": "always + present perfect simple: I've always wanted."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've always lived in the country.",
+      "answer": true,
+      "explanation": "Correct. With always we use the simple form have lived, not have been living."
+    }
+  ]
+}

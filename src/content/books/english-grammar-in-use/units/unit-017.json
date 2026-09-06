@@ -1,0 +1,163 @@
+{
+  "number": 17,
+  "title": "have and have got",
+  "subtitle": "I have / I've got",
+  "summary": "Use have or have got for possession, and have (never have got) for things you do, like have breakfast or have a shower.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "have and have got: no difference in meaning",
+      "text": "For possession, relationships, illnesses, appointments etc. you can use **have** or **have got**. There is no difference in meaning.",
+      "examples": [
+        { "text": "They **have** a new car. or They**'ve got** a new car." },
+        { "text": "Lisa **has** two brothers. or Lisa **has got** two brothers." },
+        { "text": "I **have** a headache. or I**'ve got** a headache." },
+        { "text": "Our house **has** a small garden. or Our house **has got** a small garden." },
+        { "text": "I **have** a driving lesson tomorrow. or I**'ve got** a driving lesson tomorrow." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "No continuous, and had in the past",
+      "text": "With these meanings (possession etc.) we do not use continuous forms (I'm having etc.). For the past we use **had**, usually without got.",
+      "examples": [
+        { "text": "We're enjoying our holiday. **We have / We've got** a nice room in the hotel.", "wrong": "We're having a nice room" },
+        { "text": "Lisa **had** long hair when she was a child.", "wrong": "Lisa had got" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions and negatives: three possible forms",
+      "columns": ["Question", "Negative"],
+      "rows": [
+        ["**Do you have** any questions?", "I **don't have** any questions."],
+        ["**Have you got** any questions?", "I **haven't got** any questions."],
+        ["Have you any questions? (less usual)", "I haven't any questions. (less usual)"],
+        ["**Does she have** a car?", "She **doesn't have** a car."],
+        ["**Has she got** a car?", "She **hasn't got** a car."]
+      ],
+      "note": "In past questions and negatives we use did / didn't: Did you have a car when you were living in Paris? I didn't have my phone, so I couldn't call you. Lisa had long hair, didn't she?"
+    },
+    {
+      "type": "explain",
+      "heading": "have breakfast / have a shower / have a good time",
+      "text": "We also use **have** (but not have got) for things we do or experience: have breakfast / dinner / a cup of coffee / something to eat; a bath / a shower / a swim / a break / a rest / a party / a holiday; an accident / an experience / a dream; a look (at something); a chat / a discussion / a conversation (with somebody); trouble / difficulty / fun / a good time; a baby (= give birth to a baby).",
+      "examples": [
+        { "text": "Sometimes I **have** (= eat) a sandwich for my lunch.", "wrong": "I've got" },
+        { "text": "but **I've got** / I have some sandwiches. Would you like one?", "note": "here have = possess, so have got is fine" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Continuous forms and do/does/did with these expressions",
+      "text": "Because these are actions, you *can* use continuous forms (I'm having etc.) with them. In questions and negative sentences we use **do/does/did**.",
+      "examples": [
+        { "text": "We're enjoying our holiday. **We're having** a great time." },
+        { "text": "'Where's Mark?' '**He's having** a shower.'" },
+        { "text": "I **don't usually have** a big breakfast.", "wrong": "I usually haven't" },
+        { "text": "Where **does** Chris usually **have** lunch?" },
+        { "text": "**Did you have** trouble finding somewhere to stay?", "wrong": "Had you" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "have got works only for things you possess or are affected by (a car, a sister, a cold, a lesson). If have means eat, take, spend or experience, only have is possible - and there it can be continuous."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which sentence goes with which?",
+      "pairs": [
+        { "left": "I'm not free tomorrow morning.", "right": "I've got a driving lesson." },
+        { "left": "Rachel is an only child.", "right": "She's got no brothers or sisters." },
+        { "left": "We've got plenty of time.", "right": "There's no need to hurry." },
+        { "left": "You've got a really good voice.", "right": "I wish I could sing as well as you." },
+        { "left": "I don't feel very well this morning.", "right": "I've got a sore throat." },
+        { "left": "Laura studied at university.", "right": "She's got a degree in physics." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can you say have got here, or only have?",
+      "categories": ["have or have got (possession etc.)", "have only (something you do)"],
+      "items": [
+        { "text": "a headache", "category": 0 },
+        { "text": "a shower", "category": 1 },
+        { "text": "two brothers", "category": 0 },
+        { "text": "breakfast", "category": 1 },
+        { "text": "a new car", "category": 0 },
+        { "text": "a party", "category": 1 },
+        { "text": "a driving lesson tomorrow", "category": 0 },
+        { "text": "a good time", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is there anything you'd like to ask? ___ any questions?",
+      "hint": "(you / have)",
+      "answers": ["Do you have", "Have you got"],
+      "explanation": "Present question about possession: Do you have ... ? or Have you got ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We got wet in the rain yesterday. We ___ an umbrella.",
+      "hint": "(not / have)",
+      "answers": ["didn't have", "did not have"],
+      "explanation": "Past negative uses didn't have (not hadn't got)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lisa had got long hair when she was a child.",
+      "answer": false,
+      "explanation": "Lisa had long hair when she was a child. In the past we use had, not had got."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Where's Mark?' '___ a shower.'",
+      "options": ["He's having", "He's got", "He has"],
+      "answer": 0,
+      "explanation": "Have a shower is an action, so the continuous is possible and have got is not: He's having a shower."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack ___ a car. He can't afford one and he can't drive anyway.",
+      "hint": "(not / have)",
+      "answers": ["doesn't have", "hasn't got", "does not have", "has not got"],
+      "explanation": "Present negative for possession: doesn't have or hasn't got."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Are you feeling OK?' 'No, I'm having a cold.'",
+      "answer": false,
+      "explanation": "No, I have a cold. or I've got a cold. An illness is a state, so no continuous form."
+    },
+    {
+      "type": "true_false",
+      "statement": "Was your trip OK? Had you any problems?",
+      "answer": false,
+      "explanation": "Did you have any problems? Past questions with have use did; Had you ... ? is unusual."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Joe is away on holiday at the moment. I hope he ___.",
+      "hint": "(have a nice time)",
+      "answers": ["is having a nice time", "'s having a nice time"],
+      "explanation": "Have a nice time is an experience, so the continuous form is used for now: he's having a nice time."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm not working right now. I'm having a break.",
+      "answer": true,
+      "explanation": "Correct. Have a break is an action, so the continuous form I'm having is fine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like to go away somewhere. I ___ for a long time.",
+      "hint": "(not / have a holiday)",
+      "answers": ["haven't had a holiday", "have not had a holiday"],
+      "explanation": "Present perfect of have a holiday: I haven't had a holiday for a long time."
+    }
+  ]
+}

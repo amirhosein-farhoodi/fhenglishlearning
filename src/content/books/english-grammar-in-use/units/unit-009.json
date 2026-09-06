@@ -1,0 +1,166 @@
+{
+  "number": 9,
+  "title": "Present perfect continuous (I have been doing)",
+  "subtitle": "I have been doing",
+  "summary": "Use have/has been + -ing for an activity that has just stopped or is still going on, especially with how long, for and since.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "It's been raining",
+      "text": "Is it raining? No, but the ground is wet. **It's been raining.** (= It has been ...) **have/has been + -ing** is the present perfect continuous. We use it for an activity that has recently stopped or just stopped - often you can see the result.",
+      "examples": [
+        { "text": "Why are you out of breath? **Have you been running**?" },
+        { "text": "Paul is very tired. **He's been working** hard." },
+        { "text": "Why are you so tired? What **have you been doing**?" },
+        { "text": "**I've been talking** to Amanda and she agrees with me." },
+        { "text": "Where have you been? **I've been looking** for you." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "have / has", "been + -ing"],
+      "rows": [
+        ["I / we / you / they", "have (I've etc.)", "been doing / working / learning"],
+        ["he / she / it", "has (he's etc.)", "been doing / working / learning"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It's been raining for two hours",
+      "text": "It began raining two hours ago and it is still raining. How long has it been raining? **It's been raining for two hours.** We use the present perfect continuous in this way, especially with **how long**, **for ...** and **since ...**. The activity is still happening or has just stopped.",
+      "examples": [
+        { "text": "How long **have you been learning** English?", "note": "= you're still learning English" },
+        { "text": "Ben is watching TV. **He's been watching** TV all day." },
+        { "text": "Where have you been? **I've been looking** for you for the last half hour." },
+        { "text": "Chris **hasn't been feeling** well recently." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Repeated actions",
+      "text": "You can also use the present perfect continuous for actions repeated over a period up to now.",
+      "examples": [
+        { "text": "Silvia is a very good tennis player. **She's been playing** since she was eight." },
+        { "text": "Every morning they meet in the same cafe. **They've been going** there for years." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I am doing and I have been doing",
+      "left": {
+        "label": "I am doing (present continuous)",
+        "text": "Happening now, at this moment.",
+        "examples": [
+          "Don't disturb me now. **I'm working**.",
+          "We need an umbrella. **It's raining**.",
+          "Hurry up! **We're waiting**."
+        ]
+      },
+      "right": {
+        "label": "I have been doing (present perfect continuous)",
+        "text": "An activity over a period up to now - still going on or just stopped.",
+        "examples": [
+          "**I've been working** hard. Now I'm going to have a break.",
+          "The ground is wet. **It's been raining**.",
+          "**We've been waiting** for an hour."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "If you can add for ... or since ..., or if the activity has just stopped and you can see the result, use have/has been + -ing rather than am/is/are + -ing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Ben is out of breath and sweating. He ___.",
+      "hint": "(run)",
+      "answers": ["'s been running", "has been running"],
+      "explanation": "The activity has just stopped and you can see the result: he's been running."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You have arrived a little late to meet Ben, who is waiting for you. Ask him.",
+      "words": ["Have", "you", "been", "waiting", "long?"],
+      "answer": "Have you been waiting long?",
+      "explanation": "Question: Have + subject + been + -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are in a shop and see Anna. You didn't know she worked there. Ask her.",
+      "words": ["How long", "have", "you", "been", "working", "here?"],
+      "answer": "How long have you been working here?",
+      "explanation": "how long + present perfect continuous for an activity still going on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We are waiting for the bus. We started waiting 20 minutes ago. We ___ for 20 minutes.",
+      "hint": "(wait)",
+      "answers": ["'ve been waiting", "have been waiting"],
+      "explanation": "Still waiting, with for + period: we've been waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jessica is working in a hotel. She started working there on 18 January. ___ since 18 January.",
+      "hint": "(She / work / there)",
+      "answers": ["She's been working there", "She has been working there"],
+      "explanation": "since + starting point: She's been working there since 18 January."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the action happening right now (am/is/are + -ing) or an activity over a period up to now (have/has been + -ing)?",
+      "categories": ["Now: am/is/are + -ing", "Up to now: have/has been + -ing"],
+      "items": [
+        { "text": "Don't disturb me now. I'm working.", "category": 0 },
+        { "text": "I've been working hard. Now I'm going to have a break.", "category": 1 },
+        { "text": "Hurry up! We're waiting.", "category": 0 },
+        { "text": "We've been waiting for an hour.", "category": 1 },
+        { "text": "We need an umbrella. It's raining.", "category": 0 },
+        { "text": "The ground is wet. It's been raining.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why ___ at me like that? Stop it!",
+      "options": ["are you looking", "have you been looking", "do you look"],
+      "answer": 0,
+      "explanation": "Happening at this moment: present continuous, are you looking."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel is a teacher. ___ for ten years.",
+      "hint": "(she / teach)",
+      "answers": ["She's been teaching", "She has been teaching"],
+      "explanation": "for ten years, and she is still a teacher: She's been teaching."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Is Paul on holiday this week?' 'No, ___.'",
+      "options": ["he's working", "he's been working", "he works"],
+      "answer": 0,
+      "explanation": "This week, now - a present situation: he's working."
+    },
+    {
+      "type": "true_false",
+      "statement": "Why are you out of breath? Are you running?",
+      "answer": false,
+      "explanation": "Have you been running? The running has just stopped; we can see the result (out of breath)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Laura ___ in South America for the last three months.",
+      "hint": "(travel)",
+      "answers": ["has been travelling", "'s been travelling"],
+      "explanation": "for the last three months = a period up to now: has been travelling."
+    },
+    {
+      "type": "true_false",
+      "statement": "Chris hasn't been feeling well recently.",
+      "answer": true,
+      "explanation": "Correct. recently = a period up to now, so the present perfect continuous is right."
+    }
+  ]
+}

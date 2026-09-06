@@ -1,0 +1,170 @@
+{
+  "number": 122,
+  "title": "on time and in time; at the end and in the end",
+  "subtitle": "on time / in time; at the end / in the end",
+  "summary": "Use on time for punctual and in time for soon enough; use at the end for the moment something finishes and in the end for the final result.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "on time and in time",
+      "left": {
+        "label": "on time = punctual, not late",
+        "text": "If something happens on time, it happens at the time that was planned.",
+        "examples": [
+          "The 11.45 train left **on time**. (= it left at 11.45)",
+          "Please be **on time**. Don't be late.",
+          "The conference was well-organised. Everything began and finished **on time**."
+        ]
+      },
+      "right": {
+        "label": "in time = soon enough",
+        "text": "We say in time for something or in time to do something.",
+        "examples": [
+          "Will you be home **in time** for dinner? (= soon enough for dinner)",
+          "I sent Amy a birthday present. I hope it arrives **in time**. (= on or before her birthday)",
+          "I'm in a hurry. I want to get home **in time** to watch the game on TV."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "too late and just in time",
+      "text": "The opposite of **in time** is **too late**. You can also say **just in time** when something was almost too late.",
+      "examples": [
+        { "text": "I got home **too late** to watch the game on TV." },
+        { "text": "We got to the station **just in time** for our train." },
+        { "text": "A child ran into the road in front of the car, but I managed to stop **just in time**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at the end (of something)",
+      "text": "**at the end of something** = at the time when something ends. We say at the end of the month, at the end of January, at the end of the game, at the end of the film, at the end of the course, at the end of the concert. We do not say ~~in the end of~~. The opposite is **at the beginning**.",
+      "examples": [
+        { "text": "I'm going away **at the end of** January / **at the end of** the month.", "wrong": "in the end of January" },
+        { "text": "**At the end of** the concert, everyone applauded." },
+        { "text": "The players shook hands **at the end of** the game." },
+        { "text": "I'm going away **at the beginning of** January.", "wrong": "in the beginning" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in the end = finally",
+      "text": "We use **in the end** when we say what the final result of a situation was. The opposite of in the end is **at first**.",
+      "examples": [
+        { "text": "We had a lot of problems with our car. We sold it **in the end**.", "note": "= finally we sold it" },
+        { "text": "He got more and more angry. **In the end** he just walked out of the room." },
+        { "text": "Alan couldn't decide where to go for his holidays. He didn't go anywhere **in the end**.", "wrong": "at the end" },
+        { "text": "**At first** we didn't get on very well, but **in the end** we became good friends." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The four phrases side by side",
+      "columns": ["Phrase", "Meaning", "Opposite"],
+      "rows": [
+        ["on time", "punctual, at the planned time", "late"],
+        ["in time (for / to do)", "soon enough", "too late"],
+        ["at the end (of something)", "when something ends", "at the beginning"],
+        ["in the end", "finally, as the final result", "at first"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you can add 'of something' after it (at the end of the film), you need at; if the phrase stands alone and means 'finally', you need in the end."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The film was supposed to start at 8.30, but it didn't begin ___.",
+      "options": ["on time", "in time", "at time"],
+      "answer": 0,
+      "explanation": "on time = at the planned time (8.30). The film was late, so it didn't begin on time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We nearly missed our train. We got to the station just ___.",
+      "hint": "(on time / in time)",
+      "answers": ["in time"],
+      "explanation": "just in time = almost too late but soon enough. We arrived soon enough for the train."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which phrase completes each sentence: on time or in time?",
+      "categories": ["on time", "in time"],
+      "items": [
+        { "text": "The train service isn't very good. The trains are rarely ... .", "category": 0 },
+        { "text": "We want to start the meeting ... , so please don't be late.", "category": 0 },
+        { "text": "I've just washed this shirt. I hope it will be dry ... for this evening.", "category": 1 },
+        { "text": "I almost forgot Joe's birthday. Fortunately I remembered ... .", "category": 1 },
+        { "text": "Why are you never ... ? You always keep everybody waiting.", "category": 0 },
+        { "text": "The new stadium will be ready ... for the tournament later this year.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You were walking home. Just after you got home, it started to rain very heavily. Say what happened using just in time.",
+      "words": ["I", "got", "home", "just", "in time."],
+      "answer": "I got home just in time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You were late for the cinema, but the film began just as you sat down. Say what happened using just in time.",
+      "words": ["We", "got", "to the cinema", "just in time", "for the beginning", "of the film."],
+      "answer": "We got to the cinema just in time for the beginning of the film."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the phrase that completes it (at the end of ...).",
+      "pairs": [
+        { "left": "The players shook hands ...", "right": "at the end of the game" },
+        { "left": "I get paid ...", "right": "at the end of the month" },
+        { "left": "The students had a party ...", "right": "at the end of the course" },
+        { "left": "Two of the runners collapsed ...", "right": "at the end of the race" },
+        { "left": "I was surprised when I was offered the job ...", "right": "at the end of the interview" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It took Gary a long time to find work. ___ the end he got a job as a bus driver.",
+      "hint": "(at / in)",
+      "answers": ["In"],
+      "explanation": "in the end = finally. This is the final result, so: In the end he got a job."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm going away in the end of January.",
+      "answer": false,
+      "explanation": "I'm going away at the end of January. We say at the end of something, never 'in the end of'."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had a few problems at first, but in the end everything was OK.",
+      "answer": true,
+      "explanation": "Correct. at first ... in the end: in the end gives the final result of the situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We waited ages for a bus. ___ we had to get a taxi.",
+      "hint": "(at the end / in the end)",
+      "answers": ["In the end"],
+      "explanation": "The final result of waiting was getting a taxi, so: In the end we had to get a taxi."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Anna got more and more fed up with her job. Say what happened in the end (resign).",
+      "words": ["In the end", "she", "resigned", "from", "her job."],
+      "answer": "In the end she resigned from her job.",
+      "alternatives": ["She resigned from her job in the end."]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Are you going away ___ the beginning of August or ___ the end?",
+      "options": ["at ... at", "in ... in", "at ... in", "in ... at"],
+      "answer": 0,
+      "explanation": "at the beginning of August and at the end (of August): both are points in time, so both take at."
+    }
+  ]
+}

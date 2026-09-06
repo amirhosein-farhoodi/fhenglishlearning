@@ -1,0 +1,176 @@
+{
+  "number": 44,
+  "title": "Passive 3",
+  "subtitle": "I was offered ... / I don't like being ... / I was born / get",
+  "summary": "Use the passive with verbs that have two objects, with -ing forms (being done), with born, and with get in informal English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I was offered ... / we were given ...",
+      "text": "Some verbs can have two objects. For example, in 'My grandfather gave me this watch', give has two objects: me (object 1) and this watch (object 2). So it is possible to make two passive sentences. Other verbs which can have two objects are **ask, offer, pay, show, tell**.",
+      "examples": [
+        { "text": "My grandfather **gave me this watch**." },
+        { "text": "**I was given** this watch (by my grandfather)." },
+        { "text": "This watch **was given to me** (by my grandfather)." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Begin with the person",
+      "text": "When we use these verbs in the passive, most often we begin with the person.",
+      "examples": [
+        { "text": "**I've been offered** the job, but I don't think I want it.", "note": "= somebody has offered me the job" },
+        { "text": "**You will be given** plenty of time to decide.", "note": "= we will give you plenty of time" },
+        { "text": "I didn't see the original document, but **I was shown** a copy.", "note": "= somebody showed me a copy" },
+        { "text": "Tim has an easy job - **he's paid** a lot of money to do very little.", "note": "= somebody pays him a lot" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I don't like being ...",
+      "left": {
+        "label": "Active: doing / telling",
+        "examples": ["I don't like people **telling** me what to do."]
+      },
+      "right": {
+        "label": "Passive: being done / being told",
+        "text": "The passive of doing/seeing etc. is being done / being seen etc.",
+        "examples": [
+          "I don't like **being told** what to do.",
+          "I remember **being taken** to the zoo when I was a child. (= I remember somebody taking me to the zoo)",
+          "Steve hates **being kept** waiting. (= he hates people keeping him waiting)",
+          "We climbed over the wall without **being seen**. (= without anybody seeing us)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "I was born ...",
+      "text": "We say 'I **was born** ...' (not I am born) when we talk about a person's birth in the past. The present form (are born) is only for general facts about births happening now.",
+      "examples": [
+        { "text": "**I was born** in Chicago.", "note": "past" },
+        { "text": "Where **were you born**?", "wrong": "Where are you born?" },
+        { "text": "How many babies **are born** every day?", "note": "present" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get",
+      "text": "You can use **get** for the passive. We use get only when things happen, and mainly in informal spoken English. You can use be in all situations.",
+      "examples": [
+        { "text": "There was a fight, but nobody **got hurt**.", "note": "= nobody was hurt" },
+        { "text": "I don't **get invited** to many parties.", "note": "= I'm not invited" },
+        { "text": "I'm surprised Liz didn't **get offered** the job.", "note": "= Liz wasn't offered the job" },
+        { "text": "Jessica **is liked** by everybody.", "wrong": "gets liked", "note": "this is not a 'happening'" },
+        { "text": "Peter was a mystery man. Very little **was known** about him.", "wrong": "got known" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "get expressions (not passive in meaning)",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["get married / get divorced", "marry / divorce"],
+        ["get dressed", "put on your clothes"],
+        ["get changed", "change your clothes"],
+        ["get lost", "not know where you are"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "With give, offer, pay, show, tell and ask, start the passive sentence with the person: I was given / I was told / I was asked."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "My grandfather gave me this watch. Which passive sentence has the same meaning?",
+      "options": [
+        "I was given this watch by my grandfather.",
+        "This watch gave me by my grandfather.",
+        "I am given this watch by my grandfather."
+      ],
+      "answer": 0,
+      "explanation": "Give has two objects, and we usually begin the passive with the person: I was given this watch."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy retired from her job recently. She ___ a present by her colleagues.",
+      "hint": "(give)",
+      "answers": ["was given"],
+      "explanation": "Begin with the person: she was given a present (= her colleagues gave her a present)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Complete each sentence with the correct ending using being + verb.",
+      "pairs": [
+        { "left": "We went to the wedding without", "right": "being invited." },
+        { "left": "It's a busy road and I don't like crossing it. I'm afraid of", "right": "being knocked down." },
+        { "left": "How do you avoid", "right": "being bitten by mosquitoes?" },
+        { "left": "I'm an adult. I don't like", "right": "being treated like a child." },
+        { "left": "You can't do anything about", "right": "being stuck in a traffic jam." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You will need to use this machine. Have you ___ how it works?",
+      "hint": "(show)",
+      "answers": ["been shown"],
+      "explanation": "Present perfect passive beginning with the person: Have you been shown ...? (= has somebody shown you?)"
+    },
+    {
+      "type": "true_false",
+      "statement": "Where are you born?",
+      "answer": false,
+      "explanation": "Where were you born? A person's birth is in the past, so we say was/were born."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alex ___ by a bee while he was sitting in the garden.",
+      "hint": "(get / sting)",
+      "answers": ["got stung"],
+      "explanation": "Something happened to Alex, so get is possible for the passive: got stung (= was stung)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's a voluntary worker. She ___ get paid.",
+      "options": ["doesn't", "isn't", "hasn't"],
+      "answer": 0,
+      "explanation": "Get is an ordinary verb here, so the negative is doesn't get paid (= she isn't paid)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was surprised to get the job I applied for. I didn't expect ___ it.",
+      "hint": "(offer)",
+      "answers": ["to be offered"],
+      "explanation": "Passive infinitive after expect: to be offered (= I didn't expect somebody to offer me the job)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make the passive sentence that begins with the watch. (this watch / give / me / my grandfather)",
+      "words": ["This watch", "was", "given", "to me", "by", "my grandfather."],
+      "answer": "This watch was given to me by my grandfather.",
+      "explanation": "When the thing is the subject, we need to before the person: was given to me."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jessica gets liked by everybody.",
+      "answer": false,
+      "explanation": "Jessica is liked by everybody. We use get only when things happen - being liked is not a 'happening'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "These tennis courts don't ___ very often. Not many people want to play here.",
+      "hint": "(get / use)",
+      "answers": ["get used"],
+      "explanation": "Get + past participle for something that happens: don't get used (= aren't used)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I remember being taken to the zoo when I was a child.",
+      "answer": true,
+      "explanation": "Correct. Being taken is the passive -ing form (= I remember somebody taking me to the zoo)."
+    }
+  ]
+}

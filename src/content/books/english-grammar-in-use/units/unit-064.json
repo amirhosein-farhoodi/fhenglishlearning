@@ -1,0 +1,178 @@
+{
+  "number": 64,
+  "title": "to ..., for ... and so that ...",
+  "subtitle": "to do / for something / so that ...",
+  "summary": "Use to + verb to say why somebody does something, for + noun for the thing you want, and so that (with can/could, will/would) to express purpose.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "to ... for purpose",
+      "text": "**to + verb** (*to reserve ... / to make ...*) tells us the purpose of something: why somebody does something, has something or needs something, or why something exists.",
+      "examples": [
+        { "text": "I called the restaurant **to reserve** a table." },
+        { "text": "What do you need **to make** bread?" },
+        { "text": "We shouted **to warn** everybody of the danger." },
+        { "text": "This letter is **to confirm** the decisions we made at our meeting last week." },
+        { "text": "The president has a team of bodyguards **to protect** him." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a place to park, something to eat, work to do",
+      "text": "We use **noun + to ...** to say what something is for or what must be done with it. Sometimes there is a preposition (*on, with, to*) after the verb. We also say **money / time / chance / opportunity / energy / courage to do** something.",
+      "examples": [
+        { "text": "It's hard to find **a place to park** in the city centre.", "note": "= a place where you can park" },
+        { "text": "Would you like **something to eat**?", "note": "= something that you can eat" },
+        { "text": "Do you have much **work to do**?", "note": "= work that you must do" },
+        { "text": "Is there **a chair to sit on**? I get lonely if there's **nobody to talk to**." },
+        { "text": "I need **something to open** this bottle **with**." },
+        { "text": "They gave us **money to buy** food. Do you have much **opportunity to practise** your English?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "for ... and to ...",
+      "left": {
+        "label": "for + noun",
+        "text": "for tells us the thing we want.",
+        "examples": [
+          "We stopped **for petrol**.",
+          "I had to run **for the bus**."
+        ]
+      },
+      "right": {
+        "label": "to + verb",
+        "text": "to tells us the action we want to do.",
+        "examples": [
+          "We stopped **to get** petrol.",
+          "I had to run **to catch** the bus."
+        ]
+      },
+      "note": "You can say for somebody to do something: There weren't any chairs for us to sit on, so we sat on the floor."
+    },
+    {
+      "type": "explain",
+      "heading": "for -ing and What ... for?",
+      "text": "We use **for (do)ing** to say what something is *used for*. But we do not use *for -ing* to say why somebody does something - use **to ...**. You can use **What ... for?** to ask about purpose.",
+      "examples": [
+        { "text": "This brush is **for washing** the dishes." },
+        { "text": "I went into the kitchen **to wash** the dishes.", "wrong": "for washing" },
+        { "text": "**What** is this switch **for**?", "note": "= what is it used for?" },
+        { "text": "**What** did you do that **for**?", "note": "= why did you do that?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "so that",
+      "text": "We use **so that** (not *to ...*) especially with **can / could** and **will / would**. You can leave out *that*: *I hurried so I wouldn't be late.*",
+      "examples": [
+        { "text": "She's learning English **so that she can** study in Canada." },
+        { "text": "We moved to London **so that we could** see our friends more often." },
+        { "text": "I hurried **so that I wouldn't** be late.", "note": "= because I didn't want to be late" },
+        { "text": "I hurried **so** I wouldn't be late.", "note": "that can be left out" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "To explain why you do something, use *to + verb*: *I went out to buy milk* (not ~~for buying~~). Use *for + -ing* only to say what an object is used for."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I went into the kitchen ___ the dishes.",
+      "options": ["to wash", "for washing", "for wash"],
+      "answer": 0,
+      "explanation": "To say why somebody does something we use to + verb, not for -ing."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each action with its purpose.",
+      "pairs": [
+        { "left": "I shouted", "right": "to warn people of the danger." },
+        { "left": "I opened the box", "right": "to see what was in it." },
+        { "left": "I moved to a new apartment", "right": "to be nearer my friends." },
+        { "left": "I couldn't find a knife", "right": "to chop the onions." },
+        { "left": "I called the hotel", "right": "to find out if they had any rooms free." },
+        { "left": "I employed an assistant", "right": "to help me with my work." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Would you like something ___? Coffee? Tea?",
+      "hint": "(to + verb)",
+      "answers": ["to drink"],
+      "explanation": "something to drink = something that you can drink."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I came home by taxi. I didn't have the energy ___.",
+      "hint": "(to + verb)",
+      "answers": ["to walk"],
+      "explanation": "energy to do something: I didn't have the energy to walk."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need to or for in the gap?",
+      "categories": ["to", "for"],
+      "items": [
+        { "text": "We stopped ___ petrol.", "category": 1 },
+        { "text": "We'll need time ___ make a decision.", "category": 0 },
+        { "text": "I went to the dentist ___ a check-up.", "category": 1 },
+        { "text": "He's very old. He needs somebody ___ take care of him.", "category": 0 },
+        { "text": "Can you lend me money ___ a taxi?", "category": 1 },
+        { "text": "Do you wear glasses ___ reading?", "category": 1 },
+        { "text": "I put on my glasses ___ read the letter.", "category": 0 },
+        { "text": "I had to run ___ catch the bus.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They've passed their exams. They're going to have a party ___.",
+      "hint": "(to + verb)",
+      "answers": ["to celebrate"],
+      "explanation": "to + verb gives the purpose of the party: a party to celebrate."
+    },
+    {
+      "type": "true_false",
+      "statement": "I had to run for catch the bus.",
+      "answer": false,
+      "explanation": "I had to run to catch the bus (or: I had to run for the bus). Use to + verb for an action, for + noun for a thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't want to get cold, so I wore warm clothes. I wore warm clothes so that I ___ cold.",
+      "hint": "(would / get / be)",
+      "answers": ["wouldn't get", "would not get", "wouldn't be", "would not be"],
+      "explanation": "so that + would/wouldn't: I wore warm clothes so that I wouldn't get cold."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wanted Mark to be able to contact me, so I gave him my phone number. I gave Mark my phone number so that he ___ me.",
+      "hint": "(could / contact)",
+      "answers": ["could contact", "would be able to contact"],
+      "explanation": "so that + could: I gave Mark my phone number so that he could contact me."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I wanted the car behind me to be able to overtake, so I slowed down. Make one sentence with so that.",
+      "words": ["I", "slowed down", "so that", "the car", "behind me", "could", "overtake."],
+      "answer": "I slowed down so that the car behind me could overtake."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wish we had a garden ___ play in.",
+      "options": ["for the children to", "the children for", "to the children for"],
+      "answer": 0,
+      "explanation": "for somebody to do something: a garden for the children to play in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why are you so scared? There's nothing ___ afraid of.",
+      "hint": "(to + verb)",
+      "answers": ["to be"],
+      "explanation": "nothing to be afraid of = nothing that you need to be afraid of."
+    }
+  ]
+}

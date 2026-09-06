@@ -1,0 +1,175 @@
+{
+  "number": 140,
+  "title": "Phrasal verbs 4: on/off (1)",
+  "subtitle": "turn on / turn off, put on, call off, set off",
+  "summary": "Use on and off with lights and machines, events, clothes, and for moving away from a place.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "on and off for lights, machines etc.",
+      "text": "We say the light is **on** / **put** the light **on** / **leave** the light **on**, and **turn** the light **on/off** or **switch** the light **on/off**. We also **put on** music or a song, and **put the kettle on**.",
+      "examples": [
+        { "text": "Shall I **leave** the lights **on** or **turn them off**?" },
+        { "text": "'Is the heating **on**?' 'No, I **switched it off**.'" },
+        { "text": "Let's **put** some music **on**. What would you like to hear?" },
+        { "text": "We need boiling water, so I'll **put the kettle on**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on and off for events etc.",
+      "text": "**go on** = happen. **call something off** = cancel it. **put something off** or **put off doing** something = delay it.",
+      "examples": [
+        { "text": "What's all that noise? What's **going on**?", "note": "= what's happening" },
+        { "text": "The concert in the park had to be **called off** because of the weather." },
+        { "text": "The election has been **put off** until January." },
+        { "text": "We can't **put off making** a decision. We have to decide now." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on and off for clothes etc.",
+      "text": "**put on** clothes, glasses, make-up, a seat belt etc. **put on weight** = get heavier. **try on** clothes = wear them to see if they fit. **take off** clothes, glasses etc.",
+      "examples": [
+        { "text": "My hands were cold, so I **put my gloves on**." },
+        { "text": "I've **put on** two kilos in the last month." },
+        { "text": "I **tried on** a jacket in the shop, but it didn't look right." },
+        { "text": "It was warm, so I **took off** my coat." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "off = away from a person or place",
+      "text": "**be off** (to a place) = be going there. **walk off / run off / drive off / ride off / go off** are similar to walk away, run away etc. **set off** = start a journey. **take off** = leave the ground (a plane). **see somebody off** = go with them to the airport or station to say goodbye.",
+      "examples": [
+        { "text": "Tomorrow I'm **off to** Paris. / I'm **off on** holiday.", "note": "= I'm going to Paris / I'm going on holiday" },
+        { "text": "Anna got on her bike and **rode off**." },
+        { "text": "Mark left home at the age of eighteen and **went off** to Canada." },
+        { "text": "We **set off** early to avoid the traffic.", "note": "= We left early" },
+        { "text": "After a long delay, the plane finally **took off**." },
+        { "text": "Helen was going away. We went to the station with her to **see her off**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "on or off?",
+      "left": {
+        "label": "on = working, happening, wearing",
+        "examples": [
+          "Shall I leave the lights **on**?",
+          "What's **going on**?",
+          "My hands were cold, so I **put my gloves on**."
+        ]
+      },
+      "right": {
+        "label": "off = not working, cancelled, away",
+        "examples": [
+          "I **switched** the heating **off**.",
+          "The concert was **called off**.",
+          "Anna got on her bike and **rode off**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "**put off** = delay, **call off** = cancel. If the wedding is put off, it will happen later; if it is called off, it won't happen at all."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "What did you do in each situation? Match the situation with put on + the right thing.",
+      "pairs": [
+        { "left": "It was getting dark, so I", "right": "put the light on." },
+        { "left": "It was getting cold, so I", "right": "put the heating on." },
+        { "left": "I wanted to bake a cake, so I", "right": "put the oven on." },
+        { "left": "I wanted to make some tea, so I", "right": "put the kettle on." },
+        { "left": "I wanted to relax, so I", "right": "put some music on." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What are all these people doing? What's ___?",
+      "options": ["going on", "going off", "putting on"],
+      "answer": 0,
+      "explanation": "go on = happen. What's going on? = What's happening?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather was too bad for the plane to ___, so the flight was delayed.",
+      "hint": "(verb + off)",
+      "answers": ["take off"],
+      "explanation": "take off = leave the ground (a plane)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel got into her car and ___ at high speed.",
+      "hint": "(verb + off)",
+      "answers": ["drove off", "went off"],
+      "explanation": "drive off / go off = drive away from the place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tim is too thin. He needs to ___ weight.",
+      "hint": "(verb + on)",
+      "answers": ["put on"],
+      "explanation": "put on weight = get heavier."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We spent the whole day walking. We ___ at 8 am and walked for ten hours.",
+      "hint": "(verb + off)",
+      "answers": ["set off"],
+      "explanation": "set off = start a journey."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word is missing: on or off?",
+      "categories": ["on", "off"],
+      "items": [
+        { "text": "Don't put ___ until tomorrow what you can do today.", "category": 1 },
+        { "text": "Are you cold? Shall I get you a sweater to put ___?", "category": 0 },
+        { "text": "They've changed their minds about getting married. The wedding has been called ___.", "category": 1 },
+        { "text": "I tried ___ some jeans in the shop, but they were too tight.", "category": 0 },
+        { "text": "Tomorrow I'm ___ to Paris.", "category": 1 },
+        { "text": "Let's put some music ___. What would you like to hear?", "category": 0 },
+        { "text": "It was hot in the cinema, so I took ___ my jacket.", "category": 1 },
+        { "text": "'Is the heating ___?' 'No, I switched it off.'", "category": 0 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The concert in the park had to be called off because of the weather.",
+      "answer": true,
+      "explanation": "Correct. call something off = cancel it."
+    },
+    {
+      "type": "true_false",
+      "statement": "I need to make an appointment to see the dentist, but I keep putting off it.",
+      "answer": false,
+      "explanation": "... but I keep putting it off. A pronoun object goes between put and off."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Helen was going away. Say what you did to say goodbye to her.",
+      "words": ["We went", "to the station", "with her", "to", "see", "her", "off."],
+      "answer": "We went to the station with her to see her off.",
+      "explanation": "see somebody off = go to the station / airport with them to say goodbye."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maria ___ a hat in the shop, but it was too big for her.",
+      "hint": "(verb + on)",
+      "answers": ["tried on"],
+      "explanation": "try on clothes = wear them to see if they fit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was very sunny. He took his sunglasses out of his pocket and ___.",
+      "options": ["put them on", "put on them", "put on it"],
+      "answer": 0,
+      "explanation": "put on glasses; the pronoun (them) must go between put and on."
+    }
+  ]
+}

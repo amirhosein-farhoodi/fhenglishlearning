@@ -1,0 +1,160 @@
+{
+  "number": 141,
+  "title": "Phrasal verbs 5: on/off (2)",
+  "subtitle": "carry on, get on, doze off, tell somebody off",
+  "summary": "Use verb + on to mean continue, understand the three meanings of get on, and learn verbs with off such as doze off, rip off, show off and tell off.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "verb + on = continue",
+      "text": "**go on** = continue. **go on doing** or **carry on doing** something = continue doing it. **go on with** or **carry on with** something = continue it.",
+      "examples": [
+        { "text": "The party **went on** until 4 o'clock in the morning." },
+        { "text": "We can't **go on spending** money like this. We'll have nothing left soon." },
+        { "text": "I don't want to **carry on working** here. I'm going to look for another job." },
+        { "text": "Don't let me disturb you. Please **carry on with** what you're doing." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "keep on doing, drive on, walk on",
+      "text": "**keep on doing** (or **keep doing**) something = do it continuously or repeatedly. **drive on / walk on / play on** = continue driving / walking / playing etc.",
+      "examples": [
+        { "text": "He **keeps on criticising** me. It's not fair! or He **keeps criticising** me." },
+        { "text": "Shall we stop at this petrol station or shall we **drive on** to the next one?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "get on - three meanings",
+      "columns": ["Expression", "Meaning", "Example"],
+      "rows": [
+        ["get on", "progress", "How are you **getting on** in your new job? (= How is it going?)"],
+        ["get on (with somebody)", "have a good relationship", "Joanne and Karen don't **get on**. They're always arguing. / Richard **gets on** well **with** his neighbours."],
+        ["get on with something", "continue something you have to do, usually after an interruption", "I must **get on with** my work. I have a lot to do."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "verb + off: doze off, finish off, go off",
+      "text": "**doze off / drop off / nod off** = fall asleep. **finish something off** = do the last part of it. **go off** = make an alarm sound.",
+      "examples": [
+        { "text": "I **dozed off** during the lecture. It was very boring." },
+        { "text": "*A:* Have you finished painting the kitchen? *B:* Nearly. I'll **finish it off** tomorrow." },
+        { "text": "Did you hear the alarm **go off**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "put off, rip off, show off, tell off",
+      "text": "**put somebody off** (doing) something = make them not want it or not want to do it. **rip somebody off** / **be ripped off** = cheat somebody / be cheated. **show off** = try to impress people with your ability or knowledge. **tell somebody off** = speak angrily to them because they did something wrong.",
+      "examples": [
+        { "text": "We wanted to go to the exhibition, but we were **put off** by the long queue.", "note": "= we didn't go because of the long queue" },
+        { "text": "What **put you off** applying for the job? Was the salary too low?" },
+        { "text": "Did you really pay £2,000 for that painting? I think you were **ripped off**.", "note": "= you paid too much" },
+        { "text": "Look at that boy on the bike riding with no hands. He's just **showing off**." },
+        { "text": "Clare's mother **told her off** for wearing dirty shoes in the house." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Three ways to fall asleep by accident: **doze off**, **drop off**, **nod off** - all mean the same."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'I nodded off.' What does this mean?",
+      "options": ["I agreed.", "I felt sick.", "I fell asleep."],
+      "answer": 2,
+      "explanation": "nod off = doze off = drop off = fall asleep."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'We were ripped off.' What does this mean?",
+      "options": ["We were attacked.", "We paid too much.", "Our clothes were torn."],
+      "answer": 1,
+      "explanation": "be ripped off = be cheated, pay too much."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "tell somebody off", "right": "speak angrily to them for doing something wrong" },
+        { "left": "show off", "right": "try to impress people" },
+        { "left": "get on with somebody", "right": "have a good relationship" },
+        { "left": "doze off", "right": "fall asleep" },
+        { "left": "carry on", "right": "continue" },
+        { "left": "finish something off", "right": "do the last part of it" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not ready to go home yet. I have a few things to ___.",
+      "hint": "(verb + off)",
+      "answers": ["finish off"],
+      "explanation": "finish something off = do the last part of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The fire alarm ___ and everybody had to leave the building.",
+      "hint": "(verb + off)",
+      "answers": ["went off"],
+      "explanation": "go off = make an alarm sound."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Shall I stop the car here?' 'No, ___ a bit further.'",
+      "hint": "(verb + on)",
+      "answers": ["drive on", "carry on", "go on"],
+      "explanation": "drive on / carry on / go on = continue driving."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does get on mean in each sentence?",
+      "categories": ["progress", "have a good relationship", "continue after an interruption"],
+      "items": [
+        { "text": "How are you getting on in your new job?", "category": 0 },
+        { "text": "Joanne and Karen don't get on. They're always arguing.", "category": 1 },
+        { "text": "I must get on with my work. I have a lot to do.", "category": 2 },
+        { "text": "Richard gets on well with his neighbours.", "category": 1 },
+        { "text": "Emma is enjoying her course. She's getting on very well.", "category": 0 },
+        { "text": "I've just had a coffee break, and now I must get on with my work.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Ben was told off by his boss for being late for work repeatedly.",
+      "answer": true,
+      "explanation": "Correct. tell somebody off = speak angrily to them because they did something wrong."
+    },
+    {
+      "type": "true_false",
+      "statement": "We decided not to go to the concert. We were put on by the cost of the tickets.",
+      "answer": false,
+      "explanation": "We were put off by the cost of the tickets. put somebody off = make them not want to do something."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Some children at the next table in the restaurant were behaving very badly. Ask why their parents did nothing.",
+      "words": ["Why", "didn't", "their parents", "tell", "them", "off?"],
+      "answer": "Why didn't their parents tell them off?",
+      "explanation": "tell them off - the pronoun goes between tell and off."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is Kate good at making decisions?' 'No, she isn't. She ___ changing her mind.'",
+      "hint": "(keep)",
+      "answers": ["keeps on", "keeps"],
+      "explanation": "keep on doing or keep doing something = do it repeatedly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is Gary going to retire soon?' 'No, he likes his job and wants to ___ working.'",
+      "hint": "(verb + on)",
+      "answers": ["carry on", "go on", "keep on", "keep"],
+      "explanation": "carry on / go on / keep on doing something = continue doing it."
+    }
+  ]
+}

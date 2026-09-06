@@ -1,0 +1,189 @@
+{
+  "number": 111,
+  "title": "still, any more, yet, already",
+  "subtitle": "Joe is still in bed / Lucy doesn't work here any more / he isn't here yet / she has already left",
+  "summary": "Use still for a situation that is continuing, not ... any more for a situation that has changed, yet for something you expect to happen, and already for something that happened sooner than expected.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "still",
+      "text": "We use **still** to say that a situation or action is continuing. It hasn't changed or stopped. Still can also mean 'in spite of this'. Still usually goes in the middle of the sentence with the verb.",
+      "examples": [
+        { "text": "It's ten o'clock and Joe is **still** in bed." },
+        { "text": "When I went to bed, Chris was **still** working." },
+        { "text": "Do you **still** want to go away or have you changed your mind?" },
+        { "text": "He has everything he needs, but he's **still** unhappy.", "note": "still = in spite of this" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not ... any more / not ... any longer / no longer",
+      "text": "We use **not ... any more** or **not ... any longer** to say that a situation has changed. Any more and any longer go at the end of a sentence. You can write any more (2 words) or anymore (1 word). You can also use **no longer**, which goes in the middle of the sentence. We do not normally use 'no more' in this way.",
+      "examples": [
+        { "text": "Lucy **doesn't** work here **any more**. She left last month. or Lucy doesn't work here **any longer**." },
+        { "text": "We used to be good friends, but we **aren't any more**." },
+        { "text": "Lucy **no longer** works here." },
+        { "text": "We are **no longer** friends.", "wrong": "we are no more friends" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "still or not ... any more?",
+      "left": {
+        "label": "still (the situation continues)",
+        "examples": [
+          "Sally **still** works here.",
+          "Mike lost his job six months ago and is **still** unemployed.",
+          "Is it **still** raining?"
+        ]
+      },
+      "right": {
+        "label": "not ... any more (the situation has changed)",
+        "examples": [
+          "Lucy **doesn't** work here **any more**.",
+          "We used to be good friends, but we **aren't any more**.",
+          "I don't feel hungry **any more**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "yet",
+      "text": "We use **yet** mainly in negative sentences (He isn't here yet) and questions (Is he here yet?). Yet (= until now) shows that the speaker expects something to happen. Yet usually goes at the end of a sentence, and we often use it with the present perfect.",
+      "examples": [
+        { "text": "It's 10 o'clock and Joe isn't here **yet**." },
+        { "text": "Have you decided what to do **yet**?" },
+        { "text": "'Where are you going on holiday?' 'We don't know **yet**.'" },
+        { "text": "Mike lost his job six months ago and hasn't found another job **yet**." },
+        { "text": "Has it stopped raining **yet**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "still ... not: surprise or impatience",
+      "text": "Still is also possible in negative sentences (before the negative). This is similar to 'not ... yet', but **still ... not** shows a stronger feeling of surprise or impatience.",
+      "examples": [
+        { "text": "She said she would be here an hour ago and she **still hasn't** come." },
+        { "text": "I sent him an invitation last week. He **hasn't** replied **yet**.", "note": "but I expect he will reply soon" },
+        { "text": "I sent him an invitation weeks ago and he **still hasn't** replied.", "note": "he should have replied before now" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "already",
+      "text": "We use **already** to say that something happened sooner than expected. Already usually goes in the middle of a sentence or at the end.",
+      "examples": [
+        { "text": "'What time is Sue leaving?' 'She has **already** left.'", "note": "= sooner than you expected" },
+        { "text": "Shall I tell Joe what happened or does he **already** know?" },
+        { "text": "I've just had lunch and I'm **already** hungry." },
+        { "text": "She's **already** left. or She's left **already**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Position check: still, already and no longer go in the middle with the verb; yet, any more and any longer go at the end of the sentence."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Mike lost his job a year ago and he is ___ unemployed.",
+      "options": ["still", "yet", "any more", "already"],
+      "answer": 0,
+      "explanation": "The situation is continuing (he has no job), so we use still."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Amy used to work at the airport, but she doesn't work there ___.",
+      "options": ["any more", "still", "yet", "already"],
+      "answer": 0,
+      "explanation": "The situation has changed, so we use not ... any more at the end of the sentence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you ___ live in the same place or have you moved?",
+      "hint": "(still / yet / already / any more)",
+      "answers": ["still"],
+      "explanation": "Still asks whether a situation is continuing: Do you still live in the same place?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm hungry. Is dinner ready ___?",
+      "hint": "(still / yet / already / any more)",
+      "answers": ["yet"],
+      "explanation": "In a question about something you expect to happen, use yet at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's no need to introduce me to Joe. We've ___ met.",
+      "hint": "(still / yet / already / any more)",
+      "answers": ["already"],
+      "explanation": "Something happened sooner than expected: We've already met."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've put on weight. These trousers don't fit me ___.",
+      "hint": "(still / yet / already / any more)",
+      "answers": ["any more", "anymore", "any longer"],
+      "explanation": "The situation has changed (they used to fit), so: don't fit me any more."
+    },
+    {
+      "type": "matching",
+      "prompt": "Each sentence with still has a similar meaning to a sentence with not ... yet. Match them.",
+      "pairs": [
+        { "left": "It's still raining.", "right": "It hasn't stopped raining yet." },
+        { "left": "Gary is still here.", "right": "He hasn't gone yet." },
+        { "left": "The children are still asleep.", "right": "They haven't woken up yet." },
+        { "left": "Kate is still looking for a job.", "right": "She hasn't found one yet." },
+        { "left": "I'm still wondering what to do.", "right": "I haven't decided yet." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "They're still repairing the road. Say the same thing with not ... yet.",
+      "words": ["They", "haven't", "finished", "repairing", "the road", "yet."],
+      "answer": "They haven't finished repairing the road yet.",
+      "explanation": "Yet goes at the end of a negative sentence."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The plane is still waiting on the runway. Say the same thing with not ... yet.",
+      "words": ["It", "hasn't", "taken", "off", "yet."],
+      "answer": "It hasn't taken off yet.",
+      "explanation": "Present perfect negative + yet at the end: It hasn't taken off yet."
+    },
+    {
+      "type": "true_false",
+      "statement": "A few years ago Paul was interested in politics. Now he isn't. So: He is no more interested in politics.",
+      "answer": false,
+      "explanation": "He is no longer interested in politics. or He isn't interested in politics any more. We do not use 'no more' in this way."
+    },
+    {
+      "type": "true_false",
+      "statement": "A few years ago Paul wanted to be a teacher, and he wants to be a teacher now. So: He still wants to be a teacher.",
+      "answer": true,
+      "explanation": "Correct. The situation has not changed, so still is right, and it goes in the middle with the verb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does each word usually go in a sentence?",
+      "categories": ["In the middle, with the verb", "At the end of the sentence", "Middle or end"],
+      "items": [
+        { "text": "still", "category": 0 },
+        { "text": "no longer", "category": 0 },
+        { "text": "yet", "category": 1 },
+        { "text": "any more", "category": 1 },
+        { "text": "any longer", "category": 1 },
+        { "text": "already", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mark said he'd be here at 8.30. It's 9 o'clock now and he ___ isn't here.",
+      "options": ["still", "yet", "already", "any more"],
+      "answer": 0,
+      "explanation": "Still ... not (before the negative) shows surprise or impatience: he still isn't here."
+    }
+  ]
+}

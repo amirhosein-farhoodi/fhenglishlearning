@@ -1,0 +1,178 @@
+{
+  "number": 75,
+  "title": "the 3 (children / the children)",
+  "subtitle": "children / the children",
+  "summary": "Leave out the when you talk about things or people in general, and use the when you mean specific things or people.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Things and people in general: no the",
+      "text": "When we are talking about things or people in general, we do not use the. Dogs means dogs in general, not a specific group of dogs. The same is true for jobs, hobbies, abstract ideas, kinds of food, sports and school subjects.",
+      "examples": [
+        { "text": "I'm afraid of **dogs**.", "wrong": "the dogs", "note": "dogs = dogs in general" },
+        { "text": "**Doctors** are usually paid more than **teachers**." },
+        { "text": "Do you know anybody who collects **stamps**?" },
+        { "text": "**Life** has changed a lot in the last thirty years." },
+        { "text": "Do you like **classical music** / **Chinese food** / **fast cars**?" },
+        { "text": "My favourite subject at school was **history** / **physics** / **English**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "most people, most shops",
+      "text": "We say most people / most shops / most big cities etc. - not the most.",
+      "examples": [
+        { "text": "**Most shops** accept credit cards.", "wrong": "The most shops" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "In general or specific?",
+      "left": {
+        "label": "In general (without the)",
+        "examples": [
+          "**Children** learn from playing. (= children in general)",
+          "I couldn't live without **music**.",
+          "All **cars** have wheels.",
+          "**Sugar** isn't very good for you.",
+          "**English people** drink a lot of tea. (= English people in general)"
+        ]
+      },
+      "right": {
+        "label": "Specific people or things (with the)",
+        "examples": [
+          "We took **the children** to the zoo. (= a specific group, perhaps the speaker's children)",
+          "The film wasn't very good, but I liked **the music**. (= the music in the film)",
+          "All **the cars** in this car park belong to people who work here.",
+          "Can you pass **the sugar**, please? (= the sugar on the table)",
+          "**The English people** I know drink a lot of tea. (= only the English people I know)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Not always clear-cut",
+      "text": "The difference between 'something in general' and 'something specific' is not always very clear. A phrase like people who say what they think or strong black coffee is narrower than all people or all coffee, but it is still a general idea, so there is no the.",
+      "examples": [
+        { "text": "I like working with **people**.", "note": "= people in general" },
+        { "text": "I like working with **people who say what they think**.", "note": "not all people, but still a general idea" },
+        { "text": "I like **the people** I work with.", "note": "= a specific group of people" },
+        { "text": "Do you like **coffee**?", "note": "= coffee in general" },
+        { "text": "Do you like **strong black coffee**?", "note": "not all coffee, but still a general idea" },
+        { "text": "**The coffee** we had after dinner wasn't very good.", "note": "= specific coffee" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quick guide",
+      "columns": ["Meaning", "Form", "Example"],
+      "rows": [
+        ["A whole class of things or people", "no the", "Sugar isn't very good for you."],
+        ["A specific example the listener can identify", "the", "Can you pass the sugar, please?"],
+        ["most + noun", "no the", "Most shops accept credit cards."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you can add 'in general' after the noun and the meaning stays the same, leave out the. If you mean 'the ones we both know about', use the."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Look at ___ on that tree. They're very big.",
+      "options": ["the apples", "apples", "the apple"],
+      "answer": 0,
+      "explanation": "We mean specific apples - the ones on that tree - so the apples."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people are afraid of ___.",
+      "hint": "(the) spiders",
+      "answers": ["spiders"],
+      "explanation": "Spiders in general, so no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A vegetarian is somebody who doesn't eat ___.",
+      "hint": "(the) meat",
+      "answers": ["meat"],
+      "explanation": "Meat in general, so no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "It annoys me when the people throw rubbish on the ground.",
+      "answer": false,
+      "explanation": "It annoys me when people throw rubbish on the ground. We mean people in general, so no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The test wasn't hard. I answered ___ without difficulty.",
+      "hint": "(the) questions",
+      "answers": ["the questions"],
+      "explanation": "Specific questions - the ones in the test - so the questions."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the word or phrase that completes it. Notice which ones need the.",
+      "pairs": [
+        { "left": "Do you know ... who live in the flat next to yours?", "right": "the people" },
+        { "left": "... is the study of plants and animals.", "right": "Biology" },
+        { "left": "It's better to tell the truth. Telling ... often causes problems.", "right": "lies" },
+        { "left": "We couldn't find anywhere to stay in the town. ... were all full.", "right": "The hotels" },
+        { "left": "Don't sit on ... It's wet after the rain.", "right": "the grass" },
+        { "left": "You need ... to teach young children.", "right": "patience" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A pacifist is somebody who is against ___.",
+      "options": ["war", "the war", "a war"],
+      "answer": 0,
+      "explanation": "War in general, not one specific war, so no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "The First World War began in 1914 and ended in 1918.",
+      "answer": true,
+      "explanation": "Correct. This is one specific war with a name, so we use the."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the word in brackets need the in the gap? Sort the sentences.",
+      "categories": ["no the", "the"],
+      "items": [
+        { "text": "Steve is very good at telling ... (stories)", "category": 0 },
+        { "text": "I can't sing this song. I don't know ... (words)", "category": 1 },
+        { "text": "Don't stay in that hotel. It's noisy and ... are very small. (rooms)", "category": 1 },
+        { "text": "I don't have a car, so I use ... most of the time. (public transport)", "category": 0 },
+        { "text": "... is strange sometimes. Some very strange things happen. (life)", "category": 0 },
+        { "text": "We enjoyed our holiday. ... was good. (weather)", "category": 1 },
+        { "text": "Everybody needs ... to live. (water)", "category": 0 },
+        { "text": "I don't like ... with unhappy endings. (films)", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't swim in this pool. ___ doesn't look very clean.",
+      "hint": "(the) water",
+      "answers": ["The water"],
+      "explanation": "Specific water - the water in this pool - so The water."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a general statement about two jobs.",
+      "words": ["Doctors", "are", "usually", "paid", "more than", "teachers."],
+      "answer": "Doctors are usually paid more than teachers.",
+      "explanation": "Doctors and teachers in general, so no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "All ___ on the top shelf belong to me.",
+      "options": ["the books", "books", "of books"],
+      "answer": 0,
+      "explanation": "Specific books - the ones on the top shelf - so All the books."
+    }
+  ]
+}

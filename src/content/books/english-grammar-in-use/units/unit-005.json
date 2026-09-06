@@ -1,0 +1,167 @@
+{
+  "number": 5,
+  "title": "Past simple (I did)",
+  "subtitle": "I did",
+  "summary": "Use the past simple for completed actions and situations in the past, with did/didn't for questions and negatives and was/were for be.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this example",
+      "text": "Wolfgang Amadeus Mozart was an Austrian musician and composer. He **lived** from 1756 to 1791. He **started** composing at the age of five and **wrote** more than 600 pieces of music. He **was** only 35 years old when he **died**. lived / started / wrote / was / died are all past simple: finished actions and situations in the past.",
+      "examples": [
+        { "text": "He **lived** from 1756 to 1791." },
+        { "text": "He **was** only 35 years old when he **died**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Regular verbs: -ed",
+      "text": "Very often the past simple ends in **-ed** (regular verbs). Watch the spelling: stop - stopped, study - studied.",
+      "examples": [
+        { "text": "I work in a travel agency now. Before that I **worked** in a department store." },
+        { "text": "They **invited** us to their party, but we **decided** not to go." },
+        { "text": "The police **stopped** me on my way home last night." },
+        { "text": "Laura **passed** her exam because she **studied** very hard." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular verbs",
+      "columns": ["Infinitive", "Past simple", "Example"],
+      "rows": [
+        ["write", "wrote", "Mozart **wrote** more than 600 pieces of music."],
+        ["see", "saw", "We **saw** Alice in town a few days ago."],
+        ["go", "went", "I **went** to the cinema three times last week."],
+        ["shut", "shut", "It was cold, so I **shut** the window."]
+      ],
+      "note": "Many verbs are irregular: the past simple does not end in -ed."
+    },
+    {
+      "type": "explain",
+      "heading": "Questions and negatives: did/didn't",
+      "text": "In questions and negative sentences we use **did/didn't + infinitive** (enjoy/see/go etc.): *did you enjoy?*, *she didn't see*, *did they go?*. Sometimes **do** is the main verb of the sentence (did you do?, I didn't do).",
+      "examples": [
+        { "text": "I enjoyed the party a lot. **Did you enjoy** it?" },
+        { "text": "How many people **did they invite** to the wedding?" },
+        { "text": "I **didn't buy** anything because I **didn't have** any money." },
+        { "text": "'**Did you go** out?' 'No, I **didn't**.'" },
+        { "text": "What **did you do** at the weekend?", "wrong": "What did you at the weekend?" },
+        { "text": "I **didn't do** anything.", "wrong": "I didn't anything" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past of be: was/were",
+      "text": "The past of **am/is** is **was** (I/he/she/it was, wasn't) and the past of **are** is **were** (we/you/they were, weren't). Questions simply change the order: *was I?*, *were you?* - no did.",
+      "examples": [
+        { "text": "I **was** annoyed because they **were** late." },
+        { "text": "**Was** the weather good when you **were** on holiday?" },
+        { "text": "They **weren't** able to come because they **were** so busy." },
+        { "text": "I **wasn't** hungry, so I **didn't eat** anything." },
+        { "text": "**Did you go** out last night or **were you** too tired?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After did/didn't the verb goes back to the infinitive: Did you see? I didn't go. But was/were never take did: Was it good? (not Did it be good?)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday was a typical working day for Laura. She ___ a big breakfast.",
+      "hint": "(have)",
+      "answers": ["had"],
+      "explanation": "have is irregular: had."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The film wasn't very good. I ___ it much.",
+      "options": ["didn't enjoy", "didn't enjoyed", "not enjoyed"],
+      "answer": 0,
+      "explanation": "Negative: didn't + infinitive (not didn't enjoyed)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its irregular past simple form.",
+      "pairs": [
+        { "left": "buy", "right": "bought" },
+        { "left": "catch", "right": "caught" },
+        { "left": "fall", "right": "fell" },
+        { "left": "teach", "right": "taught" },
+        { "left": "throw", "right": "threw" },
+        { "left": "sell", "right": "sold" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'How did you learn to drive?' 'My father ___ me.'",
+      "hint": "(teach)",
+      "answers": ["taught"],
+      "explanation": "teach is irregular: taught."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the past form regular (-ed) or irregular?",
+      "categories": ["Regular (-ed)", "Irregular"],
+      "items": [
+        { "text": "worked", "category": 0 },
+        { "text": "wrote", "category": 1 },
+        { "text": "invited", "category": 0 },
+        { "text": "saw", "category": 1 },
+        { "text": "stopped", "category": 0 },
+        { "text": "went", "category": 1 },
+        { "text": "studied", "category": 0 },
+        { "text": "shut", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "James drove from San Francisco to Denver. Ask him how long the trip took.",
+      "words": ["How long", "did", "it", "take?"],
+      "answer": "How long did it take?",
+      "explanation": "Question: question word + did + subject + infinitive."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask James where he stayed on his trip - in hotels?",
+      "words": ["Where", "did", "you", "stay?"],
+      "answer": "Where did you stay?",
+      "explanation": "Where + did + subject + infinitive (stay, not stayed)."
+    },
+    {
+      "type": "true_false",
+      "statement": "What did you at the weekend?",
+      "answer": false,
+      "explanation": "What did you do at the weekend? do is the main verb, so we need did ... do."
+    },
+    {
+      "type": "true_false",
+      "statement": "Was the weather good when you were on holiday?",
+      "answer": true,
+      "explanation": "Correct. Questions with be use was/were without did."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was hard carrying the bags. They ___ really heavy.",
+      "hint": "(be)",
+      "answers": ["were"],
+      "explanation": "They + past of are = were."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bed was very uncomfortable. I ___ well.",
+      "hint": "(sleep) - negative",
+      "answers": ["didn't sleep", "did not sleep"],
+      "explanation": "Negative: didn't + infinitive: didn't sleep."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't like the hotel. The room ___ very clean.",
+      "hint": "(be) - negative",
+      "answers": ["wasn't", "was not"],
+      "explanation": "The negative past of is: wasn't (no did with be)."
+    }
+  ]
+}

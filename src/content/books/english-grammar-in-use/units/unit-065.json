@@ -1,0 +1,178 @@
+{
+  "number": 65,
+  "title": "Adjective + to ...",
+  "subtitle": "hard to understand / nice of you to ... / sorry to hear / the first to ... / bound to ...",
+  "summary": "Use adjective + to ... to say how easy or hard something is, to judge somebody's behaviour, to describe reactions, and after the first/last/only and sure/likely/bound.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "hard to understand, interesting to talk to",
+      "left": {
+        "label": "It is + adjective + to ... + object",
+        "examples": [
+          "**It is hard to understand him.**",
+          "Do you think **it is safe to drink** this water?",
+          "The exam questions were very hard. **It was impossible to answer them.**",
+          "Nicola has lots of interesting ideas. **It's interesting to talk to her.**"
+        ]
+      },
+      "right": {
+        "label": "Subject + is + adjective + to ...",
+        "text": "Same meaning. Do not repeat the object at the end.",
+        "examples": [
+          "**He is hard to understand.** (not He is hard to understand him)",
+          "Do you think this water **is safe to drink**? (not to drink it)",
+          "They **were impossible to answer**. (not to answer them)",
+          "Nicola **is interesting to talk to**. (not to talk to her)"
+        ]
+      },
+      "note": "Other adjectives used like this: easy, nice, safe, cheap, exciting, impossible, interesting, difficult, good, dangerous, expensive."
+    },
+    {
+      "type": "explain",
+      "heading": "adjective + noun + to ...",
+      "text": "We also use this structure with **adjective + noun**: *a difficult question to answer*, *an easy mistake to make*. Again, do not repeat the object.",
+      "examples": [
+        { "text": "This is **a difficult question to answer**.", "wrong": "to answer it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It's nice of you to ...",
+      "text": "We say **It's nice of somebody to do something** to judge a person's behaviour. Other adjectives used in the same way: *kind, generous, careless, silly, stupid, inconsiderate, unfair, typical*.",
+      "examples": [
+        { "text": "**It was nice of you to take** me to the airport. Thank you very much." },
+        { "text": "**It's silly of Ruth to give up** her job when she needs the money." },
+        { "text": "I think **it was unfair of him to criticise** me." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sorry to ... / surprised to ... etc.",
+      "text": "You can use **adjective + to ...** to say how somebody reacts to something. Adjectives used like this: *sorry, glad, pleased, relieved, surprised, amazed, sad, disappointed*.",
+      "examples": [
+        { "text": "I'm **sorry to hear** that your mother isn't well." },
+        { "text": "Was Julia **surprised to see** you?" },
+        { "text": "It was a long and tiring journey. We were **glad to get** home." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the first / the next / the last / the only ... to ...",
+      "text": "You can use **to ...** after *the next, the last, the only, the first, the second* etc.",
+      "examples": [
+        { "text": "**The next train to arrive** at platform 4 will be the 10.50 to Liverpool." },
+        { "text": "Everybody was late except me. I was **the only one to arrive** on time." },
+        { "text": "If I have any more news, you will be **the first to know**.", "note": "= the first person to know" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sure / likely / bound to ...",
+      "text": "You can say that something is **sure to happen**, **likely to happen** or **bound to happen**. *Bound to* means *sure to*.",
+      "examples": [
+        { "text": "Carla is a very good student. She's **bound to pass** the exam.", "note": "= she is sure to pass" },
+        { "text": "It's possible I'll win the lottery one day, but it's **not likely to happen**.", "note": "= it's not probable" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When the subject of the sentence is the thing being talked about, do not repeat it after the verb: *The water is safe to drink* (not ~~to drink it~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Nicola has lots of interesting ideas. She is interesting ___.",
+      "options": ["to talk to", "to talk to her", "to talk"],
+      "answer": 0,
+      "explanation": "Subject + adjective + to ...: we keep the preposition but do not repeat the object (not to talk to her)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It was difficult to open the window. Say the same thing beginning with The window.",
+      "words": ["The window", "was", "difficult", "to", "open."],
+      "answer": "The window was difficult to open."
+    },
+    {
+      "type": "true_false",
+      "statement": "This meat isn't safe to eat it.",
+      "answer": false,
+      "explanation": "This meat isn't safe to eat. Do not repeat the object after the verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very common mistake. It's an easy mistake ___.",
+      "hint": "(make)",
+      "answers": ["to make"],
+      "explanation": "adjective + noun + to ...: an easy mistake to make."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was nice ___ to remember my birthday.",
+      "options": ["of you", "for you", "to you"],
+      "answer": 0,
+      "explanation": "We say it's nice of somebody to do something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each adjective take?",
+      "categories": ["It was ... of you to help me.", "I was ... to hear the news."],
+      "items": [
+        { "text": "nice", "category": 0 },
+        { "text": "glad", "category": 1 },
+        { "text": "silly", "category": 0 },
+        { "text": "surprised", "category": 1 },
+        { "text": "kind", "category": 0 },
+        { "text": "relieved", "category": 1 },
+        { "text": "generous", "category": 0 },
+        { "text": "disappointed", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I heard about Tom's accident. I was relieved ___ that he's OK.",
+      "hint": "(hear)",
+      "answers": ["to hear"],
+      "explanation": "adjective + to ... for a reaction: relieved to hear."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My interview went well. I was disappointed ___ to be offered the job.",
+      "hint": "(negative word)",
+      "answers": ["not"],
+      "explanation": "The negative goes before to: disappointed not to be offered the job."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right ending.",
+      "pairs": [
+        { "left": "Everybody else arrived before Paul. Paul was ...", "right": "the last to arrive." },
+        { "left": "Emily passed the exam. All the other students failed. Emily was ...", "right": "the only one to pass." },
+        { "left": "I complained to the manager. Another customer had already complained. I was ...", "right": "the second person to complain." },
+        { "left": "Neil Armstrong walked on the moon in 1969. Nobody had done this before him. He was ...", "right": "the first man to walk on the moon." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not surprised you're tired after your trip. ___ after such a long journey.",
+      "hint": "(you / bound / tired)",
+      "answers": ["You're bound to be tired", "You are bound to be tired"],
+      "explanation": "bound to + verb = sure to: You're bound to be tired."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It's easy to get to my house from here. Say the same thing beginning with My house.",
+      "words": ["My house", "is", "easy", "to get to", "from here."],
+      "answer": "My house is easy to get to from here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think you'll need an umbrella. ___.",
+      "hint": "(it / not / likely / rain)",
+      "answers": ["It's not likely to rain", "It is not likely to rain", "It isn't likely to rain"],
+      "explanation": "likely to + verb: It's not likely to rain (= it's not probable)."
+    }
+  ]
+}

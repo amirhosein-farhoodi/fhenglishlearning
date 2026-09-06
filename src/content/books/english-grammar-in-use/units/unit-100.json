@@ -1,0 +1,182 @@
+{
+  "number": 100,
+  "title": "Adjectives and adverbs 1 (quick/quickly)",
+  "subtitle": "quick / quickly",
+  "summary": "Use adjectives (quick, careful) to describe nouns and adverbs (quickly, carefully) to describe how something happens, and use adverbs before adjectives and past participles.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adverbs: adjective + -ly",
+      "text": "**Quickly** and **seriously** are adverbs. Many adverbs are adjective + **-ly**: quick → quickly, serious → seriously, careful → carefully, bad → badly, heavy → heavily, terrible → terribly.",
+      "examples": [
+        { "text": "Our holiday was too short - the time passed very **quickly**." },
+        { "text": "Two people were **seriously** injured in the accident." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not every -ly word is an adverb",
+      "text": "Some adjectives end in **-ly** too, for example **friendly, lively, elderly, lonely, lovely**. They describe nouns, not verbs.",
+      "examples": [
+        { "text": "It was a **lovely** day." },
+        { "text": "She's a very **friendly** person." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Adjective or adverb?",
+      "left": {
+        "label": "Adjectives tell us about a noun",
+        "text": "We use adjectives before nouns (somebody or something).",
+        "examples": [
+          "Sam is a **careful** driver. (not a carefully driver)",
+          "We didn't go out because of the **heavy** rain.",
+          "She speaks **perfect** English. (adjective + noun)"
+        ]
+      },
+      "right": {
+        "label": "Adverbs tell us about a verb",
+        "text": "Adverbs say how somebody does something or how something happens.",
+        "examples": [
+          "Sam drove **carefully** along the narrow road. (not drove careful)",
+          "We didn't go out because it was raining **heavily**. (not raining heavy)",
+          "She speaks English **perfectly**. (verb + noun + adverb)"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "After be, look, feel ...",
+      "left": {
+        "label": "Adjective after be/look/feel/sound",
+        "examples": [
+          "Please be **quiet**.",
+          "My exam results were really **bad**.",
+          "Why do you always look so **serious**?",
+          "I feel **happy**."
+        ]
+      },
+      "right": {
+        "label": "Adverb with other verbs",
+        "examples": [
+          "Please speak **quietly**.",
+          "I did really **badly** in the exam.",
+          "Why do you never take me **seriously**?",
+          "The children were playing **happily**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Adverb + adjective, adverb + adverb",
+      "text": "You can also use adverbs before adjectives and other adverbs: **reasonably** cheap, **terribly** sorry, **incredibly** quickly. You can also use an adverb before a past participle (injured/organised/written etc.).",
+      "examples": [
+        { "text": "It's a **reasonably cheap** restaurant and the food is **extremely good**." },
+        { "text": "I'm **terribly sorry**. I didn't mean to push you." },
+        { "text": "Maria learns languages **incredibly quickly**. The exam was **surprisingly easy**." },
+        { "text": "Two people were **seriously injured** in the accident.", "wrong": "serious injured" },
+        { "text": "The conference was **badly organised**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the word describes a person or thing (a noun), use the adjective. If it answers 'how?' about an action, or comes before another adjective, use the adverb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I had no problem finding a place to live. I found a flat quite ___.",
+      "hint": "(ea...)",
+      "answers": ["easily"],
+      "explanation": "The word says how I found the flat, so we need the adverb: easily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had to wait a long time, but we didn't complain. We waited ___.",
+      "hint": "(pat...)",
+      "answers": ["patiently"],
+      "explanation": "How did we wait? Patiently - an adverb describing the verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The weather changed ___. There was a ___ change in the weather.",
+      "options": ["suddenly ... sudden", "sudden ... suddenly", "suddenly ... suddenly", "sudden ... sudden"],
+      "answer": 0,
+      "explanation": "The adverb suddenly describes the verb changed; the adjective sudden describes the noun change."
+    },
+    {
+      "type": "true_false",
+      "statement": "I think I have flu. I feel awfully.",
+      "answer": false,
+      "explanation": "I feel awful. After feel we use an adjective, not an adverb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nobody knew that Simon was coming to see us. He arrived ___.",
+      "hint": "(unex...)",
+      "answers": ["unexpectedly"],
+      "explanation": "The adverb unexpectedly tells us how he arrived."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need the adjective or the adverb?",
+      "categories": ["Adjective", "Adverb"],
+      "items": [
+        { "text": "I think you behaved very ___. (selfish / selfishly)", "category": 1 },
+        { "text": "I could sit in this chair all day. It's very ___. (comfortable / comfortably)", "category": 0 },
+        { "text": "I explained everything as ___ as I could. (clear / clearly)", "category": 1 },
+        { "text": "Tanya is ___ upset about losing her job. (terrible / terribly)", "category": 1 },
+        { "text": "Be careful on that ladder. It doesn't look very ___. (safe / safely)", "category": 0 },
+        { "text": "Have a good trip and I hope you have a ___ journey. (safe / safely)", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maria's English is very ___ although she makes quite a lot of mistakes.",
+      "hint": "(fluent / fluently)",
+      "answers": ["fluent"],
+      "explanation": "After is we use an adjective to describe her English: fluent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I cooked this meal ___ for you, so I hope you like it.",
+      "hint": "(special / specially)",
+      "answers": ["specially"],
+      "explanation": "The adverb specially says how (for what purpose) I cooked the meal."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Be careful on that ladder. It doesn't look very ___. I'm glad you got home ___.",
+      "options": ["safe ... safely", "safely ... safe", "safe ... safe", "safely ... safely"],
+      "answer": 0,
+      "explanation": "After look we use the adjective safe; got home safely uses the adverb to say how you got home."
+    },
+    {
+      "type": "true_false",
+      "statement": "Liz fell and hurt herself really bad.",
+      "answer": false,
+      "explanation": "Liz fell and hurt herself really badly. The adverb badly describes how she hurt herself."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the adverb + adjective that completes it.",
+      "pairs": [
+        { "left": "Will's mother is ... in hospital.", "right": "seriously ill" },
+        { "left": "This house is so big! It's ...", "right": "absolutely enormous" },
+        { "left": "It wasn't a serious accident. The car was only ...", "right": "slightly damaged" },
+        { "left": "Our children are normally very lively, but they're ... today.", "right": "unusually quiet" },
+        { "left": "When I returned home after 20 years, everything had ...", "right": "completely changed" },
+        { "left": "The movie was ... It could have been much shorter.", "right": "unnecessarily long" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan likes to take risks. He lives ___.",
+      "hint": "(dangerous / dangerously)",
+      "answers": ["dangerously"],
+      "explanation": "How does he live? Dangerously - an adverb after the verb lives."
+    }
+  ]
+}

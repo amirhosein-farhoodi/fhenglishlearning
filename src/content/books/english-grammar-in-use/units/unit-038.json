@@ -1,0 +1,187 @@
+{
+  "number": 38,
+  "title": "if I do ... and if I did ...",
+  "subtitle": "if we take the bus / if we took the bus",
+  "summary": "Use if + present for things that may really happen, and if + past with would for things that will not happen or that you don't expect to happen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two ways of talking about the bus",
+      "left": {
+        "label": "If we take the bus ... (possible)",
+        "text": "Lisa and Jess are deciding how to travel. For Jess, it is possible that they will take the bus, so she uses if + present.",
+        "examples": [
+          "*Lisa:* Shall we take the bus or the train? *Jess:* **If we take** the bus, it **will be** cheaper."
+        ]
+      },
+      "right": {
+        "label": "If we took the bus ... (not going to happen)",
+        "text": "Later, Lisa and Jess decide to take the train. Now Jess knows they are not going to take the bus, so she uses if + past.",
+        "examples": [
+          "*Joe:* How are you going to travel? *Jess:* We're going to take the train. **If we took** the bus, it **would be** cheaper, but the train is quicker."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if + past for things that will not happen",
+      "text": "When we talk about something that will not happen, or we don't expect that it will happen, we use **if + past** (if we went / if there was etc.). But the meaning is not past - we are imagining a situation now or in the future.",
+      "examples": [
+        { "text": "What would you do **if you won** a lot of money?", "note": "I don't really expect this to happen" },
+        { "text": "**If there was** an election tomorrow, who would you vote for?", "note": "there will not be an election tomorrow" },
+        { "text": "I'd be surprised **if they didn't come** to the party.", "note": "I expect them to come" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if I find or if I found?",
+      "left": {
+        "label": "if I find (a real possibility)",
+        "examples": [
+          "I think I left my watch at your house. **If you find** it, can you call me?"
+        ]
+      },
+      "right": {
+        "label": "if I found (an imagined situation)",
+        "examples": [
+          "**If you found** a wallet in the street, what would you do with it?"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "No would in the if-part",
+      "text": "We do not normally use **would** in the if-part of the sentence. The if-part takes the past form.",
+      "examples": [
+        { "text": "I'd be very scared **if somebody pointed** a gun at me.", "wrong": "if somebody would point" },
+        { "text": "**If we went** by bus, it would be cheaper.", "wrong": "If we would go" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "would in the other part",
+      "text": "In the other part of the sentence (not the if-part) we use **would ('d) / wouldn't**.",
+      "examples": [
+        { "text": "**I'd be** scared if somebody pointed a gun at me.", "note": "I'd be = I would be" },
+        { "text": "I'm not going to bed yet. I'm not tired. If I went to bed now, **I wouldn't sleep**." },
+        { "text": "What **would you do** if you were bitten by a snake?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "could and might",
+      "text": "**Could** and **might** are also possible in the main part of the sentence. Could means 'would be able to', and might means 'it is possible that ... would'.",
+      "examples": [
+        { "text": "If I won a lot of money, I **might buy** a house.", "note": "= it is possible that I would buy a house" },
+        { "text": "If it stopped raining, we **could go** out.", "note": "= we would be able to go out" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: do I think this will really happen? Yes - use if + present and will. No, or probably not - use if + past and would."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You're not going to sell your car because it's old and not worth much. Which do you say?",
+      "options": [
+        "If I sold my car, I wouldn't get much money for it.",
+        "If I sell my car, I won't get much money for it.",
+        "If I would sell my car, I wouldn't get much money for it."
+      ],
+      "answer": 0,
+      "explanation": "You are not going to sell the car, so you imagine it: if + past (sold) and wouldn't in the other part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be careful with that vase. If you ___ it, it would break into small pieces.",
+      "hint": "(drop)",
+      "answers": ["dropped"],
+      "explanation": "You are imagining something that you don't expect to happen, so use if + past: if you dropped it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You often see Sarah. A friend of yours wants to contact her. Which do you say?",
+      "options": [
+        "If I see Sarah, I'll tell her to call you.",
+        "If I saw Sarah, I'd tell her to call you.",
+        "If I'll see Sarah, I'll tell her to call you."
+      ],
+      "answer": 0,
+      "explanation": "You often see Sarah, so it is a real possibility: if + present (see) and will in the other part."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the speaker think the situation is possible, or is it something they don't expect to happen?",
+      "categories": ["Possible - a real situation", "Not expected - an imagined situation"],
+      "items": [
+        { "text": "If we take the bus, it will be cheaper.", "category": 0 },
+        { "text": "If we took the bus, it would be cheaper.", "category": 1 },
+        { "text": "If you find my watch, can you call me?", "category": 0 },
+        { "text": "If you found a wallet in the street, what would you do?", "category": 1 },
+        { "text": "I'd be surprised if they didn't come to the party.", "category": 1 },
+        { "text": "If you go right at the end of this street, you'll see a bank.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't afford to buy a car. If ___ a car, I'd have to borrow the money.",
+      "hint": "(I / buy)",
+      "answers": ["I bought"],
+      "explanation": "An imagined situation: if + past (I bought) with would in the other part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you had a party, who ___?",
+      "hint": "(you / invite)",
+      "answers": ["would you invite"],
+      "explanation": "The if-part has the past (had), so the question part uses would: who would you invite?"
+    },
+    {
+      "type": "true_false",
+      "statement": "I'd be very scared if somebody would point a gun at me.",
+      "answer": false,
+      "explanation": "I'd be very scared if somebody pointed a gun at me. We don't normally use would in the if-part."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each if-part with the result that goes with it.",
+      "pairs": [
+        { "left": "If I won a lot of money,", "right": "I might buy a house." },
+        { "left": "If it stopped raining,", "right": "we could go out." },
+        { "left": "If I went to bed now,", "right": "I wouldn't sleep." },
+        { "left": "If we went by bus,", "right": "it would be cheaper." },
+        { "left": "If somebody pointed a gun at me,", "right": "I'd be very scared." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think Gary and Emma will get married. ___ amazed if they did.",
+      "hint": "(I / be)",
+      "answers": ["I'd be", "I would be"],
+      "explanation": "I don't expect it to happen, so use would in the main part: I'd be amazed."
+    },
+    {
+      "type": "word_order",
+      "prompt": "We're not going to stay at a hotel. (it / cost too much) Write a sentence beginning If ...",
+      "words": ["If", "we", "stayed", "at a hotel,", "it", "would", "cost", "too much."],
+      "answer": "If we stayed at a hotel, it would cost too much.",
+      "explanation": "We are not going to stay at a hotel, so: if + past (stayed) and would in the other part."
+    },
+    {
+      "type": "true_false",
+      "statement": "If it stopped raining, we could go out.",
+      "answer": true,
+      "explanation": "Correct. Could is possible instead of would here: we could go out = we would be able to go out."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Kevin is not going to apply for the job. (he / not / get it) Write a sentence beginning If ...",
+      "words": ["If", "he", "applied", "for the job,", "he", "wouldn't", "get", "it."],
+      "answer": "If he applied for the job, he wouldn't get it.",
+      "explanation": "Kevin is not going to apply, so we imagine it: if he applied ... he wouldn't get it."
+    }
+  ]
+}

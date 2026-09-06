@@ -1,0 +1,160 @@
+{
+  "number": 60,
+  "title": "Preposition (in/for/about etc.) + -ing",
+  "subtitle": "interested in doing / without stopping / look forward to doing",
+  "summary": "After a preposition (in, for, about, before, by, without, to ...) a verb takes the -ing form, including after look forward to and prefer ... to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Preposition + -ing",
+      "text": "If a preposition (in/for/about etc.) is followed by a verb, the verb ends in **-ing**. You can also say 'instead of somebody doing something', 'fed up with people doing something' etc.",
+      "examples": [
+        { "text": "Are you interested **in working** for us?" },
+        { "text": "I'm not good **at learning** languages." },
+        { "text": "Kate must be fed up **with studying**." },
+        { "text": "What are the advantages **of having** a car?" },
+        { "text": "Thanks very much **for inviting** me to your party." },
+        { "text": "How **about meeting** for lunch tomorrow?" },
+        { "text": "Why don't you go out **instead of sitting** at home all the time?" },
+        { "text": "Amy went to work **in spite of feeling** ill." },
+        { "text": "I'm fed up with **people telling** me what to do." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "before -ing / after -ing",
+      "text": "We say **before -ing** and **after -ing**. You can also say 'Before I went out ...' and '... after you left school'.",
+      "examples": [
+        { "text": "**Before going** out, I phoned Sarah.", "wrong": "Before to go out" },
+        { "text": "What did you do **after leaving** school?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "by -ing",
+      "text": "We use **by -ing** to say how something happens.",
+      "examples": [
+        { "text": "You can improve your English **by reading** more." },
+        { "text": "She made herself ill **by not eating** properly." },
+        { "text": "Many accidents are caused **by people driving** too fast." },
+        { "text": "The burglars got into the house **by breaking** a window and **climbing** in." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "without -ing",
+      "text": "We also use -ing after **without**.",
+      "examples": [
+        { "text": "We ran ten kilometres **without stopping**." },
+        { "text": "It was a stupid thing to say. I said it **without thinking**." },
+        { "text": "She needs to work **without people disturbing** her.", "note": "or ... without being disturbed" },
+        { "text": "I have enough problems of my own **without having** to worry about yours." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "to + -ing (look forward to doing)",
+      "text": "We often use **to + infinitive** (*We decided to travel by train.*). But **to** is also a preposition, like in/for/about (*We went from Paris to Geneva. I prefer tea to coffee. Are you looking forward to the weekend?*). When **to** is a preposition and it is followed by a verb, we use **to -ing**.",
+      "examples": [
+        { "text": "I prefer driving **to travelling** by train.", "wrong": "to travel" },
+        { "text": "Are you looking forward **to going** on holiday?", "wrong": "looking forward to go" },
+        { "text": "I'm fed up **with travelling** by train. / How **about going** away this weekend?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "look forward to, prefer ... to, be used to - here to is a preposition, so the next verb ends in -ing: looking forward to seeing you."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Before ___ out, I phoned Sarah.",
+      "options": ["going", "to go", "go"],
+      "answer": 0,
+      "explanation": "After the preposition before, the verb ends in -ing: before going out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen has a good memory for names. Helen is good at ___.",
+      "hint": "(remember / names)",
+      "answers": ["remembering names"],
+      "explanation": "good at + -ing: good at remembering names."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you get into trouble because you were late? Did you get into trouble for ___?",
+      "hint": "(be / late)",
+      "answers": ["being late"],
+      "explanation": "for + -ing: for being late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't eat at home. We went to a restaurant instead. We went to a restaurant instead of ___.",
+      "hint": "(eat / at home)",
+      "answers": ["eating at home"],
+      "explanation": "instead of + -ing: instead of eating at home."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the sentence beginnings with their endings.",
+      "pairs": [
+        { "left": "You can improve your English", "right": "by reading more." },
+        { "left": "She made herself ill", "right": "by not eating properly." },
+        { "left": "Many accidents are caused", "right": "by people driving too fast." },
+        { "left": "The burglars got into the house", "right": "by breaking a window." },
+        { "left": "We ran ten kilometres", "right": "without stopping." },
+        { "left": "It was a stupid thing to say. I said it", "right": "without thinking." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was able to reach the top shelf ___ on a chair.",
+      "hint": "(by / stand)",
+      "answers": ["by standing"],
+      "explanation": "by -ing says how something happened: by standing on a chair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kevin got himself into financial trouble ___ too much money.",
+      "hint": "(by / borrow)",
+      "answers": ["by borrowing"],
+      "explanation": "by -ing: by borrowing too much money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan left the hotel without ___ his bill.",
+      "hint": "(one word)",
+      "answers": ["paying", "settling"],
+      "explanation": "without + -ing: without paying his bill."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you touch your toes without ___ your knees?",
+      "hint": "(one word)",
+      "answers": ["bending"],
+      "explanation": "without + -ing: without bending your knees."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I prefer driving ___ by train.",
+      "options": ["to travelling", "to travel", "than travelling"],
+      "answer": 0,
+      "explanation": "prefer something to something else - here to is a preposition, so the verb is -ing: to travelling."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You're going to the dentist tomorrow and you don't enjoy visits to the dentist. Say how you feel.",
+      "words": ["I'm not", "looking forward", "to", "going", "to the dentist."],
+      "answer": "I'm not looking forward to going to the dentist.",
+      "explanation": "look forward to + -ing: looking forward to going."
+    },
+    {
+      "type": "true_false",
+      "statement": "Are you looking forward to go on holiday?",
+      "answer": false,
+      "explanation": "Are you looking forward to going on holiday? After look forward to, the verb ends in -ing."
+    }
+  ]
+}

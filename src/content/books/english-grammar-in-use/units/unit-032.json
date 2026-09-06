@@ -1,0 +1,172 @@
+{
+  "number": 32,
+  "title": "must, mustn't, needn't",
+  "subtitle": "You must / You mustn't / You needn't",
+  "summary": "Tell apart mustn't (don't do it) and needn't (it's not necessary), and use needn't have (done) for something you did that was not necessary.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "must and mustn't",
+      "text": "**You must do something** = it is necessary that you do it. **You mustn't do something** = don't do it.",
+      "examples": [
+        { "text": "Don't tell anybody what I said. You **must keep** it a secret." },
+        { "text": "We don't have much time. We **must hurry**." },
+        { "text": "You must keep it a secret. You **mustn't tell** anyone.", "note": "= don't tell anyone" },
+        { "text": "We must be very quiet. We **mustn't make** any noise." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "needn't and don't need to",
+      "text": "**You needn't do something** = it's not necessary to do it (but you can if you want). You can also use **don't/doesn't need to**. Note that we say *don't need to do*, but *needn't do* (without to).",
+      "examples": [
+        { "text": "We have plenty of time. We **needn't hurry**.", "note": "= it is not necessary to hurry" },
+        { "text": "Joe can stay here. He **needn't come** with us.", "note": "= it is not necessary for him to come" },
+        { "text": "We **don't need to hurry**.", "wrong": "We don't need hurry" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "needn't or mustn't?",
+      "left": {
+        "label": "needn't = it is not necessary",
+        "examples": [
+          "You **needn't tell** Steve. I can tell him myself. (= it is not necessary)",
+          "We have plenty of time. We **needn't hurry**."
+        ]
+      },
+      "right": {
+        "label": "mustn't = don't do it",
+        "examples": [
+          "You **mustn't tell** Steve. I don't want him to know. (= don't tell him)",
+          "We must be very quiet. We **mustn't make** any noise."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "needn't have (done)",
+      "text": "Paul and Sarah reserved a table at a restaurant. But when they went to the restaurant, it was almost empty. *They **needn't have reserved** a table.* This means: they reserved a table, but now they know this was not necessary. Compare needn't (do) and needn't have (done).",
+      "examples": [
+        { "text": "Everything will be OK. You **needn't worry**.", "note": "it is not necessary" },
+        { "text": "Everything was OK. You **needn't have worried**.", "note": "you worried, but it was not necessary" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "needn't have (done) or didn't need to (do)?",
+      "left": {
+        "label": "needn't have done = he did it, but it was not necessary",
+        "examples": [
+          "Why did he get up at 5 o'clock? He **needn't have got up** so early. He could have stayed in bed longer."
+        ]
+      },
+      "right": {
+        "label": "didn't need to do = it was not necessary (whether he did it or not)",
+        "text": "It doesn't matter whether he did it or not. You can also say He didn't have to get up.",
+        "examples": [
+          "He **didn't need to get up** early, so he didn't.",
+          "He **didn't need to get up** early, but it was a beautiful morning, so he did."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "needn't have done always means the person DID it (for nothing). If you only want to say it wasn't necessary, use didn't need to or didn't have to."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with must to the sentence with mustn't that has a similar meaning.",
+      "pairs": [
+        { "left": "You must be very quiet.", "right": "You mustn't make any noise." },
+        { "left": "You must remember your password.", "right": "You mustn't forget it." },
+        { "left": "You must be brave.", "right": "You mustn't be afraid." },
+        { "left": "You must be on time.", "right": "You mustn't be late." },
+        { "left": "You must leave the furniture as it is.", "right": "You mustn't move anything." },
+        { "left": "You must go away.", "right": "You mustn't stay here." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I have to talk to Gary. I ___ remember to call him.",
+      "options": ["must", "mustn't", "needn't"],
+      "answer": 0,
+      "explanation": "It is necessary that I remember: must."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which phrase completes each sentence: mustn't or needn't / don't need to?",
+      "categories": ["mustn't", "needn't / don't need to"],
+      "items": [
+        { "text": "I have to talk to Gary. I ___ forget to call him.", "category": 0 },
+        { "text": "There's plenty of time for you to decide. You ___ decide now.", "category": 1 },
+        { "text": "These are important documents. We ___ lose them.", "category": 0 },
+        { "text": "You ___ wait for me. You go on and I'll join you later.", "category": 1 },
+        { "text": "This is a dangerous situation and we need to be careful. We ___ do anything stupid.", "category": 0 },
+        { "text": "I understand the situation perfectly. You ___ explain further.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can manage the shopping alone. You ___ with me.",
+      "hint": "(needn't + come)",
+      "answers": ["needn't come", "need not come", "don't need to come"],
+      "explanation": "It is not necessary for you to come: needn't come (without to)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll be all right. You ___ about me.",
+      "hint": "(needn't + worry)",
+      "answers": ["needn't worry", "need not worry", "don't need to worry"],
+      "explanation": "It is not necessary to worry: needn't worry."
+    },
+    {
+      "type": "true_false",
+      "statement": "You needn't to shout. I can hear you perfectly.",
+      "answer": false,
+      "explanation": "You needn't shout (or You don't need to shout / You don't have to shout). Needn't is followed by the infinitive without to."
+    },
+    {
+      "type": "true_false",
+      "statement": "This train is direct. You don't need to change.",
+      "answer": true,
+      "explanation": "Correct. Don't need to + infinitive = it is not necessary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why did you walk home? Why didn't you take a taxi? You ___ home. You could have taken a taxi.",
+      "hint": "(needn't + walk)",
+      "answers": ["needn't have walked", "need not have walked"],
+      "explanation": "You walked, but it was not necessary: needn't have + past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Why did she phone me at 3 am? Why didn't she wait until the morning? Make a sentence with needn't have.",
+      "words": ["She", "needn't", "have", "phoned", "me", "at 3 am."],
+      "answer": "She needn't have phoned me at 3 am.",
+      "explanation": "She phoned, but it was not necessary: needn't have phoned."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why did he get up at 5 o'clock? He ___ so early. He could have stayed in bed longer.",
+      "options": ["needn't have got up", "needn't got up", "mustn't have got up"],
+      "answer": 0,
+      "explanation": "He got up, but it was not necessary: needn't have + past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "You mustn't lock the door. It's OK to leave it unlocked.",
+      "answer": false,
+      "explanation": "You needn't lock the door (or You don't need to / don't have to lock the door). It is not necessary - mustn't would mean 'don't do it'."
+    },
+    {
+      "type": "true_false",
+      "statement": "I needn't have said anything, so I kept quiet.",
+      "answer": false,
+      "explanation": "I didn't need to say anything (or I didn't have to say anything), so I kept quiet. Needn't have said would mean I did say something."
+    }
+  ]
+}

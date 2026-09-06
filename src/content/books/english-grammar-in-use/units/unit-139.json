@@ -1,0 +1,168 @@
+{
+  "number": 139,
+  "title": "Phrasal verbs 3: out",
+  "subtitle": "go out / put out, work out, find out, run out of",
+  "summary": "Use phrasal verbs with out: lights going out, the many meanings of work out, and verbs such as carry out, find out, sort out and turn out.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "out = not burning, not shining",
+      "text": "**go out** (a light, a fire), **put out** a fire / a cigarette / a light, **turn out** a light and **blow out** a candle. In all of these, out means that something stops burning or shining.",
+      "examples": [
+        { "text": "Suddenly all the lights in the building **went out**." },
+        { "text": "I **put** the fire **out** with a fire extinguisher." },
+        { "text": "I **turned** the lights **out** before leaving." },
+        { "text": "We don't need the candle. You can **blow it out**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "work out - one phrasal verb, several meanings",
+      "columns": ["Meaning", "Example"],
+      "rows": [
+        ["do physical exercises", "Rachel **works out** at the gym three times a week."],
+        ["develop, progress", "Good luck for the future. I hope everything **works out** well for you."],
+        ["for calculations", "The total bill for three people is £97.35. That **works out at** £32.45 each."],
+        ["work something out = calculate", "345 x 76? I need a calculator. I can't **work it out** in my head."],
+        ["work out / figure out = understand, find an answer", "Investigators are trying to **work out** what caused the accident. or ... trying to **figure out** what caused ..."]
+      ],
+      "note": "*A:* Why did James leave the company? *B:* Things didn't **work out**. (= things didn't work out well)"
+    },
+    {
+      "type": "explain",
+      "heading": "carry out, find out, give out",
+      "text": "**carry out** an order / an experiment / a survey / an investigation / a plan etc. **find out** that / what / when ... or **find out about** ... = get information about. **give out** or **hand out** things = give one to each person.",
+      "examples": [
+        { "text": "Soldiers are expected to **carry out** orders." },
+        { "text": "An investigation into the accident will be **carried out**." },
+        { "text": "The police never **found out** who committed the crime." },
+        { "text": "I checked a few websites to **find out about** hotels in the town." },
+        { "text": "At the end of the lecture, the speaker **gave out** information sheets to the audience." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "point out, run out of, sort out",
+      "text": "**point something out** (to somebody) = draw attention to it. **run out of** something = use all of it so that there is none left. **sort something out** = find a solution to it, put it in order.",
+      "examples": [
+        { "text": "As we drove through the city, the tour guide **pointed out** all the sights." },
+        { "text": "I didn't realise I'd made a mistake until somebody **pointed it out** to me." },
+        { "text": "We **ran out of** petrol on the motorway.", "note": "= we used all our petrol" },
+        { "text": "There are a few problems we need to **sort out**." },
+        { "text": "All these papers are mixed up. I'll have to **sort them out**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "turn out, try out",
+      "text": "**turn out to be** ... / **turn out** good / nice etc. / **turn out that** ... = it became clear in the end. **try out** a machine, a system, a new idea etc. = test it to see if it is OK.",
+      "examples": [
+        { "text": "Nobody believed Paul at first, but he **turned out to be** right." },
+        { "text": "The weather wasn't so good in the morning, but it **turned out** nice later." },
+        { "text": "I thought they knew each other, but it **turned out that** they'd never met." },
+        { "text": "The company is **trying out** some new software at the moment." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**run out of** always keeps its **of** before the thing that is finished: we ran out of petrol / time / money - not ~~ran out petrol~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which words go together? Match each verb + out with the thing it is used with.",
+      "pairs": [
+        { "left": "turn out", "right": "a light" },
+        { "left": "blow out", "right": "a candle" },
+        { "left": "carry out", "right": "an order" },
+        { "left": "put out", "right": "a fire" },
+        { "left": "try out", "right": "a new product" },
+        { "left": "sort out", "right": "a problem" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "There was a power cut and all the lights ___.",
+      "options": ["went out", "put out", "ran out"],
+      "answer": 0,
+      "explanation": "go out = stop shining (lights) or stop burning (a fire)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve is very fit. He does a lot of sport and ___ regularly.",
+      "hint": "(verb + out)",
+      "answers": ["works out"],
+      "explanation": "work out = do physical exercises."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't manage to discuss everything at the meeting. We ___ of time.",
+      "hint": "(verb + out)",
+      "answers": ["ran out"],
+      "explanation": "run out of something = use all of it so that there is none left."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The road will be closed for two days while building work is ___.",
+      "hint": "(carry + out)",
+      "answers": ["carried out"],
+      "explanation": "carry out work / a plan / an investigation = do it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does work out mean in each sentence?",
+      "categories": ["do physical exercise", "develop / progress", "calculate or understand"],
+      "items": [
+        { "text": "Rachel works out at the gym three times a week.", "category": 0 },
+        { "text": "I hope everything works out well for you.", "category": 1 },
+        { "text": "I need a calculator. I can't work it out in my head.", "category": 2 },
+        { "text": "Things didn't work out, so James left the company.", "category": 1 },
+        { "text": "Investigators are trying to work out what caused the accident.", "category": 2 },
+        { "text": "Sally and Kim are working out at the gym.", "category": 0 },
+        { "text": "The bill works out at £32.45 each.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We thought she was American at first, but she ___ to be Swedish.",
+      "hint": "(verb + out)",
+      "answers": ["turned out"],
+      "explanation": "turn out to be = it became clear in the end that ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "The new drug will be tried out on a small group of patients.",
+      "answer": true,
+      "explanation": "Correct. try out = test something to see if it is OK."
+    },
+    {
+      "type": "true_false",
+      "statement": "We ran out petrol on the motorway and had to walk to the nearest garage.",
+      "answer": false,
+      "explanation": "We ran out of petrol on the motorway. run out OF something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They got married a few years ago, but it didn't ___ and they separated.",
+      "options": ["work out", "sort out", "turn out"],
+      "answer": 0,
+      "explanation": "work out = develop or progress well. Things didn't work out = things didn't go well."
+    },
+    {
+      "type": "word_order",
+      "prompt": "'How much money do I owe you exactly?' Say that you need a moment to calculate it.",
+      "words": ["Just a moment.", "I'll", "have to", "work", "it", "out."],
+      "answer": "Just a moment. I'll have to work it out.",
+      "explanation": "work it out = calculate it; the pronoun goes in the middle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You've written the wrong date on this form.' 'Oh, so I have. Thanks for ___.'",
+      "hint": "(point + it + out)",
+      "answers": ["pointing it out"],
+      "explanation": "point something out = draw attention to it. After thanks for we use -ing."
+    }
+  ]
+}

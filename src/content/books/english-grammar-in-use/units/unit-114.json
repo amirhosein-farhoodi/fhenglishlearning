@@ -1,0 +1,168 @@
+{
+  "number": 114,
+  "title": "in case",
+  "subtitle": "in case you have a puncture / just in case / in case of fire",
+  "summary": "Use in case to explain why you do something now because something might happen later, and tell it apart from if.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in case something happens",
+      "text": "Your car should have a spare wheel **in case** you have a puncture. This means: because it is possible you will have a puncture. **In case something happens** = because it is possible it will happen.",
+      "examples": [
+        { "text": "I'd better write down my password **in case** I forget it.", "note": "= because it is possible I will forget it" },
+        { "text": "Shall I draw a map for you **in case** you have a problem finding our house?", "note": "= because it is possible you will have problems finding it" },
+        { "text": "I'll remind them about the meeting **in case** they've forgotten.", "note": "= because it is possible they have forgotten" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "just in case, and no will",
+      "text": "We use **just in case** for a smaller possibility. We do not use will after in case - use a present tense.",
+      "examples": [
+        { "text": "I don't think it will rain, but I'll take an umbrella **just in case**.", "note": "= just in case it rains" },
+        { "text": "I'll write down my password **in case I forget** it.", "wrong": "in case I will forget" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in case or if?",
+      "left": {
+        "label": "in case",
+        "text": "We use in case to say why somebody does something. You do something now in case something happens later.",
+        "examples": [
+          "We'll buy some more food **in case** Tom comes. (= Maybe Tom will come. We'll buy the food now, whether he comes or not. Then we'll already have it if he comes.)",
+          "I'll give you my phone number **in case** you need to contact me.",
+          "You should insure your bike **in case** it is stolen."
+        ]
+      },
+      "right": {
+        "label": "if",
+        "text": "With if, what you do depends on what happens.",
+        "examples": [
+          "We'll buy some more food **if** Tom comes. (= Maybe Tom will come. If he comes, we'll buy some more food. If he doesn't come, we won't buy any.)",
+          "You can call me on this number **if** you need to contact me.",
+          "You should inform the police **if** your bike is stolen."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "in case + past",
+      "text": "You can use **in case + past** to say why somebody did something in the past.",
+      "examples": [
+        { "text": "I gave him my phone number **in case he needed** to contact me.", "note": "= because it was possible that he would need to contact me" },
+        { "text": "I drew a map for Sarah **in case she had** a problem finding our house." },
+        { "text": "We rang the doorbell again **in case they hadn't heard** it the first time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in case of",
+      "text": "**In case of** ... = if there is ... . It is used especially on notices and in instructions.",
+      "examples": [
+        { "text": "**In case of** fire, please leave the building as quickly as possible.", "note": "= if there is a fire" },
+        { "text": "**In case of** emergency, call this number.", "note": "= if there is an emergency" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself when the action happens. In case = I do it now, before anything happens (take an umbrella in case it rains). If = I do it only after the condition comes true (I'll open the umbrella if it rains)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I'd better write down my password ___ I forget it.",
+      "options": ["in case", "if", "in case of"],
+      "answer": 0,
+      "explanation": "I write it down now because it is possible I will forget it later: in case."
+    },
+    {
+      "type": "matching",
+      "prompt": "Sophie is going for a long walk in the country. Match each piece of advice with the reason for it.",
+      "pairs": [
+        { "left": "Take a map", "right": "in case you get lost." },
+        { "left": "You should take some chocolate", "right": "in case you get hungry." },
+        { "left": "You'll need an anorak", "right": "in case it rains." },
+        { "left": "Take plenty of water", "right": "in case you get thirsty." },
+        { "left": "Don't forget your phone", "right": "in case you need to call somebody." },
+        { "left": "Shall I come with you", "right": "in case you get lonely?" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'll write down my password in case I will forget it.",
+      "answer": false,
+      "explanation": "I'll write down my password in case I forget it. We do not use will after in case."
+    },
+    {
+      "type": "true_false",
+      "statement": "In case of fire, please leave the building as quickly as possible.",
+      "answer": true,
+      "explanation": "Correct. In case of fire = if there is a fire. This form is used on notices and in instructions."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It's possible that Jane will need to contact you, so you give her your phone number. What do you say?",
+      "words": ["I'll give you", "my phone number", "in case", "you", "need", "to contact me."],
+      "answer": "I'll give you my phone number in case you need to contact me.",
+      "explanation": "In case + present tense (you need) explains why you give the number now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friend of yours is going away for a long time. Maybe you won't see her again before she goes, so you decide to say goodbye now. You say: I'll say goodbye now ___.",
+      "hint": "(in case / not see / again)",
+      "answers": ["in case I don't see you again", "in case I don't see you again before you go", "in case I do not see you again"],
+      "explanation": "In case + present tense: in case I don't see you again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You're shopping with a friend. She's just bought some jeans, but she didn't try them on. Maybe they won't fit her. You say: Keep the receipt ___.",
+      "hint": "(in case / not fit)",
+      "answers": ["in case they don't fit you", "in case they don't fit", "in case they do not fit you", "in case they do not fit"],
+      "explanation": "Keep the receipt now because it is possible the jeans won't fit: in case they don't fit you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I thought that I might forget the name of the book, so I wrote it down. I wrote down the name of the book ___.",
+      "hint": "(in case / forget)",
+      "answers": ["in case I forgot it"],
+      "explanation": "For a past action we use in case + past: in case I forgot it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sent an email to Lisa, but she didn't reply. So I sent another email, because maybe she didn't get the first one. I sent her another email ___.",
+      "hint": "(in case / not get / the first one)",
+      "answers": ["in case she didn't get the first one", "in case she hadn't got the first one", "in case she did not get the first one"],
+      "explanation": "In case + past to say why I did something: in case she didn't get the first one."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word fits the gap: in case or if?",
+      "categories": ["in case", "if"],
+      "items": [
+        { "text": "I made a copy of the document ___ something happens to the original.", "category": 0 },
+        { "text": "This book belongs to Kate. Can you give it to her ___ you see her?", "category": 1 },
+        { "text": "Write your name and phone number on your bag ___ you lose it.", "category": 0 },
+        { "text": "Go to the lost property office ___ you lose your bag.", "category": 1 },
+        { "text": "The burglar alarm will ring ___ somebody tries to break into the house.", "category": 1 },
+        { "text": "You should lock your bike to something ___ somebody tries to steal it.", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I hope you'll come to Australia sometime. ___ you come, you must visit us.",
+      "options": ["If", "In case", "In case of"],
+      "answer": 0,
+      "explanation": "Visiting us depends on whether you come, so this is a condition: If you come."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was advised to get insurance ___ I needed medical treatment while I was abroad.",
+      "options": ["in case", "if", "in case of"],
+      "answer": 0,
+      "explanation": "You get insurance before anything happens, because it is possible you will need treatment: in case (+ past here, because the advice was in the past)."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "number": 2,
+  "title": "Present simple (I do)",
+  "subtitle": "I do",
+  "summary": "Use the present simple for things that are true in general or happen repeatedly, and make questions and negatives with do/does.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Alex is a bus driver, but now he is in bed asleep. He is not driving a bus - he is asleep. But **he drives** a bus: he is a bus driver. **drive(s), work(s), do(es)** etc. is the present simple. We use it for what is generally true, not for what is happening right now.",
+      "examples": [
+        { "text": "He is not driving a bus. (He is asleep.)" },
+        { "text": "but **He drives** a bus. He is a bus driver." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "Verb"],
+      "rows": [
+        ["I / we / you / they", "drive / work / do"],
+        ["he / she / it", "drives / works / does"]
+      ],
+      "note": "I work but he works; you go but it goes; I have but he has; they teach but my sister teaches."
+    },
+    {
+      "type": "explain",
+      "heading": "Things in general",
+      "text": "We use the present simple to talk about things in general. We use it to say that something happens all the time or repeatedly, or that something is true in general.",
+      "examples": [
+        { "text": "Nurses **look after** patients in hospitals." },
+        { "text": "I usually **go** away at weekends." },
+        { "text": "The earth **goes** round the sun." },
+        { "text": "The cafe **opens** at 7.30 in the morning." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions and negatives: do/does",
+      "text": "We use **do/does** to make questions and negative sentences: *do I/we/you/they work?*, *does he/she/it drive?*; *I don't work*, *he doesn't drive*. Sometimes **do** is also the main verb of the sentence (do you do / doesn't do).",
+      "examples": [
+        { "text": "I come from Canada. Where **do you come** from?" },
+        { "text": "I **don't go** away very often." },
+        { "text": "What **does** this word **mean**?", "wrong": "What means this word?" },
+        { "text": "Rice **doesn't grow** in cold climates." },
+        { "text": "'What **do you do**?' 'I work in a shop.'" },
+        { "text": "He's always so lazy. He **doesn't do** anything to help." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How often",
+      "text": "We use the present simple to say how often we do things, often with words like **usually**, **every morning**, **very often** or **two or three times a year**.",
+      "examples": [
+        { "text": "I **get up** at 8 o'clock every morning." },
+        { "text": "How often **do you go** to the dentist?" },
+        { "text": "Julie **doesn't drink** tea very often." },
+        { "text": "Robert usually **goes** away two or three times a year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I promise / I apologise etc.",
+      "text": "Sometimes we do things by saying something. When you promise to do something, you can say *I promise ...*; when you suggest something, you can say *I suggest ...*. We use the present simple here, not the continuous. In the same way we say **I apologise ... / I advise ... / I insist ... / I agree ... / I refuse ...** etc.",
+      "examples": [
+        { "text": "**I promise** I won't be late.", "wrong": "I'm promising" },
+        { "text": "'What **do you suggest** I do?' '**I suggest** that you ...'" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the -s with he/she/it in positive sentences (she works), but no -s after does/doesn't (does she work? she doesn't work)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Ben and Jack ___ to the same school.",
+      "hint": "(go)",
+      "answers": ["go"],
+      "explanation": "Ben and Jack = they, so the verb has no -s: they go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Olympic Games ___ place every four years.",
+      "hint": "(take)",
+      "answers": ["take"],
+      "explanation": "The Games = they. Something that happens repeatedly takes the present simple: take place."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Bad driving ___ many accidents.",
+      "options": ["causes", "cause", "is causing"],
+      "answer": 0,
+      "explanation": "Bad driving = it, so we add -s: causes. This is true in general, so we do not use the continuous."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each subject with what is true about it in general.",
+      "pairs": [
+        { "left": "Bees", "right": "make honey." },
+        { "left": "Vegetarians", "right": "don't eat meat." },
+        { "left": "An atheist", "right": "doesn't believe in God." },
+        { "left": "An interpreter", "right": "translates from one language into another." },
+        { "left": "Liars are people who", "right": "don't tell the truth." },
+        { "left": "The River Amazon", "right": "flows into the Atlantic Ocean." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What time ___ here?",
+      "hint": "(the banks / close)",
+      "answers": ["do the banks close"],
+      "explanation": "Questions in the present simple use do/does + subject + infinitive: do the banks close."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have a car, but I ___ it much.",
+      "hint": "(not / use)",
+      "answers": ["don't use", "do not use"],
+      "explanation": "Negative with I/we/you/they: don't + infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Look at this sentence. What means this word?",
+      "answer": false,
+      "explanation": "What does this word mean? Questions need do/does + subject + infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Where does Maria come from? Is she Spanish?",
+      "answer": true,
+      "explanation": "Correct. Questions about he/she/it use does + infinitive: does Maria come."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Perhaps Lisa's sister plays tennis too. You want to know. Ask Lisa.",
+      "words": ["Does", "your sister", "play", "tennis?"],
+      "answer": "Does your sister play tennis?",
+      "explanation": "Yes/no question: Does + subject + infinitive (no -s on play)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You know that Lisa's brother works. You want to know what he does. Ask Lisa.",
+      "words": ["What", "does", "your brother", "do?"],
+      "answer": "What does your brother do?",
+      "explanation": "Here do is the main verb: What does he do? = What is his job?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "I won't tell anybody what you said. ___.",
+      "options": ["I promise", "I suggest", "I apologise"],
+      "answer": 0,
+      "explanation": "We do something by saying it: I promise (not I'm promising)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "(in a restaurant) You must let me pay for the meal. ___.",
+      "options": ["I insist", "I agree", "I recommend"],
+      "answer": 0,
+      "explanation": "I insist = I strongly want this. Present simple, like I promise / I apologise."
+    }
+  ]
+}

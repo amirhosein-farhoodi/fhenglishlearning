@@ -1,0 +1,178 @@
+{
+  "number": 112,
+  "title": "even",
+  "subtitle": "even the bathroom / she's even been to the Antarctic / even earlier / even though",
+  "summary": "Use even to say that something is unusual or surprising, put it in the right place with the verb, use even + comparative, and use even though / even if with a subject and verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Something unusual or surprising",
+      "text": "Tina loves watching TV. She has a television in every room of the house, **even the bathroom**. We use **even** to say that something is unusual or surprising. It is not usual to have a television in the bathroom.",
+      "examples": [
+        { "text": "These pictures are really awful. **Even I** take better pictures than these.", "note": "and I'm certainly not a good photographer" },
+        { "text": "He always wears a coat, **even in hot weather**." },
+        { "text": "The print was very small. I couldn't read it, **even with glasses**." },
+        { "text": "Nobody would help her, **not even her best friend**. or **Not even her best friend** would help her." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "even with the verb",
+      "text": "You can use **even** with the verb in the middle of a sentence. You can also use even with a negative: **not even, can't even, don't even** etc.",
+      "examples": [
+        { "text": "Laura has travelled all over the world. She's **even been** to the Antarctic." },
+        { "text": "They are very rich. They **even have** their own private jet." },
+        { "text": "I can't cook. I **can't even boil** an egg.", "note": "and boiling an egg is very easy" },
+        { "text": "They weren't very friendly to us. They **didn't even say** hello." },
+        { "text": "Jessica is very fit. She's been running quite fast and she's **not even out of breath**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "even + comparative",
+      "text": "You can use **even** + comparative (cheaper / more expensive etc.) to say that something is more than you already expected.",
+      "examples": [
+        { "text": "I got up very early, but Jack got up **even earlier**." },
+        { "text": "I knew I didn't have much money, but I have **even less** than I thought." },
+        { "text": "We were very surprised to get an email from her. We were **even more surprised** when she came to see us a few days later." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "even though / even when / even if",
+      "text": "We use **even though / even when / even if** + subject + verb. We do not use even + subject + verb on its own.",
+      "examples": [
+        { "text": "**Even though** Tina can't drive, she has a car.", "wrong": "Even she can't drive" },
+        { "text": "He never shouts, **even when** he's angry." },
+        { "text": "This river is dangerous. It's dangerous to swim in it, **even if** you're a strong swimmer.", "wrong": "even you are" },
+        { "text": "I can't reach the shelf **even if** I stand on a chair.", "wrong": "even I stand" },
+        { "text": "The river is dangerous, **even for** strong swimmers.", "note": "even (without if) + noun" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "even if or if?",
+      "left": {
+        "label": "even if",
+        "text": "It doesn't matter what happens - the result is the same.",
+        "examples": [
+          "We're going to the beach tomorrow. It doesn't matter what the weather is like. We're going **even if** the weather is bad."
+        ]
+      },
+      "right": {
+        "label": "if",
+        "text": "The result depends on the condition.",
+        "examples": [
+          "We want to go to the beach tomorrow, but we won't go **if** the weather is bad."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Before a subject + verb you need even though, even when or even if - never even alone: even though she can't drive (not ~~even she can't drive~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Kate usually hates hotels. On holiday the three friends stayed at a hotel and everybody liked it, ___.",
+      "hint": "(even / not even + name)",
+      "answers": ["even Kate"],
+      "explanation": "It is surprising that Kate liked it, because she usually hates hotels: even Kate."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy is very interested in art. The friends went to an art gallery, but nobody enjoyed it, ___.",
+      "hint": "(even / not even + name)",
+      "answers": ["not even Amy"],
+      "explanation": "Nobody enjoyed it, and it is surprising that Amy didn't either: not even Amy."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lisa is almost always late. The friends arranged to meet and they all arrived on time, ___.",
+      "options": ["even Lisa", "not even Lisa", "even if Lisa", "even Lisa too"],
+      "answer": 0,
+      "explanation": "Everybody was on time, and it is surprising that Lisa was too: even Lisa."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rachel has met lots of famous people. Say that this includes the prime minister.",
+      "words": ["She's", "even", "met", "the", "prime minister."],
+      "answer": "She's even met the prime minister.",
+      "explanation": "Even goes with the verb in the middle of the sentence: She's even met ..."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I can't remember anything about her. Say that this includes her name.",
+      "words": ["I", "can't", "even", "remember", "her name."],
+      "answer": "I can't even remember her name.",
+      "explanation": "Negative + even: can't even remember."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The church is 700 years old, but the house next to it is ___.",
+      "hint": "(even + old)",
+      "answers": ["even older"],
+      "explanation": "Even + comparative: even older."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The first question was very difficult to answer. The second one was ___.",
+      "hint": "(even + difficult)",
+      "answers": ["even more difficult"],
+      "explanation": "Even + comparative with a long adjective: even more difficult."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Neither of us was hungry. I ate very little and my friend ate ___.",
+      "hint": "(even + little)",
+      "answers": ["even less"],
+      "explanation": "The comparative of little is less: even less."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the sentence that follows it.",
+      "pairs": [
+        { "left": "Tina loves watching TV.", "right": "She has a television in every room, even the bathroom." },
+        { "left": "Jack can't cook.", "right": "He can't even boil an egg." },
+        { "left": "They are very rich.", "right": "They even have their own private jet." },
+        { "left": "Laura has travelled all over the world.", "right": "She's even been to the Antarctic." },
+        { "left": "They weren't very friendly to us.", "right": "They didn't even say hello." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The bus leaves in five minutes, but we can still catch it ___ we run.",
+      "options": ["if", "even if", "even", "even though"],
+      "answer": 0,
+      "explanation": "Catching the bus depends on running, so this is a real condition: if we run."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The bus leaves in two minutes. We won't catch it now ___ we run.",
+      "options": ["even if", "if", "even", "even though"],
+      "answer": 0,
+      "explanation": "Running makes no difference to the result, so: even if we run."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mark's Spanish isn't very good, ___ after three years in Spain.",
+      "options": ["even", "even if", "even though", "if"],
+      "answer": 0,
+      "explanation": "There is no subject + verb after the gap, only a phrase (after three years), so even alone is correct."
+    },
+    {
+      "type": "true_false",
+      "statement": "Even she can't drive, she has a car.",
+      "answer": false,
+      "explanation": "Even though she can't drive, she has a car. Before subject + verb we need even though, not even alone."
+    },
+    {
+      "type": "true_false",
+      "statement": "I couldn't sleep even though I was very tired.",
+      "answer": true,
+      "explanation": "Correct. Even though + subject + verb (I was very tired) is the right form."
+    }
+  ]
+}

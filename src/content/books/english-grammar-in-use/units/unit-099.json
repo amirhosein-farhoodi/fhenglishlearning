@@ -1,0 +1,172 @@
+{
+  "number": 99,
+  "title": "Adjectives: a nice new house, you look tired",
+  "subtitle": "a nice new house / you look tired",
+  "summary": "Put adjectives in the right order before a noun, use adjectives (not adverbs) after be, look, feel, taste etc., and say the first two days, the next few weeks.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Opinion before fact",
+      "text": "Sometimes we use two or more adjectives together. Adjectives like **new/large/round/wooden** are *fact* adjectives: they give us information about age, size, colour etc. Adjectives like **nice/beautiful** are *opinion* adjectives: they tell us what the speaker thinks. Opinion adjectives usually go before fact adjectives.",
+      "examples": [
+        { "text": "My brother lives in a **nice new** house." },
+        { "text": "In the kitchen there was a **beautiful large round wooden** table." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "opinion + fact + noun",
+      "columns": ["Opinion", "Fact", "Noun"],
+      "rows": [
+        ["a nice", "long", "summer holiday"],
+        ["an interesting", "young", "man"],
+        ["delicious", "hot", "vegetable soup"],
+        ["a beautiful", "large round wooden", "table"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The order of fact adjectives",
+      "text": "When we use two or more fact adjectives, we usually (not always) put them in this order: 1 how big? 2 how old? 3 what colour? 4 where from? 5 what is it made of? Adjectives of size and length (big/small/tall/long) usually go before adjectives of shape and width (round/fat/thin/wide).",
+      "examples": [
+        { "text": "a **tall young** man (1 2)" },
+        { "text": "**big blue** eyes (1 3)" },
+        { "text": "a **small black plastic** bag (1 3 5)" },
+        { "text": "an **old white cotton** shirt (2 3 5)" },
+        { "text": "a **large round** table / a **tall thin** girl / a **long narrow** street" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Colours with and",
+      "text": "When there are two or more colour adjectives, we use **and**. This does not usually happen with other adjectives before a noun.",
+      "examples": [
+        { "text": "a **black and white** dress" },
+        { "text": "a **red, white and green** flag" },
+        { "text": "a **long black** dress", "wrong": "a long and black dress" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adjectives after be, look, feel ...",
+      "text": "We use adjectives after **be/get/become/seem**. We also use adjectives to say how somebody or something **looks, feels, sounds, tastes or smells**. But to say *how somebody does something* you must use an adverb.",
+      "examples": [
+        { "text": "Be **careful**! I'm **tired** and I'm getting **hungry**." },
+        { "text": "As the film went on, it became more and more **boring**. Your friend seems very **nice**." },
+        { "text": "You look **tired**. / I feel **tired**. / She sounds **tired**." },
+        { "text": "The dinner smells **good**. This tea tastes a bit **strange**." },
+        { "text": "Drive **carefully**! Suzanne plays the piano very **well**.", "wrong": "Drive careful / plays ... very good" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the first two days, the next few weeks",
+      "text": "We say **the first two days**, **the next few weeks**, **the last ten minutes** etc. The number word comes after first/next/last.",
+      "examples": [
+        { "text": "I didn't enjoy **the first two days** of the course.", "wrong": "the two first days" },
+        { "text": "They'll be away for **the next few weeks**.", "wrong": "the few next weeks" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After look, feel, sound, taste and smell, think 'be': you look tired = you are tired. If the sentence works with 'be', use an adjective, not an adverb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which phrase has the adjectives in the correct order?",
+      "options": ["a beautiful old house", "an old beautiful house", "a house beautiful old"],
+      "answer": 0,
+      "explanation": "Opinion adjectives (beautiful) go before fact adjectives (old)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the adjectives in the correct order: a sweater (green / nice / new).",
+      "words": ["a", "nice", "new", "green", "sweater"],
+      "answer": "a nice new green sweater",
+      "explanation": "Opinion (nice) comes first, then age (new), then colour (green)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the adjectives in the correct order: a painting (French / interesting / old).",
+      "words": ["an", "interesting", "old", "French", "painting"],
+      "answer": "an interesting old French painting",
+      "explanation": "Opinion (interesting), then age (old), then origin (French)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the adjectives in the correct order: a cat (black / white / big / fat).",
+      "words": ["a", "big", "fat", "black and white", "cat"],
+      "answer": "a big fat black and white cat",
+      "explanation": "Size (big) before shape (fat), then the colours joined with and."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't eat this. I've just tried it and it ___.",
+      "hint": "(taste + awful)",
+      "answers": ["tastes awful", "tasted awful"],
+      "explanation": "After taste we use an adjective: it tastes awful (not awfully)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's normal to ___ before an exam or an interview.",
+      "hint": "(feel + nervous)",
+      "answers": ["feel nervous"],
+      "explanation": "Feel is followed by an adjective: feel nervous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ___. Have you been out in the rain?",
+      "hint": "(look + wet)",
+      "answers": ["look wet"],
+      "explanation": "To say how somebody looks, we use look + adjective: You look wet."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The children were playing ___ in the garden.",
+      "options": ["happily", "happy", "happiness"],
+      "answer": 0,
+      "explanation": "Playing says what they did; to say how they did it we need an adverb: happily."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The soup tastes ___. Can you give me the recipe?",
+      "options": ["good", "well", "goodly"],
+      "answer": 0,
+      "explanation": "After taste we use an adjective: tastes good (not well)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need the adjective or the adverb?",
+      "categories": ["Adjective (happy, terrible ...)", "Adverb (happily, terribly ...)"],
+      "items": [
+        { "text": "I usually feel ___ when the sun is shining. (happy / happily)", "category": 0 },
+        { "text": "You look ___! Are you all right? (terrible / terribly)", "category": 0 },
+        { "text": "There's no point in doing a job if you don't do it ___. (proper / properly)", "category": 1 },
+        { "text": "Please hurry up! You're always so ___. (slow / slowly)", "category": 0 },
+        { "text": "A customer in the restaurant was behaving ___. (bad / badly)", "category": 1 },
+        { "text": "The customer became ___ when the manager asked him to leave. (violent / violently)", "category": 0 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the shorter way of saying it using the first / the next / the last.",
+      "pairs": [
+        { "left": "yesterday and the day before yesterday", "right": "the last two days" },
+        { "left": "the first week and the second week of May", "right": "the first two weeks of May" },
+        { "left": "tomorrow and a few days after that", "right": "the next few days" },
+        { "left": "questions 1, 2 and 3 in the exam", "right": "the first three questions" },
+        { "left": "next year and the year after", "right": "the next two years" },
+        { "left": "the last day of our holiday and the two days before that", "right": "the last three days of our holiday" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I didn't enjoy the two first days of the course.",
+      "answer": false,
+      "explanation": "I didn't enjoy the first two days of the course. The number goes after first/next/last."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "number": 81,
+  "title": "-'s (your sister's name) and of ... (the name of the book)",
+  "subtitle": "Tom's computer / the name of the book",
+  "summary": "Use -'s for people, animals and time words, and of ... for things and ideas.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "-'s for people and animals",
+      "text": "We use -'s (apostrophe + s) mostly for people or animals. You can use -'s without a noun after it. But we do not use -'s after a long group of words.",
+      "examples": [
+        { "text": "**Tom's computer** isn't working.", "wrong": "the computer of Tom" },
+        { "text": "How old are **Chris's children**?", "wrong": "the children of Chris" },
+        { "text": "What's **your sister's name**? What's **Tom's sister's name**?" },
+        { "text": "Be careful. Don't step on **the cat's tail**." },
+        { "text": "This isn't my book. It's **my sister's**.", "note": "= my sister's book" },
+        { "text": "**my friend's mother** but **the mother of the man we met yesterday**", "wrong": "the man we met yesterday's mother" }
+      ],
+      "note": "We also say a woman's hat (= a hat for a woman), a boy's name (= a name for a boy), a bird's egg (= an egg laid by a bird)."
+    },
+    {
+      "type": "table",
+      "heading": "Singular or plural noun?",
+      "columns": ["Noun", "Form", "Example"],
+      "rows": [
+        ["singular", "-'s", "my sister's room (= her room - one sister); Mr Carter's house"],
+        ["plural ending in -s", "-s'", "my sisters' room (= their room - two or more sisters); the Carters' house"],
+        ["plural not ending in -s", "-'s", "the men's changing room; a children's book (= a book for children)"],
+        ["more than one noun", "-'s after the last", "Jack and Karen's children; Mr and Mrs Carter's house"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "of ... for things",
+      "text": "For things and ideas we normally use of, not -'s. We also say the beginning/end/middle of ..., the top/bottom of ..., the front/back/side of ...",
+      "examples": [
+        { "text": "**the temperature of the water**", "wrong": "the water's temperature" },
+        { "text": "**the name of the book**, **the owner of the restaurant**" },
+        { "text": "**the beginning of the month**", "wrong": "the month's beginning" },
+        { "text": "**the top of the hill**, **the back of the car**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Organisations and places: both are possible",
+      "text": "For an organisation (= a group of people) you can usually use -'s or of ... We also use -'s for places.",
+      "examples": [
+        { "text": "**the government's decision** or **the decision of the government**" },
+        { "text": "**the company's success** or **the success of the company**" },
+        { "text": "**the city's streets**, **the world's population**, **Italy's prime minister**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-'s with time words",
+      "text": "We use -'s with time words such as yesterday, today, tomorrow, this evening, next week and Monday. We also use -'s (or -s' with plural words) with periods of time.",
+      "examples": [
+        { "text": "Do you still have **yesterday's newspaper**?" },
+        { "text": "**Next week's meeting** has been cancelled." },
+        { "text": "I've got **a week's holiday** starting on Monday." },
+        { "text": "Julia has got **three weeks' holiday**." },
+        { "text": "I live near the station - it's only **ten minutes' walk**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "People and animals: -'s (Tom's car). Things: of (the door of the car). Time: -'s again (tomorrow's meeting, two hours' drive)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which is the natural way to ask this? How old are ___?",
+      "options": ["Chris's children", "the children of Chris", "Chris children's"],
+      "answer": 0,
+      "explanation": "For people we use -'s: Chris's children."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is this ___?",
+      "hint": "(the umbrella of your friend - use -'s)",
+      "answers": ["your friend's umbrella"],
+      "explanation": "A person, so -'s: your friend's umbrella."
+    },
+    {
+      "type": "true_false",
+      "statement": "Write your name at the top of the page.",
+      "answer": true,
+      "explanation": "Correct. For things we use of: the top of the page (not the page's top)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've never met ___.",
+      "hint": "(the daughter of James - use -'s)",
+      "answers": ["James's daughter"],
+      "explanation": "A singular name takes -'s, even when it ends in -s: James's daughter."
+    },
+    {
+      "type": "true_false",
+      "statement": "The garden of our neighbours is very small.",
+      "answer": false,
+      "explanation": "Our neighbours' garden is very small. For people we use -'s; a plural ending in -s takes -s'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ clothes are expensive.",
+      "options": ["Children's", "Childrens'", "Children"],
+      "answer": 0,
+      "explanation": "children is a plural that does not end in -s, so we add -'s: Children's clothes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your ___ parents are your grandparents.",
+      "options": ["parents'", "parent's", "parents"],
+      "answer": 0,
+      "explanation": "Two parents = a plural ending in -s, so the apostrophe goes after the s: parents'."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would you use -'s or of ... to join these? The noun in brackets is the owner or the thing it belongs to.",
+      "categories": ["-'s (people, animals, time)", "of ... (things)"],
+      "items": [
+        { "text": "the name (your sister)", "category": 0 },
+        { "text": "the temperature (the water)", "category": 1 },
+        { "text": "the newspaper (yesterday)", "category": 0 },
+        { "text": "the beginning (the month)", "category": 1 },
+        { "text": "the hair (David)", "category": 0 },
+        { "text": "the cost (a new washing machine)", "category": 1 },
+        { "text": "the party (my best friend)", "category": 0 },
+        { "text": "the meaning (this expression)", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Begin with the time expression.",
+      "words": ["Last week's", "storm", "caused", "a lot", "of", "damage."],
+      "answer": "Last week's storm caused a lot of damage.",
+      "explanation": "Time words take -'s: last week's storm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Zurich is ___ largest city.",
+      "hint": "(Switzerland / Switzerland's / Switzerlands')",
+      "answers": ["Switzerland's"],
+      "explanation": "We use -'s for places: Switzerland's largest city."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If I leave my house at 8.40 and walk to the centre, I get there at 9 o'clock. So it's ___ from my house to the centre.",
+      "hint": "(walk)",
+      "answers": ["twenty minutes' walk", "20 minutes' walk"],
+      "explanation": "A period of time takes -s' (plural): twenty minutes' walk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going on holiday on the 12th. I have to be back at work on the 26th. So I've got ___.",
+      "hint": "(holiday)",
+      "answers": ["two weeks' holiday", "fourteen days' holiday", "a fortnight's holiday", "2 weeks' holiday", "14 days' holiday"],
+      "explanation": "Periods of time: two weeks' holiday (plural -s') or a fortnight's holiday (singular -'s)."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "number": 10,
+  "title": "Present perfect continuous and simple (I have been doing and I have done)",
+  "subtitle": "I have been doing and I have done",
+  "summary": "Choose the present perfect continuous to talk about an activity and how long, and the present perfect simple for a completed result and how much / how many.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two ways of looking at the same situation",
+      "text": "There is paint on Kate's clothes. She **has been painting** her bedroom. The bedroom was green. Now it is yellow. She **has painted** her bedroom. has been painting is the present perfect continuous: we are thinking of the *activity*. It does not matter whether it has been finished or not (here it has not). has painted is the present perfect simple: the important thing is that something has been *finished*. We think about the result, not the activity itself.",
+      "examples": [
+        { "text": "There is paint on Kate's clothes. She **has been painting** her bedroom.", "note": "the activity - not necessarily finished" },
+        { "text": "The bedroom was green. Now it is yellow. She **has painted** her bedroom.", "note": "a completed action - the result" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Activity or result?",
+      "left": {
+        "label": "Continuous: the activity",
+        "examples": [
+          "My hands are very dirty. **I've been repairing** my bike.",
+          "Joe **has been eating** too much recently. He should eat less.",
+          "It's nice to see you again. What **have you been doing** since we last met?",
+          "Where have you been? **Have you been playing** tennis?"
+        ]
+      },
+      "right": {
+        "label": "Simple: the completed action",
+        "examples": [
+          "My bike is OK again now. **I've repaired** it. (= I've finished repairing it)",
+          "Somebody **has eaten** all the chocolates. The box is empty.",
+          "Where's the book I gave you? What **have you done** with it?",
+          "**Have you ever played** tennis?"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "how long or how much / how many?",
+      "left": {
+        "label": "Continuous: how long (still happening)",
+        "examples": [
+          "How long **have you been reading** that book?",
+          "Amy is writing emails. **She's been writing** emails all morning.",
+          "**They've been playing** tennis since 2 o'clock.",
+          "I'm learning Arabic, but **I haven't been learning** it very long."
+        ]
+      },
+      "right": {
+        "label": "Simple: how much, how many, how many times (completed)",
+        "examples": [
+          "How many pages of that book **have you read**?",
+          "Amy **has sent** lots of emails this morning.",
+          "**They've played** tennis three times this week.",
+          "I'm learning Arabic, but **I haven't learnt** very much yet."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs not used in continuous forms",
+      "text": "Some verbs (for example **know**) are not normally used in continuous forms (be + -ing), so we use the present perfect simple even for 'how long'. But note that you can use **want** and **mean** in the present perfect continuous.",
+      "examples": [
+        { "text": "**I've known** about the problem for a long time.", "wrong": "I've been knowing" },
+        { "text": "How long **have you had** that camera?", "wrong": "have you been having" },
+        { "text": "**I've been meaning** to phone Anna, but I keep forgetting." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask two questions: Is the focus on the activity or on the finished result? Does the sentence say how long (continuous) or how many / how much (simple)?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel is from Australia. She is travelling round Europe. She began her trip three months ago. She ___ for three months.",
+      "hint": "(travel)",
+      "answers": ["'s been travelling", "has been travelling"],
+      "explanation": "how long + an activity still going on: has been travelling."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel is travelling round Europe. She ___ six countries so far.",
+      "hint": "(visit)",
+      "answers": ["'s visited", "has visited"],
+      "explanation": "how many (six countries) = completed actions: has visited."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence talk about the activity / how long (continuous) or the result / how many (simple)?",
+      "categories": ["Activity, how long: have been doing", "Result, how many: have done"],
+      "items": [
+        { "text": "He's been reading for two hours.", "category": 0 },
+        { "text": "He's read 53 pages so far.", "category": 1 },
+        { "text": "He's won the national championship four times.", "category": 1 },
+        { "text": "He's been playing tennis since he was ten.", "category": 0 },
+        { "text": "They've been making films since they left college.", "category": 0 },
+        { "text": "They've made five films.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You see somebody fishing by the river. Ask about the result.",
+      "words": ["Have", "you", "caught", "any fish?"],
+      "answer": "Have you caught any fish?",
+      "explanation": "Asking about a result (how many fish) takes the present perfect simple."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You meet somebody who is a writer. Ask how many.",
+      "words": ["How many books", "have", "you", "written?"],
+      "answer": "How many books have you written?",
+      "explanation": "how many = completed items: present perfect simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You look tired. ___ hard?",
+      "hint": "(you / work)",
+      "answers": ["Have you been working"],
+      "explanation": "The activity explains how the person looks now: Have you been working hard?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is a very old book. ___ it since I was a child.",
+      "hint": "(I / have)",
+      "answers": ["I've had", "I have had"],
+      "explanation": "have (= own) is not used in continuous forms, so the simple even with since: I've had."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've been knowing about the problem for a long time.",
+      "answer": false,
+      "explanation": "I've known about the problem for a long time. know is not used in continuous forms."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ the book you lent me, but I haven't finished it yet. It's really interesting.",
+      "options": ["'ve been reading", "'ve read", "read"],
+      "answer": 0,
+      "explanation": "Not finished yet - we are talking about the activity, so the continuous: I've been reading."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ the book you lent me, so you can have it back now.",
+      "options": ["'ve read", "'ve been reading", "am reading"],
+      "answer": 0,
+      "explanation": "Finished - the result matters (you can have it back), so the simple: I've read."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you OK? You look as if ___.",
+      "hint": "(you / cry)",
+      "answers": ["you've been crying", "you have been crying"],
+      "explanation": "An activity that has just stopped and whose result we can see: you've been crying."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've been meaning to phone Anna, but I keep forgetting.",
+      "answer": true,
+      "explanation": "Correct. mean (and want) can be used in the present perfect continuous."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "number": 13,
+  "title": "Present perfect and past 1 (I have done and I did)",
+  "subtitle": "I have done and I did",
+  "summary": "Use the present perfect when a past action tells us about the situation now, and the past simple for things that are finished, not recent, or when you continue talking about a piece of news.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Tom is looking for his key. He can't find it. **He has lost** his key (present perfect). This means that he doesn't have his key now. Ten minutes later: now Tom **has found** his key. He has it now. Has he lost his key? No, he has found it. Did he lose his key? Yes, he did. He **lost** his key (past simple) but now he **has found** it (present perfect).",
+      "examples": [
+        { "text": "He **has lost** his key.", "note": "= he doesn't have it now" },
+        { "text": "He **lost** his key, but now he **has found** it." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A present tense and a past tense",
+      "text": "The present perfect (something **has happened**) is a *present* tense. It tells us about the situation now: 'Tom has lost his key' = he doesn't have his key now. The past simple (something **happened**) tells us only about the past. If somebody says 'Tom lost his key', we don't know whether he has the key now or not.",
+      "examples": [
+        { "text": "**They've gone** away. They'll be back on Friday.", "note": "they are away now" },
+        { "text": "They **went** away, but I think they're back at home now.", "wrong": "They've gone away" },
+        { "text": "It **has stopped** raining now, so we don't need the umbrella.", "note": "it isn't raining now" },
+        { "text": "It **stopped** raining for a while, but now it's raining again.", "wrong": "It has stopped" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "New or recent happenings",
+      "text": "You can use the present perfect for new or recent happenings. Usually, you can also use the past simple. But use the past simple (not the present perfect) for things that are not recent or new.",
+      "examples": [
+        { "text": "**I've repaired** the washing machine. It's working OK now. or I **repaired** the washing machine." },
+        { "text": "'Hannah **has had** a baby! It's a boy.' 'That's great news.'" },
+        { "text": "Mozart **was** a composer. He **wrote** more than 600 pieces of music.", "wrong": "has been ... has written" },
+        { "text": "My mother **grew up** in Italy.", "wrong": "has grown" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Compare",
+      "left": {
+        "label": "New / recent: present perfect",
+        "examples": ["Somebody **has invented** a new type of washing machine."]
+      },
+      "right": {
+        "label": "Not recent: past simple",
+        "examples": ["Who **invented** the telephone? (not has invented)"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Giving news, then talking about it",
+      "text": "We use the present perfect to give new information. But if we continue to talk about it, we normally use the past simple.",
+      "examples": [
+        { "text": "*A:* Ow! **I've burnt** myself. *B:* How **did you do** that? *A:* I **picked up** a hot dish.", "note": "not have you done / have picked" },
+        { "text": "*A:* Look! Somebody **has spilt** something on the sofa. *B:* Well, it **wasn't** me. I **didn't do** it.", "note": "not hasn't been / haven't done" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask: does this sentence tell me something about now? If yes (he's lost his key = he hasn't got it), present perfect. If it is only about the past, or about a detail of how or when it happened, past simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The office is empty now. Everybody ___ home.",
+      "hint": "(go)",
+      "answers": ["has gone", "'s gone"],
+      "explanation": "The result now (the office is empty): present perfect, has gone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I meant to call you last night, but I ___.",
+      "hint": "(forget)",
+      "answers": ["forgot"],
+      "explanation": "last night = a finished past time: past simple, forgot."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Helen ___ to New York for a holiday, but she's back home in London now.",
+      "options": ["went", "has gone", "is gone"],
+      "answer": 0,
+      "explanation": "She is back now, so the trip is only in the past: went. has gone would mean she is still there."
+    },
+    {
+      "type": "true_false",
+      "statement": "My mother has grown up in Italy.",
+      "answer": false,
+      "explanation": "My mother grew up in Italy. This is not recent or new, so the past simple."
+    },
+    {
+      "type": "true_false",
+      "statement": "Ellie has gone shopping. She'll be back in about an hour.",
+      "answer": true,
+      "explanation": "Correct. She is out now, so the present perfect tells us about the situation now."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence tell us about the situation now (present perfect) or only about the past (past simple)?",
+      "categories": ["Connection with now: present perfect", "Only about the past: past simple"],
+      "items": [
+        { "text": "Somebody has invented a new type of washing machine.", "category": 0 },
+        { "text": "Who invented the telephone?", "category": 1 },
+        { "text": "Hannah has had a baby! It's a boy.", "category": 0 },
+        { "text": "Mozart wrote more than 600 pieces of music.", "category": 1 },
+        { "text": "It has stopped raining now, so we don't need the umbrella.", "category": 0 },
+        { "text": "It stopped raining for a while, but now it's raining again.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What do you think of my English? Do you think ___?",
+      "hint": "(it / improve)",
+      "answers": ["it's improved", "it has improved"],
+      "explanation": "A change with a result now: it's improved."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police ___ three people, but later they let them go.",
+      "hint": "(arrest)",
+      "answers": ["arrested"],
+      "explanation": "A finished past event with no result now (they let them go): arrested."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a new friend about their place of birth.",
+      "words": ["Where", "were", "you", "born?"],
+      "answer": "Where were you born?",
+      "explanation": "Being born is not recent - it is only in the past: Where were you born? (not have you been born)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've found my phone. *B:* Oh, good. Where ___ it?",
+      "hint": "(you / find)",
+      "answers": ["did you find"],
+      "explanation": "A gives the news with the present perfect; B asks for details with the past simple: did you find."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Ben has broken his arm. *B:* Oh. How did that happen? *A:* He ___ off a ladder.",
+      "hint": "(fall)",
+      "answers": ["fell"],
+      "explanation": "Continuing to talk about the news: past simple, fell."
+    },
+    {
+      "type": "true_false",
+      "statement": "Albert Einstein has been the scientist who has developed the theory of relativity.",
+      "answer": false,
+      "explanation": "Albert Einstein was the scientist who developed the theory of relativity. Not recent, so past simple."
+    }
+  ]
+}

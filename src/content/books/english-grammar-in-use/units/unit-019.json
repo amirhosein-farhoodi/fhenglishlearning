@@ -1,0 +1,175 @@
+{
+  "number": 19,
+  "title": "Present tenses (I am doing / I do) for the future",
+  "subtitle": "I am doing / I do (for the future)",
+  "summary": "Use the present continuous for things you have already arranged to do, and the present simple for timetables and programmes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Present continuous with a future meaning",
+      "text": "Imagine Ben's diary for next week. **He is playing** tennis on Monday afternoon. **He is going** to the dentist on Tuesday morning. **He is meeting** Kate on Friday. In all these examples, Ben has already decided and arranged to do these things. **I'm doing something** (tomorrow etc.) = I have already decided and arranged to do it.",
+      "examples": [
+        { "text": "*A:* **What are you doing** on Saturday evening? *B:* **I'm going** to the cinema.", "wrong": "What do you do ... I go" },
+        { "text": "*A:* What time **is Katherine arriving** tomorrow? *B:* Half past ten. **We're meeting** her at the station." },
+        { "text": "**I'm not working** tomorrow, so we can go out somewhere." },
+        { "text": "Steve **isn't playing** football next Saturday. He's hurt his leg." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not will for arrangements",
+      "text": "We do not normally use **will** to talk about what we have arranged to do.",
+      "examples": [
+        { "text": "**What are you doing** tonight?", "wrong": "What will you do" },
+        { "text": "Alex **is getting** married next month.", "wrong": "will get" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Just before you start",
+      "text": "We also use the present continuous for an action just before you start to do it. This happens especially with verbs of movement (**go / come / leave** etc.).",
+      "examples": [
+        { "text": "I'm tired. **I'm going** to bed now. Goodnight.", "wrong": "I go to bed now" },
+        { "text": "'Tina, are you ready yet?' 'Yes, **I'm coming**.'", "wrong": "I come" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present simple with a future meaning",
+      "text": "We use the present simple when we talk about timetables and programmes (for example, transport or cinema times). You can also use it for people if their plans are fixed like a timetable.",
+      "examples": [
+        { "text": "I have to go. My train **leaves** at 11.30." },
+        { "text": "What time **does** the film **start** tonight?" },
+        { "text": "The meeting **is** at nine o'clock tomorrow." },
+        { "text": "I **start** my new job on Monday." },
+        { "text": "What time **do you finish** work tomorrow?" }
+      ],
+      "note": "But the continuous is more usual for other personal arrangements: What time are you meeting Kate tomorrow? (not do you meet)"
+    },
+    {
+      "type": "compare",
+      "heading": "Arrangement or timetable?",
+      "left": {
+        "label": "Present continuous",
+        "text": "Personal arrangements.",
+        "examples": [
+          "What time **are you arriving**?",
+          "**I'm going** to the cinema this evening."
+        ]
+      },
+      "right": {
+        "label": "Present simple",
+        "text": "Timetables and programmes.",
+        "examples": [
+          "What time **does** the train **arrive**?",
+          "The film **starts** at 8.15."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Appointments, lessons, exams",
+      "text": "When you talk about appointments, lessons, exams etc., you can use **I have** or **I've got**.",
+      "examples": [
+        { "text": "I **have** an exam next week. or **I've got** an exam next week." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask who fixed the time. If a person arranged it (a meeting, a party, a trip), use am/is/are + -ing. If a timetable fixed it (trains, films, terms), use the present simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "*A:* What ___ on Saturday evening? *B:* I'm going to the cinema.",
+      "options": ["are you doing", "do you do", "will you do"],
+      "answer": 0,
+      "explanation": "Asking about an arrangement for a future time: present continuous (are you doing)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ a party next week. We've invited all our friends.",
+      "hint": "(We / have)",
+      "answers": ["We're having", "We are having"],
+      "explanation": "An arranged plan: We're having a party."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Anna is going on holiday. Ask her: (how long / go for?)",
+      "words": ["How long", "are", "you", "going", "for?"],
+      "answer": "How long are you going for?",
+      "explanation": "Questions about arrangements use the present continuous: are you going."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a personal arrangement (present continuous) or a timetable / programme (present simple)?",
+      "categories": ["Personal arrangement", "Timetable or programme"],
+      "items": [
+        { "text": "What time are you arriving?", "category": 0 },
+        { "text": "What time does the train arrive?", "category": 1 },
+        { "text": "I'm going to the cinema this evening.", "category": 0 },
+        { "text": "The film starts at 8.15.", "category": 1 },
+        { "text": "Alex is getting married next month.", "category": 0 },
+        { "text": "The meeting is at nine o'clock tomorrow.", "category": 1 },
+        { "text": "My train leaves at 11.30.", "category": 1 },
+        { "text": "We're meeting her at the station.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ tomorrow. It's a public holiday.",
+      "hint": "(I / not / work)",
+      "answers": ["I'm not working", "I am not working"],
+      "explanation": "A fixed personal arrangement in the negative: I'm not working tomorrow."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm tired. I go to bed now. Goodnight.",
+      "answer": false,
+      "explanation": "I'm going to bed now. An action just about to start takes the present continuous, especially with verbs of movement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ to the party tomorrow. She isn't well.",
+      "hint": "(Laura / not / come)",
+      "answers": ["Laura isn't coming", "Laura's not coming", "Laura is not coming"],
+      "explanation": "A personal arrangement (or the lack of one) for tomorrow: Laura isn't coming."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I'm going to a concert tonight. *B:* That's nice. What time ___?",
+      "options": ["does it start", "is it starting", "will it start"],
+      "answer": 0,
+      "explanation": "The concert's starting time is fixed like a programme, so the present simple: does it start."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Anna is going on holiday. Ask her: (travel / by car?)",
+      "words": ["Are", "you", "travelling", "by", "car?"],
+      "answer": "Are you travelling by car?",
+      "explanation": "Her travel plans are arrangements, so the present continuous: Are you travelling ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What time is your train tomorrow? *B:* It ___ at 9.35 and arrives at 12.47.",
+      "hint": "(leave)",
+      "answers": ["leaves"],
+      "explanation": "Train times are a timetable: present simple (leaves)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have an exam next week.",
+      "answer": true,
+      "explanation": "Correct. For appointments, lessons and exams you can say I have or I've got."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* When ___? *B:* Next Friday. And next term ___ four weeks after that.",
+      "options": ["does this term end / starts", "is this term ending / is starting", "will this term end / will start"],
+      "answer": 0,
+      "explanation": "Term dates are a fixed programme, so both verbs take the present simple: does this term end ... starts."
+    }
+  ]
+}

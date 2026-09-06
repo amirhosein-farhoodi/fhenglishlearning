@@ -1,0 +1,171 @@
+{
+  "number": 52,
+  "title": "Question tags (do you? isn't it? etc.)",
+  "subtitle": "It was a good film, wasn't it?",
+  "summary": "Add a mini-question (a question tag) to the end of a sentence to check something, to ask for agreement or to make a polite request.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a question tag?",
+      "text": "*You haven't seen Lisa today, have you?* - *No, I haven't.* *It was a good film, wasn't it?* - *Yes, it was great.* **Have you?** and **wasn't it?** are question tags: mini-questions at the end of a sentence. In question tags we use an auxiliary verb (have/was/will etc.). We use **do/does/did** for the present and past simple.",
+      "examples": [
+        { "text": "You haven't seen Lisa today, **have you**?" },
+        { "text": "It was a good film, **wasn't it**?" },
+        { "text": "'Karen plays the piano, **doesn't she**?' 'Well, yes, but not very well.'" },
+        { "text": "'You didn't lock the door, **did you**?' 'No, I forgot.'" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Positive + negative, negative + positive",
+      "left": {
+        "label": "Positive sentence + negative tag",
+        "examples": [
+          "Kate will be here soon, **won't she**?",
+          "There was a lot of traffic, **wasn't there**?",
+          "Joe should pass the exam, **shouldn't he**?"
+        ]
+      },
+      "right": {
+        "label": "Negative sentence + positive tag",
+        "examples": [
+          "Kate won't be late, **will she**?",
+          "They don't like us, **do they**?",
+          "You haven't eaten yet, **have you**?"
+        ]
+      },
+      "note": "Answering a negative sentence: 'You're not going out this morning, are you?' 'Yes.' (= Yes, I am going out) / 'No.' (= No, I am not going out)"
+    },
+    {
+      "type": "explain",
+      "heading": "Voice down: you expect agreement",
+      "text": "The meaning of a question tag depends on how you say it. If your voice goes **down**, you are not really asking a question. You expect the listener to agree with you.",
+      "examples": [
+        { "text": "'It's a nice day, **isn't it**?' 'Yes, beautiful.'" },
+        { "text": "'Paul doesn't look well today, **does he**?' 'No, he looks very tired.'" },
+        { "text": "'Lisa's very funny. She's got a great sense of humour, **hasn't she**?' 'Yes, she has.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Voice up: a real question or a request",
+      "text": "If the voice goes **up**, it is a real question. You can use a negative sentence + positive tag to ask for things or information, or to ask somebody to do something. The voice goes up at the end of the tag.",
+      "examples": [
+        { "text": "'You haven't seen Kate today, **have you**?' 'No, I haven't.'", "note": "= Have you seen Kate today?" },
+        { "text": "'You couldn't do me a favour, **could you**?' 'It depends what it is.'" },
+        { "text": "'You don't know where Karen is, **do you**?' 'Sorry, I have no idea.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Let's ... shall we? / Don't ... will you? / I'm ... aren't I?",
+      "text": "After **Let's ...** (= Let us) the question tag is **shall we**. After **Don't ...**, the tag is **will you**. After **I'm ...**, the negative tag is **aren't I** (= am I not?).",
+      "examples": [
+        { "text": "Let's go for a walk, **shall we**?", "note": "the voice goes up" },
+        { "text": "Don't be late, **will you**?", "note": "the voice goes down" },
+        { "text": "'I'm right, **aren't I**?' 'Yes, you are.'" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Copy the auxiliary from the sentence and flip it: positive sentence takes a negative tag, negative sentence takes a positive tag. No auxiliary? Use do/does/did."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'You travel a lot, ___?' 'Yes, I love travelling.'",
+      "hint": "(question tag)",
+      "answers": ["don't you"],
+      "explanation": "Present simple with no auxiliary: use do. Positive sentence takes a negative tag: don't you?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You weren't listening, ___?' 'Yes, I was!'",
+      "hint": "(question tag)",
+      "answers": ["were you"],
+      "explanation": "Negative sentence (weren't) takes a positive tag: were you?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Sarah doesn't know Ann, ___?' 'No, they've never met.'",
+      "hint": "(question tag)",
+      "answers": ["does she"],
+      "explanation": "Negative sentence with doesn't takes a positive tag with does: does she?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with its question tag.",
+      "pairs": [
+        { "left": "Kate won't be late,", "right": "will she?" },
+        { "left": "It didn't take long to get here,", "right": "did it?" },
+        { "left": "You wouldn't tell anyone,", "right": "would you?" },
+        { "left": "I shouldn't have lost my temper,", "right": "should I?" },
+        { "left": "They won't mind if I take a picture,", "right": "will they?" },
+        { "left": "This isn't very interesting,", "right": "is it?" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'There are a lot of people here, ___?' 'Yes, more than I expected.'",
+      "options": ["aren't there", "aren't they", "isn't it"],
+      "answer": 0,
+      "explanation": "With There are ... the tag repeats there: aren't there?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need a negative tag or a positive tag?",
+      "categories": ["Negative tag (won't she? / wasn't there? ...)", "Positive tag (will she? / do they? ...)"],
+      "items": [
+        { "text": "Kate will be here soon,", "category": 0 },
+        { "text": "They don't like us,", "category": 1 },
+        { "text": "Joe should pass the exam,", "category": 0 },
+        { "text": "You haven't eaten yet,", "category": 1 },
+        { "text": "There was a lot of traffic,", "category": 0 },
+        { "text": "Kate won't be late,", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You and a colleague have just finished a training course. You really enjoyed it and expect your colleague to agree. Put the words in order.",
+      "words": ["The course", "was", "great,", "wasn't", "it?"],
+      "answer": "The course was great, wasn't it?",
+      "explanation": "Positive sentence (was) + negative tag (wasn't it?) - your voice goes down because you expect agreement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Let's go and have coffee, ___?' 'Yes, let's do that.'",
+      "hint": "(question tag)",
+      "answers": ["shall we"],
+      "explanation": "After Let's ... the question tag is shall we?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "'I'm too impatient, ___?' 'Yes, you are sometimes.'",
+      "options": ["aren't I", "amn't I", "am I"],
+      "answer": 0,
+      "explanation": "After I'm ... the negative question tag is aren't I? (= am I not?)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You and a friend are walking over an old wooden bridge. Some parts are broken. Put the words in order to say what you think.",
+      "words": ["This bridge", "isn't", "very", "safe,", "is", "it?"],
+      "answer": "This bridge isn't very safe, is it?",
+      "explanation": "Negative sentence (isn't) + positive tag (is it?) - you expect your friend to agree."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to borrow a tennis racket. Perhaps Helen has one. You ask: 'Helen, you don't have a tennis racket, ___?'",
+      "hint": "(question tag)",
+      "answers": ["do you"],
+      "explanation": "To ask for something we use a negative sentence + positive tag: you don't have ..., do you? The voice goes up."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't forget to call me, will you?",
+      "answer": true,
+      "explanation": "Correct. After Don't ... the question tag is will you?"
+    }
+  ]
+}

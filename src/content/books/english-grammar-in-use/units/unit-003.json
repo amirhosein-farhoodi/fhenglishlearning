@@ -1,0 +1,175 @@
+{
+  "number": 3,
+  "title": "Present continuous and present simple 1 (I am doing and I do)",
+  "subtitle": "I am doing and I do",
+  "summary": "Choose the present continuous for things happening now or temporarily, and the present simple for general truths, habits and permanent situations.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two present tenses",
+      "text": "We use the **present continuous** (I am doing) for things happening at or around the time of speaking. The action is not complete. We use the **present simple** (I do) for things in general or things that happen repeatedly.",
+      "examples": [
+        { "text": "The water **is boiling**. Be careful.", "note": "happening now" },
+        { "text": "Water **boils** at 100 degrees Celsius.", "note": "true in general" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Now or around now vs in general",
+      "left": {
+        "label": "Present continuous (I am doing)",
+        "text": "Happening at or around the time of speaking. Not complete.",
+        "examples": [
+          "Listen to those people. What language **are they speaking**?",
+          "Let's go out. It **isn't raining** now.",
+          "'I'm busy.' 'What **are you doing**?'",
+          "**I'm getting** hungry. Let's go and eat.",
+          "Kate wants to work in Italy, so **she's learning** Italian.",
+          "The population of the world **is increasing** very fast."
+        ]
+      },
+      "right": {
+        "label": "Present simple (I do)",
+        "text": "Things in general or things that happen repeatedly.",
+        "examples": [
+          "Excuse me, **do you speak** English?",
+          "It **doesn't rain** very much in summer.",
+          "What **do you** usually **do** at weekends?",
+          "I always **get** hungry in the afternoon.",
+          "Most people **learn** to swim when they are children.",
+          "Every day the population of the world **increases** by about 200,000 people."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Temporary vs permanent",
+      "left": {
+        "label": "Temporary (continuous)",
+        "text": "Things that continue for a short time.",
+        "examples": [
+          "**I'm living** with some friends until I find a place of my own.",
+          "*A:* **You're working** hard today. *B:* Yes, I have a lot to do."
+        ]
+      },
+      "right": {
+        "label": "Permanent (simple)",
+        "text": "Things that continue for a long time.",
+        "examples": [
+          "My parents **live** in London. They have lived there all their lives.",
+          "Joe isn't lazy. He **works** hard most of the time."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "I always do",
+      "text": "**I always do** something = I do it every time. This is a habit, so we use the present simple.",
+      "examples": [
+        { "text": "I **always go** to work by car.", "wrong": "I'm always going" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I'm always doing",
+      "text": "**I'm always doing** something = I do it too often, or more often than normal. Somebody who has lost their keys again might say: *I've lost my keys again. I'm always losing them.* This means: I lose them too often.",
+      "examples": [
+        { "text": "Paul is never satisfied. **He's always complaining**.", "note": "= he complains too much" },
+        { "text": "**You're always looking** at your phone. Don't you have anything else to do?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "always + present simple = every time (I always go). always + present continuous = too often, usually a complaint (I'm always losing my keys)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "How often are you going to the cinema?",
+      "answer": false,
+      "explanation": "How often do you go to the cinema? Repeated habits take the present simple."
+    },
+    {
+      "type": "true_false",
+      "statement": "The moon goes round the earth in about 27 days.",
+      "answer": true,
+      "explanation": "Correct. A general fact takes the present simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'___ to the radio?' 'No, you can turn it off.'",
+      "hint": "(you / listen)",
+      "answers": ["Are you listening"],
+      "explanation": "Right now, at the moment of speaking: Are you listening?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'___ to the radio a lot?' 'No, not very often.'",
+      "hint": "(you / listen)",
+      "answers": ["Do you listen"],
+      "explanation": "A lot / not very often = a habit, so present simple: Do you listen?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "The river ___ very fast today - much faster than usual.",
+      "options": ["is flowing", "flows", "flow"],
+      "answer": 0,
+      "explanation": "Today, faster than usual = a temporary situation, so the present continuous."
+    },
+    {
+      "type": "true_false",
+      "statement": "Ben tries to find a job, but he hasn't had any luck yet.",
+      "answer": false,
+      "explanation": "Ben is trying to find a job. The action is in progress around now and not complete."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel is in New York right now. ___ at the Park Hotel.",
+      "hint": "(She / stay)",
+      "answers": ["She's staying", "She is staying"],
+      "explanation": "Right now = a temporary situation, so present continuous: She's staying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate ___ this week. She's on holiday.",
+      "hint": "(not / work) - negative",
+      "answers": ["isn't working", "is not working", "'s not working"],
+      "explanation": "This week is a temporary period around now: isn't working."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does always mean 'every time' (present simple) or 'too often' (present continuous)?",
+      "categories": ["Every time", "Too often (a complaint)"],
+      "items": [
+        { "text": "I always go to work by car.", "category": 0 },
+        { "text": "Paul's always complaining.", "category": 1 },
+        { "text": "She always stays at the Park Hotel when she's in New York.", "category": 0 },
+        { "text": "You're always looking at your phone.", "category": 1 },
+        { "text": "I'm always losing my keys.", "category": 1 },
+        { "text": "I always get hungry in the afternoon.", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* The car has broken down again. *B:* That car is useless. Complete B's reply with always + -ing.",
+      "words": ["It's", "always", "breaking", "down."],
+      "answer": "It's always breaking down.",
+      "explanation": "always + present continuous = it happens too often."
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul is never late. He's always starting work on time.",
+      "answer": false,
+      "explanation": "He always starts work on time. This is what he does every time, not a complaint, so present simple."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Oh, I've left my phone at home again. *B:* Typical! Complete B's reply with always + -ing.",
+      "words": ["You're", "always", "leaving", "your phone", "at home."],
+      "answer": "You're always leaving your phone at home.",
+      "explanation": "always + present continuous shows that it happens more often than normal."
+    }
+  ]
+}

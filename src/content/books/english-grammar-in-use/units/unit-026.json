@@ -1,0 +1,182 @@
+{
+  "number": 26,
+  "title": "can, could and (be) able to",
+  "subtitle": "I can / I could / I was able to",
+  "summary": "Use can and could to say what is possible or what somebody is able to do, and know when you need (be) able to or managed to instead.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "can: possible, allowed or able",
+      "text": "We use **can** to say that something is possible or allowed, or that somebody has the ability to do something. The form is **can + infinitive** (can do / can see etc.). The negative is **can't** (= cannot).",
+      "examples": [
+        { "text": "We **can see** the lake from our hotel." },
+        { "text": "'I don't have a pen.' 'You **can use** mine.'" },
+        { "text": "**Can** you **speak** any foreign languages?" },
+        { "text": "I **can come** and see you tomorrow if you like." },
+        { "text": "I'm afraid I **can't come** to the party on Friday.", "note": "can't = cannot" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "can or (be) able to?",
+      "left": {
+        "label": "can / could",
+        "text": "You can say that somebody *is able to* do something, but can is more usual. Can has only two forms: can (present) and could (past).",
+        "examples": [
+          "I **can't** sleep.",
+          "Tom **can** come tomorrow.",
+          "Maria **can** speak French, Spanish and English."
+        ]
+      },
+      "right": {
+        "label": "(be) able to",
+        "text": "When you need another form (the perfect, an infinitive, or a form after might / must etc.), can is not possible, so use (be) able to.",
+        "examples": [
+          "I haven't **been able to** sleep recently.",
+          "Tom might **be able to** come tomorrow.",
+          "Applicants for the job must **be able to** speak two foreign languages."
+        ]
+      },
+      "note": "We are able to see the lake from our hotel is possible, but We can see the lake is more usual."
+    },
+    {
+      "type": "explain",
+      "heading": "could: the past of can",
+      "text": "Sometimes **could** is the past of can. We use could especially with the verbs **see, hear, smell, taste, feel, remember** and **understand**. We also use could to say that somebody had the ability to do something, or was allowed to do something.",
+      "examples": [
+        { "text": "We had a lovely room in the hotel. We **could see** the lake." },
+        { "text": "As soon as I walked into the room, I **could smell** gas." },
+        { "text": "I was sitting at the back of the theatre and **couldn't hear** very well." },
+        { "text": "My grandfather **could speak** five languages." },
+        { "text": "We were totally free. We **could do** what we wanted.", "note": "= we were allowed to do" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "could or was able to?",
+      "left": {
+        "label": "could = general ability",
+        "text": "We use could for general ability in the past, and with see, hear etc.",
+        "examples": [
+          "My grandfather **could speak** five languages.",
+          "I **could see** them, but not very clearly.",
+          "Jack was an excellent tennis player when he was younger. He **could beat** anybody. (= he had the ability)"
+        ]
+      },
+      "right": {
+        "label": "was able to / managed to = succeeded once",
+        "text": "To say that somebody succeeded in doing something in a specific situation, we normally use was/were able to or managed to (not could).",
+        "examples": [
+          "The fire spread quickly, but everybody **was able to escape**. (not could escape)",
+          "I didn't know where Max was, but I **managed to find** him in the end. (not could find)",
+          "Jack and Andy played a match yesterday. Andy played well, but Jack **managed to beat** him. (= he succeeded this time)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "couldn't works in every situation",
+      "text": "The negative **couldn't** (could not) is possible in all situations - for general ability in the past and for one specific situation.",
+      "examples": [
+        { "text": "My grandfather **couldn't swim**." },
+        { "text": "I looked for Max everywhere, but I **couldn't find** him." },
+        { "text": "Andy played well, but he **couldn't beat** Jack." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Quick check for the past: a general ability = could; one success in one situation = was able to or managed to; a failure = couldn't, which works for both."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Nicole ___ drive, but she doesn't have a car.",
+      "options": ["can", "be able to", "been able to"],
+      "answer": 0,
+      "explanation": "Present ability: can is the usual form. Be able to is only needed when can is not possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I used to ___ stand on my head, but I can't do it any more.",
+      "hint": "(can / be able to)",
+      "answers": ["be able to"],
+      "explanation": "After used to we need an infinitive, and can has no infinitive form, so: used to be able to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't understand Mark. I've never ___ understand him.",
+      "hint": "(can / be able to)",
+      "answers": ["been able to"],
+      "explanation": "The present perfect (I've never ...) needs a past participle, so can is not possible: I've never been able to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When Dan was 16, he ___ 100 metres in 11 seconds.",
+      "hint": "(can / could + run)",
+      "answers": ["could run"],
+      "explanation": "A general ability in the past: could run."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't feel good this morning. I ___ last night.",
+      "hint": "(can / could + sleep) - negative",
+      "answers": ["couldn't sleep", "could not sleep"],
+      "explanation": "Past and negative: couldn't sleep. Couldn't is possible in every situation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ask Katherine about your problem. She might ___ help you.",
+      "options": ["be able to", "can", "could"],
+      "answer": 0,
+      "explanation": "After another modal verb (might) we cannot use can or could, so we need be able to."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A: Did you finish your work this afternoon? B: Yes, there was nobody to disturb me, so ... Put the words in order to complete B's answer.",
+      "words": ["I", "was", "able", "to", "finish", "it"],
+      "answer": "I was able to finish it",
+      "explanation": "One success in a specific situation: was able to (not could)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A: Did the thief get away? B: Yes. No-one realised what was happening and ... Put the words in order to complete B's answer.",
+      "words": ["the thief", "was", "able", "to", "get", "away"],
+      "answer": "the thief was able to get away",
+      "explanation": "The thief succeeded in one particular situation, so we use was able to."
+    },
+    {
+      "type": "true_false",
+      "statement": "The fire spread quickly, but everybody could escape.",
+      "answer": false,
+      "explanation": "The fire spread quickly, but everybody was able to escape (or managed to escape). For success in a specific situation, we don't use could."
+    },
+    {
+      "type": "true_false",
+      "statement": "My grandfather could speak five languages.",
+      "answer": true,
+      "explanation": "Correct. Could is used for general ability in the past."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There was a small fire in the kitchen, but fortunately I ___ put it out.",
+      "options": ["managed to", "could", "can"],
+      "answer": 0,
+      "explanation": "Somebody succeeded in doing something in one specific situation: managed to (or was able to), not could."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: could, couldn't or managed to?",
+      "categories": ["could", "couldn't", "managed to"],
+      "items": [
+        { "text": "The walls were thin and I ___ hear people talking in the next room.", "category": 0 },
+        { "text": "I ran my first marathon recently. It was very hard, but I ___ finish.", "category": 2 },
+        { "text": "My grandmother loved music. She ___ play the piano very well.", "category": 0 },
+        { "text": "We wanted to go to the concert, but we ___ get tickets.", "category": 1 },
+        { "text": "A girl fell into the river, but some people ___ pull her out. She's all right now.", "category": 2 },
+        { "text": "Jessica had hurt her foot and ___ walk very well.", "category": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "number": 4,
+  "title": "Present continuous and present simple 2 (I am doing and I do)",
+  "subtitle": "I know / I want (not I am knowing)",
+  "summary": "Recognise the verbs that describe states (know, want, belong ...) and keep them in the present simple, and use am/is/are being only for behaviour now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verbs not used in the continuous",
+      "text": "We use continuous forms (I'm waiting, it's raining etc.) for actions and happenings that have started but not finished. Some verbs (for example **know** and **like**) are not normally used in this way. We don't say ~~I am knowing~~ or ~~they are liking~~. We say **I know**, **they like**.",
+      "examples": [
+        { "text": "I'm hungry. **I want** something to eat.", "wrong": "I'm wanting" },
+        { "text": "**Do you understand** what I mean?" },
+        { "text": "Anna **doesn't seem** very happy right now." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs not normally used in the present continuous",
+      "columns": ["Group", "Verbs"],
+      "rows": [
+        ["Liking and wanting", "like, want, need, prefer"],
+        ["Knowing", "know, realise, understand, recognise"],
+        ["Thinking", "believe, suppose, remember, mean"],
+        ["Being and having", "belong, fit, contain, consist, seem"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "think",
+      "left": {
+        "label": "think = believe / have an opinion",
+        "text": "We do not use the continuous.",
+        "examples": [
+          "**I think** Mary is Canadian, but I'm not sure. (not I'm thinking)",
+          "What **do you think** of my idea? (= what is your opinion?)"
+        ]
+      },
+      "right": {
+        "label": "think = consider",
+        "text": "The continuous is possible.",
+        "examples": [
+          "**I'm thinking** about what happened. I often think about it.",
+          "Nicky **is thinking** of giving up her job. (= she is considering it)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "see, hear, smell, taste, look, feel",
+      "text": "We normally use the present simple (not continuous) with **see/hear/smell/taste**. To say how somebody looks or feels *now*, you can use the present simple or the continuous. But for something that happens regularly, only the simple is possible.",
+      "examples": [
+        { "text": "**Do you see** that man over there?", "wrong": "are you seeing" },
+        { "text": "The room **smells**. Let's open a window." },
+        { "text": "This soup **doesn't taste** very good." },
+        { "text": "You **look** well today. or You**'re looking** well today." },
+        { "text": "How **do you feel** now? or How **are you feeling** now?" },
+        { "text": "I usually **feel** tired in the morning.", "wrong": "I'm usually feeling" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "am/is/are being",
+      "text": "You can say **he's being ...**, **you're being ...** etc. to say how somebody is behaving *now*. Compare **he's very selfish** = he is selfish generally, not only now. We use am/is/are being only for behaviour (something a person can control). It is not usually possible in other situations.",
+      "examples": [
+        { "text": "I can't understand why **he's being** so selfish. He isn't usually like that.", "note": "being selfish = behaving selfishly now" },
+        { "text": "'The path is icy. Don't slip.' 'Don't worry. **I'm being** very careful.'" },
+        { "text": "He never thinks about other people. **He's** very selfish.", "note": "= he is selfish generally, not only now" },
+        { "text": "I don't like to take risks. **I'm** a very careful person." },
+        { "text": "Sam **is** ill.", "wrong": "is being ill" },
+        { "text": "**Are you** tired?", "wrong": "are you being tired" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is this an action in progress (I'm using the dictionary) or a state (I need the dictionary)? States stay in the present simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Alan says he's 90 years old, but nobody ___ him.",
+      "hint": "(believe)",
+      "answers": ["believes"],
+      "explanation": "believe is a state verb - no continuous: nobody believes him."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't put the dictionary away. ___ it.",
+      "hint": "(I / use)",
+      "answers": ["I'm using", "I am using"],
+      "explanation": "use is an action in progress now: I'm using it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't put the dictionary away. ___ it.",
+      "hint": "(I / need)",
+      "answers": ["I need"],
+      "explanation": "need is not normally used in the continuous: I need it (not I'm needing)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Who is that man? What ___?",
+      "options": ["does he want", "is he wanting", "he wants"],
+      "answer": 0,
+      "explanation": "want is a state verb, so present simple: What does he want?"
+    },
+    {
+      "type": "true_false",
+      "statement": "It's not true. I'm not believing it.",
+      "answer": false,
+      "explanation": "I don't believe it. believe is not used in the continuous."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You find an umbrella and want to know whose it is. Ask.",
+      "words": ["Who", "does", "this umbrella", "belong", "to?"],
+      "answer": "Who does this umbrella belong to?",
+      "explanation": "belong is a state verb: present simple with does."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've never eaten that fruit. What is it tasting like?",
+      "answer": false,
+      "explanation": "What does it taste like? We use the present simple with taste."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ of selling my car. Would you be interested in buying it?",
+      "hint": "(I / think)",
+      "answers": ["I'm thinking", "I am thinking"],
+      "explanation": "think = consider here, so the continuous is possible: I'm thinking of selling."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verbs are normally NOT used in the present continuous?",
+      "categories": ["State verb - not normally continuous", "Action verb - can be continuous"],
+      "items": [
+        { "text": "want", "category": 0 },
+        { "text": "drive", "category": 1 },
+        { "text": "know", "category": 0 },
+        { "text": "eat", "category": 1 },
+        { "text": "belong", "category": 0 },
+        { "text": "work", "category": 1 },
+        { "text": "seem", "category": 0 },
+        { "text": "understand", "category": 0 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You're very quiet. What are you thinking about?",
+      "answer": true,
+      "explanation": "Correct. think about = consider, so the continuous is fine."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You'll like Sophie when you meet her. She ___ very nice.",
+      "options": ["is", "is being", "are"],
+      "answer": 0,
+      "explanation": "This is her character in general, not her behaviour right now: She is very nice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah ___ very nice to me at the moment. I wonder why.",
+      "hint": "(be)",
+      "answers": ["is being", "'s being"],
+      "explanation": "at the moment + behaviour = is being: she is behaving nicely now, which is unusual."
+    }
+  ]
+}

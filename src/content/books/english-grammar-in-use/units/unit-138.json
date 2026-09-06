@@ -1,0 +1,185 @@
+{
+  "number": 138,
+  "title": "Phrasal verbs 2: in/out",
+  "subtitle": "get in / get out, drop in, fill in, eat out",
+  "summary": "Use phrasal verbs with in and out for movement into and out of places, and learn common verbs such as drop in, join in, eat out and get out of.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "in and out for movement",
+      "left": {
+        "label": "in = into a room, a building, a car etc.",
+        "text": "In the same way you can say go in, come in, walk in, break in etc.",
+        "examples": [
+          "How did the thieves **get in**?",
+          "Here's a key, so you can **let yourself in**.",
+          "Lisa walked up to the edge of the pool and **dived in**. (= into the water)",
+          "I've got a new apartment. I'm **moving in** on Friday.",
+          "As soon as I got to the airport, I **checked in**."
+        ]
+      },
+      "right": {
+        "label": "out = out of a room, a building, a car etc.",
+        "text": "In the same way you can say go out, get out, move out, let somebody out etc.",
+        "examples": [
+          "Stay in the car. Don't **get out**.",
+          "I had no key, so I was **locked out**.",
+          "She swam up and down the pool, and then **climbed out**.",
+          "Andy opened the window and **looked out**.",
+          "We paid the hotel bill and **checked out**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "in / into and out / out of",
+      "text": "Use **in** and **out** on their own. When you name the place, use **into** and **out of**.",
+      "examples": [
+        { "text": "I'm **moving in** on Friday." },
+        { "text": "I'm **moving into** my new flat on Friday." },
+        { "text": "She **climbed out**." },
+        { "text": "She **climbed out of** the pool." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other verbs + in",
+      "text": "**drop in** = visit somebody at home without arranging it. **join in** = take part in something that is already going on. **plug in** an electrical machine = connect it to the electricity supply.",
+      "examples": [
+        { "text": "I **dropped in** to see Chris on my way home." },
+        { "text": "They were playing cards, so I **joined in**." },
+        { "text": "The fridge isn't working because you haven't **plugged it in**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "take somebody in, fill in / fill out",
+      "text": "**take somebody in** = deceive somebody. **fill in** or **fill out** a form, a questionnaire etc. = write the necessary information on it. Both fill in and fill out are correct.",
+      "examples": [
+        { "text": "The man said he was a policeman and I believed him. I was completely **taken in**." },
+        { "text": "Please **fill in** the application form and send it to us by 28 February. or Please **fill out** the application form ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other verbs + out",
+      "text": "**eat out** = eat at a restaurant, not at home. **drop out of** college / a course / a race = stop before you have completely finished. **get out of** something that you arranged to do = avoid doing it.",
+      "examples": [
+        { "text": "There wasn't anything to eat at home, so we decided to **eat out**." },
+        { "text": "Gary went to university but **dropped out** after a year." },
+        { "text": "I promised I'd go to the wedding. I don't want to go, but I can't **get out of** it now." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "leave out, cross out",
+      "text": "**leave something out** = omit it, not include it. **cross something out** = write a line through it.",
+      "examples": [
+        { "text": "In the sentence 'She said that she was ill', you can **leave out** the word 'that'." },
+        { "text": "Some of the names on the list had been **crossed out**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the pronoun rule: **plug it in**, **fill them in**, **cross it out**, **let us in** - the pronoun goes between the verb and in/out."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Lisa doesn't like cooking, so she ___ a lot.",
+      "options": ["eats out", "eats in", "eats off"],
+      "answer": 0,
+      "explanation": "eat out = eat at a restaurant, not at home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you're in our part of town, you should ___ and say hello.",
+      "hint": "(verb + in)",
+      "answers": ["drop in"],
+      "explanation": "drop in = visit somebody at home without arranging it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Could you ___ this questionnaire? It will only take five minutes.",
+      "hint": "(verb + in / out)",
+      "answers": ["fill in", "fill out"],
+      "explanation": "fill in or fill out a form / a questionnaire - both are possible."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word is missing: in, into or out?",
+      "categories": ["in", "into", "out"],
+      "items": [
+        { "text": "We arrived at the hotel and checked ___.", "category": 0 },
+        { "text": "When are you moving ___ your new flat?", "category": 1 },
+        { "text": "The car stopped and the driver got ___.", "category": 2 },
+        { "text": "Thieves broke ___ the house and stole some jewellery.", "category": 1 },
+        { "text": "How did the thieves break ___? Through a window?", "category": 0 },
+        { "text": "He opened his wallet and something fell ___.", "category": 2 },
+        { "text": "I've got a new flat. I'm moving ___ on Friday.", "category": 0 },
+        { "text": "Stay in the car. Don't get ___.", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Kate was angry and walked ___ the meeting.",
+      "options": ["out of", "out", "in"],
+      "answer": 0,
+      "explanation": "When you name the place (the meeting), use out of: walked out of the meeting."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "drop in", "right": "visit somebody without arranging it" },
+        { "left": "join in", "right": "take part in something already going on" },
+        { "left": "take somebody in", "right": "deceive somebody" },
+        { "left": "drop out", "right": "stop a course or race before the end" },
+        { "left": "get out of something", "right": "avoid doing something you arranged" },
+        { "left": "leave something out", "right": "omit it, not include it" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Not all the runners finished the race. Three of them ___.",
+      "hint": "(verb + out)",
+      "answers": ["dropped out"],
+      "explanation": "drop out (of a race / a course) = stop before you have finished."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people in the crowd started singing. Then a few more people ___ and soon everybody was singing.",
+      "hint": "(verb + in)",
+      "answers": ["joined in"],
+      "explanation": "join in = take part in something that is already going on."
+    },
+    {
+      "type": "true_false",
+      "statement": "The man said he was a policeman and I believed him. I was completely taken in.",
+      "answer": true,
+      "explanation": "Correct. be taken in = be deceived."
+    },
+    {
+      "type": "word_order",
+      "prompt": "'I've made a mistake on this form.' Tell your friend what to do.",
+      "words": ["Just", "cross", "it", "out", "and", "correct it."],
+      "answer": "Just cross it out and correct it.",
+      "explanation": "cross it out - the pronoun goes between cross and out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't avoid going to the party. In other words, I can't ___ going to the party.",
+      "hint": "(verb + out of)",
+      "answers": ["get out of"],
+      "explanation": "get out of something = avoid doing something you arranged to do."
+    },
+    {
+      "type": "true_false",
+      "statement": "The fridge isn't working because you haven't plugged in it.",
+      "answer": false,
+      "explanation": "... because you haven't plugged it in. A pronoun object goes between the two parts of the phrasal verb."
+    }
+  ]
+}

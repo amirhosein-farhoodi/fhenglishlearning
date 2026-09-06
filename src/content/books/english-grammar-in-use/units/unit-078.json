@@ -1,0 +1,179 @@
+{
+  "number": 78,
+  "title": "Names with and without the 2",
+  "subtitle": "Victoria Station / the Sheraton Hotel / McDonald's",
+  "summary": "Decide whether the names of streets, buildings, shops, newspapers and companies take the.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Streets, squares, parks: no the",
+      "text": "We do not use the with the names of most city streets, roads, squares and parks.",
+      "examples": [
+        { "text": "**Union Street**, **Abbey Road**, **Fifth Avenue**, **Broadway**", "wrong": "the Union Street" },
+        { "text": "**Hyde Park**, **Times Square**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Place or person + noun: no the",
+      "text": "Names of many public buildings and institutions (airports, stations, universities etc.), and also some geographical names, are two words. The first word is the name of a place ('Manchester') or a person ('Harvard'). These names are usually without the.",
+      "examples": [
+        { "text": "**Manchester Airport**, **Victoria Station**", "wrong": "the Victoria Station" },
+        { "text": "**Harvard University**, **Cambridge University**" },
+        { "text": "**Canterbury Cathedral**, **Edinburgh Castle**, **Buckingham Palace**, **Sydney Harbour**" },
+        { "text": "**Buckingham Palace** but **the Royal Palace**", "note": "'Royal' is an adjective - it is not a name like 'Buckingham'." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Most other buildings: with the",
+      "text": "Most other buildings have names with the: hotels, theatres, cinemas, museums and famous buildings. We often leave out the noun (the Palace, the Guggenheim, the Sheraton). Some names are only the + noun.",
+      "examples": [
+        { "text": "**the Sheraton Hotel**, **the Holiday Inn**" },
+        { "text": "**the Palace Theatre**, **the Odeon** (cinema)" },
+        { "text": "**the Guggenheim Museum**, **the National Gallery**" },
+        { "text": "**the Empire State** (Building), **the White House**, **the Eiffel Tower**" },
+        { "text": "**the Acropolis**, **the Kremlin**, **the Pentagon**", "note": "only the + noun" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Names with of: with the",
+      "text": "Names with of usually have the. Notice the difference between the University of Cambridge and Cambridge University.",
+      "examples": [
+        { "text": "**the Bank of England**, **the Museum of Modern Art**" },
+        { "text": "**the Great Wall of China**, **the Tower of London**" },
+        { "text": "**the University of Cambridge** but **Cambridge University** (without the)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Shops, restaurants and churches named after people: no the",
+      "text": "Many shops, restaurants, hotels etc. are named after people. These names end in -'s or -s, and we do not use the. Churches are often named after saints (St = Saint), also without the.",
+      "examples": [
+        { "text": "**McDonald's**, **Joe's Diner** (restaurant), **Macy's** (department store), **Barclays** (bank)", "wrong": "the McDonald's" },
+        { "text": "**St John's Church**, **St Patrick's Cathedral**", "wrong": "the St John's Church" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Newspapers and organisations / companies",
+      "left": {
+        "label": "Newspapers and many organisations: the",
+        "examples": [
+          "**the Washington Post**, **the Financial Times**, **the Sun** (newspaper)",
+          "**the European Union**, **the BBC**, **the Red Cross**"
+        ]
+      },
+      "right": {
+        "label": "Companies, airlines etc.: no the",
+        "examples": [
+          "**Fiat** (not the Fiat), **Sony**, **Kodak**, **IBM**",
+          "**Singapore Airlines**",
+          "**Yale University Press**"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "A name built from a place or a person (Victoria Station, Harvard University, Macy's, St Paul's) takes no the. A name with an adjective, with of, or with a common noun on its own (the Royal Palace, the Tower of London, the Odeon) takes the."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'Is there a hotel near here?' 'Yes, ___ in Park Road.'",
+      "hint": "(Crown - use the if necessary)",
+      "answers": ["the Crown", "the Crown Hotel"],
+      "explanation": "Hotel names usually take the: the Crown (Hotel)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Many tourists in London visit ___.",
+      "options": ["St Paul's Cathedral", "the St Paul's Cathedral", "St Paul's the Cathedral"],
+      "answer": 0,
+      "explanation": "Churches named after saints (St ...'s) take no the."
+    },
+    {
+      "type": "matching",
+      "prompt": "Where are these famous places? Match each name with its city.",
+      "pairs": [
+        { "left": "the Eiffel Tower", "right": "Paris" },
+        { "left": "Buckingham Palace", "right": "London" },
+        { "left": "the White House", "right": "Washington" },
+        { "left": "the Kremlin", "right": "Moscow" },
+        { "left": "the Acropolis", "right": "Athens" },
+        { "left": "Times Square", "right": "New York" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The Dublin Airport is situated about 12 kilometres from the city centre.",
+      "answer": false,
+      "explanation": "Dublin Airport is situated about 12 kilometres from the city centre. Place name + noun takes no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'd like to go to China and see ___.",
+      "options": ["the Great Wall", "Great Wall", "a Great Wall"],
+      "answer": 0,
+      "explanation": "The Great Wall (of China) - names with of, and this famous structure, take the."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jack is a student at Liverpool University.",
+      "answer": true,
+      "explanation": "Correct. Place name + University takes no the (but the University of Liverpool)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Which newspaper do you want?' '___.'",
+      "hint": "(Morning News - use the if necessary)",
+      "answers": ["The Morning News"],
+      "explanation": "Most newspapers have names with the: The Morning News."
+    },
+    {
+      "type": "categorize",
+      "prompt": "You are giving directions in a town. Which of these names take the?",
+      "categories": ["with the", "no the"],
+      "items": [
+        { "text": "Odeon (cinema)", "category": 0 },
+        { "text": "Turner's (supermarket)", "category": 1 },
+        { "text": "Crown (hotel)", "category": 0 },
+        { "text": "St Peter's (church)", "category": 1 },
+        { "text": "City Museum", "category": 0 },
+        { "text": "Blackstone's (bookshop)", "category": 1 },
+        { "text": "Mario's (restaurant)", "category": 1 },
+        { "text": "Victoria Park", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "This book is published by ___.",
+      "options": ["Cambridge University Press", "the Cambridge University Press", "the Press of Cambridge University"],
+      "answer": 0,
+      "explanation": "Names of companies and publishers are usually without the: Cambridge University Press."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The building across the street is ___.",
+      "hint": "(College of Art - use the if necessary)",
+      "answers": ["the College of Art"],
+      "explanation": "Names with of usually have the: the College of Art."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say where the Statue of Liberty is.",
+      "words": ["The Statue", "of Liberty", "is", "at the entrance", "to", "New York Harbor."],
+      "answer": "The Statue of Liberty is at the entrance to New York Harbor.",
+      "explanation": "A name with of takes the; a place name + noun (New York Harbor) takes no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "The Imperial Hotel is in the Baker Street.",
+      "answer": false,
+      "explanation": "The Imperial Hotel is in Baker Street. Hotels take the, but street names do not."
+    }
+  ]
+}

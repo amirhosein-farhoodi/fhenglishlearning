@@ -1,0 +1,161 @@
+{
+  "number": 24,
+  "title": "will be doing and will have done",
+  "subtitle": "I will be doing / I will have done",
+  "summary": "Use will be doing for an action in progress at a future time, and will have done for an action that will be complete before a future time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Imagine some people standing in a queue to get into the cinema. Half an hour from now, the cinema **will be** full. Everyone **will be watching** the film. Three hours from now, the cinema will be empty. The film **will have finished**. Everyone **will have gone** home.",
+      "examples": [
+        { "text": "Half an hour from now: everyone **will be watching** the film." },
+        { "text": "Three hours from now: the film **will have finished**. Everyone **will have gone** home." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I will be doing = in the middle of doing it",
+      "text": "**I will be doing something** (future continuous) = I will be in the middle of doing it at that time. Compare will be (do)ing and will (do).",
+      "examples": [
+        { "text": "This time next week I'll be on holiday. **I'll be lying** on the beach or swimming in the sea." },
+        { "text": "You have no chance of getting the job. **You'll be wasting** your time if you apply." },
+        { "text": "Don't phone between 7 and 8. **We'll be eating.**" },
+        { "text": "Let's wait for Liz to arrive and then **we'll eat**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Tina in her office: past, present, future",
+      "columns": ["Time", "Sentence", "Tense"],
+      "rows": [
+        ["At 10 o'clock yesterday", "Tina was in her office. She **was working**.", "past continuous"],
+        ["It's 10 o'clock now", "She is in her office. She **is working**.", "present continuous"],
+        ["At 10 o'clock tomorrow", "She will be in her office. She **will be working**.", "future continuous"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "will be -ing for complete future actions",
+      "text": "We also use **will be -ing** to talk about complete actions in the future, often for planned events. Used in this way, will be (doing) is similar to will (do) and going to (do).",
+      "examples": [
+        { "text": "The government **will be making** a statement about the crisis later today." },
+        { "text": "Later in the programme, **I'll be talking** to the Minister of Education." },
+        { "text": "The team's star player is injured and **won't be playing** in the game on Saturday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I will have done = complete before a future time",
+      "text": "**I will have done something** (future perfect) = it will be complete before a time in the future.",
+      "examples": [
+        { "text": "Sally always leaves for work at 8.30 in the morning. She won't be at home at 9 o'clock - **she'll have gone** to work." },
+        { "text": "We're late. The film **will already have started** by the time we get to the cinema." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Ted and Amy: three perfect tenses",
+      "columns": ["Sentence", "Tense"],
+      "rows": [
+        ["Ted and Amy **have been** married for 24 years.", "present perfect"],
+        ["Next year they **will have been** married for 25 years.", "future perfect"],
+        ["When their son was born, they **had been** married for three years.", "past perfect"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Picture the future moment. Still going on at that moment? will be doing. Already over by that moment? will have done."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Half an hour from now the cinema will be full. Everyone ___ the film.",
+      "options": ["will be watching", "will have watched", "watches"],
+      "answer": 0,
+      "explanation": "At that future moment the film will be in progress: will be watching."
+    },
+    {
+      "type": "true_false",
+      "statement": "Andy leaves home at 8 o'clock every day. Tomorrow at 8.15 he'll be leaving the house.",
+      "answer": false,
+      "explanation": "At 8.15 he'll have left the house. Leaving is complete before 8.15, so the future perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tomorrow afternoon we're going to play tennis from 3 o'clock until 4.30. So at 4 o'clock, ___ tennis.",
+      "hint": "(we / play)",
+      "answers": ["we'll be playing", "we will be playing"],
+      "explanation": "At 4 o'clock the game will be in progress: we'll be playing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "At the future time mentioned, is the action in progress or already complete?",
+      "categories": ["In progress: will be doing", "Complete: will have done"],
+      "items": [
+        { "text": "Everyone will be watching the film.", "category": 0 },
+        { "text": "Everyone will have gone home.", "category": 1 },
+        { "text": "Don't phone between 7 and 8. We'll be eating.", "category": 0 },
+        { "text": "She won't be at home at 9 - she'll have gone to work.", "category": 1 },
+        { "text": "The film will already have started by the time we get there.", "category": 1 },
+        { "text": "This time next week I'll be lying on the beach.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emily is not well, so she ___ volleyball tomorrow.",
+      "hint": "(not / play)",
+      "answers": ["won't be playing", "will not be playing"],
+      "explanation": "A planned future event she will not take part in: she won't be playing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Andy goes home from work at exactly 4.30 every day. Tomorrow at 4.45 he'll have left work.",
+      "answer": true,
+      "explanation": "Correct. Leaving work is complete before 4.45, so will have left is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah will meet you at the station. ___ for you when you arrive.",
+      "hint": "(she / wait)",
+      "answers": ["She'll be waiting", "She will be waiting"],
+      "explanation": "The waiting will be in progress when you arrive: She'll be waiting."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ted and Amy have been married for 24 years. Say what will be true next year.",
+      "words": ["Next year", "they", "will", "have been", "married", "for 25 years."],
+      "answer": "Next year they will have been married for 25 years.",
+      "explanation": "Future perfect: will have + past participle (been)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lisa is travelling in Europe and so far she has travelled about 1,000 miles. By the end of the trip, ___ more than 3,000 miles.",
+      "hint": "(she / travel)",
+      "answers": ["she'll have travelled", "she will have travelled"],
+      "explanation": "Complete by a future point (the end of the trip): she'll have travelled."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sally always leaves for work at 8.30 in the morning. She won't be at home at 9 o'clock - ___ to work.",
+      "options": ["she'll have gone", "she'll be going", "she goes"],
+      "answer": 0,
+      "explanation": "By 9 o'clock her leaving is complete: she'll have gone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben is on holiday and is spending his money very quickly. If he continues like this, ___ all his money before the end of his holiday.",
+      "hint": "(he / spend)",
+      "answers": ["he'll have spent", "he will have spent"],
+      "explanation": "Complete before a future time (the end of his holiday): he'll have spent."
+    },
+    {
+      "type": "true_false",
+      "statement": "Andy works until exactly 4.30 every day. Tomorrow at 4 o'clock he'll have finished work.",
+      "answer": false,
+      "explanation": "At 4 o'clock he'll be working - he won't have finished work until 4.30."
+    }
+  ]
+}

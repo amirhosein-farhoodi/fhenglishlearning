@@ -1,0 +1,175 @@
+{
+  "number": 57,
+  "title": "Verb + -ing or to ... 2 (try, need, help)",
+  "subtitle": "try to do / try doing; need to do / need doing",
+  "summary": "Tell apart try to do (attempt) and try doing (experiment), need to do and need doing (= need to be done), and use can't help doing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "try to do = attempt",
+      "text": "**Try to do** = attempt to do, make an effort to do something.",
+      "examples": [
+        { "text": "I was very tired. I **tried to keep** my eyes open, but I couldn't." },
+        { "text": "Please **try to be** quiet when you come home. Everyone will be asleep." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "try something / try doing = experiment",
+      "text": "**Try something** or **try doing something** = do it as an experiment or test, to see if it helps or if you like it.",
+      "examples": [
+        { "text": "These cakes are delicious. You should **try one**.", "note": "= have one to see if you like it" },
+        { "text": "We couldn't find anywhere to stay. We **tried every hotel** in the town, but they were all full.", "note": "= we went to every hotel to see if they had a room" },
+        { "text": "*A:* The photocopier doesn't seem to be working. *B:* **Try pressing** the green button.", "note": "= press the green button - perhaps this will help to solve the problem" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Compare",
+      "left": {
+        "label": "tried to move",
+        "text": "I made an effort, but I couldn't do it.",
+        "examples": [
+          "I **tried to move** the table, but it was too heavy. (so I couldn't move it)"
+        ]
+      },
+      "right": {
+        "label": "tried moving",
+        "text": "I did it, as an experiment, to see if it looked better.",
+        "examples": [
+          "I didn't like the way the furniture was arranged, so I **tried moving** the table to the other side of the room. But it didn't look right, so I moved it back again."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "need to ... and need -ing",
+      "left": {
+        "label": "I need to do something",
+        "text": "= it is necessary for me to do it.",
+        "examples": [
+          "He **needs to work** harder if he wants to make progress.",
+          "I don't **need to come** to the meeting, do I?",
+          "I **need to charge** my phone."
+        ]
+      },
+      "right": {
+        "label": "something needs doing",
+        "text": "= it needs to be done.",
+        "examples": [
+          "My phone **needs charging**. (= it needs to be charged)",
+          "Does your suit **need cleaning**? (= ... need to be cleaned)",
+          "It's a difficult problem. It **needs thinking** about carefully."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "help and can't help",
+      "text": "You can say **help to do** or **help do** (with or without to). But **I can't help doing something** = I can't stop myself doing it.",
+      "examples": [
+        { "text": "Everybody **helped to clean** up after the party.", "note": "or Everybody helped clean up ..." },
+        { "text": "Can you **help me move** this table?", "note": "or Can you help me to move ..." },
+        { "text": "I don't like him, but he has a lot of problems. I **can't help feeling** sorry for him." },
+        { "text": "She tried to be serious, but she **couldn't help laughing**.", "note": "= she couldn't stop herself laughing" },
+        { "text": "I'm sorry I'm so nervous. I **can't help it**.", "note": "= I can't help being nervous" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the effort failed or was hard, it is try to do. If you did it easily to see what would happen, it is try doing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I tried ___ the shelf, but I wasn't tall enough.",
+      "hint": "(reach)",
+      "answers": ["to reach"],
+      "explanation": "An attempt that failed: tried to reach."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I rang the doorbell, but there was no answer. Then I tried ___ on the window, but there was still no answer.",
+      "hint": "(knock)",
+      "answers": ["knocking"],
+      "explanation": "An experiment to see if it would help: tried knocking."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is try used as an attempt (try to do) or as an experiment (try doing)?",
+      "categories": ["try to do = attempt, make an effort", "try doing = do it as an experiment"],
+      "items": [
+        { "text": "I tried to keep my eyes open, but I couldn't.", "category": 0 },
+        { "text": "Try pressing the green button.", "category": 1 },
+        { "text": "We tried to put the fire out, but without success.", "category": 0 },
+        { "text": "She tried asking Carl, but he didn't have any money.", "category": 1 },
+        { "text": "Please leave me alone. I'm trying to concentrate.", "category": 0 },
+        { "text": "Mr Bennett isn't here. Please try calling later.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you have a problem with the computer, try ___ it.",
+      "options": ["restarting", "to restart", "restart"],
+      "answer": 0,
+      "explanation": "Do it as an experiment to solve the problem: try restarting it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The grass is very long. It ___.",
+      "hint": "(need / cut)",
+      "answers": ["needs cutting"],
+      "explanation": "Something needs doing = it needs to be done: It needs cutting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The screws are loose. They ___.",
+      "hint": "(need / tighten)",
+      "answers": ["need tightening"],
+      "explanation": "They need to be tightened: They need tightening."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My grandmother isn't able to look after herself any more. She needs ___ after.",
+      "options": ["looking", "to look", "look"],
+      "answer": 0,
+      "explanation": "She needs to be looked after: needs looking after."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can't make a decision right now. I need ___ about it.",
+      "options": ["to think", "thinking", "think"],
+      "answer": 0,
+      "explanation": "It is necessary for me to do it: I need to think about it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "That shirt looks fine. It doesn't need ___.",
+      "options": ["ironing", "to iron", "iron"],
+      "answer": 0,
+      "explanation": "The shirt does not need to be ironed: doesn't need ironing. (But: You don't need to iron it.)"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. You feel sorry for him although you don't like him.",
+      "words": ["I", "can't help", "feeling", "sorry", "for him."],
+      "answer": "I can't help feeling sorry for him.",
+      "explanation": "can't help + -ing = can't stop myself: can't help feeling."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He looks so funny. Whenever I see him, I can't help ___.",
+      "hint": "(smile)",
+      "answers": ["smiling"],
+      "explanation": "can't help doing = can't stop myself doing it: can't help smiling."
+    },
+    {
+      "type": "true_false",
+      "statement": "She tried to be serious, but she couldn't help to laugh.",
+      "answer": false,
+      "explanation": "She couldn't help laughing. After can't help we use -ing."
+    }
+  ]
+}

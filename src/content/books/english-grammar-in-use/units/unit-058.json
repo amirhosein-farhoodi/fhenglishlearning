@@ -1,0 +1,173 @@
+{
+  "number": 58,
+  "title": "Verb + -ing or to ... 3 (like / would like etc.)",
+  "subtitle": "like doing / like to do; would like to do",
+  "summary": "Use -ing or to ... after like, love and hate, but to ... after would like / would love / would hate / would prefer, and -ing for situations that already exist.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "like / love / hate: -ing or to ...",
+      "text": "When you talk about repeated actions, you can use **-ing** or **to ...** after these verbs, with no real difference.",
+      "examples": [
+        { "text": "Do you **like getting** up early?", "note": "or Do you like to get up early?" },
+        { "text": "Stephanie **hates flying**.", "note": "or Stephanie hates to fly." },
+        { "text": "I **love meeting** people.", "note": "or I love to meet people." },
+        { "text": "I don't **like being** kept waiting.", "note": "or ... like to be kept waiting." },
+        { "text": "I don't **like friends calling** me at work.", "note": "or ... friends to call me at work." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-ing for a situation that already exists",
+      "text": "We use **-ing** (not to ...) when we talk about a situation that already exists or existed.",
+      "examples": [
+        { "text": "Paul lives in Berlin now. He **likes living** there.", "note": "he lives there now and he likes it" },
+        { "text": "Do you **like being** a student?", "note": "you are a student - do you like it?" },
+        { "text": "The office I worked in was horrible. I **hated working** there.", "note": "I worked there and I hated it" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I like doing / I like to do",
+      "left": {
+        "label": "I like doing something",
+        "text": "= I do it and I enjoy it.",
+        "examples": [
+          "I **like cleaning** the kitchen. (= I enjoy it.)",
+          "I **enjoy cleaning** the kitchen. (not enjoy to clean)",
+          "I don't **mind cleaning** the kitchen. (not mind to clean)"
+        ]
+      },
+      "right": {
+        "label": "I like to do something",
+        "text": "= I choose to do it (but maybe I don't enjoy it).",
+        "examples": [
+          "It's not my favourite job, but I **like to clean** the kitchen as often as possible."
+        ]
+      },
+      "note": "enjoy and mind always take -ing."
+    },
+    {
+      "type": "explain",
+      "heading": "would like / would love / would hate / would prefer",
+      "text": "**Would like / would love** etc. are usually followed by **to ...**. Compare *I like* (in general) and *I would like / I'd like* (I want, now). **Would mind** is followed by -ing.",
+      "examples": [
+        { "text": "**I'd like to go** away for a few days.", "note": "I'd like = I would like" },
+        { "text": "What **would you like to do** this evening?" },
+        { "text": "**I'd love to meet** your family." },
+        { "text": "**Would you prefer to eat** now or later?" },
+        { "text": "I **like playing** tennis. / I like to play tennis. (= I like it in general) but **I'd like to play** tennis today. (= I want to play today)" },
+        { "text": "**Would you mind closing** the door, please?", "wrong": "mind to close" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I would like to have (done something)",
+      "text": "**I would like to have done something** = I regret now that I didn't or couldn't do it. We use the same structure after would love / would hate / would prefer.",
+      "examples": [
+        { "text": "It's a shame we didn't see Anna. I **would like to have seen** her again." },
+        { "text": "We**'d like to have gone** away, but we were too busy at home." },
+        { "text": "Poor David! I **would hate to have been** in his position." },
+        { "text": "I**'d love to have gone** to the party, but it was impossible." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "would like / would love / would hate / would prefer + to ... - always. The only would that takes -ing is would mind."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Would you mind ___ the door, please?",
+      "options": ["closing", "to close", "close"],
+      "answer": 0,
+      "explanation": "would mind is followed by -ing: mind closing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jane is a biology teacher. She likes her job. She likes ___ biology.",
+      "hint": "(teach)",
+      "answers": ["teaching"],
+      "explanation": "A situation that already exists (she is a teacher), so -ing: likes teaching."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I used to work in a supermarket. I didn't like it much. I didn't like ___ there.",
+      "hint": "(work)",
+      "answers": ["working"],
+      "explanation": "A situation that existed (I worked there), so -ing: didn't like working there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan is famous, but he doesn't like it. He doesn't like ___ famous.",
+      "hint": "(be)",
+      "answers": ["being"],
+      "explanation": "He is famous now - an existing situation - so -ing: doesn't like being famous."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paul lives in Berlin now. He likes ___ there.",
+      "options": ["living", "to live", "live"],
+      "answer": 0,
+      "explanation": "He lives there now - a situation that already exists - so we use -ing: likes living there."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form follows each verb?",
+      "categories": ["-ing only", "-ing or to ...", "to ... only"],
+      "items": [
+        { "text": "enjoy", "category": 0 },
+        { "text": "like", "category": 1 },
+        { "text": "would like", "category": 2 },
+        { "text": "mind", "category": 0 },
+        { "text": "hate", "category": 1 },
+        { "text": "would love", "category": 2 },
+        { "text": "love", "category": 1 },
+        { "text": "would prefer", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Would you like ___ down?' 'No, thanks. I'll stand.'",
+      "hint": "(sit)",
+      "answers": ["to sit"],
+      "explanation": "would like is followed by to ...: Would you like to sit down?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would love ___ to your wedding, but I'm afraid I'll be away.",
+      "hint": "(come)",
+      "answers": ["to come", "to go"],
+      "explanation": "would love is followed by to ...: would love to come."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve wants to win every time. He hates ___.",
+      "hint": "(lose) - either form is possible",
+      "answers": ["losing", "to lose"],
+      "explanation": "After hate, for repeated actions, both -ing and to ... are possible: hates losing / hates to lose."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It's a shame I didn't see the programme. Say this with would like.",
+      "words": ["I", "would like", "to have", "seen", "the programme."],
+      "answer": "I would like to have seen the programme.",
+      "explanation": "would like to have done = I regret that I didn't do it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I'm glad I didn't lose my watch. Say this with would hate.",
+      "words": ["I", "would hate", "to have", "lost", "my watch."],
+      "answer": "I would hate to have lost my watch.",
+      "explanation": "would hate to have done - the same structure as would like to have done."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like to play tennis, but I don't feel like it today. I'd like staying at home.",
+      "answer": false,
+      "explanation": "I'd like to stay at home. would like is followed by to ... (not -ing)."
+    }
+  ]
+}

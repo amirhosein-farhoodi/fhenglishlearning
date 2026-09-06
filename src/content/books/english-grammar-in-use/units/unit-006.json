@@ -1,0 +1,184 @@
+{
+  "number": 6,
+  "title": "Past continuous (I was doing)",
+  "subtitle": "I was doing",
+  "summary": "Use the past continuous (was/were + -ing) for an action you were in the middle of at a time in the past, and combine it with the past simple for things that happened in the middle of it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Yesterday Karen and Joe played tennis. They started at 10 o'clock and finished at 11.30. So, at 10.30 **they were playing** tennis. they were playing = they were in the middle of playing, they had not finished. **was/were + -ing** is the past continuous.",
+      "examples": [
+        { "text": "At 10.30 **they were playing** tennis.", "note": "= in the middle of playing; not finished" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "was / were", "-ing"],
+      "rows": [
+        ["I / he / she / it", "was (wasn't)", "playing"],
+        ["we / you / they", "were (weren't)", "working"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the middle of doing something",
+      "text": "**I was doing** something = I was in the middle of doing it at a certain time. The action or situation started before this time, but had not finished.",
+      "examples": [
+        { "text": "This time last year **I was living** in Hong Kong." },
+        { "text": "What **were you doing** at 10 o'clock last night?" },
+        { "text": "I waved to Helen, but she **wasn't looking**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I was doing and I did",
+      "left": {
+        "label": "I was doing (past continuous)",
+        "text": "= in the middle of an action",
+        "examples": [
+          "We **were walking** home when I met Dan. (in the middle of walking home)",
+          "Kate **was watching** TV when we arrived."
+        ]
+      },
+      "right": {
+        "label": "I did (past simple)",
+        "text": "= a complete action",
+        "examples": [
+          "We **walked** home after the party last night. (= all the way, completely)",
+          "Kate **watched** TV a lot when she was ill last year."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Something happened in the middle of something else",
+      "text": "You can say that something happened (past simple) in the middle of something else (past continuous). But we use the past simple to say that one thing happened *after* another.",
+      "examples": [
+        { "text": "Matt **phoned** while we **were having** dinner." },
+        { "text": "It **was raining** when I **got up**." },
+        { "text": "I saw you in the park yesterday. You **were sitting** on the grass and reading a book." },
+        { "text": "I **hurt** my back while I **was working** in the garden." },
+        { "text": "I was walking along the road when I **saw** Dan. So I **stopped**, and we **talked** for a while.", "note": "one thing after another: past simple" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "When Karen arrived ...",
+      "left": {
+        "label": "we were having dinner",
+        "text": "= we had already started before she arrived",
+        "examples": ["When Karen arrived, we **were having** dinner."]
+      },
+      "right": {
+        "label": "we had dinner",
+        "text": "= Karen arrived, and then we had dinner",
+        "examples": ["When Karen arrived, we **had** dinner."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs not used in continuous forms",
+      "text": "Some verbs (for example **know** and **want**) are not normally used in continuous forms (is + -ing, was + -ing etc.). Use the past simple for them.",
+      "examples": [
+        { "text": "We were good friends. We **knew** each other well.", "wrong": "we were knowing" },
+        { "text": "I was enjoying the party, but Chris **wanted** to go home.", "wrong": "was wanting" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Background action (longer, already in progress) = was/were + -ing. The event that interrupts it (shorter, sudden) = past simple: I was cycling home when a man stepped out."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'What did he say?' 'I don't know. I ___.'",
+      "hint": "(not / listen)",
+      "answers": ["wasn't listening", "was not listening"],
+      "explanation": "In the middle of not listening at that moment in the past: I wasn't listening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ at the back of the theatre. We couldn't hear very well.",
+      "hint": "(sit)",
+      "answers": ["were sitting"],
+      "explanation": "A situation in progress in the past: we were sitting."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which goes with which? Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "When I got to the cafe", "right": "my friends were waiting for me." },
+        { "left": "We fell asleep", "right": "while we were watching a film." },
+        { "left": "Amy learnt Italian", "right": "when she was living in Rome." },
+        { "left": "Tom didn't come out with us", "right": "because he wasn't feeling well." },
+        { "left": "The car began to make a strange noise", "right": "when I was driving home." },
+        { "left": "The TV was on", "right": "but nobody was watching it." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw you in your car. Where ___?",
+      "hint": "(you / go)",
+      "answers": ["were you going"],
+      "explanation": "Question in the past continuous: were + subject + -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend what they were doing at 10 o'clock last night.",
+      "words": ["What", "were", "you", "doing", "at 10 o'clock", "last night?"],
+      "answer": "What were you doing at 10 o'clock last night?",
+      "explanation": "A certain time in the past + an action in progress: What were you doing?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'___ out last night?' 'No, I was too tired.'",
+      "hint": "(you / go)",
+      "answers": ["Did you go"],
+      "explanation": "A complete action (or not) in the past: past simple with did."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sam ___ a picture of me while I wasn't looking.",
+      "options": ["took", "was taking", "taked"],
+      "answer": 0,
+      "explanation": "Taking the picture is the short, complete action in the middle of the longer one (I wasn't looking): took."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ home yesterday when a man stepped out into the road in front of me.",
+      "hint": "(cycle)",
+      "answers": ["was cycling"],
+      "explanation": "The longer background action is past continuous: I was cycling; the man stepped out (past simple) in the middle of it."
+    },
+    {
+      "type": "true_false",
+      "statement": "I hurt my back while I was working in the garden.",
+      "answer": true,
+      "explanation": "Correct. Something happened (hurt) in the middle of something else (was working)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When Karen arrived, we ___ dinner - we had already started before she came.",
+      "options": ["were having", "had", "have had"],
+      "answer": 0,
+      "explanation": "Already in progress when she arrived: we were having dinner. 'We had dinner' would mean we started after she arrived."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were good friends. We were knowing each other well.",
+      "answer": false,
+      "explanation": "We knew each other well. know is not normally used in continuous forms."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last night I dropped a plate when I ___ the washing up. Fortunately it didn't break.",
+      "hint": "(do)",
+      "answers": ["was doing"],
+      "explanation": "Doing the washing up was in progress when the plate dropped: I was doing."
+    }
+  ]
+}

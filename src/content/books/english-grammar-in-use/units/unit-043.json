@@ -1,0 +1,173 @@
+{
+  "number": 43,
+  "title": "Passive 2 (be done / been done / being done)",
+  "subtitle": "be done / been done / being done",
+  "summary": "Form the passive after modal verbs, in the perfect tenses and in the continuous tenses: will be done, has been done, is being done.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Infinitive: (to) be done",
+      "text": "Active: (to) do/clean/see etc. Passive: **(to) be + done/cleaned/seen** etc. We use this after will, must, can, could, going to and after verbs like want.",
+      "examples": [
+        { "text": "Somebody will clean this room later. → This room **will be cleaned** later." },
+        { "text": "The situation is serious. Something **must be done** before it's too late." },
+        { "text": "A mystery is something that **can't be explained**." },
+        { "text": "The music was very loud and **could be heard** from a long way away." },
+        { "text": "A new supermarket **is going to be built** next year." },
+        { "text": "Please go away. I want **to be left** alone." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Perfect infinitive: (to) have been done",
+      "text": "Active: (to) have + done/cleaned/seen etc. Passive: **(to) have been + done/cleaned/seen** etc. We use this after should, might, would etc. when we talk about the past.",
+      "examples": [
+        { "text": "Somebody should have cleaned the room. → The room **should have been cleaned**." },
+        { "text": "I haven't received the letter yet. It **might have been sent** to the wrong address." },
+        { "text": "If you had locked the car, it **wouldn't have been stolen**." },
+        { "text": "There were some problems at first, but they seem **to have been solved**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present perfect: have/has been done",
+      "text": "Active: have/has + done etc. Passive: **have/has been + done** etc.",
+      "examples": [
+        { "text": "The room looks nice. Somebody has cleaned it. → The room looks nice. It **has been cleaned**." },
+        { "text": "Have you heard? The trip **has been cancelled**." },
+        { "text": "**Have** you ever **been bitten** by a dog?" },
+        { "text": "'Are you going to the party?' 'No, **I haven't been invited**.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Past perfect: had been done",
+      "text": "Active: had + done etc. Passive: **had been + done** etc.",
+      "examples": [
+        { "text": "The room looked nice. Somebody had cleaned it. → The room looked nice. It **had been cleaned**." },
+        { "text": "The vegetables didn't taste good. They **had been cooked** too long." },
+        { "text": "The car was three years old, but **hadn't been used** very much." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present and past continuous: is being done / was being done",
+      "text": "Present continuous active: am/is/are + (do)ing. Passive: **am/is/are + being (done)**. Past continuous active: was/were + (do)ing. Passive: **was/were + being (done)**.",
+      "examples": [
+        { "text": "Somebody is cleaning the room at the moment. → The room **is being cleaned** at the moment." },
+        { "text": "There's somebody walking behind us. I think we **are being followed**." },
+        { "text": "A new bridge **is being built** across the river. It will be finished next year." },
+        { "text": "Somebody was cleaning the room when I arrived. → The room **was being cleaned** when I arrived." },
+        { "text": "There was somebody walking behind us. I think we **were being followed**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Summary of the forms",
+      "columns": ["Form", "Active", "Passive"],
+      "rows": [
+        ["Infinitive", "(to) clean", "(to) be cleaned"],
+        ["Perfect infinitive", "(to) have cleaned", "(to) have been cleaned"],
+        ["Present perfect", "has/have cleaned", "has/have been cleaned"],
+        ["Past perfect", "had cleaned", "had been cleaned"],
+        ["Present continuous", "is/are cleaning", "is/are being cleaned"],
+        ["Past continuous", "was/were cleaning", "was/were being cleaned"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Keep the tense of the active sentence and change only the verb: has cleaned becomes has been cleaned, is cleaning becomes is being cleaned."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The situation is serious. Something ___ before it's too late.",
+      "options": ["must be done", "must do", "must been done"],
+      "answer": 0,
+      "explanation": "After a modal verb (must) the passive is be + past participle: must be done."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "These documents are important. They should always ___ in a safe place.",
+      "hint": "(keep)",
+      "answers": ["be kept"],
+      "explanation": "After should, the passive infinitive is be + past participle: should be kept."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My bike has disappeared. It ___!",
+      "options": ["has been stolen", "has stolen", "is stolen"],
+      "answer": 0,
+      "explanation": "Present perfect passive: has been + past participle. The bike didn't steal anything."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This road is in bad condition. It should ___ a long time ago.",
+      "hint": "(repair)",
+      "answers": ["have been repaired"],
+      "explanation": "A long time ago is past, so use the perfect infinitive passive: should have been repaired."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which passive form is used in each sentence?",
+      "categories": ["Present perfect (has/have been done)", "Continuous (is/are being done)", "Past perfect (had been done)"],
+      "items": [
+        { "text": "Have you heard? The trip has been cancelled.", "category": 0 },
+        { "text": "A new bridge is being built across the river.", "category": 1 },
+        { "text": "The vegetables had been cooked too long.", "category": 2 },
+        { "text": "No, I haven't been invited.", "category": 0 },
+        { "text": "I think we are being followed.", "category": 1 },
+        { "text": "The car hadn't been used very much.", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A friend of mine was stung by a bee recently. Ask your friend about their experience. (you / ever / sting / bee?)",
+      "words": ["Have", "you", "ever", "been", "stung", "by a bee?"],
+      "answer": "Have you ever been stung by a bee?",
+      "explanation": "Present perfect passive question: Have + subject + ever + been + past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "You can't use the bathroom now. The room is cleaning at the moment.",
+      "answer": false,
+      "explanation": "The room is being cleaned at the moment. Present continuous passive is am/is/are + being + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bridge was damaged recently. It ___ at the moment.",
+      "hint": "(repair)",
+      "answers": ["is being repaired", "'s being repaired"],
+      "explanation": "At the moment means the action is in progress now: present continuous passive (is being repaired)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wonder how Jessica is these days. I ___ her for ages.",
+      "options": ["haven't seen", "haven't been seen", "am not seen"],
+      "answer": 0,
+      "explanation": "I am the one who sees, so the verb is active: I haven't seen her. Compare: He hasn't been seen since then."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I didn't know that somebody was recording our conversation. Write the sentence in the passive.",
+      "words": ["I didn't know", "that", "our conversation", "was", "being", "recorded."],
+      "answer": "I didn't know that our conversation was being recorded.",
+      "explanation": "Past continuous passive: was/were + being + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not certain how the fire started. It might ___ by an electrical fault.",
+      "hint": "(cause)",
+      "answers": ["have been caused"],
+      "explanation": "The fire is past, so after might we need the perfect infinitive passive: might have been caused."
+    },
+    {
+      "type": "true_false",
+      "statement": "The vegetables didn't taste good. They had been cooked too long.",
+      "answer": true,
+      "explanation": "Correct. Past perfect passive (had been cooked) for something that happened before they tasted them."
+    }
+  ]
+}

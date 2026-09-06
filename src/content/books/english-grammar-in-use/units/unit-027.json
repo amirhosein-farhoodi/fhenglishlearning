@@ -1,0 +1,191 @@
+{
+  "number": 27,
+  "title": "could (do) and could have (done)",
+  "subtitle": "We could go / You could have stayed",
+  "summary": "Use could for suggestions, unrealistic ideas and things that are possible now or in the future, and could have (done) for things that were possible in the past but did not happen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "could is not always past",
+      "text": "Sometimes **could** is the past of can. But could is not always past. We also use could for possible actions now or in the future, especially to make suggestions. Can is also possible in these sentences (*We can go to the cinema*), but could is less sure than can.",
+      "examples": [
+        { "text": "Listen. I **can hear** something.", "note": "now" },
+        { "text": "I listened. I **could hear** something.", "note": "past" },
+        { "text": "*A:* What shall we do tonight? *B:* We **could go** to the cinema." },
+        { "text": "*A:* When you go to Paris next month, you **could stay** with Sarah. *B:* Yes, I suppose I **could**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "could for actions that are not realistic",
+      "text": "We also use **could** (not can) for actions that are not realistic. Compare can for something realistic, could for something possible but less sure, and could for something unrealistic.",
+      "examples": [
+        { "text": "I'm so tired, I **could sleep** for a week.", "wrong": "I can sleep for a week" },
+        { "text": "I **can stay** with Sarah when I go to Paris.", "note": "realistic" },
+        { "text": "Maybe I **could stay** with Sarah when I go to Paris.", "note": "possible, but less sure" },
+        { "text": "This is a wonderful place. I **could stay** here for ever.", "note": "unrealistic" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "can (in general) or could (possible now or in the future)?",
+      "left": {
+        "label": "can = in general",
+        "text": "Can says that something is generally possible.",
+        "examples": [
+          "The weather **can change** very quickly in the mountains.",
+          "Some people are unlucky. Life **can be** very unfair."
+        ]
+      },
+      "right": {
+        "label": "could = possible now or in the future",
+        "text": "We use could (not can) to say that something is possible in a particular situation now or in the future.",
+        "examples": [
+          "The weather is nice now, but it **could change** later. (the weather now, not in general)",
+          "The story **could be** true, but I don't think it is. (not can be true)",
+          "I don't know what time Lisa is coming. She **could get** here at any time."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "could (now) or could have (past)?",
+      "left": {
+        "label": "could ... = now",
+        "examples": [
+          "I'm so tired, I **could sleep** for a week.",
+          "The situation is bad, but it **could be** worse."
+        ]
+      },
+      "right": {
+        "label": "could have ... = past",
+        "text": "Something could have happened = it was possible, but it did not happen.",
+        "examples": [
+          "I was so tired, I **could have slept** for a week.",
+          "The situation was bad, but it **could have been** worse.",
+          "Why did you stay at a hotel? You **could have stayed** with me.",
+          "David was lucky. He **could have hurt** himself when he fell, but he's all right."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "couldn't = it would not be possible",
+      "text": "**I couldn't do something** = it would not be possible. For the past we use **couldn't have ...** (= it would not have been possible). Note that *I couldn't do something* has two meanings: it would not be possible now (I would not be able), or I was not able (past).",
+      "examples": [
+        { "text": "I **couldn't live** in a big city. I'd hate it.", "note": "= it wouldn't be possible for me" },
+        { "text": "Everything is fine right now. Things **couldn't be** better." },
+        { "text": "We had a really good holiday. It **couldn't have been** better." },
+        { "text": "I **couldn't run** ten kilometres now. I'm not fit enough.", "note": "= I would not be able" },
+        { "text": "I **couldn't run** yesterday because I'd hurt my leg.", "note": "= I was not able" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Could is softer and less sure than can. If the action is unrealistic (*I could sleep for a week*) or only a possibility (*It could rain later*), can is wrong."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question or problem with the suggestion that goes with it.",
+      "pairs": [
+        { "left": "What shall we eat tonight?", "right": "We could have fish." },
+        { "left": "I need to phone Vicky sometime.", "right": "You could do it now." },
+        { "left": "What shall I get Ann for her birthday?", "right": "You could give her a book." },
+        { "left": "Where shall we put this picture?", "right": "We could hang it in the kitchen." },
+        { "left": "What would you like to do at the weekend?", "right": "We could go away somewhere." },
+        { "left": "I don't know what to wear to the wedding.", "right": "You could wear your brown suit." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've been really stupid. I ___ kick myself.",
+      "options": ["could", "can", "could have"],
+      "answer": 0,
+      "explanation": "An unrealistic action: could (not can). It is happening now, so not could have."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ hear a strange noise. What is it?",
+      "hint": "(can / could)",
+      "answers": ["can"],
+      "explanation": "You really hear the noise now, so this is a real present ability: can hear."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: can or could?",
+      "categories": ["can", "could"],
+      "items": [
+        { "text": "I'm so angry with him. I ___ kill him!", "category": 1 },
+        { "text": "Peter is a keen musician. He plays the flute and he ___ also play the piano.", "category": 0 },
+        { "text": "The company Amy works for isn't doing well. She ___ lose her job.", "category": 1 },
+        { "text": "Some people are unlucky. Life ___ be very unfair.", "category": 0 },
+        { "text": "Be careful climbing that tree. You ___ fall.", "category": 1 },
+        { "text": "I ___ understand your point of view, but I don't agree with you.", "category": 0 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm so tired, I can sleep for a week.",
+      "answer": false,
+      "explanation": "I'm so tired, I could sleep for a week. Sleeping for a week is not realistic, so we use could, not can."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Shall I open this letter? B: Yes. It ___ important.",
+      "hint": "(could be / could have been)",
+      "answers": ["could be"],
+      "explanation": "The letter is here now, so we talk about a present possibility: could be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: I spent a very boring evening at home yesterday. B: Why did you stay at home? You ___ out with us.",
+      "hint": "(could + come)",
+      "answers": ["could have come"],
+      "explanation": "It was possible yesterday but did not happen: could have come."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: How was your exam? Was it difficult? B: It wasn't so bad. It ___ worse.",
+      "hint": "(could + be)",
+      "answers": ["could have been"],
+      "explanation": "The exam is finished, so we use the past form: could have been worse."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A: I got very wet walking home in the rain. B: Why did you walk? ... Put the words in order to complete B's reply.",
+      "words": ["You", "could", "have", "taken", "a taxi."],
+      "answer": "You could have taken a taxi.",
+      "explanation": "A past possibility that did not happen: could have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ that hat. People would laugh at me.",
+      "hint": "(couldn't / couldn't have + wear)",
+      "answers": ["couldn't wear", "could not wear"],
+      "explanation": "It would not be possible now: couldn't wear."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The staff at the hotel were really good. They ___ more helpful.",
+      "hint": "(couldn't / couldn't have + be)",
+      "answers": ["couldn't have been", "could not have been"],
+      "explanation": "The stay is in the past, so: couldn't have been more helpful (= it would not have been possible)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jack prepared for the exam as well as he could. He ___ harder.",
+      "options": ["couldn't have studied", "couldn't study", "can't study"],
+      "answer": 0,
+      "explanation": "The preparation is finished, so we need the past form couldn't have + past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had a really good holiday. It couldn't have been better.",
+      "answer": true,
+      "explanation": "Correct. Couldn't have been = it would not have been possible for it to be better."
+    }
+  ]
+}

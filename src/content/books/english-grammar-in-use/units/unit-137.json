@@ -1,0 +1,174 @@
+{
+  "number": 137,
+  "title": "Phrasal verbs 1: Introduction",
+  "subtitle": "get on / break down / take it off",
+  "summary": "Understand what phrasal verbs are, how the second word can change the meaning, and where to put the object.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a phrasal verb?",
+      "text": "We often use verbs with words like **in, out, on, off, up, down, away, back, by, through, about, along, over, forward, round** or **around**. So you can say look out / get on / take off / run away etc. These are phrasal verbs. We often use on/off/out etc. with verbs of movement.",
+      "examples": [
+        { "text": "The bus was full. We couldn't **get on**." },
+        { "text": "A woman got into the car and **drove off**." },
+        { "text": "Sarah is leaving tomorrow and **coming back** on Saturday." },
+        { "text": "When I touched him on the shoulder, he **turned round**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The second word often gives a special meaning",
+      "columns": ["Phrasal verb", "Example", "Meaning"],
+      "rows": [
+        ["break down", "Sorry I'm late. The car **broke down**.", "the engine stopped working"],
+        ["find out", "I never **found out** who sent me the flowers.", "I never discovered"],
+        ["take off", "It was my first flight. I was nervous as the plane **took off**.", "went into the air"],
+        ["give up", "I tried many times to contact her. In the end I **gave up**.", "stopped trying"],
+        ["get on", "How was the exam? How did you **get on**?", "How did you do?"],
+        ["get by", "My French isn't good, but it's enough to **get by**.", "enough to manage"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phrasal verb + preposition",
+      "text": "Sometimes a phrasal verb is followed by a preposition: **look up at**, **run away from**, **keep up with**, **look forward to**.",
+      "examples": [
+        { "text": "We **looked up at** the plane as it flew above us." },
+        { "text": "Why did you **run away from** me?" },
+        { "text": "You're walking too fast. I can't **keep up with** you." },
+        { "text": "Are you **looking forward to** your trip?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phrasal verbs with an object",
+      "text": "Sometimes a phrasal verb has an object. Usually there are two possible positions for the object: after the phrasal verb or between the two parts.",
+      "examples": [
+        { "text": "I **turned on** the light.", "note": "the light is the object" },
+        { "text": "I **turned on** the light. or I **turned** the light **on**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Noun object or pronoun object?",
+      "left": {
+        "label": "Noun object: two positions",
+        "examples": [
+          "I'm going to **take off** my shoes. or ... **take** my shoes **off**.",
+          "Don't **wake up** the baby. or Don't **wake** the baby **up**.",
+          "Don't **throw away** this box. or Don't **throw** this box **away**."
+        ]
+      },
+      "right": {
+        "label": "Pronoun object (it/them/me/him etc.): only one position",
+        "examples": [
+          "These shoes are uncomfortable. I'm going to **take them off**. (not take off them)",
+          "The baby is asleep. Don't **wake her up**. (not wake up her)",
+          "I want to keep this box, so don't **throw it away**. (not throw away it)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "A pronoun object always goes in the middle: turn **it** on, take **them** off, wake **her** up - never ~~turn on it~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sorry I'm late. The car ___ on the way here, and we had to call for help.",
+      "options": ["broke down", "broke up", "broke out"],
+      "answer": 0,
+      "explanation": "break down = the engine stopped working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been standing a long time. I'm going to ___ for a bit.",
+      "hint": "(sit + down/up/off)",
+      "answers": ["sit down"],
+      "explanation": "sit down - a verb of movement + down."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very busy airport. There are planes landing and ___ all the time.",
+      "hint": "(take + off/up/away)",
+      "answers": ["taking off"],
+      "explanation": "take off = go into the air (a plane)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "break down", "right": "stop working (a car, a machine)" },
+        { "left": "find out", "right": "discover" },
+        { "left": "give up", "right": "stop trying" },
+        { "left": "get by", "right": "manage with what you have" },
+        { "left": "take off", "right": "go into the air" },
+        { "left": "get on", "right": "make progress, do well or badly" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A cat tried to catch the bird, but it ___ just in time.",
+      "hint": "(fly + away/off)",
+      "answers": ["flew away", "flew off"],
+      "explanation": "fly away or fly off - both describe the movement of the bird leaving."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The meeting tomorrow is going to be difficult. I'm not looking ___ it.",
+      "options": ["forward to", "forward at", "up to", "out for"],
+      "answer": 0,
+      "explanation": "look forward TO something = phrasal verb + preposition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you know about the plan? How did you find ___ it?",
+      "options": ["out about", "out at", "up with", "away from"],
+      "answer": 0,
+      "explanation": "find out about something = discover information about it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I'm going to bed now. Ask someone to wake you at 6.30.",
+      "words": ["Can", "you", "wake", "me", "up", "at 6.30?"],
+      "answer": "Can you wake me up at 6.30?",
+      "explanation": "The pronoun object (me) goes between the two parts: wake me up."
+    },
+    {
+      "type": "true_false",
+      "statement": "These shoes are uncomfortable. I'm going to take off them.",
+      "answer": false,
+      "explanation": "I'm going to take them off. A pronoun object can only go between the two parts of the phrasal verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "These books are Lisa's. I have to give them back to her.",
+      "answer": true,
+      "explanation": "Correct. give them back - the pronoun object goes in the middle."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the second word simply show movement, or does it give the verb a special meaning?",
+      "categories": ["Movement", "Special meaning"],
+      "items": [
+        { "text": "The bus was full. We couldn't get on.", "category": 0 },
+        { "text": "A woman got into the car and drove off.", "category": 0 },
+        { "text": "Sorry I'm late. The car broke down.", "category": 1 },
+        { "text": "I never found out who sent me the flowers.", "category": 1 },
+        { "text": "When I touched him on the shoulder, he turned round.", "category": 0 },
+        { "text": "In the end I gave up.", "category": 1 },
+        { "text": "Sarah is coming back on Saturday.", "category": 0 },
+        { "text": "My French is enough to get by.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "My shoes are dirty. Say what you should do before going into the house.",
+      "words": ["I'd better", "take", "them", "off", "before", "going into", "the house."],
+      "answer": "I'd better take them off before going into the house.",
+      "explanation": "take them off - not take off them."
+    }
+  ]
+}

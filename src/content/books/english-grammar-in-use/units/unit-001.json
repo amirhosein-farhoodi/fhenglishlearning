@@ -1,0 +1,171 @@
+{
+  "number": 1,
+  "title": "Present continuous (I am doing)",
+  "subtitle": "I am doing",
+  "summary": "Use the present continuous for actions happening now or around now, and for changes that are happening.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study this situation",
+      "text": "Sarah is in her car. She is on her way to work. **She's driving** to work. This means she is driving *now*, at the time of speaking. The action is not finished. **am/is/are + -ing** is the present continuous.",
+      "examples": [
+        { "text": "**She's driving** to work.", "note": "= She is driving ..." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "am / is / are", "-ing"],
+      "rows": [
+        ["I", "am (I'm)", "driving"],
+        ["he / she / it", "is (he's, she's, it's)", "working"],
+        ["we / you / they", "are (we're, you're, they're)", "doing"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the middle of doing something",
+      "text": "**I am doing something** = I started doing it and I haven't finished. I'm in the middle of doing it.",
+      "examples": [
+        { "text": "Please don't make so much noise. **I'm trying** to work.", "wrong": "I try" },
+        { "text": "'Where's Mark?' '**He's having** a shower.'", "wrong": "He has a shower" },
+        { "text": "Let's go out now. **It isn't raining** any more.", "wrong": "It doesn't rain" },
+        { "text": "How's your new job? **Are you enjoying** it?" },
+        { "text": "What's all that noise? **What's going on?** or **What's happening?**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not always at this exact moment",
+      "text": "Sometimes the action is not happening at the time of speaking. Steve is on the phone to a friend and says: *'I'm reading a really good book at the moment.'* He is not reading the book right now. He means that he has started it but hasn't finished it. He is in the middle of reading it.",
+      "examples": [
+        { "text": "Kate wants to work in Italy, so **she's learning** Italian.", "note": "perhaps she isn't learning Italian at the time of speaking" },
+        { "text": "Some friends of mine **are building** their own house. They hope to finish it next summer." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Periods around now",
+      "text": "You can use the present continuous with **today / this week / this year** etc. - periods around now.",
+      "examples": [
+        { "text": "*A:* **You're working** hard today. *B:* Yes, I have a lot to do.", "wrong": "You work hard today" },
+        { "text": "The company I work for **isn't doing** so well this year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Changes that are happening",
+      "text": "We use the present continuous when we talk about a change that has started to happen. We often use these verbs in this way: **getting, becoming, changing, improving, starting, beginning, increasing, rising, falling, growing**.",
+      "examples": [
+        { "text": "**Is** your English **getting** better?", "wrong": "Does your English get better" },
+        { "text": "The population of the world **is increasing** very fast.", "wrong": "increases" },
+        { "text": "At first I didn't like my job, but **I'm starting** to enjoy it now.", "wrong": "I start" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Quick check: if you can add *right now* or *at the moment* and the sentence still makes sense, the present continuous is probably the right choice."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sarah is in her car, on her way to work. Which sentence describes the situation?",
+      "options": ["She's driving to work.", "She drives to work.", "She drive to work."],
+      "answer": 0,
+      "explanation": "She is driving now, at the time of speaking, so we use the present continuous: am/is/are + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Please don't make so much noise. ___ to work.",
+      "hint": "(I / try)",
+      "answers": ["I'm trying", "I am trying"],
+      "explanation": "I'm in the middle of trying to work, so: I'm trying (not I try)."
+    },
+    {
+      "type": "matching",
+      "prompt": "The sentences on the right follow the sentences on the left. Match them.",
+      "pairs": [
+        { "left": "Please don't make so much noise.", "right": "I'm trying to work." },
+        { "left": "We need to leave soon.", "right": "It's getting late." },
+        { "left": "I don't have anywhere to live right now.", "right": "I'm staying with friends." },
+        { "left": "I need to eat something soon.", "right": "I'm getting hungry." },
+        { "left": "They don't need their car any more.", "right": "They're trying to sell it." },
+        { "left": "Things are not so good at work.", "right": "The company is losing money." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "I haven't seen you for ages. Ask what your friend is doing these days.",
+      "words": ["What", "are", "you", "doing", "these days?"],
+      "answer": "What are you doing these days?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can turn off the radio. ___ to it.",
+      "hint": "(I / listen) - negative",
+      "answers": ["I'm not listening", "I am not listening"],
+      "explanation": "Negative present continuous: I'm not + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tim isn't working today. He's taken the day off.",
+      "answer": true,
+      "explanation": "Correct. Today is a period around now, so the present continuous (isn't working) is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate phoned last night. She's on holiday with friends. ___ a great time and doesn't want to come back.",
+      "hint": "(She / have)",
+      "answers": ["She's having", "She is having"],
+      "explanation": "The holiday is happening around now: She's having a great time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "We're not in a hurry. Ask your friend why they are walking so fast.",
+      "words": ["Why", "are", "you", "walking", "so", "fast?"],
+      "answer": "Why are you walking so fast?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Look at those clouds. The weather changes. I think it's going to rain.",
+      "answer": false,
+      "explanation": "The weather is changing. A change that has started to happen takes the present continuous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul and Sarah have had an argument and now ___ to one another.",
+      "hint": "(they / speak) - negative",
+      "answers": ["they aren't speaking", "they're not speaking", "they are not speaking"],
+      "explanation": "The situation is happening now, so use the present continuous negative: they aren't speaking."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The population of the world ___ very fast.",
+      "options": ["is increasing", "increases", "increase"],
+      "answer": 0,
+      "explanation": "A change that has started to happen: the present continuous (is increasing)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the action happening at this exact moment, or is it a longer activity that is in progress around now?",
+      "categories": ["Happening at this moment", "In progress around now"],
+      "items": [
+        { "text": "Listen! It's raining.", "category": 0 },
+        { "text": "She's learning Italian.", "category": 1 },
+        { "text": "He's having a shower - call back later.", "category": 0 },
+        { "text": "They're building their own house.", "category": 1 },
+        { "text": "I'm reading a really good book at the moment.", "category": 1 },
+        { "text": "Be careful - the water is boiling.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan has been in the same job for a long time. ___ to get bored with it.",
+      "hint": "(He / start)",
+      "answers": ["He's starting", "He is starting"],
+      "explanation": "A change that is happening now: He's starting to get bored."
+    }
+  ]
+}

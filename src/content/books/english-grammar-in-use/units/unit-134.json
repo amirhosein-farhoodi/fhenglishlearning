@@ -1,0 +1,179 @@
+{
+  "number": 134,
+  "title": "Verb + preposition 3: about and of",
+  "subtitle": "hear about / hear of, think about / think of",
+  "summary": "Choose correctly between about and of (and from) after hear, think, dream, complain and remind.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "hear about / hear of / hear from",
+      "text": "**hear about** something = be told about it. **hear of** somebody or something = know that they exist. **hear from** somebody = be in contact with them (they call or write to you). Three different prepositions, three different meanings.",
+      "examples": [
+        { "text": "Did you **hear about** the fire at the hotel?" },
+        { "text": "*A:* Who is Tom Hart? *B:* I have no idea. I've never **heard of** him.", "wrong": "heard from him" },
+        { "text": "*A:* Have you **heard from** Jane recently? *B:* Yes, she called me a few days ago." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "think about or think of?",
+      "left": {
+        "label": "think ABOUT something",
+        "text": "= consider it, concentrate your mind on it",
+        "examples": [
+          "I've **thought about** what you said and I've decided to take your advice.",
+          "*A:* Will you lend me the money? *B:* I'll **think about** it. (not think of it)"
+        ]
+      },
+      "right": {
+        "label": "think OF something",
+        "text": "= produce an idea",
+        "examples": [
+          "It was my idea. I **thought of** it first. (not thought about it)",
+          "I felt embarrassed. I couldn't **think of** anything to say. (not think about anything)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "think of for opinions; of or about",
+      "text": "We also use **think of** when we ask for or give an opinion. Sometimes the difference between of and about is very small and you can use either. For possible future actions you can say **think of doing** or **think about doing** something.",
+      "examples": [
+        { "text": "*A:* What did you **think of** the movie? *B:* I didn't **think much of** it.", "note": "= I didn't like it much" },
+        { "text": "When I'm alone, I often **think of** you. or ... **think about** you." },
+        { "text": "My sister is **thinking of going** to Canada. or ... **thinking about going** ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "dream about / dream of",
+      "text": "**dream about** something = you dream while you are asleep. **dream of** or **dream about being** something / **doing** something = imagine it. **I wouldn't dream of doing** something = I would never do it.",
+      "examples": [
+        { "text": "I **dreamt about** you last night." },
+        { "text": "Do you **dream of being** rich and famous? or ... **dream about being** rich ..." },
+        { "text": "'Don't tell anyone what I said.' 'No, I **wouldn't dream of** it.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "complain about / complain of",
+      "text": "**complain (to somebody) about** something = say that you are not satisfied with it. **complain of** a pain, an illness etc. = say that you have the pain or feel ill.",
+      "examples": [
+        { "text": "We **complained to** the manager of the restaurant **about** the food." },
+        { "text": "We called the doctor because George was **complaining of** a pain in his stomach." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "remind somebody about / remind somebody of",
+      "text": "**remind somebody about** something = tell them so that they don't forget it. **remind somebody of** something or somebody = make them remember it because it is similar.",
+      "examples": [
+        { "text": "It's good you **reminded me about** the meeting. I'd completely forgotten about it." },
+        { "text": "This house **reminds me of** the one I lived in when I was a child." },
+        { "text": "Look at this photograph of Richard. Who does he **remind you of**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A rough guide: **about** points to a topic or subject (hear about, think about, complain about), while **of** points to something that simply exists or pops into your mind (heard of, thought of, reminds me of)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'Who is Tom Hart?' 'I have no idea. I've never heard ___ him.'",
+      "options": ["of", "about", "from"],
+      "answer": 0,
+      "explanation": "hear of somebody = know that they exist. Here the speaker doesn't even know who Tom Hart is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Did you ___ the accident last night?' 'No, what happened?'",
+      "hint": "(hear + preposition)",
+      "answers": ["hear about"],
+      "explanation": "hear about something = be told about it (the news of the accident)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah used to call me quite often, but I haven't ___ her for a long time now.",
+      "hint": "(hear + preposition)",
+      "answers": ["heard from"],
+      "explanation": "hear from somebody = be in contact with them (calls, letters, emails)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb + preposition with its meaning.",
+      "pairs": [
+        { "left": "hear about something", "right": "be told about it" },
+        { "left": "hear of somebody", "right": "know that they exist" },
+        { "left": "hear from somebody", "right": "be in contact with them" },
+        { "left": "think of something", "right": "produce an idea" },
+        { "left": "think about something", "right": "consider it carefully" },
+        { "left": "complain of something", "right": "say that you have a pain or illness" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That's a good idea. Why didn't I ___ that?",
+      "hint": "(think + preposition)",
+      "answers": ["think of"],
+      "explanation": "think of = produce an idea. The speaker didn't come up with the idea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need time to make decisions. I like to ___ things carefully.",
+      "hint": "(think + preposition)",
+      "answers": ["think about"],
+      "explanation": "think about = consider something, concentrate your mind on it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm ___ buying a new car. What would you advise me to buy?",
+      "hint": "(think + preposition)",
+      "answers": ["thinking of", "thinking about"],
+      "explanation": "For a possible future action you can say think of doing or think about doing something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition is missing: of or about?",
+      "categories": ["of", "about"],
+      "items": [
+        { "text": "Who does he remind you ___?", "category": 0 },
+        { "text": "It's good you reminded me ___ the meeting.", "category": 1 },
+        { "text": "'Don't tell anyone.' 'No, I wouldn't dream ___ it.'", "category": 0 },
+        { "text": "I dreamt ___ you last night.", "category": 1 },
+        { "text": "George was complaining ___ a pain in his stomach.", "category": 0 },
+        { "text": "We complained to the manager ___ the food.", "category": 1 },
+        { "text": "What did you think ___ the film?", "category": 0 },
+        { "text": "'Will you lend me the money?' 'I'll think ___ it.'", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I love this music. It reminds me about a warm day in spring.",
+      "answer": false,
+      "explanation": "It reminds me of a warm day in spring. remind somebody of = cause them to remember something similar."
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul was complaining of pains in his chest, so he went to the doctor.",
+      "answer": true,
+      "explanation": "Correct. complain of a pain / an illness = say that you have it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your neighbours were unhappy about the noise you made. Put the words in order.",
+      "words": ["Our neighbours", "complained", "to us", "about", "the noise", "we made."],
+      "answer": "Our neighbours complained to us about the noise we made.",
+      "explanation": "complain TO somebody ABOUT something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'You wouldn't go away without telling me, would you?' 'Of course not. I wouldn't ___ it.'",
+      "hint": "(dream + preposition)",
+      "answers": ["dream of"],
+      "explanation": "I wouldn't dream of it = I would never do it."
+    }
+  ]
+}

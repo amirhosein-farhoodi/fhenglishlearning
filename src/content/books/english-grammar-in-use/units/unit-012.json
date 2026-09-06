@@ -1,0 +1,173 @@
+{
+  "number": 12,
+  "title": "for and since; when ... ? and how long ... ?",
+  "subtitle": "for two hours / since Monday",
+  "summary": "Use for with a period of time and since with the start of a period, and ask when ... ? with the past simple but how long ... ? with the present perfect.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "for and since",
+      "left": {
+        "label": "for + a period of time",
+        "text": "two hours, 20 minutes, five days, a week, six months, 50 years, ages, a long time",
+        "examples": [
+          "We've been waiting **for two hours**.",
+          "Sally has been working here **for six months**. (not since six months)",
+          "I haven't seen Tom **for three days**."
+        ]
+      },
+      "right": {
+        "label": "since + the start of a period",
+        "text": "8 o'clock, Monday, 12 May, April, 2001, Christmas, lunchtime, we arrived, I got up",
+        "examples": [
+          "We've been waiting **since 8 o'clock**.",
+          "Sally has been working here **since April**. (= from April until now)",
+          "I haven't seen Tom **since Monday**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Leaving out for",
+      "text": "We often leave out **for** (but not usually in negative sentences). You can use **in** instead of for in negative sentences. We do not use for + **all ...** (all day / all my life etc.).",
+      "examples": [
+        { "text": "They've been married **for ten years**. or They've been married **ten years**." },
+        { "text": "They haven't had a holiday **for ten years**.", "note": "you need for in a negative sentence" },
+        { "text": "They haven't had a holiday **in ten years**.", "note": "= for ten years" },
+        { "text": "I've lived here **all my life**.", "wrong": "for all my life" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "when ... ? and how long ... ?",
+      "left": {
+        "label": "when ... ? + past simple",
+        "text": "Asks about the starting point.",
+        "examples": [
+          "*A:* **When did** it start raining? *B:* It **started** raining an hour ago / at 1 o'clock.",
+          "*A:* **When did** Joe and Kate first meet? *B:* They first **met** a long time ago / when they were at school."
+        ]
+      },
+      "right": {
+        "label": "how long ... ? + present perfect",
+        "text": "Asks about the period up to now.",
+        "examples": [
+          "*A:* **How long has** it **been raining**? *B:* **It's been raining** for an hour / since 1 o'clock.",
+          "*A:* **How long have** they **known** each other? *B:* **They've known** each other for a long time / since they were at school."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "It's ... since ...",
+      "text": "We say **it's** (= it is) or **it's been** (= it has been) + a long time / six months etc. + **since** something happened. This is another way of saying I haven't done something for a period.",
+      "examples": [
+        { "text": "**It's two years since** I last saw Joe. or **It's been two years since** ...", "note": "= I haven't seen Joe for two years" },
+        { "text": "**It's ages since** we went to the cinema. or **It's been ages since** ...", "note": "= We haven't been to the cinema for ages" },
+        { "text": "**How long is it since** Mrs Hill died? or **How long has it been since** ...", "note": "= when did she die?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "for answers 'how long?' with a length (for two hours); since answers 'since when?' with a starting point (since 8 o'clock). When ... ? looks back at the start, so it takes the past simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does each time expression go with for or since?",
+      "categories": ["for", "since"],
+      "items": [
+        { "text": "ten years", "category": 0 },
+        { "text": "lunchtime", "category": 1 },
+        { "text": "an hour", "category": 0 },
+        { "text": "he left school", "category": 1 },
+        { "text": "ages", "category": 0 },
+        { "text": "last week", "category": 1 },
+        { "text": "Friday", "category": 1 },
+        { "text": "a few weeks", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kevin has been looking for a job ___ he left school.",
+      "hint": "(for / since)",
+      "answers": ["since"],
+      "explanation": "he left school is the start of the period, so since."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I haven't been to a party ___ ages.",
+      "hint": "(for / since)",
+      "answers": ["for"],
+      "explanation": "ages is a period of time, so for. In a negative sentence you need for."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sally has been working here since six months.",
+      "answer": false,
+      "explanation": "Sally has been working here for six months. six months is a period, so for (not since)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each answer with the question that fits it.",
+      "pairs": [
+        { "left": "Ten years ago.", "right": "When did they get married?" },
+        { "left": "About five years.", "right": "How long have you had this car?" },
+        { "left": "Only a few minutes.", "right": "How long have you been waiting?" },
+        { "left": "September.", "right": "When did your course start?" },
+        { "left": "Last week.", "right": "When did Anna arrive in London?" },
+        { "left": "A long time.", "right": "How long have you known each other?" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've lived here ___.",
+      "options": ["all my life", "for all my life", "since all my life"],
+      "answer": 0,
+      "explanation": "We do not use for (or since) with all ...: all my life."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark is unwell. He became ill on Sunday. He ___ since Sunday.",
+      "hint": "(be / ill)",
+      "answers": ["has been ill", "'s been ill", "has been unwell", "'s been unwell"],
+      "explanation": "since Sunday = from Sunday until now: present perfect, has been ill."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue is in a meeting at work. It's been going on since 9 o'clock. The meeting ___ at 9 o'clock.",
+      "hint": "(start)",
+      "answers": ["started", "began"],
+      "explanation": "at 9 o'clock is the starting point, a past moment: past simple, started."
+    },
+    {
+      "type": "true_false",
+      "statement": "They've been married ten years.",
+      "answer": true,
+      "explanation": "Correct. In a positive sentence for can be left out: married (for) ten years."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Have you seen Lisa recently? Give B's negative answer with for.",
+      "words": ["No,", "I", "haven't seen", "Lisa", "for", "about a month."],
+      "answer": "No, I haven't seen Lisa for about a month.",
+      "explanation": "I haven't (done something) for + period."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Do you still ride a bike these days? Give B's answer using It's ... since ...",
+      "words": ["No,", "it's", "ages", "since", "I", "last", "rode", "a bike."],
+      "answer": "No, it's ages since I last rode a bike.",
+      "explanation": "It's + period + since + past simple (rode)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate is learning Japanese. She's been doing this for a long time. Kate started learning Japanese ___.",
+      "hint": "(a long time)",
+      "answers": ["a long time ago"],
+      "explanation": "started (past simple) tells us when it began: a long time ago."
+    }
+  ]
+}

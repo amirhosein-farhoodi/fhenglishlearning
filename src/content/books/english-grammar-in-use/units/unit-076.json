@@ -1,0 +1,165 @@
+{
+  "number": 76,
+  "title": "the 4 (the giraffe / the telephone / the old etc.)",
+  "subtitle": "the giraffe / the piano / the rich / the French",
+  "summary": "Use the with a singular noun for a type of animal or machine, with an adjective for a group of people (the rich), and with some nationality words (the French).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "the giraffe, the bicycle: a type of thing",
+      "text": "In these sentences the ... does not mean one specific thing. The giraffe means a specific type of animal, not one particular giraffe. We use the in this way to talk about a type of animal, machine, invention or currency.",
+      "examples": [
+        { "text": "**The giraffe** is the tallest of all animals." },
+        { "text": "**The bicycle** is an excellent means of transport." },
+        { "text": "When was **the camera** invented?" },
+        { "text": "**The dollar** is the currency of the United States." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Musical instruments; a or the",
+      "text": "We use the for musical instruments in the same way: play the guitar, play the piano. Compare a (one particular thing) with the (the type of thing).",
+      "examples": [
+        { "text": "Can you play **the guitar**?" },
+        { "text": "**The piano** is my favourite instrument." },
+        { "text": "I'd like to have **a piano**. but I can't play **the piano**." },
+        { "text": "We saw **a giraffe** at the zoo. but **The giraffe** is my favourite animal." }
+      ],
+      "note": "man (without the) = human beings in general, the human race: What do you know about the origins of man? (not the man)"
+    },
+    {
+      "type": "explain",
+      "heading": "the old, the rich",
+      "text": "We use the + adjective (without a noun) to talk about groups of people: the old = old people, the rich = rich people. Other examples: the elderly, the poor, the homeless, the unemployed, the sick, the injured. These expressions are plural, but the adjective never takes -s. For one person we say a rich man, a homeless person.",
+      "examples": [
+        { "text": "Do you think **the rich** should pay higher taxes?" },
+        { "text": "We need to do more to help **the homeless**." },
+        { "text": "**the old** / **the poor**", "wrong": "the olds / the poors" },
+        { "text": "**a rich man** / **a homeless person**", "wrong": "a rich / a homeless" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the French, the Chinese",
+      "text": "With nationality adjectives ending in -ch or -sh (French, Dutch, British, English, Spanish), we use the + adjective to mean the people of that country. The meaning is plural. We do not say a French or an English for one person. Words ending in -ese or -ss (Chinese, Portuguese, Swiss) also take the, but these can be singular too (a Chinese, a Swiss). Other nationality words form a normal plural with -s, usually without the. In all cases you can use adjective + people.",
+      "examples": [
+        { "text": "**The French** are famous for their food.", "wrong": "French are" },
+        { "text": "I met **a French woman** / **an English guy**.", "wrong": "a French / an English" },
+        { "text": "**Italians** / **Mexicans** / **Thais** are very friendly." },
+        { "text": "**French / Chinese / Mexican people** are very friendly." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Nationality words",
+      "columns": ["Ending", "Adjective", "The people in general", "One person"],
+      "rows": [
+        ["-ch / -sh", "French, Dutch, British, English, Spanish", "the French, the English", "a French woman, an English guy (not a French)"],
+        ["-ese / -ss", "Chinese, Portuguese, Swiss", "the Chinese, the Swiss", "a Chinese, a Swiss"],
+        ["others", "Italian, Mexican, Thai", "Italians, Mexicans, Thais (no the)", "an Italian, a Mexican, a Thai"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "the + adjective (the rich, the French) is always plural and never takes -s: the poor, not the poors. For one person add a noun: a poor man, a French woman."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which of these animals can run the fastest?",
+      "options": ["the cheetah", "a cheetah", "cheetah"],
+      "answer": 0,
+      "explanation": "We use the + singular noun to talk about a type of animal: the cheetah."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which of these birds cannot fly? - ___",
+      "hint": "(penguin / owl / swan - don't forget the)",
+      "answers": ["the penguin"],
+      "explanation": "the penguin = the type of bird, not one particular penguin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which invention was especially important for astronomy? - ___",
+      "hint": "(telescope / telephone / typewriter - don't forget the)",
+      "answers": ["the telescope"],
+      "explanation": "the telescope = the invention as a type of machine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What is the currency of India? - ___",
+      "hint": "(rupee / yen / peso - don't forget the)",
+      "answers": ["the rupee"],
+      "explanation": "We use the with a currency as a type: the rupee, the dollar."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jessica plays ___ in an orchestra.",
+      "options": ["the violin", "a violin", "violin"],
+      "answer": 0,
+      "explanation": "We use the with musical instruments: play the violin."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There was ___ in the corner of the room.",
+      "options": ["a piano", "the piano", "piano"],
+      "answer": 0,
+      "explanation": "One particular piano in a room = a piano. The piano is for the instrument as a type."
+    },
+    {
+      "type": "true_false",
+      "statement": "The computer has changed the way we live.",
+      "answer": true,
+      "explanation": "Correct. The computer = the machine as a type, like the bicycle or the camera."
+    },
+    {
+      "type": "true_false",
+      "statement": "Our society is based on a family.",
+      "answer": false,
+      "explanation": "Our society is based on the family. Here the family means the institution in general, like the bicycle or the piano."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the group of people (the + adjective) that completes it.",
+      "pairs": [
+        { "left": "Helen is a nurse. She's spent her life caring for ...", "right": "the sick" },
+        { "left": "Life is all right if you have a job, but things are hard for ...", "right": "the unemployed" },
+        { "left": "Ambulances arrived at the scene of the accident and took ... to hospital.", "right": "the injured" },
+        { "left": "More and more people are living longer. How are we going to care for ...?", "right": "the elderly" },
+        { "left": "It's nice to have lots of money, but ... have their problems too.", "right": "the rich" },
+        { "left": "... have the future in their hands.", "right": "The young" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do we talk about the people of each country in general? Sort the nationality words.",
+      "categories": ["the + adjective (the French)", "plural with -s (Germans)"],
+      "items": [
+        { "text": "French", "category": 0 },
+        { "text": "German", "category": 1 },
+        { "text": "Japanese", "category": 0 },
+        { "text": "Russian", "category": 1 },
+        { "text": "English", "category": 0 },
+        { "text": "Brazilian", "category": 1 },
+        { "text": "Canadian", "category": 1 },
+        { "text": "Swiss", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "One person from France is ___.",
+      "options": ["a Frenchman / a Frenchwoman", "a French", "the French"],
+      "answer": 0,
+      "explanation": "We don't say 'a French'. For one person: a Frenchman, a Frenchwoman or a French person. The French = the people in general."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. You are talking about the people of France in general.",
+      "words": ["The French", "are", "famous", "for", "their", "food."],
+      "answer": "The French are famous for their food.",
+      "explanation": "The French = the people of France (plural), so are."
+    }
+  ]
+}

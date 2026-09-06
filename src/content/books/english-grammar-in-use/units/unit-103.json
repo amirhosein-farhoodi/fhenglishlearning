@@ -1,0 +1,160 @@
+{
+  "number": 103,
+  "title": "enough and too",
+  "subtitle": "fit enough / enough money / too hot to eat",
+  "summary": "Put enough after adjectives and before nouns, contrast too with not ... enough, and use enough/too with for ... and to ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Where enough goes",
+      "text": "**Enough** goes *after* adjectives and adverbs, but *before* nouns. We also use enough alone, without a noun or adjective.",
+      "examples": [
+        { "text": "I can't run very far. I'm not **fit enough**.", "wrong": "enough fit" },
+        { "text": "Let's go. We've waited **long enough**." },
+        { "text": "We have **enough money**. We don't need any more." },
+        { "text": "There weren't **enough chairs**. Some of us had to sit on the floor." },
+        { "text": "We don't need more money. We have **enough**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "too and not ... enough",
+      "left": {
+        "label": "too = more than is necessary",
+        "examples": [
+          "You never stop working. You work **too hard**.",
+          "There's **too much** furniture in this room.",
+          "There were **too many** people ..."
+        ]
+      },
+      "right": {
+        "label": "not ... enough = less than is necessary",
+        "examples": [
+          "You're lazy. You don't work **hard enough**.",
+          "There's **not enough** space.",
+          "... and **not enough** chairs."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "enough/too ... for somebody and to do something",
+      "text": "We say **enough/too ... for** somebody/something, and **enough/too ... to do** something. A sentence can have both for ... and to ... .",
+      "examples": [
+        { "text": "Does Joe have **enough experience for** the job?" },
+        { "text": "This bag isn't **big enough for** all my clothes." },
+        { "text": "That shirt is **too small for** you. You need a larger size." },
+        { "text": "Does Joe have **enough experience to do** the job?" },
+        { "text": "Let's get a taxi. It's **too far to walk** home from here." },
+        { "text": "She's not **old enough to have** a driving licence." },
+        { "text": "The bridge is just **wide enough for** two cars **to pass** one another." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "too hot to eat (not to eat it)",
+      "text": "The food was very hot. We couldn't eat it. You can say *The food was so hot that we couldn't eat it*, but with too ... to we do not repeat the object: **too hot to eat**.",
+      "examples": [
+        { "text": "The food was **too hot to eat**.", "wrong": "to eat it" },
+        { "text": "These boxes are **too heavy to carry**.", "wrong": "to carry them" },
+        { "text": "The wallet was **too big to put** in my pocket.", "wrong": "to put it" },
+        { "text": "This chair isn't **strong enough to stand on**.", "wrong": "to stand on it" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Adjective + enough, but enough + noun: fit enough, long enough - enough money, enough chairs."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Public transport isn't good here. There aren't ___.",
+      "hint": "(enough + buses)",
+      "answers": ["enough buses"],
+      "explanation": "Enough goes before a noun: enough buses."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't park the car here. The space isn't ___.",
+      "hint": "(enough + wide)",
+      "answers": ["wide enough"],
+      "explanation": "Enough goes after an adjective: wide enough."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I always have to rush. There's never ___.",
+      "options": ["enough time", "time enough", "enough of time"],
+      "answer": 0,
+      "explanation": "Enough goes before a noun, with no of: enough time."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does enough go? Sort the sentences by the pattern they need.",
+      "categories": ["adjective/adverb + enough", "enough + noun"],
+      "items": [
+        { "text": "You're lazy. You don't work ___. (hard)", "category": 0 },
+        { "text": "Some of us had to sit on the floor. There weren't ___. (chairs)", "category": 1 },
+        { "text": "I'm not good at basketball. I'm not ___. (tall)", "category": 0 },
+        { "text": "You need to change your diet. You don't eat ___. (vegetables)", "category": 1 },
+        { "text": "Are you ___? Or shall I switch on the heating? (warm)", "category": 0 },
+        { "text": "The car is quite small. Do you think there's ___ for five of us? (room)", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I need to talk to you about something. *B:* Well, I'm afraid I'm ___ to you now.",
+      "hint": "(too / enough + busy)",
+      "answers": ["too busy to talk"],
+      "explanation": "Too + adjective + to do something: too busy to talk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Why don't we sit outside? *B:* It's not ___ outside.",
+      "hint": "(too / enough + warm)",
+      "answers": ["warm enough to sit"],
+      "explanation": "Not + adjective + enough + to do something: not warm enough to sit."
+    },
+    {
+      "type": "true_false",
+      "statement": "The food was too hot to eat it.",
+      "answer": false,
+      "explanation": "The food was too hot to eat. After too ... to we do not repeat the object (it)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I can't drink this coffee. It's too hot. Make one sentence.",
+      "words": ["This", "coffee", "is", "too", "hot", "to", "drink."],
+      "answer": "This coffee is too hot to drink.",
+      "explanation": "Too + adjective + to + verb, without repeating the object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Would you like to be a teacher? *B:* No, I don't have ___ a teacher.",
+      "hint": "(too / enough + patience)",
+      "answers": ["enough patience to be"],
+      "explanation": "Enough + noun + to do something: enough patience to be a teacher."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't eat these apples. They aren't ripe enough to eat.",
+      "answer": true,
+      "explanation": "Correct. Not + adjective + enough + to ..., and the object (them) is not repeated."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You can't see some things without a microscope. They are too small. Make one sentence.",
+      "words": ["Some things", "are", "too", "small", "to see", "without", "a microscope."],
+      "answer": "Some things are too small to see without a microscope.",
+      "explanation": "Too small to see (not to see them) - the object is not repeated after to ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can he read a newspaper in English? *B:* No, he doesn't know ___ a newspaper.",
+      "hint": "(too / enough + English)",
+      "answers": ["enough English to read"],
+      "explanation": "Enough + noun + to do something: enough English to read a newspaper."
+    }
+  ]
+}

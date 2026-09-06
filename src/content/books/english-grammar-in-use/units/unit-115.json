@@ -1,0 +1,154 @@
+{
+  "number": 115,
+  "title": "unless; as long as; provided",
+  "subtitle": "unless you are a member / as long as you promise / provided (that) you have somewhere to park",
+  "summary": "Use unless (= except if) and as long as / so long as / provided / providing (= on condition that) to talk about conditions, with a present tense for the future.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "unless = except if",
+      "text": "The club is for members only. You can't go in **unless** you are a member. This means: you can't go in except if you are a member, or you can go in only if you are a member. **Unless** = except if.",
+      "examples": [
+        { "text": "I'll see you tomorrow **unless** I have to work late.", "note": "= except if I have to work late" },
+        { "text": "There are no buses to the beach. **Unless** you have a car, it's difficult to get there.", "note": "= except if you have a car" },
+        { "text": "*A:* Shall I tell Lisa what happened? *B:* Not **unless** she asks you.", "note": "= tell her only if she asks you" },
+        { "text": "Ben hates to complain. He wouldn't complain about something **unless** it was really bad.", "note": "= except if it was really bad" },
+        { "text": "We can take a taxi to the restaurant - **unless** you'd prefer to walk.", "note": "= except if you'd prefer to walk" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "unless or if ... not",
+      "text": "Instead of **unless** it is often possible to say **if ... not**. The meaning is the same.",
+      "examples": [
+        { "text": "**Unless** we leave now, we'll be late. or **If we don't** leave now, we'll be late." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "as long as / so long as",
+      "text": "You can say **as long as** or **so long as** (= if, on condition that). It introduces a condition that must be true.",
+      "examples": [
+        { "text": "You can borrow my car **as long as** you promise not to drive too fast. or ... **so long as** you promise ...", "note": "= You can borrow my car, but you must promise not to drive too fast. This is a condition." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "provided (that) / providing (that)",
+      "text": "You can also say **provided (that)** or **providing (that)**. The meaning is the same as as long as: but only if.",
+      "examples": [
+        { "text": "Travelling by car is convenient **provided (that)** you have somewhere to park. or ... **providing (that)** you have ...", "note": "= It's convenient but only if you have somewhere to park." },
+        { "text": "**Providing (that)** the room is clean, I don't mind which hotel we stay at. or **Provided (that)** the room is clean ...", "note": "= The room must be clean, but otherwise I don't mind." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about the future",
+      "text": "When we are talking about the future, we do not use will after **unless / as long as / so long as / provided / providing**. We use a present tense.",
+      "examples": [
+        { "text": "I'm not going out **unless it stops** raining.", "wrong": "unless it will stop" },
+        { "text": "**Providing the weather is** good, we're going to have a picnic tomorrow.", "wrong": "providing the weather will be good" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Unless means 'except if' - the sentence is true in every case but one. As long as / provided mean 'only if' - the sentence is true in one case only."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You can borrow my car ___ you promise not to drive too fast.",
+      "options": ["as long as", "unless", "in case"],
+      "answer": 0,
+      "explanation": "This is a condition that must be true (only if you promise), so: as long as."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We're going to the beach tomorrow ___ the weather is bad.",
+      "options": ["unless", "providing", "as long as"],
+      "answer": 0,
+      "explanation": "We're going except if the weather is bad: unless."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We're going to the beach tomorrow ___ the weather is good.",
+      "options": ["providing", "unless", "in case"],
+      "answer": 0,
+      "explanation": "We're going only if the weather is good: providing (or provided / as long as)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Listen carefully, or you won't know what to do. You won't know what to do ___.",
+      "hint": "(unless / listen carefully)",
+      "answers": ["unless you listen carefully"],
+      "explanation": "Unless = except if: You won't know what to do unless you listen carefully."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You have to speak very slowly, or he won't understand you. He won't understand you ___.",
+      "hint": "(unless / speak very slowly)",
+      "answers": ["unless you speak very slowly"],
+      "explanation": "He won't understand you unless you speak very slowly (= except if you speak very slowly)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Business must improve soon, or the company will have to close. The company will have to close ___.",
+      "hint": "(unless / business / improve soon)",
+      "answers": ["unless business improves soon"],
+      "explanation": "Use a present tense after unless for the future: unless business improves soon."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Don't worry about the dog. It will chase you only if you move suddenly. Say this with unless.",
+      "words": ["The dog", "won't", "chase", "you", "unless", "you", "move", "suddenly."],
+      "answer": "The dog won't chase you unless you move suddenly.",
+      "explanation": "Only if you move suddenly = unless you move suddenly."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Today is a public holiday. The doctor will see you only if it's an emergency. Say this with unless.",
+      "words": ["The doctor", "won't", "see you", "unless", "it's", "an emergency."],
+      "answer": "The doctor won't see you unless it's an emergency.",
+      "explanation": "The doctor won't see you unless it's an emergency (= except if it's an emergency)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings and endings of the sentences.",
+      "pairs": [
+        { "left": "I'll see you tomorrow", "right": "unless I have to work late." },
+        { "left": "Travelling by car is convenient", "right": "provided you have somewhere to park." },
+        { "left": "You can borrow my car", "right": "as long as you promise not to drive too fast." },
+        { "left": "I don't mind which hotel we stay at", "right": "providing the room is clean." },
+        { "left": "Ben wouldn't complain about something", "right": "unless it was really bad." },
+        { "left": "We can take a taxi to the restaurant", "right": "unless you'd prefer to walk." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word fits the gap: unless, or as long as / provided?",
+      "categories": ["unless", "as long as / provided"],
+      "items": [
+        { "text": "I don't mind if you come home late ___ you come in quietly.", "category": 1 },
+        { "text": "I'm going now ___ you want me to stay.", "category": 0 },
+        { "text": "I don't watch TV ___ I have nothing else to do.", "category": 0 },
+        { "text": "Children are allowed to use the swimming pool ___ they are with an adult.", "category": 1 },
+        { "text": "___ they are with an adult, children are not allowed to use the swimming pool.", "category": 0 },
+        { "text": "Our holiday cost a lot of money. - Well, that doesn't matter ___ you enjoyed yourselves.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm not going out unless it will stop raining.",
+      "answer": false,
+      "explanation": "I'm not going out unless it stops raining. After unless we use a present tense for the future, not will."
+    },
+    {
+      "type": "true_false",
+      "statement": "Providing the weather is good, we're going to have a picnic tomorrow.",
+      "answer": true,
+      "explanation": "Correct. Providing (that) + present tense is right for a future condition."
+    }
+  ]
+}
