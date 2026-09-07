@@ -185,16 +185,10 @@ input {
 }
 
 .brand-mark {
-  width: 34px;
-  height: 34px;
-  border-radius: 10px;
-  background: linear-gradient(135deg, var(--accent), #ff9a7a);
-  color: #fff;
-  display: grid;
-  place-items: center;
-  font-weight: 800;
-  font-family: var(--font-body);
-  box-shadow: 0 6px 14px rgba(255, 107, 74, 0.35);
+  width: 38px;
+  height: 38px;
+  flex-shrink: 0;
+  object-fit: contain;
 }
 
 .brand small {

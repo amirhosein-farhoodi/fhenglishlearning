@@ -67,6 +67,7 @@ src/
 tools/
   extract_book.py            # text PDF -> per-unit raw text (needs pdftotext / poppler)
   render_scanned_book.py     # scanned PDF -> per-unit page images (needs pymupdf)
+  make_icons.py              # logo-transparent.png -> favicon + header mark (needs pillow)
   validate-content.mjs       # content validator (npm run validate)
   prompts/author-unit.md     # the prompt used to turn a raw unit into unit JSON
 .claude/commands/add-book.md # Claude Code slash command: /add-book <pdf> <slug> <units>
@@ -74,6 +75,27 @@ content-src/<slug>/raw/      # text extraction output (git-ignored, regenerate a
 content-src/<slug>/pages/    # page images for scanned books (git-ignored, regenerate any time)
 source-books/                # put PDFs here (git-ignored)
 ```
+
+## Logo and icons
+
+`public/logo-transparent.png` is the master artwork. It is ~1150px square and close to a megabyte,
+so it is never shipped directly - `tools/make_icons.py` writes the small, alpha-preserving
+derivatives that the app actually loads:
+
+```bash
+pip install pillow
+python tools/make_icons.py
+```
+
+| File | Size | Used by |
+|---|---|---|
+| `public/favicon-32.png` | 32px | browser tab |
+| `public/favicon-192.png` | 192px | Android / PWA |
+| `public/apple-touch-icon.png` | 180px | iOS home screen |
+| `public/logo-mark.png` | 96px | the header mark (`.brand-mark`, drawn at 38px) |
+
+Replace the master and re-run the script; the filenames in `index.html` stay the same. The script
+trims the transparent margin before resizing, so the mark fills its box at favicon sizes.
 
 ## Donations
 
