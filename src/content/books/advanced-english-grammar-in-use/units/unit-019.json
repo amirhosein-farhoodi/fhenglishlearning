@@ -1,0 +1,193 @@
+{
+  "number": 19,
+  "title": "Need(n't), don't need to and don't have to",
+  "subtitle": "you needn't bother",
+  "summary": "Use need as a modal verb (needn't + bare infinitive) and as an ordinary verb, and see where needn't, don't need to and don't have to differ.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two kinds of need",
+      "left": {
+        "label": "Ordinary verb",
+        "text": "It changes its tense, adds -s in the third person singular, and takes a to-infinitive or an object.",
+        "examples": [
+          "I **needed to** leave early.",
+          "She's thirsty. She **needs** a drink."
+        ]
+      },
+      "right": {
+        "label": "Modal verb",
+        "text": "It doesn't change its tense, doesn't add -s, and takes a bare infinitive.",
+        "examples": [
+          "You **needn't** speak so loudly."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Mostly in negative sentences",
+      "text": "As a modal verb, need is most commonly used in negative sentences. Other verbs often used with need not (needn't) are apply, concern, fear, involve, mean and panic.",
+      "examples": [
+        { "text": "I've already cleaned the car so you **needn't** bother to do it." },
+        { "text": "I was very nervous before the interview, but I **needn't have worried** - I got the job!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In questions",
+      "text": "Modal need is sometimes used in questions, but we prefer need as an ordinary verb, or have to.",
+      "examples": [
+        { "text": "**Need you** go so soon?", "note": "modal verb; less common and rather formal" },
+        { "text": "**Do you need to** go so soon?", "note": "ordinary verb" },
+        { "text": "**Do you have to** go so soon?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In affirmative sentences",
+      "text": "Modal need is rare in affirmative sentences, but it is found in written English, particularly in fiction, and in formal writing with negative words such as hardly, never, nobody / no one and only.",
+      "examples": [
+        { "text": "We **need have** no fear for Nicole, she can take care of herself." },
+        { "text": "The changes **need only be** small to make the proposals acceptable.", "note": "less formally The changes only need to be ..." },
+        { "text": "Nobody ever **need know** about the money.", "note": "less formally Nobody ever needs to know ..." },
+        { "text": "'I don't want my parents to know.' 'They **need never** find out.'", "note": "less formally They never need to find out." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Permission or general necessity?",
+      "left": {
+        "label": "Giving permission not to do something",
+        "text": "needn't or don't need to - both work.",
+        "examples": [
+          "You **needn't** cut the grass, I'll do it later. (or You **don't need to** cut the grass ...)"
+        ]
+      },
+      "right": {
+        "label": "A general necessity",
+        "text": "We prefer don't need to.",
+        "examples": [
+          "You **don't need to** be over 18 to get into a nightclub. (rather than You needn't be ...)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "needn't or don't have to?",
+      "text": "Often either is possible. But some people prefer needn't when it is the speaker who decides the lack of necessity, and don't have to when somebody else, or an external rule, makes something unnecessary.",
+      "examples": [
+        { "text": "You **needn't** whisper. Nobody can hear us.", "note": "or You don't have to whisper." },
+        { "text": "As you worked late yesterday you **needn't** come in until ten tomorrow morning.", "note": "the speaker's own decision" },
+        { "text": "We've been told that we **don't have to** be at work until ten tomorrow.", "note": "reporting someone else's decision" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not necessarily true",
+      "text": "We can use needn't (or don't have to) to say that something is not necessarily true. Mustn't is never used in this way.",
+      "examples": [
+        { "text": "Volcanoes **needn't** erupt constantly to be classified as 'active'.", "wrong": "Volcanoes mustn't erupt", "note": "or Volcanoes don't have to erupt ..." },
+        { "text": "Nowadays it **needn't** cost a fortune to own an e-book reader.", "wrong": "it mustn't cost" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "needn't = it isn't necessary. mustn't = it isn't allowed. The two are never interchangeable."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the ending that completes it.",
+      "pairs": [
+        { "left": "I'll give you a lift to the station", "right": "so you needn't worry about booking a taxi." },
+        { "left": "The questions are in the book", "right": "so you needn't bother to copy them down." },
+        { "left": "All the windows have screens", "right": "so you needn't panic about being bitten by mosquitoes." },
+        { "left": "Our software provides full computer security", "right": "so you needn't concern yourself with viruses." },
+        { "left": "The new tax laws don't come into force until next year", "right": "so you needn't change the details on the form." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The questions are in the book so you ___ to copy them down.",
+      "hint": "(need / bother)",
+      "answers": ["needn't bother", "need not bother"],
+      "explanation": "Modal need is followed by a bare infinitive: needn't bother."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our software provides full computer security so you ___ yourself with viruses.",
+      "hint": "(need / concern)",
+      "answers": ["needn't concern", "need not concern"],
+      "explanation": "Concern is one of the verbs often used with needn't."
+    },
+    {
+      "type": "true_false",
+      "statement": "You needn't to worry about losing your jobs.",
+      "answer": false,
+      "explanation": "You needn't worry about losing your jobs. As a modal verb, need takes a bare infinitive - no to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'It is not necessary for anyone to know who paid the ransom.' In a formal style this becomes:",
+      "options": ["No one need know who paid the ransom.", "No one need to know who paid the ransom.", "No one needs know who paid the ransom."],
+      "answer": 0,
+      "explanation": "After a negative word such as no one, modal need takes no -s and no to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ you that the money is now due.",
+      "hint": "(we / need hardly / remind) - formal style",
+      "answers": ["We need hardly remind"],
+      "explanation": "With hardly, formal written English uses modal need + bare infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ look at the rainfall figures to see the seriousness of the problem.",
+      "hint": "(we / need only) - formal style",
+      "answers": ["We need only", "We only need"],
+      "explanation": "With only, modal need is used in formal writing; less formally, We only need to look ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After such a huge lottery win, he ___ again.",
+      "hint": "(need never / work)",
+      "answers": ["need never work"],
+      "explanation": "With never, modal need adds no -s and takes a bare infinitive; less formally, he never needs to work again."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which sentences need don't need to, and which accept needn't just as well?",
+      "categories": ["don't need to (a general necessity)", "needn't or don't need to"],
+      "items": [
+        { "text": "In most developed countries, people ___ boil water before they drink it.", "category": 0 },
+        { "text": "You ___ walk. I'll give you a lift.", "category": 1 },
+        { "text": "I'll email a summary of the lecture so you ___ take notes.", "category": 1 },
+        { "text": "You ___ have a university degree to become a police officer.", "category": 0 },
+        { "text": "You ___ buy me a birthday present.", "category": 1 },
+        { "text": "In most cities you ___ pay to get into the galleries and museums.", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A managing director reassures her staff about new technology. Put the words in order.",
+      "words": ["Changes in technology", "needn't", "be a problem,", "but in fact", "provide", "opportunities."],
+      "answer": "Changes in technology needn't be a problem, but in fact provide opportunities.",
+      "explanation": "Needn't says that something is not necessarily true; mustn't would be wrong here."
+    },
+    {
+      "type": "true_false",
+      "statement": "We mustn't allow our rate of production to drop.",
+      "answer": true,
+      "explanation": "Correct. Here mustn't is right: it means we are not going to let this happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The present financial difficulties ___ that people will lose their jobs.",
+      "hint": "(need / mean) - negative",
+      "answers": ["needn't mean", "need not mean", "don't have to mean"],
+      "explanation": "To say something is not necessarily true we use needn't (or don't have to), never mustn't."
+    }
+  ]
+}

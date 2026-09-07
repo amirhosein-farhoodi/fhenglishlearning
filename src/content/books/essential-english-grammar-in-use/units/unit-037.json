@@ -1,0 +1,173 @@
+{
+  "number": 37,
+  "title": "there is there are",
+  "subtitle": "There's a ... / There are ...",
+  "summary": "Use there is and there are to say that something exists or is somewhere, and it is to talk about a thing you have already named.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "There's a man on the roof",
+      "text": "Three pictures show three simple facts. In the first, a man is putting tiles on the roof of a house: **There's** a man on the roof. In the second, a station board shows the times of the trains: **There's** a train at 10.30. In the third, a calendar shows the days of the week: **There are** seven days in a week.",
+      "examples": [
+        { "text": "**There's** a man on the roof." },
+        { "text": "**There's** a train at 10.30." },
+        { "text": "**There are** seven days in a week." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["", "Positive", "Question", "Negative"],
+      "rows": [
+        ["one thing", "there is (there's)", "is there ... ?", "there isn't / there's not"],
+        ["more than one", "there are", "are there ... ?", "there aren't"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there is (one thing)",
+      "text": "Use **there is** (short form **there's**) when you talk about one thing. In questions the order is **is there ... ?** and the negative is **there isn't**.",
+      "examples": [
+        { "text": "**There's** a big tree in the garden." },
+        { "text": "**There's** nothing on TV tonight." },
+        { "text": "*A:* Have you got any money? *B:* Yes, **there's** some in my bag." },
+        { "text": "*A:* Excuse me, **is there** a hotel near here? *B:* Yes, **there is**. / No, **there isn't**." },
+        { "text": "We can't go skiing. **There isn't** any snow." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there are (more than one)",
+      "text": "Use **there are** when you talk about more than one thing. The question is **are there ... ?** and the negative is **there aren't**.",
+      "examples": [
+        { "text": "**There are** some big trees in the garden." },
+        { "text": "**There are** a lot of accidents on this road." },
+        { "text": "*A:* **Are there** any restaurants near here? *B:* Yes, **there are**. / No, **there aren't**." },
+        { "text": "This restaurant is very quiet. **There aren't** many people here." },
+        { "text": "How many players **are there** in a football team? **There are** 11 players in a football team." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "there is and it is",
+      "left": {
+        "label": "there is",
+        "text": "You say that something is somewhere. It is new information.",
+        "examples": [
+          "**There's** a book on the table.",
+          "**There's** a train at 10.30.",
+          "**There's** a lot of salt in this soup."
+        ]
+      },
+      "right": {
+        "label": "it is",
+        "text": "You talk about a thing you have already named.",
+        "examples": [
+          "I like this book. **It's** interesting.",
+          "'What's that noise?' '**It's** a train.'",
+          "I don't like this soup. **It's** too salty."
+        ]
+      },
+      "note": "Say *There's a book on the table*, not ~~It's a book on the table~~."
+    },
+    {
+      "type": "tip",
+      "text": "Count the things first. One thing takes **there is**; two or more things take **there are**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Kentham is a small town. It has a hospital. ___ a hospital in Kentham.",
+      "hint": "(there)",
+      "answers": ["There's", "There is"],
+      "explanation": "One hospital, so we use There's (there is)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kentham has no swimming pool. ___ a swimming pool.",
+      "hint": "(there / not)",
+      "answers": ["There isn't", "There is not", "There's not"],
+      "explanation": "The negative for one thing is there isn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kentham has two cinemas. ___ two cinemas.",
+      "hint": "(there)",
+      "answers": ["There are"],
+      "explanation": "Two cinemas is more than one, so we use There are."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence need there is / there isn't, or there are / there aren't?",
+      "categories": ["there is / there isn't", "there are / there aren't"],
+      "items": [
+        { "text": "a hospital in the town", "category": 0 },
+        { "text": "two cinemas", "category": 1 },
+        { "text": "a lot of accidents on this road", "category": 1 },
+        { "text": "nothing on TV tonight", "category": 0 },
+        { "text": "any big hotels", "category": 1 },
+        { "text": "much traffic", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kentham has no big hotels. ___ any big hotels.",
+      "hint": "(there / not)",
+      "answers": ["There aren't", "There are not"],
+      "explanation": "hotels is plural, so the negative is there aren't."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ eight planets in the solar system.",
+      "options": ["There are", "There is", "There was"],
+      "answer": 0,
+      "explanation": "eight planets is more than one, so we use There are."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Excuse me, ___ a bank near here?' 'Yes, at the end of the street.'",
+      "hint": "(there)",
+      "answers": ["is there"],
+      "explanation": "In questions the order changes: is there ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'How many students ___ in the class?' 'Twenty.'",
+      "hint": "(there)",
+      "answers": ["are there"],
+      "explanation": "After How many we say are there: How many students are there?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        { "left": "Is there a hotel near here?", "right": "Yes, there is." },
+        { "left": "Are there any restaurants near here?", "right": "No, there aren't." },
+        { "left": "How many players are there in a football team?", "right": "There are 11." },
+        { "left": "Is there anything good on TV tonight?", "right": "Yes, there's a film at 8.15." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Write a true sentence about the English alphabet.",
+      "words": ["There", "are", "twenty-six", "letters", "in", "the English alphabet."],
+      "answer": "There are twenty-six letters in the English alphabet.",
+      "explanation": "letters is plural, so we use There are."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'What's that noise?' '___ a train.'",
+      "options": ["It's", "There's", "There are"],
+      "answer": 0,
+      "explanation": "It = that noise, a thing we have already named, so we say It's a train."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's a book on the table.",
+      "answer": false,
+      "explanation": "There's a book on the table. We use there is for new information about where something is."
+    }
+  ]
+}

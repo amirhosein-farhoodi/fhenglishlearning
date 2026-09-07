@@ -1,0 +1,170 @@
+{
+  "number": 96,
+  "title": "It 1",
+  "subtitle": "It's a miracle that she wasn't hurt",
+  "summary": "Use introductory it to move a long or important part of the sentence to the end, where English prefers it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Why we start with it",
+      "left": {
+        "label": "Heavy subject at the front",
+        "examples": [
+          "To drive without a licence is illegal.",
+          "That she wasn't hurt is a miracle."
+        ]
+      },
+      "right": {
+        "label": "Introductory it - the long or new part comes last",
+        "examples": [
+          "**It is** illegal **to drive** without a licence.",
+          "**It's** a miracle **that** she wasn't hurt."
+        ]
+      },
+      "note": "Introductory it also works when the subject is a wh- or -ing clause: It is clear why Diego decided to leave Spain. / It is useless asking Sophie to help."
+    },
+    {
+      "type": "explain",
+      "heading": "it + verb + to-infinitive",
+      "text": "A few verbs follow introductory it directly and are then completed by a to-infinitive.",
+      "examples": [
+        { "text": "'I've got a terrible headache.' '**It helps to lie** down.'" },
+        { "text": "If you want someone to help you, **it doesn't do to annoy** them just before you ask.", "note": "(not) do = (not) advisable, acceptable or enough" }
+      ],
+      "note": "Also: hurt, pay (= give an advantage or benefit)."
+    },
+    {
+      "type": "explain",
+      "heading": "it + verb + object + to-infinitive",
+      "text": "Most verbs in this pattern are about feelings, and the object usually refers to a person.",
+      "examples": [
+        { "text": "**It shocked him to see** her looking so ill." },
+        { "text": "**It means a lot to get** a place at university." }
+      ],
+      "note": "Also: amaze, annoy, astonish, concern, cost, frighten, hurt, scare, surprise, upset, worry."
+    },
+    {
+      "type": "explain",
+      "heading": "It takes ... to ...",
+      "text": "We use **it + take + object + to-infinitive** to say what an activity needs - time, resources or personal qualities.",
+      "examples": [
+        { "text": "**It takes** a lot of effort **to play** the flute.", "note": "or To play the flute takes a lot of effort." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + verb + (object) + that-clause",
+      "text": "Verbs of appearing and emerging take it + a that-clause. Several of them can also take an object, which usually refers to a person.",
+      "examples": [
+        { "text": "**It seems that** she has lost her memory.", "note": "also appear, come about, follow, happen, transpire" },
+        { "text": "**It emerged that** he already had a criminal record." },
+        { "text": "**It suddenly hit me that** Sara wanted to borrow money.", "note": "less likely: That Sara wanted to borrow money suddenly hit me. Also dawn on, not bother, strike (= occur to), turn out" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not with a noun subject - except in speech",
+      "text": "We don't normally use an **it ...** pattern instead of a noun as subject. In informal speech, though, this is common when we want to give special emphasis to what comes after it, or to leave a long noun phrase until the end.",
+      "examples": [
+        { "text": "Their success was unexpected.", "wrong": "It was unexpected their success" },
+        { "text": "**It tastes** really good, this new ice cream.", "note": "informal speech" },
+        { "text": "**It's** ridiculous, all the bureaucracy involved in running a school these days." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the subject is a clause, introductory it almost always improves the sentence; if the subject is just a noun phrase, leave it alone in writing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "___ illegal to drive without a licence.",
+      "options": ["It is", "There is", "That is"],
+      "answer": 0,
+      "explanation": "Introductory it lets the to-infinitive clause come at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can save money by booking tickets in advance, so it ___ to plan your journey ahead.",
+      "hint": "(pay)",
+      "answers": ["pays"],
+      "explanation": "it pays to do something = doing it gives you an advantage."
+    },
+    {
+      "type": "true_false",
+      "statement": "It is an advantage in the job to be a qualified driver.",
+      "answer": true,
+      "explanation": "Correct. The to-infinitive subject moves to the end after it is + noun phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Since I broke my ankle last year, it ___ to pedal my bicycle.",
+      "hint": "(hurt)",
+      "answers": ["hurts", "hurts me", "has hurt", "has hurt me"],
+      "explanation": "hurt follows it either with or without an object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I told Peter that I had invited Hugo, too. When he became angry, it ___ that he was jealous.",
+      "hint": "(strike)",
+      "answers": ["struck me"],
+      "explanation": "it struck me that ... = the idea suddenly occurred to me."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence acceptable in written English, or only in informal speech?",
+      "categories": ["Correct in written English", "Only in informal speech"],
+      "items": [
+        { "text": "It is highly unusual to put carpet on walls.", "category": 0 },
+        { "text": "It's a Ferrari, Robin's new car.", "category": 1 },
+        { "text": "It was unsettling how he stared straight at me.", "category": 0 },
+        { "text": "It's quite radical, her proposal.", "category": 1 },
+        { "text": "It is hard finding a good plumber these days.", "category": 0 },
+        { "text": "It tastes really good, this new ice cream.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Children need a lot of praise and it ___ to criticise them too much.",
+      "hint": "(not do)",
+      "answers": ["doesn't do", "does not do"],
+      "explanation": "it doesn't do to ... = it is not advisable or acceptable to ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The boys walked towards me in a threatening way, and it ___ to see that they were carrying knives.",
+      "hint": "(scare)",
+      "answers": ["scared me"],
+      "explanation": "Verbs of feeling like scare take it + object + to-infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "It was surprising Francesco's excellent exam result.",
+      "answer": false,
+      "explanation": "In writing: Francesco's excellent exam result was surprising. Only in speech would we say 'It was surprising, Francesco's excellent exam result.'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I knew that Lotta was a journalist for the local paper, but it ___ to discover that she was also a successful novelist.",
+      "hint": "(astonish)",
+      "answers": ["astonished me"],
+      "explanation": "astonish takes it + object + to-infinitive, and the object refers to a person."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what playing the flute needs, beginning It takes ... .",
+      "words": ["It takes", "a lot of effort", "to play", "the flute."],
+      "answer": "It takes a lot of effort to play the flute.",
+      "explanation": "It takes + object + to-infinitive says what an activity requires."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were no curtains in his house, but it ___ that everyone could see in.",
+      "hint": "(not bother)",
+      "answers": ["didn't bother him", "did not bother him"],
+      "explanation": "not bother takes it + object + that-clause, and the object refers to a person."
+    }
+  ]
+}

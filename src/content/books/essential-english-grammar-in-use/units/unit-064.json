@@ -1,0 +1,155 @@
+{
+  "number": 64,
+  "title": "-'s (Kate's camera / my brother's car etc.)",
+  "subtitle": "Kate's camera / my parents' house / the roof of the building",
+  "summary": "Use -'s to say that something belongs to a person, and of ... for things and places.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Kate's camera",
+      "text": "Kate holds a camera and says 'My camera'. So it is **Kate's** camera. A man stands next to his car and says 'My car'. It is **my brother's** car. On the door there is a sign: MANAGER. It is **the manager's** office. We normally use **-'s** for people.",
+      "examples": [
+        { "text": "I stayed at **my sister's** house.", "wrong": "the house of my sister" },
+        { "text": "Have you met **Mr Black's** wife?", "wrong": "the wife of Mr Black" },
+        { "text": "Are you going to **James's** party?" },
+        { "text": "Paul is **a man's** name. Paula is **a woman's** name." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-'s with no noun after it",
+      "text": "You can use **-'s** on its own when the noun is already clear.",
+      "examples": [
+        { "text": "Sophie's hair is longer than **Kate's**.", "note": "= Kate's hair" },
+        { "text": "'Whose umbrella is this?' 'It's **my mother's**.'", "note": "= my mother's umbrella" },
+        { "text": "'Where were you last night?' 'I was at **Paul's**.'", "note": "= Paul's house" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "friend's and friends'",
+      "left": {
+        "label": "my friend's house",
+        "text": "One friend. We write **'s** after a singular word: friend, student, mother.",
+        "examples": [
+          "my **friend's** house = his house or her house",
+          "my **mother's** car (one mother)",
+          "my **father's** car (one father)"
+        ]
+      },
+      "right": {
+        "label": "my friends' house",
+        "text": "Two or more friends. We write only **'** after a plural word: friends, students, parents.",
+        "examples": [
+          "my **friends'** house = their house",
+          "my **parents'** car (two parents)",
+          "my **students'** books (many students)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "of ... for things and places",
+      "text": "For things, places and ideas we do not use **-'s**. We use **of ...** instead.",
+      "examples": [
+        { "text": "Look at the roof **of that building**.", "wrong": "that building's roof" },
+        { "text": "We didn't see the beginning **of the film**.", "wrong": "the film's beginning" },
+        { "text": "What's the name **of this village**?" },
+        { "text": "Do you know the cause **of the problem**?" },
+        { "text": "Madrid is the capital **of Spain**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "People take *-'s*: *my sister's house*. Things and places take *of*: *the end of the street*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is married to Paul. Paul is ___ husband.",
+      "hint": "(Sarah)",
+      "answers": ["Sarah's"],
+      "explanation": "Sarah is a person, so we add -'s."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen and Brian have a son, James, and a daughter, Sarah. So James is ___ brother.",
+      "hint": "(Sarah)",
+      "answers": ["Sarah's"],
+      "explanation": "Sarah's brother = the brother of Sarah."
+    },
+    {
+      "type": "true_false",
+      "statement": "What is the name of this village?",
+      "answer": true,
+      "explanation": "A village is a place, so we use of ... , not -'s."
+    },
+    {
+      "type": "true_false",
+      "statement": "I stayed at the house of my sister.",
+      "answer": false,
+      "explanation": "I stayed at my sister's house. My sister is a person, so we use -'s."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the phrase talk about one person or about two or more people?",
+      "categories": ["one person", "two or more people"],
+      "items": [
+        { "text": "my friend's house", "category": 0 },
+        { "text": "my friends' house", "category": 1 },
+        { "text": "my mother's car", "category": 0 },
+        { "text": "my parents' car", "category": 1 },
+        { "text": "my sister's room", "category": 0 },
+        { "text": "my students' books", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Whose umbrella is this?' 'It's my ___.'",
+      "options": ["mother's", "mothers", "mother"],
+      "answer": 0,
+      "explanation": "We can use -'s with no noun after it: my mother's = my mother's umbrella."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you know the phone number of Simon?",
+      "answer": false,
+      "explanation": "Do you know Simon's phone number? Simon is a person, so we use -'s."
+    },
+    {
+      "type": "true_false",
+      "statement": "Write your name at the top of the page.",
+      "answer": true,
+      "explanation": "A page is a thing, so we use of ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is James's sister, and she has a son, Daniel. So James is ___ uncle.",
+      "hint": "(Daniel)",
+      "answers": ["Daniel's"],
+      "explanation": "Daniel's uncle = the uncle of Daniel."
+    },
+    {
+      "type": "true_false",
+      "statement": "The house of my parents isn't very big.",
+      "answer": false,
+      "explanation": "My parents' house isn't very big. Parents is plural, so we add only an apostrophe."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Madrid is the capital ___ Spain.",
+      "options": ["of", "'s", "from"],
+      "answer": 0,
+      "explanation": "Spain is a place, so we use of ... ."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Are you going", "to", "Silvia's", "party", "next week?"],
+      "answer": "Are you going to Silvia's party next week?",
+      "explanation": "Silvia is a person, so we say Silvia's party, not the party of Silvia."
+    }
+  ]
+}

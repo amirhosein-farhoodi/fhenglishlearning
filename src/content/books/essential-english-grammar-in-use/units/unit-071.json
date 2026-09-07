@@ -1,0 +1,168 @@
+{
+  "number": 71,
+  "title": "go to work go home go to the cinema",
+  "subtitle": "to work / to bed / to the cinema",
+  "summary": "Learn which places take no the (work, school, bed, home) and which places need the (the cinema, the bank, the station).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Places with no the",
+      "text": "A woman is sitting at her computer in an office: she's **at work**. Some children are walking past a school sign: they're going **to school**. A man is asleep with a clock beside him: he's **in bed**. With these places we do not say *the*.",
+      "examples": [
+        { "text": "Bye! I'm **going to work** now.", "wrong": "to the work" },
+        { "text": "I **finish work** at 5 o'clock every day." },
+        { "text": "What did you learn **at school** today?", "wrong": "at the school" },
+        { "text": "Helen wants to **go to university** when she **leaves school**." },
+        { "text": "Jack had an accident. He had to go **to hospital**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "No the",
+      "columns": ["Place", "We say", "Example"],
+      "rows": [
+        ["work", "go to work, be at work", "I'm **going to work** now."],
+        ["school", "go to school, be at school", "Some children don't like **school**."],
+        ["university / college", "go to university, be at college", "What did you study **at college**?"],
+        ["hospital", "go to hospital, be in hospital", "He had to go **to hospital**."],
+        ["prison", "go to prison, be in prison", "Why is he **in prison**?"],
+        ["church", "go to church, be in/at church", "David usually goes **to church** on Sundays."],
+        ["bed", "go to bed, be in bed", "I'm tired. I'm **going to bed**."],
+        ["home", "go home, be at home", "I'm tired. I'm **going home**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Places with the",
+      "text": "Other places in a town need **the**: the cinema, the theatre, the bank, the post office, the station, the airport, the city centre.",
+      "examples": [
+        { "text": "I never go to **the theatre**, but I go to **the cinema** a lot." },
+        { "text": "*A:* Are you going to **the bank**? *B:* No, to **the post office**." },
+        { "text": "The number 5 bus goes to **the airport**; the number 8 goes to **the city centre**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the doctor and the dentist",
+      "text": "We also say **the** with *doctor* and *dentist*.",
+      "examples": [
+        { "text": "You're not well. Why don't you go to **the doctor**?" },
+        { "text": "I have to go to **the dentist** tomorrow." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two lists to remember",
+      "left": {
+        "label": "No the",
+        "examples": ["go to work", "go to school", "go to bed", "go home"]
+      },
+      "right": {
+        "label": "With the",
+        "examples": ["go to the cinema", "go to the bank", "go to the station", "go to the doctor"]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Say **go home**, not ~~go to home~~. But we do say *at home*: *Are you staying at home tonight?*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's 11 o'clock at night and Tom is asleep. He's in ___.",
+      "hint": "(bed)",
+      "answers": ["bed"],
+      "explanation": "in bed, with no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is standing near a plane and waiting for her flight. She's at ___.",
+      "hint": "(airport)",
+      "answers": ["the airport"],
+      "explanation": "the airport, like the station and the city centre."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you do.",
+      "pairs": [
+        { "left": "You want to see a film.", "right": "You go to the cinema." },
+        { "left": "You are tired and you want to sleep.", "right": "You go to bed." },
+        { "left": "You have a problem with your teeth.", "right": "You go to the dentist." },
+        { "left": "You want to study after you leave school.", "right": "You go to university." },
+        { "left": "You are badly injured in an accident.", "right": "You go to hospital." },
+        { "left": "You need to change some money.", "right": "You go to the bank." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In Britain, children go to ___ from the age of five.",
+      "hint": "(school)",
+      "answers": ["school"],
+      "explanation": "go to school, with no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Where shall we meet?' 'At ___.'",
+      "options": ["the station", "station", "a station"],
+      "answer": 0,
+      "explanation": "We say the station, like the bank and the post office."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to ___ to get some stamps.",
+      "hint": "(post office)",
+      "answers": ["the post office"],
+      "explanation": "go to the post office, with the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I phoned you last night, but you weren't at ___.",
+      "hint": "(home)",
+      "answers": ["home"],
+      "explanation": "at home, with no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "David usually goes ___ on Sundays.",
+      "options": ["to church", "to the church", "in the church"],
+      "answer": 0,
+      "explanation": "go to church, with no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lisa wasn't feeling well yesterday, so she went to doctor.",
+      "answer": false,
+      "explanation": "Lisa wasn't feeling well yesterday, so she went to the doctor."
+    },
+    {
+      "type": "true_false",
+      "statement": "What time do you usually get home from work?",
+      "answer": true,
+      "explanation": "get home and from work both have no the."
+    },
+    {
+      "type": "categorize",
+      "prompt": "After go to, do these places need the?",
+      "categories": ["no the", "the ..."],
+      "items": [
+        { "text": "work", "category": 0 },
+        { "text": "school", "category": 0 },
+        { "text": "bed", "category": 0 },
+        { "text": "prison", "category": 0 },
+        { "text": "cinema", "category": 1 },
+        { "text": "post office", "category": 1 },
+        { "text": "dentist", "category": 1 },
+        { "text": "city centre", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["If you rob a bank", "and", "the police", "catch you,", "you", "go to prison."],
+      "answer": "If you rob a bank and the police catch you, you go to prison.",
+      "explanation": "the police always has the, but go to prison has no the."
+    }
+  ]
+}

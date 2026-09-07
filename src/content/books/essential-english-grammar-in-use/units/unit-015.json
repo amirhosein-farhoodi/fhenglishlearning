@@ -1,0 +1,173 @@
+{
+  "number": 15,
+  "title": "I have done (present perfect 1)",
+  "subtitle": "have/has + past participle",
+  "summary": "Use have/has + past participle to talk about an action in the past that has a result now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two short stories",
+      "text": "A man's shoes are dirty. He is cleaning his shoes. Now he says: *'**I've cleaned** my shoes.'* His shoes are clean **now**. Another story: a couple are at home. Then they are going out. Now **they have gone** out - they are not at home **now**.",
+      "examples": [
+        { "text": "He **has cleaned** his shoes.", "note": "= his shoes are clean now" },
+        { "text": "They **have gone** out.", "note": "= they are not at home now" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "Positive", "Negative"],
+      "rows": [
+        ["I / we / you / they", "have ('ve) cleaned", "have not (haven't) cleaned"],
+        ["he / she / it", "has ('s) cleaned", "has not (hasn't) cleaned"]
+      ],
+      "note": "**cleaned / finished / gone / been** etc. is the *past participle*."
+    },
+    {
+      "type": "table",
+      "heading": "Questions",
+      "columns": ["have / has", "Subject", "Past participle"],
+      "rows": [
+        ["Have", "I / we / you / they", "finished?"],
+        ["Has", "he / she / it", "gone?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Regular verbs",
+      "text": "For regular verbs the past participle ends in **-ed**. It is the same as the past simple.",
+      "examples": [
+        { "text": "clean -> I **have cleaned**" },
+        { "text": "finish -> we **have finished**" },
+        { "text": "start -> she **has started**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular verbs",
+      "columns": ["Verb", "Past simple", "Past participle"],
+      "rows": [
+        ["buy", "I bought", "I have bought"],
+        ["have", "he had", "he has had"],
+        ["break", "I broke", "I have broken"],
+        ["see", "you saw", "you have seen"],
+        ["fall", "it fell", "it has fallen"],
+        ["go", "they went", "they have gone"]
+      ],
+      "note": "Sometimes the past simple and the past participle are the same (bought / bought), sometimes they are different (broke / broken)."
+    },
+    {
+      "type": "explain",
+      "heading": "An action with a result now",
+      "text": "We use the present perfect for an action in the past when we want to talk about the result **now**.",
+      "examples": [
+        { "text": "**I've lost** my passport.", "note": "= I can't find my passport now" },
+        { "text": "'Where's Rebecca?' '**She's gone** to bed.'", "note": "= she is in bed now" },
+        { "text": "**We've bought** a new car.", "note": "= we have a new car now" },
+        { "text": "It's Rachel's birthday tomorrow and I **haven't bought** her a present.", "note": "= I don't have a present for her now" },
+        { "text": "Can I take this newspaper? **Have** you **finished** with it?", "note": "= do you need it now?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use *have* with I/we/you/they and *has* with he/she/it: *She **has** gone*, not ~~She have gone~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The door was open a moment ago. Now it is shut. ___ the door.",
+      "hint": "(she / close)",
+      "answers": ["She's closed", "She has closed"],
+      "explanation": "The result is now: she has closed the door."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was raining, but now the sun is shining. ___ raining.",
+      "hint": "(it / stop)",
+      "answers": ["It's stopped", "It has stopped"],
+      "explanation": "The result is now: it has stopped raining."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past participle.",
+      "pairs": [
+        { "left": "break", "right": "broken" },
+        { "left": "see", "right": "seen" },
+        { "left": "go", "right": "gone" },
+        { "left": "fall", "right": "fallen" },
+        { "left": "buy", "right": "bought" },
+        { "left": "take", "right": "taken" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can't find my passport anywhere. I ___ it.",
+      "options": ["'ve lost", "'m losing", "lose"],
+      "answer": 0,
+      "explanation": "An action in the past with a result now: I've lost my passport."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm looking for Paula. ___ her?",
+      "hint": "(you / see)",
+      "answers": ["Have you seen"],
+      "explanation": "Question form: have + you + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Look! Somebody ___ that window.",
+      "hint": "(break)",
+      "answers": ["has broken", "'s broken"],
+      "explanation": "somebody = he/she/it, so: somebody has broken. The past participle of break is broken."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Where's Rebecca?' 'She's gone to bed.'",
+      "answer": true,
+      "explanation": "Correct. She has gone to bed, so she is in bed now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where are my glasses?' 'I don't know. I ___ them.'",
+      "hint": "(not / see)",
+      "answers": ["haven't seen", "have not seen"],
+      "explanation": "Negative: I haven't seen them."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are looking for Sarah and she is not in her office. Ask where she is.",
+      "words": ["Where", "has", "she", "gone?"],
+      "answer": "Where has she gone?",
+      "explanation": "Question word + has + subject + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know that woman, but I ___ her name.",
+      "hint": "(forget)",
+      "answers": ["'ve forgotten", "have forgotten"],
+      "explanation": "The result is now: I've forgotten her name, so I don't know it now."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the past participle end in -ed, or is the verb irregular?",
+      "categories": ["Past participle in -ed", "Irregular past participle"],
+      "items": [
+        { "text": "cleaned", "category": 0 },
+        { "text": "finished", "category": 0 },
+        { "text": "invited", "category": 0 },
+        { "text": "broken", "category": 1 },
+        { "text": "gone", "category": 1 },
+        { "text": "taken", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue is having a party tonight. She ___ a lot of people.",
+      "hint": "(invite)",
+      "answers": ["'s invited", "has invited"],
+      "explanation": "Regular verb: invite -> invited. She has invited a lot of people."
+    }
+  ]
+}

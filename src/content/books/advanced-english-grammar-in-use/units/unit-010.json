@@ -1,0 +1,170 @@
+{
+  "number": 10,
+  "title": "Present simple and present continuous for the future",
+  "subtitle": "The sun rises at 5:16 / Are you seeing the doctor?",
+  "summary": "Use the present simple for timetabled future events and after time and conditional conjunctions, and the present continuous for firm intentions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Present simple for timetabled events",
+      "text": "For future events that are part of a timetabled or programmed arrangement or routine, either the present simple or **will** is usually possible. We prefer the present simple for fixed, unchangeable events.",
+      "examples": [
+        { "text": "**Does** the sale **finish** on Thursday or Friday?", "note": "or Will the sale finish ...?" },
+        { "text": "The sun **rises** at 5:16 tomorrow.", "note": "more likely than The sun will rise ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "But not for looser arrangements or predictions",
+      "text": "We avoid the present simple for less formal or less routine arrangements, and for predictions. Instead we use **will**, **be going to** or the present continuous.",
+      "examples": [
+        { "text": "**Are** you **staying** in to watch TV tonight, or **are** you **coming** dancing?", "wrong": "Do you stay to watch TV tonight, or do you come" },
+        { "text": "It's only a problem in Britain now, but it **will affect** the rest of Europe soon.", "wrong": "but it affects the rest of Europe soon" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present simple, not will, in time clauses",
+      "text": "After conjunctions such as **after, as soon as, before, by the time, when, while** and **until** we use the present simple to refer to the future.",
+      "examples": [
+        { "text": "When you **see** Ben, tell him he still owes me some money.", "wrong": "When you will see Ben" },
+        { "text": "I should be finished by the time you **get** back.", "wrong": "by the time you will get back" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "And in conditional clauses",
+      "text": "The same goes for conditional clauses with **if, in case, provided** and **unless**, and after **suppose, supposing** and **what if** at the beginning of a sentence.",
+      "examples": [
+        { "text": "Provided the right software **is** available, I should be able to solve the problem." },
+        { "text": "I'll bring some sandwiches in case we **don't find** anywhere decent to eat." },
+        { "text": "Suppose we **miss** the bus - how will we get home?", "note": "or Suppose we missed ... - the past simple has a similar meaning" },
+        { "text": "What if the train**'s** late? Where shall I meet you then?", "note": "or What if the train was late?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present continuous for firm intentions",
+      "text": "For planned future events the present continuous and be going to are often interchangeable. The present continuous says that we have a firm intention or have definitely decided to do something, even if nothing has been arranged yet.",
+      "examples": [
+        { "text": "**Are** you **seeing** the doctor again next week?", "note": "or Are you going to see ...?" },
+        { "text": "**I'm not asking** Tom to the party.", "note": "or I'm not going to ask ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two things the present continuous can't do",
+      "text": "We don't use the present continuous for the future when we predict activities or events we have no control over - we can't arrange those - or when we talk about permanent future situations.",
+      "examples": [
+        { "text": "I think it**'s going to rain** soon." },
+        { "text": "Scientists say that the satellite **won't cause** any damage when it falls to Earth." },
+        { "text": "People **are going to live** / **will live** longer in the future." },
+        { "text": "Her new house **is going to have** / **will have** three floors." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go and come",
+      "text": "Many people avoid **be going to + go / come** and use the present continuous forms of go and come instead.",
+      "examples": [
+        { "text": "**I'm going** to town on Saturday.", "note": "rather than I'm going to go to town ..." },
+        { "text": "**Are** you **coming** home for lunch?", "note": "rather than Are you going to come ...?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After when, until, provided, unless, in case, suppose and what if, never use will - the present simple already points to the future."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I think I'll take an umbrella in case it ___.",
+      "hint": "(rain)",
+      "answers": ["rains"],
+      "explanation": "In case introduces a conditional clause, so the present simple refers to the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The concert ___ at 7:30, not 7:15 as it says in the programme.",
+      "hint": "(start)",
+      "answers": ["starts", "will start", "'ll start"],
+      "explanation": "A fixed, timetabled event: the present simple is the natural choice (will start is also possible)."
+    },
+    {
+      "type": "true_false",
+      "statement": "The sun rises at 5:16 tomorrow.",
+      "answer": true,
+      "explanation": "Correct. For a fixed, unchangeable event the present simple is more likely than will rise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Provided it ___ raining, we'll go for a walk this afternoon.",
+      "hint": "(stop)",
+      "answers": ["stops"],
+      "explanation": "Provided introduces a conditional clause, so the present simple, not will."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I'm not sure how I'll get to the concert. *B:* We can take you. We ___ you up at eight.",
+      "options": ["'ll pick", "'re going to pick", "'re picking"],
+      "answer": 0,
+      "explanation": "This is an offer, decided at the moment of speaking, so will."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's only a problem in Britain now, but it affects the rest of Europe soon.",
+      "answer": false,
+      "explanation": "... but it will affect the rest of Europe soon. The present simple is not used for predictions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "By the time you ___ this letter, I should be in New Zealand.",
+      "hint": "(read)",
+      "answers": ["read"],
+      "explanation": "By the time is a time conjunction, so the present simple points to the future."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm sorry I can't come for dinner. I ___ to York tonight.",
+      "options": ["'m driving", "will drive", "drive"],
+      "answer": 0,
+      "explanation": "A definite arrangement you have already made: the present continuous (or am going to drive)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've heard that BWM are building a new factory in Ireland. If you look on their website, you ___ a lot of information about it.",
+      "hint": "(see)",
+      "answers": ["will see", "'ll see"],
+      "explanation": "This is about ability - you'll be able to see it - so will, not a present tense."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The high-speed rail link ___ the journey time between the cities significantly.",
+      "options": ["will cut", "is cutting", "cuts"],
+      "answer": 0,
+      "explanation": "A permanent future situation, so will or be going to - never the present continuous."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend whether the plan for tonight is a night in front of the TV or a night out dancing.",
+      "words": ["Are you staying in", "to watch TV tonight,", "or are you coming", "dancing?"],
+      "answer": "Are you staying in to watch TV tonight, or are you coming dancing?",
+      "explanation": "These are informal arrangements, so the present continuous - not the present simple."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Present simple or will + infinitive? (... marks the gap.)",
+      "categories": ["Present simple", "will + infinitive"],
+      "items": [
+        { "text": "We ... our exam results on the 20th August.", "category": 0 },
+        { "text": "Alex ... our cats while we're away next week.", "category": 1 },
+        { "text": "Unless my parents ... me some money, I won't be able to go on holiday this year.", "category": 0 },
+        { "text": "We ... Mariam when she leaves, but she says she'll keep in touch.", "category": 1 },
+        { "text": "Supposing I ... to upload a video to YouTube? How do I do that?", "category": 0 },
+        { "text": "It is unlikely that the government ... the court's decision.", "category": 1 }
+      ]
+    }
+  ]
+}

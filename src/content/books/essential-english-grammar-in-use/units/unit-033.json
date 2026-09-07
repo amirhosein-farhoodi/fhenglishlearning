@@ -1,0 +1,181 @@
+{
+  "number": 33,
+  "title": "I have to ...",
+  "subtitle": "I have to / she has to / I had to",
+  "summary": "Use have to and has to to say what is necessary, had to for the past, and don't have to for what is not necessary.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I have to take it three times a day",
+      "text": "A man is in bed. He is ill. On the table there is a big bottle of medicine with a label: 'Three times a day'. He says: 'This is my medicine. I **have to take** it three times a day.' I **have to** do something = it is necessary for me to do it.",
+      "examples": [
+        { "text": "I'll be late for work tomorrow. I **have to go** to the dentist." },
+        { "text": "Jane starts work at 7 o'clock, so she **has to get** up at 6." },
+        { "text": "You **have to pass** a test before you can get a driving licence." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "have / has", "+ to + verb"],
+      "rows": [
+        ["I / we / you / they", "have", "to do, to work, to go"],
+        ["he / she / it", "has", "to do, to work, to go"]
+      ],
+      "note": "With *he*, *she* and *it* we say **has to**, not ~~have to~~."
+    },
+    {
+      "type": "explain",
+      "heading": "The past: had to",
+      "text": "For the past (yesterday, last week and so on) we say **had to**. It is the same for every subject.",
+      "examples": [
+        { "text": "I was late for work yesterday. I **had to go** to the dentist." },
+        { "text": "We **had to walk** home last night. There were no buses." },
+        { "text": "We did an exam yesterday. We **had to answer** six questions out of ten." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions and negatives",
+      "columns": ["", "Question", "Negative"],
+      "rows": [
+        ["present", "do I / does she have to ... ?", "I don't / she doesn't have to ..."],
+        ["past", "did you have to ... ?", "you didn't have to ..."]
+      ],
+      "note": "In questions and negatives we always use **do**, **does** or **did** with **have to**."
+    },
+    {
+      "type": "explain",
+      "heading": "do you have to ... ? / I don't have to ...",
+      "text": "I **don't have to** do something = it is not necessary for me to do it.",
+      "examples": [
+        { "text": "What time **do you have to go** to the dentist tomorrow?" },
+        { "text": "**Does** Jane **have to work** on Sundays?" },
+        { "text": "Why **did** they **have to leave** the party early?" },
+        { "text": "I'm not working tomorrow, so I **don't have to get** up early." },
+        { "text": "Ian **doesn't have to work** very hard. He's got an easy job." },
+        { "text": "We **didn't have to wait** very long for the bus." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "must and have to",
+      "left": {
+        "label": "must = my opinion",
+        "text": "Use must when you say what you think is necessary.",
+        "examples": [
+          "It's a fantastic film. You **must** see it.",
+          "Jane isn't well, but she doesn't want to go to the doctor. I told her she **must** go."
+        ]
+      },
+      "right": {
+        "label": "have to = a fact",
+        "text": "Use have to when it is not your personal opinion, but a fact.",
+        "examples": [
+          "Jane won't be at work this afternoon. She **has to** go to the doctor.",
+          "You **have to** pass a test before you can get a driving licence."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Do not forget *to*: *I have to go*, not ~~I have go~~. And in questions use do/does/did: *Does she have to work?*, not ~~Has she to work?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "At the end of the course all the students ___ a test.",
+      "hint": "(do)",
+      "answers": ["have to do"],
+      "explanation": "all the students = they, so we say have to do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah is studying literature. She ___ a lot of books.",
+      "hint": "(read)",
+      "answers": ["has to read"],
+      "explanation": "With she we say has to: She has to read a lot of books."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it necessary or not necessary?",
+      "categories": ["It is necessary", "It is not necessary"],
+      "items": [
+        { "text": "I have to go to the dentist.", "category": 0 },
+        { "text": "I don't have to get up early tomorrow.", "category": 1 },
+        { "text": "Jane has to get up at 6.", "category": 0 },
+        { "text": "Ian doesn't have to work very hard.", "category": 1 },
+        { "text": "We didn't have to wait very long.", "category": 1 },
+        { "text": "You have to pass a test to get a driving licence.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's late. I ___ now. I'll see you tomorrow.",
+      "hint": "(go)",
+      "answers": ["have to go"],
+      "explanation": "It is necessary now, so we use the present: I have to go."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In tennis you ___ the ball over the net.",
+      "options": ["have to hit", "has to hit", "have to hitting"],
+      "answer": 0,
+      "explanation": "you + have to + verb: you have to hit the ball."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to the supermarket after work yesterday. I ___ some food.",
+      "hint": "(buy)",
+      "answers": ["had to buy"],
+      "explanation": "Yesterday is the past, so we use had to."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right result.",
+      "pairs": [
+        { "left": "Jane starts work at 7 o'clock,", "right": "so she has to get up at 6." },
+        { "left": "I'm not working tomorrow,", "right": "so I don't have to get up early." },
+        { "left": "The bus came in a few minutes,", "right": "so we didn't have to wait long." },
+        { "left": "Ian has got an easy job,", "right": "so he doesn't have to work hard." },
+        { "left": "There were no buses last night,", "right": "so we had to walk home." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz has to go somewhere. Ask her: 'Where ___ go?'",
+      "hint": "(she)",
+      "answers": ["does she have to"],
+      "explanation": "In questions we use does with he/she/it: Where does she have to go?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why is Sue waiting? She ___ wait.",
+      "hint": "(not)",
+      "answers": ["doesn't have to", "does not have to"],
+      "explanation": "It is not necessary, so we say She doesn't have to wait."
+    },
+    {
+      "type": "word_order",
+      "prompt": "George had to wait a long time. Ask him about it.",
+      "words": ["How", "long", "did", "he", "have", "to", "wait?"],
+      "answer": "How long did he have to wait?",
+      "explanation": "For a past question we use did + have to: How long did he have to wait?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Julia won't be at work this afternoon. She must go to the doctor.",
+      "answer": false,
+      "explanation": "Julia won't be at work this afternoon. She has to go to the doctor. This is a fact, not my personal opinion, so we use has to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't have any money with me last night, so I ___ some.",
+      "hint": "(borrow)",
+      "answers": ["had to borrow"],
+      "explanation": "Last night is the past, so we use had to borrow."
+    }
+  ]
+}

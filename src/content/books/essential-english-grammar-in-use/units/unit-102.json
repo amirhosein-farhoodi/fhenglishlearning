@@ -1,0 +1,172 @@
+{
+  "number": 102,
+  "title": "the people we met the hotel you stayed at (relative clauses 2)",
+  "subtitle": "The bag he is carrying is very heavy.",
+  "summary": "Leave out that, who or which when it is the object: the people we met, the hotel you stayed at.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The bag he is carrying",
+      "text": "A man is walking along with a very big bag. He is hot and tired. Kate is reading a letter: 'Congratulations - you have won £50,000!' For each one we can say two sentences or one sentence. In the one sentence we do not need **that** at all.",
+      "examples": [
+        { "text": "The man is carrying a bag. **It**'s very heavy.", "note": "two sentences" },
+        { "text": "**The bag (that) he is carrying** is very heavy.", "note": "one sentence" },
+        { "text": "Kate won some money. What is she going to do with **it**?", "note": "two sentences" },
+        { "text": "What is Kate going to do with **the money (that) she won**?", "note": "one sentence" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "subject + verb + object -> one phrase",
+      "columns": ["subject", "verb", "object", "one phrase"],
+      "rows": [
+        ["The man", "was carrying", "a bag", "the bag (that) the man was carrying"],
+        ["Kate", "won", "some money", "the money (that) Kate won"],
+        ["You", "wanted", "some books", "the books (that) you wanted"],
+        ["We", "met", "some people", "the people (who) we met"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "You do not need that / who / which",
+      "text": "When **that**, **who** or **which** is the object, you can leave it out. This is very common in speaking.",
+      "examples": [
+        { "text": "Did you find **the books you wanted**?", "note": "or the books that you wanted" },
+        { "text": "**The people we met** were very friendly.", "note": "or the people who we met" },
+        { "text": "**Everything I said** was true." },
+        { "text": "**The film we saw** was very good.", "wrong": "The film we saw it was" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sometimes there is a preposition",
+      "text": "The verb often has a preposition (**to**, **in**, **at**, **about**, **for**). The preposition stays with the verb, at the end.",
+      "examples": [
+        { "text": "Eve is talking **to** a man. -> Do you know **the man Eve is talking to**?" },
+        { "text": "We stayed **at** a hotel. -> **The hotel we stayed at** was near the station." },
+        { "text": "I told you **about** some books. -> These are **the books I told you about**.", "wrong": "the books I told you about them" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "(a place) where ...",
+      "text": "For a place you can also use **where**. Then you do not need a preposition at the end.",
+      "examples": [
+        { "text": "**The hotel where we stayed** was near the station.", "note": "= the hotel we stayed at" },
+        { "text": "What's the name of the restaurant **where** you had dinner?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "object or subject?",
+      "left": {
+        "label": "object - you can leave who/that out",
+        "text": "There is another subject after it.",
+        "examples": [
+          "the people (who) **we met**",
+          "the bag (that) **he is carrying**",
+          "the money (that) **she won**"
+        ]
+      },
+      "right": {
+        "label": "subject - you must use who/that/which",
+        "text": "There is a verb straight after it.",
+        "examples": [
+          "I met a woman **who can speak** six languages.",
+          "Jack was wearing a hat **that was** too big for him."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Do not say the object twice. Say *The film we saw was very good*, not ~~The film we saw it was very good~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You cooked a meal. It was excellent. The meal ___ was excellent.",
+      "hint": "(you / cook)",
+      "answers": ["you cooked"],
+      "explanation": "you cooked is the object part, so we do not need that."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm wearing shoes. They aren't very comfortable. The shoes ___ aren't very comfortable.",
+      "hint": "(I / wear)",
+      "answers": ["I'm wearing", "I am wearing"],
+      "explanation": "The shoes I'm wearing ... - no that is necessary here."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "I've lost the pen", "right": "you gave me" },
+        { "left": "I like the jacket", "right": "Sue is wearing" },
+        { "left": "Where are the flowers", "right": "I gave you?" },
+        { "left": "I didn't believe the story", "right": "he told us" },
+        { "left": "How much were the oranges", "right": "you bought?" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The people we met were very friendly.",
+      "answer": true,
+      "explanation": "Correct. who is the object here, so we can leave it out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your friend was looking for some keys. You ask: Did you find the keys you were looking ___?",
+      "answers": ["for"],
+      "explanation": "look for keeps its preposition at the end of the question."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Helen took some photographs. Have you seen them? Make one question.",
+      "words": ["Have", "you", "seen", "the", "photographs", "Helen", "took?"],
+      "answer": "Have you seen the photographs Helen took?",
+      "explanation": "the photographs is the object, so we do not need that."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The film we saw ___ very good.",
+      "options": ["was", "it was", "was it"],
+      "answer": 0,
+      "explanation": "We do not say the object twice: The film we saw was very good."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah lives in a village. You ask her: How big is the village ___ live?",
+      "hint": "(where)",
+      "answers": ["where you"],
+      "explanation": "For a place we can say where: the village where you live."
+    },
+    {
+      "type": "true_false",
+      "statement": "These are the books I told you about them.",
+      "answer": false,
+      "explanation": "These are the books I told you about. Do not add them at the end."
+    },
+    {
+      "type": "word_order",
+      "prompt": "I was carrying a bag. It was very heavy. Make one sentence.",
+      "words": ["The", "bag", "I", "was carrying", "was", "very", "heavy."],
+      "answer": "The bag I was carrying was very heavy.",
+      "explanation": "The bag is the object of was carrying, so that is not necessary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We invited some people to dinner. They didn't come. The people ___ to dinner didn't come.",
+      "hint": "(we / invite)",
+      "answers": ["we invited"],
+      "explanation": "The people is the object of invited, so we can leave who out."
+    },
+    {
+      "type": "true_false",
+      "statement": "I met a woman can speak six languages.",
+      "answer": false,
+      "explanation": "I met a woman who can speak six languages. Here who is the subject, so you must use it."
+    }
+  ]
+}

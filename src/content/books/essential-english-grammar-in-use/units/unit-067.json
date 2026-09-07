@@ -1,0 +1,182 @@
+{
+  "number": 67,
+  "title": "a bottle / some water (countable/uncountable 1)",
+  "subtitle": "a car / cars / some money",
+  "summary": "Learn the difference between countable nouns (a car, two cars) and uncountable nouns (water, money), and how to use a piece of / a bottle of.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Countable nouns",
+      "text": "You can count these things: one bottle, two bottles, three men, four houses. Countable nouns are, for example: (a) **car**, (a) **man**, (a) **bottle**, (a) **house**, (a) **key**, (an) **idea**, (an) **accident**.",
+      "examples": [
+        { "text": "I've got **a car**." },
+        { "text": "New **cars** are very expensive." },
+        { "text": "There aren't **many cars** in the car park." },
+        { "text": "We can't get into the house without **a key**.", "wrong": "without key" }
+      ],
+      "note": "A singular countable noun never stands alone. It needs **a/an**, **the**, **my** etc."
+    },
+    {
+      "type": "table",
+      "heading": "Countable nouns have two forms",
+      "columns": ["Singular (= one)", "Plural (= two or more)"],
+      "rows": [
+        ["a car", "cars"],
+        ["the car", "the cars"],
+        ["my car", "two cars"],
+        ["a bottle", "some bottles"],
+        ["an idea", "many ideas"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Uncountable nouns",
+      "text": "You cannot count these things: **water**, **air**, **rice**, **salt**, **plastic**, **money**, **music**, **tennis**. We cannot say ~~one water~~ or ~~two musics~~. Uncountable nouns have only one form: money, the money, my money, some money, much money.",
+      "examples": [
+        { "text": "I've got **some money**." },
+        { "text": "There isn't **much money** in the box." },
+        { "text": "**Money** isn't everything." }
+      ],
+      "note": "Never use **a/an** with an uncountable noun: ~~a money~~, ~~a music~~, ~~a water~~."
+    },
+    {
+      "type": "compare",
+      "heading": "Countable and uncountable",
+      "left": {
+        "label": "Countable: a car / cars",
+        "text": "You can count them. Use **a/an** for one, and a plural for more.",
+        "examples": [
+          "I've got **a car**.",
+          "New **cars** are very expensive.",
+          "There aren't **many cars** in the car park."
+        ]
+      },
+      "right": {
+        "label": "Uncountable: some money",
+        "text": "You cannot count them. There is only one form, and no **a/an**.",
+        "examples": [
+          "I've got **some money**.",
+          "There isn't **much money** in the box.",
+          "**Money** isn't everything."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "a piece of ... / a bottle of ...",
+      "columns": ["a ... of", "+ uncountable noun"],
+      "rows": [
+        ["a bottle of", "water"],
+        ["a carton of", "milk"],
+        ["a bar of", "chocolate"],
+        ["a piece of", "cheese"],
+        ["a bowl of", "rice"],
+        ["a cup of", "coffee"],
+        ["a game of", "tennis"],
+        ["a piece of", "music"]
+      ],
+      "note": "This is how we count an uncountable noun: *two cups of coffee*, *three pieces of paper*."
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: can I say *two ...*? If yes, the noun is countable and one of them needs *a* or *an*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which words are countable (they take a/an) and which are uncountable?",
+      "categories": ["countable (a jug)", "uncountable (water)"],
+      "items": [
+        { "text": "jug", "category": 0 },
+        { "text": "toothbrush", "category": 0 },
+        { "text": "egg", "category": 0 },
+        { "text": "wallet", "category": 0 },
+        { "text": "water", "category": 1 },
+        { "text": "toothpaste", "category": 1 },
+        { "text": "money", "category": 1 },
+        { "text": "sand", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I never wear ___ hat.",
+      "hint": "(a / an)",
+      "answers": ["a"],
+      "explanation": "hat is countable, and it begins with a consonant sound."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate eats ___ apple every day.",
+      "hint": "(a / an)",
+      "answers": ["an"],
+      "explanation": "apple is countable and begins with a vowel sound."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["Kate doesn't eat meat.", "Kate doesn't eat a meat.", "Kate doesn't eat an meat."],
+      "answer": 0,
+      "explanation": "meat is uncountable, so it takes no a/an."
+    },
+    {
+      "type": "true_false",
+      "statement": "Everybody needs food.",
+      "answer": true,
+      "explanation": "food is uncountable, so it takes no a/an."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't need key.",
+      "answer": false,
+      "explanation": "I don't need a key. A singular countable noun needs a/an."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each container or piece with the right noun.",
+      "pairs": [
+        { "left": "a carton of", "right": "milk" },
+        { "left": "a glass of", "right": "water" },
+        { "left": "a bar of", "right": "chocolate" },
+        { "left": "a bowl of", "right": "soup" },
+        { "left": "a jar of", "right": "honey" },
+        { "left": "a loaf of", "right": "bread" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Music is ___ wonderful thing.",
+      "hint": "(a / an)",
+      "answers": ["a"],
+      "explanation": "music is uncountable, but thing is countable, so we say a wonderful thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a big brown loaf on the table. It's ___ of bread.",
+      "hint": "(loaf)",
+      "answers": ["a loaf"],
+      "explanation": "bread is uncountable, so we count it with a loaf of ... ."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you want ___ of coffee?",
+      "options": ["a cup", "a coffees", "some cup"],
+      "answer": 0,
+      "explanation": "coffee is uncountable, so we say a cup of coffee."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't go out without umbrella.",
+      "answer": false,
+      "explanation": "Don't go out without an umbrella. umbrella is countable, so it needs an."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["We can't", "get into", "the house", "without", "a", "key."],
+      "answer": "We can't get into the house without a key.",
+      "explanation": "key is a singular countable noun, so it needs a."
+    }
+  ]
+}

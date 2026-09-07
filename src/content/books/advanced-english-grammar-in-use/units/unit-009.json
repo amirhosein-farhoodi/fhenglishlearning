@@ -1,0 +1,186 @@
+{
+  "number": 9,
+  "title": "Will and be going to",
+  "subtitle": "I'll pick him up / I'm going to collect the children",
+  "summary": "Choose between will and be going to for predictions, decisions, arrangements and if-sentences.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Often either will do",
+      "text": "For something that is planned, or that we think is likely to happen, either **will** or **be going to** is usually possible. In informal contexts we often prefer be going to.",
+      "examples": [
+        { "text": "We **will study** climate change in a later part of the course.", "note": "or We are going to study ..." },
+        { "text": "Where **will** you **stay** in Berlin?", "note": "or Where are you going to stay ...?" },
+        { "text": "The south of the city **won't be** affected by the power cuts.", "note": "or ... isn't going to be affected ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Predictions",
+      "left": {
+        "label": "will - based on your opinion or experience",
+        "examples": [
+          "Why not come over at the weekend? The children **will enjoy** seeing you again.",
+          "*A:* Shall I ask Lamar? *B:* No, she **won't want** to be disturbed."
+        ]
+      },
+      "right": {
+        "label": "be going to - based on present evidence",
+        "examples": [
+          "The sky's gone really dark. There**'s going to be** a storm.",
+          "*A:* What's the matter with her? *B:* It looks like she**'s going to faint**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "I bet, I expect, I imagine, I'm sure ...",
+      "text": "To predict the future we often use **will** with *I bet, I expect, I hope, I imagine, I reckon, I think, I wonder* and *I'm sure*, and in questions with *think* and *reckon*.",
+      "examples": [
+        { "text": "I imagine the stadium **will be** full for the match on Saturday." },
+        { "text": "That cheese smells awful. I bet nobody **will eat** it." },
+        { "text": "When do you think you**'ll finish** work?" },
+        { "text": "Do you reckon he**'ll say** yes?" }
+      ],
+      "note": "Be going to also works with these phrases, particularly in informal contexts."
+    },
+    {
+      "type": "compare",
+      "heading": "Decisions",
+      "left": {
+        "label": "will - decided as you speak",
+        "examples": [
+          "I**'ll pick** him up at eight. (an offer; making an arrangement now)",
+          "*A:* Pineapples are on special offer this week. *B:* In that case, I**'ll buy** two."
+        ]
+      },
+      "right": {
+        "label": "be going to - decided before now",
+        "examples": [
+          "I**'m going to collect** the children at eight. (this was previously arranged)",
+          "When I've saved up enough money, I**'m going to buy** a smartphone."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Formal, detailed arrangements",
+      "text": "In a formal style we use **will** rather than be going to for future events that have already been arranged in some detail.",
+      "examples": [
+        { "text": "**Are** you **going to talk** at the meeting tonight?", "note": "informal, about a personal plan" },
+        { "text": "The meeting **will begin** at 9 am. Refreshments **will be** available from 8:30 onwards.", "note": "formal announcement of a detailed arrangement" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In if-sentences",
+      "text": "When something - often something negative - is conditional on something else, either form works. But if the main clause does *not* depend on the if-clause, we use be going to. We use will for offers, requests, promises, ability, and logical consequences.",
+      "examples": [
+        { "text": "You**'ll** / You**'re going to knock** that glass over if you're not careful." },
+        { "text": "I**'m going to open** a bottle of lemonade, if you want some.", "note": "= I'm going to open it anyway. Do you want some?" },
+        { "text": "I**'ll open** a bottle of lemonade if you want some.", "note": "= If you say you want some, I'll open it." },
+        { "text": "If Erik phones, I**'ll let** you know.", "note": "an offer" },
+        { "text": "If you look to your left, you**'ll see** the lake.", "note": "= you'll be able to see" },
+        { "text": "If you don't switch on the monitor first, the computer **won't come** on.", "note": "a logical consequence" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask what your prediction rests on: something you can see right now points to be going to; your own experience or judgement points to will."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Have you seen Nadia recently? She ___ another baby.",
+      "options": ["'s going to have", "'ll have", "has"],
+      "answer": 0,
+      "explanation": "A prediction based on present evidence - you can see it - so be going to."
+    },
+    {
+      "type": "true_false",
+      "statement": "The method is quite simple, and I'm sure it will be familiar to most of you already.",
+      "answer": true,
+      "explanation": "Correct. A prediction based on your own opinion or experience, and I'm sure goes naturally with will."
+    },
+    {
+      "type": "true_false",
+      "statement": "Are these new skis yours? Will you take up skiing?",
+      "answer": false,
+      "explanation": "Are you going to take up skiing? The new skis are present evidence, so be going to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jamie says he ___ a politician when he grows up - and he's only five years old!",
+      "options": ["'s going to be", "'ll be", "is"],
+      "answer": 0,
+      "explanation": "Jamie has already made his decision, so be going to."
+    },
+    {
+      "type": "true_false",
+      "statement": "I hear you'll sell your car. How much do you want for it?",
+      "answer": false,
+      "explanation": "I hear you're going to sell your car. Selling it is a decision already made."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the reply.",
+      "pairs": [
+        { "left": "*A:* What's the matter with Paula?", "right": "*B:* She says she's going to be sick." },
+        { "left": "*A:* What are those bricks for?", "right": "*B:* I'm going to build a wall at the side of the garden." },
+        { "left": "*A:* Shall I give Ian another ring?", "right": "*B:* Yes, I expect he'll be home by now." },
+        { "left": "*A:* Did you get the theatre tickets?", "right": "*B:* No, I forgot all about them. I'll book them tomorrow." },
+        { "left": "*A:* When will you tell your boss you're leaving?", "right": "*B:* I'm not sure. Perhaps I'll try to see him later today." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you want to help us, we ___ these trees at the bottom of the garden.",
+      "hint": "(plant)",
+      "answers": ["'re going to plant", "are going to plant"],
+      "explanation": "The planting does not depend on the if-clause - it is happening anyway - so be going to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If I give you the money, ___ me some oranges when you're out?",
+      "hint": "(you / buy) - a request",
+      "answers": ["will you buy"],
+      "explanation": "Requests take will, not be going to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you listen carefully, you ___ an owl in the trees over there.",
+      "hint": "(hear)",
+      "answers": ["'ll hear", "will hear"],
+      "explanation": "This is about ability - you'll be able to hear it - so will."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Announce formally, in a programme note, when the meeting starts and when refreshments are available.",
+      "words": ["The meeting", "will begin", "at 9 am.", "Refreshments", "will be available", "from 8:30 onwards."],
+      "answer": "The meeting will begin at 9 am. Refreshments will be available from 8:30 onwards.",
+      "explanation": "In a formal style, arrangements settled in detail take will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's been told that if he's late once more he ___.",
+      "hint": "(sack) - passive",
+      "answers": ["'ll be sacked", "will be sacked", "'s going to be sacked", "is going to be sacked"],
+      "explanation": "Something negative conditional on something else: either will or be going to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form does each sentence need? (... marks the gap.)",
+      "categories": ["will", "be going to"],
+      "items": [
+        { "text": "Why not come over at the weekend? The children ... enjoy seeing you again.", "category": 0 },
+        { "text": "The sky's gone really dark. There ... be a storm.", "category": 1 },
+        { "text": "*A:* Pineapples are on special offer this week. *B:* In that case, I ... buy two.", "category": 0 },
+        { "text": "When I've saved up enough money, I ... buy a smartphone.", "category": 1 },
+        { "text": "*A:* Shall I ask Lamar? *B:* No, she ... not want to be disturbed.", "category": 0 },
+        { "text": "It looks like she ... faint.", "category": 1 }
+      ]
+    }
+  ]
+}

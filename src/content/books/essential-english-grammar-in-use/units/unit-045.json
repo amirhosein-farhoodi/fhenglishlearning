@@ -1,0 +1,180 @@
+{
+  "number": 45,
+  "title": "Who saw you? Who did you see? (questions 2)",
+  "subtitle": "who/what as subject or object",
+  "summary": "Ask questions with who and what, and know when to use did and when to leave it out.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Silvia saw Paul",
+      "text": "Silvia is standing behind a wall. Paul walks past. He does not see her, but she sees him. So: *Silvia saw Paul.* Now we can ask two different questions about the same sentence.",
+      "examples": [
+        { "text": "**Who saw** Paul? - Silvia. (Silvia saw him.)" },
+        { "text": "**Who did** Silvia **see**? - Paul. (She saw Paul.)" }
+      ],
+      "note": "In the first question **who** is the *subject*. In the second question **who** is the *object*."
+    },
+    {
+      "type": "table",
+      "heading": "Two kinds of question",
+      "columns": ["Sentence", "Question", "Answer"],
+      "rows": [
+        ["**Somebody** saw Paul.", "**Who** saw Paul?", "Silvia. (who = subject)"],
+        ["Silvia saw **somebody**.", "**Who did** Silvia see?", "Paul. (who = object)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "who/what as the subject",
+      "text": "When **who** or **what** is the person or thing that does the action, we do not use *do/does/did*. The verb comes straight after who/what.",
+      "examples": [
+        { "text": "**Who lives** in this house?", "wrong": "Who does live in this house?" },
+        { "text": "**What happened**?", "wrong": "What did happen?" },
+        { "text": "**What's happening**?", "note": "What's = What is" },
+        { "text": "**Who's got** my key?", "note": "Who's = Who has" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "who/what as the object",
+      "text": "When the sentence already has a subject (*you*, *Paul*, *Silvia* ...), we make a normal question: who/what + do/does/did or is/was + subject + verb.",
+      "examples": [
+        { "text": "**Who did you** meet yesterday?", "note": "you met somebody - who?" },
+        { "text": "**What did Paul** say?", "note": "Paul said something - what?" },
+        { "text": "**Who are you** phoning?" },
+        { "text": "**What was Silvia** wearing?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Compare the two",
+      "left": {
+        "label": "who/what = subject (no did)",
+        "text": "The question asks about the person or thing that does the action.",
+        "examples": [
+          "**Who likes** oranges? - George.",
+          "**Who won** a new car? - Jane."
+        ]
+      },
+      "right": {
+        "label": "who/what = object (with did)",
+        "text": "The question asks about the person or thing after the verb.",
+        "examples": [
+          "**What does** George **like**? - Oranges.",
+          "**What did** Jane **win**? - A new car."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "who or what?",
+      "text": "Use **who** for people. Use **what** for things and ideas.",
+      "examples": [
+        { "text": "**Who** is your favourite singer?" },
+        { "text": "**What** is your favourite song?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say the sentence with *somebody* or *something* first. If that word is the subject, use who/what with no did."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody broke the window. -> ___ broke the window?",
+      "hint": "(who / what)",
+      "answers": ["Who"],
+      "explanation": "A person did it, so we ask Who. Who is the subject, so there is no did."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Something fell off the shelf. -> What ___ off the shelf?",
+      "hint": "(fall)",
+      "answers": ["fell"],
+      "explanation": "What is the subject here: What fell off the shelf?, not What did fall."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Something happened last night. Which question is correct?",
+      "options": ["What happened last night?", "What did happen last night?", "What did happened last night?"],
+      "answer": 0,
+      "explanation": "What is the subject, so we use the past simple with no did."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the question that asks for the missing information.",
+      "pairs": [
+        { "left": "I phoned somebody.", "right": "Who did you phone?" },
+        { "left": "Somebody knows the answer.", "right": "Who knows the answer?" },
+        { "left": "Something woke me up.", "right": "What woke you up?" },
+        { "left": "Jane did something.", "right": "What did Jane do?" },
+        { "left": "Somebody saw the accident.", "right": "Who saw the accident?" },
+        { "left": "I saw somebody.", "right": "Who did you see?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody is coming. -> ___ coming?",
+      "hint": "(who)",
+      "answers": ["Who is", "Who's"],
+      "explanation": "Who is the subject: Who is coming? (Who's coming?)"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody took my umbrella. -> Who ___ your umbrella?",
+      "hint": "(take)",
+      "answers": ["took"],
+      "explanation": "Who is the subject, so the verb is the past simple took, with no did."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In these questions, is who/what the subject or the object?",
+      "categories": ["subject (no did)", "object (with did/does/was)"],
+      "items": [
+        { "text": "Who lives in this house?", "category": 0 },
+        { "text": "What happened?", "category": 0 },
+        { "text": "Who saw the accident?", "category": 0 },
+        { "text": "Who did you phone?", "category": 1 },
+        { "text": "What did Jane do?", "category": 1 },
+        { "text": "What was Silvia wearing?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "This word means something. Make a question with these words.",
+      "words": ["What", "does", "this", "word", "mean?"],
+      "answer": "What does this word mean?",
+      "explanation": "The subject is this word, so what is the object and we need does."
+    },
+    {
+      "type": "true_false",
+      "statement": "Who did the washing-up?",
+      "answer": true,
+      "explanation": "Correct. Here who is the subject and did is the main verb (do the washing-up)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It was your birthday and somebody gave you a book. Make a question with these words.",
+      "words": ["Who", "gave", "you", "the", "book?"],
+      "answer": "Who gave you the book?",
+      "alternatives": ["Who gave you a book?"],
+      "explanation": "Who is the subject, so we say gave, not did give."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Somebody has got my pen. Which question is correct?",
+      "options": ["Who has got my pen?", "Who does have got my pen?", "Who my pen has got?"],
+      "answer": 0,
+      "explanation": "Who is the subject: Who has got my pen? (Who's got my pen?)"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Somebody phoned me last night. She wanted something. *B:* Who phoned you? What ___?",
+      "hint": "(she / want)",
+      "answers": ["did she want"],
+      "explanation": "She is the subject, so what is the object: What did she want?"
+    }
+  ]
+}

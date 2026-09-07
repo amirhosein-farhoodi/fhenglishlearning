@@ -1,0 +1,163 @@
+{
+  "number": 88,
+  "title": "older than ... more expensive than ...",
+  "subtitle": "than me / than I am",
+  "summary": "Use than after a comparative to compare two people or two things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "than after a comparative",
+      "text": "A woman and a man are standing together. The woman says 'I'm taller than you.' So she's **taller than** him. A hotel list shows the Europa at 140 pounds a night and the Grand at 130 pounds. The Europa Hotel is **more expensive than** the Grand. We use **than** after a comparative.",
+      "examples": [
+        { "text": "Athens is **older than** Rome." },
+        { "text": "Are oranges **more expensive than** bananas?" },
+        { "text": "It's **easier** to take a taxi **than** to take the bus." },
+        { "text": "'How are you today?' 'Not bad. **Better than** yesterday.'" },
+        { "text": "The restaurant is **more crowded than** usual." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "than me / than I am",
+      "columns": ["We usually say", "You can also say"],
+      "rows": [
+        ["I can run faster than **him**.", "I can run faster than **he can**."],
+        ["You are a better singer than **me**.", "You are a better singer than **I am**."],
+        ["I got up earlier than **her**.", "I got up earlier than **she did**."]
+      ],
+      "note": "After **than** we use *me / him / her / us / them*, not *I / he / she*."
+    },
+    {
+      "type": "explain",
+      "heading": "more than / less than",
+      "text": "We also use **than** after **more** and **less**. **more than 50** means 51, 60, 80 ... **less than 50** means 49, 40, 20 ...",
+      "examples": [
+        { "text": "*A:* How much did your shoes cost? Fifty pounds? *B:* No, **more than** that." },
+        { "text": "The film was very short - **less than** an hour." },
+        { "text": "They've got **more money than** they need." },
+        { "text": "You go out **more than** me." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a bit older / much older",
+      "text": "Box A is only a little bigger than Box B, so Box A is **a bit bigger** than Box B. Box C is very much bigger than the small Box D, so Box C is **much bigger** than Box D.",
+      "examples": [
+        { "text": "Canada is **much bigger than** France." },
+        { "text": "Sue is **a bit older than** Gary - she's 25 and he's 24." },
+        { "text": "The hotel was **much more expensive than** I expected." },
+        { "text": "You go out **much more than** me." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "a bit / much + comparative",
+      "columns": ["a bit / much", "comparative + than"],
+      "rows": [
+        ["a bit", "bigger than ..."],
+        ["a bit", "older than ..."],
+        ["much", "better than ..."],
+        ["much", "more difficult than ..."],
+        ["much", "more expensive than ..."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After a comparative we use **than**, not *as*: *Athens is older than Rome*, not ~~older as Rome~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Liz is 26 and Ben is 24. Liz is ___ Ben.",
+      "hint": "(old)",
+      "answers": ["older than"],
+      "explanation": "Comparative + than: older than."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz is 1 metre 68 tall. Ben is 1 metre 63. Liz is ___ Ben.",
+      "hint": "(tall)",
+      "answers": ["taller than"],
+      "explanation": "tall is a short word: taller than."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz starts work at 8 o'clock. Ben starts work at 8.30. Liz starts work ___ Ben.",
+      "hint": "(early)",
+      "answers": ["earlier than"],
+      "explanation": "early ends in -y, so the comparative is earlier."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz doesn't work very hard. Ben works very hard. Ben works ___ Liz.",
+      "hint": "(hard)",
+      "answers": ["harder than"],
+      "explanation": "hard is an adverb here: harder than."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ben is very patient. Liz isn't very patient. Which sentence is right?",
+      "options": [
+        "Ben is patienter than Liz.",
+        "Ben is more patient than Liz.",
+        "Ben is more patient as Liz."
+      ],
+      "answer": 1,
+      "explanation": "patient is a long word (more patient) and we use than after the comparative."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the sentence about you.",
+      "pairs": [
+        { "left": "He isn't very tall.", "right": "You're taller than him." },
+        { "left": "She isn't very old.", "right": "You're older than her." },
+        { "left": "I'm not a very good cook.", "right": "You're a better cook than me." },
+        { "left": "I can't run very fast.", "right": "You can run faster than me." },
+        { "left": "They didn't get up very early.", "right": "You got up earlier than them." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ben has got a lot of money. Liz hasn't got much money. Ben has got ___ Liz.",
+      "hint": "(more money)",
+      "answers": ["more money than"],
+      "explanation": "more + noun + than: more money than."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The film was very short - ___ an hour.",
+      "options": ["less than", "less as", "less of"],
+      "answer": 0,
+      "explanation": "We say less than for a smaller number or amount."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emma is 25. Gary is 24 and a half. Emma is ___ than Gary.",
+      "hint": "(a bit / old)",
+      "answers": ["a bit older"],
+      "explanation": "The difference is small, so we say a bit older."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack's mother is 52. His father is 69. Jack's mother is ___ than his father.",
+      "hint": "(much / young)",
+      "answers": ["much younger"],
+      "explanation": "The difference is big, so we say much younger."
+    },
+    {
+      "type": "true_false",
+      "statement": "Canada is much bigger as France.",
+      "answer": false,
+      "explanation": "Canada is much bigger than France. After a comparative we use than, not as."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You paid a lot of money for the hotel. Put the sentence in order.",
+      "words": ["The hotel", "was", "much", "more expensive", "than", "I expected."],
+      "answer": "The hotel was much more expensive than I expected.",
+      "explanation": "much + comparative + than."
+    }
+  ]
+}

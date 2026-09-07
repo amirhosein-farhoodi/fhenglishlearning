@@ -1,0 +1,167 @@
+{
+  "number": 54,
+  "title": "Other relative words: whose, when, whereby, etc.",
+  "subtitle": "an architect whose designs / a system whereby",
+  "summary": "Add information with whose, when, whereby, where and why, and use nominal relative clauses with what, whatever, whoever and whichever.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "whose + noun",
+      "text": "We use whose + noun, particularly in written English, when we talk about something belonging to or associated with a person, animal or plant. whose works in both defining and non-defining clauses.",
+      "examples": [
+        { "text": "Stevenson is an architect **whose** designs have won international praise." },
+        { "text": "Suzy was taking care of a dog **whose** ears were badly damaged in a fight with a cat." },
+        { "text": "Children **whose** diets contain high levels of protein do better in examinations." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whose and things",
+      "text": "We generally avoid whose for something belonging to a thing, and use its in a separate clause instead. But whose is used with towns, countries and organisations, and in academic writing for a much wider range of 'belonging to' relationships.",
+      "examples": [
+        { "text": "I received a letter, and **its** poor spelling made me think it was written by a child.", "note": "more natural than ... a letter, whose poor spelling ..." },
+        { "text": "The film was made in Botswana, **whose** wildlife parks are larger than those in Kenya." },
+        { "text": "We need to learn from companies **whose** trading is healthier than our own." },
+        { "text": "Students have to solve problems **whose** solutions require a knowledge of calculus.", "note": "academic style" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "when, whereby, where",
+      "text": "Clauses can begin with when (time), whereby (method or means, mainly formal), and where (location). In formal English a phrase with preposition + which is often possible instead.",
+      "examples": [
+        { "text": "The camera records the time **when** the photo is taken.", "note": "or ... the time at which ..." },
+        { "text": "Do you know the date **when** we have to hand in the essay?", "note": "or ... the date on / by which ..." },
+        { "text": "We need to develop a system **whereby** workers and management can communicate more effectively.", "note": "or ... the system in / by which workers ..." },
+        { "text": "This was the place **where** we first met.", "note": "or ... the place at / in which we ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "where beyond location; the reason why",
+      "text": "In academic English where also follows words such as case, condition, example, situation and system, even though no place is involved. After reason we can use why, that, or nothing at all.",
+      "examples": [
+        { "text": "Later in this chapter we will introduce cases **where** consumer complaints have resulted in changes in the law.", "note": "more formally ... cases in which ..." },
+        { "text": "Hypoglycaemia is a condition **where** the level of sugar in the blood drops suddenly." },
+        { "text": "I didn't get a pay rise, but this wasn't the reason **why** I left.", "note": "or ... the reason (that) I left." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Nominal relative clauses: who and what",
+      "text": "Some clauses beginning with a wh-word act like a noun phrase in the sentence. These are called nominal relative clauses. Note that what cannot follow a noun.",
+      "examples": [
+        { "text": "Can you give me a list of **who's** been invited?", "note": "= the people who have been invited" },
+        { "text": "I didn't know **what** I should do next.", "note": "= the thing that I should do next" },
+        { "text": "I managed to get all the books **that** you asked for.", "wrong": "all the books what you asked for" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whatever, whoever, whichever",
+      "text": "Use whatever (= anything, or it doesn't matter what), whoever (= the person or group who, any person who) and whichever (= one from a limited number) for things or people that are indefinite or unknown.",
+      "examples": [
+        { "text": "I'm sure I'll enjoy eating **whatever** you cook." },
+        { "text": "**Whoever** wins will go on to play Barcelona in the final." },
+        { "text": "**Whichever** one of you broke the window will have to pay for it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "whichever needs a limited set to choose from; when the range is open, whatever or whoever is the word you want."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Stevenson is an architect ___ designs have won international praise.",
+      "hint": "(relative word)",
+      "answers": ["whose"],
+      "explanation": "whose + noun links the designs to the person they belong to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I received a letter, and ___ poor spelling made me think it was written by a child.",
+      "hint": "(whose / its)",
+      "answers": ["its"],
+      "explanation": "For a thing we normally avoid whose and use its in a clause of its own."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with its ending to make sentences with whose.",
+      "pairs": [
+        { "left": "Dr Rowan, whose secretary resigned two weeks ago,", "right": "has had to do all her own typing." },
+        { "left": "The newspaper is owned by the Mears group,", "right": "whose chairperson is Miss Jiu Kim." },
+        { "left": "Parents whose children are between four and six", "right": "are being asked to take part in the survey." },
+        { "left": "Children whose diets contain high levels of protein", "right": "do better in examinations." },
+        { "left": "I enjoy growing plants", "right": "whose flowers are attractive to bees." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which relative word does each gap need?",
+      "categories": ["when", "whereby", "where"],
+      "items": [
+        { "text": "Sunset is defined in astronomy as the moment ___ the whole of the sun's disc disappears below the horizon.", "category": 0 },
+        { "text": "In 1951, China and the Soviet Union signed an agreement ___ China provided uranium ore in exchange for technical assistance.", "category": 1 },
+        { "text": "The coastline is the area ___ the land meets the sea or ocean.", "category": 2 },
+        { "text": "Freeze-drying is a method ___ water is rapidly evaporated from frozen food in order to preserve it.", "category": 1 },
+        { "text": "Hypoglycaemia is a condition ___ the level of sugar in the blood drops suddenly.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The river is prone to sudden flooding, which is the reason ___ there are no major towns along its banks.",
+      "hint": "(relative word)",
+      "answers": ["why", "that"],
+      "explanation": "After reason we use why, that, or no relative word at all."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I think ___ was responsible for damaging the trees should be fined or sent to prison.",
+      "options": ["whoever", "whatever", "whichever"],
+      "answer": 0,
+      "explanation": "The culprit is a person, so whoever (= any person who)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't envy whoever buys that house. It's in a terrible condition.",
+      "answer": true,
+      "explanation": "Correct. whoever = the person who, and we don't know who that will be."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do they really understand that they are doing?",
+      "answer": false,
+      "explanation": "Do they really understand what they are doing? The nominal relative clause needs what (= the thing that)."
+    },
+    {
+      "type": "true_false",
+      "statement": "The clock makes a noise what keeps me awake at night.",
+      "answer": false,
+      "explanation": "The clock makes a noise that keeps me awake at night. what cannot follow a noun."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Now that I no longer have to wear a school uniform, I'll be able to wear ___ I want.",
+      "options": ["whatever", "which", "whichever"],
+      "answer": 0,
+      "explanation": "The choice is open, not from a limited set, so whatever (or what)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sure that Rashid will do well at university, ___ one he goes to.",
+      "hint": "(which)",
+      "answers": ["whichever", "whatever"],
+      "explanation": "whichever picks one out of a limited number of universities; whatever is also possible."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Define a furnace using in which.",
+      "words": ["A furnace", "is a container", "in which", "things are", "melted or burnt."],
+      "answer": "A furnace is a container in which things are melted or burnt.",
+      "explanation": "preposition + which is the formal alternative to a clause with where."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "number": 65,
+  "title": "a/an ...",
+  "subtitle": "a bank / an apple / He's a dentist",
+  "summary": "Use a before a consonant sound and an before a vowel sound, and use a/an to say what a thing or a person is.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "a ... = one thing or person",
+      "text": "A man has a camera round his neck: he's got **a** camera. A woman stands at the taxi stop with her bag: she's waiting for **a** taxi. Another woman looks out of the window at the sun and the flowers: it's **a** beautiful day.",
+      "examples": [
+        { "text": "Rachel works in **a bank**.", "wrong": "in bank" },
+        { "text": "Can I ask **a question**?", "wrong": "ask question" },
+        { "text": "I haven't got **a computer**." },
+        { "text": "There's **a woman** at the bus stop." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "an before a, e, i, o, u",
+      "text": "We use **an** (not *a*) before a word that begins with the sound a, e, i, o or u.",
+      "examples": [
+        { "text": "Do you want **an** apple or **a** banana?" },
+        { "text": "I'm going to buy **a** hat and **an** umbrella." },
+        { "text": "There was **an** interesting programme on TV last night." }
+      ],
+      "note": "**another** (= an + other) is one word: *Can I have another cup of coffee?*"
+    },
+    {
+      "type": "table",
+      "heading": "Listen to the sound, not the letter",
+      "columns": ["a + consonant sound", "an + vowel sound"],
+      "rows": [
+        ["a hat", "an umbrella"],
+        ["a bank", "an apple"],
+        ["a university (we say yuniversity)", "an hour (we do not say the h)"],
+        ["a European country (we say yuropean)", "an interesting film"]
+      ],
+      "note": "*a university* but *an hour*: the sound is more important than the letter."
+    },
+    {
+      "type": "explain",
+      "heading": "Saying what a thing is",
+      "text": "We use **a/an** when we say what a thing or a person is.",
+      "examples": [
+        { "text": "The sun is **a star**." },
+        { "text": "Football is **a game**." },
+        { "text": "Dallas is **a city** in Texas." },
+        { "text": "A mouse is **an animal**. It's **a small animal**." },
+        { "text": "Joe is **a very nice person**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Jobs",
+      "text": "We also use **a/an** for jobs. Never leave it out.",
+      "examples": [
+        { "text": "*A:* What's your job? *B:* I'm **a dentist**.", "wrong": "I'm dentist" },
+        { "text": "'What does Mark do?' 'He's **an engineer**.'" },
+        { "text": "Would you like to be **a teacher**?" },
+        { "text": "Beethoven was **a composer**." },
+        { "text": "Picasso was **a famous painter**." },
+        { "text": "Are you **a student**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "With a job you always need *a* or *an*: *She's a nurse*, not ~~She's nurse~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ window",
+      "hint": "(a / an)",
+      "answers": ["a"],
+      "explanation": "window begins with a consonant sound, so we use a."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you want ___ apple or a banana?",
+      "options": ["an", "a", "the"],
+      "answer": 0,
+      "explanation": "apple begins with a vowel sound, so we use an."
+    },
+    {
+      "type": "matching",
+      "prompt": "What are these things? Match each one with its group.",
+      "pairs": [
+        { "left": "A carrot", "right": "a vegetable" },
+        { "left": "Tennis", "right": "a game" },
+        { "left": "A hammer", "right": "a tool" },
+        { "left": "Everest", "right": "a mountain" },
+        { "left": "Saturn", "right": "a planet" },
+        { "left": "The Amazon", "right": "a river" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words take a, and which words take an?",
+      "categories": ["a", "an"],
+      "items": [
+        { "text": "horse", "category": 0 },
+        { "text": "new airport", "category": 0 },
+        { "text": "university", "category": 0 },
+        { "text": "old book", "category": 1 },
+        { "text": "airport", "category": 1 },
+        { "text": "organisation", "category": 1 },
+        { "text": "hour", "category": 1 },
+        { "text": "economic problem", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A banana is ___.",
+      "hint": "(fruit)",
+      "answers": ["a fruit"],
+      "explanation": "We use a/an when we say what a thing is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She stands at a big desk and draws plans for new buildings. She's ___.",
+      "hint": "(architect)",
+      "answers": ["an architect"],
+      "explanation": "architect begins with a vowel sound, so we use an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He sits at the wheel of a black taxi all day. He's ___.",
+      "hint": "(taxi driver)",
+      "answers": ["a taxi driver"],
+      "explanation": "For jobs we always use a or an."
+    },
+    {
+      "type": "true_false",
+      "statement": "Rachel works in bank.",
+      "answer": false,
+      "explanation": "Rachel works in a bank. bank is one thing, so it needs a."
+    },
+    {
+      "type": "true_false",
+      "statement": "The sun is a star.",
+      "answer": true,
+      "explanation": "We use a/an when we say what a thing is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I waited for ___ hour.",
+      "hint": "(a / an)",
+      "answers": ["an"],
+      "explanation": "We do not pronounce the h in hour, so the word begins with a vowel sound: an hour."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister studies at ___ university.",
+      "hint": "(a / an)",
+      "answers": ["a"],
+      "explanation": "We say yuniversity, so the sound is a consonant sound: a university."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Jane", "wants", "to learn", "a", "foreign", "language."],
+      "answer": "Jane wants to learn a foreign language.",
+      "explanation": "foreign begins with a consonant sound, so we use a."
+    }
+  ]
+}

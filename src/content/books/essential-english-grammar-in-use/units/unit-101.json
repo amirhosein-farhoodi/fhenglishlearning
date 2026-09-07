@@ -1,0 +1,166 @@
+{
+  "number": 101,
+  "title": "a person who ... a thing that/which ... (relative clauses 1)",
+  "subtitle": "a woman who can speak six languages",
+  "summary": "Join two sentences into one with who for people and that or which for things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "she -> who",
+      "text": "At a restaurant a woman tells you: 'I can speak six languages.' Later you talk about her. You can say two sentences: *I met a woman. **She** can speak six languages.* Or you can make one sentence: **she** becomes **who**.",
+      "examples": [
+        { "text": "I met a woman. **She** can speak six languages.", "note": "two sentences" },
+        { "text": "I met **a woman who** can speak six languages.", "note": "one sentence" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it -> that or which",
+      "text": "Jack is wearing a very big hat. It comes down over his eyes. We say: *Jack was wearing a hat. **It** was too big for him.* In one sentence, **it** becomes **that** or **which**.",
+      "examples": [
+        { "text": "Jack was wearing **a hat that** was too big for him." },
+        { "text": "Jack was wearing **a hat which** was too big for him." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "who, that or which?",
+      "columns": ["Word", "Use it for", "Example"],
+      "rows": [
+        ["who", "people", "A thief is a person **who** steals things."],
+        ["that", "things or people", "An aeroplane is a machine **that** flies."],
+        ["which", "things (not people)", "Emma lives in a house **which** is 400 years old."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "who is for people",
+      "text": "Use **who** after a person, a friend, the man, the people, somebody, anybody, everybody. Do not use **who** for things.",
+      "examples": [
+        { "text": "A thief is a person **who** steals things." },
+        { "text": "Do you know anybody **who** can play the piano?" },
+        { "text": "The man **who** phoned didn't give his name." },
+        { "text": "The people **who** work in the office are very friendly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "that is for things or people",
+      "text": "**that** is possible for things and for people. For people, **who** is more usual.",
+      "examples": [
+        { "text": "An aeroplane is a machine **that** flies." },
+        { "text": "Emma lives in a house **that** is 400 years old." },
+        { "text": "The people **that** work in the office are very friendly.", "note": "who is more usual here" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "which is for things",
+      "text": "**which** is for things only. Never use **which** for people.",
+      "examples": [
+        { "text": "An aeroplane is a machine **which** flies.", "wrong": "a machine who" },
+        { "text": "Emma lives in a house **which** is 400 years old." },
+        { "text": "Do you remember the woman **who** was playing the piano at the party?", "wrong": "the woman which" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "People take who or that. Things take which or that. Never say ~~a machine who~~ or ~~a person which~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A thief is a person ___ steals things.",
+      "hint": "(who / which)",
+      "answers": ["who", "that"],
+      "explanation": "A person is a people word, so we use who (or that)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An aeroplane is a machine ___ flies.",
+      "options": ["which", "who", "whose"],
+      "answer": 0,
+      "explanation": "A machine is a thing, so we use which or that - never who."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each person with what they do: A ... is a person who ... .",
+      "pairs": [
+        { "left": "a butcher", "right": "sells meat" },
+        { "left": "a musician", "right": "plays a musical instrument" },
+        { "left": "a patient", "right": "is ill in hospital" },
+        { "left": "a dentist", "right": "takes care of your teeth" },
+        { "left": "a genius", "right": "is very intelligent" },
+        { "left": "a liar", "right": "doesn't tell the truth" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I know somebody who works in that shop.",
+      "answer": true,
+      "explanation": "Correct. somebody is a person, so who is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the name of the river ___ flows through the town?",
+      "hint": "(who / which)",
+      "answers": ["which", "that"],
+      "explanation": "A river is a thing, so we use which (or that)."
+    },
+    {
+      "type": "true_false",
+      "statement": "A coffee maker is a machine who makes coffee.",
+      "answer": false,
+      "explanation": "A coffee maker is a machine that makes coffee. We do not use who for things."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A man phoned. He didn't give his name. Make one sentence.",
+      "words": ["The", "man", "who", "phoned", "didn't", "give", "his", "name."],
+      "answer": "The man who phoned didn't give his name.",
+      "explanation": "he becomes who, and who goes straight after the man."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman opened the door. She was wearing a yellow dress. The woman ___ the door was wearing a yellow dress.",
+      "hint": "(who / open)",
+      "answers": ["who opened"],
+      "explanation": "she becomes who, and the verb stays in the past: who opened."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need who or which?",
+      "categories": ["who", "which"],
+      "items": [
+        { "text": "the man ... has just started work in your office", "category": 0 },
+        { "text": "the river ... flows through the town", "category": 1 },
+        { "text": "anybody ... wants to buy a car", "category": 0 },
+        { "text": "questions ... are difficult to answer", "category": 1 },
+        { "text": "a friend ... is very good at repairing cars", "category": 0 },
+        { "text": "clothes ... are too small for him", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "My neighbour bought a car who cost £40,000.",
+      "answer": false,
+      "explanation": "My neighbour bought a car that cost £40,000. A car is a thing, so we use that or which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some students took the exam. Most of them passed. Most of the students ___ the exam passed.",
+      "hint": "(who / take)",
+      "answers": ["who took"],
+      "explanation": "The students are people, so we use who, and the verb is past: who took."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A policeman stopped our car. He wasn't very friendly. Make one sentence.",
+      "words": ["The", "policeman", "who", "stopped", "our car", "wasn't", "very friendly."],
+      "answer": "The policeman who stopped our car wasn't very friendly.",
+      "explanation": "he becomes who, and the who-part comes straight after the policeman."
+    }
+  ]
+}

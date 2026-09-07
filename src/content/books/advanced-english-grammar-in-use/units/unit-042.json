@@ -1,0 +1,183 @@
+{
+  "number": 42,
+  "title": "Agreement between subject and verb 3",
+  "subtitle": "the news is / the criteria are",
+  "summary": "Get the verb right after nouns that only look plural (news, politics, data) and after measurements, percentages and fractions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Nouns that are usually plural",
+      "text": "Some nouns are normally plural and take a plural verb: **belongings, clothes, congratulations, earnings, goods, outskirts, overheads, particulars** (= information), **premises** (= building), **riches, savings, stairs, surroundings, thanks**.",
+      "examples": [
+        { "text": "The company's earnings **have** increased for the last five years." },
+        { "text": "The coastal surroundings of the village **are** particularly attractive.", "wrong": "is particularly attractive" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "police, people, staff, whereabouts",
+      "text": "**Police** and **people** always take a plural verb, and **staff** usually does. **Whereabouts** can go with either a singular or a plural verb.",
+      "examples": [
+        { "text": "Police **believe** that Thomas is in Brazil, although his exact whereabouts **are** / **is** unknown." },
+        { "text": "Staff **say** that the new computer system has led to greater levels of stress in their work." },
+        { "text": "People **say** the house is haunted.", "wrong": "People says" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "data and media, but criteria and phenomena",
+      "text": "**Data** and **media** (= newspapers, television, etc.) are plural forms (singular *datum, medium*) but are commonly used with a singular verb; in formal contexts such as academic writing a plural verb is preferred. **Criteria** and **phenomena** (singular *criterion, phenomenon*), however, are always plural.",
+      "examples": [
+        { "text": "All the data **is** available for public inspection.", "note": "or ... are available ... in formal writing" },
+        { "text": "I agree that the criteria **are** not of equal importance.", "wrong": "the criteria is not" },
+        { "text": "Phenomena such as sun spots **have** puzzled scientists for centuries." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Uncountable nouns ending in -s",
+      "text": "Some uncountable nouns always end in *-s* and look plural, but as the subject they take a singular verb: **news; means** (= method or money); **economics, linguistics, mathematics, phonetics, physics, politics, statistics, athletics, gymnastics, diabetes, measles, rabies**.",
+      "examples": [
+        { "text": "The news from the Middle East **seems** very encouraging." },
+        { "text": "Measles **has** killed a large number of children in the Nagola region." },
+        { "text": "Contact us by whatever means **is** most convenient for you: phone, email or fax." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The academic subject or the everyday meaning?",
+      "left": {
+        "label": "Academic subject - singular verb",
+        "examples": [
+          "Politics **is** popular at this university.",
+          "Statistics **was** always my worst subject.",
+          "Economics **has** only recently been recognised as a scientific study."
+        ]
+      },
+      "right": {
+        "label": "General use - plural verb",
+        "examples": [
+          "Her politics **are** bordering on the fascist.",
+          "Statistics **are** able to prove anything you want them to.",
+          "The economics behind their policies **are** unreasonable."
+        ]
+      },
+      "note": "politics = political beliefs; statistics = numerical information; economics = the financial system."
+    },
+    {
+      "type": "explain",
+      "heading": "Measurements, amounts and quantities",
+      "text": "With a phrase referring to a measurement, amount or quantity we usually prefer a singular verb - and a singular verb **must** be used when the complement is a singular noun phrase such as *a long time*.",
+      "examples": [
+        { "text": "Only three metres **separates** the runners in first and second places.", "note": "rather than ... separate ..." },
+        { "text": "Three hours **seems** a long time to take on the homework.", "wrong": "Three hours seem" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Percentages and fractions",
+      "text": "When the first noun in a complex subject is a percentage or a fraction, the verb agrees with the noun **closest** to it. And where the noun can be thought of either as one unit or as a collection of individuals, either verb is possible.",
+      "examples": [
+        { "text": "An inflation rate of only 2% **makes** a difference to exports.", "note": "the verb agrees with the main noun, rate" },
+        { "text": "About 50% / half of the houses **need** major repairs.", "note": "the verb agrees with the closest noun, houses" },
+        { "text": "Some 80% of the electorate **is** expected to vote.", "note": "or ... are expected ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "An *-s* on the end is no proof of a plural: ask what the word means. If *statistics* means the subject you studied, it *is*; if it means the figures, they *are*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Over the last decade the company's overheads ___ increased dramatically.",
+      "options": ["have", "has", "is"],
+      "answer": 0,
+      "explanation": "overheads is one of the nouns that are normally plural, so the verb is plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "Phenomena such as sun spots have puzzled scientists for centuries.",
+      "answer": true,
+      "explanation": "Correct. phenomena (singular phenomenon) always takes a plural verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Modern linguistics ___ often said to have begun at the start of the 20th century.",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "linguistics is an uncountable noun ending in -s, so the verb is singular."
+    },
+    {
+      "type": "true_false",
+      "statement": "Congratulations goes to Ricky Branch for his excellent exam results.",
+      "answer": false,
+      "explanation": "Congratulations go to Ricky Branch for his excellent exam results. congratulations is always plural."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each subject take a singular or a plural verb?",
+      "categories": ["Singular verb", "Plural verb"],
+      "items": [
+        { "text": "The news from the Middle East ...", "category": 0 },
+        { "text": "The criteria used by the panel ...", "category": 1 },
+        { "text": "Politics (= the university subject) ...", "category": 0 },
+        { "text": "Her politics (= her political beliefs) ...", "category": 1 },
+        { "text": "Measles ...", "category": 0 },
+        { "text": "The company's earnings ...", "category": 1 },
+        { "text": "Further particulars about the house ...", "category": 1 },
+        { "text": "Police ...", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think the Senator's politics ___ extremely right-wing.",
+      "hint": "(be)",
+      "answers": ["are"],
+      "explanation": "Here politics means political beliefs, so the verb is plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "The coastal surroundings of the village is particularly attractive.",
+      "answer": false,
+      "explanation": "The coastal surroundings of the village are particularly attractive. surroundings takes a plural verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make one sentence.",
+      "words": ["Contact us", "by whatever means", "is", "most convenient", "for you."],
+      "answer": "Contact us by whatever means is most convenient for you.",
+      "explanation": "means (= method) looks plural but takes a singular verb here."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Three hours ___ a long time to take on the homework.",
+      "options": ["seems", "seem", "are seeming"],
+      "answer": 0,
+      "explanation": "The complement is a singular noun phrase (a long time), so the verb must be singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Only three metres ___ the runners in first and second places.",
+      "hint": "(separate)",
+      "answers": ["separates"],
+      "explanation": "A phrase referring to a measurement usually prefers a singular verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "About 50% of the houses ___ major repairs.",
+      "options": ["need", "needs", "is needing"],
+      "answer": 0,
+      "explanation": "After a percentage the verb agrees with the noun closest to it - here houses."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An inflation rate of only 2% ___ a difference to exports.",
+      "hint": "(make)",
+      "answers": ["makes"],
+      "explanation": "Here the percentage is not the first noun, so the verb agrees with the main noun, rate."
+    }
+  ]
+}

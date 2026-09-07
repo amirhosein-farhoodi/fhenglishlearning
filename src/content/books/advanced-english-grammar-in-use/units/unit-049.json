@@ -1,0 +1,191 @@
+{
+  "number": 49,
+  "title": "No, none (of) and not any",
+  "subtitle": "There's none left.",
+  "summary": "Use no and none (of) as the emphatic alternative to not a / not any, and choose a singular or plural noun after no.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "not any or none?",
+      "left": {
+        "label": "not a / not any - neutral",
+        "examples": [
+          "There **isn't a** train until tomorrow.",
+          "Sorry, there **isn't any** left.",
+          "He **didn't have any** of the usual symptoms."
+        ]
+      },
+      "right": {
+        "label": "no / none (of) - more emphatic",
+        "examples": [
+          "There's **no** train until tomorrow.",
+          "Sorry, there's **none** left.",
+          "He had **none** of the usual symptoms."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Other pairs that work the same way",
+      "text": "Several other negative words come in the same neutral / emphatic pairs.",
+      "examples": [
+        { "text": "There isn't anyone / anybody here. and There's **no one** / **nobody** here." },
+        { "text": "She wasn't anywhere to be seen. and She was **nowhere** to be seen." },
+        { "text": "Why don't you ever call me? and Why do you **never** call me?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not at the start of a clause",
+      "text": "We don't usually use *not a / any, not anyone, not anything* in initial position in a sentence or clause, or straight after **and, but** or **that** at the beginning of a clause. We use **no, none of, no one, nothing** instead.",
+      "examples": [
+        { "text": "**No force** was needed to make them move.", "wrong": "Not any force was needed" },
+        { "text": "Most players are under 16 and **none of them** is over 20.", "wrong": "and not any of them" },
+        { "text": "I'm sure that **nothing** can go wrong.", "wrong": "that not anything can" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not a in a formal or literary style",
+      "text": "In formal or literary writing we *can* use **not a** in initial position, or after *and, but* or *that*.",
+      "examples": [
+        { "text": "**Not a sound** came from the room.", "note": "less formally There wasn't a sound from the room." },
+        { "text": "She kept so quiet that **not a soul** in the house knew she was there." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A singular or plural noun after no?",
+      "text": "After **no** we can often use either, with little difference in meaning; the singular is usually more formal. But we use a **singular** noun where we would expect only one of something, and a **plural** noun where we would expect more than one.",
+      "examples": [
+        { "text": "**No answers** could be found.", "note": "or more formally No answer ..." },
+        { "text": "We want to go to the island but there are **no boats** to take us.", "note": "or more formally ... there is no boat." },
+        { "text": "I phoned Sarah at home, but there was **no answer**.", "wrong": "there were no answers" },
+        { "text": "He seems very lonely at school, and has **no friends**.", "wrong": "no friend" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Extra emphasis",
+      "text": "We can give special emphasis to *no* or *none of* with **no amount of** + uncountable noun, **not one ... / not a single ...** + singular countable noun, and **not one of ...** + plural noun.",
+      "examples": [
+        { "text": "The company is so badly managed that **no amount of** investment will make it successful." },
+        { "text": "**Not one** person remembered my birthday.", "note": "or Not a single person ..." },
+        { "text": "**Not one of** the families affected by the noise wants to move." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Spoken phrases with no",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["No wonder.", "it's not surprising"],
+        ["No idea.", "I don't know"],
+        ["No comment.", "I have nothing to say"],
+        ["No way. / No chance.", "emphatic ways of saying no, or of refusing to believe something"],
+        ["No problem. / No bother.", "it isn't (or wasn't) difficult to do"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Think about how many you would expect: one answer to a phone call, so *there was no answer* - but many friends at school, so *he has no friends*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We left the house as quietly as possible and ___ us.",
+      "hint": "(hear) - nobody",
+      "answers": ["no one heard", "nobody heard"],
+      "explanation": "not anyone cannot follow and at the start of a clause, so we use no one / nobody."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "No force was needed to make them move.",
+        "Not any force was needed to make them move.",
+        "Any force was not needed to make them move."
+      ],
+      "answer": 0,
+      "explanation": "not any is not used in initial position; no takes its place."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each emphatic sentence with its less emphatic version.",
+      "pairs": [
+        { "left": "Sorry, there's none left.", "right": "Sorry, there isn't any left." },
+        { "left": "There's no one here.", "right": "There isn't anyone here." },
+        { "left": "She was nowhere to be seen.", "right": "She wasn't anywhere to be seen." },
+        { "left": "Why do you never call me?", "right": "Why don't you ever call me?" },
+        { "left": "There's no train until tomorrow.", "right": "There isn't a train until tomorrow." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I found that ___ in the city centre had any rooms left.",
+      "hint": "(none of / the hotels)",
+      "answers": ["none of the hotels"],
+      "explanation": "The subject comes first in the clause, so none of is used rather than not any of."
+    },
+    {
+      "type": "true_false",
+      "statement": "I phoned Sarah at home, but there were no answers.",
+      "answer": false,
+      "explanation": "I phoned Sarah at home, but there was no answer. We use a singular noun where we would expect only one of something."
+    },
+    {
+      "type": "true_false",
+      "statement": "He seems very lonely at school, and has no friends.",
+      "answer": true,
+      "explanation": "Correct. We would expect more than one friend, so the plural noun is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had to hire a car because there are no ___ on the island.",
+      "hint": "(train / bus)",
+      "answers": ["trains or buses"],
+      "explanation": "On a whole island we would expect more than one train or bus, so plural nouns."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "And then when I had a puncture, I discovered there ___ either.",
+      "hint": "(be) no spare tyre",
+      "answers": ["was no spare tyre"],
+      "explanation": "A car normally carries one spare tyre, so the singular noun is right."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence in a literary style.",
+      "words": ["Not", "a sound", "came", "from", "the room."],
+      "answer": "Not a sound came from the room.",
+      "explanation": "not a is possible in initial position in a formal or literary style; less formally, There wasn't a sound from the room."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The floor had dirty black marks all over it, and ___ polishing could get it clean.",
+      "hint": "(no amount ...)",
+      "answers": ["no amount of"],
+      "explanation": "no amount of + uncountable noun gives the negative special emphasis."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I made lots of cakes for the party, but ___ the children liked them.",
+      "hint": "(not one ...)",
+      "answers": ["not one of"],
+      "explanation": "not one of + plural noun is the emphatic form of none of."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the reply that fits it.",
+      "pairs": [
+        { "left": "Thanks for the lift.", "right": "No problem. I had to go past the station anyway." },
+        { "left": "The computer's not working again.", "right": "No wonder. It's not plugged in!" },
+        { "left": "Do you think Kim will pass her maths?", "right": "No chance. She just doesn't work hard enough." },
+        { "left": "Where's Stefan?", "right": "No idea. Last time I saw him he was in the kitchen." },
+        { "left": "Do you have anything to say about the accusation?", "right": "No comment. Goodbye." }
+      ]
+    }
+  ]
+}

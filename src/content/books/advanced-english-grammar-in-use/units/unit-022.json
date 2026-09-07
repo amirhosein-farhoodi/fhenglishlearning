@@ -1,0 +1,178 @@
+{
+  "number": 22,
+  "title": "Forming passive sentences 1",
+  "subtitle": "We were given that vase.",
+  "summary": "Work out which passive forms a verb allows - two objects, object + complement, object + bare infinitive, or a multi-word verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verbs with two objects",
+      "text": "Verbs such as *give* take both a direct object (DO) and an indirect object (IO), in two patterns: **verb + IO + DO** or **verb + DO + preposition + IO**. These verbs therefore have **two** corresponding passives, and you choose whichever suits the context. If you name the agent, it follows **by** at the end of the clause.",
+      "examples": [
+        { "text": "Alice gave us that vase. - **We were given** that vase (by Alice)." },
+        { "text": "Alice gave that vase to us. - **That vase was given (to) us** (by Alice).", "note": "in informal contexts to can be left out" }
+      ],
+      "note": "Also: award, hand, lend, offer, send, throw ('giving' verbs); ask, read, teach ('telling' verbs)."
+    },
+    {
+      "type": "table",
+      "heading": "Active to passive",
+      "columns": ["Active", "Passive"],
+      "rows": [
+        ["Alice gave us that vase. (V + IO + DO)", "We were given that vase (by Alice)."],
+        ["Alice gave that vase to us. (V + DO + to + IO)", "That vase was given (to) us (by Alice)."],
+        ["He explained the problem to me. (no IO + DO pattern)", "The problem was explained to me."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs with only one passive",
+      "text": "Verbs that cannot be followed by IO + DO in the active have only **one** passive: the direct object becomes the subject and the person follows a preposition.",
+      "examples": [
+        { "text": "He explained the problem to me. - **The problem was explained to me.**", "wrong": "I was explained the problem" },
+        { "text": "Improvements **have been proposed** to the developers." }
+      ],
+      "note": "Also: announce, demonstrate, describe, introduce, mention, propose, report, suggest ('reporting' verbs)."
+    },
+    {
+      "type": "explain",
+      "heading": "Object + complement",
+      "text": "Verbs followed by object + complement in the active have one passive form: the object becomes the subject and the complement stays where it is.",
+      "examples": [
+        { "text": "They elected her president. - **She was elected president.**" },
+        { "text": "Alan Watson **was declared** winner of the election after a recount." }
+      ],
+      "note": "Also: appoint, declare, make, nominate, vote (giving someone a position); call, name, title ('naming' verbs)."
+    },
+    {
+      "type": "explain",
+      "heading": "A bare infinitive becomes a to-infinitive",
+      "text": "Some verbs followed by object + **bare infinitive** (an infinitive without *to*) in the active are followed by a **to-infinitive** in the passive.",
+      "examples": [
+        { "text": "They have made him return the money. - He has been made **to** return the money." },
+        { "text": "People helped Rob to his feet. - Rob **was helped** to his feet." }
+      ],
+      "note": "Also: feel, hear, help (also + object + to-infinitive), observe, see."
+    },
+    {
+      "type": "explain",
+      "heading": "Two- and three-word verbs",
+      "text": "Some transitive multi-word verbs have passive forms, but others are never used in the passive.",
+      "examples": [
+        { "text": "Ella looked after him. - He **was looked after** (by Ella).", "note": "also carry out, disapprove of, hold over, talk down to" },
+        { "text": "We came up against a problem.", "wrong": "A problem was come up against", "note": "also brush up on, cast (your mind) back, get (something) down, take after" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "One verb, one sense passive",
+      "text": "Some multi-word verbs are only used in the passive with **certain senses** of the verb.",
+      "examples": [
+        { "text": "They put out the fire. - **The fire was put out.**", "note": "put out = extinguish" },
+        { "text": "I put out a hand to steady myself.", "wrong": "A hand was put out to steady myself", "note": "put out = extend" }
+      ],
+      "note": "Passive possible / no passive: call (someone) up (order to join the army / telephone); call (someone) back (ask to return / telephone); let in (allow into a place / allow rain in); let out (allow to leave / let out a sound)."
+    },
+    {
+      "type": "tip",
+      "text": "Before you write a passive, check the active pattern: only a verb that can say gave us that vase can also say we were given that vase."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Someone handed me a note. - ___ a note.",
+      "hint": "(I / hand)",
+      "answers": ["I was handed"],
+      "explanation": "hand is a 'giving' verb, so the indirect object can become the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone awarded him a prize. - ___ a prize.",
+      "hint": "(He / award)",
+      "answers": ["He was awarded"],
+      "explanation": "Two passives are possible: He was awarded a prize. / A prize was awarded to him."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone has lent me some skis. - ___ some skis.",
+      "hint": "(I / lend) - present perfect",
+      "answers": ["I have been lent", "I've been lent"],
+      "explanation": "Keep the tense of the active: has lent becomes have been lent."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was explained the problem by my tutor.",
+      "answer": false,
+      "explanation": "The problem was explained to me by my tutor. explain cannot be followed by an indirect object + direct object, so it has only one passive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone is sending me a lot of spam emails. - ___ a lot of spam emails.",
+      "hint": "(I / send) - present continuous",
+      "answers": ["I am being sent", "I'm being sent"],
+      "explanation": "The present continuous passive is am/is/are being + past participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone is going to explain the changes to the students. Which passive is right?",
+      "options": [
+        "The changes are going to be explained to the students.",
+        "The students are going to be explained the changes.",
+        "The changes are going to explain to the students."
+      ],
+      "answer": 0,
+      "explanation": "explain has only one passive: the direct object becomes the subject and the person follows to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone had mentioned the password to the thieves. - The password ___ to the thieves.",
+      "hint": "(mention) - past perfect",
+      "answers": ["had been mentioned"],
+      "explanation": "mention is a 'reporting' verb: only The password had been mentioned to the thieves is possible."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a passive sentence: they appointed Sven Larsen to the Scandinavian job last week.",
+      "words": ["Sven Larsen", "has been appointed", "Regional Sales Director", "for", "Scandinavia"],
+      "answer": "Sven Larsen has been appointed Regional Sales Director for Scandinavia",
+      "explanation": "After appoint the complement (Regional Sales Director) stays in place in the passive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They have made him return the money. - He has ___ the money.",
+      "hint": "(make / return)",
+      "answers": ["been made to return"],
+      "explanation": "A bare infinitive after make becomes a to-infinitive in the passive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Strict teachers are often looked up to by children.",
+      "answer": true,
+      "explanation": "Correct. look up to is one of the multi-word verbs that does have a passive form."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these verbs can be used in the passive, and which cannot?",
+      "categories": ["Passive possible", "No passive"],
+      "items": [
+        { "text": "phase out (a product)", "category": 0 },
+        { "text": "get (the information) down (= write it)", "category": 1 },
+        { "text": "deprive (someone) of (something)", "category": 0 },
+        { "text": "brush up on (a language)", "category": 1 },
+        { "text": "hold over (an item until the next meeting)", "category": 0 },
+        { "text": "call (someone) back (= telephone them again)", "category": 1 },
+        { "text": "look up to (someone)", "category": 0 },
+        { "text": "take after (a parent)", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The farmer prevented walkers from crossing the field after he fenced it off. - Walkers were prevented from crossing the field after ___ (by the farmer).",
+      "hint": "(it / fence off)",
+      "answers": ["it was fenced off"],
+      "explanation": "fence off has a passive form, so both clauses can be made passive."
+    }
+  ]
+}

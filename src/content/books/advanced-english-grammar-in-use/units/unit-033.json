@@ -1,0 +1,150 @@
+{
+  "number": 33,
+  "title": "Reporting statements: that-clauses",
+  "subtitle": "He said (that) he was enjoying his work.",
+  "summary": "Report statements with a that-clause: know when that can be left out, which verbs need an object first, and which need a preposition before that object.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Leaving out that",
+      "text": "After common reporting verbs such as agree, mention, notice, promise, say and think we often leave **that** out, especially in informal speech. We usually keep it after less common verbs (complain, confide, deny, grumble, speculate, warn - and answer, argue, reply), in formal writing, and whenever the that-clause does not come immediately after the verb.",
+      "examples": [
+        { "text": "He said (**that**) he was enjoying his work." },
+        { "text": "The members of the Security Council warned **that** further action may be taken." },
+        { "text": "She agreed with her parents and brothers **that** it would be safer to buy a car than a motorbike.", "note": "rather than ... and brothers it would be safer ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "A formal alternative: object + to-infinitive",
+      "left": {
+        "label": "that-clause",
+        "text": "The everyday pattern.",
+        "examples": ["I felt **that the results were** satisfactory.", "The judge thought **that his explanation was** unconvincing."]
+      },
+      "right": {
+        "label": "object + to-infinitive (often to be)",
+        "text": "Rather formal, and only after certain verbs. Also: acknowledge, assume, believe, consider, declare, expect, find, presume, report, think, understand.",
+        "examples": ["I felt **the results to be** satisfactory.", "The judge thought **his explanation to be** unconvincing.", "Houston reported **the satellite to be** missing."]
+      },
+      "note": "Verbs like argue, stress and comment have no such alternative: not ~~The employees argued the reduction to be unlawful~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that must have an object",
+      "text": "After an active form of some verbs we have to put an object between the verb and the that-clause, and that object cannot be a prepositional one. Also: assure, convince, inform, persuade, reassure, remind, tell.",
+      "examples": [
+        { "text": "I notified **the bank** that I had changed my address.", "wrong": "I notified that I ... / I notified to the bank that I ..." },
+        { "text": "The police assured **residents** that everything possible was being done." }
+      ],
+      "note": "After advise, show, teach and warn the object is optional: They promised (me) that they would come to the party."
+    },
+    {
+      "type": "table",
+      "heading": "Verbs that need a preposition before the object",
+      "columns": ["Preposition", "Verbs", "Example"],
+      "rows": [
+        ["to", "admit, announce, complain, confess, explain, indicate, mention, point out, propose, recommend, report, say, suggest", "She admitted (**to me**) that she was seriously ill."],
+        ["with", "agree, argue, check, disagree, joke", "We agreed (**with Ella**) that the information should go no further."],
+        ["of", "ask, demand, require", "The company demands (**of its staff**) that they should be at work by 8:30."]
+      ],
+      "note": "With these verbs the object can also be left out altogether: I pointed out that he had parked across the entrance."
+    },
+    {
+      "type": "explain",
+      "heading": "ask, demand and require",
+      "text": "The pattern with **of** is formal. Less formally, ask and require can take an object + to-infinitive instead - but demand cannot.",
+      "examples": [
+        { "text": "The club asks **of its members** that they pay their fees by 31st December." },
+        { "text": "The club asks **its members to pay** their fees by 31st December.", "note": "less formal" },
+        { "text": "The company demands **of its staff** that they should be at work by 8:30.", "wrong": "The company demands its staff to be at work" }
+      ]
+    },
+    { "type": "tip", "text": "Before writing a that-clause, ask yourself: does this verb take a plain object (*told me*), a prepositional object (*explained to me*), or neither?" }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The doctors ___ that I should rest for three months.",
+      "options": ["advised", "persuaded", "reminded"],
+      "answer": 0,
+      "explanation": "persuade and remind must have an object before the that-clause; advise does not need one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police ___ residents that everything possible was being done to catch the thieves.",
+      "hint": "(assured / promised)",
+      "answers": ["assured", "promised"],
+      "explanation": "Both work here: assure always takes an object, and promise allows one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Russian scientists ___ that honey can prevent the growth of bacteria.",
+      "options": ["have shown", "have convinced", "have informed"],
+      "answer": 0,
+      "explanation": "convince and inform need an object before the that-clause; show does not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Katarina ___ that she would be home before midnight.",
+      "hint": "(told / promised)",
+      "answers": ["promised"],
+      "explanation": "tell requires an object (told me that ...), so only promise fits a sentence with no object."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each reporting verb with the object that can follow it.",
+      "pairs": [
+        { "left": "I notified", "right": "the bank that I had changed my address." },
+        { "left": "She admitted", "right": "to me that she was seriously ill." },
+        { "left": "We agreed", "right": "with Ella that the information should go no further." },
+        { "left": "The club asks", "right": "of its members that they pay their fees by 31st December." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Martina ___ the shop assistant that the laptop she'd bought there was faulty.",
+      "hint": "(complain)",
+      "answers": ["complained to"],
+      "explanation": "complain takes to before a personal object: complained to the shop assistant that ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ Mr Jacobs that the students were lazy. I thought they were very enthusiastic.",
+      "hint": "(disagree)",
+      "answers": ["disagreed with"],
+      "explanation": "disagree takes with before the object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The college ___ its students that they attend all classes.",
+      "hint": "(require)",
+      "answers": ["requires of", "required of"],
+      "explanation": "ask, demand and require take of before the object in this formal pattern."
+    },
+    { "type": "true_false", "statement": "Managing Director Beth Edwards explained employees that a national fall in demand for traditional toys is to blame.", "answer": false, "explanation": "... explained to employees that a national fall in demand ... explain needs to before a personal object." },
+    { "type": "true_false", "statement": "PIK, the toy manufacturer, has warned that they are to make over 100 employees redundant.", "answer": true, "explanation": "Correct. warn does not need an object, and that is kept in formal writing." },
+    {
+      "type": "categorize",
+      "prompt": "Which of these verbs also allow the formal object + to-infinitive pattern (reported the satellite to be missing)?",
+      "categories": ["Object + to-infinitive is possible", "that-clause only"],
+      "items": [
+        { "text": "report", "category": 0 },
+        { "text": "expect", "category": 0 },
+        { "text": "acknowledge", "category": 0 },
+        { "text": "find", "category": 0 },
+        { "text": "argue", "category": 1 },
+        { "text": "stress", "category": 1 },
+        { "text": "comment", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'We found that the rugby supporters were very well behaved' in the more formal pattern.",
+      "words": ["We found", "the rugby supporters", "to be", "very well", "behaved"],
+      "answer": "We found the rugby supporters to be very well behaved",
+      "explanation": "find allows object + to-infinitive as a formal alternative to a that-clause."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "number": 64,
+  "title": "More on leaving out words after auxiliary verbs",
+  "subtitle": "Yes, I have (done) / I might (be)",
+  "summary": "Answer and refer back using just an auxiliary verb, and decide when to add do, be or done after it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "One auxiliary does the work",
+      "text": "To avoid repeating words from a previous clause or sentence we use an auxiliary verb (be, have, can, will, would) instead of the whole verb group. If the first clause has several auxiliaries, we normally keep only the first, though we can repeat more.",
+      "examples": [
+        { "text": "She says she's finished, but I don't think she **has**.", "note": "instead of ... she has finished" },
+        { "text": "*A:* Would any of you like to go to Paris? *B:* **I would**." },
+        { "text": "*A:* They could have been delayed by the snow. *B:* Yes, they **could**.", "note": "or ... they could have (been)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "No auxiliary in the first clause? Use do or did",
+      "text": "If the previous clause has no auxiliary verb, or if its auxiliary is a form of do, we use do for a present simple verb and did for a past simple verb.",
+      "examples": [
+        { "text": "Mona plays golf on Saturdays, and I **do** too.", "note": "'... and so do I' is also possible" },
+        { "text": "*A:* I didn't steal the money. *B:* No one thinks that you **did**.", "note": "'No one thinks so' is also possible" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "be, have and have got",
+      "text": "If be is the main verb in the previous clause, we repeat a form of be. If have or have got is the main verb, either do or have is usually possible - but for actions (have a shower, have a good time) we prefer do.",
+      "examples": [
+        { "text": "*A:* The children are noisy again. *B:* They always **are**." },
+        { "text": "*A:* Do you think I have a chance of winning? *B:* Yes, I think you **have**.", "note": "or ... you do" },
+        { "text": "Even if he hasn't got a map himself, he may know someone who **has**.", "note": "or ... who does" },
+        { "text": "I wasn't expecting to have a good time at the party, but I **did**.", "note": "have + noun for an action, so do is preferred" }
+      ],
+      "note": "Sometimes do, be and have are all possible with a similar meaning: I asked Clara to tidy her room, and she has / did."
+    },
+    {
+      "type": "explain",
+      "heading": "have (done) and modal + do",
+      "text": "After have as an auxiliary we can often add done instead of repeating the main verb, especially in speech - but not when the verb replaced is intransitive. After a modal we can add do in the same way.",
+      "examples": [
+        { "text": "*A:* She's never made a mistake before. *B:* Well, she **has (done)** this time." },
+        { "text": "*A:* They've already gone. *B:* I don't think Daniel **has**.", "wrong": "Daniel has done" },
+        { "text": "*A:* Will you be seeing David today? *B:* I **might (do)**." },
+        { "text": "*A:* Will you be seeing Felix today? *B:* I **might (do / be)**.", "note": "do = see Felix today; be = be seeing Felix today" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Leaving out be after a modal",
+      "left": {
+        "label": "be can be left out",
+        "text": "When be was an auxiliary in the previous clause - and, in informal contexts, when it was the main verb.",
+        "examples": [
+          "*A:* Is Ella staying for lunch? *B:* Yes, I think she **will (be)**. (or ... she will do.)",
+          "*A:* Lina's late again. *B:* I thought she **might (be)**."
+        ]
+      },
+      "right": {
+        "label": "Keep be",
+        "text": "When be is the main verb or part of a passive in a more formal context.",
+        "examples": [
+          "It has been found that the comet is made entirely of gas, as it was predicted it **would be**.",
+          "The book is a bestseller, as we hoped it **would be**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "In a short reply, keep the first auxiliary and drop the rest: 'All the parking places will have been taken by now.' 'Yes, I'm sure they will.'"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have you ever played squash before? *B:* Yes, ___.",
+      "answers": ["I have"],
+      "explanation": "The auxiliary have is enough; the rest of the verb group is left out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As a child I always enjoyed watching cartoons on TV, and I still ___.",
+      "answers": ["do"],
+      "explanation": "There is no auxiliary to repeat and the verb is present simple, so we use do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Has the post arrived yet? *B:* No, I don't think it ___.",
+      "answers": ["has"],
+      "explanation": "We repeat the auxiliary from A's question."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* All the parking places will probably have been taken by now. *B:* Yes, I'm sure they ___.",
+      "answers": ["will", "will have", "will have been"],
+      "explanation": "Keep the first auxiliary (will); repeating have or have been is also possible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Have a shower if you want, but take a towel from the cupboard when you ___.",
+      "options": ["do", "have", "are"],
+      "answer": 0,
+      "explanation": "With have + noun for an action (have a shower) we prefer do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not a member of the tennis club myself, but I know someone who ___.",
+      "answers": ["is"],
+      "explanation": "Be is the main verb in the first clause, so we repeat a form of be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was hoping Ryan had an electric drill that I could borrow, but he ___.",
+      "answers": ["hasn't", "has not", "doesn't", "does not"],
+      "explanation": "When have is the main verb, either have or do can be used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I told the class that they had to hand in their books by nine and they all ___.",
+      "answers": ["did", "have", "have done"],
+      "explanation": "Did replaces 'handed in their books'; have (done) is also possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* They've already gone. *B:* I don't think Daniel has done.",
+      "answer": false,
+      "explanation": "I don't think Daniel has. We can't add done when the verb being replaced is intransitive (go)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each comment with B's short reply.",
+      "pairs": [
+        { "left": "*A:* The children are noisy again.", "right": "*B:* They always are." },
+        { "left": "*A:* Do you think I have a chance of winning?", "right": "*B:* Yes, I think you have." },
+        { "left": "*A:* Will you be seeing David today?", "right": "*B:* I might do." },
+        { "left": "*A:* She's never made a mistake before.", "right": "*B:* Well, she has done this time." },
+        { "left": "*A:* I didn't steal the money.", "right": "*B:* No one thinks that you did." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The company has not been as successful as it was claimed it ___.",
+      "answers": ["would be", "might be"],
+      "explanation": "Here be belongs to a passive in a formal sentence, so it cannot be left out after the modal."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can be be left out after the modal in each sentence?",
+      "categories": ["be can be left out", "be must stay"],
+      "items": [
+        { "text": "*A:* Is Ella staying for lunch? *B:* Yes, I think she will (be).", "category": 0 },
+        { "text": "*A:* Lina's late again. *B:* I thought she might (be).", "category": 0 },
+        { "text": "*A:* Are they staying for lunch? *B:* They might (be). I'll ask them.", "category": 0 },
+        { "text": "It has been found that the comet is made entirely of gas, as it was predicted it would be.", "category": 1 },
+        { "text": "The company has not been as successful as it was claimed it would be.", "category": 1 },
+        { "text": "The book is a bestseller, as we hoped it would be.", "category": 1 }
+      ]
+    }
+  ]
+}

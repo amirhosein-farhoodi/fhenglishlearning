@@ -345,6 +345,16 @@ input {
   font-size: 1.05rem;
 }
 
+/* The "press Enter" glyph shown next to a button label. */
+.btn .kbd-hint {
+  font-size: 1.35em;
+  line-height: 1;
+  font-weight: 400;
+  opacity: 0.75;
+  /* the glyph sits high in its em box; nudge it onto the text baseline */
+  margin-top: -0.12em;
+}
+
 .btn-sm {
   padding: 9px 14px;
   font-size: 0.875rem;
@@ -492,6 +502,7 @@ input {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
+  gap: 16px;
   margin: 28px 0 14px;
 }
 
@@ -499,47 +510,97 @@ input {
   font-size: 1.4rem;
 }
 
+/* ---------- home shelves (Grammar / Vocabulary / Listening) ---------- */
+.shelf + .shelf {
+  margin-top: 40px;
+}
+
+.shelf .section-head {
+  align-items: flex-end;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.shelf-title h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.shelf-title p {
+  margin: 4px 0 0;
+  font-size: 0.92rem;
+  max-width: 62ch;
+}
+
+.shelf-emoji {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.shelf-count {
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.shelf-soon {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 24px 26px;
+  border-radius: var(--radius-l);
+  border: 1px dashed var(--line-2);
+  background: var(--surface-2);
+}
+
+.shelf-soon-emoji {
+  font-size: 2.4rem;
+  line-height: 1;
+  flex-shrink: 0;
+  filter: grayscale(0.35);
+}
+
+.shelf-soon h3 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+.shelf-soon p {
+  margin: 4px 0 0;
+  font-size: 0.92rem;
+}
+
+.shelf-soon .pill {
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: var(--indigo-soft);
+  color: var(--indigo);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-family: var(--font-body);
+}
+
+/* One book per row: a wide, horizontal card with the cover beside the blurb. Gives the
+   description room to breathe and keeps the covers big enough to recognise. */
 .books-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 18px;
-}
-
-/* A lone book gets a wide, horizontal card instead of a narrow column. */
-.books-grid.single {
   grid-template-columns: 1fr;
-}
-
-.books-grid.single .book-card {
-  flex-direction: row;
-  align-items: stretch;
-}
-
-.books-grid.single .book-cover {
-  height: auto;
-  width: 246px;
-  flex-shrink: 0;
-  padding: 26px 22px;
-}
-
-.books-grid.single .book-body {
-  padding: 26px 28px;
-  justify-content: center;
-}
-
-.books-grid.single .book-body h3 {
-  font-size: 1.7rem;
-}
-
-.books-grid.single .book-foot {
-  padding-top: 16px;
+  gap: 18px;
 }
 
 .book-card {
   --book: var(--indigo);
   position: relative;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: stretch;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius-l);
@@ -556,11 +617,12 @@ input {
 }
 
 .book-cover {
-  height: 220px;
+  width: 246px;
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px;
+  padding: 26px 22px;
   overflow: hidden;
   background:
     radial-gradient(160px 120px at 78% 18%, rgba(255, 255, 255, 0.26), transparent 70%),
@@ -605,15 +667,17 @@ input {
 }
 
 .book-body {
-  padding: 18px 20px 20px;
+  padding: 26px 28px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 10px;
   flex: 1;
+  min-width: 0;
 }
 
 .book-body h3 {
-  font-size: 1.35rem;
+  font-size: 1.7rem;
 }
 
 .book-body .desc {
@@ -652,7 +716,7 @@ input {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding-top: 8px;
+  padding-top: 16px;
 }
 
 .book-foot .progress {
@@ -2330,26 +2394,35 @@ input {
     width: 100%;
   }
 
-  .book-cover {
-    height: 190px;
-  }
-
-  .books-grid.single .book-card {
+  .book-card {
     flex-direction: column;
   }
 
-  .books-grid.single .book-cover {
+  .book-cover {
     width: auto;
     height: 200px;
     padding: 18px;
   }
 
-  .books-grid.single .book-body {
+  .book-body {
     padding: 18px 20px 20px;
   }
 
-  .books-grid.single .book-body h3 {
+  .book-body h3 {
     font-size: 1.35rem;
+  }
+
+  .shelf .section-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .shelf-soon {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 20px 18px;
   }
 
   .continue-card .btn {

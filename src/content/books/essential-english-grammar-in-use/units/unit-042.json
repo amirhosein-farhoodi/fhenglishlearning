@@ -1,0 +1,175 @@
+{
+  "number": 42,
+  "title": "too/either so am I / neither do I etc.",
+  "subtitle": "I'm happy too. / So am I.",
+  "summary": "Use too after a positive verb and either after a negative verb, and answer with So am I or Neither do I.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "too and either",
+      "text": "A woman says 'I'm happy.' The man next to her feels the same, so he says 'I'm happy **too**.' Another man says 'I'm not happy.' The woman next to him feels the same, so she says 'I'm not happy **either**.' We use **too** and **either** at the end of the sentence.",
+      "examples": [
+        { "text": "*A:* I'm happy. *B:* I'm happy **too**." },
+        { "text": "*A:* I'm not happy. *B:* I'm not happy **either**.", "wrong": "I'm not happy too" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "too or either?",
+      "left": {
+        "label": "too, after a positive verb",
+        "examples": [
+          "*A:* I'm happy. *B:* I'm happy **too**.",
+          "*A:* I enjoyed the film. *B:* I enjoyed it **too**.",
+          "Jane is a doctor. Her husband is a doctor **too**."
+        ]
+      },
+      "right": {
+        "label": "either, after a negative verb",
+        "examples": [
+          "*A:* I'm not happy. *B:* I'm not happy **either**.",
+          "*A:* I can't cook. *B:* I can't **either**.",
+          "Bill doesn't watch TV. He doesn't read newspapers **either**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "so am I / neither am I",
+      "text": "An old man says 'I'm happy.' His wife says '**So am I.**' A young man says 'I'm not happy.' The woman with him says '**Neither am I.**' **So am I** = I am too. **Neither am I** = I'm not either. After **so** and **neither** the verb comes before *I*.",
+      "examples": [
+        { "text": "*A:* I'm working. *B:* **So am I.**", "note": "= I'm working too" },
+        { "text": "*A:* I haven't got a key. *B:* **Neither have I.**", "note": "= I haven't got a key either" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "so / neither + verb + I",
+      "columns": ["Verb", "Example"],
+      "rows": [
+        ["am / is / are", "*A:* I'm working. *B:* **So am I.**"],
+        ["was / were", "*A:* I was late for work today. *B:* **So was Sam.**"],
+        ["do / does", "*A:* I work in a bank. *B:* **So do I.**"],
+        ["did", "*A:* We went to the cinema last night. *B:* **So did we.**"],
+        ["have / has", "*A:* I haven't got a key. *B:* **Neither have I.**"],
+        ["can", "*A:* Kate can't cook. *B:* **Neither can Tom.**"],
+        ["will", "*A:* I won't be here tomorrow. *B:* **Neither will I.**"],
+        ["would", "*A:* I'd like to go to Australia. *B:* **So would I.**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Nor",
+      "text": "You can also use **Nor**. It means the same as **Neither**.",
+      "examples": [
+        { "text": "*A:* I'm not married. *B:* **Nor am I.** or **Neither am I.**" },
+        { "text": "*A:* I never go to the cinema. *B:* **Neither do I.**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the word order: *So **am I***, not ~~So I am~~; *Neither **have I***, not ~~Neither I have~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm happy. *B:* I'm happy ___ .",
+      "hint": "(too / either)",
+      "answers": ["too"],
+      "explanation": "I'm happy is positive, so we use too."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm not hungry. *B:* I'm not hungry ___ .",
+      "hint": "(too / either)",
+      "answers": ["either"],
+      "explanation": "I'm not hungry is negative, so we use either."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Jenny can't drive a car. *B:* She can't ride a bicycle ___ .",
+      "hint": "(too / either)",
+      "answers": ["either"],
+      "explanation": "can't is negative, so we use either."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It rained on Saturday. *B:* It rained on Sunday ___ .",
+      "hint": "(too / either)",
+      "answers": ["too"],
+      "explanation": "It rained is positive, so we use too."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word finishes each sentence: too or either?",
+      "categories": ["too", "either"],
+      "items": [
+        { "text": "I'm going out ___ .", "category": 0 },
+        { "text": "I don't like shopping ___ .", "category": 1 },
+        { "text": "Emma's mother is a teacher. Her father is a teacher ___ .", "category": 0 },
+        { "text": "I can't cook ___ .", "category": 1 },
+        { "text": "I enjoyed the film ___ .", "category": 0 },
+        { "text": "Bill doesn't read newspapers ___ .", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the answer that begins with So.",
+      "pairs": [
+        { "left": "I went to bed late last night.", "right": "So did I." },
+        { "left": "I'm thirsty.", "right": "So am I." },
+        { "left": "I've just had dinner.", "right": "So have I." },
+        { "left": "I'll be late tomorrow.", "right": "So will I." },
+        { "left": "I was very tired this morning.", "right": "So was I." },
+        { "left": "I need a holiday.", "right": "So do I." }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the answer that begins with Neither.",
+      "pairs": [
+        { "left": "I can't go to the party.", "right": "Neither can I." },
+        { "left": "I didn't phone Alex last night.", "right": "Neither did I." },
+        { "left": "I haven't got any money.", "right": "Neither have I." },
+        { "left": "I'm not going out tomorrow.", "right": "Neither am I." },
+        { "left": "I don't know what to do.", "right": "Neither do I." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I'm working. *B:* ___",
+      "options": ["So am I.", "So I am.", "So do I."],
+      "answer": 0,
+      "explanation": "After So the verb comes before I: So am I."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'd like to go to Australia. *B:* So ___ .",
+      "hint": "(so ... I)",
+      "answers": ["would I"],
+      "explanation": "I'd like = I would like, so the answer is So would I."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Kate can't cook. *B:* Neither ___ Tom.",
+      "hint": "(neither ... Tom)",
+      "answers": ["can"],
+      "explanation": "can't -> Neither can Tom (= Tom can't cook either)."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* I'm not married. *B:* Neither I am.",
+      "answer": false,
+      "explanation": "Neither am I. The verb comes before I."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Bill doesn't watch TV. Put the words in order to say more about him.",
+      "words": ["He", "doesn't", "read", "newspapers", "either."],
+      "answer": "He doesn't read newspapers either.",
+      "explanation": "either goes at the end, after a negative verb."
+    }
+  ]
+}

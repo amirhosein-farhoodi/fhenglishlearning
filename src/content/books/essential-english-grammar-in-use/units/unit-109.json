@@ -1,0 +1,184 @@
+{
+  "number": 109,
+  "title": "under, behind, opposite etc.",
+  "subtitle": "next to / behind / opposite / under / above",
+  "summary": "Say where things and people are with next to, between, in front of, behind, opposite, by, under, above and below.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "next to / beside / between / in front of / behind",
+      "text": "Five people stand together. A, B and C stand in a line: A on the left, B in the middle, C on the right. D stands in front of B, and E stands behind B.",
+      "examples": [
+        { "text": "A is **next to** B. *or* A is **beside** B." },
+        { "text": "B is **between** A and C." },
+        { "text": "D is **in front of** B." },
+        { "text": "E is **behind** B." },
+        { "text": "A is **on the left**. C is **on the right**. B is **in the middle** of the group." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "opposite / in front of",
+      "text": "Three people are sitting on a train. B has the seat at the back, A has the seat in front of B, and C sits in the seat that faces A.",
+      "examples": [
+        { "text": "A is sitting **in front of** B." },
+        { "text": "A is sitting **opposite** C." },
+        { "text": "C is sitting **opposite** A." }
+      ],
+      "note": "**opposite** = face to face. **in front of** = one in front of the other, both looking the same way."
+    },
+    {
+      "type": "explain",
+      "heading": "by (= next to / beside)",
+      "text": "**by** means the same as *next to* or *beside*: at the side of something.",
+      "examples": [
+        { "text": "Our house is **by the sea**.", "note": "= beside the sea" },
+        { "text": "Who is that man standing **by the window**?" },
+        { "text": "If you feel cold, why don't you sit **by the fire**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "under",
+      "text": "**under** means lower than something, and often covered by it.",
+      "examples": [
+        { "text": "The cat is **under the table**." },
+        { "text": "The girl is standing **under a tree**." },
+        { "text": "I'm wearing a jacket **under my coat**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "above and below",
+      "left": {
+        "label": "above = higher than",
+        "examples": [
+          "A is **above** the line.",
+          "The pictures are **above the shelves**.",
+          "The plane is flying **above the clouds**."
+        ]
+      },
+      "right": {
+        "label": "below = lower than",
+        "examples": [
+          "B is **below** the line.",
+          "The shelves are **below the pictures**.",
+          "The switch is **below the window**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "What each word means",
+      "columns": ["Preposition", "Meaning"],
+      "rows": [
+        ["next to / beside / by", "at the side of something"],
+        ["between", "with one thing on each side"],
+        ["in front of", "at the front, looking the same way"],
+        ["behind", "at the back"],
+        ["opposite", "face to face with somebody"],
+        ["under", "lower than something, often covered"],
+        ["above / below", "higher than / lower than"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**under** and **below** are close, but use **under** when one thing is right under another: *the cat under the table*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A cat is lying on the floor, in the space between the table legs. The cat is ___ the table.",
+      "hint": "(under / above)",
+      "answers": ["under"],
+      "explanation": "under = lower than something, often covered by it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A plane is flying very high, and the clouds are lower than the plane. The plane is flying ___ the clouds.",
+      "hint": "(above / under)",
+      "answers": ["above"],
+      "explanation": "above = higher than something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You see a house from the front. A big tree stands in the garden at the back. There is a big tree ___ the house.",
+      "hint": "(behind / in front of)",
+      "answers": ["behind"],
+      "explanation": "behind = at the back of something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does each preposition tell us?",
+      "categories": ["at the side of", "higher than", "lower than"],
+      "items": [
+        { "text": "next to", "category": 0 },
+        { "text": "beside", "category": 0 },
+        { "text": "by", "category": 0 },
+        { "text": "above", "category": 1 },
+        { "text": "below", "category": 2 },
+        { "text": "under", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Donna, Emma and Frank are sitting in a row. Emma is between Donna and Frank. Frank is sitting ___ Emma.",
+      "hint": "(next to / opposite)",
+      "answers": ["next to", "beside", "by"],
+      "explanation": "Frank is at the side of Emma, so next to (or beside / by) is correct."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A man is standing at the side of the window, looking out. He is standing ___ the window.",
+      "options": ["by", "under", "between"],
+      "answer": 0,
+      "explanation": "by = next to / beside."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the kitchen the sink is under a cupboard on the wall. The cupboard is ___ the sink.",
+      "hint": "(above / under)",
+      "answers": ["above"],
+      "explanation": "The cupboard is higher than the sink, so we use above."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Fiona and Paul are having dinner at a small table. Fiona looks at Paul and Paul looks at Fiona. Paul is sitting ___ Fiona.",
+      "options": ["opposite", "in front of", "behind"],
+      "answer": 0,
+      "explanation": "opposite = face to face."
+    },
+    {
+      "type": "true_false",
+      "statement": "A woman is sitting in a chair, and the phone is on a little table right beside her. She's sitting opposite the phone.",
+      "answer": false,
+      "explanation": "She's sitting by the phone (next to the phone / beside the phone). We use opposite for two people or things that face each other."
+    },
+    {
+      "type": "true_false",
+      "statement": "In Britain people drive on the left.",
+      "answer": true,
+      "explanation": "We say on the left and on the right."
+    },
+    {
+      "type": "matching",
+      "prompt": "In one street there is a bank, a bookshop and a supermarket, with a theatre across the road. Paul's office is over the bookshop, and a fountain stands in the street in front of the theatre. Match each building with its position.",
+      "pairs": [
+        { "left": "The fountain", "right": "is in front of the theatre" },
+        { "left": "Paul's office", "right": "is above the bookshop" },
+        { "left": "The bookshop", "right": "is between the bank and the supermarket" },
+        { "left": "The bank", "right": "is next to the bookshop" },
+        { "left": "The theatre", "right": "is opposite the bank" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "In the street the bank comes first, then the bookshop, then the supermarket. Put the sentence in order.",
+      "words": ["The", "bookshop", "is", "between", "the bank", "and", "the supermarket."],
+      "answer": "The bookshop is between the bank and the supermarket.",
+      "explanation": "between + one thing and the other."
+    }
+  ]
+}

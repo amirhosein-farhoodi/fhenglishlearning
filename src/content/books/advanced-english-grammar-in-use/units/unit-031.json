@@ -1,0 +1,162 @@
+{
+  "number": 31,
+  "title": "Verb + -ing forms and infinitives 2",
+  "subtitle": "warned everyone to stay inside / arranged for Rania to stay",
+  "summary": "Decide when a verb needs an object (or a preposition + object) before a to-infinitive, and use the negative, perfect and having + past participle forms after verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Object before the to-infinitive - or not?",
+      "left": {
+        "label": "An object is necessary",
+        "text": "In active sentences some verbs must have an object between the verb and the to-infinitive. Also: advise, allow, believe, cause, command, enable, encourage, entitle, force, invite, order, persuade, remind, show, teach, tell.",
+        "examples": ["The police **warned everyone to stay** inside with their windows closed.", "not ~~The police warned to stay inside~~"]
+      },
+      "right": {
+        "label": "An object is impossible",
+        "text": "After other verbs we cannot put an object before the to-infinitive. Also: agree, consent, fail, hope, manage, offer, pretend, refuse, start, threaten, volunteer.",
+        "examples": ["**We've decided to leave** early.", "not ~~We've decided us to leave early~~"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + for + object + to-infinitive",
+      "text": "After some verbs we have to put a preposition - usually **for** - immediately after the verb, before an object + to-infinitive. Also: advertise, campaign, long, plan, wait. After *apply* and *campaign* the to-infinitive is usually passive.",
+      "examples": [
+        { "text": "They **arranged for Rania to stay** in London.", "wrong": "They arranged Rania to stay" },
+        { "text": "They **applied for** the court appearance **to be postponed**." },
+        { "text": "I waited ages **for her to come** up with some initial ideas." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other prepositions before object + to-infinitive",
+      "columns": ["Preposition", "Verbs", "Example"],
+      "rows": [
+        ["at", "go on, keep on, scream, shout, yell", "I shouted **at the man to open** the door."],
+        ["on", "call, count, depend, prevail, rely", "We're depending **on you to find** a solution soon."],
+        ["to", "appeal, gesture, motion, signal", "He closed the door and signalled **to the pilot to take off**."]
+      ],
+      "note": "keep on at someone = talk to them about something many times; go on at someone = criticise them continually; call on someone = officially ask them to do something."
+    },
+    {
+      "type": "explain",
+      "heading": "Negative to-infinitives and negative -ing forms",
+      "text": "Put **not** immediately before the to-infinitive or the -ing form when the reported action itself is negative. Making the main verb negative instead changes the meaning.",
+      "examples": [
+        { "text": "We decided **not to go** to Paris after all.", "note": "compare: The people didn't decide to go to war, it was their political leaders." },
+        { "text": "Some of my friends have considered **not going** to college because of the cost.", "note": "compare: I haven't considered going to college - I don't want to go on studying after school." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + to have + past participle",
+      "text": "This form points back to an earlier event. It is common after **seem** and **appear** when we give an opinion about the past, and after passive reporting verbs such as *is / was alleged, believed, said, thought*.",
+      "examples": [
+        { "text": "The accident **seems to have happened** at around 1 pm yesterday." },
+        { "text": "Simmons **is alleged to have assaulted** a police officer." },
+        { "text": "The prisoners **are thought to have escaped** through a broken window." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + having + past participle",
+      "text": "With a small group of verbs the plain -ing form and **having** + past participle mean much the same thing. This happens most often with admit, deny, forget, recall, regret and remember.",
+      "examples": [
+        { "text": "I now regret **buying** the car. = I now regret **having bought** the car." },
+        { "text": "He denies **having received** any stolen property. = He denies **receiving** any stolen property." }
+      ]
+    },
+    { "type": "tip", "text": "If you are unsure whether a verb takes an object, test it with *us*: *encouraged us to stay* sounds right, ~~agreed us to stay~~ does not." }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "My mother ___ me to throw away my old toys.",
+      "hint": "(threatened / told)",
+      "answers": ["told"],
+      "explanation": "tell needs an object before the to-infinitive: told me to throw away."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My mother ___ to throw away my old toys.",
+      "hint": "(threatened / told)",
+      "answers": ["threatened"],
+      "explanation": "threaten cannot take an object before the to-infinitive, so it fits a sentence with no object."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They ___ us to visit Riko in hospital.",
+      "options": ["allowed", "offered", "agreed"],
+      "answer": 0,
+      "explanation": "allow takes an object + to-infinitive; offer and agree cannot have an object before the to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They ___ to carry the heavy boxes up the stairs.",
+      "hint": "(managed / persuaded)",
+      "answers": ["managed"],
+      "explanation": "There is no object, so we need manage: They managed to carry the boxes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They ___ Hamza to carry the heavy boxes up the stairs.",
+      "hint": "(managed / persuaded)",
+      "answers": ["persuaded"],
+      "explanation": "persuade requires an object before the to-infinitive: persuaded Hamza to carry."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the verb need an object before a to-infinitive, or can it never have one?",
+      "categories": ["Must have an object: warned everyone to stay", "Cannot have an object: decided to leave"],
+      "items": [
+        { "text": "encourage", "category": 0 },
+        { "text": "remind", "category": 0 },
+        { "text": "force", "category": 0 },
+        { "text": "hope", "category": 1 },
+        { "text": "refuse", "category": 1 },
+        { "text": "volunteer", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with its ending. Watch the preposition.",
+      "pairs": [
+        { "left": "The Energy Minister has arranged", "right": "for employers and employees to meet next week." },
+        { "left": "I've learnt that you can't rely", "right": "on Greta to do anything." },
+        { "left": "Managers of the company have appealed", "right": "to workers to end their strike." },
+        { "left": "I had to keep on", "right": "at her to do any more work on it." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I advertised ___ a website designer for the business, Greta got the job.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "advertise takes for before the object: advertise for a designer."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report the decision. Put the words in order.",
+      "words": ["We decided", "not", "to go", "to Paris", "after all"],
+      "answer": "We decided not to go to Paris after all",
+      "explanation": "not goes immediately before the to-infinitive, so the decision itself is negative."
+    },
+    { "type": "true_false", "statement": "I don't recall to see him at the conference.", "answer": false, "explanation": "I don't recall seeing him at the conference. (or ... having seen him ...) recall is followed by an -ing form, not a to-infinitive." },
+    {
+      "type": "fill_blank",
+      "prompt": "He asked ___ as the person who donated the money.",
+      "hint": "(not name)",
+      "answers": ["not to be named"],
+      "explanation": "not comes before the passive to-infinitive: asked not to be named."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I am sure my purse was on the table a few minutes ago, but now it ___.",
+      "hint": "(seem - disappear)",
+      "answers": ["seems to have disappeared"],
+      "explanation": "seem + to have + past participle gives an opinion about an earlier event."
+    }
+  ]
+}

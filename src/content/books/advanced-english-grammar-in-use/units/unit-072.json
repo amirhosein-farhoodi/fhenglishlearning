@@ -1,0 +1,185 @@
+{
+  "number": 72,
+  "title": "Adjectives and adverbs: comparative and superlative forms",
+  "subtitle": "darker / more creased / the oldest of",
+  "summary": "Decide between -er and more/less, and use the, of and in correctly with superlatives.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "One syllable: -er, but not always",
+      "text": "We usually add -er to one-syllable adjectives and adverbs. We use **more** + adjective, however, with one-syllable past participle adjectives (bored, creased, pleased, scared, worn) and with **fun, real, right** and **wrong**.",
+      "examples": [
+        { "text": "After I'd ironed my shirt it looked **more creased** than before.", "wrong": "creaseder" },
+        { "text": "I expected the film to be rather dull, but I couldn't have been **more wrong**.", "wrong": "wronger" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Comparing two qualities",
+      "text": "When we compare two qualities of the same person or thing we use **more** + adjective, even with short adjectives.",
+      "examples": [
+        { "text": "'Wasn't he brave to swim across?' 'I think he was **more mad than brave**.'" },
+        { "text": "Although the paint was called 'Sky Blue', I thought it was **more green than blue**." }
+      ],
+      "note": "We can also say '... he wasn't so much brave as mad' and '... it was blue rather than green'."
+    },
+    {
+      "type": "explain",
+      "heading": "more instead of -er for emphasis",
+      "text": "With some one-syllable adjectives we can use **more** as an alternative to the -er form to emphasise the comparison.",
+      "examples": [
+        { "text": "You might think it's dark here but it's **more dark** in the cellar.", "note": "or ... darker ..." },
+        { "text": "In a cold winter like this it is **more true** than ever.", "note": "or ... truer ..." }
+      ],
+      "note": "Also: clear, cold, deep, fair, rough, soft."
+    },
+    {
+      "type": "table",
+      "heading": "Two-syllable adjectives",
+      "columns": ["Group", "Comparative"],
+      "rows": [
+        ["participle adjectives: worried, boring, exciting", "**more** exciting (not ~~excitinger~~)"],
+        ["-ful and -less: careful, careless, useless, powerful", "**more** powerful (not ~~powerfuler~~)"],
+        ["afraid, alert, alike, alone, ashamed, aware", "**more** alert (not ~~alerter~~)"],
+        ["active, cautious, certain, complex, direct, eager, exact, formal, frequent, modern, recent, special", "**more** complex (not ~~complexer~~)"],
+        ["ending -y, -ow, -er, -ure: dirty, narrow, clever, mature", "dirtier **or** more dirty - the -er form is more frequent"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adjectives that are already absolute",
+      "text": "Some adjectives (complete, equal, favourite, ideal, perfect, unique) have a comparative or superlative meaning of their own, so they are not often used with -er / more / less or -est / most / least. We can still use comparative forms for special emphasis.",
+      "examples": [
+        { "text": "The weather today was good, but **less perfect** than yesterday." },
+        { "text": "All of us are unique, but some of us are **more unique** than others.", "note": "= some people have particularly individual characteristics" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Superlatives: keeping or dropping the",
+      "text": "We usually use **the**, a possessive with -'s, or a possessive pronoun before a superlative. In informal contexts we sometimes leave out *the* after a linking verb, particularly at the end of a sentence. But we can't leave it out when we go on to say which group of things is being compared.",
+      "examples": [
+        { "text": "'Why did you go by bus?' '**It was (the) cheapest**.'" },
+        { "text": "Which was **(the) most expensive**?" },
+        { "text": "'Why did you buy these oranges?' 'They were **the cheapest** ones I could find.'", "wrong": "They were cheapest ones I could find" }
+      ],
+      "note": "When most + adjective / adverb is used without the, most means something like 'very': I checked the form most carefully but didn't notice the mistake."
+    },
+    {
+      "type": "compare",
+      "heading": "of or in after a superlative?",
+      "left": {
+        "label": "of + plural noun phrase - the things compared",
+        "examples": [
+          "Adam's the oldest **of** my three brothers.",
+          "**Of** my three brothers, Adam's the oldest.",
+          "Parmesan is perhaps the most famous **of** all Italian cheeses."
+        ]
+      },
+      "right": {
+        "label": "in + singular noun phrase - the place or context",
+        "examples": [
+          "It was the tallest tree **in the forest**.",
+          "He's the fastest runner **in his class**.",
+          "not ~~the tallest tree of the forest~~"
+        ]
+      },
+      "note": "Putting the of-phrase first gives it extra emphasis."
+    },
+    {
+      "type": "tip",
+      "text": "Before reaching for -er, check the adjective: is it a participle (-ed, -ing), does it end in -ful or -less, or are you comparing two qualities? If so, use *more*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The exam was ___ than I thought it would be.",
+      "hint": "(hard)",
+      "answers": ["harder"],
+      "explanation": "A plain one-syllable adjective takes -er."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We took the ___ path up the hill as the other one was very steep.",
+      "hint": "(long)",
+      "answers": ["longer"],
+      "explanation": "Another straightforward one-syllable adjective, so -er."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was almost as if the wolf was ___ of us than we were of it.",
+      "hint": "(scared)",
+      "answers": ["more scared"],
+      "explanation": "Scared is a one-syllable past participle adjective, so it takes more."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The film starts slowly, but gets ___ after the first half hour.",
+      "options": ["more exciting", "excitinger", "most exciting"],
+      "answer": 0,
+      "explanation": "Participle adjectives ending in -ing always take more."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think I'd describe her as ___ than beautiful.",
+      "hint": "(pretty)",
+      "answers": ["more pretty"],
+      "explanation": "Two qualities of the same person are being compared, so more is used rather than prettier."
+    },
+    {
+      "type": "true_false",
+      "statement": "When I took the washing out of the machine it looked dirtier than when it went in.",
+      "answer": true,
+      "explanation": "Correct. Two-syllable adjectives ending in -y usually take -er, though 'more dirty' is also possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "The painting is from the 17th century? Really? It looks recenter than that.",
+      "answer": false,
+      "explanation": "It looks more recent than that. Recent is one of the two-syllable adjectives that take more."
+    },
+    {
+      "type": "true_false",
+      "statement": "Curiously, many people say they feel mentally alerter if they eat very little for a day.",
+      "answer": false,
+      "explanation": "... they feel mentally more alert ... Alert belongs to the group with afraid, alike, alone, ashamed and aware, which all take more."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Democrats are the smallest ___ the four main political parties.",
+      "hint": "(in / of)",
+      "answers": ["of"],
+      "explanation": "Of + a plural noun phrase names the things being compared."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's without doubt the best swimmer ___ my school.",
+      "hint": "(in / of)",
+      "answers": ["in"],
+      "explanation": "In + a singular noun phrase gives the place or context of the comparison."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can the be left out before the superlative in these sentences?",
+      "categories": ["the can be left out", "the must stay"],
+      "items": [
+        { "text": "Anna, Beth and Clara were all excellent musicians, but Clara was the most creative.", "category": 0 },
+        { "text": "It was the sweetest orange I'd eaten for ages.", "category": 1 },
+        { "text": "We get lots of birds in our garden, but blackbirds are the most common.", "category": 0 },
+        { "text": "He's the fastest runner in his class.", "category": 1 },
+        { "text": "Shall we go by train, bus or car? Well, going by bus is actually the easiest.", "category": 0 },
+        { "text": "They were the cheapest ones I could find.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the of-phrase first for emphasis.",
+      "words": ["Of", "my", "three brothers,", "Adam's", "the oldest."],
+      "answer": "Of my three brothers, Adam's the oldest.",
+      "alternatives": ["Adam's the oldest of my three brothers."],
+      "explanation": "The of-phrase can move to the front of the sentence to emphasise the group being compared."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "number": 72,
+  "title": "I like music I hate exams",
+  "subtitle": "music / the music",
+  "summary": "Do not use the when you talk about things in general; use the only when you mean one special thing or these things here.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Three people say what they think",
+      "text": "A young man plays his guitar next to two big speakers. He says: *I like music.* Four students sit in an exam room and look worried. One of them says: *I hate exams.* A man walks through the snow in a big coat. He says: *I don't like cold weather.* All these sentences are about things **in general**, so there is no *the*.",
+      "examples": [
+        { "text": "I like **music**, especially **classical music**.", "wrong": "the music" },
+        { "text": "We don't eat **meat** very often.", "wrong": "the meat" },
+        { "text": "**Life** is not possible without **water**.", "wrong": "The life" },
+        { "text": "I hate **exams**.", "wrong": "the exams" },
+        { "text": "I'm not very good at writing **letters**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Games, sports, languages and school subjects",
+      "text": "We never use **the** with games and sports, and we never use it with languages or school subjects.",
+      "examples": [
+        { "text": "My favourite sports are **football** and **skiing**.", "wrong": "the football" },
+        { "text": "Do you think **English** is difficult?", "wrong": "the English" },
+        { "text": "Tom's brother is studying **physics** and **chemistry**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "flowers or the flowers?",
+      "left": {
+        "label": "In general - no the",
+        "examples": [
+          "**Flowers** are beautiful. (= flowers everywhere)",
+          "I don't like **cold weather**. (= cold weather in general)",
+          "We don't eat **fish** very often.",
+          "Are you interested in **history**?"
+        ]
+      },
+      "right": {
+        "label": "These ones here - the",
+        "examples": [
+          "I love this garden. **The flowers** are beautiful.",
+          "**The weather** isn't very good today.",
+          "We had a great meal last night. **The fish** was excellent.",
+          "Do you know much about **the history** of your country?"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "All of them, or these ones?",
+      "text": "Before a noun, ask yourself one question: am I talking about all of them, everywhere? Then use no *the*. Am I talking about these ones, here or in this story? Then use **the**.",
+      "examples": [
+        { "text": "I enjoy taking **photographs**. It's my hobby. (photographs in general)" },
+        { "text": "Do you want to see **the photographs** that I took on holiday? (these ones)" },
+        { "text": "I don't like **milk**. I never drink it." },
+        { "text": "*A:* Where's **the milk**? *B:* It's in the fridge. (= our milk)" },
+        { "text": "**Money** doesn't always bring **happiness**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*I like this town. I like **the people** here.* The word *here* tells you it is not people in general, so you need **the**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ are good for you.",
+      "hint": "(vegetables)",
+      "answers": ["Vegetables"],
+      "explanation": "Vegetables in general, so no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everybody needs ___.",
+      "hint": "(friends)",
+      "answers": ["friends"],
+      "explanation": "friends in general, so no the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My favourite sport is ___.",
+      "options": ["football", "the football", "a football"],
+      "answer": 0,
+      "explanation": "No the with games and sports."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each conversation.",
+      "pairs": [
+        { "left": "I can't sing this song.", "right": "I don't know the words." },
+        { "left": "Do you do any sports?", "right": "Yes, I play basketball." },
+        { "left": "What does your brother do?", "right": "He sells computers." },
+        { "left": "Jane isn't very sociable.", "right": "She doesn't go to parties very often." },
+        { "left": "We went for a swim in the river.", "right": "The water was very cold." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like ___. I never drink it.",
+      "hint": "(milk)",
+      "answers": ["milk"],
+      "explanation": "milk in general, so no the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where's ___?' 'It's in the fridge.'",
+      "hint": "(milk)",
+      "answers": ["the milk"],
+      "explanation": "Not milk in general, but our milk, so we say the milk."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you think ___ is difficult?",
+      "options": ["English", "the English", "an English"],
+      "answer": 0,
+      "explanation": "No the with the names of languages."
+    },
+    {
+      "type": "true_false",
+      "statement": "I went shopping this morning. Shops were very busy.",
+      "answer": false,
+      "explanation": "I went shopping this morning. The shops were very busy. You mean the shops in this town, not shops in general."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like swimming in the cold water.",
+      "answer": false,
+      "explanation": "I don't like swimming in cold water. This is cold water in general, so there is no the."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need the, or nothing at all?",
+      "categories": ["no the", "the"],
+      "items": [
+        { "text": "I enjoy taking ___ photographs. It's my hobby.", "category": 0 },
+        { "text": "___ vegetables are good for you.", "category": 0 },
+        { "text": "'Do you do any sports?' 'Yes, I play ___ basketball.'", "category": 0 },
+        { "text": "Jane doesn't go to ___ parties very often.", "category": 0 },
+        { "text": "I can't sing this song. I don't know ___ words.", "category": 1 },
+        { "text": "___ houses in this street are all the same.", "category": 1 },
+        { "text": "Excuse me, can you pass ___ salt, please?", "category": 1 },
+        { "text": "I like this town. I like ___ people here.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you want to see ___ that I took when I was on holiday?",
+      "hint": "(photographs)",
+      "answers": ["the photographs"],
+      "explanation": "These are special photographs - the ones you took on holiday."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Money", "doesn't", "always", "bring", "happiness."],
+      "answer": "Money doesn't always bring happiness.",
+      "explanation": "Money and happiness are general ideas, so neither takes the."
+    }
+  ]
+}

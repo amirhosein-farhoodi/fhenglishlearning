@@ -1,0 +1,183 @@
+{
+  "number": 108,
+  "title": "to in at (places 3)",
+  "subtitle": "go to work / be at work",
+  "summary": "Use to for the place you go, and in or at for the place where you are; go home and get home take no preposition.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "to = where you go",
+      "text": "After verbs of movement (**go**, **come**, **return**, **walk**, **drive**) we use **to** + the place.",
+      "examples": [
+        { "text": "We're **going to London** on Sunday." },
+        { "text": "I want to **go to Italy** next year." },
+        { "text": "We walked from my house **to the centre of town**." },
+        { "text": "What time do you **go to bed**?" },
+        { "text": "You must **come to our house**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in and at = where you are",
+      "text": "After **be**, **stay**, **live** and *do something* we use **in** or **at** + the place. Nobody is moving here.",
+      "examples": [
+        { "text": "Piccadilly Circus **is in London**." },
+        { "text": "My brother **lives in Italy**." },
+        { "text": "I like **reading in bed**." },
+        { "text": "Sarah **wasn't at work** yesterday." },
+        { "text": "Helen **stayed at her brother's house**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The same place, two prepositions",
+      "left": {
+        "label": "to (you go there)",
+        "examples": [
+          "The bus is going **to the airport**.",
+          "Karen didn't go **to work** yesterday.",
+          "I went **to a party** last night."
+        ]
+      },
+      "right": {
+        "label": "in / at (you are there)",
+        "examples": [
+          "The bus is **at the airport**.",
+          "Sarah wasn't **at work** yesterday.",
+          "I met a lot of people **at the party**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "home",
+      "text": "With **home** we use no preposition after go, come, walk or get. But for the place we say **at home**.",
+      "examples": [
+        { "text": "I'm tired. I'm **going home**.", "wrong": "going to home" },
+        { "text": "Did you **walk home**?" },
+        { "text": "I'm **staying at home** tonight." },
+        { "text": "Dan doesn't go to an office. He **works at home**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "arrive and get",
+      "text": "We **arrive in** a country or a town, but we **arrive at** other places. With **get** we always say **get to**.",
+      "examples": [
+        { "text": "They **arrived in England** last week.", "wrong": "arrived to England" },
+        { "text": "What time did you **arrive at the hotel**?", "wrong": "arrive to the hotel" },
+        { "text": "What time did you **get to** the hotel?" },
+        { "text": "What time did you **get to** Paris?" },
+        { "text": "I was tired when I **got home**.", "note": "or: when I arrived home - no preposition" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which preposition?",
+      "columns": ["Verb", "Preposition", "Example"],
+      "rows": [
+        ["go / come / walk", "to", "go to work"],
+        ["be / stay / live", "in or at", "be at work"],
+        ["go / get / arrive + home", "no preposition", "go home / get home"],
+        ["arrive (a country or town)", "in", "arrive in Paris"],
+        ["arrive (other places)", "at", "arrive at the station"],
+        ["get", "to", "get to the hotel"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never say ~~to home~~: it is *I'm going home* and *I'm at home*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We're going ___ Italy next month.",
+      "hint": "(to / in)",
+      "answers": ["to"],
+      "explanation": "go + to + the place you travel to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue is on holiday ___ Italy at the moment.",
+      "hint": "(to / in)",
+      "answers": ["in"],
+      "explanation": "She is there now, so we use in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was tired, so I stayed ___ bed late.",
+      "hint": "(to / in)",
+      "answers": ["in"],
+      "explanation": "stay + in bed: this is where she was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What time do you usually go ___ bed?",
+      "hint": "(to / in)",
+      "answers": ["to"],
+      "explanation": "go to bed is movement, so we use to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tina is not very well. She has gone ___ the doctor.",
+      "hint": "(to / at)",
+      "answers": ["to"],
+      "explanation": "go / has gone + to + the place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were 20,000 people ___ the football match.",
+      "hint": "(to / at)",
+      "answers": ["at"],
+      "explanation": "The people were there, so we use at."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we say arrive in or arrive at with each place?",
+      "categories": ["arrive in ...", "arrive at ..."],
+      "items": [
+        { "text": "England", "category": 0 },
+        { "text": "the station", "category": 1 },
+        { "text": "Paris", "category": 0 },
+        { "text": "the hotel", "category": 1 },
+        { "text": "Italy", "category": 0 },
+        { "text": "work", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm tired. I'm going ___.",
+      "options": ["home", "to home", "at home"],
+      "answer": 0,
+      "explanation": "go home takes no preposition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "After the accident three people were taken ___ hospital.",
+      "options": ["to", "at", "in"],
+      "answer": 0,
+      "explanation": "They were moved there, so we use to."
+    },
+    {
+      "type": "true_false",
+      "statement": "They arrived to England last week.",
+      "answer": false,
+      "explanation": "They arrived in England last week. We say arrive in a country or a town."
+    },
+    {
+      "type": "true_false",
+      "statement": "What time did you arrive at the hotel?",
+      "answer": true,
+      "explanation": "We say arrive at for places like a hotel, a station or work."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You ate in a restaurant and then returned to your hotel. Put the sentence in order.",
+      "words": ["We", "had", "a good meal", "at", "a restaurant,", "and then", "we went back", "to", "the hotel."],
+      "answer": "We had a good meal at a restaurant, and then we went back to the hotel.",
+      "explanation": "at a restaurant (where you were) but back to the hotel (where you went)."
+    }
+  ]
+}

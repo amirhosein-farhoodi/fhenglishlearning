@@ -1,0 +1,184 @@
+{
+  "number": 58,
+  "title": "have",
+  "subtitle": "I've got / I have / I had",
+  "summary": "Use have and have got to say what is yours, and use have (never have got) in expressions like have breakfast, have a shower and have a good time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "have and have got",
+      "text": "**I've got** something and **I have** something mean the same thing: it is mine. Both are correct, so you can choose.",
+      "examples": [
+        { "text": "I**'ve got** a new car. *or* I **have** a new car." },
+        { "text": "Sue **has got** long hair. *or* Sue **has** long hair." },
+        { "text": "**Have** they **got** any children? *or* **Do** they **have** any children?" },
+        { "text": "Tim **hasn't got** a job. *or* Tim **doesn't have** a job." },
+        { "text": "How much time **have** you **got**? *or* How much time **do** you **have**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Illnesses",
+      "text": "We use **have got** or **have** for illnesses too: a headache, a toothache, a pain in my leg, a cold, a cough, a sore throat, a temperature, flu.",
+      "examples": [
+        { "text": "I**'ve got** a headache. *or* I **have** a headache." },
+        { "text": "**Have** you **got** a cold? *or* **Do** you **have** a cold?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past: I had",
+      "text": "In the past we say **I had** (with no *got*), **I didn't have** and **Did you have?**",
+      "examples": [
+        { "text": "When I first met Sue, she **had** short hair." },
+        { "text": "He **didn't have** any money because he **didn't have** a job." },
+        { "text": "**Did** you **have** enough time to do everything you wanted?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "have breakfast / have a cup of coffee",
+      "columns": ["have + ...", "Example"],
+      "rows": [
+        ["breakfast / lunch / dinner", "*A:* Where's Liz? *B:* She**'s having** lunch."],
+        ["a meal / a sandwich / a pizza", "I **don't** usually **have** breakfast."],
+        ["a cup of coffee / a glass of milk", "I **had** three cups of coffee this morning."],
+        ["something to eat / something to drink", "*A:* **Have** a biscuit! *B:* Oh, thank you."]
+      ],
+      "note": "In these expressions **have** = eat, drink or take. You cannot use *have got* here."
+    },
+    {
+      "type": "table",
+      "heading": "More expressions with have",
+      "columns": ["have + ...", "Example"],
+      "rows": [
+        ["a bath / a shower", "I **had** a shower this morning."],
+        ["a rest / a holiday / a party", "We**'re having** a party next week. You must come."],
+        ["a nice time / a good trip / fun", "Enjoy your holiday. **Have** a nice time!"],
+        ["a walk / a swim / a game (of tennis)", "**Did** you **have** a good time in Tokyo?"],
+        ["a dream / an accident / a baby", "Sandra **has** just **had** a baby."],
+        ["a look (at something)", "Can I **have** a look at your newspaper?"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "have got or have?",
+      "left": {
+        "label": "have got or have (= it is mine)",
+        "text": "A man points at a new shower in his bathroom.",
+        "examples": [
+          "I**'ve got** a new shower. It's very good.",
+          "I **have** a new shower. It's very good."
+        ]
+      },
+      "right": {
+        "label": "have only (not have got)",
+        "text": "A woman is under the water in the shower now.",
+        "examples": [
+          "I **have** a shower every morning.",
+          "*A:* Where's Paul? *B:* He**'s having** a shower."
+        ]
+      },
+      "note": "Not ~~I've got a shower every morning~~. Here *have* = take, so *have got* is not possible."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He can't open the door. He ___ a key.",
+      "hint": "(he / not / have)",
+      "answers": ["hasn't got", "has not got", "doesn't have", "does not have"],
+      "explanation": "He hasn't got a key or He doesn't have a key. Both are correct."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ a cold last week. He's better now.",
+      "hint": "(Gary / have)",
+      "answers": ["Gary had"],
+      "explanation": "Last week is the past, so we use had (with no got)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ any problems when you were on holiday?",
+      "options": ["Did you have", "Have you got", "Do you have"],
+      "answer": 0,
+      "explanation": "The holiday is finished, so the past question is Did you have ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We wanted to go by taxi, but ___ enough money.",
+      "hint": "(we / not / have)",
+      "answers": ["we didn't have", "we did not have"],
+      "explanation": "The past negative is didn't have."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz is very busy. ___ much free time.",
+      "hint": "(she / not / have)",
+      "answers": ["She hasn't got", "She has not got", "She doesn't have", "She does not have"],
+      "explanation": "She hasn't got much free time or She doesn't have much free time."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can you use have got here, or do you need have only?",
+      "categories": ["have got is possible", "have only (not have got)"],
+      "items": [
+        { "text": "a new car", "category": 0 },
+        { "text": "long hair", "category": 0 },
+        { "text": "a headache", "category": 0 },
+        { "text": "a job", "category": 0 },
+        { "text": "a shower every morning", "category": 1 },
+        { "text": "breakfast at eight o'clock", "category": 1 },
+        { "text": "a party next week", "category": 1 },
+        { "text": "a look at your newspaper", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "What are these people doing? Match each situation with the right sentence.",
+      "pairs": [
+        { "left": "A woman is sitting down with a teapot and a cup.", "right": "She's having a cup of tea." },
+        { "left": "A man is lying on the sofa with his eyes closed.", "right": "He's having a rest." },
+        { "left": "A family are round the table in the morning with bread and coffee.", "right": "They're having breakfast." },
+        { "left": "An old couple are eating at a table in the evening.", "right": "They're having dinner." },
+        { "left": "A man is sitting in the bath in a lot of water.", "right": "He's having a bath." },
+        { "left": "People are laughing on a fast ride at the fair.", "right": "They're having a good time." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emily is going on holiday. What do you say to her before she goes? ___ a nice holiday!",
+      "hint": "(have)",
+      "answers": ["Have"],
+      "explanation": "Have a nice holiday! We use have for a nice time, a good trip and so on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's Monday morning. You are at work. Ask Paula about her weekend: ___ a nice weekend?",
+      "hint": "(you / have)",
+      "answers": ["Did you have"],
+      "explanation": "The weekend is finished, so we ask Did you have a nice weekend?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Shall we ___? *B:* No, I'm not hungry.",
+      "hint": "(have / something to eat)",
+      "answers": ["have something to eat"],
+      "explanation": "Here have = eat, so have got is not possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've got a shower every morning.",
+      "answer": false,
+      "explanation": "I have a shower every morning. Here have = take, so have got is not possible."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the question in the right order.",
+      "words": ["Did", "you", "have", "enough time", "to do", "everything", "you wanted?"],
+      "answer": "Did you have enough time to do everything you wanted?",
+      "explanation": "In past questions we use did + have, not had."
+    }
+  ]
+}

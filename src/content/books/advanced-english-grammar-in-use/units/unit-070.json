@@ -1,0 +1,171 @@
+{
+  "number": 70,
+  "title": "Adjectives + to-infinitive, -ing, that-clause, wh-clause",
+  "subtitle": "free to leave / busy doing",
+  "summary": "Choose the pattern that follows an adjective: a to-infinitive, an -ing form, a that-clause or a wh-clause.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Four patterns after an adjective",
+      "columns": ["Pattern", "Example", "Adjectives used like this"],
+      "rows": [
+        ["+ to-infinitive", "You're **free to leave** at any time you want.", "(un)able, careful, crazy, curious, difficult, easy, foolish, free, good, hard, impossible, inclined, mad, nice, prepared, ready, stupid, welcome, willing"],
+        ["+ -ing", "He was **busy doing** his homework.", "busy, crazy, foolish, mad, stupid; after the verb *feel*: awful, awkward, bad, good, guilty, terrible"],
+        ["+ that-clause", "He became **worried (that)** she might fall down.", "afraid, alarmed, amazed, angry, annoyed, ashamed, astonished, aware, concerned, disappointed, glad, (un)happy, pleased, shocked, sorry, upset, worried; certain, confident, positive, sure"],
+        ["+ wh-clause", "I'm **not certain (of / about) why** he wants to borrow the money.", "afraid, not aware / unaware, not certain / uncertain, doubtful, not sure / unsure, worried"]
+      ],
+      "note": "These adjectives come after a linking verb (appear, be, become, feel, seem)."
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives that allow two patterns",
+      "columns": ["Both patterns", "Examples"],
+      "rows": [
+        ["to-infinitive or that-clause - all the that-clause adjectives except aware, confident and positive", "She was **afraid to say** anything. / I was **afraid that** I would be late."],
+        ["to-infinitive or -ing - crazy, foolish, mad, stupid", "He'd be **stupid to leave** now. / He'd be **stupid giving up** the job."],
+        ["-ing or that-clause - after *feel*: awful, awkward, bad, good, guilty, terrible", "She felt **awful leaving** him with all the clearing up. / She felt **awful that** she was late."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The fireworks were amazing to watch",
+      "left": {
+        "label": "subject + linking verb + adjective + to-infinitive",
+        "examples": ["The fireworks were **amazing to watch**.", "The top of the jar was **awkward to get off**."]
+      },
+      "right": {
+        "label": "*It* + linking verb + adjective + to-infinitive",
+        "examples": [
+          "**It was amazing to watch** the fireworks.",
+          "**It was awkward to get** the top off the jar.",
+          "In informal speech an -ing form is possible: **It was amazing watching** the fireworks."
+        ]
+      },
+      "note": "Also annoying, easy, good, interesting, lovely, simple, terrific, wonderful."
+    },
+    {
+      "type": "explain",
+      "heading": "It + adjective + wh- or that-clause",
+      "text": "The same it pattern works with a wh-clause or a that-clause after the adjective.",
+      "examples": [
+        { "text": "**It is not clear why** he did it." },
+        { "text": "**It was odd that** she left so suddenly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "of + subject",
+      "text": "After certain adjectives we often put of + subject between the adjective and the to-infinitive. The same idea can be expressed with the person as subject.",
+      "examples": [
+        { "text": "It was rude (**of them**) to criticise her. / They were rude to criticise her." },
+        { "text": "It was brave **of her** to spend the night in the old house alone." }
+      ],
+      "note": "Also generous, kind, mean, thoughtful, unprofessional, unreasonable."
+    },
+    {
+      "type": "explain",
+      "heading": "It made me angry ...",
+      "text": "To say how somebody reacts to a situation we can use it + make + object + adjective, followed by a to-infinitive, an -ing form or a that-clause.",
+      "examples": [
+        { "text": "**It made me angry** (to discover) that so much money was wasted.", "note": "or It made me angry discovering that ... / I was angry to discover that ..." },
+        { "text": "**It made me nervous** hearing the dentist's drill as I sat in the waiting room." }
+      ],
+      "note": "Also ashamed, furious, glad, happy, miserable, sad, tired, uncomfortable."
+    },
+    {
+      "type": "tip",
+      "text": "aware, confident and positive take a that-clause, never a to-infinitive: he was confident **that he wouldn't get lost**, not ~~confident not to get lost~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm afraid I can't afford that much. Would you be prepared ___ the price if I pay cash?",
+      "hint": "(reduce)",
+      "answers": ["to reduce"],
+      "explanation": "Prepared is followed by a to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He felt good ___ that he had helped solve the problem.",
+      "hint": "(know)",
+      "answers": ["knowing"],
+      "explanation": "After feel + good we use an -ing form, not a to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was too busy ___ on the phone to notice that Roya had come into the room.",
+      "hint": "(talk)",
+      "answers": ["talking"],
+      "explanation": "Busy is always followed by an -ing form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went into town, but I felt a bit ___ all day.",
+      "options": ["guilty shopping", "guilty to shop", "guilty shop"],
+      "answer": 0,
+      "explanation": "After feel + guilty we use an -ing form (or a that-clause: guilty that I had shopped all day)."
+    },
+    {
+      "type": "true_false",
+      "statement": "On the bus back to the hotel I got talking to a local woman and was concerned learning that it got very cold in the hills at night.",
+      "answer": false,
+      "explanation": "... and was concerned to learn that it got very cold in the hills at night. Concerned takes a to-infinitive or a that-clause."
+    },
+    {
+      "type": "true_false",
+      "statement": "I started to get worried that he might be in danger, but I wasn't certain what to do.",
+      "answer": true,
+      "explanation": "Correct. Worried takes a that-clause, and not certain can be followed by a wh-clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anyone trying to climb the mountain would be foolish ___ the challenge facing them.",
+      "hint": "(underestimate)",
+      "answers": ["to underestimate", "underestimating"],
+      "explanation": "Foolish, crazy, mad and stupid take either a to-infinitive or an -ing form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We ended up arguing, but he said that he was ___ lost.",
+      "options": ["confident that he wouldn't get", "confident not to get", "confident of not get"],
+      "answer": 0,
+      "explanation": "Confident takes a that-clause; unlike afraid or worried, it never takes a to-infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I said he was stubborn and that he just ___ that I'd been right.",
+      "options": ["wasn't prepared to admit", "wasn't prepared admitting", "wasn't prepared admit"],
+      "answer": 0,
+      "explanation": "Prepared is followed by a to-infinitive, even in the negative."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'Such a magnificent performance was wonderful to hear' beginning with It.",
+      "words": ["It was", "wonderful", "to hear", "such a", "magnificent performance."],
+      "answer": "It was wonderful to hear such a magnificent performance.",
+      "explanation": "It + linking verb + adjective + to-infinitive is an alternative to subject + be + adjective + to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He criticised the headteacher in front of the staff. It was unprofessional ___ to criticise her like that.",
+      "hint": "(he)",
+      "answers": ["of him"],
+      "explanation": "After adjectives like unprofessional, kind and mean we add of + object pronoun."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern can follow each adjective?",
+      "categories": ["that-clause only", "to-infinitive or that-clause", "to-infinitive only"],
+      "items": [
+        { "text": "confident", "category": 0 },
+        { "text": "aware", "category": 0 },
+        { "text": "afraid", "category": 1 },
+        { "text": "sorry", "category": 1 },
+        { "text": "free", "category": 2 },
+        { "text": "willing", "category": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "number": 114,
+  "title": "go in, fall off, run away etc. (phrasal verbs 1)",
+  "subtitle": "go in / get out / stand up / come back",
+  "summary": "Learn phrasal verbs: a verb like go, look or get plus a word like in, out, up, down, away, back, over or round.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a phrasal verb?",
+      "text": "A phrasal verb is a verb (**go**, **look**, **get**, **be** etc.) + **in**, **out**, **up**, **down** etc. **in** = into a place. **out** = out of a place.",
+      "examples": [
+        { "text": "I waited outside the shop. I didn't **go in**." },
+        { "text": "Sarah opened the door of the car and **got in**.", "note": "= into the car" },
+        { "text": "I went to the window and **looked out**." },
+        { "text": "The car stopped and a woman **got out**.", "note": "= out of the car" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "on and off",
+      "left": {
+        "label": "on",
+        "examples": ["The bus came, and I **got on**."]
+      },
+      "right": {
+        "label": "off",
+        "examples": ["Be careful! Don't **fall off**.", "The bus stopped, and she **got off**."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "up and down",
+      "text": "**up** = to a higher place or position. **down** = to a lower place or position.",
+      "examples": [
+        { "text": "He **stood up** and left the room." },
+        { "text": "I usually **get up** early.", "note": "= get out of bed" },
+        { "text": "We **looked up** at the stars in the sky." },
+        { "text": "The picture **fell down**." },
+        { "text": "Would you like to **sit down**?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "away (or off) and back",
+      "left": {
+        "label": "away or off (= from a place)",
+        "examples": [
+          "The thief **ran away**.",
+          "Emma got into the car and **drove away**.",
+          "Tim has **gone away** for a few days."
+        ]
+      },
+      "right": {
+        "label": "back (= to the place again)",
+        "examples": [
+          "Go away and don't **come back**!",
+          "We went out for dinner and then **went back** to our hotel.",
+          "Tim is away. He'll **be back** on Monday."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "over and round (or around)",
+      "text": "**over** = from one side to the other side, or to the other side of a page. **round** (or **around**) = in a circle, so that you face the other way.",
+      "examples": [
+        { "text": "The wall wasn't very high, so we **climbed over**." },
+        { "text": "**Turn over** and look at the next page." },
+        { "text": "Somebody shouted my name, so I **looked round**." },
+        { "text": "We went for a long walk. After an hour we **turned round** and went back." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More phrasal verbs",
+      "columns": ["Phrasal verb", "Meaning"],
+      "rows": [
+        ["wake up", "stop sleeping"],
+        ["hold on", "wait"],
+        ["slow down", "go more slowly"],
+        ["speak up", "speak more loudly"],
+        ["carry on", "continue"],
+        ["give up", "stop trying"],
+        ["break down", "stop working (a car or a machine)"],
+        ["take off", "leave the ground (a plane)"],
+        ["fall over", "fall to the ground"],
+        ["get on", "make progress"],
+        ["go off", "start ringing (an alarm)"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*round* and *around* mean the same in these verbs: *I looked round* = *I looked around*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The door was open, so we went ___.",
+      "hint": "(in / out)",
+      "answers": ["in"],
+      "explanation": "go in = go into a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He heard a plane, so he looked ___.",
+      "hint": "(up / down)",
+      "answers": ["up"],
+      "explanation": "look up = turn your eyes to a higher place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bus stopped, and she got ___.",
+      "hint": "(on / off)",
+      "answers": ["off"],
+      "explanation": "We get on a bus and we get off it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a free seat, so she sat ___.",
+      "answers": ["down"],
+      "explanation": "sit down = take a seat."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A car stopped, and two men got ___.",
+      "options": ["out", "in", "up"],
+      "answer": 0,
+      "explanation": "get out = get out of a car."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "hold on", "right": "wait" },
+        { "left": "slow down", "right": "go more slowly" },
+        { "left": "carry on", "right": "continue" },
+        { "left": "give up", "right": "stop trying" },
+        { "left": "break down", "right": "stop working" },
+        { "left": "speak up", "right": "speak more loudly" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence need away or back?",
+      "categories": ["away", "back"],
+      "items": [
+        { "text": "Wait a minute. Don't go ___. I want to ask you something.", "category": 0 },
+        { "text": "Emma got into the car and drove ___.", "category": 0 },
+        { "text": "Tim has gone ___ for a few days.", "category": 0 },
+        { "text": "Mark lives in London now, but he wants to go ___ to Canada.", "category": 1 },
+        { "text": "We went out for dinner and then went ___ to our hotel.", "category": 1 },
+        { "text": "Tim is away. He'll be ___ on Monday.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When you have read this page, turn ___ and read the other side.",
+      "answers": ["over"],
+      "explanation": "turn over = turn a page to the other side."
+    },
+    {
+      "type": "true_false",
+      "statement": "The train slowed down and finally stopped.",
+      "answer": true,
+      "explanation": "slow down = go more slowly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like flying, but I'm always nervous when the plane ___.",
+      "hint": "(take off)",
+      "answers": ["takes off"],
+      "explanation": "take off = leave the ground."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The fire alarm ___ and everyone had to leave the building.",
+      "hint": "(go off)",
+      "answers": ["went off"],
+      "explanation": "go off = start ringing. The past of go is went."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are in the street. Somebody behind you shouts your name. Put the sentence in order.",
+      "words": ["Somebody", "shouted", "my name,", "so I", "looked round."],
+      "answer": "Somebody shouted my name, so I looked round.",
+      "explanation": "look round (or look around) = turn so that you can see behind you."
+    }
+  ]
+}

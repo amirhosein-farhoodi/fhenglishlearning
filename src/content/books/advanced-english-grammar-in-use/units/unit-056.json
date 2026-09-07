@@ -1,0 +1,186 @@
+{
+  "number": 56,
+  "title": "Other ways of adding information to noun phrases 1: additional noun phrases, etc.",
+  "subtitle": "Dr Alex Parr, director of the State Museum",
+  "summary": "Add information to a noun phrase with a second noun phrase, with namely or that is, and with participle and to-infinitive clauses.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two noun phrases, one person or thing",
+      "text": "We often add information about a person or thing by talking about the same person or thing again in a following noun phrase. In writing the two items are usually separated by a comma, and in speech by a pause or another intonation break.",
+      "examples": [
+        { "text": "A hooded cobra, **one of the world's most dangerous snakes**, has escaped from Dudley Zoo." },
+        { "text": "Dr Alex Parr, **director of the State Museum**, is to become the government's arts adviser." },
+        { "text": "Four kilos of Beluga caviar, **among the most expensive foods in the world**, has been ordered for the reception." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Comma or no comma?",
+      "left": {
+        "label": "With commas - extra information",
+        "text": "The second phrase simply adds a detail, like a non-defining relative clause.",
+        "examples": [
+          "Dr Sofia Lopez, **head of Downlands Hospital**, has criticised government plans to cut health funding."
+        ]
+      },
+      "right": {
+        "label": "No comma - it says which one",
+        "text": "When the second item works like a defining relative clause - usually a name - there is no punctuation and no intonation break.",
+        "examples": [
+          "My friend **Mia** has moved to Sweden.",
+          "The current champion is expected to survive her first-round match with the Italian **Silvia Farina**.",
+          "One of the most popular modern writers for children is the Australian **John Marsden**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Joining with and or or",
+      "text": "A conjunction can link the two noun phrases. With and the second phrase adds another role the same person has; with or it gives another name for the same thing.",
+      "examples": [
+        { "text": "Kurt Svensson, her teacher **and** well-known concert pianist, thinks that she has great talent.", "note": "= her teacher is also a well-known concert pianist" },
+        { "text": "Phonetics **or** the study of speech sounds is a common component on courses in teaching English as a foreign language." },
+        { "text": "Tonya's father, **and** (her) trainer for the last ten years, was in the crowd to watch her victory." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "namely and that is",
+      "text": "The adverb namely and the phrase that is introduce the specific details behind a general noun phrase.",
+      "examples": [
+        { "text": "This side effect of the treatment, **namely** weight gain, is counteracted with other drugs." },
+        { "text": "The main cause of global warming, **that is** the burning of fossil fuels, is to be the focus of negotiations at the international conference." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Participle clauses = defining relative clauses",
+      "columns": ["Participle clause", "Relative clause", "Voice"],
+      "rows": [
+        ["The people **living** next door come from Italy.", "The people who are living next door ...", "-ing = active verb"],
+        ["The weapon **used** in the murder has now been found.", "The weapon that was used ...", "-ed = passive verb"],
+        ["The prisoners **being released** are all women.", "The prisoners who are being released ...", "being + -ed = passive verb"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "to-infinitive clauses",
+      "text": "A to-infinitive clause can also add information to a noun phrase, often saying what the noun is for or what it consists of.",
+      "examples": [
+        { "text": "Have you brought a book **to read**?" },
+        { "text": "My decision **to resign from the company** was made after a great deal of thought." },
+        { "text": "I thought that the management's offer, **to increase staff holidays**, was a good one." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Newspaper style: -ing and -ed between commas or dashes",
+      "text": "In written English, particularly in newspapers, -ing and -ed clauses are also used instead of non-defining relative clauses. They are written between commas or dashes.",
+      "examples": [
+        { "text": "The men, **wearing anoraks and hats**, made off in a stolen Volvo estate." },
+        { "text": "The proposals - **expected to be agreed by ministers** - are less radical than many employers had feared." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "To pick the participle, turn the phrase back into a relative clause: if the verb would be active, use -ing; if it would be passive, use -ed or being + -ed."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "There is a sign on the gate ___ 'Entry forbidden'.",
+      "hint": "(say)",
+      "answers": ["saying"],
+      "explanation": "= which says. An active relative clause becomes an -ing participle clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rivers ___ into the Baltic Sea are much cleaner now than ten years ago.",
+      "hint": "(flow)",
+      "answers": ["flowing"],
+      "explanation": "= which flow into the Baltic Sea - an active verb, so -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anyone ___ further information can see me in my office.",
+      "hint": "(need)",
+      "answers": ["needing"],
+      "explanation": "= anyone who needs further information."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to a reunion for students ___ in the physics department during the 1990s.",
+      "hint": "(educate)",
+      "answers": ["educated"],
+      "explanation": "= who were educated - a passive verb, so the -ed participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The booklets ___ as we speak will be on sale later this afternoon.",
+      "hint": "(print)",
+      "answers": ["being printed"],
+      "explanation": "= which are being printed. A present passive needs being + -ed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the participle clause stand for an active or a passive relative clause?",
+      "categories": ["Active (who / which + active verb)", "Passive (who / which + be + -ed)"],
+      "items": [
+        { "text": "The people living next door come from Italy.", "category": 0 },
+        { "text": "The weapon used in the murder has now been found.", "category": 1 },
+        { "text": "The prisoners being released are all women.", "category": 1 },
+        { "text": "Rivers flowing into the Baltic Sea are much cleaner now.", "category": 0 },
+        { "text": "Anyone needing further information can see me in my office.", "category": 0 },
+        { "text": "Across the river were some of the deer introduced into the park in the 19th century.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The weapon ___ in the murder has now been found.",
+      "options": ["used", "using", "being used"],
+      "answer": 0,
+      "explanation": "The weapon was used, so the clause is passive and complete: the -ed participle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with its ending. Each one adds the specific detail after namely or that is.",
+      "pairs": [
+        { "left": "Leo Tolstoy's most celebrated novel, namely War and Peace,", "right": "was published in 1869." },
+        { "left": "The two countries having land borders with the USA, namely Mexico and Canada,", "right": "have complained to the President about the new customs regulations." },
+        { "left": "The three most popular pets in Britain, namely cats, dogs and rabbits,", "right": "are found in 25% of households." },
+        { "left": "The capital of Estonia, that is Tallinn,", "right": "is situated on the Gulf of Finland." },
+        { "left": "The largest island in the world, that is Greenland,", "right": "covers over 2 million square kilometres." },
+        { "left": "The 'consumers' of education, that is students,", "right": "should have ways of complaining about poor teaching." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The men, wearing anoraks and hats, made off in a stolen Volvo estate.",
+      "answer": true,
+      "explanation": "Correct. In written English an -ing clause between commas replaces a non-defining relative clause (the men, who were wearing ...)."
+    },
+    {
+      "type": "true_false",
+      "statement": "My friend, Mia, has moved to Sweden.",
+      "answer": false,
+      "explanation": "My friend Mia has moved to Sweden. When the second item says which person we mean - usually a name - we use no commas."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Add 'Sofia Lopez is head of Downlands Hospital' to the news sentence as a second noun phrase.",
+      "words": ["Dr Sofia Lopez,", "head of Downlands Hospital,", "has criticised", "government plans", "to cut health funding."],
+      "answer": "Dr Sofia Lopez, head of Downlands Hospital, has criticised government plans to cut health funding.",
+      "explanation": "The extra noun phrase goes between commas straight after the name."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Add the other name for rubella (German measles) to the sentence.",
+      "words": ["Rubella,", "or German measles,", "is still", "a common childhood disease", "in many countries."],
+      "answer": "Rubella, or German measles, is still a common childhood disease in many countries.",
+      "explanation": "or introduces another name for the same thing."
+    }
+  ]
+}

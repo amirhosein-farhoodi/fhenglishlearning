@@ -1,0 +1,183 @@
+{
+  "number": 92,
+  "title": "too",
+  "subtitle": "too big / too much",
+  "summary": "Use too to say that something is more than you want, and see the difference between too and not enough.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "More than you want",
+      "text": "A boy is wearing his father's shoes. The shoes are much bigger than his feet. A man puts a lot of sugar in his tea, drinks it and says 'Uggghhh!'. In both situations we use **too**. **too** means more than you want or more than is good.",
+      "examples": [
+        { "text": "His shoes are **too big** for him." },
+        { "text": "There is **too much** sugar in it." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "too + adjective / adverb",
+      "text": "We use **too** before an adjective (**too big**, **too loud**) or an adverb (**too hard**, **too fast**). A woman covers her ears next to a radio and says 'It's too loud.'",
+      "examples": [
+        { "text": "Can you turn the radio down? It's **too loud**.", "note": "= louder than I want" },
+        { "text": "I can't work. I'm **too tired**." },
+        { "text": "I think you work **too hard**." },
+        { "text": "She's driving **too fast**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "too much or too many?",
+      "left": {
+        "label": "too much + one thing you cannot count",
+        "text": "rain, sugar, coffee, money, time",
+        "examples": [
+          "I don't like the weather here. There is **too much rain**.",
+          "Emily studies all the time. I think she studies **too much**.",
+          "You drink **too much coffee**. It's not good for you."
+        ]
+      },
+      "right": {
+        "label": "too many + things you can count",
+        "text": "people, cars, mistakes, cups",
+        "examples": [
+          "Let's go to another restaurant. There are **too many people** here.",
+          "Traffic is a problem in this town. There are **too many cars**.",
+          "Our team didn't play well. We made **too many mistakes**."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "too and not enough",
+      "left": {
+        "label": "too big",
+        "text": "A man's hat is much bigger than his head. It is more than he wants.",
+        "examples": [
+          "The hat is **too big** for him.",
+          "The radio is **too loud**. Can you turn it down, please?",
+          "There's **too much sugar** in my coffee.",
+          "I don't feel very well. I ate **too much**."
+        ]
+      },
+      "right": {
+        "label": "not big enough",
+        "text": "Another man's hat is much smaller than his head. It is less than he wants.",
+        "examples": [
+          "The hat is**n't big enough** for him. (= it's **too small**)",
+          "The radio is**n't loud enough**. Can you turn it up, please?",
+          "There's **not enough sugar** in my coffee.",
+          "You're very thin. You do**n't** eat **enough**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "too ... for / too ... to",
+      "columns": ["Structure", "Example"],
+      "rows": [
+        ["too ... **for** somebody/something", "These shoes are **too big for me**."],
+        ["too ... **for** somebody/something", "It's a small house - **too small for a large family**."],
+        ["too ... **to do** something", "I'm **too tired to go** out."],
+        ["too ... **to do** something", "It's **too cold to sit** outside."],
+        ["too ... **for** somebody **to do** something", "She speaks **too fast for me to understand**."]
+      ],
+      "note": "We say *too tired to go out*, not ~~too tired for go out~~."
+    },
+    {
+      "type": "tip",
+      "text": "Use **too** before an adjective (*too cold*) and **too much / too many** before a noun (*too much rain*, *too many cars*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A man is carrying a very big box. He can't lift it. The box is ___.",
+      "hint": "(heavy)",
+      "answers": ["too heavy"],
+      "explanation": "too + adjective: the box is heavier than he wants."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sign says 60, but she is driving at 80. She's driving ___.",
+      "hint": "(fast)",
+      "answers": ["too fast"],
+      "explanation": "too + adverb: too fast = faster than is safe."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't like the weather here. There's ___ rain.",
+      "options": ["too much", "too many", "too"],
+      "answer": 0,
+      "explanation": "rain is something we cannot count, so we use too much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was nowhere to sit on the beach. There were ___ people.",
+      "hint": "(much / many)",
+      "answers": ["too many"],
+      "explanation": "people = things we can count, so we use too many."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we say too much or too many with these words?",
+      "categories": ["too much", "too many"],
+      "items": [
+        { "text": "rain", "category": 0 },
+        { "text": "sugar", "category": 0 },
+        { "text": "coffee", "category": 0 },
+        { "text": "people", "category": 1 },
+        { "text": "cars", "category": 1 },
+        { "text": "mistakes", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't wait for them. I haven't got ___ time.",
+      "hint": "(too / enough)",
+      "answers": ["enough"],
+      "explanation": "I need more time, so I haven't got enough time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You don't eat ___ vegetables. You should eat more.",
+      "hint": "(too / enough)",
+      "answers": ["enough"],
+      "explanation": "'You should eat more' means you don't eat enough."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like the weather here. It's too much cold.",
+      "answer": false,
+      "explanation": "It's too cold. Before an adjective we use too, not too much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you turn the radio up, please? It ___.",
+      "hint": "(loud)",
+      "answers": ["isn't loud enough", "is not loud enough", "'s not loud enough"],
+      "explanation": "We want it louder, so it isn't loud enough."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm too tired ___ out tonight.",
+      "options": ["to go", "for go", "for going"],
+      "answer": 0,
+      "explanation": "too + adjective + to + verb: too tired to go out."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Nobody goes out at night in this town. Say why.",
+      "words": ["It's", "too", "dangerous", "to", "go", "out", "at night."],
+      "answer": "It's too dangerous to go out at night.",
+      "explanation": "too + adjective + to + verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You heard the news and you said nothing. Explain it with too + to.",
+      "words": ["I", "was", "too", "surprised", "to", "say", "anything."],
+      "answer": "I was too surprised to say anything.",
+      "explanation": "too surprised to say anything = I was so surprised that I said nothing."
+    }
+  ]
+}

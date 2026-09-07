@@ -1,0 +1,171 @@
+{
+  "number": 30,
+  "title": "Verb + -ing forms and infinitives 1",
+  "subtitle": "I resented Tom winning the prize.",
+  "summary": "Choose between object + -ing and possessive + -ing, use the right preposition before an -ing form, and pick -ing or a bare infinitive after see, hear and make.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Object + -ing or possessive + -ing",
+      "text": "Some verbs can be followed either by an **object + -ing** or by a **possessive + -ing** with a similar meaning, although the possessive form is usually rather formal. We only use a possessive to talk about a person or a group of people.",
+      "examples": [
+        { "text": "I resented **Tom winning** the prize.", "note": "more formally I resented Tom's winning the prize." },
+        { "text": "Mia recalled **him buying** the book.", "note": "more formally Mia recalled his buying the book." },
+        { "text": "I remember **the horse winning** the race.", "wrong": "the horse's winning the race" }
+      ],
+      "note": "'(dis)liking' verbs: detest, (dis)approve of, (dis)like, hate, love, object to. 'thinking' verbs: forget, imagine, remember, think of."
+    },
+    {
+      "type": "explain",
+      "heading": "to + -ing, where to is a preposition",
+      "text": "After some verbs **to** is a preposition, not part of an infinitive, so an **-ing** form follows. These verbs can also be followed by *to* + a noun phrase.",
+      "examples": [
+        { "text": "She confessed **to stealing** the money.", "note": "also She confessed to the crime." },
+        { "text": "You don't object **to working** late tonight, do you?", "note": "also You don't object to the work, do you?" }
+      ],
+      "note": "Also: adapt, adjust, admit, look forward, own up, resort."
+    },
+    {
+      "type": "table",
+      "heading": "Other prepositions + -ing",
+      "columns": ["Pattern", "Verbs", "Example"],
+      "rows": [
+        ["by + -ing", "begin, close, end, finish (off / up), open, start (off / out)", "Can you begin by cleaning the floors, and then do the windows?"],
+        ["on + -ing, or on + object + -ing", "concentrate, count, depend, focus, insist, rely", "Clare insisted on (Jack) wearing a suit to the party."],
+        ["of + -ing, or of + object + -ing", "approve, hear, know, speak, talk, tell", "Have you ever heard of (anyone) getting arrested for gossiping before?"],
+        ["object + from + -ing", "deter, discourage, keep, prevent, prohibit, stop", "The noise from next door prevented me from sleeping."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "-ing or bare infinitive after feel, hear, notice, observe, overhear, see, watch",
+      "left": {
+        "label": "-ing = an action in progress, not seen from start to finish",
+        "examples": [
+          "I saw them **playing** football from my window.",
+          "I was able to watch them **building** the new car park from my office window."
+        ]
+      },
+      "right": {
+        "label": "bare infinitive = a completed action, watched all the way through",
+        "examples": [
+          "I saw him **smash** the bottle.",
+          "I watched him **climb** through the window, and then I called the police."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "dare and help",
+      "text": "After **dare** and **help** we can use either a bare infinitive or a to-infinitive. But when *dare* has an **object**, only a to-infinitive is possible.",
+      "examples": [
+        { "text": "I was angry with him, but I didn't dare **(to) say** anything." },
+        { "text": "We hope the Twitter campaign will help **(to) raise** awareness of the problem." },
+        { "text": "I dared him **to cross** the river.", "wrong": "I dared him cross the river" },
+        { "text": "I helped them **(to) pack**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "have, let and make",
+      "text": "After **have**, **let** and **make** we use an object + **bare infinitive**, never a to-infinitive.",
+      "examples": [
+        { "text": "His exam results might make him **work** harder.", "wrong": "might make him to work harder" },
+        { "text": "I had Irena **clean up** her bedroom before I let her **go** out to play." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A bare infinitive after see, hear or watch says the whole event happened and you followed it through; an -ing form says you caught it in the middle."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "More formal version: we don't approve of the ___ locating the factory so close to houses.",
+      "hint": "(the developer - possessive)",
+      "answers": ["developer's"],
+      "explanation": "approve of is a '(dis)liking' verb, so a possessive + -ing is possible - and more formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "More formal version: it is difficult to imagine ___ accepting the decision without any objection.",
+      "hint": "(him - possessive)",
+      "answers": ["his"],
+      "explanation": "imagine is a 'thinking' verb: him accepting or, more formally, his accepting."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I heard the tyre ___ and then the lorry skidded across the road.",
+      "options": ["burst", "bursting", "to burst"],
+      "answer": 0,
+      "explanation": "A single, short, completed event takes the bare infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "I watched him climb through the window, and then I called the police.",
+      "answer": true,
+      "explanation": "Correct. The bare infinitive shows that I watched the whole action from start to finish."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings and endings. Watch out for the object each verb needs.",
+      "pairs": [
+        { "left": "When Lana thought of going on the roller-coaster it made ...", "right": "her feel quite ill." },
+        { "left": "The new course is intended to help ...", "right": "people (to) understand modern art." },
+        { "left": "Scientists hope the new drug will help ...", "right": "(them) (to) prevent hay fever." },
+        { "left": "We didn't agree with the decision, but we didn't dare ...", "right": "(to) protest against it." },
+        { "left": "When Ethan arrives, have ...", "right": "him wait outside my office." },
+        { "left": "The dial on the left lets ...", "right": "you control the speed of the fan." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Carl noticed someone ___ him from an upstairs window.",
+      "options": ["watching", "watch", "to watch"],
+      "answer": 0,
+      "explanation": "The -ing form fits: the watching was already going on, so Carl didn't see the whole event."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In a survey, 65% of dentists ___ mistakes in treating patients.",
+      "hint": "(own up)",
+      "answers": ["owned up to making"],
+      "explanation": "own up to + -ing: here to is a preposition, so making follows."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have always detested the dog's jumping up at me when I visit them.",
+      "answer": false,
+      "explanation": "I have always detested the dog jumping up at me. We only use a possessive + -ing for a person or a group of people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would like to ___ the main points of my talk.",
+      "hint": "(end / summarise)",
+      "answers": ["end by summarising"],
+      "explanation": "end, begin, start and finish take by + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My parents ___ to university.",
+      "hint": "(discourage / go)",
+      "answers": ["discouraged me from going"],
+      "explanation": "discourage takes an object + from + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "His exam results might make him to work harder.",
+      "answer": false,
+      "explanation": "His exam results might make him work harder. After have, let and make we use a bare infinitive."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Remember what happens to dare when it has an object.",
+      "words": ["I", "dared", "him", "to cross", "the river"],
+      "answer": "I dared him to cross the river",
+      "explanation": "With an object, dare takes only a to-infinitive: I dared him to cross - not ~~I dared him cross~~."
+    }
+  ]
+}

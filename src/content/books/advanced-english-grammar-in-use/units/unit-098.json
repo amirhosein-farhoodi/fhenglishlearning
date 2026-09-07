@@ -1,0 +1,161 @@
+{
+  "number": 98,
+  "title": "Focusing: it-clauses and what-clauses",
+  "subtitle": "It was Olav that ... / What I did was ...",
+  "summary": "Focus attention on one part of a sentence with an it-clause or a what-clause, and know which wh-words can do the job.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Focusing with it-clauses",
+      "text": "An **it-clause** with *be* focuses attention on whatever comes straight after it. The clause that follows - usually a that-clause - carries information that is already known or less important. Sentences like this are called cleft sentences.",
+      "examples": [
+        { "text": "'Lea bought the car from Olav.' 'No, **it was Olav that** bought the car from Lea.'" },
+        { "text": "I don't mind her criticising me, but **it's how she does it that** I object to." },
+        { "text": "**It was to show** how much I cared for her **that** I bought her the necklace." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "which, who, when, where - but not how or why",
+      "text": "We can use **which** or **who** instead of *that*. **when** and **where** are also possible, though usually only in informal English. **how** and **why** cannot replace *that*.",
+      "examples": [
+        { "text": "Karl was always there to help her, and **it was to him that / who** she now turned for support." },
+        { "text": "'Ida's seriously ill in hospital.' 'But **it was only last Sunday when / that** I was playing tennis with her.'" },
+        { "text": "**It was in Warsaw where / that** the film was made." },
+        { "text": "'No, **it was by improving distribution that** he made it profitable.'", "wrong": "how he made it profitable" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Focusing with what-clauses",
+      "left": {
+        "label": "Neutral",
+        "examples": ["We gave them some home-made cake."]
+      },
+      "right": {
+        "label": "Focus with a what-clause",
+        "examples": ["**What we gave them was** some home-made cake."]
+      },
+      "note": "The information in focus sits outside the what-clause. This pattern is especially common in conversation."
+    },
+    {
+      "type": "explain",
+      "heading": "What what-clauses are for",
+      "text": "We use them to introduce a new topic, to give a reason, instruction or explanation, or to correct something that has been said or done. The what-clause can usually go at either end of the sentence.",
+      "examples": [
+        { "text": "**What I'd like you to work on is** the revision exercise on the website." },
+        { "text": "Isa arrived two hours late: **what had happened was that** his bicycle chain had broken." },
+        { "text": "'We've only got this small bookcase - will that do?' 'No, **what I was looking for was** something much bigger and stronger.'" },
+        { "text": "**What upset me most was** his rudeness. / His rudeness **was what upset me most**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Focusing on an action",
+      "text": "To focus on an action someone performed, use **what + subject + do + be + to-infinitive**. An it-clause cannot do this.",
+      "examples": [
+        { "text": "Luis lost his job and was short of money, so **what he did was (to) sell** his flat and move in with his brother.", "wrong": "it was (to) sell his flat that he did" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other wh-words: use a noun instead",
+      "text": "We don't normally put a *how-, when-, where-, who-* or *why-*clause at the front. Instead we use a noun with a related meaning - **reason** rather than why, **place** rather than where - followed by a that- or wh-clause.",
+      "examples": [
+        { "text": "**The only reason (why / that)** I left the party early **was that** I was feeling unwell.", "note": "rather than Why I left the party early was ..." },
+        { "text": "**The place (where / that)** you should play football is the playground, not the classroom." },
+        { "text": "**Somebody (who / that)** I enjoy reading is Peter Carey." },
+        { "text": "**The time (when / that)** I work best is early morning." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Only *what* can start this kind of focusing clause. For the others, put a noun in front: the reason, the place, the time, somebody."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Mark's known for ages that his parents are coming to stay with us this weekend, but it was only yesterday ___ he told me.",
+      "answers": ["that", "when"],
+      "explanation": "After a time expression in an it-clause, both that and when are possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "It was Olav that bought the car from Lea.",
+      "answer": true,
+      "explanation": "Correct. The it-clause puts the focus on Olav; the rest is already known."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you say that Rudi was going to live in Austria? *B:* No, ___ was that he was going on holiday to Austria.",
+      "answers": ["what I said"],
+      "explanation": "A what-clause is the natural way to correct what someone has just said."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ I left the party early was that I was feeling unwell.",
+      "options": ["The only reason why", "Why", "What"],
+      "answer": 0,
+      "explanation": "A why-clause is avoided at the front; use the noun reason instead."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did it annoy you that Carla came so late? *B:* No, ___ was that she didn't apologise.",
+      "answers": ["what annoyed me"],
+      "explanation": "The what-clause carries the known part; the correction goes at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "It was by improving distribution how he made it profitable.",
+      "answer": false,
+      "explanation": "It was by improving distribution that he made it profitable. how cannot replace that in an it-clause."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the focusing clause with the information it focuses on.",
+      "pairs": [
+        { "left": "It was to show how much I cared for her", "right": "that I bought her the necklace." },
+        { "left": "It was in Warsaw", "right": "that the film was made." },
+        { "left": "What had happened was", "right": "that his bicycle chain had broken." },
+        { "left": "What I'd like you to work on is", "right": "the revision exercise on the website." },
+        { "left": "The place where you should play football is", "right": "the playground, not the classroom." },
+        { "left": "Somebody who I enjoy reading is", "right": "Peter Carey." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* You grew up in this village, didn't you? *B:* In fact the ___ I grew up is between this village and the next.",
+      "answers": ["place where", "place that"],
+      "explanation": "Use the noun place rather than starting the sentence with Where ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She doesn't find learning languages very easy, and it was only by studying very hard ___ she improved her Spanish.",
+      "answers": ["that"],
+      "explanation": "After a by + -ing phrase in an it-clause, only that is possible - not how."
+    },
+    {
+      "type": "true_false",
+      "statement": "Why I left the party early was that I was feeling unwell.",
+      "answer": false,
+      "explanation": "The only reason (why) I left the party early was that I was feeling unwell. A why-clause is not used in this position."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Helena has been feeling a bit depressed for some time, so ... Focus on your reason for booking the holiday.",
+      "words": ["it was", "to cheer her up", "that", "I booked", "a holiday", "in Amsterdam."],
+      "answer": "it was to cheer her up that I booked a holiday in Amsterdam.",
+      "explanation": "The it-clause puts the purpose in focus and leaves the known information for the that-clause."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Did you fly from Sydney to Brisbane? Correct A, focusing on the action.",
+      "words": ["No,", "what I did was", "hire a car", "and", "drive all the way."],
+      "answer": "No, what I did was hire a car and drive all the way.",
+      "alternatives": ["No, what I did was to hire a car and drive all the way."],
+      "explanation": "what + subject + do + be + (to) infinitive focuses on the action performed."
+    }
+  ]
+}

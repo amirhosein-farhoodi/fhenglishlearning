@@ -1,0 +1,175 @@
+{
+  "number": 91,
+  "title": "Talking about exceptions",
+  "subtitle": "except (for) / besides / apart from / but for",
+  "summary": "Say what a statement leaves out with except (for), apart from and but, add to it with besides, and imagine a different past with but for.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "except (for)",
+      "text": "We use **except (for)** to introduce the only thing or person that a statement does not include. Straight before a noun or pronoun, both forms are possible.",
+      "examples": [
+        { "text": "The price of the holiday includes all meals **except (for)** lunch." },
+        { "text": "Everyone seemed to have been invited **except (for)** Mrs Woodford and me." },
+        { "text": "I had no money to give him **except (for)** the few coins in my pocket." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "except, not except for",
+      "text": "We use **except** on its own before to-infinitives, bare infinitives, prepositions and that-clauses - including those where *that* is left out.",
+      "examples": [
+        { "text": "I rarely need to go into the city centre **except to do** some shopping." },
+        { "text": "They look just like the real thing, **except (that)** they're made of plastic." },
+        { "text": "There is likely to be rain everywhere today **except in** Wales." },
+        { "text": "There is nothing more the doctor can do **except keep** an eye on him." }
+      ],
+      "note": "Informally you will hear except for in these places too, but it is not considered grammatically correct."
+    },
+    {
+      "type": "compare",
+      "heading": "Taking away or adding on?",
+      "left": {
+        "label": "except (for) - not included",
+        "examples": [
+          "I don't enjoy watching any sports **except (for)** cricket. (= I enjoy only cricket)",
+          "I haven't read anything by her, **except (for)** one of her short stories."
+        ]
+      },
+      "right": {
+        "label": "besides - as well as, in addition to",
+        "examples": [
+          "**Besides** cricket, I enjoy watching football and basketball. (= I enjoy three sports)",
+          "**Besides** her novels and poems, she published a number of short stories."
+        ]
+      },
+      "note": "Apart from does both jobs: I don't enjoy watching any sports apart from cricket. (= except for) / Apart from cricket, I enjoy watching football and basketball. (= besides)"
+    },
+    {
+      "type": "explain",
+      "heading": "but after negative words",
+      "text": "After negative words such as **no**, **nobody** and **nothing** we can use **but** with a meaning close to except (for).",
+      "examples": [
+        { "text": "After the operation he could see nothing **but** / **except (for)** / **apart from** vague shadows." },
+        { "text": "There was no way out **but** / **except** / **apart from** upwards, towards the light." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "but for - a past that did not happen",
+      "text": "**But for** means something quite different. We use it to say what would or might have happened if the thing it introduces had not happened.",
+      "examples": [
+        { "text": "The country would now be self-sufficient in food **but for** the drought last year.", "note": "= if there hadn't been the drought ..." },
+        { "text": "**But for** the leg injury he suffered last year, he would probably have been picked for the national team by now.", "note": "= if he hadn't injured his leg ..." }
+      ],
+      "note": "In informal speech some people use except for in this way too: I'd have got there on time except for / but for the taxi being late."
+    },
+    {
+      "type": "explain",
+      "heading": "excepted, apart, aside",
+      "text": "After mentioning a person or thing, we can add **excepted**, **apart** or **aside** to show that they are not included in the statement we make.",
+      "examples": [
+        { "text": "It has been, 1984 **excepted** / **apart** / **aside**, the hottest July for the last 100 years." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "except (for) subtracts, besides adds, and but for imagines a past that did not happen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I liked everything in the meal ___ the cabbage.",
+      "hint": "(except / except for)",
+      "answers": ["except", "except for"],
+      "explanation": "Straight before a noun, both except and except for are possible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "After the operation he could see nothing ___ vague shadows.",
+      "options": ["but", "besides", "but for"],
+      "answer": 0,
+      "explanation": "After a negative word like nothing, but means the same as except (for)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She had no choice ___ to wait for the next train.",
+      "hint": "(except / except for)",
+      "answers": ["except"],
+      "explanation": "Before a to-infinitive we use except, never except for."
+    },
+    {
+      "type": "true_false",
+      "statement": "Besides being small, Denmark is very flat, with villages linked by country roads.",
+      "answer": true,
+      "explanation": "Correct. Besides here means 'as well as' - it adds a second fact about Denmark."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had nothing to do ___ sit by the pool and relax.",
+      "hint": "(except / except for)",
+      "answers": ["except"],
+      "explanation": "Before a bare infinitive (sit) we use except."
+    },
+    {
+      "type": "true_false",
+      "statement": "She had never been out of the country besides a week in Ireland as a child.",
+      "answer": false,
+      "explanation": "She had never been out of the country except for a week in Ireland as a child. The week in Ireland is the one exception, not an addition."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence leave something out or add something on?",
+      "categories": ["Leaves it out: except (for)", "Adds it on: besides"],
+      "items": [
+        { "text": "I don't enjoy watching any sports except for cricket.", "category": 0 },
+        { "text": "Besides cricket, I enjoy watching football and basketball.", "category": 1 },
+        { "text": "I haven't read anything by her, except for one of her short stories.", "category": 0 },
+        { "text": "Besides her novels and poems, she published a number of short stories.", "category": 1 },
+        { "text": "There was nothing in the fridge except for a rather mouldy piece of cheese.", "category": 0 },
+        { "text": "Besides being small, Denmark is very flat.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He gave no excuse for turning up late ___ that he was tired.",
+      "hint": "(except / except for)",
+      "answers": ["except"],
+      "explanation": "Before a that-clause we use except."
+    },
+    {
+      "type": "true_false",
+      "statement": "Except for his novels, Campbell wrote a number of biographies.",
+      "answer": false,
+      "explanation": "Besides his novels, Campbell wrote a number of biographies. The biographies are in addition to the novels, so we need besides."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ the problems with my computer, I would have got the book finished weeks ago.",
+      "options": ["But for", "Besides", "Except"],
+      "answer": 0,
+      "explanation": "But for says what would have happened if the problems had not occurred."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each but for phrase with what would have happened without it.",
+      "pairs": [
+        { "left": "But for the excellent directions Katerina gave me,", "right": "I would have got totally lost." },
+        { "left": "But for the interruptions caused by the bad weather,", "right": "the building would have been completed by now." },
+        { "left": "But for the food and medicines supplied by the charity,", "right": "many more people would have died in the famine." },
+        { "left": "But for the shelter provided by the trees,", "right": "the wind would have caused even more damage to the house." },
+        { "left": "But for the threat of sanctions by the EU,", "right": "human rights would not have improved in the country." },
+        { "left": "But for the loan from the bank,", "right": "I would not have been able to set up my business." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "The bad weather caused interruptions, so the building is still not finished. Say it with But for the ... .",
+      "words": ["But for", "the interruptions", "caused by", "the bad weather,", "the building", "would have been", "completed", "by now."],
+      "answer": "But for the interruptions caused by the bad weather, the building would have been completed by now.",
+      "explanation": "But for + noun phrase replaces a whole if-clause: if the bad weather had not caused interruptions ..."
+    }
+  ]
+}

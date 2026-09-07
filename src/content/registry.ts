@@ -1,3 +1,5 @@
+import type { Category, CategoryId } from './categories'
+import { CATEGORIES, DEFAULT_CATEGORY, isCategoryId } from './categories'
 import type { BookMeta, Unit } from './types'
 
 /**
@@ -7,12 +9,35 @@ import type { BookMeta, Unit } from './types'
 const bookModules = import.meta.glob<{ default: BookMeta }>('./books/*/book.json', { eager: true })
 const unitModules = import.meta.glob<{ default: Unit }>('./books/*/units/unit-*.json')
 
+/** A book's shelf, falling back to DEFAULT_CATEGORY so an unlabelled book still shows up. */
+export const categoryOf = (b: BookMeta): CategoryId => (isCategoryId(b.category) ? b.category : DEFAULT_CATEGORY)
+
+/** book.json `order` first (ascending), then title - so a shelf reads in its intended sequence. */
+const byOrderThenTitle = (a: BookMeta, b: BookMeta) =>
+  (a.order ?? Number.MAX_SAFE_INTEGER) - (b.order ?? Number.MAX_SAFE_INTEGER) || a.title.localeCompare(b.title)
+
 export const books: BookMeta[] = Object.values(bookModules)
   .map((m) => m.default)
-  .sort((a, b) => a.title.localeCompare(b.title))
+  .sort(byOrderThenTitle)
 
 export function getBook(slug: string | undefined): BookMeta | undefined {
   return books.find((b) => b.slug === slug)
+}
+
+export interface CategoryShelf {
+  category: Category
+  books: BookMeta[]
+}
+
+/**
+ * Every category in CATEGORIES order, each with its books in `order` order. Categories with no
+ * books are kept in the list - the home page renders them as "in the works".
+ */
+export function shelves(): CategoryShelf[] {
+  return CATEGORIES.map((category) => ({
+    category,
+    books: books.filter((b) => categoryOf(b) === category.id).sort(byOrderThenTitle),
+  }))
 }
 
 export const pad = (n: number) => String(n).padStart(3, '0')

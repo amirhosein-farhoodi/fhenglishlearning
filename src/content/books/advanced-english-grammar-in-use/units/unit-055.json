@@ -1,0 +1,167 @@
+{
+  "number": 55,
+  "title": "Prepositions in relative clauses",
+  "subtitle": "the rate at which / who it was built for",
+  "summary": "Decide where the preposition goes in a relative clause, and use of which, of whom and preposition + whose in formal English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "noun + of which",
+      "text": "In formal styles noun + of which is often preferred to whose + noun, and a fronted of is preferred to leaving of at the end of the clause.",
+      "examples": [
+        { "text": "A huge amount of oil was spilled, the effects **of which** are still being felt.", "note": "or ... whose effects are still being felt." },
+        { "text": "The school **of which** she is head is closing.", "note": "less formally: The school (that / which) she is head of is closing." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "both of which, all of whom, part of which",
+      "text": "After both we use of which or of whose, not which or whose on their own. The same applies after all, each, many, most, neither, none, part, numbers (one, two, the first, half, a third) and superlatives.",
+      "examples": [
+        { "text": "Lotta was able to switch between German and Russian, both **of which** she spoke fluently.", "wrong": "both which she spoke fluently" },
+        { "text": "The school has been given 20 laptops, half **of which** are brand new." },
+        { "text": "The college is home to 30 students from Nepal, almost all **of whom** are studying economics." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "preposition + whose",
+      "text": "In formal, mainly written English a preposition can come in front of whose. In informal and spoken English the preposition sounds more natural at the end of the clause.",
+      "examples": [
+        { "text": "I now turn to Freud, **from whose** work the following quotation is taken.", "note": "less formally ... Freud, whose work the following quotation is taken from." },
+        { "text": "Mr Wang, **across whose** land the road will be built, is unhappy about the plans." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Where does the preposition go?",
+      "left": {
+        "label": "Formal: preposition + which / whom",
+        "examples": [
+          "The rate **at which** a material heats up depends on its chemical composition.",
+          "There are 80 teachers in the Physics Department, among **whom** are 24 professors.",
+          "The valley **in which** the town lies is heavily polluted."
+        ]
+      },
+      "right": {
+        "label": "Informal: preposition at the end",
+        "examples": [
+          "The office **that** Juan took us **to** was filled with books.",
+          "The playground wasn't used by the children **who** it was built **for**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "whom, not who or that, after a preposition",
+      "text": "After a preposition we use whom rather than who in formal styles, and we can never use that or leave the pronoun out.",
+      "examples": [
+        { "text": "Is it right that politicians should make important decisions without consulting the public **to whom** they are accountable?", "wrong": "the public to who they are accountable" },
+        { "text": "The valley **in which** the town lies is heavily polluted.", "wrong": "The valley in that the town lies" }
+      ],
+      "note": "With the preposition at the end, who (or that, or nothing) is fine again: the public who they are accountable to."
+    },
+    {
+      "type": "explain",
+      "heading": "Two-word and three-word verbs",
+      "text": "If the verb in the relative clause is a two-word verb such as come across, break into, fill in, look after or take on, we do not move the preposition in front of the relative pronoun.",
+      "examples": [
+        { "text": "The Roman coins, **which** a local farmer came **across** in a field, are now on display in the National Museum.", "wrong": "coins, across which a local farmer came" },
+        { "text": "The house **which** the thieves broke **into** is owned by Caleb Cruz." },
+        { "text": "She is one of the few people **to whom** I look up.", "note": "three-word verb; less formally ... who I look up to. Many people avoid the fronted version." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you front the preposition, the pronoun has to be which or whom - so the moment you write to that or in that, move the preposition back to the end."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "My Maths teacher, Mr Kato, was someone ___ I had great respect.",
+      "hint": "(for + who)",
+      "answers": ["for whom"],
+      "explanation": "After a preposition we use whom, not who, in this formal pattern."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The building ___ Marcus emerged was little more than a ruin.",
+      "hint": "(from + which)",
+      "answers": ["from which"],
+      "explanation": "Fronting the preposition makes the sentence formal; less formally: The building which Marcus emerged from ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "The school has been given 20 laptops, half of which are brand new.",
+      "answer": true,
+      "explanation": "Correct. After half (like all, both, part, none) we need of which."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have heard her on the violin and clarinet, both which she plays extremely well.",
+      "answer": false,
+      "explanation": "... both of which she plays extremely well. both must be followed by of which."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the ending that completes it.",
+      "pairs": [
+        { "left": "Until 1914 the pound sterling was the currency", "right": "in which most world trade was conducted." },
+        { "left": "They have changed the date", "right": "on which the furniture is to be delivered." },
+        { "left": "He was persuaded to stay in England by Charles Dickens,", "right": "to whom he had shown his novel." },
+        { "left": "Details are in the instruction manual", "right": "with which the printer was supplied." },
+        { "left": "Ms Park was left the money by her former husband,", "right": "from whom she was divorced in 2005." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pasteurisation was discovered by the French chemist Louis Pasteur, ___ it was named.",
+      "hint": "(after + who)",
+      "answers": ["after whom"],
+      "explanation": "after + whom; less formally ... Louis Pasteur, who it was named after."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are a number of safety procedures ___ you should be aware.",
+      "hint": "(of + which)",
+      "answers": ["of which"],
+      "explanation": "be aware takes of, and in this formal style the preposition comes in front of which."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The college is home to 30 students from Nepal, almost all of ___ are studying economics.",
+      "options": ["whom", "who", "which"],
+      "answer": 0,
+      "explanation": "After the preposition of we use whom for people."
+    },
+    {
+      "type": "true_false",
+      "statement": "The house into which the thieves broke is owned by Caleb Cruz.",
+      "answer": false,
+      "explanation": "The house which the thieves broke into is owned by Caleb Cruz. With a two-word verb like break into we leave the preposition where it is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The party, ___, is at Maxine's house.",
+      "options": ["which I've been looking forward to all week", "to which I've been looking forward all week", "which I've been looking forward all week"],
+      "answer": 0,
+      "explanation": "look forward to is a three-word verb, so we keep the preposition at the end."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make this more formal: It is her unmarried name which she is better known by.",
+      "words": ["It is", "her unmarried name", "by which", "she is", "better known."],
+      "answer": "It is her unmarried name by which she is better known.",
+      "explanation": "In formal writing the preposition goes in front of which."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make this more formal: The election result, which there can be no doubt about, is a great disappointment.",
+      "words": ["The election result,", "about which", "there can be", "no doubt,", "is a great disappointment."],
+      "answer": "The election result, about which there can be no doubt, is a great disappointment.",
+      "explanation": "The preposition about moves to the front of the non-defining clause."
+    }
+  ]
+}

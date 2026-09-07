@@ -1,0 +1,160 @@
+{
+  "number": 57,
+  "title": "Other ways of adding information to noun phrases 2: prepositional phrases, etc.",
+  "subtitle": "the man by the window / patients with diabetes who ...",
+  "summary": "Add information to a noun phrase with prepositional phrases, stack phrases and clauses in formal writing, and avoid the ambiguity that stacking can cause.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Prepositional phrases after a noun",
+      "text": "A prepositional phrase after a noun often has a meaning close to a relative clause, and is shorter.",
+      "examples": [
+        { "text": "What's the name of the man **by the window**?", "note": "or ... the man who's by the window?" },
+        { "text": "It's in the cupboard **under the stairs**.", "note": "or ... the cupboard that's under the stairs." },
+        { "text": "She lives in the house **with the red door**.", "note": "or ... the house which has the red door." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When there is no relative-clause version",
+      "text": "Some prepositional phrases have no corresponding relative clause at all - the preposition is simply part of the pattern the noun takes.",
+      "examples": [
+        { "text": "You need to keep a careful record **of what you spend**." },
+        { "text": "There is likely to be an increase **in temperature** tomorrow." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Non-defining: prefer a relative clause",
+      "text": "When the extra information is non-defining (between commas), we usually prefer a full relative clause to a prepositional phrase - particularly with be + preposition or with have as a main verb.",
+      "examples": [
+        { "text": "Mr Chen, **who was in the store** at the time of the robbery, was able to identify two of the men.", "wrong": "Mr Chen, in the store at the time of the robbery," },
+        { "text": "Davide Gallo, **who has a farm** near Pisa, has decided to grow only organic vegetables.", "wrong": "Davide Gallo, with a farm near Pisa," }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Stacking phrases and clauses",
+      "text": "In written English, especially academic writing, a series of prepositional phrases and relative clauses adds information to the same noun phrase one piece at a time.",
+      "examples": [
+        { "text": "Doctors are contacting patients **with diabetes who have taken the drug** in the last six months." },
+        { "text": "Scientists **in Spain who have developed the technique** are optimistic that it will be widely used in laboratories within the next decade." }
+      ],
+      "note": "A prepositional phrase can also be adverbial rather than part of the noun phrase - 'in the last six months' above goes with 'taken the drug'."
+    },
+    {
+      "type": "explain",
+      "heading": "Mixing participle clauses and noun phrases",
+      "text": "The same series can combine participle clauses, prepositional phrases and additional noun phrases.",
+      "examples": [
+        { "text": "The waxwing is the only bird **found in Britain with yellow and red tail feathers**." },
+        { "text": "Mr Bob Timms, **leader of the Democratic Party, MP for Threeoaks**, has announced his resignation." },
+        { "text": "A painting **found in a second-hand shop by Lara Gruber, an antique dealer from Austria**, is thought to be by J.M.W. Turner, the British landscape artist." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Watch out for ambiguity",
+      "text": "Adding a series of prepositional phrases can leave the reader unsure which noun a phrase belongs to. Moving the phrase, or turning it into a participle or relative clause, removes the doubt.",
+      "examples": [
+        { "text": "The protesters were demonstrating against the mistreatment of animals on farms.", "note": "ambiguous: were the protesters on farms, or the animals?" },
+        { "text": "The protesters were demonstrating **on farms** against the mistreatment of animals." },
+        { "text": "The protesters were demonstrating against the mistreatment of animals **kept on farms**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A modifying phrase attaches to the nearest noun, so keep it next to the noun it belongs to - or expand it into a clause."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the prepositional phrase that completes it.",
+      "pairs": [
+        { "left": "Maja's the girl", "right": "with blonde hair." },
+        { "left": "She's in the photograph", "right": "on the piano." },
+        { "left": "I plan to cut down the tree", "right": "in the back garden." },
+        { "left": "There's a team of people", "right": "in green shirts." },
+        { "left": "Go along the lane", "right": "between the houses." },
+        { "left": "Follow the main road", "right": "from Paris to Lyons." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's in the photograph ___ on the piano.",
+      "hint": "(rewrite with a relative clause)",
+      "answers": ["which is", "that is"],
+      "explanation": "The prepositional phrase 'on the piano' becomes a relative clause with be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nico's a boy ___ a quick temper.",
+      "hint": "(rewrite with a relative clause)",
+      "answers": ["who has", "that has"],
+      "explanation": "with + noun becomes who has + noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The children can't get over the fence ___ around the pool.",
+      "hint": "(rewrite with a relative clause)",
+      "answers": ["which is", "that is"],
+      "explanation": "'around the pool' tells us which fence, so the relative clause is defining."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's a teacher ___ New Zealand.",
+      "hint": "(rewrite with a relative clause)",
+      "answers": ["who is from", "who comes from", "that comes from", "that is from"],
+      "explanation": "'from New Zealand' becomes who is from / who comes from."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The waxwing is the only bird ___ in Britain with yellow and red tail feathers.",
+      "hint": "(find)",
+      "answers": ["found"],
+      "explanation": "A passive participle clause (= that is found in Britain) followed by a prepositional phrase."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the more natural version.",
+      "options": ["Mr Chen, who was in the store at the time of the robbery, was able to identify two of the men.", "Mr Chen, in the store at the time of the robbery, was able to identify two of the men.", "Mr Chen, that was in the store at the time of the robbery, was able to identify two of the men."],
+      "answer": 0,
+      "explanation": "In non-defining position we prefer a relative clause to a be + preposition phrase."
+    },
+    {
+      "type": "true_false",
+      "statement": "Davide Gallo, with a farm near Pisa, has decided to grow only organic vegetables.",
+      "answer": false,
+      "explanation": "Davide Gallo, who has a farm near Pisa, has decided to grow only organic vegetables. With have as the main verb we prefer a relative clause here."
+    },
+    {
+      "type": "true_false",
+      "statement": "A man was talking with a grey suit.",
+      "answer": false,
+      "explanation": "A man in a grey suit was talking. (or A man wearing a grey suit was talking.) As it stands, the phrase attaches to 'talking', which makes no sense."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which version says clearly that the lorry, not the police officer, was carrying the cigarettes?",
+      "options": ["A lorry carrying thousands of stolen cigarettes was stopped by a police officer.", "A lorry was stopped by a police officer carrying thousands of stolen cigarettes.", "A lorry was stopped carrying thousands of stolen cigarettes by a police officer."],
+      "answer": 0,
+      "explanation": "Moving the participle clause next to 'lorry' removes the ambiguity."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Combine: Marge Scott has died. She was aged 95. She was the first woman to be educated at Marston College, which is in south Wales.",
+      "words": ["Marge Scott,", "who has died aged 95,", "was the first woman", "to be educated", "at Marston College", "in south Wales."],
+      "answer": "Marge Scott, who has died aged 95, was the first woman to be educated at Marston College in south Wales.",
+      "explanation": "A non-defining relative clause, then a to-infinitive clause and a prepositional phrase, each next to the noun it describes."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Combine: A painting was found in a second-hand shop by Lara Gruber, an antique dealer from Austria. It is thought to be by the British landscape artist J.M.W. Turner.",
+      "words": ["A painting", "found in a second-hand shop", "by Lara Gruber,", "an antique dealer from Austria,", "is thought to be by", "J.M.W. Turner,", "the British landscape artist."],
+      "answer": "A painting found in a second-hand shop by Lara Gruber, an antique dealer from Austria, is thought to be by J.M.W. Turner, the British landscape artist.",
+      "explanation": "A participle clause modifies 'painting', and additional noun phrases identify Lara Gruber and Turner."
+    }
+  ]
+}

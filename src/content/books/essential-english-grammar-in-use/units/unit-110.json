@@ -1,0 +1,180 @@
+{
+  "number": 110,
+  "title": "up, over, through etc.",
+  "subtitle": "up the hill / over the wall / through the park",
+  "summary": "Use to, into, out of, on, off, up, down, over, under, through, round, along, across and past to say which way somebody or something moves.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "to and from",
+      "text": "**to** shows where somebody or something goes. **from** shows where it starts.",
+      "examples": [
+        { "text": "Jane is going **to** France next week." },
+        { "text": "We walked **from** the hotel **to** the station." },
+        { "text": "A lot of English words come **from** Latin." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "into and out of",
+      "text": "**into** = to the inside of something. **out of** = from the inside to the outside.",
+      "examples": [
+        { "text": "We jumped **into** the water." },
+        { "text": "A man came **out of** the house and got **into** a car." },
+        { "text": "Why are you looking **out of** the window?" },
+        { "text": "I took the old batteries **out of** the radio." }
+      ],
+      "note": "With **put** we say *in*, not usually *into*: I **put** new batteries **in** the radio."
+    },
+    {
+      "type": "compare",
+      "heading": "on and off",
+      "left": {
+        "label": "on",
+        "text": "onto the top or the surface of something",
+        "examples": [
+          "Don't put your feet **on** the table.",
+          "I'm going to hang some pictures **on** the wall.",
+          "We got **on** the bus in Princes Street."
+        ]
+      },
+      "right": {
+        "label": "off",
+        "text": "away from the top or the surface of something",
+        "examples": [
+          "Please take your feet **off** the table.",
+          "Be careful! Don't fall **off** your bicycle."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "up and down",
+      "text": "**up** = to a higher place. **down** = to a lower place.",
+      "examples": [
+        { "text": "We walked **up** the hill to the house." },
+        { "text": "Be careful! Don't fall **down** the stairs." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "over and under",
+      "text": "**over** = above something and to the other side. **under** = below something.",
+      "examples": [
+        { "text": "The plane flew **over** the mountains." },
+        { "text": "I jumped **over** the wall into the garden." },
+        { "text": "Some people say it is unlucky to walk **under** a ladder." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "through and round",
+      "text": "**through** = in one side and out of the other side. **round** = not straight, but in a circle or a curve. You can also use **around** (= round).",
+      "examples": [
+        { "text": "A bird flew into the room **through** a window." },
+        { "text": "The old road goes **through** the village." },
+        { "text": "The new road goes **round** the village." },
+        { "text": "The bus stop is just **round** the corner." },
+        { "text": "We walked **around** the town and took some photographs." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "along, across and past",
+      "text": "**along** = from one end of a road or a river to the other end. **across** = from one side to the other side. **past** = by somebody or something and then on.",
+      "examples": [
+        { "text": "I was walking **along** the road with my dog." },
+        { "text": "Let's go for a walk **along** the river." },
+        { "text": "The dog swam **across** the river." },
+        { "text": "They walked **past** me without speaking." },
+        { "text": "*A:* Excuse me, how do I get to the hospital? *B:* Go **along** this road, **past** the cinema, **under** the bridge and the hospital is on the left." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A book fell ___ the shelf.",
+      "hint": "(on / off)",
+      "answers": ["off"],
+      "explanation": "off = away from the top of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The car door opened and a woman got ___ the car.",
+      "hint": "(into / out of)",
+      "answers": ["out of"],
+      "explanation": "out of = from the inside to the outside."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The train came, and they got ___ the train.",
+      "options": ["on", "over", "past"],
+      "answer": 0,
+      "explanation": "We get on a train or a bus, and we get off it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its opposite.",
+      "pairs": [
+        { "left": "to", "right": "from" },
+        { "left": "into", "right": "out of" },
+        { "left": "on", "right": "off" },
+        { "left": "up", "right": "down" },
+        { "left": "over", "right": "under" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A plane flew ___ the village.",
+      "hint": "(over / under)",
+      "answers": ["over"],
+      "explanation": "over = above something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where's my phone?' 'You put it ___ your bag.'",
+      "answers": ["in"],
+      "explanation": "With put we say in, not into."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: through, round or across?",
+      "categories": ["through", "round / around", "across"],
+      "items": [
+        { "text": "They drove ___ the village.", "category": 0 },
+        { "text": "A bird flew into the room ___ a window.", "category": 0 },
+        { "text": "The moon travels ___ the earth.", "category": 1 },
+        { "text": "My house is very near here. It's just ___ the corner.", "category": 1 },
+        { "text": "A girl ran ___ the road.", "category": 2 },
+        { "text": "The dog swam ___ the river.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I put new batteries into the radio.",
+      "answer": false,
+      "explanation": "I put new batteries in the radio. With put we say in, not usually into."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How far is it ___ here to the airport?",
+      "answers": ["from"],
+      "explanation": "from ... to ... shows the start and the end of a journey."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody asks the way to the park. The path goes in at one gate and out at the other gate, so you say: Go ___ the park.",
+      "answers": ["through"],
+      "explanation": "through = in one side and out of the other side."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Somebody asks you how to get to the hospital. Put your directions in order.",
+      "words": ["Go along this road,", "past the cinema,", "under the bridge", "and the hospital", "is on the left."],
+      "answer": "Go along this road, past the cinema, under the bridge and the hospital is on the left.",
+      "explanation": "along the road, past the cinema, under the bridge - each word shows one part of the way."
+    }
+  ]
+}

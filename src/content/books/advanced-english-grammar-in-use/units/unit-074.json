@@ -1,0 +1,181 @@
+{
+  "number": 74,
+  "title": "Position of adverbs 1",
+  "subtitle": "front, mid and end position",
+  "summary": "Put an adverb in front, mid or end position, and order manner, place and time adverbials at the end of a clause.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The three main positions",
+      "columns": ["Position", "Where the adverb goes", "Examples"],
+      "rows": [
+        ["End", "after the verb - either immediately after it or later in the clause", "They played **quietly** all day. / He tried to leave **quietly**. / He sat in the corner **quietly**."],
+        ["Front", "before the subject", "**Finally** he could stand the noise no longer. / **Sometimes** I feel like leaving."],
+        ["Mid", "between the subject and the verb, immediately after *be* as a main verb, or after the first auxiliary verb", "He **usually** plays better than this. / She is **usually** here by ten. / They would **usually** come by car."]
+      ],
+      "note": "Many adverbs can go in any of the three, depending on context or style: He turned round slowly. (end) / Slowly he turned round. (front) / He slowly turned round. (mid)"
+    },
+    {
+      "type": "explain",
+      "heading": "End position: after the object",
+      "text": "In end position we usually put the adverb after the object rather than immediately after the verb. If the object is very long, though, other positions become possible.",
+      "examples": [
+        { "text": "We considered the problem **briefly**.", "wrong": "We considered briefly the problem" },
+        { "text": "We considered **briefly** the long-term solution to the problem.", "note": "or We briefly considered ..." },
+        { "text": "He always brings sandwiches **from home**.", "wrong": "He always brings from home sandwiches" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't split a verb from a following -ing form or to-infinitive",
+      "text": "We avoid putting an adverb between a main verb and an -ing form or to-infinitive that follows it. Move it in front of the main verb, or to the end.",
+      "examples": [
+        { "text": "He began running **quickly**. / He **quickly** began running.", "wrong": "He began quickly running" },
+        { "text": "She tried to leave **quietly**. / She **quietly** tried to leave.", "wrong": "She tried quietly to leave" },
+        { "text": "I expect Catalina to win the race **easily**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Position can change the meaning",
+      "left": {
+        "label": "clearly modifies telling him",
+        "text": "The adverb belongs to the -ing clause that follows.",
+        "examples": [
+          "I recall telling him **clearly** that he had won.",
+          "= I told him clearly"
+        ]
+      },
+      "right": {
+        "label": "clearly modifies recall",
+        "text": "The adverb belongs to the main verb.",
+        "examples": [
+          "I **clearly** recall telling him that he had won.",
+          "= my memory of it is very clear"
+        ]
+      },
+      "note": "'I recall clearly telling him that he had won' is also possible but ambiguous - it can carry either meaning. In speech, intonation shows which is intended."
+    },
+    {
+      "type": "explain",
+      "heading": "Several adverbials at the end: manner, place, time",
+      "text": "When more than one adverbial comes in end position, the usual order in written English is manner, then place, then time. For special emphasis we can move one to the very end, and if one adverbial is much longer than another it usually comes last.",
+      "examples": [
+        { "text": "In the accident she was thrown **violently forwards**.", "note": "manner + place" },
+        { "text": "We arrived **here on Saturday**.", "note": "place + time" },
+        { "text": "In the accident she was thrown forwards, **violently**.", "note": "moved to the end for emphasis" },
+        { "text": "They left **at three with a great deal of noise**.", "note": "time + manner - the manner phrase is longer" }
+      ],
+      "note": "An adverb usually comes before a prepositional phrase when both do the same job: She went downstairs to the cellar. (place + place)"
+    },
+    {
+      "type": "explain",
+      "heading": "Place, definite frequency and definite time go at the end",
+      "text": "End position is the normal one for adverbials of place, of definite frequency and of definite time. Adverbs of indefinite time, by contrast, usually go in mid position.",
+      "examples": [
+        { "text": "They live **upstairs**.", "wrong": "They upstairs live" },
+        { "text": "She goes **weekly**.", "wrong": "She weekly goes" },
+        { "text": "Have you heard the good news? Eva had a baby **in May**.", "wrong": "Eva in May had a baby" }
+      ],
+      "note": "In journalism other time adverbs are often used in mid position, where we would normally put them at the end or the front: The government yesterday announced an increase in education spending."
+    },
+    {
+      "type": "tip",
+      "text": "If a sentence sounds wrong, check two things: is the adverb stuck between a verb and its object, or between a verb and a following to-infinitive? Both are the usual culprits."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Add *easily* to 'I expect Catalina to win the race'.",
+      "words": ["I", "expect", "Catalina", "to win", "the race", "easily."],
+      "answer": "I expect Catalina to win the race easily.",
+      "explanation": "The adverb can't sit between the verb and the following to-infinitive, so it goes at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "I try to visit every week my parents.",
+      "answer": false,
+      "explanation": "I try to visit my parents every week. / Every week I try to visit my parents. The adverbial goes after the object, not between the verb and the object."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the two adverbials in the usual written order.",
+      "words": ["We", "had a great time", "driving", "around Switzerland", "in July."],
+      "answer": "We had a great time driving around Switzerland in July.",
+      "explanation": "Place comes before time."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lee was easily beaten in the final.",
+      "answer": true,
+      "explanation": "Correct. Mid position is fine here (Lee was beaten easily in the final is also possible)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence puts *quietly* in an acceptable position?",
+      "options": ["She tried to leave quietly.", "She tried quietly to leave.", "She tried to quietly leave."],
+      "answer": 0,
+      "explanation": "An adverb should not come between the main verb and a following to-infinitive; end position (or before *tried*) is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "I thought I'd locked securely the luggage.",
+      "answer": false,
+      "explanation": "I thought I'd securely locked the luggage. / ... I'd locked the luggage securely. The adverb must not separate the verb from its object."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The place adverbial here is long, so where does it go?",
+      "words": ["We stayed", "for a week", "in a beautiful cottage", "belonging to some friends", "of Kim's mother."],
+      "answer": "We stayed for a week in a beautiful cottage belonging to some friends of Kim's mother.",
+      "explanation": "Time normally follows place, but a much longer adverbial is placed last."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these end-position adverbials by type. This is the order they take when they are used together.",
+      "categories": ["Manner", "Place", "Time"],
+      "items": [
+        { "text": "violently", "category": 0 },
+        { "text": "forwards", "category": 1 },
+        { "text": "on Saturday", "category": 2 },
+        { "text": "with a great deal of noise", "category": 0 },
+        { "text": "downstairs to the cellar", "category": 1 },
+        { "text": "in May", "category": 2 },
+        { "text": "hurriedly", "category": 0 },
+        { "text": "upstairs", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Do the Patel family still live next door? No, they moved last year away.",
+      "answer": false,
+      "explanation": "No, they moved away last year. Place comes before time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Arrange: object, then manner, then place.",
+      "words": ["We", "enjoyed", "ourselves", "enormously", "in Switzerland."],
+      "answer": "We enjoyed ourselves enormously in Switzerland.",
+      "explanation": "The object comes first, then the manner adverb, then the place adverbial."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ don't remember putting it down.",
+      "hint": "(simply)",
+      "answers": ["simply"],
+      "explanation": "Mid position, in front of the negative auxiliary, is the natural place here."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with what it means.",
+      "pairs": [
+        { "left": "I clearly recall telling him that he had won.", "right": "My memory of the conversation is very clear." },
+        { "left": "I recall telling him clearly that he had won.", "right": "The way I gave him the news was clear." },
+        { "left": "I secretly hated playing the piano.", "right": "Nobody knew how I really felt about it." },
+        { "left": "I hated playing the piano secretly.", "right": "What I hated was having to play in secret." }
+      ]
+    }
+  ]
+}

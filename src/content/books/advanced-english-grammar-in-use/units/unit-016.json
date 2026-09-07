@@ -1,0 +1,189 @@
+{
+  "number": 16,
+  "title": "Will, would and used to",
+  "subtitle": "Dan will come home / she would sit quietly",
+  "summary": "Use will and would for characteristic behaviour and general truths, and know when would, used to or a past simple verb is the only possible choice.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Characteristic behaviour and habits",
+      "text": "We can use will (for the present) and would (for the past) to talk about characteristic behaviour or habits.",
+      "examples": [
+        { "text": "Every day Dan **will** come home from work and turn on the TV." },
+        { "text": "At school she **would** always sit quietly and pay attention." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things that are or were always true",
+      "text": "We use will and would in the same way for things that are, or were, always true.",
+      "examples": [
+        { "text": "Cold weather **will** kill certain plants." },
+        { "text": "During the war, people **would** eat all kinds of things that we don't eat now." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Not for one particular occasion",
+      "left": {
+        "label": "Repeated - would",
+        "examples": [
+          "Each time I gave him a problem he **would** solve it for me."
+        ]
+      },
+      "right": {
+        "label": "One occasion - past simple",
+        "examples": [
+          "Last night I gave him a problem and he **solved** it for me. (not ... he would solve it ...)"
+        ]
+      },
+      "note": "But won't and wouldn't work in both cases: *She wouldn't say what was wrong when I asked her.*"
+    },
+    {
+      "type": "explain",
+      "heading": "Stressing will or would to criticise",
+      "text": "In speech we can stress will or would to criticise someone's characteristic behaviour or habits. We can also express disapproval of what someone has done with if you will ...",
+      "examples": [
+        { "text": "She just **won't** do the washing up when I ask her." },
+        { "text": "I was happy when Ryan left. He **would** talk about people behind their backs." },
+        { "text": "'I feel sick.' 'Well, **if you will** eat so much, I'm not surprised.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Conclusions and assumptions with will",
+      "text": "We can use will to draw a conclusion or state an assumption about something that is the case now.",
+      "examples": [
+        { "text": "Martina **will** be at home by now. Let's go and see her." },
+        { "text": "You **will** know that Ewan and Lucy are engaged.", "note": "= I assume you already know" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "would and used to",
+      "text": "For repeated events in the past that don't happen now we can use would or used to, but would only works if the time reference is clear. For past states that have changed we must use used to.",
+      "examples": [
+        { "text": "We **used to** play in the garden.", "wrong": "We would play", "note": "no time reference given" },
+        { "text": "Whenever we went to my uncle's house, we **would / used to** play in the garden." },
+        { "text": "The factory **used to** be over there.", "note": "a past state, so would is not possible" },
+        { "text": "Didn't you **use to** have red hair?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When neither would nor used to works",
+      "text": "We don't use would or used to when we say exactly how many times in total something happened, how long something took, or that a single event happened at a given past time.",
+      "examples": [
+        { "text": "We **visited** Switzerland four times during the 1990s.", "wrong": "We would / used to visit" },
+        { "text": "She **went** to Jamaica last month.", "wrong": "She used to go to Jamaica last month" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "would have or will have + past participle?",
+      "left": {
+        "label": "would have - an unreal past",
+        "text": "An imaginary situation, or one that might have happened but didn't.",
+        "examples": [
+          "I **would have been** happy to see him, but I didn't have time."
+        ]
+      },
+      "right": {
+        "label": "will have - we think it really happened",
+        "examples": [
+          "As it was cloudy, few people **will have seen** last night's lunar eclipse. (rather than ... would have seen ...)"
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A patient tells the doctor: 'Most days I ___ eight hours or more in front of my computer.'",
+      "hint": "(spend)",
+      "answers": ["will spend", "'ll spend"],
+      "explanation": "Will for characteristic behaviour that is repeated in the present."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday I ___ a sharp pain in my lower back.",
+      "hint": "(have)",
+      "answers": ["had"],
+      "explanation": "A single event at a given past time takes the past simple, not will or would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No, I'm not that fit now. When I was at college, I ___ in the gym most days.",
+      "hint": "(exercise)",
+      "answers": ["would exercise", "'d exercise"],
+      "explanation": "Repeated past behaviour with a clear time reference (when I was at college): would."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Before computers came along, people ___ still for so long.",
+      "options": ["would rarely sit", "will rarely sit", "would rarely have sat"],
+      "answer": 0,
+      "explanation": "Would for something that was always true in the past, with the time reference given."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm sure you ___ about the need to take regular breaks.",
+      "options": ["will know", "would know", "will have known"],
+      "answer": 0,
+      "explanation": "Will states an assumption about something that is the case now."
+    },
+    {
+      "type": "true_false",
+      "statement": "Orwell would spend winters in Spain and summers in England.",
+      "answer": true,
+      "explanation": "Correct. Winters and summers give a clear time reference, so would is fine (used to is also possible)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I would enjoy studying Latin when I was at school.",
+      "answer": false,
+      "explanation": "I used to enjoy studying Latin when I was at school. Enjoy describes a past state that has changed, so would is not possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "The committee would meet four times last week, but still no decision has been reached.",
+      "answer": false,
+      "explanation": "The committee met four times last week. When the number of times is specified, neither would nor used to is possible."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend has eaten a huge meal and says 'I feel sick.' Put the words in order to show your disapproval.",
+      "words": ["Well,", "if you will", "eat", "so much,", "I'm not", "surprised."],
+      "answer": "Well, if you will eat so much, I'm not surprised.",
+      "explanation": "Stressed will in an if-clause expresses disapproval of what someone has done."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "According to official figures, over half the population ___ the final of the song contest on TV last night.",
+      "hint": "(watch)",
+      "answers": ["will have watched"],
+      "explanation": "We think this really happened, so will have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I enjoyed the exhibition - but I don't think my grandmother ___ of it.",
+      "hint": "(approve)",
+      "answers": ["would have approved"],
+      "explanation": "She never saw it, so this is an unreal past: would have + past participle."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence say what probably really happened, or describe an unreal past?",
+      "categories": ["It probably really happened (will have)", "Imaginary or it didn't happen (would have)"],
+      "items": [
+        { "text": "I'm sure by now you will have heard about yesterday's robbery at the supermarket.", "category": 0 },
+        { "text": "I don't think the dog would have hurt anyone, but I was still glad when the owner took it away.", "category": 1 },
+        { "text": "Over half the population will have watched the final of the song contest last night.", "category": 0 },
+        { "text": "The train journey was quite comfortable, although I would have preferred to fly.", "category": 1 },
+        { "text": "An umbrella stand isn't something I would have bought myself.", "category": 1 },
+        { "text": "As it was cloudy, few people will have seen last night's lunar eclipse.", "category": 0 }
+      ]
+    }
+  ]
+}

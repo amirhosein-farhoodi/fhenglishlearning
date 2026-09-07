@@ -1,0 +1,189 @@
+{
+  "number": 80,
+  "title": "every and all",
+  "subtitle": "every day / all day",
+  "summary": "Use every + a singular noun for each one in a group, all day for a complete period of time, and everybody/everything/everywhere with a singular verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "every + singular noun",
+      "text": "Think of a street with five houses. They are all the same. We can say **Every house** in the street is the same. **every house** = **all the houses**. After **every** we use a *singular noun*: every house, every country, every time.",
+      "examples": [
+        { "text": "Sarah has been to **every country** in Europe." },
+        { "text": "**Every summer** we have a holiday by the sea." },
+        { "text": "She looks different **every time** I see her." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A singular verb after every",
+      "text": "**every** + noun takes a *singular verb* (is, has, does), even when we are talking about many things.",
+      "examples": [
+        { "text": "**Every house** in the street **is** the same.", "wrong": "are the same" },
+        { "text": "**Every country has** a national flag.", "wrong": "Every country have" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "every and all",
+      "left": {
+        "label": "every + singular",
+        "text": "One noun, one verb.",
+        "examples": [
+          "**Every student** in the class **passed** the exam.",
+          "**Every country has** a national flag."
+        ]
+      },
+      "right": {
+        "label": "all + plural",
+        "text": "A plural noun and a plural verb.",
+        "examples": [
+          "**All the students** in the class **passed** the exam.",
+          "**All countries have** a national flag."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "every day and all day",
+      "left": {
+        "label": "every day = on all days",
+        "text": "It answers the question *how often?*",
+        "examples": [
+          "It rained **every day** last week.",
+          "Bill watches TV for about two hours **every evening**. (= on all evenings)",
+          "also **every morning / night / summer**"
+        ]
+      },
+      "right": {
+        "label": "all day = the complete day",
+        "text": "It answers the question *how long?*",
+        "examples": [
+          "It rained **all day** yesterday.",
+          "On Monday I watched TV **all evening**. (= the complete evening)",
+          "also **all morning / night / summer**"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "everybody / everything / everywhere",
+      "columns": ["Word", "It means", "Example"],
+      "rows": [
+        ["everybody or everyone", "all people", "**Everybody** needs friends."],
+        ["everything", "all the things", "Have you got **everything** you need?"],
+        ["everywhere", "all places", "I lost my watch. I've looked **everywhere** for it."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A singular verb here too",
+      "text": "**everybody**, **everyone** and **everything** are singular words, so we use a singular verb after them.",
+      "examples": [
+        { "text": "**Everybody has** problems.", "wrong": "Everybody have" },
+        { "text": "Are you ready yet? **Everybody is** waiting for you." },
+        { "text": "This town is completely different now. **Everything has** changed." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself *how often?* or *how long?*: I buy a newspaper **every day** (how often), but I stayed in bed **all day** (how long)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ in the class passed the exam.",
+      "hint": "(every + student)",
+      "answers": ["Every student"],
+      "explanation": "every + singular noun: every student."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Yesterday it rained ___ . It started in the morning and stopped at night.",
+      "options": ["all day", "every day", "all the days"],
+      "answer": 0,
+      "explanation": "all day = the complete day (how long?)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word or phrase with its meaning.",
+      "pairs": [
+        { "left": "everybody", "right": "all people" },
+        { "left": "everything", "right": "all the things" },
+        { "left": "everywhere", "right": "all places" },
+        { "left": "every day", "right": "on all days" },
+        { "left": "all day", "right": "the complete day" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ in the hotel has satellite TV.",
+      "hint": "(every + room)",
+      "answers": ["Every room"],
+      "explanation": "every room + singular verb has."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I buy a newspaper ___, but sometimes I don't read it.",
+      "hint": "(every day / all day)",
+      "answers": ["every day"],
+      "explanation": "every day = on all days. It answers how often?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which phrases answer how often? and which answer how long?",
+      "categories": ["how often?", "how long?"],
+      "items": [
+        { "text": "every day", "category": 0 },
+        { "text": "all day", "category": 1 },
+        { "text": "every evening", "category": 0 },
+        { "text": "all morning", "category": 1 },
+        { "text": "every summer", "category": 0 },
+        { "text": "all week", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Chris knows ___ about computers.",
+      "hint": "(everybody / everything / everywhere)",
+      "answers": ["everything"],
+      "explanation": "everything = all the things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kevin never uses his car. He goes ___ by motorcycle.",
+      "hint": "(everybody / everything / everywhere)",
+      "answers": ["everywhere"],
+      "explanation": "everywhere = in all places."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Everybody ___ problems.",
+      "options": ["has", "have", "having"],
+      "answer": 0,
+      "explanation": "everybody is singular, so we use has."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The house is empty. Everyone ___ gone out.",
+      "hint": "(one word)",
+      "answers": ["has"],
+      "explanation": "everyone + singular verb: everyone has gone out."
+    },
+    {
+      "type": "true_false",
+      "statement": "Every houses in the street are the same.",
+      "answer": false,
+      "explanation": "Every house in the street is the same. every + singular noun + singular verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Julia never gets up late. Put the sentence in the right order.",
+      "words": ["Julia", "gets up", "at 6.30", "every", "morning."],
+      "answer": "Julia gets up at 6.30 every morning.",
+      "explanation": "every morning = on all mornings (how often?)."
+    }
+  ]
+}

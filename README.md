@@ -5,11 +5,23 @@ with six interactive exercise types. Everything (progress, XP, streaks) is store
 `localStorage` - there is no backend.
 
 Any English-learning book can become a course - grammar, vocabulary, phrasal verbs, exam practice.
-Currently included: **English Grammar in Use** (145 units, based on Raymond Murphy's book, 5th edition).
+Books are grouped into shelves on the home page. Currently:
+
+**Grammar** (in learning order)
+
+| # | Book | Level | Units |
+|---|---|---|---|
+| 1 | Essential Grammar in Use | Elementary - A1/A2 | 115 (based on Raymond Murphy, 3rd edition) |
+| 2 | English Grammar in Use | Intermediate - B1/B2 | 145 (based on Raymond Murphy, 5th edition) |
+| 3 | Advanced Grammar in Use | Advanced - C1/C2 | 100 (based on Martin Hewings, 3rd edition) |
+
+**Vocabulary** and **Listening** are declared but have no books yet, so the home page shows them as
+"in the works". Adding the first book with that `category` is all it takes to turn the shelf live -
+see [Shelves (categories)](#shelves-categories).
 
 ## Features
 
-- **Book -> Course -> Lesson -> Quiz** flow, with a course map grouped by section.
+- **Shelf -> Book -> Course -> Lesson -> Quiz** flow, with a course map grouped by section.
 - **Lesson reader** that reveals the explanation step by step (or all at once), with examples, comparisons, tables and tips.
 - **Six exercise types:** multiple choice, correct/incorrect, fill in the blank, connect the pairs
   (draw lines), build the sentence (word order) and sort into groups.
@@ -45,18 +57,21 @@ pick the repo and deploy. Every push redeploys.
 src/
   content/
     types.ts                 # content schema (BookMeta, Unit, LessonBlock, Exercise)
-    registry.ts              # auto-discovers books with import.meta.glob
-    books/<slug>/book.json   # book metadata: sections + unit titles
+    categories.ts            # the home-page shelves (Grammar, Vocabulary, Listening)
+    registry.ts              # auto-discovers books with import.meta.glob, groups them by shelf
+    books/<slug>/book.json   # book metadata: category + order, sections, unit titles
     books/<slug>/units/unit-001.json ... one JSON per unit (lesson + exercises)
   components/                # header, lesson blocks, exercise widgets
   pages/                     # Home, Course, Lesson, Quiz, Review
   lib/                       # localStorage progress store, answer checking, markup, sfx
 tools/
-  extract_book.py            # PDF -> per-unit raw text (needs pdftotext / poppler)
+  extract_book.py            # text PDF -> per-unit raw text (needs pdftotext / poppler)
+  render_scanned_book.py     # scanned PDF -> per-unit page images (needs pymupdf)
   validate-content.mjs       # content validator (npm run validate)
-  prompts/author-unit.md     # the prompt used to turn raw text into unit JSON
+  prompts/author-unit.md     # the prompt used to turn a raw unit into unit JSON
 .claude/commands/add-book.md # Claude Code slash command: /add-book <pdf> <slug> <units>
-content-src/<slug>/raw/      # extraction output (git-ignored, regenerate any time)
+content-src/<slug>/raw/      # text extraction output (git-ignored, regenerate any time)
+content-src/<slug>/pages/    # page images for scanned books (git-ignored, regenerate any time)
 source-books/                # put PDFs here (git-ignored)
 ```
 
@@ -66,6 +81,27 @@ The tip jar lives in `src/components/Donate.tsx`. To change the wallets, edit th
 array at the top of that file (address, USDT token contract, decimals). Amounts are the `AMOUNTS`
 array. Ethereum uses an ERC-20 `transfer` through MetaMask; TRON uses TronLink, because MetaMask
 cannot send TRON. Copying the address always works with any wallet.
+
+## Shelves (categories)
+
+The home page renders one shelf per entry in `src/content/categories.ts`, in that file's order.
+Each book picks its shelf in `book.json`:
+
+```jsonc
+{
+  "category": "grammar",   // must be a CATEGORY_IDS value from categories.ts
+  "order": 1               // position within the shelf, ascending; ties fall back to title
+}
+```
+
+A category with no books renders an "in the works" teaser (its `teaser` line) instead of a grid,
+which is how Vocabulary and Listening appear today. There is no separate flag to flip: add a book
+with that `category` and the grid appears. To add a whole new shelf, append an id to `CATEGORY_IDS`
+and an entry to `CATEGORIES` - `npm run validate` reads that file, so it will reject a book whose
+`category` is not in it, and will also flag two books claiming the same `order` on one shelf.
+
+Books with no `category` fall back to `DEFAULT_CATEGORY` (a warning, not an error), so a
+half-configured book never vanishes from the home page.
 
 ## Adding another book
 
@@ -88,8 +124,15 @@ fans out the unit authoring to subagents using `tools/prompts/author-unit.md`, v
    (requires `pdftotext` from poppler on your PATH). This writes
    `content-src/my-book/raw/unit-001.md ...`, each with the lesson page, exercise page and answer key.
    Use `--first-page`, `--pages-per-unit`, `--key-marker` or `--no-key` if the book's layout differs.
+   Pass `--detect-headings` to locate each unit by its "Unit / N Title" heading instead of assuming
+   a fixed page count - needed when a unit's exercises overflow onto an extra page, which otherwise
+   makes every later unit drift out of step.
+   **If the PDF is a scan** (`pdftotext` returns nothing), use
+   `python tools/render_scanned_book.py` instead - see [Scanned books](#scanned-books).
 2. Create `src/content/books/my-book/book.json` (schema: `BookMeta` in `src/content/types.ts`).
-   Set `cover` to `/covers/my-book.jpg` so the real book cover shows on the home page.
+   Set `category` and `order` so it lands on the right shelf, and `cover` to `/covers/my-book.jpg`
+   so the real book cover shows on the home page. A cover can be lifted straight out of the PDF's
+   first page with pymupdf if the book's own cover is page 1.
 3. For each raw unit, write `src/content/books/my-book/units/unit-NNN.json` by following
    `tools/prompts/author-unit.md` (paste the prompt plus the raw unit into any capable LLM, or write it by hand).
    `unit-001.json` of the grammar book is the golden example.
@@ -97,6 +140,32 @@ fans out the unit authoring to subagents using `tools/prompts/author-unit.md`, v
 
 Units listed in `book.json` but not yet authored show as "Coming soon" in the course map, so a book
 can be published incrementally.
+
+## Scanned books
+
+Some PDFs are page images with no text layer, so `pdftotext` (and therefore `extract_book.py`)
+returns nothing. `tools/render_scanned_book.py` renders each unit's pages to PNGs instead, which
+an LLM or a human can read directly:
+
+```bash
+pip install pymupdf
+python tools/render_scanned_book.py source-books/my-book.pdf --slug my-book --units 115 \
+    --first-page 13 --key-pages 282-308 --check     # print the unit -> page mapping, render nothing
+```
+
+Units run two pages each (left = explanation, right = exercises) in book order, so a unit's first
+page is `--first-page` plus two pages for every unit *present* before it. Always confirm the
+mapping with `--check` at both ends of the book before rendering: if a scan is missing pages, every
+later unit shifts. List those units in `--skip-units` - they then consume no pages, get no output,
+and every unit after them stays aligned. Leave them unauthored; the course map shows them as
+"Coming soon".
+
+`--key-pages` renders the answer key, and `--key-starts "282:1,283:4,..."` (PDF page : first unit
+on it) records in `index.json` which key page holds each unit's answers, so whoever authors a unit
+knows exactly which images to read.
+
+This is how **Essential Grammar in Use** is set up. Its scan is missing unit 27 (`will/shall 1`),
+hence the `--skip-units 27`; the exact command is in the script's docstring.
 
 ## Content schema in one screen
 

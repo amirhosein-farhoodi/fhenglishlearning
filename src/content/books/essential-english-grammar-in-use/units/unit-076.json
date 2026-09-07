@@ -1,0 +1,173 @@
+{
+  "number": 76,
+  "title": "some and any",
+  "subtitle": "some money / any money",
+  "summary": "Use some in positive sentences and any in negative sentences and most questions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "some and any",
+      "left": {
+        "label": "some (positive)",
+        "text": "A woman is smiling. She has notes and coins in her hands: 'I've got **some** money.'",
+        "examples": [
+          "I'm going to buy **some** clothes.",
+          "There's **some** ice in the fridge.",
+          "We made **some** mistakes."
+        ]
+      },
+      "right": {
+        "label": "any (negative)",
+        "text": "A man opens his empty pockets. His wallet is empty too: 'I haven't got **any** money.'",
+        "examples": [
+          "I'm **not** going to buy **any** clothes.",
+          "There **isn't any** milk in the fridge.",
+          "We **didn't** make **any** mistakes."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "any in questions",
+      "text": "In most questions (but not all) we use **any**, not *some*.",
+      "examples": [
+        { "text": "Is there **any** ice in the fridge?" },
+        { "text": "Has he got **any** friends?" },
+        { "text": "Do you need **any** help?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some in offers and requests",
+      "text": "We normally use **some** (not *any*) when we offer things (**Would you like ... ?**) or when we ask for things (**Can I have ... ?**).",
+      "examples": [
+        { "text": "*A:* Would you like **some** coffee? *B:* Yes, please." },
+        { "text": "*A:* Can I have **some** soup, please? *B:* Yes. Help yourself." },
+        { "text": "*A:* Can you lend me **some** money? *B:* Sure. How much do you need?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some and any without a noun",
+      "text": "You can use **some** and **any** alone, without a noun, when we both know what you mean.",
+      "examples": [
+        { "text": "I didn't take any photographs, but Jane took **some**.", "note": "= some photographs" },
+        { "text": "You can have some coffee, but I don't want **any**.", "note": "= any coffee" },
+        { "text": "I've just made some coffee. Would you like **some**?" },
+        { "text": "*A:* Where's your luggage? *B:* I haven't got **any**." },
+        { "text": "*A:* Are there any biscuits? *B:* Yes, there are **some** in the kitchen." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "somebody / something and anybody / anything",
+      "columns": ["some- (positive)", "any- (negative and questions)"],
+      "rows": [
+        ["She said **something**.", "She **didn't** say **anything**."],
+        ["I saw **somebody** (or **someone**).", "I **didn't** see **anybody** (or **anyone**)."],
+        ["Would you like **something** to eat?", "Are you doing **anything** tonight?"],
+        ["**Somebody's** at the door.", "Where's Sue? Has **anybody** seen her?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*-body* and *-one* are the same: somebody = someone, anybody = anyone."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to the post office. I need ___ stamps.",
+      "hint": "(some / any)",
+      "answers": ["some"],
+      "explanation": "This is a positive sentence, so we use some."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There aren't ___ shops in this part of town.",
+      "hint": "(some / any)",
+      "answers": ["any"],
+      "explanation": "aren't is negative, so we use any."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each positive sentence with the same sentence in the negative.",
+      "pairs": [
+        { "left": "I'm going to buy some clothes.", "right": "I'm not going to buy any clothes." },
+        { "left": "There's some ice in the fridge.", "right": "There isn't any ice in the fridge." },
+        { "left": "We made some mistakes.", "right": "We didn't make any mistakes." },
+        { "left": "She said something.", "right": "She didn't say anything." },
+        { "left": "I saw somebody.", "right": "I didn't see anybody." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you got ___ brothers or sisters?",
+      "hint": "(some / any)",
+      "answers": ["any"],
+      "explanation": "In most questions we use any."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Would you like ___ tea? *B:* Yes, please.",
+      "options": ["some", "any", "no"],
+      "answer": 0,
+      "explanation": "We use some when we offer things: Would you like some tea?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need some or any?",
+      "categories": ["some", "any"],
+      "items": [
+        { "text": "There are ___ beautiful flowers in the garden.", "category": 0 },
+        { "text": "Do you know ___ good hotels in London?", "category": 1 },
+        { "text": "When we were on holiday, we visited ___ very interesting places.", "category": 0 },
+        { "text": "Gary and Alice haven't got ___ children.", "category": 1 },
+        { "text": "I went out to buy ___ oranges.", "category": 0 },
+        { "text": "The radio isn't working. There aren't ___ batteries in it.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police want to talk to you. They want to ask you ___.",
+      "hint": "(questions)",
+      "answers": ["some questions"],
+      "explanation": "A positive sentence, so: some questions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I haven't got my camera, so I can't take ___.",
+      "hint": "(photographs)",
+      "answers": ["any photographs"],
+      "explanation": "can't is negative, so: any photographs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman stopped me and said ___, but I didn't understand.",
+      "hint": "(something / anything)",
+      "answers": ["something"],
+      "explanation": "said is positive, so we use something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm looking for my keys. Has ___ seen them?",
+      "hint": "(somebody / anybody)",
+      "answers": ["anybody", "anyone"],
+      "explanation": "In questions we use anybody or anyone."
+    },
+    {
+      "type": "true_false",
+      "statement": "This is a secret. Please don't tell somebody.",
+      "answer": false,
+      "explanation": "don't tell is negative, so we need anybody: Please don't tell anybody."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jane did not take photographs at the party, but the speaker did. Put the sentence in order.",
+      "words": ["Jane", "didn't", "take", "any", "photographs,", "but", "I", "took", "some."],
+      "answer": "Jane didn't take any photographs, but I took some.",
+      "explanation": "any after the negative didn't, and some in the positive part."
+    }
+  ]
+}

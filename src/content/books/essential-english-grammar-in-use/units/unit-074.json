@@ -1,0 +1,167 @@
+{
+  "number": 74,
+  "title": "this/that/these/those",
+  "subtitle": "this picture / those people",
+  "summary": "Use this and these for people and things near you, and that and those for people and things further away.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Near me or over there",
+      "text": "A woman holds a picture in her hands and asks a friend about it. A girl gives flowers to her mother. In a gallery a man points at a picture on the far wall. At a party a woman looks at a group of people across the room. **this** and **these** are for things here, near me. **that** and **those** are for things there, further away.",
+      "examples": [
+        { "text": "Do you like **this** picture?", "note": "= this picture *here*" },
+        { "text": "**These** flowers are for you.", "note": "= these flowers *here*" },
+        { "text": "Do you like **that** picture?", "note": "= that picture *there*" },
+        { "text": "Who are **those** people?", "note": "= those people *there*" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The four words",
+      "columns": ["", "one (singular)", "more than one (plural)"],
+      "rows": [
+        ["here, near me", "this", "these"],
+        ["there, further away", "that", "those"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "With a noun or without a noun",
+      "left": {
+        "label": "with a noun",
+        "text": "this picture / those girls etc.",
+        "examples": [
+          "**This hotel** is expensive, but it's very nice.",
+          "'Who's **that girl**?' 'I don't know.'",
+          "Do you like **these shoes**? I bought them last week.",
+          "**Those apples** look nice. Can I have one?"
+        ]
+      },
+      "right": {
+        "label": "without a noun",
+        "text": "The noun is not necessary if we both know what we are talking about.",
+        "examples": [
+          "**This** is a nice hotel, but it's very expensive.",
+          "'Excuse me, is **this** your bag?' 'Oh yes, thank you.'",
+          "Who's **that**? (= Who is that person?)",
+          "Which shoes do you prefer - **these** or **those**?"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "that = something that has happened",
+      "text": "We use **that** for something that has happened, and also for what somebody has just said. We do not use *this* here.",
+      "examples": [
+        { "text": "*A:* I'm sorry I forgot to phone you. *B:* **That's** all right." },
+        { "text": "**That** was a really nice meal. Thank you very much." },
+        { "text": "*A:* You're a teacher, aren't you? *B:* Yes, **that's** right." },
+        { "text": "*A:* Martin has got a new job. *B:* Has he? I didn't know **that**." },
+        { "text": "*A:* I'm going on holiday next week. *B:* Oh, **that's** nice." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "On the telephone and introducing people",
+      "text": "On the telephone we use **this is ...** for the speaker and **is that ... ?** for the other person. We also use **this is ...** when we introduce people to each other.",
+      "examples": [
+        { "text": "Hi Sarah, **this is** David.", "note": "this = the speaker" },
+        { "text": "Is **that** Sarah?", "note": "that = the other person" },
+        { "text": "*A:* Brian, **this is** Chris. *B:* Hello, Chris - nice to meet you. *C:* Hi." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One thing here is *this*, more than one thing here is *these*. One thing there is *that*, more than one thing there is *those*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A woman goes into a cafe. There is an empty chair at a table. She asks the man next to it: 'Excuse me, is ___ free?'",
+      "hint": "(seat)",
+      "answers": ["this seat"],
+      "explanation": "The seat is right next to her, and it is one seat, so: this seat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man is standing at a postcard stand. He is holding some postcards in his hand. He asks the shop assistant: 'How much are ___?'",
+      "hint": "(postcards)",
+      "answers": ["these postcards"],
+      "explanation": "The postcards are in his hand and there is more than one, so: these postcards."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with its meaning.",
+      "pairs": [
+        { "left": "this picture", "right": "the picture here, near me" },
+        { "left": "that picture", "right": "the picture over there" },
+        { "left": "these flowers", "right": "the flowers here, near me" },
+        { "left": "those people", "right": "the people over there" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two people are walking in the country. They see a house far away on a hill. One of them asks: 'Who lives in ___?'",
+      "hint": "(house)",
+      "answers": ["that house"],
+      "explanation": "The house is far away and it is one house, so: that house."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You see a bicycle on the other side of the street. You think it is your friend's. What do you ask? '___ your bicycle?'",
+      "options": ["Is that", "Are those", "Is these"],
+      "answer": 0,
+      "explanation": "One thing, further away: Is that your bicycle?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two men are outside. They point at some birds high in the sky. One of them says: 'Look at ___!'",
+      "hint": "(birds)",
+      "answers": ["those birds"],
+      "explanation": "The birds are far away and there is more than one, so: those birds."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A cook is holding a big pile of plates. He is not happy with them. He says: '___ are dirty.'",
+      "hint": "(plates)",
+      "answers": ["These plates"],
+      "explanation": "The plates are in his hands and there is more than one, so: These plates."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Sue phones Jane.* *Sue:* Hello, Jane. ___ Sue. *Jane:* Oh, hi Sue. How are you?",
+      "hint": "(this is / that's)",
+      "answers": ["This is"],
+      "explanation": "On the telephone we say this is ... for ourselves."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I can't come to the party tomorrow. *B:* Oh, ___ a pity. Why not?",
+      "options": ["that's", "this is", "those are"],
+      "answer": 0,
+      "explanation": "We use that's for what somebody has just said."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you like this shoes? I bought them last week.",
+      "answer": false,
+      "explanation": "Shoes is plural, so we need these: Do you like these shoes?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Beth plays the piano very well. *B:* Does she? I didn't know ___.",
+      "hint": "(this / that)",
+      "answers": ["that"],
+      "explanation": "We use that for what somebody has just said."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Mark meets Paul's sister, Helen. Put Paul's words in order.",
+      "words": ["Mark,", "this", "is", "my", "sister,", "Helen."],
+      "answer": "Mark, this is my sister, Helen.",
+      "explanation": "We use this is ... to introduce people."
+    }
+  ]
+}

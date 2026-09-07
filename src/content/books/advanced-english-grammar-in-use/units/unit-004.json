@@ -1,0 +1,167 @@
+{
+  "number": 4,
+  "title": "Past continuous and past simple",
+  "subtitle": "was reading / read",
+  "summary": "Use the past continuous for activities in progress and the past simple for completed past events, and know when either is possible.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two activities over the same past period",
+      "text": "When two events or activities went on over the same period of past time, either tense often works. The past continuous emphasises that the activity was *in progress* during that period.",
+      "examples": [
+        { "text": "Mia **was reading** to the children while Ben **was washing up**.", "note": "or ... read ... washed up." },
+        { "text": "When I **was learning** to drive I was living with my parents.", "note": "was learning = I had lessons during this time" },
+        { "text": "When I **learned** to drive I was living with my parents.", "note": "learned = I passed my test during this time" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Events that followed one another",
+      "text": "When we talk about two or more completed past events that came one after the other, we use the past simple for both, not the past continuous.",
+      "examples": [
+        { "text": "She **got up** when the alarm clock **went off**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Repeated past actions",
+      "left": {
+        "label": "Past simple - the normal choice",
+        "examples": [
+          "We **went** to Spain three times last year.",
+          "**Did** you **drive** past her house every day?"
+        ]
+      },
+      "right": {
+        "label": "Past continuous - a limited, temporary period",
+        "examples": [
+          "When Kata was in hospital, we **were visiting** her twice a day. (or ... we visited ...)",
+          "To lose weight before the race, I **wasn't eating** any biscuits for weeks. (or ... I didn't eat ...)"
+        ]
+      },
+      "note": "The past continuous also suits things that happened surprisingly often: Last week I was having to bring work home every night. When the builders were here I was making them cups of tea all the time."
+    },
+    {
+      "type": "explain",
+      "heading": "In a narrative: the event and the situation",
+      "text": "In a report or a story, the past simple gives the single complete event and the past continuous describes the situation that existed at the time. The event may interrupt the situation, or simply happen while it is in progress.",
+      "examples": [
+        { "text": "Erika **dropped** her bag while she **was getting** into her car." },
+        { "text": "She **was shaking** with anger as she **left** the hotel." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things we intended to do but didn't",
+      "text": "With some verbs, the past continuous or the past simple both work for intentions that came to nothing.",
+      "examples": [
+        { "text": "We **were meaning** to call in and see you, but Marc wasn't feeling well.", "note": "or We meant ..." }
+      ],
+      "note": "Also: consider + -ing, expect to, hope to, intend to, plan to / on + -ing, think about / of + -ing, want to."
+    },
+    {
+      "type": "explain",
+      "heading": "Sounding less definite about the future",
+      "text": "Most of those verbs, and *wonder about*, can also report what we might do in the future. The past continuous is less definite than the present continuous.",
+      "examples": [
+        { "text": "**I was thinking** of going to China next year, but it depends how much money I've got.", "note": "less definite than I'm thinking of going ..." },
+        { "text": "**We were wondering** about inviting Eva over tomorrow.", "note": "less definite than We're wondering about ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One completed thing after another? Past simple. A frame around something else? Past continuous."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Just as I was getting into the bath all the lights ___ off.",
+      "hint": "(go)",
+      "answers": ["went"],
+      "explanation": "The single event that interrupts the situation takes the past simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friendly American couple started chatting to him as he ___ at the hotel reception.",
+      "hint": "(check in)",
+      "answers": ["was checking in"],
+      "explanation": "Checking in is the background situation going on when the couple started to chat."
+    },
+    {
+      "type": "true_false",
+      "statement": "She got up when the alarm clock went off.",
+      "answer": true,
+      "explanation": "Correct. Two completed events one after the other, so the past simple for both."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ to go away this weekend, but my boss gave me some work that I have to finish by Monday.",
+      "hint": "(hope)",
+      "answers": ["was hoping", "hoped"],
+      "explanation": "An intention that came to nothing: hope to takes either the past continuous or the past simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I bumped into Lena last week. She ___ a lot better than when I last saw her.",
+      "hint": "(look)",
+      "answers": ["was looking"],
+      "explanation": "How she looked was the situation at the time of the single past event (saw)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She added more salt to the soup, and then it ___ much better.",
+      "options": ["tasted", "was tasting", "had been tasting"],
+      "answer": 0,
+      "explanation": "Two completed events in sequence, so the past simple for both."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The smoke alarm went off when he ___ a candle underneath it.",
+      "hint": "(light)",
+      "answers": ["lit"],
+      "explanation": "Both events are complete and follow one another: past simple."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Mention an idea you have about next year, without sounding at all committed to it.",
+      "words": ["I", "was thinking", "of going", "to China", "next year"],
+      "answer": "I was thinking of going to China next year",
+      "explanation": "The past continuous is less definite than I'm thinking of going ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "Erika was dropping her bag while she got into her car.",
+      "answer": false,
+      "explanation": "Erika dropped her bag while she was getting into her car. The single event goes in the past simple, the surrounding situation in the past continuous."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ a new alarm clock the other day in Taylor's the jewellers, when I actually saw somebody shoplifting.",
+      "options": ["was buying", "bought", "had bought"],
+      "answer": 0,
+      "explanation": "Buying the clock is the situation that was in progress when the single event happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ badminton four times a week before I broke my ankle.",
+      "hint": "(play)",
+      "answers": ["was playing", "played"],
+      "explanation": "Repeated actions over a limited, temporary period allow the past continuous; the past simple is also possible."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In each half of these narrative sentences, which tense does the meaning call for?",
+      "categories": ["Past simple - the single completed event", "Past continuous - the situation around it"],
+      "items": [
+        { "text": "Erika dropped her bag ...", "category": 0 },
+        { "text": "... while she was getting into her car.", "category": 1 },
+        { "text": "My boss came into the office ...", "category": 0 },
+        { "text": "... just as I was showing everyone my holiday photos.", "category": 1 },
+        { "text": "She was shaking with anger ...", "category": 1 },
+        { "text": "... as she left the hotel.", "category": 0 }
+      ]
+    }
+  ]
+}

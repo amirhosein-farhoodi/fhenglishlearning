@@ -1,0 +1,185 @@
+{
+  "number": 1,
+  "title": "Present continuous and present simple 1",
+  "subtitle": "I doubt it / I'm loving it",
+  "summary": "Choose between simple and continuous forms with state verbs, mental state verbs and performatives.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "State verbs: general or temporary?",
+      "left": {
+        "label": "Simple - a general, lasting situation",
+        "examples": [
+          "Ella stays with us quite often. The children **love** having her here."
+        ]
+      },
+      "right": {
+        "label": "Continuous - temporary, around the present",
+        "examples": [
+          "Ella's with us at the moment. The children **are loving** having her here."
+        ]
+      },
+      "note": "Some state verbs are hardly ever used in the continuous at all: believe, consist of, doubt, own."
+    },
+    {
+      "type": "explain",
+      "heading": "One verb, two meanings",
+      "text": "Some verbs mean something different when they describe a *state* and when they describe an *action*. In their state meaning they usually take simple forms. In their action meaning they take simple or continuous forms, depending on the context.",
+      "examples": [
+        { "text": "The app **doesn't appear** to work on my phone.", "note": "appear: state = seem" },
+        { "text": "Carley Robb **is** currently **appearing** in a musical on Broadway. / She often **appears** in musicals.", "note": "appear: action = take part" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More verbs with a state and an action meaning",
+      "columns": ["Verb", "State meaning - simple", "Action meaning - simple or continuous"],
+      "rows": [
+        ["measure", "The garden **measures** 12 by 20 metres.", "I**'m measuring** the area of the kitchen."],
+        ["have", "My sister **has** long blonde hair.", "Poulson**'s having** treatment for a knee injury."],
+        ["feel", "What's your shirt made from? It **feels** like silk.", "I won't be coming to work today. I**'m not feeling** very well."],
+        ["fit", "I bought this jumper for Anna, but it **doesn't fit** her.", "My car's in the garage today. They**'re fitting** new brakes."],
+        ["sound", "What's that noise? It **sounds** like a bird stuck in the chimney.", "Simon's new song**'s sounding** quite good, but he isn't ready to perform it yet."]
+      ],
+      "note": "Also: cost, expect, imagine, think, weigh."
+    },
+    {
+      "type": "explain",
+      "heading": "Mental state verbs",
+      "text": "With some verbs describing mental states (find, realise, regret, think, understand) the present continuous shows that we have only recently started to think about something, or that we are not sure about it.",
+      "examples": [
+        { "text": "**I regret** that the company will have to be sold.", "note": "= I've made the decision and I'm sorry about it" },
+        { "text": "**I'm regretting** my decision to give her the job.", "note": "= I'm increasingly aware that it was the wrong decision" }
+      ],
+      "note": "When it means 'think carefully about', consider is only used in the continuous: He's considering taking early retirement."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that stay simple",
+      "text": "Other verbs describing preferences and mental states are rarely used in the present continuous: **agree, believe, conclude, know, prefer**.",
+      "examples": [
+        { "text": "**I believe** you now.", "wrong": "I'm believing you now" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Performatives",
+      "text": "We use the present simple with verbs that perform the very action they describe - performatives.",
+      "examples": [
+        { "text": "**I suggest** you park outside the city and get the bus to the centre." },
+        { "text": "**We request** that you read the terms and conditions carefully before signing." }
+      ],
+      "note": "Also: acknowledge, admit, advise, apologise, beg, confess, congratulate, declare, deny, forbid, guarantee, name, order, permit, predict, promise, refuse, remind, request, thank, warn."
+    },
+    {
+      "type": "explain",
+      "heading": "Negatives and modals with performatives",
+      "text": "In negative sentences, some performatives (apologise, deny, guarantee, promise, suggest) work with either the present simple or the present continuous. Modals make a performative more tentative or polite.",
+      "examples": [
+        { "text": "**I don't deny** / **I'm not denying** taking the books, but Miguel said it would be okay." },
+        { "text": "**We would advise** you to arrive two hours before the flight leaves." },
+        { "text": "**I must beg** you to keep this a secret." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself what the verb is doing: describing how things *are* (simple), or describing an activity, a change or a temporary state (continuous)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "*A:* What are you doing with that ruler? *B:* I ___ the area of the kitchen.",
+      "options": ["'m measuring", "measure", "measured"],
+      "answer": 0,
+      "explanation": "Here measure describes an action in progress, so the continuous is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The garden ___ 12 by 20 metres.",
+      "hint": "(measure)",
+      "answers": ["measures"],
+      "explanation": "This is the state meaning of measure (= it is this size), so we use the present simple."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm believing you now.",
+      "answer": false,
+      "explanation": "I believe you now. Believe is one of the verbs that is rarely used in the continuous."
+    },
+    {
+      "type": "matching",
+      "prompt": "Each pair uses the same verb, once as a state and once as an action. Match the halves.",
+      "pairs": [
+        { "left": "Simon's new song's sounding quite good,", "right": "but he doesn't think he's ready to perform it in public." },
+        { "left": "What's that noise? It sounds", "right": "like a bird stuck in the chimney." },
+        { "left": "The new science museum is currently attracting", "right": "10,000 visitors a month." },
+        { "left": "Flowers attract bees", "right": "with their brightly-coloured petals." },
+        { "left": "Carlos won't work at the top of the 20-storey building", "right": "because he doesn't like heights." },
+        { "left": "*A:* How's the new job? *B:* Well, at the moment,", "right": "I'm not liking it at all." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's your shirt made from? It ___ like silk.",
+      "hint": "(feel)",
+      "answers": ["feels"],
+      "explanation": "Feel here describes how something is to the touch - a state, so present simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I won't be coming to work today. I ___ very well.",
+      "hint": "(feel) - negative",
+      "answers": ["'m not feeling", "am not feeling", "don't feel", "do not feel"],
+      "explanation": "Talking about your health is the action meaning of feel, so the continuous works here (the present simple is also possible)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dear Aunt Mara, I ___ for not getting back to you sooner, but I've been incredibly busy.",
+      "options": ["apologise", "'m apologising", "apologising"],
+      "answer": 0,
+      "explanation": "Apologise is a performative: saying it performs the apology, so use the present simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It doesn't help that the bus journey to the hospital is so slow. I ___ buying a car, which will make things easier.",
+      "hint": "(consider)",
+      "answers": ["'m considering", "am considering"],
+      "explanation": "When consider means 'think carefully about', only the present continuous is used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I suppose she might be at home tonight, but I ___ it.",
+      "hint": "(doubt)",
+      "answers": ["doubt"],
+      "explanation": "Doubt is one of the state verbs we hardly ever use in the continuous."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't deny taking the books, but Miguel said it would be okay.",
+      "answer": true,
+      "explanation": "Correct. In negative sentences, performatives like deny accept the present simple or the present continuous (I'm not denying ...)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the verb being used with its state meaning or its action meaning?",
+      "categories": ["State meaning", "Action meaning"],
+      "items": [
+        { "text": "The garden measures 12 by 20 metres.", "category": 0 },
+        { "text": "I'm measuring the area of the kitchen.", "category": 1 },
+        { "text": "The app doesn't appear to work on my phone.", "category": 0 },
+        { "text": "Carley Robb is currently appearing in a musical on Broadway.", "category": 1 },
+        { "text": "My sister has long blonde hair.", "category": 0 },
+        { "text": "Poulson's having treatment for a knee injury.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Give a passenger a polite, tentative recommendation about when to get to the airport.",
+      "words": ["We", "would advise", "you", "to arrive", "two hours", "before the flight leaves."],
+      "answer": "We would advise you to arrive two hours before the flight leaves.",
+      "explanation": "A modal in front of a performative makes the advice more tentative and polite."
+    }
+  ]
+}

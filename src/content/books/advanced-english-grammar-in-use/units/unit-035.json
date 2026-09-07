@@ -1,0 +1,146 @@
+{
+  "number": 35,
+  "title": "Tense choice in reporting",
+  "subtitle": "She said she didn't want anything to eat.",
+  "summary": "Choose the tense in both the reporting clause and the reported clause according to whether the situation is finished, still true, or possibly untrue.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Past situations in the reported clause",
+      "text": "When the situation in the reported clause is in the past at the moment we report it, we use a past tense. If it was **already past** when it was originally spoken about, we often use the past perfect.",
+      "examples": [
+        { "text": "'I don't want anything to eat.' -> Yusuf said that he **didn't want** anything to eat." },
+        { "text": "'I'm leaving!' -> Lamar announced that she **was leaving**." },
+        { "text": "'We have found the missing girl.' -> Police said that they **had found** the missing girl." }
+      ],
+      "note": "If the order of events is already clear, the past simple is enough: She reassured me that she sent out the invitations well before the wedding. (or ... had sent ...)"
+    },
+    {
+      "type": "explain",
+      "heading": "Present tense in the reported clause",
+      "text": "If the situation is permanent or habitual, or still exists when we report it, we use a **present tense** (or present perfect) - provided the reporting verb is also in a present tense. The present perfect focuses on the result, not the action.",
+      "examples": [
+        { "text": "Dr Weir thinks that he **spends** about five minutes on a typical appointment." },
+        { "text": "US scientists claim that they **have developed** a new vaccine against malaria." },
+        { "text": "Engineers hope that they **have solved** the problems with the bridge." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "After a past reporting verb, either tense is possible",
+      "text": "When the reporting verb is in a past tense we can still use a present tense (or present perfect) in the reported clause. Choosing the present emphasises that the situation **still exists** or is still relevant now.",
+      "examples": [
+        { "text": "She argued that Carl **is / was** the best person for the job." },
+        { "text": "They noted that the rate of inflation **has / had** slowed down." },
+        { "text": "They reassured us that the path **is / was** perfectly safe." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present or past - is it still true?",
+      "left": {
+        "label": "Present tense: probably true",
+        "text": "The present suggests we accept the situation as fact.",
+        "examples": ["Yasemin told me that she **has** two houses.", "*= this might suggest that it is true*"]
+      },
+      "right": {
+        "label": "Past tense: cautious",
+        "text": "We prefer a past tense if we are not sure the report is true, or if the situation may no longer exist.",
+        "examples": ["Yasemin told me that she **had** two houses.", "*= perhaps this is not true, or she once had two houses but doesn't now*"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Tense in the reporting clause",
+      "text": "To report something said or thought in the past, the reporting verb is usually past. For current news and opinions a **present** tense is possible, and often preferred, to show that what was said is still true or relevant.",
+      "examples": [
+        { "text": "Just before her wedding, she **revealed** that she had been married before." },
+        { "text": "She **says** that she'll have to close the shop unless business improves.", "note": "or ... said ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three cases where the present is preferred",
+      "text": "We usually choose a present reporting verb to pass on information we have heard but cannot vouch for, to quote an authority, and to report what many people say.",
+      "examples": [
+        { "text": "I **hear** you're unhappy with your job." },
+        { "text": "The law **says** that no one under the age of 16 can buy a lottery ticket." },
+        { "text": "Every teacher I've spoken to **tells** me that standards of spelling are in decline." }
+      ]
+    },
+    { "type": "tip", "text": "Ask one question: is the reported situation still true now? If yes, a present tense is available even after *said*; if it is finished or doubtful, keep the past." }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each set of words with the way it was reported.",
+      "pairs": [
+        { "left": "'I have never been in love with Oliver.'", "right": "She denied that she had ever been in love with Oliver." },
+        { "left": "'Well, perhaps you're right. Maybe I did treat Lara unkindly.'", "right": "She conceded that perhaps she had treated Lara unkindly." },
+        { "left": "'I seem to remember that Wilma's great-grandmother was from Spain.'", "right": "She recalled that Wilma's great-grandmother was from Spain." },
+        { "left": "'I think the vase is around 250 years old.'", "right": "She estimated that the vase was around 250 years old." },
+        { "left": "'I've told you once. I've already seen the film.'", "right": "She repeated that she had already seen the film." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Markus has stolen jewellery from my house.' -> She alleged that Markus ___ jewellery from her house.",
+      "hint": "(steal)",
+      "answers": ["had stolen", "stole"],
+      "explanation": "The theft was already past when she spoke, so the past perfect is natural; the past simple is also possible because the order of events is clear."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Engineers hope that they ___ the problems with the bridge now that new supports have been built.",
+      "options": ["have solved", "solved", "had solved"],
+      "answer": 0,
+      "explanation": "The reporting verb is present and the result still matters now, so the present perfect fits."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ that you want to buy a second-hand car. Your brother just told me.",
+      "hint": "(I / understand)",
+      "answers": ["I understand"],
+      "explanation": "A present tense reports information we have been told but cannot confirm."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Health officials warn that anyone who ___ directly at the sun during an eclipse may put their sight at risk.",
+      "options": ["looks", "looked", "had looked"],
+      "answer": 0,
+      "explanation": "This is a permanent, general truth reported with a present reporting verb, so the reported clause stays present."
+    },
+    { "type": "true_false", "statement": "When I mentioned to Nokes that he had been seen in a local shop last Monday, he protested that he is at home all day.", "answer": false, "explanation": "... he protested that he was at home all day. The situation being reported is finished, so it needs a past tense." },
+    { "type": "true_false", "statement": "Nokes alleges that he is a good friend of Jamie Barnes.", "answer": true, "explanation": "Correct. The friendship still exists and the reporting verb is present, so the present tense is right." },
+    { "type": "true_false", "statement": "Barnes confirmed that he is in the area of the paint factory last Monday.", "answer": false, "explanation": "... confirmed that he had been (or was) in the area of the paint factory last Monday. Last Monday is finished time." },
+    { "type": "true_false", "statement": "He maintains that he was a very honest person and would never be involved in anything illegal.", "answer": false, "explanation": "... maintains that he is a very honest person ... His claim is about how he is now, so use a present tense." },
+    {
+      "type": "mcq",
+      "prompt": "You want to hint that you doubt her story. Yasemin told me that she ___ two houses.",
+      "options": ["had", "has", "has had"],
+      "answer": 0,
+      "explanation": "A past tense after a past reporting verb suggests the claim may not be true, or is no longer true."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the reported clause need a present tense or a past tense here?",
+      "categories": ["Present - still true or still relevant", "Past - finished, or perhaps not true"],
+      "items": [
+        { "text": "The current law states that an employee ___ the right to appeal.", "category": 0 },
+        { "text": "Simon accepts that he still ___ a lot to learn.", "category": 0 },
+        { "text": "Health officials warn that anyone who ___ at the sun may damage their sight.", "category": 0 },
+        { "text": "Yusuf said that he ___ anything to eat.", "category": 1 },
+        { "text": "Lamar announced that she ___ leaving.", "category": 1 },
+        { "text": "Police said that they ___ the missing girl.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report what the law says. Put the words in order.",
+      "words": ["The law says", "that", "no one under the age of 16", "can buy", "a lottery ticket"],
+      "answer": "The law says that no one under the age of 16 can buy a lottery ticket",
+      "explanation": "A present reporting verb is preferred when we quote an authority."
+    }
+  ]
+}

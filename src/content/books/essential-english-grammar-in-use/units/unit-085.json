@@ -1,0 +1,166 @@
+{
+  "number": 85,
+  "title": "old/nice/interesting etc. (adjectives)",
+  "subtitle": "a nice day / it looks new",
+  "summary": "Put the adjective before the noun or after am/is/are, and use look, feel, smell, taste and sound + adjective.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "adjective + noun",
+      "text": "An adjective (**nice**, **old**, **blue**) tells us more about a noun. In English the adjective comes *before* the noun.",
+      "examples": [
+        { "text": "It's a **nice day** today." },
+        { "text": "Laura has got **brown eyes**." },
+        { "text": "There's a very **old bridge** in this village." },
+        { "text": "They live in a **modern house**.", "wrong": "a house modern" },
+        { "text": "Have you met any **famous people**?", "wrong": "people famous" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The adjective never changes",
+      "text": "The ending of an adjective is always the same. We do not add **-s** for a plural noun.",
+      "examples": [
+        { "text": "a **different** place / **different** places", "wrong": "differents places" },
+        { "text": "I don't speak any **foreign** languages." },
+        { "text": "There are some **beautiful yellow** flowers in the garden." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "be + adjective",
+      "text": "The adjective can also come after **am**, **is**, **are**, **was** and **were**.",
+      "examples": [
+        { "text": "The weather **is nice** today." },
+        { "text": "These flowers **are** very **beautiful**." },
+        { "text": "**Are** you **cold**? Shall I close the window?" },
+        { "text": "The film **wasn't** very **good**. It **was boring**." },
+        { "text": "Please **be quiet**. I'm reading." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "look / feel / smell / taste / sound + adjective",
+      "text": "After these five verbs we use an *adjective*, not a noun. They say how somebody or something looks, feels or smells to us.",
+      "examples": [
+        { "text": "'You **look tired**.' 'Yes, I **feel tired**.'" },
+        { "text": "Gary told me about his new job. It **sounds** very **interesting**." },
+        { "text": "I'm not going to eat this fish. It doesn't **smell good**." },
+        { "text": "A woman is holding some flowers. She says: 'They **smell nice**.'" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "be or look/feel/smell?",
+      "columns": ["Subject", "Verb", "Adjective"],
+      "rows": [
+        ["He", "is / feels / looks", "tired."],
+        ["They", "are / look / sound", "happy."],
+        ["It", "is / smells / tastes", "good."]
+      ],
+      "note": "We say *It looks good*, not ~~It looks well~~."
+    },
+    {
+      "type": "tip",
+      "text": "Two safe rules: the adjective goes *before* the noun (**a green jacket**), and it never takes **-s**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["they", "live", "in", "a new", "house."],
+      "answer": "They live in a new house.",
+      "explanation": "The adjective new comes before the noun house."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you speak any ___ ?",
+      "hint": "(foreign / languages)",
+      "answers": ["foreign languages"],
+      "explanation": "Adjective first, then the noun: foreign languages."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words are adjectives and which are nouns?",
+      "categories": ["adjective", "noun"],
+      "items": [
+        { "text": "black", "category": 0 },
+        { "text": "clouds", "category": 1 },
+        { "text": "fresh", "category": 0 },
+        { "text": "air", "category": 1 },
+        { "text": "sharp", "category": 0 },
+        { "text": "knife", "category": 1 },
+        { "text": "dangerous", "category": 0 },
+        { "text": "job", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["I", "like", "that", "green", "jacket."],
+      "answer": "I like that green jacket.",
+      "explanation": "that + adjective + noun: that green jacket."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sky is dark. Look at those ___ . It's going to rain.",
+      "hint": "(black / clouds)",
+      "answers": ["black clouds"],
+      "explanation": "The adjective black goes before the noun clouds."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would like to have a shower, but there's no ___ .",
+      "hint": "(hot / water)",
+      "answers": ["hot water"],
+      "explanation": "hot + water. The adjective comes first."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need a ___ to cut these onions.",
+      "hint": "(sharp / knife)",
+      "answers": ["sharp knife"],
+      "explanation": "a + adjective + noun: a sharp knife."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Have you met any ___ ?",
+      "options": ["famous people", "people famous", "famouses people"],
+      "answer": 0,
+      "explanation": "The adjective goes before the noun and never takes -s."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate is on the phone and she is laughing. You say: 'You ___ .'",
+      "hint": "(sound / happy)",
+      "answers": ["sound happy"],
+      "explanation": "sound + adjective: You sound happy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man is holding his stomach. He isn't well. He says: 'I ___ .'",
+      "hint": "(feel / ill)",
+      "answers": ["feel ill"],
+      "explanation": "feel + adjective: I feel ill."
+    },
+    {
+      "type": "matching",
+      "prompt": "A and B don't agree. Match what A says with B's answer.",
+      "pairs": [
+        { "left": "You look tired.", "right": "Do I? I don't feel tired." },
+        { "left": "This is a new coat.", "right": "Is it? It doesn't look new." },
+        { "left": "I'm American.", "right": "Are you? You don't sound American." },
+        { "left": "These bags are heavy.", "right": "Are they? They don't look heavy." },
+        { "left": "That soup looks good.", "right": "Maybe, but it doesn't taste good." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I need two differents books.",
+      "answer": false,
+      "explanation": "I need two different books. An adjective never takes -s."
+    }
+  ]
+}

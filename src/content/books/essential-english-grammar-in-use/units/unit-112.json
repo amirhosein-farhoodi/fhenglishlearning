@@ -1,0 +1,173 @@
+{
+  "number": 112,
+  "title": "afraid of ... , good at ... etc. of/at/for etc. (prepositions) + -ing",
+  "subtitle": "afraid of dogs / good at maths / good at telling stories",
+  "summary": "Learn which preposition follows adjectives like afraid, good, interested and fed up, and remember that a verb after a preposition ends in -ing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "adjective + preposition",
+      "columns": ["Adjective + preposition", "Example"],
+      "rows": [
+        ["afraid of ...", "Are you **afraid of** dogs?"],
+        ["different from (or to) ...", "Lisa is very **different from** her sister."],
+        ["fed up with ...", "I'm **fed up with** my job. I want to do something different."],
+        ["full of ...", "The room was **full of people**."],
+        ["good at ...", "Are you **good at** maths?"],
+        ["interested in ...", "I'm not **interested in** sport."],
+        ["married to ...", "Sue is **married to** a dentist."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "angry with or angry about?",
+      "left": {
+        "label": "angry with somebody",
+        "text": "for a person",
+        "examples": ["Why are you **angry with** me? What have I done?"]
+      },
+      "right": {
+        "label": "angry about something",
+        "text": "for a thing that happened",
+        "examples": ["Are you **angry about** last night?", "Chris was **angry about** what happened."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "nice/kind of somebody, nice/kind to somebody",
+      "text": "It was **nice/kind of** somebody **to** do something. But we are **nice/kind to** a person.",
+      "examples": [
+        { "text": "It was **kind of** you to help us. Thank you very much." },
+        { "text": "David is very friendly. He's always very **nice to** me." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sorry",
+      "text": "We say **sorry about** a situation, **sorry for/about** doing something, and we **feel sorry for** a person who has a problem.",
+      "examples": [
+        { "text": "I'm afraid I can't help you. I'm **sorry about** that." },
+        { "text": "I'm **sorry for** not phoning you yesterday.", "note": "or I'm sorry I didn't phone you." },
+        { "text": "I feel **sorry for** them. They are in a very difficult situation." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "of/at/for etc. + -ing",
+      "text": "After a preposition (**of**, **at**, **for**, **with**, **without**, **after** etc.), a verb ends in **-ing**.",
+      "examples": [
+        { "text": "I'm not very good **at telling** stories." },
+        { "text": "Thank you **for helping** me." },
+        { "text": "Tom left **without saying** goodbye." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More examples",
+      "columns": ["Adjective / verb + preposition", "-ing", "Rest of the sentence"],
+      "rows": [
+        ["I'm not very good **at**", "telling", "stories."],
+        ["Are you fed up **with**", "doing", "the same thing every day?"],
+        ["I'm sorry **for**", "not phoning", "you yesterday."],
+        ["Mark is thinking **of**", "buying", "a new car."],
+        ["Tom left **without**", "saying", "goodbye."],
+        ["**After**", "doing", "the shopping, they went home."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After a preposition we always use *-ing*: *Thank you for waiting*, not ~~Thank you for wait~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She reads a science magazine every week. She's interested ___ science.",
+      "answers": ["in"],
+      "explanation": "interested in something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She speaks German, Russian and Spanish. She's very good ___ languages.",
+      "answers": ["at"],
+      "explanation": "good at something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It rains every day and he doesn't like it. He's fed up ___ the weather.",
+      "answers": ["with"],
+      "explanation": "fed up with something = you have had enough of it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with its ending.",
+      "pairs": [
+        { "left": "Are you afraid", "right": "of dogs?" },
+        { "left": "Are you good", "right": "at maths?" },
+        { "left": "Sue is married", "right": "to a dentist." },
+        { "left": "I'm fed up", "right": "with my job." },
+        { "left": "The room was full", "right": "of people." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Can I help you? *B:* Thanks, that's very kind ___ you.",
+      "options": ["of", "to", "for"],
+      "answer": 0,
+      "explanation": "It was kind of somebody to do something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like Sarah. She's always very kind ___ me.",
+      "answers": ["to"],
+      "explanation": "be kind to a person."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: of, in or about?",
+      "categories": ["of", "in", "about"],
+      "items": [
+        { "text": "He's very brave. He isn't afraid ___ anything.", "category": 0 },
+        { "text": "These boxes are very heavy. They are full ___ books.", "category": 0 },
+        { "text": "It was very nice ___ Jane to let us stay in her apartment.", "category": 0 },
+        { "text": "Are you interested ___ politics?", "category": 1 },
+        { "text": "I'm not interested ___ sport.", "category": 1 },
+        { "text": "Chris was angry ___ what happened.", "category": 2 },
+        { "text": "I'm sorry ___ your broken window. It was an accident.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel sorry ___ her, but I can't help her.",
+      "answers": ["for"],
+      "explanation": "feel sorry for a person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Life today is very different ___ life 50 years ago.",
+      "answers": ["from", "to"],
+      "explanation": "different from or different to - both are correct."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wanted to go to the cinema, but Paula wasn't interested ___.",
+      "hint": "(interested / go)",
+      "answers": ["in going"],
+      "explanation": "After the preposition in, the verb ends in -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sorry I'm late! Thank you for wait.",
+      "answer": false,
+      "explanation": "Thank you for waiting. After a preposition the verb ends in -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Sue went past you and said nothing. Put the sentence in order.",
+      "words": ["Sue", "walked", "past me", "without", "speaking."],
+      "answer": "Sue walked past me without speaking.",
+      "explanation": "without + -ing: without speaking."
+    }
+  ]
+}

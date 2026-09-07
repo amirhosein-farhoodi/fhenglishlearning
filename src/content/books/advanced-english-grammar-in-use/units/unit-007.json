@@ -1,0 +1,178 @@
+{
+  "number": 7,
+  "title": "Past perfect continuous, past perfect and past continuous",
+  "subtitle": "I'd been finishing / I'd finished",
+  "summary": "Choose between the past perfect continuous, the past perfect and the past continuous when looking back from a point in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "In progress or finished before that past moment?",
+      "left": {
+        "label": "Past perfect continuous - still in progress",
+        "text": "Something was in progress recently before, or right up to, a past point in time.",
+        "examples": [
+          "I**'d been finishing** some work in the garden when Lea arrived, so I didn't hear her come in. (not ~~I'd finished some work in the garden when Lea arrived~~)"
+        ]
+      },
+      "right": {
+        "label": "Past perfect - the activity was over",
+        "text": "The activity was already finished before that past time.",
+        "examples": [
+          "I**'d finished** all the ironing so I started cleaning the windows. (not ~~I'd been finishing all the ironing~~)"
+        ]
+      },
+      "note": "Often either works: I'd been working / I'd worked hard all year, so I felt that I deserved a holiday."
+    },
+    {
+      "type": "explain",
+      "heading": "How many times?",
+      "text": "If we say how many times something happened in a period up to a particular past time, we use the past perfect, never the past perfect continuous.",
+      "examples": [
+        { "text": "How many times **had you met** him before yesterday?", "wrong": "How many times had you been meeting him" },
+        { "text": "I **had stayed** in the hotel twice in the 1990s.", "wrong": "I had been staying in the hotel twice" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three ways the activity can end",
+      "text": "The past perfect continuous describes an activity that went on before a particular past time and then (i) finished at that time, (ii) carried on beyond it, or (iii) finished shortly before it.",
+      "examples": [
+        { "text": "We**'d been driving** for about an hour when the engine suddenly stopped.", "note": "(i) finished at that time" },
+        { "text": "She felt terrible during the interview because she **had been suffering** from flu since the previous day.", "note": "(ii) continued beyond it" },
+        { "text": "When I last saw Omar, he**'d been running** and was out of breath.", "note": "(iii) finished shortly before it" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Does the length matter?",
+      "left": {
+        "label": "Past perfect continuous - we care how long it went on",
+        "examples": [
+          "When the merger was announced it became apparent that the two companies **had been discussing** the possibility since last year.",
+          "I first met Mateo and Lucia when they **had been going** out together for five years, and they didn't get married for another three years after that."
+        ]
+      },
+      "right": {
+        "label": "Past continuous - the length doesn't interest us",
+        "examples": [
+          "A friend told me about a conversation she'd recently overheard. Two women **were discussing** their holiday plans ...",
+          "Karin met Lars when she **was going** out with his best friend."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "States stay simple",
+      "text": "We don't describe states with continuous tenses, so we use the past perfect - even when we focus on how long the situation lasted up to a particular past time.",
+      "examples": [
+        { "text": "We **had** only **owned** the car for six weeks when the clutch broke.", "wrong": "We had been owning the car for six weeks" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Mainly a written form",
+      "text": "The past perfect continuous belongs mostly to written texts and is much less common in speech. Newspaper reports use it freely.",
+      "examples": [
+        { "text": "The body of a climber who went missing in the Alps was finally found yesterday. Carl Sims **had been climbing** alone near the Harz Waterfall, which has claimed many lives in the past." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A number of times, or a state, forces the plain past perfect. Everything else is a choice about whether you want the activity to feel unfinished."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The avalanche ___ them 500 metres down the mountain but no one was hurt.",
+      "hint": "(carry)",
+      "answers": ["had carried", "'d carried"],
+      "explanation": "A single completed action before the past point, so the past perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She took a bottle from the bag she ___ all the way from home.",
+      "hint": "(carry)",
+      "answers": ["had been carrying", "'d been carrying", "had carried", "'d carried"],
+      "explanation": "Carrying the bag was an activity going on up to that moment, so the past perfect continuous fits best."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This was the first time we had been to the castle, even though we ___ Prague a few times before.",
+      "options": ["had visited", "had been visiting", "were visiting"],
+      "answer": 0,
+      "explanation": "A few times gives a number of occasions, so the past perfect continuous is impossible."
+    },
+    {
+      "type": "true_false",
+      "statement": "How many times had you been meeting him before yesterday?",
+      "answer": false,
+      "explanation": "How many times had you met him before yesterday? How many times calls for the past perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She had only ___ for the company for a couple of months, so I was surprised to hear that she'd left.",
+      "hint": "(work)",
+      "answers": ["been working", "worked"],
+      "explanation": "An activity in progress up to that past point takes the past perfect continuous; the past perfect is also possible."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Explain why you didn't hear Lea come in.",
+      "words": ["I'd been finishing", "some work", "in the garden", "when Lea arrived"],
+      "answer": "I'd been finishing some work in the garden when Lea arrived",
+      "explanation": "The work was still in progress, so the past perfect continuous - not I'd finished - is right."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of these sentences.",
+      "pairs": [
+        { "left": "We'd been driving for about an hour", "right": "when the engine suddenly stopped." },
+        { "left": "She felt terrible during the interview", "right": "because she had been suffering from flu since the previous day." },
+        { "left": "When I last saw Omar,", "right": "he'd been running and was out of breath." },
+        { "left": "Carl Sims had been climbing alone near the Harz Waterfall,", "right": "which has claimed many lives in the past." },
+        { "left": "We had only owned the car for six weeks", "right": "when the clutch broke." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "She bought her first watch at the age of eight. It ___ two pounds.",
+      "options": ["had cost", "had been costing", "was costing"],
+      "answer": 0,
+      "explanation": "Cost describes a state here, and states are not used in continuous forms."
+    },
+    {
+      "type": "true_false",
+      "statement": "My teacher was really annoyed with me. It was the third time I had arrived late for school that week.",
+      "answer": true,
+      "explanation": "Correct. The third time counts occasions, so the past perfect is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When the plane was diverted, shortly after take-off, it ___ from London to Frankfurt.",
+      "hint": "(fly)",
+      "answers": ["had been flying", "'d been flying"],
+      "explanation": "The flight was in progress at that past moment, so the past perfect continuous."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had been owning the car for six weeks when the clutch broke.",
+      "answer": false,
+      "explanation": "We had only owned the car for six weeks when the clutch broke. Own describes a state, so no continuous form."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form does each sentence need?",
+      "categories": ["Past perfect continuous", "Past perfect"],
+      "items": [
+        { "text": "Mrs Bishop ___ to have children for years, and only became pregnant at 45. (try)", "category": 0 },
+        { "text": "Even though we ___ Prague a few times before ... (visit)", "category": 1 },
+        { "text": "Her first watch ___ two pounds. (cost)", "category": 1 },
+        { "text": "Emma Willems ___ novels for ten years before she published her first book. (write)", "category": 0 },
+        { "text": "It was the third time I ___ late for school that week. (arrive)", "category": 1 },
+        { "text": "We ___ about Sarah when, to our amazement, she walked through the door. (talk)", "category": 0 }
+      ]
+    }
+  ]
+}

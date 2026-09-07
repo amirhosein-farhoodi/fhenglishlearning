@@ -1,0 +1,190 @@
+{
+  "number": 43,
+  "title": "Compound nouns and noun phrases",
+  "subtitle": "an address book / a lion's den / a cup of tea",
+  "summary": "Decide between noun + noun, noun + -'s + noun and noun + preposition + noun, and use compound nouns made from two-word verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "noun + noun",
+      "text": "In a compound made of noun + noun, the second noun usually gives the general class of thing and the first noun says what type it is. The first noun normally has a **singular** form.",
+      "examples": [
+        { "text": "**an address book**", "wrong": "an addresses book", "note": "= a book for addresses" },
+        { "text": "**a shoe shop**, **a coal mine**, **a computer programmer**, **a film star**" }
+      ],
+      "note": "To make the compound plural we usually make the second noun plural: coal mine(s), office-worker(s), tea leaf / leaves."
+    },
+    {
+      "type": "explain",
+      "heading": "When the first noun stays plural",
+      "text": "There are exceptions. The first noun is plural when it only *has* a plural form, and when we refer to an institution (an industry, a department, etc.) that deals with more than one kind of item or activity.",
+      "examples": [
+        { "text": "**a savings account**, **a customs officer**, **a clothes shop**, **the arms trade**", "note": "arms = weapons; compare a shoe shop" },
+        { "text": "**a glasses case**", "note": "glasses = spectacles. Compare a glass case = a case made of glass" },
+        { "text": "**an arts festival**", "note": "arts = music, drama, film, dance, painting. Compare an art festival; art = painting, drawing and sculpture" },
+        { "text": "**the building materials industry**, **the publications department**", "note": "different types of building material, different forms of publication" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "noun + -'s + noun",
+      "text": "We prefer the possessive form when the first noun is the **user** of the item in the second noun, and when the thing in the second noun is **produced by** the thing (often an animal) in the first.",
+      "examples": [
+        { "text": "**a baby's bedroom**, **a lion's den**, **a women's clinic**, **a girls' school**, **birds' nests**" },
+        { "text": "**goat's cheese**, **duck's eggs**, **cow's milk**", "note": "but lamb chops and chicken drumsticks" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Parts of people, parts of things",
+      "left": {
+        "label": "Parts of people and animals: noun + -'s + noun",
+        "examples": ["**a woman's face**", "**a boy's arm**"]
+      },
+      "right": {
+        "label": "Parts of things: noun + noun",
+        "examples": ["**a pen top**", "**a computer keyboard**"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "noun + preposition + noun",
+      "text": "We prefer a preposition when we talk about a **container together with its contents**, and when the combination does not refer to a well-known class of items.",
+      "examples": [
+        { "text": "**a cup of tea**", "note": "= a cup with tea in it; compare a tea cup = a cup for drinking tea from" },
+        { "text": "**income tax**", "note": "a recognised class of tax" },
+        { "text": "**a tax on children's clothes**", "wrong": "a children's clothes tax" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Compounds from verbs + prepositions",
+      "text": "Some compound nouns are made up of verbs and prepositions or adverbs, and are related to a two- or three-word verb. Countable ones make their plural with *-s* at the end, but a few put it in the middle.",
+      "examples": [
+        { "text": "Mansen **broke out of** the prison by dressing as a woman. = escaped" },
+        { "text": "There was a major **break-out** from the prison last night. = prisoners escaped" },
+        { "text": "**read-out(s)**, **push-up(s)**, **intake(s)**, **outcome(s)**, **hanger(s)-on**" },
+        { "text": "but **looker(s)-on** (or onlooker[s]), **runner(s)-up**, **passer(s)-by**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Hyphenated phrases before a noun",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["a state-of-the-art tablet PC", "very modern"],
+        ["up-to-date information", "current"],
+        ["the day-to-day running of the company", "routine"],
+        ["round-the-clock protection", "all day and all night"],
+        ["step-by-step instructions", "progressing from one stage to the next"],
+        ["a once-in-a-lifetime opportunity", "very rare"],
+        ["a down-to-earth approach", "practical"],
+        ["middle-of-the-road voters", "not politically extreme"],
+        ["a larger-than-life character", "more exaggerated than usual"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself *who or what uses it, and who or what made it*: a user or a producer points to *-'s* (a girls' school, cow's milk), while a part of an object points to plain noun + noun (a pen top)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Ali worked in the parks department, but a few years ago he retrained and now he's ___.",
+      "options": ["a computer programmer", "a computers programmer", "a computer's programmer"],
+      "answer": 0,
+      "explanation": "In noun + noun the first noun normally stays singular: a computer programmer."
+    },
+    {
+      "type": "true_false",
+      "statement": "Of course, what he really wants to be is a films star!",
+      "answer": false,
+      "explanation": "... what he really wants to be is a film star. The first noun of the compound stays singular."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone got out of a car without looking and ___ hit her.",
+      "options": ["the car door", "the car's door", "the cars door"],
+      "answer": 0,
+      "explanation": "For parts of things we use noun + noun, not the possessive: the car door."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was waiting at the bus stop when a cyclist on her way to the ___ up the road got knocked off her bike.",
+      "hint": "(a school for girls)",
+      "answers": ["girls' school", "girls school"],
+      "explanation": "The pupils are the users of the school, so we use noun + -'s + noun: a girls' school."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each phrase use?",
+      "categories": ["noun + noun", "noun + -'s + noun", "noun + preposition + noun"],
+      "items": [
+        { "text": "an address book", "category": 0 },
+        { "text": "a computer keyboard", "category": 0 },
+        { "text": "a lion's den", "category": 1 },
+        { "text": "goat's cheese", "category": 1 },
+        { "text": "a cup of tea", "category": 2 },
+        { "text": "a tax on children's clothes", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've just got three things on my shopping list - ___, a packet of biscuits and some toothpaste.",
+      "hint": "(milk in a bottle)",
+      "answers": ["a bottle of milk"],
+      "explanation": "A container together with its contents takes noun + preposition + noun, not a milk bottle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each two-word verb with the compound noun that comes from it.",
+      "pairs": [
+        { "left": "cover up (the truth)", "right": "a cover-up" },
+        { "left": "break out (a disease)", "right": "an outbreak" },
+        { "left": "stop over (on a journey)", "right": "a stopover" },
+        { "left": "get together (with friends)", "right": "a get-together" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Marta hated going into her grandfather's old tools shed. It was full of spiders' webs.",
+      "answer": false,
+      "explanation": "... her grandfather's old tool shed. It was full of spiders' webs. The first noun of the compound is singular (tool shed), but the webs are produced by the spiders, so spiders' webs is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When Jake was cleaning his armchair he found his ___ with his sunglasses inside.",
+      "hint": "(a case for glasses)",
+      "answers": ["glasses case"],
+      "explanation": "glasses only has a plural form, so it stays plural: a glasses case. Compare a glass case = a case made of glass."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The tracks on his latest CD range from love songs to ___.",
+      "hint": "(songs / pollution)",
+      "answers": ["songs about pollution"],
+      "explanation": "'Pollution songs' is not a well-known class of songs, so we use noun + preposition + noun."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each hyphenated phrase with its meaning.",
+      "pairs": [
+        { "left": "day-to-day", "right": "routine" },
+        { "left": "round-the-clock", "right": "all day and all night" },
+        { "left": "step-by-step", "right": "progressing from one stage to the next" },
+        { "left": "once-in-a-lifetime", "right": "very rare" },
+        { "left": "down-to-earth", "right": "practical rather than theoretical" },
+        { "left": "larger-than-life", "right": "more exaggerated than usual" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The party will never regain power unless it can persuade ___ voters that it has rid itself of corruption.",
+      "hint": "(not politically extreme)",
+      "answers": ["middle-of-the-road", "middle of the road"],
+      "explanation": "Hyphenated phrases like middle-of-the-road go before the noun to say more precisely what it refers to."
+    }
+  ]
+}

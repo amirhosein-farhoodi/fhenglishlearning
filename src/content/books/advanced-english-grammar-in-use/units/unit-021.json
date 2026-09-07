@@ -1,0 +1,183 @@
+{
+  "number": 21,
+  "title": "Linking verbs: be, appear, seem; become, get, etc.",
+  "subtitle": "She seemed unable to concentrate.",
+  "summary": "Use linking verbs to join a subject to its complement, and choose the right verb for descriptions (be, seem) and for changes (become, get, go, turn).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Linking verbs and complements",
+      "text": "When an adjective or noun phrase comes after a verb to describe the subject, or to say what or who the subject is, that adjective or noun phrase is a **complement** and the verb is a **linking verb**.",
+      "examples": [
+        { "text": "Clara **is a doctor**.", "note": "noun phrase complement" },
+        { "text": "She **seemed unable** to concentrate.", "note": "adjective complement" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Three families of linking verb",
+      "columns": ["Type", "Verbs", "Notes"],
+      "rows": [
+        ["'being'", "be, keep, prove, remain, stay", "Most take either an adjective or a noun phrase: It sounds nice / a nice place. But keep is only followed by a noun if an adjective follows it: It kept him awake."],
+        ["'becoming'", "become, come, end up, grow, turn out", "As linking verbs, come and grow cannot be followed by a noun phrase: come to know, grow thoughtful."],
+        ["'seeming'", "appear, look, seem, sound", "Here appear means 'seems true' and look means 'seem'."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "appear, look, prove, seem, turn out (+ to be)",
+      "text": "After these verbs we can often either include or leave out **to be**. However, **to be** is usually included before the adjectives *alive, alone, asleep* and *awake*, and before **-ing** forms of verbs.",
+      "examples": [
+        { "text": "The room **appears (to be)** brighter than when I last saw it." },
+        { "text": "I didn't go in because she **appeared to be** asleep.", "wrong": "she appeared asleep" },
+        { "text": "I've adjusted the aerial and the television **seems to be** working okay now.", "note": "an -ing form follows, so to be stays" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Before a noun",
+      "text": "Include **to be** when the noun tells us what the subject actually is. When we are giving our opinion of the person or thing in the subject, **to be** is often left out.",
+      "examples": [
+        { "text": "He walked into what **seemed to be** a cave.", "wrong": "what seemed a cave" },
+        { "text": "She **seems (to be)** a very efficient salesperson.", "note": "an opinion, so to be can go" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "get or become?",
+      "left": {
+        "label": "get - everyday, informal change",
+        "text": "before difficult, ill, interested, pregnant, suspicious, unhappy and worried; in imperatives; and in phrases such as get changed, get dressed, get married / divorced",
+        "examples": [
+          "I first **got** suspicious when he looked into all the cars. (more formally ... became suspicious ...)",
+          "Don't **get** upset about it!",
+          "Where did you live before you **got** married?"
+        ]
+      },
+      "right": {
+        "label": "become - abstract or technical change",
+        "text": "also with apparent, aware, convinced, infected, irrelevant and obvious - and always before a noun phrase",
+        "examples": [
+          "He **became** recognised as an expert.",
+          "Their bodies have **become** adapted to high altitudes.",
+          "Dr Morales **became** an adviser to the government. (not ~~got an adviser~~)"
+        ]
+      },
+      "note": "Both describe a process of change; come, go, grow and turn (into) can do this job too."
+    },
+    {
+      "type": "explain",
+      "heading": "go and turn: colours and things going wrong",
+      "text": "We use **go** or **turn**, not usually *get* or *become*, when colours change. We also use **go** for changes we don't want: go deaf / blind / bald; go mad / crazy / wild; go bad / off / mouldy / rotten; go bust; go dead; go missing; go wrong.",
+      "examples": [
+        { "text": "The traffic lights **turned / went** green and I pulled away." },
+        { "text": "The company **went bust** and had to close." },
+        { "text": "My computer's **gone wrong** again." },
+        { "text": "Some people **get** ill very easily.", "note": "but note get ill, get old, get tired" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "come, get and grow + to-infinitive",
+      "text": "After **come**, **get** and **grow** (but not after *become*) we can use a **to-infinitive**. *Come* and *grow* often describe a gradual change.",
+      "examples": [
+        { "text": "I eventually **came / grew to appreciate** his work.", "wrong": "became to appreciate his work" },
+        { "text": "He's actually quite friendly when you **get to know** him." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Colours and unwanted changes take go or turn (go blind, go bust, go missing), but illness, age and tiredness take get (get ill, get old, get tired)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Give me a few minutes to ___ changed, and then I'll be ready to go.",
+      "hint": "(get / become)",
+      "answers": ["get"],
+      "explanation": "get changed is a fixed phrase about clothes; become is not used here."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The state of the railways ___ a major political issue during the last election campaign.",
+      "options": ["became", "got", "went"],
+      "answer": 0,
+      "explanation": "Before a noun phrase we use become, not get."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had just ___ divorced when I met Marianne.",
+      "hint": "(get / become)",
+      "answers": ["got"],
+      "explanation": "get divorced, like get married and get dressed, is a fixed phrase with get."
+    },
+    {
+      "type": "true_false",
+      "statement": "I didn't go in because she appeared asleep.",
+      "answer": false,
+      "explanation": "I didn't go in because she appeared to be asleep. Before alive, alone, asleep and awake we include to be."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In which of these sentences can to be be left out, and in which is it needed?",
+      "categories": ["to be can be left out", "to be is needed"],
+      "items": [
+        { "text": "Hassan proved to be an excellent source of information about the town.", "category": 0 },
+        { "text": "When I looked through the window, Ella appeared to be alone.", "category": 1 },
+        { "text": "She appeared to be satisfied with the work I'd done.", "category": 0 },
+        { "text": "I've adjusted the aerial and the television seems to be working okay now.", "category": 1 },
+        { "text": "'We've decided to buy a Ford.' 'That seems to be a very good choice.'", "category": 0 },
+        { "text": "What he called his 'little cottage in the country' proved to be a castle.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few seconds later the line ___ and Marc put down the handset.",
+      "hint": "(go / turn) + dead",
+      "answers": ["went dead"],
+      "explanation": "go + dead describes an unwanted change; the past simple is went."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After the spider bit Rachel her ankle ___ and started to swell up.",
+      "hint": "(go / get) + red",
+      "answers": ["went red"],
+      "explanation": "Changes of colour take go or turn, not get."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The doctor told me that without immediate treatment I might ___.",
+      "options": ["go blind", "turn blind", "get blind"],
+      "answer": 0,
+      "explanation": "Unwanted changes of this kind take go: go blind / deaf / bald."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's actually quite friendly when you ___ him.",
+      "hint": "(become / get) + to know",
+      "answers": ["get to know"],
+      "explanation": "come, get and grow can be followed by a to-infinitive; become cannot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We soon ___ each other and have been great friends ever since.",
+      "hint": "(become / come) + to like",
+      "answers": ["came to like"],
+      "explanation": "come to + infinitive describes a gradual change, not became to like."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The holiday was excellent, despite the terrible start. Put the words in order.",
+      "words": ["Surprisingly,", "it", "turned out", "to be", "an excellent", "holiday"],
+      "answer": "Surprisingly, it turned out to be an excellent holiday"
+    },
+    {
+      "type": "true_false",
+      "statement": "By 8:30 the taxi hadn't arrived and I was starting to become worried.",
+      "answer": false,
+      "explanation": "... I was starting to get worried. In informal English we prefer get before worried, suspicious, unhappy and ill."
+    }
+  ]
+}

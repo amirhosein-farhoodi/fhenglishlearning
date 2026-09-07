@@ -1,0 +1,179 @@
+{
+  "number": 17,
+  "title": "Have you ever ... ? (present perfect 3)",
+  "subtitle": "Have you ever been ... ?",
+  "summary": "Use the present perfect with ever and never to talk about a time from the past until now, for example a person's life.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A time from the past until now",
+      "text": "A man asks a woman about her travels. *'**Have** you **been** to Rome?' 'Yes, I have. Many times.' '**Have** you **ever been** to Japan?' 'No, **I've never been** to Japan.'* We use the present perfect (**have been** / **have had** / **have played**) for a time from the past until now - for example, a person's life.",
+      "examples": [
+        { "text": "'**Have** you **been** to France?' 'No, I **haven't**.'" },
+        { "text": "**I've been** to Canada, but I **haven't been** to the United States." },
+        { "text": "Mary is an interesting person. She **has had** many different jobs and **has lived** in many places." },
+        { "text": "**I've seen** that woman before, but I can't remember where." },
+        { "text": "How many times **has** Brazil **won** the World Cup?" },
+        { "text": "'**Have** you **read** this book?' 'Yes, **I've read** it twice.'", "note": "twice = two times" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions with ever",
+      "columns": ["Have / Has", "Subject", "ever", "Past participle"],
+      "rows": [
+        ["Have", "you", "ever", "been to Japan?"],
+        ["Has", "Ann", "ever", "been to Australia?"],
+        ["Have", "you", "ever", "played golf?"]
+      ],
+      "note": "**ever** = at any time. We use it in questions."
+    },
+    {
+      "type": "explain",
+      "heading": "never",
+      "text": "**never** = not at any time. It goes between have/has and the past participle.",
+      "examples": [
+        { "text": "'**Has** Ann **ever been** to Australia?' 'Yes, once.'", "note": "once = one time" },
+        { "text": "'**Have** you **ever played** golf?' 'Yes, I play a lot.'" },
+        { "text": "My sister **has never travelled** by plane." },
+        { "text": "**I've never ridden** a horse." },
+        { "text": "'Who is that man?' 'I don't know. **I've never seen** him before.'" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "gone and been",
+      "left": {
+        "label": "has gone = he is there now",
+        "text": "Somebody asks 'Where's Bill?' The answer is: 'He's away. He's **gone** to Spain.'",
+        "examples": [
+          "Bill **has gone** to Spain. (= he is in Spain now)",
+          "I can't find Susan. Where **has** she **gone**? (= where is she now?)",
+          "My parents aren't at home. They've **gone** out."
+        ]
+      },
+      "right": {
+        "label": "has been = he is back now",
+        "text": "Two weeks later Bill is home again. He says: 'Hi. I've **been** on holiday. I've **been** to Spain.'",
+        "examples": [
+          "Bill **has been** to Spain. (= he went to Spain, but now he is back)",
+          "Oh, hello Susan! I was looking for you. Where **have** you **been**?",
+          "Rebecca knows Paris well. She's **been** there many times."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "How often?",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["once", "one time"],
+        ["twice", "two times"],
+        ["many times", "a lot of times"],
+        ["a few times", "not many times"],
+        ["never", "not at any time"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never say *not* with *never*: *I've **never** been to Japan*, not ~~I haven't never been~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "You are asking Helen about London. Write the question.",
+      "words": ["Have", "you", "ever", "been", "to", "London?"],
+      "answer": "Have you ever been to London?",
+      "explanation": "Have + you + ever + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are asking Helen about golf. '___ golf?'",
+      "hint": "(you / ever / play)",
+      "answers": ["Have you ever played"],
+      "explanation": "Have you ever played golf? play is regular, so the past participle is played."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past participle.",
+      "pairs": [
+        { "left": "fly", "right": "flown" },
+        { "left": "win", "right": "won" },
+        { "left": "drive", "right": "driven" },
+        { "left": "break", "right": "broken" },
+        { "left": "lose", "right": "lost" },
+        { "left": "see", "right": "seen" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen has been to New York two times. Another way to say this: she's been to New York ___.",
+      "hint": "(one word)",
+      "answers": ["twice"],
+      "explanation": "twice = two times."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen went to Australia one time in her life. ___ to Australia once.",
+      "hint": "(she / be)",
+      "answers": ["She's been", "She has been"],
+      "explanation": "She is back now, so we use has been: She's been to Australia once."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen has not won a race at any time in her life. ___ a race.",
+      "hint": "(she / never / win)",
+      "answers": ["She's never won", "She has never won"],
+      "explanation": "never goes between has and the past participle: She's never won a race."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Bill is on holiday at the moment. He's ___ to Spain.",
+      "options": ["gone", "been", "went"],
+      "answer": 0,
+      "explanation": "has gone = he is in Spain now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rebecca knows Paris well. She's ___ there many times.",
+      "options": ["been", "gone", "goes"],
+      "answer": 0,
+      "explanation": "has been = she went there and came back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where's Jane?' 'She's not here. I think she's ___ to the bank.'",
+      "hint": "(gone / been)",
+      "answers": ["gone"],
+      "explanation": "She is at the bank now, so: she's gone to the bank."
+    },
+    {
+      "type": "true_false",
+      "statement": "My parents aren't at home at the moment. They've been out.",
+      "answer": false,
+      "explanation": "They've gone out. They are not at home now, so we use gone."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the situation need has/have gone or has/have been?",
+      "categories": ["gone (the person is there now)", "been (the person is back now)"],
+      "items": [
+        { "text": "Liz is not here. She is at the bank now.", "category": 0 },
+        { "text": "Hello, Sue! Where were you? You are back now.", "category": 1 },
+        { "text": "My parents are out at the moment.", "category": 0 },
+        { "text": "Rebecca knows Paris - she visited it many times.", "category": 1 },
+        { "text": "Helen was here earlier, but she is not here now.", "category": 0 },
+        { "text": "Have you ever visited Mexico in your life?", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mary is 65 and she has had an interesting life. She ___ ten books.",
+      "hint": "(write)",
+      "answers": ["has written", "'s written"],
+      "explanation": "Her life is a time from the past until now: she has written ten books."
+    }
+  ]
+}

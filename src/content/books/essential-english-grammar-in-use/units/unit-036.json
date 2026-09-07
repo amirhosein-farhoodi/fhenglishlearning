@@ -1,0 +1,167 @@
+{
+  "number": 36,
+  "title": "I used to ...",
+  "subtitle": "I used to work / she used to be",
+  "summary": "Use used to + verb to say what happened often or was true before, but is not true now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Dave used to work in a factory",
+      "text": "A few years ago Dave said: 'I work in a factory.' Today Dave says: 'I work in a supermarket. I **used to work** in a factory.' So Dave **used to work** in a factory = he worked in a factory before, but he doesn't work there now.",
+      "examples": [
+        { "text": "Dave **used to work** in a factory. Now he **works** in a supermarket." },
+        { "text": "When I was a child, I **used to like** chocolate." },
+        { "text": "I **used to read** a lot of books, but I don't read much these days." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "used to", "+ verb"],
+      "rows": [
+        ["I / you / we / they", "used to", "be, work, have, play"],
+        ["he / she / it", "used to", "be, work, have, play"]
+      ],
+      "note": "**used to** is the same for every subject."
+    },
+    {
+      "type": "explain",
+      "heading": "More examples",
+      "text": "We use **used to** for things that happened many times before, and also for things that were true before but are not true now.",
+      "examples": [
+        { "text": "A woman holds an old photo of herself with very long hair. She says: 'I **used to have** very long hair.'" },
+        { "text": "Liz has got short hair now, but it **used to be** very long." },
+        { "text": "They **used to live** in the same street as us, so we **used to see** them a lot. But we don't see them very often these days." },
+        { "text": "Helen **used to have** a piano, but she sold it a few years ago." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative and questions",
+      "text": "The negative is **didn't use to ...** and the question is **did you use to ... ?** Here we write **use to**, with no *d*.",
+      "examples": [
+        { "text": "When I was a child, I **didn't use to like** tomatoes." },
+        { "text": "Where **did** you **use to live** before you came here?" },
+        { "text": "What games **did** you **use to play** when you were a child?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "used to and the present",
+      "left": {
+        "label": "used to = the past only",
+        "text": "Before, but not now.",
+        "examples": ["I **used to play** tennis.", "We **used to live** near the airport."]
+      },
+      "right": {
+        "label": "present simple = now",
+        "text": "For now we use I play / he lives etc.",
+        "examples": [
+          "These days I **play** golf.",
+          "We usually **get** up early."
+        ]
+      },
+      "note": "You cannot say ~~I use to play golf~~ or ~~We use to get up early~~ about now."
+    },
+    {
+      "type": "tip",
+      "text": "*used to* has no present. For things that are true now, use the present simple: *Mary watches TV every evening*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A man is showing a photo of himself as a young footballer. He says: 'When I was younger ...' He ___ football.",
+      "hint": "(play)",
+      "answers": ["used to play"],
+      "explanation": "He played football before, but not now: he used to play football."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman says: 'I'm a hairdresser now.' In her old photo she is standing next to a taxi. She ___ a taxi driver.",
+      "hint": "(be)",
+      "answers": ["used to be"],
+      "explanation": "used to + be for something that was true before."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about before (not now) or about now?",
+      "categories": ["Before, not now", "Now"],
+      "items": [
+        { "text": "He used to work in a factory.", "category": 0 },
+        { "text": "He works in a supermarket.", "category": 1 },
+        { "text": "Liz's hair used to be very long.", "category": 0 },
+        { "text": "We usually get up early.", "category": 1 },
+        { "text": "I used to read a lot of books.", "category": 0 },
+        { "text": "Mary watches TV every evening.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A couple say: 'We live in London now.' Their old photo shows their house in the country 20 years ago. They ___ in the country.",
+      "hint": "(live)",
+      "answers": ["used to live"],
+      "explanation": "They lived there before, but not now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This building is a shop now, but a long time ago it was a hotel. This building ___ a hotel.",
+      "options": ["used to be", "use to be", "used to being"],
+      "answer": 0,
+      "explanation": "In positive sentences we write used to + verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "Dave used to work in a factory.", "right": "Now he works in a supermarket." },
+        { "left": "Liz's hair used to be very long.", "right": "Now it's short." },
+        { "left": "Helen used to have a piano.", "right": "She sold it a few years ago." },
+        { "left": "I used to read a lot of books.", "right": "I don't read much these days." },
+        { "left": "They used to live in our street.", "right": "We don't see them very often now." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Karen works very hard and has no free time now. A few years ago she swam every day. She ___ every day.",
+      "hint": "(swim)",
+      "answers": ["used to swim"],
+      "explanation": "used to + swim, for something she did often before."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Have you got a car?' 'No, I ___ one, but I sold it.'",
+      "hint": "(have)",
+      "answers": ["used to have"],
+      "explanation": "She had a car before, but not now: I used to have one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I was a child, I never ___ meat, but I eat it now.",
+      "hint": "(eat)",
+      "answers": ["used to eat"],
+      "explanation": "I never used to eat meat = before I didn't eat meat."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mary loves watching TV. She ___ TV every evening.",
+      "options": ["watches", "used to watch", "use to watch"],
+      "answer": 0,
+      "explanation": "This is true now, so we use the present simple: she watches."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about the games in her childhood.",
+      "words": ["What", "games", "did", "you", "use", "to", "play", "when you were a child?"],
+      "answer": "What games did you use to play when you were a child?",
+      "explanation": "In questions we use did + use to (with no d on use)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I used to play tennis. These days I use to play golf.",
+      "answer": false,
+      "explanation": "I used to play tennis. These days I play golf. used to is only for the past."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "number": 111,
+  "title": "on at by with about",
+  "subtitle": "on holiday / at 100 degrees / by car / with milk / about cars",
+  "summary": "Learn the fixed phrases with on, at, by, with/without and about, so you can say on holiday, at 100 degrees, by car, with milk and a book about grammar.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "on",
+      "columns": ["Phrase", "Example"],
+      "rows": [
+        ["on holiday", "Jane isn't at work this week. She's **on holiday**."],
+        ["on television", "We watched the news **on television**."],
+        ["on the radio", "We listened to the news **on the radio**."],
+        ["on the phone", "I spoke to Rachel **on the phone** last night."],
+        ["on fire", "The house is **on fire**! Call the fire brigade."],
+        ["on time (= not late)", "*A:* Was the train late? *B:* No, it was **on time**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at for ages, speeds and temperatures",
+      "text": "Use **at** with an age, a speed and a temperature: **at** (the age of) 21 / **at** 50 kilometres an hour / **at** 100 degrees.",
+      "examples": [
+        { "text": "Lisa got married **at** 21.", "note": "or ... at the age of 21." },
+        { "text": "A car uses more petrol **at** 120 kilometres an hour than **at** 90." },
+        { "text": "Water boils **at** 100 degrees Celsius." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "by for travelling",
+      "text": "Use **by** to say how you travel: **by car** / **by bus** / **by plane** / **by bike**. But we say **on foot** (= walking).",
+      "examples": [
+        { "text": "Do you like travelling **by train**?" },
+        { "text": "Jane usually goes to work **by bike**." },
+        { "text": "You can't get there **by car**. You have to go **on foot**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "by for the person who made it",
+      "text": "Use **by** to say who wrote a book, painted a picture or wrote a piece of music. We also use **by** to say who did something in a passive sentence.",
+      "examples": [
+        { "text": "Have you read any books **by Charles Dickens**?" },
+        { "text": "**Who** is that painting **by**? Picasso?" },
+        { "text": "I was bitten **by a dog**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "with and without",
+      "text": "**with** = together with somebody, or using something. **without** = not with. We also use **with** to describe a person or a thing.",
+      "examples": [
+        { "text": "Did you stay at a hotel or **with friends**?" },
+        { "text": "Wait for me. Please don't go **without** me." },
+        { "text": "Do you like your coffee **with** or **without** milk?" },
+        { "text": "I cut the paper **with a pair of scissors**." },
+        { "text": "Do you know that man **with the beard**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "about",
+      "text": "Use **about** after talk / speak / think / hear / know, and after a book, a question, a programme or information.",
+      "examples": [
+        { "text": "Some people **talk about their work** all the time." },
+        { "text": "I don't **know** much **about cars**." },
+        { "text": "There was **a programme about** volcanoes on TV last night." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We travel *by car*, *by bus* and *by bike*, but we walk *on foot*, not ~~by foot~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Please don't be late. Try to be here ___.",
+      "hint": "(on + time)",
+      "answers": ["on time"],
+      "explanation": "on time = not late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I won't be here next week. I'm going ___.",
+      "hint": "(on + holiday)",
+      "answers": ["on holiday"],
+      "explanation": "We say on holiday, not in holiday."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The car is ___ fire! Call the fire brigade.",
+      "options": ["on", "at", "with"],
+      "answer": 0,
+      "explanation": "on fire is a fixed phrase."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with its meaning.",
+      "pairs": [
+        { "left": "on time", "right": "not late" },
+        { "left": "on fire", "right": "burning" },
+        { "left": "on foot", "right": "walking" },
+        { "left": "on holiday", "right": "away from work for a few days" },
+        { "left": "on the phone", "right": "talking to somebody far away" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What's ___ this evening?' 'Nothing that I want to watch.'",
+      "hint": "(on + television)",
+      "answers": ["on television"],
+      "explanation": "We watch things on television."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She usually goes to work ___ car.",
+      "answers": ["by"],
+      "explanation": "by car / by bus / by bike shows how you travel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who is the woman ___ short hair?",
+      "answers": ["with"],
+      "explanation": "We use with to describe a person: a woman with short hair."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: by, with or about?",
+      "categories": ["by", "with", "about"],
+      "items": [
+        { "text": "Hamlet and Macbeth are plays ___ William Shakespeare.", "category": 0 },
+        { "text": "We travelled from Paris to Moscow ___ train.", "category": 0 },
+        { "text": "In tennis, you hit the ball ___ a racket.", "category": 1 },
+        { "text": "My house is the one ___ the red door on the right.", "category": 1 },
+        { "text": "Do you know anything ___ computers?", "category": 2 },
+        { "text": "Can you give me some information ___ hotels in this town?", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't use my car very often. I prefer to go with bike.",
+      "answer": false,
+      "explanation": "I prefer to go by bike. We use by for cars, buses, trains and bikes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The plane is flying ___ 600 miles an hour.",
+      "answers": ["at"],
+      "explanation": "We use at with a speed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's cold today. Don't go out ___ a coat.",
+      "options": ["without", "about", "on"],
+      "answer": 0,
+      "explanation": "without = not with."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order. It says who took the man to the police station.",
+      "words": ["I", "was arrested", "by two policemen", "and taken", "to the police station."],
+      "answer": "I was arrested by two policemen and taken to the police station.",
+      "explanation": "In a passive sentence, by shows who did it."
+    }
+  ]
+}

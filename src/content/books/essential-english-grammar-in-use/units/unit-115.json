@@ -1,0 +1,177 @@
+{
+  "number": 115,
+  "title": "put on your shoes put your shoes on (phrasal verbs 2)",
+  "subtitle": "put on your coat / put your coat on / put it on",
+  "summary": "Learn where the object goes with phrasal verbs like put on and take off, and remember that it and them always go in the middle.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two places for the object",
+      "text": "Sometimes a phrasal verb (**put on** / **take off** etc.) has an object. The object can go after the phrasal verb or in the middle. Both are correct.",
+      "examples": [
+        { "text": "It was cold, so I **put on** my coat.", "note": "or I put my coat on." },
+        { "text": "I'm going to **take off** my shoes.", "note": "or take my shoes off." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it and them go in the middle",
+      "text": "But **it/them** (pronouns) always go before **on/off** etc. We say **put it on**, not ~~put on it~~, and **take them off**, not ~~take off them~~.",
+      "examples": [
+        { "text": "Here's your coat. **Put it on**.", "wrong": "Put on it" },
+        { "text": "Your shoes are dirty. **Take them off**.", "wrong": "Take off them" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Three ways to say the same thing",
+      "columns": ["verb + on/off + object", "verb + object + on/off", "with it / them"],
+      "rows": [
+        ["I turned on the radio.", "I turned the radio on.", "I turned it on."],
+        ["He put on his jacket.", "He put his jacket on.", "He put it on."],
+        ["She took off her glasses.", "She took her glasses off.", "She took them off."],
+        ["I picked up the phone.", "I picked the phone up.", "I picked it up."],
+        ["They gave back the key.", "They gave the key back.", "They gave it back."],
+        ["We turned off the lights.", "We turned the lights off.", "We turned them off."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "turn on / turn off, switch on / switch off",
+      "text": "We **turn on** and **turn off** lights, machines and taps. You can also say **switch on** and **switch off** for lights and machines.",
+      "examples": [
+        { "text": "It was dark, so I **turned on** the light.", "note": "or I turned the light on." },
+        { "text": "I don't want to watch this programme. You can **turn it off**." },
+        { "text": "I **switched on** the light and **switched off** the television." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "pick up / put down, bring back / take back / give back",
+      "text": "**pick up** = take something up from the floor or a table. **put down** = put something on the floor or a table. **bring/take/give/put ... back** = return something.",
+      "examples": [
+        { "text": "Those are my keys on the floor. Can you **pick them up** for me?" },
+        { "text": "I stopped reading and **put** my book **down**.", "note": "or put down my book" },
+        { "text": "You can take my umbrella, but please **bring it back**." },
+        { "text": "I've got Rachel's keys. I have to **give them back** to her." },
+        { "text": "I read the letter and then **put it back** in the envelope." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More phrasal verbs with an object",
+      "columns": ["Phrasal verb", "Meaning"],
+      "rows": [
+        ["fill in", "write your details on a form"],
+        ["look up", "find a word in a dictionary"],
+        ["throw away", "put something in the bin"],
+        ["try on", "put clothes on to see if they are the right size"],
+        ["put out", "stop a cigarette or a fire burning"],
+        ["knock over", "make something fall on its side"],
+        ["show round", "take somebody round a place"],
+        ["turn down", "make a radio or a TV less loud"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never put *it* or *them* at the end: *Put it on*, not ~~put on it~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Here's your coat. Put ___ on.",
+      "hint": "(it / them)",
+      "answers": ["it"],
+      "explanation": "A coat is one thing, so we say it - and it goes before on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your shoes are dirty. Take ___ off.",
+      "hint": "(it / them)",
+      "answers": ["them"],
+      "explanation": "Shoes are more than one thing, so we say them - and them goes before off."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't want to watch this programme. You can ___",
+      "options": ["turn it off.", "turn off it.", "off turn it."],
+      "answer": 0,
+      "explanation": "it always goes before off: turn it off."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which sentences are correct and which are wrong?",
+      "categories": ["Correct", "Wrong"],
+      "items": [
+        { "text": "Put it on.", "category": 0 },
+        { "text": "Put on your coat.", "category": 0 },
+        { "text": "Put your coat on.", "category": 0 },
+        { "text": "Take them off.", "category": 0 },
+        { "text": "Put on it.", "category": 1 },
+        { "text": "Take off them.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Those are my keys on the floor. Can you pick up them for me?",
+      "answer": false,
+      "explanation": "Can you pick them up for me? The pronoun them goes before up."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The sentence is 'He put on his jacket.' Say the same thing with his jacket in the middle.",
+      "words": ["He", "put", "his jacket", "on."],
+      "answer": "He put his jacket on.",
+      "explanation": "The object can also go in the middle: put his jacket on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My new lamp doesn't work. I'm going to take ___ to the shop.",
+      "hint": "(take back / it)",
+      "answers": ["it back"],
+      "explanation": "take it back = return it to the shop. it goes before back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were some gloves on the floor, so I picked ___ and put them on the table.",
+      "hint": "(pick up / them)",
+      "answers": ["them up"],
+      "explanation": "them goes before up: picked them up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thank you for lending me these books. I won't forget to bring ___.",
+      "hint": "(bring back / them)",
+      "answers": ["them back"],
+      "explanation": "bring them back = return them to you."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "look it up", "right": "find a word in a dictionary" },
+        { "left": "fill it in", "right": "write your details on a form" },
+        { "left": "try it on", "right": "put clothes on to see if they fit" },
+        { "left": "throw it away", "right": "put something in the bin" },
+        { "left": "put it out", "right": "stop a cigarette burning" },
+        { "left": "turn it down", "right": "make a radio less loud" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What does this word mean?' 'Here's a dictionary. You can look ___.'",
+      "hint": "(look up / it)",
+      "answers": ["it up"],
+      "explanation": "look it up = find it in a dictionary. it goes before up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody gave me a form and told me to fill ___.",
+      "hint": "(fill in / it)",
+      "answers": ["it in"],
+      "explanation": "fill it in = write your details on it. it goes before in."
+    }
+  ]
+}

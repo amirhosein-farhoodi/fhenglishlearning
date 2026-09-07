@@ -1,0 +1,171 @@
+{
+  "number": 25,
+  "title": "What are you doing tomorrow?",
+  "subtitle": "I'm playing tennis tomorrow",
+  "summary": "Use am/is/are + -ing to talk about your plans and arrangements for the future.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Now and tomorrow",
+      "text": "Today is Sunday. In the park two people **are playing** tennis - they are playing *now*. At home a man looks at his diary. Monday says 'tennis 2.30'. He says: 'I'm playing tennis tomorrow.' We use **am/is/are + -ing** for something happening now, and we also use it for the future.",
+      "examples": [
+        { "text": "'Where are Sue and Amanda?' 'They**'re playing** tennis in the park.'", "note": "now" },
+        { "text": "Please be quiet. **I'm working**.", "note": "now" },
+        { "text": "Andrew **is playing** tennis tomorrow.", "note": "future" },
+        { "text": "**I'm not working** next week.", "note": "future" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "am / is / are", "-ing + future time"],
+      "rows": [
+        ["I", "am ('m)", "playing tennis tomorrow"],
+        ["he / she / it", "is ('s)", "going to the dentist on Friday"],
+        ["we / you / they", "are ('re)", "having a party next weekend"]
+      ],
+      "note": "In questions, am/is/are comes first: **Are** you **meeting** your friends tonight?"
+    },
+    {
+      "type": "explain",
+      "heading": "I have a plan",
+      "text": "**I am doing something tomorrow** = I have arranged to do it, I have a plan to do it. We use this for people and their plans.",
+      "examples": [
+        { "text": "Sophie **is going** to the dentist on Friday.", "note": "= she has an appointment with the dentist" },
+        { "text": "We**'re having** a party next weekend." },
+        { "text": "**Are** you **meeting** your friends tonight?" },
+        { "text": "What **are** you **doing** tomorrow evening?" },
+        { "text": "**I'm not going** out tonight. **I'm staying** at home." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not the present simple",
+      "text": "Be careful! Do not use the present simple (**I stay** / **do you go**) to say what somebody has arranged to do.",
+      "examples": [
+        { "text": "**I'm staying** at home this evening.", "wrong": "I stay" },
+        { "text": "**Are** you **going** out tonight?", "wrong": "Do you go" },
+        { "text": "Lisa **isn't coming** to the party next week.", "wrong": "Lisa doesn't come" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "People or timetables?",
+      "left": {
+        "label": "present continuous (usually for people)",
+        "examples": [
+          "**I'm going** to a concert tomorrow.",
+          "What time **are** you **leaving**?"
+        ]
+      },
+      "right": {
+        "label": "present simple (for timetables, programmes etc.)",
+        "examples": [
+          "The concert **starts** at 7.30.",
+          "What time **does** your train **leave**?"
+        ]
+      },
+      "note": "We use the present simple for trains, buses, films and courses: The train **arrives** at 7.30. What time **does** the film **finish**?"
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is it a person's plan or a timetable? A person's plan takes am/is/are + -ing; a timetable takes the present simple."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Richard has written 'Cinema' in his diary for Friday. Richard ___ to the cinema.",
+      "hint": "(go)",
+      "answers": ["is going", "'s going"],
+      "explanation": "Richard has arranged it, so we use the present continuous: is going."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Karen's diary for Friday says 'Lunch with Ken'. Karen ___ lunch with Ken.",
+      "hint": "(have)",
+      "answers": ["is having", "'s having"],
+      "explanation": "An arrangement for Friday: is having."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right sentence.",
+      "pairs": [
+        { "left": "Sophie has an appointment with the dentist on Friday.", "right": "She's going to the dentist on Friday." },
+        { "left": "Andrew has written 'Tennis' in his diary for Friday.", "right": "He's playing tennis on Friday." },
+        { "left": "Rachel's diary says 'Friday 9.30 - meet Dave'.", "right": "She's meeting Dave on Friday." },
+        { "left": "Tom and Sue have 'Party' in their diary for Friday.", "right": "They're going to a party on Friday." },
+        { "left": "You want to know your friend's plan for this evening.", "right": "What are you doing this evening?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about next week. The sentence is about the future.",
+      "words": ["Are", "you", "working", "next", "week?"],
+      "answer": "Are you working next week?",
+      "explanation": "For a future arrangement: am/is/are + subject + -ing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* My parents ___ on holiday next week. *B:* Oh, that's nice.",
+      "options": ["are going", "go", "are go"],
+      "answer": 0,
+      "explanation": "A plan for next week, so we use the present continuous: are going."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you know about Sally? ___ married next month!",
+      "hint": "(she / get)",
+      "answers": ["She's getting", "She is getting"],
+      "explanation": "An arrangement for next month: She's getting married."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about tomorrow evening.",
+      "words": ["What", "are", "you", "doing", "tomorrow", "evening?"],
+      "answer": "What are you doing tomorrow evening?",
+      "explanation": "What + are + you + -ing asks about a plan."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's a party tomorrow night, but ___.",
+      "hint": "(I / not go)",
+      "answers": ["I'm not going", "I am not going"],
+      "explanation": "Your own plan in the negative: I'm not going."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Silvia is doing an English course at the moment. The course ___ on Friday.",
+      "options": ["finishes", "is finishing", "finish"],
+      "answer": 0,
+      "explanation": "A course has a timetable, so we use the present simple: finishes."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lisa doesn't come to the party next week.",
+      "answer": false,
+      "explanation": "Lisa isn't coming to the party next week. Don't use the present simple for an arrangement."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which sentences are about a person's plan, and which are about a timetable or programme?",
+      "categories": ["A person's plan (present continuous)", "A timetable (present simple)"],
+      "items": [
+        { "text": "I'm going to a concert tomorrow.", "category": 0 },
+        { "text": "The concert starts at 7.30.", "category": 1 },
+        { "text": "What time are you leaving?", "category": 0 },
+        { "text": "What time does your train leave?", "category": 1 },
+        { "text": "We're having a party next weekend.", "category": 0 },
+        { "text": "The last bus leaves at midnight.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you want to go to the cinema tonight? *B:* Yes, what time ___?",
+      "hint": "(the film / begin)",
+      "answers": ["does the film begin"],
+      "explanation": "Film times are a programme, so we use the present simple: does the film begin?"
+    }
+  ]
+}

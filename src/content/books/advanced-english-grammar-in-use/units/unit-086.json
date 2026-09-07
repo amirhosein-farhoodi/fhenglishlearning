@@ -1,0 +1,195 @@
+{
+  "number": 86,
+  "title": "If ... not and unless; if and whether; etc.",
+  "subtitle": "unless you have a reservation / whether or not",
+  "summary": "Decide when unless can replace if ... not, and when only whether will do instead of if.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "unless = 'except if'",
+      "text": "**Unless** is used in conditional sentences with the meaning 'except if'. With unless we use present tenses when we talk about the future.",
+      "examples": [
+        { "text": "You can't travel on this train **unless** you have a reservation." },
+        { "text": "**Unless it rains**, I'll pick you up at six.", "wrong": "Unless it will rain" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "unless or if ... not?",
+      "text": "In real conditional sentences we can often use either **unless** or **if ... not** with a similar meaning. Unless carries an 'only if' implication.",
+      "examples": [
+        { "text": "**Unless** the theatre is able to raise £100,000, it will have to close.", "note": "or If the theatre isn't able to ...; it will close only if it can't raise the money" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three places where only if ... not works",
+      "text": "We use **if ... not** but not *unless* when the main clause says that the event in the if-clause is unexpected, usually in questions, and when the 'only if' implication does not apply.",
+      "examples": [
+        { "text": "I'll be amazed **if** Christie **doesn't** win.", "note": "the main clause marks it as unexpected" },
+        { "text": "**If** you **don't** pass the test, what will you do?", "note": "a question" },
+        { "text": "**If** it **wasn't** the best performance of Hamlet I've seen, it was certainly the strangest.", "note": "no 'only if' meaning" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Unreal conditionals",
+      "left": {
+        "label": "Positive main clause - use if ... not",
+        "examples": [
+          "**If I weren't** so tired, I'd give you a hand.",
+          "not Unless I were so tired ..."
+        ]
+      },
+      "right": {
+        "label": "Negative main clause - unless is possible",
+        "examples": [
+          "She **wouldn't** have gone to university **unless** her parents had insisted."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if or whether",
+      "text": "We can use **if** or **whether** to say that two possibilities have been talked or thought about, or that people are not sure about something.",
+      "examples": [
+        { "text": "They couldn't decide **if** / **whether** it was worth resitting the exam." },
+        { "text": "Do you know **if** / **whether** Ben's at home?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "or not",
+      "left": {
+        "label": "whether - or not can follow immediately",
+        "examples": [
+          "I didn't know **whether or not** Aya was coming.",
+          "or ... whether Aya was coming or not ..."
+        ]
+      },
+      "right": {
+        "label": "if - or not only at the end",
+        "examples": [
+          "I didn't know **if** Aya was coming **or not**.",
+          "not ... if or not Aya was coming"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "whether rather than if",
+      "text": "We use **whether** after a preposition (though *if* is sometimes used informally), before a to-infinitive, and in the pattern noun / adjective + **as to whether** meaning 'about' or 'concerning'.",
+      "examples": [
+        { "text": "We argued about **whether** butter or margarine was better for you.", "note": "informally ... if ..." },
+        { "text": "I couldn't decide **whether to buy** apples or bananas." },
+        { "text": "There was some disagreement **as to whether** he was eligible to play for France." }
+      ],
+      "note": "Also with as to whether: conflict, confusion, debate, discussion, doubt, question, speculation, uncertainty; concerned, indifferent, uncertain, undecided, unsure."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs and clause positions that prefer whether",
+      "text": "We prefer **whether** after advise, choose, consider, depend on, discuss, talk about and think about, and in a clause acting as a subject or a complement.",
+      "examples": [
+        { "text": "You should consider **whether** the car you are interested in is good value." },
+        { "text": "**Whether** the minister will quit over the issue remains to be seen.", "note": "subject" },
+        { "text": "The first issue is **whether** he knew he was committing a crime.", "note": "complement" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Unless it ___, I'll pick you up at six.",
+      "hint": "(rain)",
+      "answers": ["rains"],
+      "explanation": "After unless we use a present tense to talk about the future, never will."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each unless clause with its main clause.",
+      "pairs": [
+        { "left": "Unless the train leaves within five minutes,", "right": "we'll never get to the meeting." },
+        { "left": "Unless alternative sources of funding are found,", "right": "the research will not be able to continue." },
+        { "left": "Unless the roads have changed in that part of town,", "right": "I'm sure I'll be able to find my way there." },
+        { "left": "Unless the weather starts improving soon,", "right": "the farmers will lose their crops." },
+        { "left": "Unless it's ridiculously expensive,", "right": "I think I'll buy that painting." },
+        { "left": "Unless you have been unemployed for six months,", "right": "you are not entitled to state benefit." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Unless the infection is treated urgently, there is a real danger that she will die.",
+      "answer": true,
+      "explanation": "Correct. 'If the infection isn't treated' is also possible here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It'll be surprising if Anya ___ her piano exam.",
+      "hint": "(not pass)",
+      "answers": ["doesn't pass", "does not pass"],
+      "explanation": "The main clause marks the event as unexpected, so unless is not possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ so clumsy, he'd be the best person to do the work.",
+      "hint": "(If ... not)",
+      "answers": ["If he wasn't", "If he weren't"],
+      "explanation": "In an unreal conditional with a positive main clause we use if ... not, not unless."
+    },
+    {
+      "type": "true_false",
+      "statement": "Unless she had gone to university, she would have gone into the army.",
+      "answer": false,
+      "explanation": "If she hadn't gone to university, she would have gone into the army. The main clause is positive, so unless doesn't work."
+    },
+    {
+      "type": "true_false",
+      "statement": "She wouldn't have gone to university unless her parents had insisted.",
+      "answer": true,
+      "explanation": "Correct. Unless is possible in an unreal conditional when the main clause is negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ a loan from the bank, how will you pay for the house?",
+      "hint": "(If you ... not get)",
+      "answers": ["If you don't get", "If you do not get"],
+      "explanation": "We use if ... not rather than unless in questions."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She was undecided as to ___ to fly or go by train.",
+      "options": ["whether", "if", "that"],
+      "answer": 0,
+      "explanation": "Only whether can come after a preposition-like as to and before a to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't know ___ Aya was coming.",
+      "hint": "(if / whether + or not)",
+      "answers": ["whether or not"],
+      "explanation": "Only whether can be followed immediately by or not."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap take whether only, or would if work as well?",
+      "categories": ["if or whether", "whether only"],
+      "items": [
+        { "text": "I was wondering ___ you'd had your exam results yet.", "category": 0 },
+        { "text": "Have you any idea ___ Steve will be at the meeting?", "category": 0 },
+        { "text": "Can you remember ___ the door was open or closed when you got to the house?", "category": 0 },
+        { "text": "Police have refused to confirm ___ or not they have arrested anyone for the theft.", "category": 1 },
+        { "text": "There was considerable debate as to ___ chess was a game or a sport.", "category": 1 },
+        { "text": "The government is considering ___ to hold an enquiry into the accident.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence beginning with a whether-clause as subject.",
+      "words": ["Whether the minister", "will quit", "over the issue", "remains", "to be seen."],
+      "answer": "Whether the minister will quit over the issue remains to be seen.",
+      "explanation": "A clause acting as the subject of a sentence begins with whether, not if."
+    }
+  ]
+}

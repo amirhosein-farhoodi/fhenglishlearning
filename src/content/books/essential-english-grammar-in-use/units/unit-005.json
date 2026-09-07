@@ -1,0 +1,173 @@
+{
+  "number": 5,
+  "title": "I do/work/like etc. (present simple)",
+  "subtitle": "I work / he works",
+  "summary": "Use the present simple for things that are true in general or happen all the time, and add -s after he, she and it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Things that are true in general",
+      "text": "Two students stand in front of a big bookshelf with books in their hands. Books are part of their life, so we say: *They read a lot.* A man takes a bite of an ice-cream and smiles. Ice-cream is something he always enjoys, so we say: *He likes ice-cream.* This is the **present simple**.",
+      "examples": [
+        { "text": "They **read** a lot." },
+        { "text": "He **likes** ice-cream." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["I / we / you / they", "he / she / it"],
+      "rows": [
+        ["read", "reads"],
+        ["like", "likes"],
+        ["work", "works"],
+        ["live", "lives"],
+        ["watch", "watches"],
+        ["do", "does"],
+        ["have", "has"]
+      ],
+      "note": "Only **he**, **she** and **it** take the extra **-s**."
+    },
+    {
+      "type": "explain",
+      "heading": "he works / she lives / it rains",
+      "text": "After **he**, **she**, **it** and one person or thing, the verb ends in **-s**. Remember that **have** becomes **has**.",
+      "examples": [
+        { "text": "I work in a shop. My brother **works** in a bank.", "wrong": "My brother work" },
+        { "text": "Lucy **lives** in London. Her parents **live** in Scotland." },
+        { "text": "It **rains** a lot in winter." },
+        { "text": "John **has** a shower every day.", "wrong": "John have" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Spelling of the -s form",
+      "columns": ["Rule", "Examples"],
+      "rows": [
+        ["-es after -s / -sh / -ch", "pass -> passes, finish -> finishes, watch -> watches"],
+        ["-y becomes -ies", "study -> studies, try -> tries, fly -> flies"],
+        ["also", "do -> does, go -> goes"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When we use the present simple",
+      "text": "We use it for things that are true in general, and for things that happen sometimes or all the time.",
+      "examples": [
+        { "text": "I **like** big cities." },
+        { "text": "Your English is good. You **speak** very well." },
+        { "text": "Tim **works** very hard. He **starts** at 7.30 and **finishes** at 8 o'clock in the evening." },
+        { "text": "The earth **goes** round the sun." },
+        { "text": "It **costs** a lot of money to build a hospital." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "always / never / often / usually / sometimes",
+      "text": "These words tell us how often something happens. They go **before** the verb.",
+      "examples": [
+        { "text": "Sue **always gets** to work early.", "wrong": "Sue gets always" },
+        { "text": "I **never eat** breakfast.", "wrong": "I eat never" },
+        { "text": "We **often go** away at weekends." },
+        { "text": "Mark **usually plays** football on Sundays." },
+        { "text": "I **sometimes walk** to work, but not very often." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never forget the -s after he, she and it: *my brother works in a bank*, not ~~my brother work~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I work in a shop. My brother ___ in a bank.",
+      "options": ["works", "work", "working"],
+      "answer": 0,
+      "explanation": "My brother = he, so the verb takes -s: works."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The shops in the city centre usually ___ at 9 o'clock in the morning.",
+      "hint": "(open)",
+      "answers": ["open"],
+      "explanation": "The shops = they, so there is no -s."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The City Museum ___ at 5 o'clock in the evening.",
+      "hint": "(close)",
+      "answers": ["closes"],
+      "explanation": "The museum = it, so the verb takes -s: closes."
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do you write the he/she/it form of each verb?",
+      "categories": ["+ -s", "+ -es", "-y becomes -ies"],
+      "items": [
+        { "text": "think", "category": 0 },
+        { "text": "dance", "category": 0 },
+        { "text": "finish", "category": 1 },
+        { "text": "watch", "category": 1 },
+        { "text": "fly", "category": 2 },
+        { "text": "study", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tina is a teacher. She ___ mathematics to young children.",
+      "hint": "(teach)",
+      "answers": ["teaches"],
+      "explanation": "Verbs that end in -ch take -es: teaches."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Peter's car is always dirty. He never ___ it.",
+      "hint": "(wash)",
+      "answers": ["washes"],
+      "explanation": "Verbs that end in -sh take -es: washes. Never goes before the verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Water ___ at 100 degrees Celsius.",
+      "hint": "(boil)",
+      "answers": ["boils"],
+      "explanation": "This is always true, so we use the present simple. Water = it, so: boils."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman sits down with a big bowl of fruit in front of her. Fruit is what she eats every day. ___ a lot of fruit.",
+      "hint": "(she / eat)",
+      "answers": ["She eats"],
+      "explanation": "She + eats. This is true in general, not only now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man holds a tennis racket and says: Tennis is my favourite sport. ___ tennis.",
+      "hint": "(he / play)",
+      "answers": ["He plays"],
+      "explanation": "He + plays. It is something he does all the time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with these words.",
+      "words": ["I", "never", "go", "to the cinema."],
+      "answer": "I never go to the cinema.",
+      "explanation": "never goes before the verb: I never go."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with these words.",
+      "words": ["Martina", "always", "works", "hard."],
+      "answer": "Martina always works hard.",
+      "explanation": "Martina = she, so works. always goes before the verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sue gets always to work early.",
+      "answer": false,
+      "explanation": "Sue always gets to work early. always goes before the verb, not after it."
+    }
+  ]
+}

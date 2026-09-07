@@ -1,0 +1,163 @@
+{
+  "number": 53,
+  "title": "Relative pronouns",
+  "subtitle": "the man (that) I met / Professor Johnson, whom I admire",
+  "summary": "Choose between who, whom, which, that and no relative pronoun in defining and non-defining relative clauses.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "When can the pronoun be left out?",
+      "text": "A relative pronoun that is the object of its clause can be left out. One that is the subject of its clause cannot, because the clause would then have no subject.",
+      "examples": [
+        { "text": "We went to a beach **(which / that)** Ali had recommended to us.", "note": "the subject of the clause is Ali, so the pronoun can go" },
+        { "text": "I know a man **who / that** ran in the New York Marathon last year.", "note": "the pronoun is the subject, so it has to stay" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Defining relative clauses",
+      "columns": ["Adding information about", "As subject", "As object"],
+      "rows": [
+        ["things", "which, that", "which, that, or no relative pronoun"],
+        ["people", "who, that", "who, whom, that, or no relative pronoun"]
+      ],
+      "note": "A defining clause tells us which person or thing we mean, and takes no commas."
+    },
+    {
+      "type": "explain",
+      "heading": "Formal or informal?",
+      "text": "As object, that or no relative pronoun sounds natural in conversation; which is the formal choice for things, and whom is very formal and rare in speech.",
+      "examples": [
+        { "text": "Decorating's a job **(that)** I hate.", "note": "rather than ... which ... in this informal context" },
+        { "text": "He's the man **(that)** I met at Aisha's party.", "note": "rather than ... who / whom I met ..." },
+        { "text": "The boy **whom** Elena had shouted at smiled.", "note": "less formally: that, no relative pronoun, or who" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "that after something, all, much, superlatives",
+      "text": "We use that as subject after something and anything; after all, little, much and none used as pronouns; and after noun phrases that include a superlative. which is also possible after something and anything, but is less common.",
+      "examples": [
+        { "text": "These walls are all **that** remain of the city.", "wrong": "all which remain of the city" },
+        { "text": "There was little **that** we could do to help her." },
+        { "text": "She's one of the kindest people **(that)** I know.", "wrong": "one of the kindest people who I know" }
+      ],
+      "note": "As object after these words, that or no relative pronoun is used: There's something (that) I should tell you."
+    },
+    {
+      "type": "table",
+      "heading": "Non-defining relative clauses",
+      "columns": ["Adding information about", "As subject", "As object"],
+      "rows": [
+        ["things", "which (some people also use that)", "which (some people also use that)"],
+        ["people", "who", "who, whom"]
+      ],
+      "note": "A non-defining clause adds extra information and is marked off by commas. The relative pronoun can never be left out."
+    },
+    {
+      "type": "explain",
+      "heading": "Non-defining clauses in use",
+      "text": "In a non-defining clause we must include a relative pronoun. who or whom can be the object, though whom is very formal; which works as subject or object for things.",
+      "examples": [
+        { "text": "Professor Johnson, **who(m)** I have long admired, is to visit the university next week." },
+        { "text": "The Master's course, **which** I took in 2001, is no longer taught.", "note": "or ... that I took ..., which some people think is incorrect" },
+        { "text": "He received a low mark for his essay, **which** was only one page long." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look for a comma: after a comma the pronoun always stays, and that becomes questionable."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He pointed to the stairs ___ led down to the cellar.",
+      "hint": "(relative pronoun)",
+      "answers": ["which", "that"],
+      "explanation": "The pronoun is the subject of a defining clause about things, so which or that - and it can't be left out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was greatly influenced by her father, ___ she adored.",
+      "hint": "(relative pronoun)",
+      "answers": ["who", "whom"],
+      "explanation": "A non-defining clause about a person always keeps its pronoun; whom is the formal option."
+    },
+    {
+      "type": "mcq",
+      "prompt": "These walls are all ___ remain of the city.",
+      "options": ["that", "which", "who"],
+      "answer": 0,
+      "explanation": "After all used as a pronoun we use that as subject, not which."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's one of the kindest people ___ I know.",
+      "options": ["that", "who", "which"],
+      "answer": 0,
+      "explanation": "After a noun phrase with a superlative we use that or no relative pronoun."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can the relative pronoun in bold be left out?",
+      "categories": ["Can be left out", "Must stay"],
+      "items": [
+        { "text": "We talked about the party **which** Natalia wants to organise for my birthday.", "category": 0 },
+        { "text": "To get to Maxim's house, take the main road **that** bypasses the village.", "category": 1 },
+        { "text": "Let's go through the main points **that** he made in his lecture.", "category": 0 },
+        { "text": "He received a low mark for his essay, **which** was only one page long.", "category": 1 },
+        { "text": "Dev is a friend **who** we stayed with in Australia.", "category": 0 },
+        { "text": "The couple **who** live next to us have 16 grandchildren.", "category": 1 },
+        { "text": "There was little **that** we could do to help her.", "category": 0 },
+        { "text": "Mrs Yang, **who** is 42, has three children.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Yesterday was the hottest day I can remember.",
+      "answer": true,
+      "explanation": "Correct. The pronoun is the object after a superlative noun phrase, so it can be left out (... the hottest day that I can remember is also fine)."
+    },
+    {
+      "type": "true_false",
+      "statement": "There isn't much can go wrong with the machine.",
+      "answer": false,
+      "explanation": "There isn't much that can go wrong with the machine. After much used as a pronoun, that is the subject of the clause and can't be dropped."
+    },
+    {
+      "type": "true_false",
+      "statement": "Thieves whom stole paintings from Notford art gallery have been arrested in Paris.",
+      "answer": false,
+      "explanation": "Thieves who stole paintings from Notford art gallery have been arrested in Paris. whom is only used as an object, never as the subject."
+    },
+    {
+      "type": "true_false",
+      "statement": "The boy took the photograph was paid £100.",
+      "answer": false,
+      "explanation": "The boy who took the photograph was paid £100. A subject relative pronoun can't be left out."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It may be the most important decision ___ you will ever take.",
+      "options": ["that", "which", "what"],
+      "answer": 0,
+      "explanation": "After a noun phrase containing a superlative we prefer that (or no relative pronoun) to which."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The problems faced by the company, ___ I'll look at in detail in a moment, are being resolved.",
+      "hint": "(relative pronoun)",
+      "answers": ["which"],
+      "explanation": "This is a non-defining clause about things, so which - and the pronoun is obligatory."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Add the information 'he is over 80' to 'Eva's father has just come back from a skiing holiday' as a non-defining relative clause.",
+      "words": ["Eva's father,", "who", "is over 80,", "has just come back", "from a skiing holiday."],
+      "answer": "Eva's father, who is over 80, has just come back from a skiing holiday.",
+      "explanation": "The extra information goes between commas immediately after the noun it describes."
+    }
+  ]
+}

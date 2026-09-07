@@ -1,0 +1,170 @@
+{
+  "number": 26,
+  "title": "Wh-questions with who, whom, which, how and whose",
+  "subtitle": "Which of you ... ? Whose boots are these?",
+  "summary": "Choose between who, whom, which, how, what and whose in questions, and get the verb agreement right after who and what.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "who and whom",
+      "text": "**Who** refers to people and can be the subject, the object or the complement of a question. **Whom** is a formal alternative to *who* as an object, and it is also used directly after a preposition.",
+      "examples": [
+        { "text": "**Who** owns that car?", "note": "subject" },
+        { "text": "**Who** did you meet?", "note": "object" },
+        { "text": "**Who** was her father?", "note": "complement" },
+        { "text": "**Whom** did you meet?", "note": "formal" },
+        { "text": "**To whom** were you talking?", "note": "directly after a preposition" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "which for people too",
+      "text": "**Which** is used about people when we want to identify somebody within a group, and it can replace *who* when we are asking about particular classes of people.",
+      "examples": [
+        { "text": "*A:* **Which** is your brother? *B:* The one next to Luka.", "note": "picking one person out of a group" },
+        { "text": "**Which** do you think earns more, a teacher or a police officer?", "note": "or Who do you think ...?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "which before one(s) and of",
+      "text": "We normally use **which**, rather than *who* or *what*, before **one(s)** and **of**, because *which* is the word for a choice between things or people.",
+      "examples": [
+        { "text": "I've decided to buy one of these jumpers. **Which one** do you think I should choose?" },
+        { "text": "**Which of** you would like to go first?", "wrong": "Who of you" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Singular or plural verb?",
+      "text": "When **who** or **what** is the subject, the verb after it is usually **singular**, even if we expect an answer naming several things. The verb can be plural in echo questions after a plural subject, and when *who* or *what* is a complement.",
+      "examples": [
+        { "text": "**What is** there to see in the town?", "wrong": "What are there to see in the town", "note": "we expect a list, but the verb stays singular" },
+        { "text": "*A:* Mr Almeida and his family are here to see you. *B:* **Who are** here?", "note": "an echo question - or Who's here?" },
+        { "text": "**Who are** those people over there?", "note": "who is the complement" },
+        { "text": "**What are** the consequences of the decision?", "note": "what is the complement" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "how or what?",
+      "columns": ["Question", "What it asks for"],
+      "rows": [
+        ["How was the journey?", "a general opinion"],
+        ["What was the journey like?", "a general opinion"],
+        ["How is your brother?", "general health"],
+        ["How do you like your coffee?", "food and drink preferences"],
+        ["What do you like about the job?", "details"],
+        ["What if your plan doesn't work?", "consequences"],
+        ["What's it called?", "a name"],
+        ["How / What about a swim?", "making a suggestion"],
+        ["How / What do you mean?", "more information"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "whose",
+      "text": "**Whose** asks about the person who owns something or is responsible for it. It can stand before a verb (as a pronoun) or before a noun phrase (as a determiner), in direct and indirect questions. In formal English a preposition can come before it - and in a question with no verb the preposition **must** come first.",
+      "examples": [
+        { "text": "**Whose** are these boots?", "note": "pronoun" },
+        { "text": "**Whose boots** are these?", "note": "determiner" },
+        { "text": "She asked me **whose coat** I was wearing.", "note": "indirect question" },
+        { "text": "**In whose** desk was it found?", "note": "less formally Whose desk was it found in?" },
+        { "text": "*A:* We're meeting at nine. *B:* **In whose** house?", "wrong": "Whose house in?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Whose shows possession; who's is short for who is or who has. Whose car is that? but Who's driving?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "___ of you is Dr Hansen? I have a message for you.",
+      "options": ["Which", "Who", "Whom"],
+      "answer": 0,
+      "explanation": "Before of we use which, because we are choosing from a group."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Is your sister at home? *B:* ___ one do you want to speak to?",
+      "options": ["Which", "What", "Who"],
+      "answer": 0,
+      "explanation": "Before one(s) we use which: the speaker has more than one sister."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What ___ those cakes made from?",
+      "hint": "(be)",
+      "answers": ["are"],
+      "explanation": "The subject here is those cakes, which is plural, so the verb is plural."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the answer it expects.",
+      "pairs": [
+        { "left": "What do you like about your new job?", "right": "It's never boring." },
+        { "left": "What if Omar calls while you're out?", "right": "Tell him I'll call back." },
+        { "left": "How are your parents these days?", "right": "Quite well, thanks." },
+        { "left": "What's your boss like?", "right": "She works us really hard." },
+        { "left": "How was the camping trip?", "right": "It was great." },
+        { "left": "What's your boss called?", "right": "Lucia Garcia." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What ___ there to see on the island?",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "what as subject takes a singular verb, even though we expect several answers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who ___ you for Maths and English?",
+      "hint": "(teach)",
+      "answers": ["teaches"],
+      "explanation": "who as subject takes a singular verb, whether we expect one teacher or two."
+    },
+    {
+      "type": "true_false",
+      "statement": "Whose are all these books?",
+      "answer": true,
+      "explanation": "Correct. whose can stand alone in front of a verb as a pronoun."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ should the documents be sent?",
+      "options": ["To whom", "To who", "Whom to"],
+      "answer": 0,
+      "explanation": "Directly after a preposition we use whom, not who."
+    },
+    {
+      "type": "true_false",
+      "statement": "Who's caravan were you staying in?",
+      "answer": false,
+      "explanation": "Whose caravan were you staying in? whose shows possession; who's means who is or who has."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The Turners are in France. *B:* Who ___ in France?",
+      "hint": "(be) - an echo question",
+      "answers": ["are", "is"],
+      "explanation": "In an echo question after a plural subject both Who are ...? and Who's ...? are possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Can you post the books to us? *B:* Whose address to?",
+      "answer": false,
+      "explanation": "To whose address? In a question with no verb the preposition comes before whose."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Liam Wilson wrote a book about somebody's travels in Nepal. Ask about it formally.",
+      "words": ["About whose", "travels", "in Nepal", "did", "Liam Wilson", "write", "a book?"],
+      "answer": "About whose travels in Nepal did Liam Wilson write a book?",
+      "explanation": "In formal English the preposition can come before whose; less formally: Whose travels in Nepal did Liam Wilson write a book about?"
+    }
+  ]
+}

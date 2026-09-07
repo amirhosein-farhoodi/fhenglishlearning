@@ -1,0 +1,187 @@
+{
+  "number": 52,
+  "title": "Few, little, less, fewer",
+  "subtitle": "what little money / fewer than 20 students",
+  "summary": "Use (a) few and (a) little precisely, including the few / what little, and choose between less (than) and fewer (than).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "(a) few and (a) little as pronouns",
+      "text": "As well as standing in front of nouns, (a) few and (a) little can be used on their own as pronouns when it is clear what we are talking about.",
+      "examples": [
+        { "text": "It is a part of the world visited by **few**.", "note": "= few people" },
+        { "text": "Do you want a chocolate? There's still **a few** left.", "note": "= a few chocolates" },
+        { "text": "**Little** is known about the painter's early life." },
+        { "text": "*A:* Do you know anything about car engines? *B:* **A little**.", "note": "= I know a little about car engines" }
+      ],
+      "note": "quite a few means 'quite a large number': She's been away from work for quite a few weeks."
+    },
+    {
+      "type": "explain",
+      "heading": "the few / the little and what few / what little",
+      "text": "the few + noun suggests there are not enough things or people, and the little + noun that we only have part of the amount we need. what few / what little means 'the small number' or 'the small amount' - all there was.",
+      "examples": [
+        { "text": "It's one of **the few** shops in the city centre where you can buy food." },
+        { "text": "We should use **the little** time we have available to discuss Jon's proposal." },
+        { "text": "She gave **what little** money she had in her purse to the man.", "note": "or ... the little money ..." },
+        { "text": "**What few** visitors we have are always made welcome.", "note": "or The few visitors ..." }
+      ],
+      "note": "When the context makes it clear, the noun can be dropped: She gave what / the little she had ...; What / The few we have ..."
+    },
+    {
+      "type": "explain",
+      "heading": "few after my, her, these, those",
+      "text": "few (but rarely little) can follow a possessive such as my or her, and these or those.",
+      "examples": [
+        { "text": "I learned to play golf during my **few** days off during the summer." },
+        { "text": "These **few** miles of motorway have taken over ten years to build." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Informal speech or formal writing?",
+      "left": {
+        "label": "Speech and informal writing",
+        "text": "We prefer not many / much, only / just ... a few / little, and a bit (of) instead of a little.",
+        "examples": [
+          "Sorry I haven't finished, I **haven't had much** time today.",
+          "I won't be long. I've **only got a few** things to get.",
+          "Want **a bit of** chocolate?"
+        ]
+      },
+      "right": {
+        "label": "Formal and academic writing",
+        "text": "Here few and little are the natural choice.",
+        "examples": [
+          "The results take **little** account of personal preference.",
+          "The country **has had few** female politicians since independence.",
+          "There **seems to be little** prospect of ever recovering the missing manuscript."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "less or fewer?",
+      "text": "less goes with uncountable nouns and fewer with plural countable nouns. less + plural countable noun is common in conversation but grammatically incorrect.",
+      "examples": [
+        { "text": "You should eat **less** pasta." },
+        { "text": "There are **fewer** cars on the road today.", "wrong": "less cars" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "less than or fewer than?",
+      "text": "less than goes with a noun phrase indicating an amount, and fewer than with a noun phrase referring to a group of things or people. Distances and sums of money always take less than.",
+      "examples": [
+        { "text": "I used to earn **less than** a pound a week when I first started work." },
+        { "text": "There were **fewer than** 20 students at the lecture.", "note": "informally ... less than ..., though some people think that is incorrect" },
+        { "text": "The beach is **less than** a mile away.", "wrong": "fewer than a mile away" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "no less than / no fewer than",
+      "text": "To stress that a number is surprisingly large we use no less than or no fewer than. With percentages, periods of time and quantities we prefer no less than.",
+      "examples": [
+        { "text": "The team has had **no fewer than** ten managers in just five years.", "note": "or ... no less than ..." },
+        { "text": "Profits have increased by **no less than** 95% in the last year.", "note": "rather than ... no fewer than ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Test yourself with 'how many?' or 'how much?': how many takes few / fewer, how much takes little / less."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ remains of the old castle walls except the Black Gate.",
+      "hint": "(little)",
+      "answers": ["Little"],
+      "explanation": "little used as a pronoun here means 'not much'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Has my explanation helped? *B:* ___, yes.",
+      "hint": "(little)",
+      "answers": ["A little"],
+      "explanation": "a little as a pronoun means 'a small amount' - a positive answer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thomas was named sportsperson of the year, and ___ would disagree.",
+      "hint": "(few)",
+      "answers": ["few"],
+      "explanation": "few = few people. a few would mean that a small number of people actually do disagree."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have there been many applications for the job? *B:* Yes, quite ___.",
+      "hint": "(few)",
+      "answers": ["a few"],
+      "explanation": "quite a few means 'quite a large number'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ belongings she had were packed into a small suitcase.",
+      "hint": "(few)",
+      "answers": ["The few", "What few"],
+      "explanation": "the few / what few + plural noun means 'the small number she had' - not many."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't have much money, but I'm happy to lend you ___ I have.",
+      "hint": "(little)",
+      "answers": ["the little", "what little"],
+      "explanation": "With no noun after it we can still say the little or what little to mean 'the small amount'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Did you do anything last night? *B:* I just watched ___ and then went to bed.",
+      "options": ["a bit of TV", "a little TV", "few TV"],
+      "answer": 0,
+      "explanation": "In this informal, spoken context a bit of is more natural than a little."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In an academic history of the country: The country ___ female politicians since independence.",
+      "options": ["has had few", "hasn't had many", "hasn't had a few"],
+      "answer": 0,
+      "explanation": "In formal, academic writing few is preferred to not many."
+    },
+    {
+      "type": "true_false",
+      "statement": "There are less cars on the road today.",
+      "answer": false,
+      "explanation": "There are fewer cars on the road today. less with a plural countable noun is heard in conversation but is grammatically incorrect."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need less or fewer?",
+      "categories": ["less", "fewer"],
+      "items": [
+        { "text": "You should eat ___ pasta.", "category": 0 },
+        { "text": "There are ___ cars on the road today.", "category": 1 },
+        { "text": "I used to earn ___ than a pound a week.", "category": 0 },
+        { "text": "There were ___ than 20 students at the lecture.", "category": 1 },
+        { "text": "The beach is ___ than a mile away.", "category": 0 },
+        { "text": "Male students spend ___ money than female students on books.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Profits have increased by no ___ 95% in the last year.",
+      "hint": "(less / fewer + than)",
+      "answers": ["less than"],
+      "explanation": "With percentages, periods of time and quantities we prefer no less than."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Comment on the survey: in 2000 more students had a part-time job than they do now.",
+      "words": ["Fewer students", "had", "a part-time job", "in 2000", "than now."],
+      "answer": "Fewer students had a part-time job in 2000 than now.",
+      "explanation": "students is a plural countable noun, so fewer."
+    }
+  ]
+}

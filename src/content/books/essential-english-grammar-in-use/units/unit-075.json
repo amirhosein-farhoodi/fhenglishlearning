@@ -1,0 +1,172 @@
+{
+  "number": 75,
+  "title": "one/ones",
+  "subtitle": "Which one? / the green ones",
+  "summary": "Use one and ones instead of repeating a noun you have already said.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "one = a ...",
+      "text": "A woman holds a box of chocolates and offers it to a boy: 'These chocolates are good. Would you like **one**?' **one** means *a chocolate*. So **one** = **a/an** + noun. We use it so that we do not say the noun again.",
+      "examples": [
+        { "text": "I need **a pen**. Have you got **one**?", "note": "one = a pen" },
+        { "text": "*A:* Is there **a bank** near here? *B:* Yes, there's **one** at the end of this street.", "note": "one = a bank" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "one and ones",
+      "left": {
+        "label": "one (singular)",
+        "text": "one = hat / car / girl etc.",
+        "examples": [
+          "In a hat shop the assistant asks: 'Which **one** do you want?' The customer answers: 'This **one**.' (= which hat)",
+          "Which car is yours? This **one** or that **one**? (= this car or that car)"
+        ]
+      },
+      "right": {
+        "label": "ones (plural)",
+        "text": "ones = flowers / cars / girls etc.",
+        "examples": [
+          "A man shows a woman two bunches of flowers. She asks: 'Which **ones** do you want?' He answers: 'The white **ones**.' (= which flowers)",
+          "Which flowers do you want? **These** or **those**? or These **ones** or those **ones**?"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Words before one and ones",
+      "columns": ["", "one (one thing)", "ones (more than one)"],
+      "rows": [
+        ["this / that", "this one, that one", "these ones, those ones"],
+        ["the ...", "the one opposite the station", "the ones on the table"],
+        ["the + adjective", "the brown one", "the green ones"],
+        ["a/an ... / some ...", "a clean one", "some clean ones"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the one / the ones",
+      "text": "Use **the one** or **the ones** when you say which thing you mean.",
+      "examples": [
+        { "text": "*A:* Which **hotel** did you stay at? *B:* **The one** opposite the station." },
+        { "text": "I found this **key**. Is it **the one** you lost?" },
+        { "text": "*A:* Which **books** are yours? *B:* **The ones** on the table." },
+        { "text": "I found these **keys**. Are they **the ones** you lost?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the brown one / some new ones",
+      "text": "An adjective can go in front: **the** + adjective + **one/ones**. After *a/an* and *some* we also use **one** and **ones**.",
+      "examples": [
+        { "text": "I don't like the black **coat**, but I like **the brown one**." },
+        { "text": "Don't buy that **camera**. Buy **the other one**." },
+        { "text": "I don't like the red **shoes**, but I like **the green ones**." },
+        { "text": "This **cup** is dirty. Can I have **a clean one**?" },
+        { "text": "These **cups** are dirty. Can we have **some clean ones**?" },
+        { "text": "My **shoes** are very old. I'm going to buy **some new ones**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use *one* for one thing and *ones* for more than one thing: *a clean one* but *some clean ones*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Would you like to have a car? *B:* No, I don't need ___.",
+      "hint": "(one / ones)",
+      "answers": ["one"],
+      "explanation": "one = a car. It is one thing, so we use one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is there a chemist near here? *B:* Yes, there's ___ in Mill Road.",
+      "hint": "(one / ones)",
+      "answers": ["one"],
+      "explanation": "one = a chemist."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Can you lend me an umbrella? *B:* I'm sorry, but ___.",
+      "options": ["I haven't got one", "I haven't got ones", "I haven't got a one"],
+      "answer": 0,
+      "explanation": "one = an umbrella. We say one, not a one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to sell my car and buy ___.",
+      "hint": "(new)",
+      "answers": ["a new one"],
+      "explanation": "a/an + adjective + one: a new one (= a new car)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This box is too small. I need ___.",
+      "hint": "(big)",
+      "answers": ["a big one"],
+      "explanation": "a big one = a big box."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That's not a very good photograph, but this is ___.",
+      "hint": "(better)",
+      "answers": ["a better one"],
+      "explanation": "a better one = a better photograph."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need one or ones?",
+      "categories": ["one", "ones"],
+      "items": [
+        { "text": "Which hotel did you stay at? The ___ opposite the station.", "category": 0 },
+        { "text": "Which flowers do you want? The white ___.", "category": 1 },
+        { "text": "This cup is dirty. Can I have a clean ___?", "category": 0 },
+        { "text": "I don't like the red shoes, but I like the green ___.", "category": 1 },
+        { "text": "Don't buy that camera. Buy the other ___.", "category": 0 },
+        { "text": "I found these keys. Are they the ___ you lost?", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "There are some yellow flowers in the garden. *A:* Those flowers are beautiful. *B:* ___",
+      "options": ["Which ones?", "Which one?", "Which the ones?"],
+      "answer": 0,
+      "explanation": "Flowers is plural, so we ask Which ones?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each conversation.",
+      "pairs": [
+        { "left": "I don't like the black coat,", "right": "but I like the brown one." },
+        { "left": "These cups are dirty.", "right": "Can we have some clean ones?" },
+        { "left": "My shoes are very old.", "right": "I'm going to buy some new ones." },
+        { "left": "I found this key.", "right": "Is it the one you lost?" },
+        { "left": "That biscuit was nice.", "right": "I'm going to have another one." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Which hotel did you stay at? *B:* ___ opposite the station.",
+      "hint": "(the one / the ones)",
+      "answers": ["The one"],
+      "explanation": "One hotel, so: The one opposite the station."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like the red shoes, but I like the green one.",
+      "answer": false,
+      "explanation": "Shoes is plural, so we need ones: but I like the green ones."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A took some photos at the party last week. *A:* Did I show you my photos? *B:* Which ones? Now put A's answer in order.",
+      "words": ["The", "ones", "I", "took", "at", "the", "party", "last", "week."],
+      "answer": "The ones I took at the party last week.",
+      "explanation": "Photos is plural, so we use the ones."
+    }
+  ]
+}

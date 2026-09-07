@@ -1,0 +1,172 @@
+{
+  "number": 50,
+  "title": "She said that ... He told me that ...",
+  "subtitle": "reported speech",
+  "summary": "Report what other people said with said (that) ... and told me (that) ..., and change present verbs to the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "At the party",
+      "text": "Last week you went to a party. A lot of your friends were there and they talked to you. Today you meet Paul and you tell him what your friends said. The party is finished, so we change the verb to the past.",
+      "examples": [
+        { "text": "Diane: 'I'm enjoying my new job.' -> Diane **said that she was** enjoying her new job." },
+        { "text": "Diane: 'My father isn't well.' -> She **said that her father wasn't** well." },
+        { "text": "Sarah and Tim: 'We're going to buy a house.' -> They **said that they were** going to buy a house." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The verb changes to the past",
+      "columns": ["The person said (present)", "You report (past)"],
+      "rows": [
+        ["am / is", "was"],
+        ["are", "were"],
+        ["have / has", "had"],
+        ["can", "could"],
+        ["will", "would"],
+        ["do / does", "did"],
+        ["look / feel etc.", "looked / felt etc."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More friends from the party",
+      "text": "Here are more things your friends said. Every time, the present verb becomes a past verb. *I* and *you* also change to the right person.",
+      "examples": [
+        { "text": "Peter: 'I have to leave early.' -> Peter **said that he had** to leave early." },
+        { "text": "Peter: 'My sister has gone to Australia.' -> He **said that his sister had** gone to Australia." },
+        { "text": "Kate: 'I can't find a job.' -> Kate **said that she couldn't** find a job." },
+        { "text": "Steve: 'I'll phone you.' -> Steve **said that he would** phone me." },
+        { "text": "Rachel: 'I don't like my job.' -> Rachel **said that she didn't** like her job." },
+        { "text": "Mike: 'You look tired.' -> Mike **said that I looked** tired." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "say and tell",
+      "left": {
+        "label": "say (-> said)",
+        "text": "After *say* we do not put a person. If you want the person, use *say to somebody*.",
+        "examples": [
+          "He **said** that he was tired.",
+          "What did she **say to** you?",
+          "he **said to me** / I **said to** Ann"
+        ]
+      },
+      "right": {
+        "label": "tell (-> told)",
+        "text": "After *tell* we always put a person: tell me, tell you, tell Ann.",
+        "examples": [
+          "He **told me** that he was tired.",
+          "What did she **tell you**?",
+          "he **told me** / I **told** Ann"
+        ]
+      },
+      "note": "Not ~~He said me~~ and not ~~He told to me~~."
+    },
+    {
+      "type": "explain",
+      "heading": "You can leave out that",
+      "text": "The word **that** is not necessary. Both sentences are correct and mean the same.",
+      "examples": [
+        { "text": "He said **that** he was tired. *or* He said he was tired." },
+        { "text": "Kate told me **that** she couldn't find a job. *or* Kate told me she couldn't find a job." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*tell* needs a person after it, *say* does not: not ~~He told that he was tired~~ but He said that he was tired *or* He told me that he was tired."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Anna ___ she didn't like Peter.",
+      "hint": "(say/said or tell/told)",
+      "answers": ["said"],
+      "explanation": "There is no person after the verb, so we use said."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack ___ me that you were ill.",
+      "hint": "(say/said or tell/told)",
+      "answers": ["told"],
+      "explanation": "There is a person (me) after the verb, so we use told."
+    },
+    {
+      "type": "matching",
+      "prompt": "The person spoke in the present. Match it with the past form you use when you report it.",
+      "pairs": [
+        { "left": "am / is", "right": "was" },
+        { "left": "are", "right": "were" },
+        { "left": "have / has", "right": "had" },
+        { "left": "can", "right": "could" },
+        { "left": "will", "right": "would" },
+        { "left": "do / does", "right": "did" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What did she ___ you?",
+      "options": ["tell", "say", "said to"],
+      "answer": 0,
+      "explanation": "tell + person: What did she tell you? With say we need to: What did she say to you?"
+    },
+    {
+      "type": "true_false",
+      "statement": "He told that he was tired.",
+      "answer": false,
+      "explanation": "tell needs a person: He told me that he was tired. Or: He said that he was tired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Diane said: 'I'm enjoying my new job.' -> I met Diane last week. She said that she ___ her new job.",
+      "hint": "(enjoy)",
+      "answers": ["was enjoying"],
+      "explanation": "I'm enjoying becomes she was enjoying: am/is -> was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emma said: 'I'm not hungry.' -> Emma didn't want anything to eat. She said that she ___ hungry.",
+      "hint": "(be)",
+      "answers": ["wasn't", "was not"],
+      "explanation": "I'm not becomes she wasn't: am/is -> was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate said: 'I can't find a job.' -> Kate said that she ___ find a job.",
+      "hint": "(can)",
+      "answers": ["couldn't", "could not"],
+      "explanation": "can't becomes couldn't: can -> could."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve said: 'I'll phone you.' -> Steve said that he ___ phone me.",
+      "hint": "(will)",
+      "answers": ["would"],
+      "explanation": "will becomes would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friend said: 'I've just come back from holiday.' -> She said that she ___ just come back from holiday.",
+      "hint": "(have)",
+      "answers": ["had"],
+      "explanation": "have/has becomes had."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nicole said: 'He's gone home.' -> I was looking for Robert. Nicole said that he ___ home.",
+      "hint": "(go)",
+      "answers": ["had gone"],
+      "explanation": "has gone becomes had gone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A friend said: 'I can't go to the party.' Report her words.",
+      "words": ["She", "said", "that", "she", "couldn't", "go", "to", "the", "party."],
+      "answer": "She said that she couldn't go to the party.",
+      "explanation": "can't -> couldn't after said."
+    }
+  ]
+}

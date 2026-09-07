@@ -1,0 +1,189 @@
+{
+  "number": 66,
+  "title": "Position of adjectives",
+  "subtitle": "the high price / the price seemed high",
+  "summary": "Decide whether an adjective goes before its noun, after a linking verb, or immediately after the noun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two possible positions",
+      "left": {
+        "label": "Before the noun it describes",
+        "examples": ["The **high** price surprised him."]
+      },
+      "right": {
+        "label": "After a linking verb (appear, be, become, feel, get, seem)",
+        "examples": ["The price seemed **high**."]
+      },
+      "note": "Many adjectives work in both positions - but a good number do not."
+    },
+    {
+      "type": "explain",
+      "heading": "'a-' adjectives stay after the verb",
+      "text": "Adjectives beginning with a- are seldom or never used before the noun. Several of them have a related adjective that can go before a noun.",
+      "examples": [
+        { "text": "The horse was **alone** in the field.", "wrong": "The alone horse" },
+        { "text": "The animal was **alive**. / A **living** animal. / A **live** animal." },
+        { "text": "He stood at the bedroom door, looking at his **sleeping** daughter.", "wrong": "his asleep daughter" }
+      ],
+      "note": "Also afraid, alike, ashamed, awake, aware. Pairs: afraid - frightened, alike - similar, alone - lone, asleep - sleeping."
+    },
+    {
+      "type": "explain",
+      "heading": "Health and feelings",
+      "text": "Adjectives describing health and feelings normally come after a linking verb. They are sometimes used between an adverb and a noun.",
+      "examples": [
+        { "text": "My son felt **unwell**.", "wrong": "My unwell son" },
+        { "text": "She spent most of her life nursing **seriously ill** children in the hospital.", "note": "an adverb makes ill possible before the noun" }
+      ],
+      "note": "Also content, fine, glad, sorry, (un)sure, upset, well. Some fixed uses do come before a noun: ill health, an upset stomach, He's really not a well man."
+    },
+    {
+      "type": "table",
+      "heading": "Emphasising, classifying and qualitative adjectives",
+      "columns": ["Type", "Before a noun", "After a linking verb"],
+      "rows": [
+        ["Emphasising: complete, absolute, entire, mere, sheer, total, utter", "It was a **total** failure. / I felt a **complete** fool.", "seldom: ~~The failure was total.~~"],
+        ["Classifying: nuclear, atomic, chemical, digital, domestic, environmental, medical, general, occasional, northern, maximum, underlying", "a **nuclear** explosion", "seldom: ~~The explosion was nuclear~~, unless we particularly want to contrast it with other kinds of explosion"],
+        ["Qualitative: beautiful, high, serious, unsafe", "a **beautiful** sunset", "The sunset was **beautiful**."]
+      ],
+      "note": "Some classifying adjectives have a different, qualitative meaning after a linking verb: the country's **economic** reforms and The process isn't **economic**. (= not profitable). Also academic, conscious, educational, (il)legal, scientific."
+    },
+    {
+      "type": "explain",
+      "heading": "Immediately after the noun",
+      "text": "Many adjectives can start a reduced relative clause straight after a noun - especially when the adjective is followed by a to-infinitive or a prepositional phrase.",
+      "examples": [
+        { "text": "It was a speech **calculated to appeal** to the unions." },
+        { "text": "He is a manager **capable of making** difficult decisions." },
+        { "text": "As the minister **responsible for** the health service, I think he should resign." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-ible and -able adjectives",
+      "text": "Adjectives like available, imaginable, possible and suitable go straight after the noun only when the noun follows the, or when a following relative clause makes the noun definite.",
+      "examples": [
+        { "text": "This was the most difficult decision **imaginable**." },
+        { "text": "It is a treatment **suitable for** all children with asthma." },
+        { "text": "It's the only room **available** in the hotel that night.", "note": "or the only available room" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "concerned, present, responsible",
+      "left": {
+        "label": "Immediately after the noun",
+        "examples": [
+          "All the people **present** (= who were there) approved of the decision.",
+          "The party was excellent, and I'd like to thank all the people **concerned**. (= who were involved)",
+          "As the minister **responsible** for the health service ... (= who is in charge of it)"
+        ]
+      },
+      "right": {
+        "label": "Before the noun",
+        "examples": [
+          "I was asked for my **present** address. (= my address now)",
+          "Cars drive too fast past the school and **concerned** parents have complained. (= worried)",
+          "Children are only admitted when accompanied by a **responsible** adult. (= sensible, trustworthy)"
+        ]
+      },
+      "note": "Also involved, opposite, proper: the **opposite** effect (= the reverse), the people **involved** (= who took part)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "We were unsure which way to go.",
+      "answer": true,
+      "explanation": "Correct. Unsure describes a feeling, so it belongs after a linking verb - exactly where it is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the distance I could see ___ figure walking towards me.",
+      "options": ["a lone", "an alone", "a alone"],
+      "answer": 0,
+      "explanation": "Alone is not used before a noun; the related adjective lone is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The fire on the ship is under control, but there are still many ___ passengers on board.",
+      "options": ["frightened", "afraid", "aware"],
+      "answer": 0,
+      "explanation": "Afraid cannot go before a noun, so we use frightened instead."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the version that puts the adjective before the noun.",
+      "pairs": [
+        { "left": "The horse was alone in the field.", "right": "a lone horse" },
+        { "left": "The animal was alive.", "right": "a living animal" },
+        { "left": "His daughter was asleep.", "right": "his sleeping daughter" },
+        { "left": "The passengers are afraid.", "right": "frightened passengers" },
+        { "left": "The two children were alike in age.", "right": "children of a similar age" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "She spent most of her life nursing seriously ill children in the hospital.",
+      "answer": true,
+      "explanation": "Correct. Ill can come before a noun when there is an adverb in front of it, as in a terminally ill patient."
+    },
+    {
+      "type": "true_false",
+      "statement": "It wasn't a great surprise when Rahim died as he hadn't been a well man for years.",
+      "answer": true,
+      "explanation": "Correct. Well normally follows a linking verb, but 'a well man' is an established exception, usually in the negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After Dr Owen left the project, its failure was ___.",
+      "hint": "(inevitable / utter)",
+      "answers": ["inevitable"],
+      "explanation": "Utter is an emphasising adjective, so it is not used after a linking verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The computer fault was ___ enough to disrupt all the work in the office.",
+      "hint": "(serious / underlying)",
+      "answers": ["serious"],
+      "explanation": "Underlying is a classifying adjective and only goes before a noun (the underlying problem)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "None of the equipment in the warehouse is ___.",
+      "hint": "(domestic / unsafe)",
+      "answers": ["unsafe"],
+      "explanation": "Domestic classifies the equipment, so it isn't normally used after a linking verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The party was excellent, and I'd like to thank ___.",
+      "options": ["all the people concerned", "all the concerned people", "all concerned the people"],
+      "answer": 0,
+      "explanation": "After the noun, concerned means 'who were involved'; before the noun it means 'worried'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. The speaker is talking about the minister in charge of the health service.",
+      "words": ["As the minister", "responsible", "for the health service,", "I think", "he should resign."],
+      "answer": "As the minister responsible for the health service, I think he should resign.",
+      "explanation": "Responsible + for is part of an adjective phrase, so it follows the noun."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where can each adjective normally be used?",
+      "categories": ["Only before a noun", "Only after a linking verb", "Both positions"],
+      "items": [
+        { "text": "utter", "category": 0 },
+        { "text": "sheer", "category": 0 },
+        { "text": "underlying", "category": 0 },
+        { "text": "alone", "category": 1 },
+        { "text": "unwell", "category": 1 },
+        { "text": "beautiful", "category": 2 },
+        { "text": "high", "category": 2 }
+      ]
+    }
+  ]
+}

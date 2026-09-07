@@ -1,0 +1,160 @@
+{
+  "number": 93,
+  "title": "He speaks English very well. (word order 1)",
+  "subtitle": "verb + object, place + time",
+  "summary": "Keep the verb and the object together, and put the place before the time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "verb + object",
+      "text": "Sue sits in an armchair every day with a newspaper. We say: Sue (subject) **reads** (verb) **a newspaper** (object) every day. The verb and the object are usually together. Nothing goes between them.",
+      "examples": [
+        { "text": "Sue **reads a newspaper** every day.", "wrong": "Sue reads every day a newspaper" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The object comes straight after the verb",
+      "columns": ["Subject", "verb", "object + the rest"],
+      "rows": [
+        ["He", "speaks", "English very well."],
+        ["I", "like", "Italian food very much."],
+        ["Did you", "watch", "television all evening?"],
+        ["Paul often", "wears", "a black hat."],
+        ["We", "invited", "a lot of people to the party."],
+        ["I", "opened", "the door slowly."]
+      ],
+      "note": "*very well*, *very much*, *slowly* and *often* never come between the verb and the object."
+    },
+    {
+      "type": "explain",
+      "heading": "Nothing between verb and object",
+      "text": "Words like **very well**, **very much**, **quickly** and **carefully** come after the object, not before it.",
+      "examples": [
+        { "text": "He speaks **English** very well.", "wrong": "He speaks very well English" },
+        { "text": "I like **Italian food** very much.", "wrong": "I like very much Italian food" },
+        { "text": "Did you watch **television** all evening?", "wrong": "Did you watch all evening television" },
+        { "text": "Why do you always make **the same mistake**?" },
+        { "text": "I'm going to borrow **some money** from the bank." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Place before time",
+      "text": "We went **to a party** (where?) **last night** (when?). The place comes first and the time comes after it. Time words answer *when?*, *how long?* or *how often?*",
+      "examples": [
+        { "text": "We went **to a party last night**.", "wrong": "We went last night to a party" },
+        { "text": "Lisa walks **to work every day**.", "wrong": "Lisa walks every day to work" },
+        { "text": "I usually go **to bed early**.", "wrong": "I usually go early to bed" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "place + time",
+      "columns": ["", "place (where?)", "time (when? how long? how often?)"],
+      "rows": [
+        ["Lisa walks", "to work", "every day."],
+        ["Will you be", "at home", "this evening?"],
+        ["We arrived", "at the airport", "at 7 o'clock."],
+        ["They've lived", "in the same house", "for 20 years."],
+        ["Joe's father has been", "in hospital", "since June."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask two questions in this order: *where?* then *when?* - I had my breakfast **in bed this morning**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Sue reads a newspaper every day.",
+      "answer": true,
+      "explanation": "Correct. The verb reads and the object a newspaper are together."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like very much this picture.",
+      "answer": false,
+      "explanation": "I like this picture very much. very much comes after the object."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["I", "opened", "the door", "slowly."],
+      "answer": "I opened the door slowly.",
+      "explanation": "The object (the door) comes straight after the verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["I", "bought", "a new computer", "last week."],
+      "answer": "I bought a new computer last week.",
+      "explanation": "verb + object, then the time."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each place with the time that finishes the sentence.",
+      "pairs": [
+        { "left": "We arrived at the airport", "right": "at 7 o'clock." },
+        { "left": "They've lived in the same house", "right": "for 20 years." },
+        { "left": "Joe's father has been in hospital", "right": "since June." },
+        { "left": "Will you be at home", "right": "this evening?" },
+        { "left": "Lisa walks to work", "right": "every day." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["Emily", "doesn't speak", "French", "very well."],
+      "answer": "Emily doesn't speak French very well.",
+      "explanation": "very well comes after the object French."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is right?",
+      "options": [
+        "I drink three cups of coffee every day.",
+        "I drink every day three cups of coffee.",
+        "I drink three cups every day of coffee."
+      ],
+      "answer": 0,
+      "explanation": "The object (three cups of coffee) comes after the verb, and the time comes last."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tom started last week his new job.",
+      "answer": false,
+      "explanation": "Tom started his new job last week. The object goes before the time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue was born ___ in 1980.",
+      "hint": "(in London)",
+      "answers": ["in London"],
+      "explanation": "Place before time: in London in 1980."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["We", "met", "some friends", "at the airport."],
+      "answer": "We met some friends at the airport.",
+      "explanation": "verb + object (some friends), then the place."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["I", "saw", "a beautiful bird", "in the garden", "this morning."],
+      "answer": "I saw a beautiful bird in the garden this morning.",
+      "explanation": "object, then place (in the garden), then time (this morning)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Write the question.",
+      "words": ["Are you going", "to the cinema", "tomorrow evening?"],
+      "answer": "Are you going to the cinema tomorrow evening?",
+      "explanation": "Place (to the cinema) before time (tomorrow evening)."
+    }
+  ]
+}

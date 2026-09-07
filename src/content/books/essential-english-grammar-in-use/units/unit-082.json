@@ -1,0 +1,166 @@
+{
+  "number": 82,
+  "title": "both either neither",
+  "subtitle": "both of them / neither of us",
+  "summary": "Use both, either and neither to talk about two people or things, with both + plural and either/neither + singular.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two people or things",
+      "text": "We use **both**, **either** and **neither** when we talk about *two* things or people. **both** = the two; **either** = one or the other; **neither** = not one and not the other.",
+      "examples": [
+        { "text": "Rebecca has two children. **Both** are married. (**both** = the two children)" },
+        { "text": "Would you like tea or coffee? You can have **either**. (**either** = tea or coffee)" },
+        { "text": "*A:* Do you want to go to the cinema or the theatre? *B:* **Neither**. I want to stay at home." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "either and neither",
+      "left": {
+        "label": "either",
+        "text": "Use **either** after a negative verb.",
+        "examples": [
+          "'**Either**. I don't mind.' (= tea or coffee)",
+          "I **don't** want **either**."
+        ]
+      },
+      "right": {
+        "label": "neither",
+        "text": "**neither** = not + either, so the verb is positive.",
+        "examples": [
+          "'**Neither**.' (= not tea and not coffee)",
+          "*A:* Do you go to work by car or by bus? *B:* **Neither**. I always walk."
+        ]
+      },
+      "note": "Say *I don't want either*, not ~~I don't want neither~~."
+    },
+    {
+      "type": "table",
+      "heading": "both/either/neither + noun",
+      "columns": ["Word", "Noun", "Example"],
+      "rows": [
+        ["both", "+ plural: windows / books / children", "I liked **both cities** very much."],
+        ["either", "+ singular: window / book / child", "You can go **either way**."],
+        ["neither", "+ singular: window / book / child", "**Neither job** was very interesting."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "both of / either of / neither of",
+      "text": "Before **the**, **these**, **those**, **my**, **your** or a name we use **of**. With **both** the word **of** is not necessary, but with **either** and **neither** it is.",
+      "examples": [
+        { "text": "**Neither of my parents** is British." },
+        { "text": "I haven't read **either of these books**." },
+        { "text": "I like **both of those pictures**. *or* I like **both those pictures**." },
+        { "text": "**Neither of Paul's sisters** is married.", "wrong": "Neither Paul's sisters" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "both of them / neither of us",
+      "text": "Before **them**, **us** and **you** we always use **of**: **both of them**, **either of us**, **neither of you**.",
+      "examples": [
+        { "text": "Paul has got two sisters. **Both of them** are married." },
+        { "text": "Sue and I didn't eat anything. **Neither of us** was hungry." },
+        { "text": "Who are those two people? I **don't** know **either of them**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**both** takes a plural verb (*Both cups **are** empty*), but **neither** takes a singular verb (*Neither answer **is** right*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Last year I went to Paris and Rome. I liked ___ cities very much.",
+      "hint": "(both / either / neither)",
+      "answers": ["both"],
+      "explanation": "both + plural noun: both cities."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a good football match. ___ teams played well.",
+      "hint": "(both / either / neither)",
+      "answers": ["Both"],
+      "explanation": "The two teams played well, so both teams."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It wasn't a good football match. ___ team played well.",
+      "hint": "(both / either / neither)",
+      "answers": ["Neither"],
+      "explanation": "Not one team and not the other, so neither team (singular noun)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Is your friend English or American?' '___ . She's Australian.'",
+      "options": ["Neither", "Either", "Both"],
+      "answer": 0,
+      "explanation": "She is not English and not American, so Neither."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were two pictures on the wall. I didn't like ___ them.",
+      "hint": "(either / neither)",
+      "answers": ["either of"],
+      "explanation": "After a negative verb we use either of them."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which nouns go after both, and which go after either or neither?",
+      "categories": ["both + ...", "either / neither + ..."],
+      "items": [
+        { "text": "cities", "category": 0 },
+        { "text": "job", "category": 1 },
+        { "text": "windows", "category": 0 },
+        { "text": "way", "category": 1 },
+        { "text": "children", "category": 0 },
+        { "text": "book", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I invited Donna and Mike to the party, but ___ them came.",
+      "hint": "(neither)",
+      "answers": ["neither of"],
+      "explanation": "Donna didn't come and Mike didn't come, so neither of them came."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Do you work or are you a student?' '___ . I work and I'm a student too.'",
+      "options": ["Both", "Either", "Neither"],
+      "answer": 0,
+      "explanation": "The answer is yes to the two things, so Both."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paula and I didn't know the time because ___ us had a watch.",
+      "hint": "(neither)",
+      "answers": ["neither of"],
+      "explanation": "Before us we always use of: neither of us."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are two buses at the stop. One goes to the airport and the other goes to the airport too. ___ go to the airport.",
+      "hint": "(both + buses)",
+      "answers": ["Both buses"],
+      "explanation": "both + plural noun + plural verb: Both buses go ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "Neither Paul's sisters is married.",
+      "answer": false,
+      "explanation": "Neither of Paul's sisters is married. Before a name we need of."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A man and a woman both said 'No' to 'Are you interested in sport?'. Put the words in order.",
+      "words": ["Neither of them", "is", "interested", "in", "sport."],
+      "answer": "Neither of them is interested in sport.",
+      "explanation": "neither of them + singular verb is."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "number": 31,
+  "title": "must mustn't don't need to",
+  "subtitle": "I must / I mustn't / I don't need to",
+  "summary": "Use must for what is necessary, mustn't for what is wrong to do, and don't need to for what is not necessary.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "You must see it",
+      "text": "Two friends are standing outside a cinema. One of them points at the poster for tonight's film and says: 'It's a fantastic film. You must see it.' **I must** (do something) = I need to do it.",
+      "examples": [
+        { "text": "I'm very hungry. I **must eat** something." },
+        { "text": "It's a fantastic film. You **must see** it." },
+        { "text": "The windows are very dirty. We **must clean** them." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "must", "+ verb"],
+      "rows": [
+        ["I / we / you / they", "must", "eat something"],
+        ["he / she / it", "must", "go now"]
+      ],
+      "note": "must is the same for every subject and takes no to: he **must go**, not ~~he musts go~~ or ~~he must to go~~."
+    },
+    {
+      "type": "explain",
+      "heading": "For the past: had to",
+      "text": "For the past (yesterday, last week etc.), we use **had to ...**, not must.",
+      "examples": [
+        { "text": "I was very hungry. I **had to eat** something.", "wrong": "I must eat" },
+        { "text": "We **had to walk** home last night. There were no buses.", "wrong": "We must walk" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "mustn't",
+      "text": "**mustn't** = must not. **I mustn't** (do something) = it is necessary *not* to do it, it is the wrong thing to do. In an art gallery a small child reaches up to a painting, and her mother says: 'You mustn't touch the pictures.'",
+      "examples": [
+        { "text": "I **must hurry**. I **mustn't be** late." },
+        { "text": "I **mustn't forget** to phone Jane.", "note": "= I must remember to phone her" },
+        { "text": "Be happy! You **mustn't be** sad.", "note": "= don't be sad" },
+        { "text": "You **mustn't touch** the pictures.", "note": "= don't touch the pictures" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "don't need to",
+      "text": "**I don't need** (to do something) = it is not necessary. You can also say **don't have to ...**",
+      "examples": [
+        { "text": "I **don't need to go** yet. I can stay a little longer." },
+        { "text": "You **don't need to shout**. I can hear you OK." },
+        { "text": "I **don't have to go** yet. I can stay a little longer." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "don't need to or mustn't?",
+      "left": {
+        "label": "don't need to (it is not necessary)",
+        "examples": [
+          "You **don't need to go**. You can stay here if you want."
+        ]
+      },
+      "right": {
+        "label": "mustn't (it is the wrong thing to do)",
+        "examples": [
+          "You **mustn't go**. You must stay here."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "don't need to gives you a free choice; mustn't gives you no choice at all."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Marilyn is a very interesting person. You ___ her.",
+      "hint": "(must / meet)",
+      "answers": ["must meet"],
+      "explanation": "must + verb says that something is necessary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My hands are dirty. I ___ them.",
+      "hint": "(must / wash)",
+      "answers": ["must wash"],
+      "explanation": "I need to do it: I must wash them."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the sentences that mean the same thing.",
+      "pairs": [
+        { "left": "We can leave the meeting early.", "right": "We don't need to stay until the end." },
+        { "left": "We must leave the meeting early.", "right": "We can't stay until the end." },
+        { "left": "We mustn't leave the meeting early.", "right": "We must stay until the end." },
+        { "left": "We had to leave the meeting early.", "right": "We couldn't stay until the end." },
+        { "left": "We don't need to leave the meeting early.", "right": "We can stay until the end." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's late. ___ go now.",
+      "options": ["I must", "I had to", "I must to"],
+      "answer": 0,
+      "explanation": "It is necessary now, so: I must go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to London by train last week. The train was full and ___ stand all the way.",
+      "hint": "(I must / I had to)",
+      "answers": ["I had to"],
+      "explanation": "Last week is the past, so we use had to, not must."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have a lot of time. We ___.",
+      "hint": "(don't need to / hurry)",
+      "answers": ["don't need to hurry", "do not need to hurry"],
+      "explanation": "It is not necessary: we don't need to hurry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Keep these papers in a safe place. You ___ them.",
+      "hint": "(mustn't / lose)",
+      "answers": ["mustn't lose", "must not lose"],
+      "explanation": "It would be the wrong thing to do: you mustn't lose them."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The lights are still on and you are leaving. Warn your friend.",
+      "words": ["We", "mustn't", "forget", "to turn off", "the lights", "before we leave."],
+      "answer": "We mustn't forget to turn off the lights before we leave.",
+      "explanation": "mustn't forget = we must remember."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The restaurant won't be busy tonight. We ___ reserve a table.",
+      "options": ["don't need to", "mustn't", "had to"],
+      "answer": 0,
+      "explanation": "It is not necessary, so we use don't need to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ___ tell Sue what happened. I don't want her to know.",
+      "hint": "(must / mustn't / don't need to)",
+      "answers": ["mustn't", "must not"],
+      "explanation": "It is the wrong thing to do, so: you mustn't tell Sue."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was very hungry. I must eat something.",
+      "answer": false,
+      "explanation": "I was very hungry. I had to eat something. For the past we use had to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What does each sentence mean?",
+      "categories": ["It is necessary", "It is the wrong thing to do", "It is not necessary"],
+      "items": [
+        { "text": "I must hurry or I'll be late.", "category": 0 },
+        { "text": "You mustn't touch the pictures.", "category": 1 },
+        { "text": "I don't need to go yet. I can stay a little longer.", "category": 2 },
+        { "text": "The windows are very dirty. We must clean them.", "category": 0 },
+        { "text": "You don't need to shout. I can hear you OK.", "category": 2 },
+        { "text": "I mustn't forget to phone Jane.", "category": 1 }
+      ]
+    }
+  ]
+}

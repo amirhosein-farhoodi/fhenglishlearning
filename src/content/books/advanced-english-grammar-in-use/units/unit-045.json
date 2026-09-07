@@ -1,0 +1,176 @@
+{
+  "number": 45,
+  "title": "A / an, the and zero article 1",
+  "subtitle": "the sky / a bright blue sky",
+  "summary": "Use the for things there is only one of, a / an for one particular instance of them, and zero article when you mean the idea in general.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "the with unique things",
+      "text": "We usually use **the** with things there is only one of (or one set of), and with general geographical areas.",
+      "examples": [
+        { "text": "**the** world, **the** sky, **the** atmosphere, **the** sun, **the** ground, **the** climate, **the** horizon, **the** human race, **the** environment, **the** travel industry, **the** Internet" },
+        { "text": "**the** beach, **the** town, **the** sea(side), **the** land, **the** country(side)", "note": "the country / the countryside = the area where there are no towns" },
+        { "text": "**the** past, **the** present, **the** future" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Zero article for the concept in general",
+      "text": "Some of these nouns can also be used with **zero article** (i.e. no article) to refer to a concept in general rather than to the thing itself.",
+      "examples": [
+        { "text": "**Climate** is one of the many factors involved in changing farming methods.", "note": "or The climate ..." },
+        { "text": "These flowers grow best in sandy **soil** and **sun**.", "note": "sun = sunshine" },
+        { "text": "In autumn the temperature difference between **land** and **sea** decreases.", "note": "or ... the land and the sea ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the or a / an?",
+      "left": {
+        "label": "the - the one and only",
+        "examples": [
+          "I could see the plane high up in **the sky**.",
+          "What are your plans for **the future**?"
+        ]
+      },
+      "right": {
+        "label": "a / an - one particular instance of it",
+        "examples": [
+          "When I woke up there was **a bright blue sky**.",
+          "She dreamt of **a future** where she could spend more time painting."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Generalising with the + singular countable noun",
+      "text": "We can use **the** with a singular countable noun to make a generalisation about a whole class of things. Note that *a / an* cannot always replace it: an individual item cannot do what the whole class has done.",
+      "examples": [
+        { "text": "**The computer** has revolutionised publishing.", "wrong": "A computer has revolutionised publishing", "note": "computers in general have done this, not an individual computer" },
+        { "text": "**The computer** is an important research tool. / **A computer** is an important research tool.", "note": "true of both the general class and the individual item" },
+        { "text": "**Computers** are an important research tool.", "note": "a plural countable noun is another way of talking about a class" }
+      ],
+      "note": "With plural and uncountable nouns, the refers to a specific thing or group: The computers have arrived. Where shall I put them? / The music was wonderful."
+    },
+    {
+      "type": "explain",
+      "heading": "Defining with a / an",
+      "text": "When we define something or say what is typical of a particular class of people or things, we generally use **a / an** rather than *the*.",
+      "examples": [
+        { "text": "**A corkscrew** is a gadget for getting corks out of bottles." },
+        { "text": "**A garden** is there to give you pleasure, not to be a constant worry." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Uncountable substance, countable instance",
+      "text": "Some nouns are uncountable when we talk about the whole substance or idea, but countable when we talk about one instance (or more than one) of it. Used countably they take **a / an** and can be made plural.",
+      "examples": [
+        { "text": "I don't drink **coffee**. / Would you like **a coffee**?", "note": "a coffee = a cup of coffee" },
+        { "text": "He shook with **fear**. / He has **a fear** of heights." },
+        { "text": "Also: **conversation, grammar, importance, iron, pleasure, shampoo, sound**", "note": "some, like grammar and iron, change meaning: an iron = the appliance, a grammar = a book about a language" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you choose, ask what you are pointing at: the only one of its kind (*the*), one example of many (*a / an*), or the idea itself (*no article*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I think the best Australian wine is as good as any in ___.",
+      "hint": "(world)",
+      "answers": ["the world"],
+      "explanation": "There is only one world, so it takes the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As a child, Dariya would often daydream about travelling forward in time to ___ very different from the one she lived in.",
+      "hint": "(world)",
+      "answers": ["a world"],
+      "explanation": "Here we describe one possible world among many, so a / an is right."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The invention of ___ is normally attributed to the German engineer Gottlieb Daimler.",
+      "options": ["the car", "a car", "car"],
+      "answer": 0,
+      "explanation": "the + singular countable noun generalises about the whole class of cars."
+    },
+    {
+      "type": "true_false",
+      "statement": "We get some strange requests in our shop. We had the customer in the other day who wanted to buy chocolate-covered ants.",
+      "answer": false,
+      "explanation": "We had a customer in the other day ... The listener cannot know which customer we mean, so a / an is needed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which article does each gap need?",
+      "categories": ["the", "a / an", "zero article"],
+      "items": [
+        { "text": "The best Australian wine is as good as any in ___ world.", "category": 0 },
+        { "text": "When I woke up there was ___ bright blue sky.", "category": 1 },
+        { "text": "___ Climate is one of many factors involved in changing farming methods.", "category": 2 },
+        { "text": "I could see the plane high up in ___ sky.", "category": 0 },
+        { "text": "She dreamt of ___ future where she could spend more time painting.", "category": 1 },
+        { "text": "These flowers grow best in sandy soil and ___ sun.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It now gives me great ___ to introduce that marvellous ventriloquist, Marco Lutman.",
+      "hint": "(pleasure)",
+      "answers": ["pleasure"],
+      "explanation": "Here pleasure is the feeling in general - uncountable, so no article."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's ___ to travel by rail in Sweden. The trains are clean and punctual.",
+      "hint": "(real / pleasure)",
+      "answers": ["a real pleasure"],
+      "explanation": "This is one particular instance of pleasure, so the noun is countable: a real pleasure."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each countable form with the meaning it has when it is used with a / an.",
+      "pairs": [
+        { "left": "a coffee", "right": "a cup of coffee" },
+        { "left": "an iron", "right": "an appliance for pressing clothes" },
+        { "left": "a grammar", "right": "a book describing a language" },
+        { "left": "a fear", "right": "one particular thing you are afraid of" },
+        { "left": "a sound", "right": "one particular noise" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As we walked through the rainforest we heard ___ we weren't expecting - the ring of a mobile phone.",
+      "hint": "(sound)",
+      "answers": ["a sound"],
+      "explanation": "One particular noise is countable: a sound."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ travels at different speeds, depending on the temperature of the air.",
+      "hint": "(sound)",
+      "answers": ["sound"],
+      "explanation": "Here sound is the whole phenomenon - uncountable, so zero article."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Although he's got ___ he never seems to use it. His shirts are always creased.",
+      "hint": "(iron)",
+      "answers": ["an iron"],
+      "explanation": "Countable iron means the appliance; uncountable iron is the metal or the mineral."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The campaign against smoking in public places argues that its harmful effects are not confined to ___.",
+      "options": ["the smoker", "a smoker", "smoker"],
+      "answer": 0,
+      "explanation": "the + singular countable noun stands for the whole class of smokers."
+    }
+  ]
+}

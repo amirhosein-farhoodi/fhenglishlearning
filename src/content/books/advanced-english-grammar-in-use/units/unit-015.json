@@ -1,0 +1,188 @@
+{
+  "number": 15,
+  "title": "Can, could, be able to and be allowed to",
+  "subtitle": "I can / was able to / was allowed to",
+  "summary": "Choose between can, could, be able to and be allowed to when you talk about ability, possibility and permission.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "When we avoid be able to",
+      "text": "We sometimes use be able to instead of can and could for ability, but we avoid it when we talk about something happening as we speak, before a passive, and when the meaning is 'know how to'.",
+      "examples": [
+        { "text": "Watch me, Mum; **I can** stand on one leg.", "wrong": "I'm able to stand on one leg" },
+        { "text": "Films **can** now easily **be streamed** online.", "note": "rather than Films are now easily able to be streamed ..." },
+        { "text": "**Can you** cook?", "note": "= do you know how to; rather than Are you able to cook?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "General ability or one particular achievement?",
+      "left": {
+        "label": "A general ability - could",
+        "examples": [
+          "Sophie **could** play the flute quite well. (or ... **was able to** ...)"
+        ]
+      },
+      "right": {
+        "label": "A single achievement - was / were able to",
+        "examples": [
+          "She swam strongly and **was able to** cross the river easily, even though it was swollen by the heavy rain. (not She swam strongly and could cross ...)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "When could is more natural",
+      "text": "Could is usually more natural than be able to in negative sentences; with verbs of the senses (feel, hear, see, smell, taste) and of thinking (believe, decide, remember, understand); after the only thing / place / time and after all meaning 'the only thing'; and with almost, hardly, just and nearly.",
+      "examples": [
+        { "text": "I tried to get up but **I couldn't** move." },
+        { "text": "**I could** remember the crash, but nothing after that." },
+        { "text": "All we **could** see were his feet." },
+        { "text": "**I could** nearly touch the ceiling." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Possibility: can or could?",
+      "left": {
+        "label": "could - theoretically possible",
+        "examples": [
+          "It **could** be expensive to keep a cat. (= if we had one, it could or it may not be expensive)"
+        ]
+      },
+      "right": {
+        "label": "can - possible and it really happens",
+        "examples": [
+          "It **can** be expensive to keep a cat. (= it can be, and it sometimes is)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "can't for impossibility",
+      "text": "We use can't, not couldn't, to say that something is theoretically or actually impossible.",
+      "examples": [
+        { "text": "There **can't** be many people in the world who haven't watched television." },
+        { "text": "The doctor **can't** see you this morning; he's busy at the hospital." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "A real possibility, or some doubt?",
+      "left": {
+        "label": "can - a very real possibility",
+        "examples": [
+          "We **can** stay with Jake in Oslo. (= we will be able to stay)"
+        ]
+      },
+      "right": {
+        "label": "could - less likely, some doubt",
+        "examples": [
+          "We **could** stay with Jake in Oslo. (= it's possible; if he's there)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Permission: could and be allowed to",
+      "text": "For general permission in the past - permission to do something at any time - we can use either could or was / were allowed to. For permission for one particular past action we use was / were allowed to, not could. In negative sentences either form works.",
+      "examples": [
+        { "text": "Anyone **was allowed to** fish in the lake when the council owned it.", "note": "or ... could fish ...; general permission" },
+        { "text": "Although he didn't have a ticket, Ned **was allowed to** come in.", "wrong": "could come in" },
+        { "text": "I **couldn't / wasn't allowed to** open the present until my birthday." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Look at me, I ___ ride my bike without any help!",
+      "options": ["can", "'m able to", "could"],
+      "answer": 0,
+      "explanation": "For something happening as we speak we use can, not be able to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Valuables ___ in the hotel safe. Please ask at the reception desk.",
+      "options": ["can be left", "are able to be left", "could be left"],
+      "answer": 0,
+      "explanation": "Before a passive we use can, not be able to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ finish the hockey match before it started snowing too heavily.",
+      "hint": "(could / be able to)",
+      "answers": ["were able to"],
+      "explanation": "One particular past achievement takes was / were able to, not could."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I knew Petra had been decorating. I ___ smell the paint when I came in.",
+      "hint": "(could / be able to)",
+      "answers": ["could"],
+      "explanation": "With verbs of the senses such as smell, could is more natural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The air was so polluted in the city centre, I ___ breathe.",
+      "options": ["could hardly", "was hardly able to", "can hardly"],
+      "answer": 0,
+      "explanation": "With hardly (and almost, just, nearly) could is more natural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She looked all over the house, but ___ find her keys anywhere.",
+      "hint": "(could / be able to) - negative",
+      "answers": ["couldn't", "could not"],
+      "explanation": "In negative sentences couldn't is more natural than wasn't able to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form fits each gap better - could(n't) or was / were able to?",
+      "categories": ["could(n't)", "was / were able to"],
+      "items": [
+        { "text": "I tried to get up but I ___ move.", "category": 0 },
+        { "text": "We ___ finish the hockey match before it started snowing too heavily.", "category": 1 },
+        { "text": "All we ___ see were his feet.", "category": 0 },
+        { "text": "When the firefighters arrived they ___ put out the flames in a couple of minutes.", "category": 1 },
+        { "text": "I ___ nearly touch the ceiling.", "category": 0 },
+        { "text": "I was very busy at work, but I ___ have a couple of days off last week.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We went camping in the north of Spain last July. As you probably know, it ___ rain a lot on the coast, even in midsummer.",
+      "hint": "(can / could)",
+      "answers": ["can"],
+      "explanation": "It really does rain there, so can, not could - could would make it only theoretical."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Now, there ___ be many people who haven't had difficulty putting up a tent at some time, but it took us more than two hours.",
+      "options": ["can't", "couldn't", "aren't able to"],
+      "answer": 0,
+      "explanation": "For something that is (almost) impossible we use can't, not couldn't."
+    },
+    {
+      "type": "true_false",
+      "statement": "Although he didn't have a ticket, Ned could come in.",
+      "answer": false,
+      "explanation": "Although he didn't have a ticket, Ned was allowed to come in. Permission for one particular action takes was allowed to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The hotel was full, but they were very kind and we ___ camp at the end of their garden!",
+      "hint": "(could / be allowed to)",
+      "answers": ["were allowed to"],
+      "explanation": "Permission for one particular action, so was / were allowed to, not could."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say who had permission to fish before the lake changed hands.",
+      "words": ["Anyone", "was allowed to", "fish", "in the lake", "when the council", "owned it."],
+      "answer": "Anyone was allowed to fish in the lake when the council owned it.",
+      "explanation": "This is general permission in the past, so could fish is also possible here."
+    }
+  ]
+}

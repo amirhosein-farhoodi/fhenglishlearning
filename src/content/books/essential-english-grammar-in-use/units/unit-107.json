@@ -1,0 +1,191 @@
+{
+  "number": 107,
+  "title": "in at on (places 2)",
+  "subtitle": "in bed / at work / on a bus",
+  "summary": "Learn the common places that take in, at or on, like in bed, at home, at work and on a bus.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in",
+      "text": "Some places always take **in**. We say **in bed**, **in hospital** and **in the sky**, and we read something **in a newspaper** or **in a book**.",
+      "examples": [
+        { "text": "'Where's Kate?' 'She's **in bed**.'" },
+        { "text": "David's father is ill. He's **in hospital**." },
+        { "text": "I like to look at the stars **in the sky** at night." },
+        { "text": "What's the largest city **in the world**?" },
+        { "text": "I read about the accident **in the newspaper**." },
+        { "text": "There's a big tree **in the middle** of the garden." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "in",
+      "columns": ["in ...", "in ..."],
+      "rows": [
+        ["in bed", "in a newspaper / in a book"],
+        ["in hospital", "in a photograph / in a picture"],
+        ["in the sky", "in a car / in a taxi"],
+        ["in the world", "in the middle (of ...)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at",
+      "text": "Other places take **at**: **at home**, **at work**, **at school**, **at university**. We also use **at** for stations and airports, for somebody's house, and for events like a party or a concert.",
+      "examples": [
+        { "text": "Will you be **at home** this evening?" },
+        { "text": "'Where's Kate?' 'She's **at work**.'" },
+        { "text": "Helen is studying law **at university**." },
+        { "text": "I'll meet you **at the station**, OK?" },
+        { "text": "*A:* Where were you yesterday? *B:* **At my sister's**." },
+        { "text": "There weren't many people **at the party**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "at",
+      "columns": ["at ...", "at ..."],
+      "rows": [
+        ["at home", "at the station / at the airport"],
+        ["at work / at school", "at Jane's (house) / at my sister's"],
+        ["at university / at college", "at the doctor's / at the hairdresser's"],
+        ["at a concert / at a party", "at a football match"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on",
+      "text": "We use **on** for big vehicles, for floors of a building, and for **the way**.",
+      "examples": [
+        { "text": "Did you come here **on the bus**?" },
+        { "text": "The office is **on the first floor**.", "wrong": "in the first floor" },
+        { "text": "I met Ann **on the way** to work / **on the way** home." },
+        { "text": "There are a lot of people **on this plane**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in a car or on a bus?",
+      "left": {
+        "label": "in a car / in a taxi",
+        "text": "Small vehicles take **in**.",
+        "examples": [
+          "Did you come here **in your car**?",
+          "Four people are sitting **in a taxi**."
+        ]
+      },
+      "right": {
+        "label": "on a bus / a train / a plane / a ship",
+        "text": "Big vehicles take **on**.",
+        "examples": [
+          "I walked to work, but I came home **on the bus**.",
+          "I had something to eat **on the train**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "in or at for buildings",
+      "text": "For buildings like hotels and restaurants both words are often possible.",
+      "examples": [
+        { "text": "We stayed **at** a nice hotel. *or* We stayed **in** a nice hotel." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "David's father is ill. He is lying in a hospital bed, and a nurse is with him. Where is he? ___ hospital.",
+      "hint": "(in / at / on)",
+      "answers": ["In"],
+      "explanation": "We say in hospital, without the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is late and Kate is asleep. The clock is on the table beside her. Where is she? ___ bed.",
+      "hint": "(in / at / on)",
+      "answers": ["In"],
+      "explanation": "We say in bed, without a or the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve is sitting in a chair and a doctor is looking at his arm. Where is Steve? ___ the doctor's.",
+      "hint": "(in / at / on)",
+      "answers": ["At"],
+      "explanation": "We say at the doctor's / at the hairdresser's."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each place: in, at or on?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "bed", "category": 0 },
+        { "text": "the sky", "category": 0 },
+        { "text": "work", "category": 1 },
+        { "text": "the airport", "category": 1 },
+        { "text": "a plane", "category": 2 },
+        { "text": "the first floor", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen is studying law ___ university.",
+      "hint": "(in / at / on)",
+      "answers": ["at"],
+      "explanation": "We say at university / at college / at school."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gary is coming by train. I'm going to meet him ___ the station.",
+      "hint": "(in / at / on)",
+      "answers": ["at"],
+      "explanation": "We say at the station / at the airport."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The restaurant is ___ the second floor.",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "We say on the ground floor / on the first floor / on the second floor."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Are you hungry after your journey?' 'No, I had something to eat ___ the train.'",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "Big vehicles take on: on a train, on a bus, on a plane."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't believe everything you see in the newspaper!",
+      "answer": true,
+      "explanation": "We read something in a newspaper or in a book."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm sorry I'm late. My car broke down in the way here.",
+      "answer": false,
+      "explanation": "My car broke down on the way here. We say on the way (to ...) and on the way home."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the right ending.",
+      "pairs": [
+        { "left": "You look sad", "right": "in this photograph" },
+        { "left": "There weren't many people", "right": "at the party" },
+        { "left": "I walked to work, but I came home", "right": "on the bus" },
+        { "left": "'Is Tom here?' 'No, he's", "right": "at his brother's'" },
+        { "left": "How many pages are there", "right": "in this book?" },
+        { "left": "Will you be", "right": "at home tomorrow afternoon?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A garden has one big tree, and it stands right in the centre. Put the sentence in order.",
+      "words": ["There's", "a big tree", "in", "the middle", "of", "the garden."],
+      "answer": "There's a big tree in the middle of the garden.",
+      "explanation": "We say in the middle (of ...)."
+    }
+  ]
+}

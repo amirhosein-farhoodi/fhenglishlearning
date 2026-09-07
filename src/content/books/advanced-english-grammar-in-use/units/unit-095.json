@@ -1,0 +1,172 @@
+{
+  "number": 95,
+  "title": "There is, there was, etc.",
+  "subtitle": "There was a loud bang / There being no evidence ...",
+  "summary": "Introduce new people and things with there + be, make the verb agree with what follows, and use there being in formal writing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Introducing something new",
+      "text": "To say that a person or thing exists, happens or is found somewhere, we start the sentence with **there + be**. In questions we invert the pattern.",
+      "examples": [
+        { "text": "**There was** a loud bang from upstairs.", "wrong": "A loud bang was from upstairs" },
+        { "text": "**There's** nothing to eat.", "wrong": "Nothing is to eat" },
+        { "text": "**Is there** anybody in here?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other verbs after there",
+      "text": "**there** also works with auxiliary and modal verbs, with verb + *to be*, and with a few other verbs that indicate existence.",
+      "examples": [
+        { "text": "**There must be** some way of contacting her.", "note": "also has been, can be" },
+        { "text": "**There appears to be** a major disagreement between the two presidents.", "note": "also used to be, is supposed to be, tends to be, seems to be" },
+        { "text": "During the 1990s **there arose** a demand for organic food.", "note": "also emerge, exist, remain" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Indefinite nouns follow there + be",
+      "text": "Because there + be introduces a topic, the noun after it usually has an indefinite or non-specific meaning: *a / an*, no article, *any(one)*, *some(thing)*, *no(body)*. A definite noun phrase - the, this, my, your, or a name - is normally the subject of an ordinary sentence instead.",
+      "examples": [
+        { "text": "**There's** nobody here. / **There was** something strange about her." },
+        { "text": "The cat was in the kitchen.", "note": "more usual than There was the cat in the kitchen; but compare There was a cat in the kitchen." },
+        { "text": "Jan is waiting for me outside.", "note": "more usual than There is Jan waiting for me outside." }
+      ],
+      "note": "There + be + the does occur when we change the topic: ... And then there is the question of who is going to pay."
+    },
+    {
+      "type": "explain",
+      "heading": "Singular or plural?",
+      "text": "The verb should agree with the noun that comes after it. If the noun phrase is a list, the first noun decides.",
+      "examples": [
+        { "text": "**There is** a very good reason for my decision." },
+        { "text": "**There were** too many people trying to get into the football stadium." },
+        { "text": "When I opened the fridge **there was** only a bottle of milk, some eggs, and butter." },
+        { "text": "When I opened the fridge **there were** only some eggs, a bottle of milk, and butter." }
+      ],
+      "note": "In informal speech we sometimes hear there's before a plural noun: 'Well, there's some apples on the table.'"
+    },
+    {
+      "type": "explain",
+      "heading": "there + be + noun + clause",
+      "text": "A noun after there + be is often followed by a that-, wh-, to-infinitive or -ing clause.",
+      "examples": [
+        { "text": "Is **there a chance (that)** Kim could arrive this afternoon?" },
+        { "text": "**There is no reason (why)** I can't see you tomorrow." },
+        { "text": "**There is a small stream which / that runs** at the bottom of the garden." },
+        { "text": "**There was an attempt to resolve** the dispute at the factory." },
+        { "text": "**There was a taxi waiting** outside the hotel." }
+      ],
+      "note": "Keep the relative pronoun when it is the subject of the following verb; you can leave it out when it is the object."
+    },
+    {
+      "type": "explain",
+      "heading": "there being",
+      "text": "In formal English a clause with **there being** introduces a reason for something.",
+      "examples": [
+        { "text": "**There being** no evidence against him, he was released.", "note": "= Because there was no evidence against him" },
+        { "text": "**There being** no reports of adverse reactions, the drug is to be sold more widely." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before choosing there + be, check the noun: if it is your, the, my or a name, an ordinary sentence is almost always better."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "There ___ no direct rail link between the cities.",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "link is singular, so the verb is singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There ___ two pubs and a church on the village green.",
+      "hint": "(be)",
+      "answers": ["are"],
+      "explanation": "The first noun in the list, two pubs, is plural, so the verb is plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "There is your dinner in the oven.",
+      "answer": false,
+      "explanation": "Your dinner is in the oven. Your dinner is definite, so there + be is unlikely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There ___ a shower, television, and two single beds in each room.",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "The first noun in the list, a shower, is singular, so the verb is singular."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ anyone who can help me?",
+      "options": ["Is there", "There is", "Is it"],
+      "answer": 0,
+      "explanation": "In questions the subject and verb are inverted: Is there ... ?"
+    },
+    {
+      "type": "true_false",
+      "statement": "There used to be an art gallery around here.",
+      "answer": true,
+      "explanation": "Correct. there works with verb + to be patterns such as used to be, seems to be and is supposed to be."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would a sentence beginning There ... work here?",
+      "categories": ["A There ... version works", "A There ... version is unlikely"],
+      "items": [
+        { "text": "Is something bothering you?", "category": 0 },
+        { "text": "Your dinner is in the oven.", "category": 1 },
+        { "text": "No petrol was available anywhere in the city.", "category": 0 },
+        { "text": "The doctor is free to see you now.", "category": 1 },
+        { "text": "An art gallery used to be around here.", "category": 0 },
+        { "text": "My son is at university.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There ___ no easy answers to the problem of climate change.",
+      "hint": "(be)",
+      "answers": ["are"],
+      "explanation": "answers is plural, so we need are - this sentence comes from written English, where there's before a plural is avoided."
+    },
+    {
+      "type": "matching",
+      "prompt": "Join the halves. Add a relative pronoun in your head where one is needed.",
+      "pairs": [
+        { "left": "There were a lot of people at the party", "right": "who hadn't been invited." },
+        { "left": "There's a cake in the kitchen", "right": "I've made especially for your birthday." },
+        { "left": "There was never any doubt", "right": "that Bruno would get the job." },
+        { "left": "There have been suggestions", "right": "that an election will be held next month." },
+        { "left": "There aren't many people alive today", "right": "who haven't watched TV." },
+        { "left": "There are still some old houses in the village", "right": "that don't have electricity." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "There is a small stream runs at the bottom of the garden.",
+      "answer": false,
+      "explanation": "There is a small stream which / that runs at the bottom of the garden. We don't leave out a relative pronoun that is the subject of the following verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'There was no further business, so the meeting closed at 12:30' in formal style, beginning There being ... .",
+      "words": ["There being", "no further business,", "the meeting", "closed", "at 12:30."],
+      "answer": "There being no further business, the meeting closed at 12:30.",
+      "explanation": "There being + noun phrase gives the reason for what follows."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'Because the facilities were inadequate at the hotel, the conference was relocated' beginning There being ... .",
+      "words": ["There being", "inadequate facilities", "at the hotel,", "the conference", "was relocated", "to a nearby university."],
+      "answer": "There being inadequate facilities at the hotel, the conference was relocated to a nearby university.",
+      "explanation": "There being replaces a whole because-clause in formal written English."
+    }
+  ]
+}

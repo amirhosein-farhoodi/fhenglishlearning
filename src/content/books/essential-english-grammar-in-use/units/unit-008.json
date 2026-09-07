@@ -1,0 +1,183 @@
+{
+  "number": 8,
+  "title": "I am doing (present continuous) and I do (present simple)",
+  "subtitle": "I am doing / I do",
+  "summary": "Choose the present continuous for what is happening now and the present simple for what happens in general.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Jack and his guitar",
+      "text": "Jack is sitting in an armchair with the remote control in his hand. He is watching television. He is *not* playing the guitar. But Jack has a guitar. He often plays it and he plays very well. So: Jack **plays** the guitar, but he **is not playing** the guitar now.",
+      "examples": [
+        { "text": "**Is he playing** the guitar? No, he isn't.", "note": "present continuous" },
+        { "text": "**Does he play** the guitar? Yes, he does.", "note": "present simple" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two different meanings",
+      "left": {
+        "label": "I am doing (present continuous)",
+        "text": "now, at the time of speaking",
+        "examples": [
+          "Please be quiet. **I'm working**.",
+          "Tom **is having** a shower at the moment.",
+          "Take an umbrella with you. **It's raining**."
+        ]
+      },
+      "right": {
+        "label": "I do (present simple)",
+        "text": "in general, all the time or sometimes",
+        "examples": [
+          "**I work** every day from 9 o'clock to 5.30.",
+          "Tom **has** a shower every morning.",
+          "**It rains** a lot in winter."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Present continuous: now",
+      "text": "Use **am/is/are + -ing** for something that is happening at this moment. The action is not finished.",
+      "examples": [
+        { "text": "Please be quiet. **I'm working**.", "wrong": "I work" },
+        { "text": "Tom **is having** a shower at the moment.", "wrong": "Tom has" },
+        { "text": "You can turn off the television. **I'm not watching** it." },
+        { "text": "Why are you under the table? What **are** you **doing**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Present simple: in general",
+      "text": "Use **I do / he does** for things that are true all the time, or that happen often or sometimes. In questions and negatives we use **do/does**.",
+      "examples": [
+        { "text": "**I work** every day from 9 o'clock to 5.30." },
+        { "text": "**It rains** a lot in winter." },
+        { "text": "**I don't watch** television very often." },
+        { "text": "What **do** you usually **do** at the weekend?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs we do not use with -ing",
+      "columns": ["Feelings", "Thinking and knowing", "Other"],
+      "rows": [
+        ["like", "know", "want"],
+        ["love", "understand", "need"],
+        ["hate", "believe", "mean"],
+        ["prefer", "remember", "depend"],
+        ["-", "forget", "-"]
+      ],
+      "note": "With these verbs use only the present simple: I want, do you like?"
+    },
+    {
+      "type": "explain",
+      "heading": "I want, not I'm wanting",
+      "text": "These verbs describe a feeling or a state, not an action, so they stay in the present simple even when we talk about now.",
+      "examples": [
+        { "text": "I'm tired. **I want** to go home.", "wrong": "I'm wanting" },
+        { "text": "'**Do** you **know** that girl?' 'Yes, but **I don't remember** her name.'" },
+        { "text": "**I don't understand**. What **do** you **mean**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is this happening right now (**I'm doing**) or is it true in general (**I do**)?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "A man is in the bath. He says, 'I'm a photographer.' Is he taking a photograph?",
+      "options": ["No, he isn't.", "No, he doesn't.", "Yes, he is."],
+      "answer": 0,
+      "explanation": "The question is about now, so we answer with the present continuous: No, he isn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The photographer is in the bath. What is he doing? ___ a bath.",
+      "hint": "(he / have)",
+      "answers": ["He's having", "He is having"],
+      "explanation": "It is happening now, so present continuous: He's having a bath."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Excuse me, ___ English?",
+      "hint": "(you / speak)",
+      "answers": ["do you speak"],
+      "explanation": "Speaking English is a general ability, not an action happening now: Do you speak ... ?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right short answer.",
+      "pairs": [
+        { "left": "Is he playing the guitar?", "right": "No, he isn't." },
+        { "left": "Does he play the guitar?", "right": "Yes, he does." },
+        { "left": "Are they teaching?", "right": "No, they aren't." },
+        { "left": "Do they teach?", "right": "Yes, they do." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A woman is sitting at her piano and playing it. She says, 'I'm a bus driver.' Does she drive a bus?",
+      "options": ["Yes, she does.", "Yes, she is.", "No, she isn't."],
+      "answer": 0,
+      "explanation": "Her job is true in general, so the present simple: Yes, she does."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Listen! Somebody ___.",
+      "hint": "(sing)",
+      "answers": ["is singing"],
+      "explanation": "It is happening at this moment: Somebody is singing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sandra is tired. ___ to go home now.",
+      "hint": "(she / want)",
+      "answers": ["She wants"],
+      "explanation": "want is not used with -ing: She wants to go home (not she's wanting)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm sorry, I'm not understanding. Can you speak more slowly?",
+      "answer": false,
+      "explanation": "I'm sorry, I don't understand. We do not use understand with -ing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about now, or about things in general?",
+      "categories": ["Now", "In general"],
+      "items": [
+        { "text": "Please be quiet. I'm working.", "category": 0 },
+        { "text": "I work every day from 9 o'clock to 5.30.", "category": 1 },
+        { "text": "Tom is having a shower at the moment.", "category": 0 },
+        { "text": "Tom has a shower every morning.", "category": 1 },
+        { "text": "Take an umbrella with you. It's raining.", "category": 0 },
+        { "text": "It rains a lot in winter.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about newspapers. Put the words in the right order: (how often / a newspaper / you / read)",
+      "words": ["How often", "do", "you", "read", "a newspaper?"],
+      "answer": "How often do you read a newspaper?",
+      "explanation": "how often asks about things in general, so we use do + read."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can turn off the radio. ___ to it.",
+      "hint": "(I / not listen)",
+      "answers": ["I'm not listening", "I am not listening"],
+      "explanation": "Right now nobody is listening: I'm not listening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Martin ___ to work. He usually walks.",
+      "hint": "(not usually / drive)",
+      "answers": ["doesn't usually drive", "does not usually drive"],
+      "explanation": "usually tells us this is a general habit, so present simple: he doesn't usually drive."
+    }
+  ]
+}

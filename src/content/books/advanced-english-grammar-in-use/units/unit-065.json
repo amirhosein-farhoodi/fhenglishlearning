@@ -1,0 +1,193 @@
+{
+  "number": 65,
+  "title": "Leaving out to-infinitives",
+  "subtitle": "I won't be able to / I forgot (to)",
+  "summary": "Shorten a to-infinitive clause to just to, leave it out altogether, or keep to be after the verb be.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "to instead of the whole clause",
+      "text": "When the context makes the meaning clear, we can use to on its own instead of a whole clause beginning with a to-infinitive.",
+      "examples": [
+        { "text": "I wanted to come with you, but I won't be able **to**.", "note": "instead of ... to come with you" },
+        { "text": "It might have been better if Rosa had asked for my help, but she chose not **to**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "After be, repeat to be",
+      "text": "If the verb in the previous clause is be, the to-infinitive form to be is repeated in the next clause.",
+      "examples": [
+        { "text": "Leon was frightened - or maybe he just pretended **to be**.", "wrong": "he just pretended to" },
+        { "text": "Dan has lost a lot of weight. He's much thinner than he **used to be**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Is to optional or necessary?",
+      "left": {
+        "label": "to can be included or left out",
+        "text": "After most nouns and adjectives that take a to-infinitive, and after verbs like agree, ask, begin, forget, promise, refuse, start, try.",
+        "examples": [
+          "I'm not going to write another book - at least I don't have any **plans (to)**.",
+          "*A:* Could you and Tom help me move house? *B:* Well, I'm **willing (to)**, and I'll ask Tom.",
+          "Alex will collect us by 10 o'clock. He **promised (to)**.",
+          "*A:* You were supposed to buy some sugar. *B:* Sorry, I **forgot (to)**."
+        ]
+      },
+      "right": {
+        "label": "to must stay",
+        "text": "After verbs that need a complement to finish their meaning.",
+        "examples": [
+          "I admit that I took her watch, but I didn't **mean to**.",
+          "Have you thought about getting vaccinated against cholera before going there? I'd certainly **advise you to**."
+        ]
+      },
+      "note": "Optional to: also chance, idea, opportunity, promise, suggestion; afraid, delighted, determined. to must stay after: afford, be able, choose, deserve, expect, fail, hate, hope, intend, love, need, prefer."
+    },
+    {
+      "type": "explain",
+      "heading": "want and would like in if- and wh-clauses",
+      "text": "After want and would like in an if-clause or a wh-clause we can often either leave the to-infinitive out or use to.",
+      "examples": [
+        { "text": "You're welcome to dance if you'd **like (to)**." },
+        { "text": "You can do whatever you would **like (to)**." },
+        { "text": "Call me Ben if you **want (to)**." },
+        { "text": "Come and see us when you **want (to)**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In other clauses, keep to",
+      "text": "If the clause is not an if-clause or a wh-clause, to is included.",
+      "examples": [
+        { "text": "I was planning to see you tomorrow, and I would still **like to**." },
+        { "text": "I offered to clean your car because I really **want to**, not because I hope to be paid." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if you like or if you'd like (to)?",
+      "left": {
+        "label": "*like* - no to",
+        "examples": [
+          "You can have one if you **like**.",
+          "Leave whenever you **like**.",
+          "Of course. Ask anything you **like**."
+        ]
+      },
+      "right": {
+        "label": "*'d like (to)*",
+        "examples": [
+          "You can have one if you'd **like (to)**.",
+          "Leave whenever you'd **like (to)**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Negatives always keep to",
+      "text": "With negative forms of want, would like and like, to is included - even in if- and wh-clauses.",
+      "examples": [
+        { "text": "*A:* Shall we go and visit Laura? *B:* I don't really **want to**." },
+        { "text": "I should have phoned Jo last night, but it was so late when I got home I didn't **like to**." },
+        { "text": "*A:* He won't mind you asking him for a loan. *B:* Oh, no, I wouldn't **like to**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Don't stop at to when the first clause used be: '... or maybe he just pretended to be', not ~~pretended to~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She occupies a much less important role in the company than she ___.",
+      "hint": "(used)",
+      "answers": ["used to"],
+      "explanation": "To stands for the whole clause 'to occupy an important role'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan has lost a lot of weight. He's much thinner than he ___.",
+      "hint": "(used)",
+      "answers": ["used to be"],
+      "explanation": "The verb being replaced is be, so we repeat to be."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lucia was frightened - or maybe she just ___.",
+      "options": ["pretended to be", "pretended to", "pretended"],
+      "answer": 0,
+      "explanation": "After be in the first clause we keep to be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Luka had to admit that he'd failed, even though he obviously ___.",
+      "hint": "(hate)",
+      "answers": ["hated to"],
+      "explanation": "Hate needs a complement, so to cannot be left out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Spain won 3-0, and ___, after a fine performance.",
+      "hint": "(deserve)",
+      "answers": ["deserved to"],
+      "explanation": "Deserve is another verb that must keep to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Pantheon in Rome wasn't anything like I ___.",
+      "hint": "(expect)",
+      "answers": ["expected it to be"],
+      "explanation": "Expect keeps to, and because the verb replaced is be we add be as well."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Will Sara be able to play? *B:* I asked her, but she says she doesn't want.",
+      "answer": false,
+      "explanation": "... she doesn't want to. Negative forms of want always keep to."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Can the children come too? *B:* Yes, of course, if they want.",
+      "answer": true,
+      "explanation": "Correct. In an if-clause, to after want can be left out (... if they want to is also fine)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Shall we go out walking tomorrow? *B:* Yes, ___ very much.",
+      "options": ["I'd like to", "I'd like", "I like"],
+      "answer": 0,
+      "explanation": "This is not an if- or wh-clause, so to must be included."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Could I ask you a personal question? *B:* Of course. Ask anything you like to.",
+      "answer": false,
+      "explanation": "Ask anything you like. (or ... you'd like to.) In a wh-clause we usually leave out to after like."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Explain why you offered to clean the car, keeping to at the end of the middle clause.",
+      "words": ["I offered", "to clean your car", "because I really want to,", "not because", "I hope", "to be paid."],
+      "answer": "I offered to clean your car because I really want to, not because I hope to be paid.",
+      "explanation": "This is not an if- or wh-clause, so want keeps to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Must to be included, or can it be left out?",
+      "categories": ["to must be included", "to can be left out"],
+      "items": [
+        { "text": "I don't have to walk to work. I do it because I choose ...", "category": 0 },
+        { "text": "*A:* Would you like to travel first class? *B:* Well, yes, I'd certainly prefer ...", "category": 0 },
+        { "text": "I was hoping to go to Russia this year, but I can't afford ...", "category": 0 },
+        { "text": "When the police officer told the crowd to leave the square they refused ...", "category": 1 },
+        { "text": "We didn't want Alina to leave college, but she was determined ...", "category": 1 },
+        { "text": "*A:* Would you present the prizes for the competition? *B:* I'd be delighted ...", "category": 1 },
+        { "text": "*A:* Shall we ask Dad before we borrow the car? *B:* Yes, it might be a good idea ...", "category": 1 }
+      ]
+    }
+  ]
+}

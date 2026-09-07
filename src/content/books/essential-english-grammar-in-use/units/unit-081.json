@@ -1,0 +1,179 @@
+{
+  "number": 81,
+  "title": "all most some any no/none",
+  "subtitle": "most people / most of the people",
+  "summary": "Use all/most/some/any/no + noun for people and things in general, and all of/most of/some of/none of before the, this, my, them and it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "In general or a special group?",
+      "left": {
+        "label": "children / money / books",
+        "text": "No *the*. We are talking about people or things in general.",
+        "examples": [
+          "**Children** like playing. (= children in general)",
+          "**Money** isn't everything.",
+          "I enjoy reading **books**.",
+          "Everybody needs **friends**."
+        ]
+      },
+      "right": {
+        "label": "the children / the money / these books",
+        "text": "We are talking about one special group.",
+        "examples": [
+          "Where are **the children**? (= our children)",
+          "I want to buy a car, but I haven't got **the money**.",
+          "Have you read **these books**?",
+          "I often go out with **my friends**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "most / some + noun (no of)",
+      "text": "Use **all**, **most**, **some**, **any** and **no** with a noun and *no* **of** when you talk about things in general.",
+      "examples": [
+        { "text": "**Most children** like playing.", "wrong": "Most of children" },
+        { "text": "**Some books** are better than others.", "wrong": "Some of books" },
+        { "text": "**Most people** drive too fast.", "wrong": "Most of people" },
+        { "text": "**All cities** have the same problems." },
+        { "text": "He's got **no friends**. I don't want **any money**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "most of / some of + the/this/my ...",
+      "text": "Use **of** before **the**, **this**, **that**, **these**, **those**, **my**, **your** and other words like these. Note that after **of** we say **none**, not *no*.",
+      "examples": [
+        { "text": "**Most of the children** at this school are under 11 years old." },
+        { "text": "I don't want **any of this money**." },
+        { "text": "**Some of these books** are very old." },
+        { "text": "**None of my friends** live near me.", "wrong": "No of my friends" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The two patterns",
+      "columns": ["Pattern", "Example"],
+      "rows": [
+        ["all / most / some / any / no + noun", "**Most birds** can fly."],
+        ["most / some / any / none + **of** + the/this/my ...", "**Most of the shops** close at 6.30."],
+        ["all (**of**) + the/this/my ...", "**All the students** passed. or **All of the students** passed."],
+        ["all / most / some / any / none + **of** + it/them/us/you", "'How many of these books have you read?' '**None of them**.'"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "all the ... or all of the ...",
+      "text": "With **all** you can use **of** or leave it out. Both are correct.",
+      "examples": [
+        { "text": "**All the students** in our class passed the exam. *or* **All of the students** ..." },
+        { "text": "Silvia has lived in London **all her life**. *or* ... **all of her life**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "all of it / most of them / none of us",
+      "text": "Before **it**, **them**, **us** and **you** we always use **of**.",
+      "examples": [
+        { "text": "You can have **some of this cake**, but not **all of it**." },
+        { "text": "*A:* Do you know those people? *B:* **Most of them**, but not **all of them**." },
+        { "text": "**Some of us** are going out tonight. Why don't you come with us?" },
+        { "text": "I've got a lot of books, but I haven't read **any of them**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use **no** with a noun (*He's got no friends*), but **none of** before the/my/them (*None of my friends live near me*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ children like playing.",
+      "hint": "(most)",
+      "answers": ["Most"],
+      "explanation": "children in general, so most + noun with no of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ people never stop talking.",
+      "hint": "(some)",
+      "answers": ["Some"],
+      "explanation": "people in general, so some people (not some of people)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ the shops in the city centre close at 6.30.",
+      "options": ["Most of", "Most", "The most"],
+      "answer": 0,
+      "explanation": "Before the we need of: most of the shops."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ this money is yours.",
+      "hint": "(some)",
+      "answers": ["Some of"],
+      "explanation": "Before this we need of: some of this money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can change your money in ___ banks.",
+      "hint": "(most)",
+      "answers": ["most"],
+      "explanation": "banks in general, so most banks with no of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ my friends are married.",
+      "hint": "(none)",
+      "answers": ["None of"],
+      "explanation": "Before my we say none of, not no of."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right answer.",
+      "pairs": [
+        { "left": "Nine of the ten people are women. How many of the people are women?", "right": "Most of them." },
+        { "left": "The five boxes are all on the table. How many of the boxes are on the table?", "right": "All of them." },
+        { "left": "Two of the six men are wearing hats. How many of the men are wearing hats?", "right": "Some of them." },
+        { "left": "Every window in the building is closed. How many of the windows are open?", "right": "None of them." },
+        { "left": "The money on the table is all Sally's. How much of the money is Ben's?", "right": "None of it." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like ___ the pictures in the living room.",
+      "hint": "(any)",
+      "answers": ["any of"],
+      "explanation": "Before the we need of: any of the pictures."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather was bad when we were on holiday. It rained ___ the time.",
+      "hint": "(most)",
+      "answers": ["most of"],
+      "explanation": "Before the we need of: most of the time."
+    },
+    {
+      "type": "true_false",
+      "statement": "Some of people work too hard.",
+      "answer": false,
+      "explanation": "Some people work too hard. We do not use of before a noun in general."
+    },
+    {
+      "type": "true_false",
+      "statement": "I haven't seen any of those people before.",
+      "answer": true,
+      "explanation": "Correct: before those we use of."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to describe a primary school.",
+      "words": ["Most of", "the children", "at this school", "are", "under 11", "years old."],
+      "answer": "Most of the children at this school are under 11 years old.",
+      "explanation": "Before the we need of: most of the children."
+    }
+  ]
+}

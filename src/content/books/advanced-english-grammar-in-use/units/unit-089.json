@@ -1,0 +1,189 @@
+{
+  "number": 89,
+  "title": "Between and among",
+  "subtitle": "between her thumb and forefinger / among all his friends",
+  "summary": "Use between for separate individuals, comparisons, choices and agreements, and among for groups, and learn the fixed expressions built on each.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Separate things or a group?",
+      "left": {
+        "label": "between - people or things seen as individual or separate",
+        "examples": [
+          "She held the diamond **between** her thumb and forefinger.",
+          "Zimbabwe is situated **between** Zambia to the north, Mozambique to the east, Botswana to the west, and South Africa to the south."
+        ]
+      },
+      "right": {
+        "label": "among - part of a group or mass",
+        "text": "Among is only used with three or more people or things.",
+        "examples": [
+          "He stood **among** all his friends at the party and felt very happy.",
+          "She eventually found her passport **among** the clothes in the drawer."
+        ]
+      },
+      "note": "Amongst is sometimes used instead of among, but in more literary contexts."
+    },
+    {
+      "type": "explain",
+      "heading": "Dividing and sharing: either word",
+      "text": "Between and among are not only prepositions of place. For something divided or shared between people we can use either.",
+      "examples": [
+        { "text": "The money is to be divided **between** / **among** the towns in the area." },
+        { "text": "The prize will be shared **between** / **among** the first six finishers in the race." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "between for comparisons and relationships",
+      "text": "We use **between** to talk about comparisons and relationships.",
+      "examples": [
+        { "text": "There should be a better balance on the committee **between** the various ethnic groups." },
+        { "text": "They are wrong to claim that there is a link **between** unemployment and crime." }
+      ],
+      "note": "Also with between: association, comparison, connection, contrast, correlation, difference, distinction, relationship."
+    },
+    {
+      "type": "explain",
+      "heading": "between for choices",
+      "text": "We use **between** when we talk about choices.",
+      "examples": [
+        { "text": "I have to choose **between** the universities of Leeds, York and Manchester." },
+        { "text": "He felt torn **between** his family and his friends." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "between for agreements and shared amounts",
+      "text": "We use **between** for discussions, or the results of discussions, when we name the two or more people or groups involved, and to say that people or things share an amount of something.",
+      "examples": [
+        { "text": "There was a disagreement **between** Emma, Jade and Zoe." },
+        { "text": "The treaty was signed **between** Great Britain and France." },
+        { "text": "**Between** them, Will and Alice must earn about 100,000 a year." },
+        { "text": "Last year the three companies built 30,000 houses **between** them." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "among for groups",
+      "text": "We use **among** to mean 'existing or happening in a particular group', and to mean 'included in a particular group'.",
+      "examples": [
+        { "text": "The disease has now broken out **among** the hill tribes." },
+        { "text": "Their music is still very popular **among** teenagers." },
+        { "text": "They are **among** the best hockey players in the world." },
+        { "text": "**Among** the capital cities of South America, Quito is the second highest." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Common expressions",
+      "text": "A number of fixed expressions use these two words.",
+      "examples": [
+        { "text": "The concert features, **among others**, Karl Frisk and the Johnsons.", "note": "= other singers / groups are featured too" },
+        { "text": "I later found out that he had been a carpenter and a plumber, **among other things**.", "note": "= he had had other jobs too" },
+        { "text": "**Between ourselves** / **Between you and me**, I don't think Jack is as honest as he should be.", "note": "= keep this a secret" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you could name the items one by one, use between; if they blur into a crowd or a mass, use among."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "For a couple of days I've had a pain ___ my shoulder blades.",
+      "hint": "(between / among)",
+      "answers": ["between"],
+      "explanation": "Two separate things, so between."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He couldn't find a microphone ___ all the recording equipment he had with him.",
+      "hint": "(between / among)",
+      "answers": ["among"],
+      "explanation": "The equipment is a mass of things, so among."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna is standing ___ her parents.",
+      "hint": "(between / among)",
+      "answers": ["between"],
+      "explanation": "Two people we see as individuals, so between."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The lost manuscript was discovered ___ the thousands of books in the cellar.",
+      "options": ["among", "between", "in between"],
+      "answer": 0,
+      "explanation": "Thousands of books form a mass, so among."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rebecca commutes ___ her flat in Paris and her office in Brussels.",
+      "hint": "(between / among)",
+      "answers": ["between"],
+      "explanation": "Two named places, so between."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The distinction ___ and professional athletes is becoming less clear.",
+      "hint": "(between / among + amateur)",
+      "answers": ["between amateur"],
+      "explanation": "Distinction is one of the comparison nouns that take between."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It has become fashionable ___ to dye their hair in various colours.",
+      "hint": "(between / among + teenagers)",
+      "answers": ["among teenagers"],
+      "explanation": "Among means 'existing or happening in a particular group'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Given a choice ___ and washing up, I know which I'd prefer to do.",
+      "hint": "(between / among + cooking)",
+      "answers": ["between cooking"],
+      "explanation": "Choices take between."
+    },
+    {
+      "type": "true_false",
+      "statement": "He stood between all his friends at the party and felt very happy.",
+      "answer": false,
+      "explanation": "He stood among all his friends at the party. His friends are a group, so among."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say that three companies shared a total.",
+      "words": ["Last year", "the three companies", "built 30,000 houses", "between them."],
+      "answer": "Last year the three companies built 30,000 houses between them.",
+      "explanation": "Between them says that the group shares one amount."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Keira is writing home from Rome. Which word fits each gap?",
+      "categories": ["between", "among"],
+      "items": [
+        { "text": "There is such an incredible contrast ___ the old parts of the city and the more recent parts.", "category": 0 },
+        { "text": "But ___ you and me, I'm a bit scared of heights.", "category": 0 },
+        { "text": "The Pantheon is ___ the Vatican and the Foro Romano.", "category": 0 },
+        { "text": "The only problem then was choosing ___ the many different types of pasta!", "category": 0 },
+        { "text": "Rome must be ___ the most fascinating cities in the world.", "category": 1 },
+        { "text": "Yesterday we visited, ___ other places, the Foro Romano and the Vatican.", "category": 1 },
+        { "text": "Umberto I and the artist Raphael are ___ the people buried there.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each expression with what it tells you.",
+      "pairs": [
+        { "left": "The concert features, among others, Karl Frisk and the Johnsons.", "right": "Other singers and groups are featured too." },
+        { "left": "He had been a carpenter and a plumber, among other things.", "right": "He had had other jobs as well." },
+        { "left": "Between ourselves, I don't think Jack is as honest as he should be.", "right": "Keep this a secret." },
+        { "left": "Between them, Will and Alice must earn about 100,000 a year.", "right": "That is their combined income." },
+        { "left": "He felt torn between his family and his friends.", "right": "He had to choose between two sides." }
+      ]
+    }
+  ]
+}

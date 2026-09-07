@@ -1,0 +1,183 @@
+{
+  "number": 94,
+  "title": "always/usually/often etc. (word order 2)",
+  "subtitle": "I always drink coffee.",
+  "summary": "Put always, usually, often, never etc. before the main verb, but after am/is/are and between two verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Words in the middle",
+      "text": "Words like **always** and **never** go with the verb in the middle of the sentence. They do not go at the beginning and they do not go at the end.",
+      "examples": [
+        { "text": "My brother **never speaks** to me." },
+        { "text": "She**'s always** late." },
+        { "text": "Do you **often go** to restaurants?" },
+        { "text": "I **sometimes eat** too much." },
+        { "text": "*A:* Don't forget to phone Laura. *B:* I**'ve already phoned** her." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "These words go in the middle",
+      "columns": ["How often?", "Other middle words"],
+      "rows": [
+        ["always", "also"],
+        ["usually", "just"],
+        ["often", "already"],
+        ["sometimes", "still"],
+        ["rarely / seldom", "all"],
+        ["never / ever", "both"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Before the verb, but after am/is/are",
+      "left": {
+        "label": "before the main verb",
+        "text": "always, often, never etc. come before go, play, have, drink, watch ...",
+        "examples": [
+          "I **always drink** coffee in the morning.",
+          "Helen **often goes** to London.",
+          "You **sometimes look** unhappy.",
+          "They **usually have** dinner at 7 o'clock.",
+          "We **rarely watch** television.",
+          "He **also plays** tennis and volleyball."
+        ]
+      },
+      "right": {
+        "label": "after am/is/are/was/were",
+        "text": "But they come after am, is, are, was and were.",
+        "examples": [
+          "I **am always** tired.",
+          "They **are never** at home during the day.",
+          "It **is usually** very cold here in winter.",
+          "When I was a child, I **was often** late for school.",
+          "*A:* Where's Laura? *B:* She**'s still** in bed.",
+          "I've got two brothers. They**'re both** doctors."
+        ]
+      },
+      "note": "We say *I am always tired*, not ~~I always am tired~~. But *I always drink coffee*, not ~~I drink always coffee~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Between two verbs",
+      "text": "When there are two verbs (**will** ... **remember**, **can** ... **find**, **have** ... **been**), the word goes between them.",
+      "examples": [
+        { "text": "I **will always remember** you." },
+        { "text": "It **doesn't often rain** here." },
+        { "text": "**Do** you **usually go** to work by car?" },
+        { "text": "I **can never find** my keys." },
+        { "text": "**Have** you **ever been** to Egypt?" },
+        { "text": "My friends **have all gone** to the cinema." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "verb 1 + middle word + verb 2",
+      "columns": ["verb 1", "middle word", "verb 2"],
+      "rows": [
+        ["will", "always", "remember"],
+        ["can", "never", "find"],
+        ["Do you", "usually", "go"],
+        ["Have you", "ever", "been"],
+        ["has", "just", "gone"],
+        ["have", "all", "gone"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never put these words between the verb and the object: *He also plays tennis*, not ~~He plays also tennis~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Paul says he plays tennis often. Write a sentence about him.",
+      "words": ["Paul", "often", "plays", "tennis."],
+      "answer": "Paul often plays tennis.",
+      "explanation": "often comes before the main verb plays."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you get up early? *B:* Yes, always. -> He ___ up early.",
+      "hint": "(always / get)",
+      "answers": ["always gets"],
+      "explanation": "always comes before the main verb: He always gets up early."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you ever late for work? *B:* No, never. -> He ___ late for work.",
+      "hint": "(never)",
+      "answers": ["is never", "'s never"],
+      "explanation": "never comes after is: He is never late for work."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does always come before or after these words?",
+      "categories": ["always goes before it", "always goes after it"],
+      "items": [
+        { "text": "go", "category": 0 },
+        { "text": "play", "category": 0 },
+        { "text": "have dinner", "category": 0 },
+        { "text": "is", "category": 1 },
+        { "text": "am", "category": 1 },
+        { "text": "were", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Write the sentence 'Susan is polite' with always.",
+      "words": ["Susan", "is", "always", "polite."],
+      "answer": "Susan is always polite.",
+      "explanation": "always comes after is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Write 'I finish work at 5 o'clock' with usually.",
+      "options": ["I usually finish work at 5 o'clock.", "I finish usually work at 5 o'clock.", "I finish work usually at 5 o'clock."],
+      "answer": 0,
+      "explanation": "usually comes before the main verb finish."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bus ___ late.",
+      "hint": "(usually)",
+      "answers": ["isn't usually", "is not usually"],
+      "explanation": "The word comes after isn't: The bus isn't usually late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ eat fish.",
+      "hint": "(often)",
+      "answers": ["don't often", "do not often"],
+      "explanation": "With two verbs (don't ... eat), often goes between them."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jane doesn't usually work on Saturdays.",
+      "answer": true,
+      "explanation": "Correct. usually goes between doesn't and work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you speak Italian? *B:* Yes, and I ___ French.",
+      "hint": "(also)",
+      "answers": ["also speak"],
+      "explanation": "also comes before the main verb speak, not after the object."
+    },
+    {
+      "type": "true_false",
+      "statement": "I can remember never his name.",
+      "answer": false,
+      "explanation": "I can never remember his name. never goes between the two verbs."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask if Tina is here, using already.",
+      "words": ["Is", "Tina", "already", "here?"],
+      "answer": "Is Tina already here?",
+      "explanation": "already comes after is."
+    }
+  ]
+}

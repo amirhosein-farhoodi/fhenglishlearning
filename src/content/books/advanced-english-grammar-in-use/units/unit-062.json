@@ -1,0 +1,191 @@
+{
+  "number": 62,
+  "title": "So and not as substitutes for clauses, etc.",
+  "subtitle": "I'd imagine so / I guess not",
+  "summary": "Use so and not in place of a whole clause after verbs of thinking and speaking, and in short answers.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "so instead of an adjective, an adverb or a clause",
+      "text": "So can stand for an adjective, an adverb or a whole clause that has just been mentioned, so that we don't have to repeat it.",
+      "examples": [
+        { "text": "The workers were angry and they had every right to be **so**.", "note": "so = angry" },
+        { "text": "Joe took the work seriously and Petra perhaps even more **so**.", "note": "so = took the work seriously" },
+        { "text": "Usman's giving us a lift. At least I presume **so**.", "note": "so = that he's giving us a lift" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs of thinking and speaking",
+      "text": "We often use so instead of a clause after verbs concerned with thinking and speaking. After tell we need an indirect object.",
+      "examples": [
+        { "text": "*A:* Is Lewis going back to Scotland to see his parents this summer? *B:* I've no idea, but I'd imagine **so**. He goes most years." },
+        { "text": "I found it ridiculous, and said **so**. / ... and told them **so**.", "note": "so = that I found it ridiculous" }
+      ],
+      "note": "Also: be afraid (expressing regret), appear / seem (after 'it'), assume, believe, expect, guess, hope, presume, suppose, suspect, think."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that don't take so",
+      "text": "Some other verbs of thinking and speaking are never followed by so. With them we use it, or we spell the clause out.",
+      "examples": [
+        { "text": "*A:* Will Stefan know how to mend it? *B:* I doubt **it**. / I doubt (that) he will.", "wrong": "I doubt so" }
+      ],
+      "note": "Also: accept, admit, agree, be certain, hear, know, promise, suggest, be sure. In informal English, particularly in an argument, 'I know so' is possible."
+    },
+    {
+      "type": "explain",
+      "heading": "Negatives: not or not ... so",
+      "text": "In negative sentences we use either not on its own or a negative verb + so. Which one depends on the verb.",
+      "examples": [
+        { "text": "Is the Socialist Party offering anything new in its statement? It would appear **not**." },
+        { "text": "They want to buy the house, although they **didn't say so** directly." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which verbs take which negative",
+      "columns": ["Verbs", "Pattern", "Example"],
+      "rows": [
+        ["appear, seem, suppose", "either", "*A:* I don't suppose there'll be any seats left. *B:* No, I **don't suppose so**. (or ... I **suppose not**.)"],
+        ["believe, expect, imagine, think", "prefer not ... so", "*A:* Will we need to show our passports? *B:* I **don't think so**."],
+        ["be afraid, assume, guess, hope, presume, suspect", "not", "*A:* You'd better do it yourself. Eva won't help. *B:* No, I **guess not**."]
+      ],
+      "note": "With believe, expect, imagine and think, 'I think not' is possible but rather formal. With guess we don't say ~~I don't guess so~~."
+    },
+    {
+      "type": "compare",
+      "heading": "said not, said not to and didn't say so",
+      "left": {
+        "label": "*The teacher said not (to).*",
+        "text": "The teacher gave us that information.",
+        "examples": [
+          "*A:* Do we have to do all ten questions? *B:* The teacher **said not**. (= the teacher said that we didn't have to)",
+          "*A:* Do we have to do all ten questions? *B:* The teacher **said not to**. (= the teacher said that we shouldn't)"
+        ]
+      },
+      "right": {
+        "label": "*The teacher didn't say so.*",
+        "text": "The teacher gave us no such information - so perhaps we should.",
+        "examples": [
+          "*A:* Do we have to do all ten questions? *B:* The teacher **didn't say so**."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Short answers: So it has. or Yes, it has.",
+      "left": {
+        "label": "So + pronoun + auxiliary - news to me",
+        "text": "We use this when we can see that something is true now that we have been told, particularly if we are surprised.",
+        "examples": [
+          "*A:* Lisa and Sara are here. *B:* **So they are**. (or Yes, they are.)",
+          "*A:* Your bike's been moved. *B:* **So it has**. I wonder who did it."
+        ]
+      },
+      "right": {
+        "label": "Yes, ... - I knew already",
+        "text": "If we knew before being told, only Yes, ... is possible.",
+        "examples": [
+          "*A:* Your bike's been moved. *B:* **Yes, it has**. Philip borrowed it this morning.",
+          "not ~~So it has. Philip borrowed it this morning.~~"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "So I gather / So I hear",
+      "text": "With verbs like appear (after 'it'), believe, gather, hear, say, seem, tell and understand, a short answer with so + subject + verb implies 'I knew that before you told me'.",
+      "examples": [
+        { "text": "*A:* I found that lecture really boring. *B:* **So I gather**. I saw you sleeping." },
+        { "text": "*A:* Maria's not very well. *B:* **So I understand**. / **So she tells me**." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Will you be able to come over this weekend? *B:* I hope ___.",
+      "answers": ["so"],
+      "explanation": "Hope is one of the thinking verbs that take so instead of a whole clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The weather's awful, so we'll need to take a taxi. *B:* I guess ___.",
+      "answers": ["so"],
+      "explanation": "Positive replies with guess take so; in the negative only 'I guess not' is possible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Will we need to pay to get in? *B:* ___",
+      "options": ["I doubt it.", "I doubt so.", "I doubt not."],
+      "answer": 0,
+      "explanation": "Doubt is never followed by so - use I doubt it or I doubt (that) we will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* You will remember to pick me up at one, won't you? *B:* I promise ___.",
+      "answers": ["I will", "that I will"],
+      "explanation": "Promise is not used with so, so we spell the clause out: I promise (that) I will."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I hope I'll be able to get a ticket. *B:* I'm sure ___.",
+      "answers": ["you will", "that you will"],
+      "explanation": "Be sure does not take so, so the clause is spelt out: I'm sure (that) you will."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Did I leave my handbag in your car yesterday? *B:* ___",
+      "options": ["I don't think so.", "I don't think.", "I'm not thinking so."],
+      "answer": 0,
+      "explanation": "With think we prefer not ... so. 'I think not' is possible but rather formal."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Didn't Alice hear you? *B:* It doesn't appear.",
+      "answer": false,
+      "explanation": "It doesn't appear so. / It appears not. With appear we need either not ... so or not on its own."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* What did you think of Sadia's work? *B:* Well, I thought it was pretty awful, although I ___.",
+      "options": ["didn't say so", "said not", "said so"],
+      "answer": 0,
+      "explanation": "'I didn't say so' = I didn't tell them my opinion; 'said not' would mean the opposite of what B thinks."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* The children from next door are taking the apples from our trees. *B:* ___ I said they could come round and get them.",
+      "options": ["Yes, they are.", "So they are.", "So they do."],
+      "answer": 0,
+      "explanation": "B knew about it before being told, so a 'So ...' answer is not possible here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The DVD player's gone again. *B:* So ___ . Dr Adams has probably borrowed it.",
+      "answers": ["it has"],
+      "explanation": "So + pronoun + the auxiliary from A's sentence (has): B can see it is true now."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that the workers were right to feel as they did, without repeating the adjective.",
+      "words": ["The workers", "were angry", "and", "they had", "every right", "to be so."],
+      "answer": "The workers were angry and they had every right to be so.",
+      "explanation": "So stands for the adjective angry."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each reply with what it tells us.",
+      "pairs": [
+        { "left": "*A:* Lisa and Sara are here. *B:* So they are.", "right": "I can see that is true now you have told me." },
+        { "left": "*A:* Your bike's been moved. *B:* Yes, it has. Philip borrowed it this morning.", "right": "I knew about it before you told me." },
+        { "left": "*A:* I found that lecture really boring. *B:* So I gather.", "right": "I already knew - I saw you sleeping." },
+        { "left": "*A:* Do we have to do all ten questions? *B:* The teacher said not.", "right": "The teacher said we didn't have to." },
+        { "left": "*A:* Do we have to do all ten questions? *B:* The teacher said not to.", "right": "The teacher said we shouldn't." },
+        { "left": "*A:* Do we have to do all ten questions? *B:* The teacher didn't say so.", "right": "The teacher didn't tell us to - but perhaps we should." }
+      ]
+    }
+  ]
+}

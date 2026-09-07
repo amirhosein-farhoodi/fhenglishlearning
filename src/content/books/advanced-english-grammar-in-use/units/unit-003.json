@@ -1,0 +1,169 @@
+{
+  "number": 3,
+  "title": "Past simple and present perfect",
+  "subtitle": "I didn't shave / I haven't shaved this morning",
+  "summary": "Decide between the past simple and the present perfect with time expressions, since-clauses, time clauses and news reports.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "this morning, today, this week",
+      "left": {
+        "label": "Past simple - the period is over",
+        "text": "You think of this morning as a past, completed time period.",
+        "examples": [
+          "**I didn't shave** this morning. (= the morning is finished and I didn't shave)"
+        ]
+      },
+      "right": {
+        "label": "Present perfect - the period includes now",
+        "text": "You think of this morning as a period that includes the present moment.",
+        "examples": [
+          "**I haven't shaved** this morning. (= it is still the morning and I might shave later)"
+        ]
+      },
+      "note": "Time expressions that reach into the present (this morning / week / month, today) go with either tense - it depends how you see the period."
+    },
+    {
+      "type": "explain",
+      "heading": "since + time clause",
+      "text": "In a sentence with a **since** time clause we normally prefer a past simple verb in the time clause and a present perfect verb in the main clause. The time clause points to one particular moment in the past.",
+      "examples": [
+        { "text": "Since Mr Dodson **became** president unemployment **has increased**.", "note": "rather than ... has become ..." },
+        { "text": "She **hasn't been** able to play tennis since she **broke** her arm.", "note": "rather than ... has broken ..." }
+      ],
+      "note": "But use the present perfect in the time clause too if both situations extend up to the present: Have you met any of your neighbours since you've lived here? (not ... you lived ...)"
+    },
+    {
+      "type": "compare",
+      "heading": "after, when, until, as soon as, once, by the time, the minute",
+      "left": {
+        "label": "Past simple - completed past events",
+        "examples": [
+          "After she **left** hospital, she had a long holiday.",
+          "The minute I **got** the news about Anna I telephoned my parents."
+        ]
+      },
+      "right": {
+        "label": "Present perfect - future events",
+        "examples": [
+          "After Lucas **has left** school, he will be spending six months in India.",
+          "I'll contact you the minute I**'ve got** my exam results."
+        ]
+      },
+      "note": "In these time clauses you can use the past perfect instead of the past simple (After she had left ...) and the present simple instead of the present perfect (After Lucas leaves ...) with the same meaning."
+    },
+    {
+      "type": "explain",
+      "heading": "News reports",
+      "text": "In news reports a recent event is usually introduced with the present perfect. The past simple, or another past tense, then fills in the details.",
+      "examples": [
+        { "text": "A Russian spacecraft **has returned** safely to Earth with its two passengers. US astronaut Scott Keane and Russian cosmonaut Olga Kaleri **landed** in the early hours of Wednesday." },
+        { "text": "An American woman **has become** the first person to make 2 million contributions to Wikipedia. Esther Miller **began** editing the site eight years ago." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It / This / That is the first time ...",
+      "text": "After **It / This / That is** or **will be the first time ...** we generally use the present perfect in the next clause.",
+      "examples": [
+        { "text": "That's the first time I**'ve seen** Jan look embarrassed.", "note": "reporting a past event" },
+        { "text": "It won't be the first time she **has voted** against the government.", "note": "talking about a future event" }
+      ],
+      "note": "After It / This / That was the first time ... we generally use the past perfect: It was the first time I'd talked to Dimitra outside the office."
+    },
+    {
+      "type": "tip",
+      "text": "With after, when, until, as soon as, once, by the time and the minute, a present perfect in the time clause always points forwards, never back."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Shall I make us some dinner? It's already eight o'clock. *B:* No, thanks. I ___ to the dentist this afternoon and my mouth hurts too much to eat anything.",
+      "hint": "(go)",
+      "answers": ["went"],
+      "explanation": "It is already eight o'clock, so this afternoon is a finished period: past simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ three lectures today and I still have two more later this afternoon.",
+      "hint": "(have)",
+      "answers": ["'ve had", "have had"],
+      "explanation": "Today is not over - more lectures are still to come - so the present perfect is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "Carlo's injury only became apparent after he signed to play for Real Madrid.",
+      "answer": true,
+      "explanation": "Correct. Both events are in the past and complete, so the past simple is right after after."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lot ___ since I last spoke to you.",
+      "hint": "(happen)",
+      "answers": ["has happened", "'s happened"],
+      "explanation": "Past simple in the since-clause, present perfect in the main clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ much of the report yet, but I have to finish it by the weekend.",
+      "hint": "(read) - negative",
+      "answers": ["haven't read", "have not read"],
+      "explanation": "The reading is unfinished and still relevant now: present perfect with yet."
+    },
+    {
+      "type": "true_false",
+      "statement": "As soon as I finished college I want to travel around Australia.",
+      "answer": false,
+      "explanation": "As soon as I've finished college I want to travel around Australia. A future event in this kind of time clause takes the present perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maria ___ to go swimming since she fell in the river.",
+      "hint": "(not want)",
+      "answers": ["hasn't wanted", "has not wanted"],
+      "explanation": "Falling in the river is one past point (past simple); not wanting to swim continues to now (present perfect)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The rate of inflation ___ to 4.8%. It's the first time in nearly two years that the rate has fallen below 5%.",
+      "options": ["has dropped", "dropped", "had dropped"],
+      "answer": 0,
+      "explanation": "A news report introduces the recent event with the present perfect."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend whether they have got to know anyone nearby in all the time they have lived where they live now.",
+      "words": ["Have you met", "any of", "your neighbours", "since", "you've lived", "here?"],
+      "answer": "Have you met any of your neighbours since you've lived here?",
+      "explanation": "Both situations extend up to the present, so the since-clause takes the present perfect too."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'll probably have finished breakfast by the time the children got up.",
+      "answer": false,
+      "explanation": "I'll probably have finished breakfast by the time the children have got up. By the time + present perfect points to the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Stefan's reading has improved enormously since he ___ at school.",
+      "hint": "(be)",
+      "answers": ["has been", "'s been"],
+      "explanation": "Both the improvement and his time at school extend up to now, so the since-clause also takes the present perfect."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the time clause refer to something already finished, or to something still to come?",
+      "categories": ["A past event", "A future event"],
+      "items": [
+        { "text": "After she left hospital, she had a long holiday.", "category": 0 },
+        { "text": "After Lucas has left school, he will be spending six months in India.", "category": 1 },
+        { "text": "The minute I got the news about Anna I telephoned my parents.", "category": 0 },
+        { "text": "I'll contact you the minute I've got my exam results.", "category": 1 },
+        { "text": "Carlo's injury became apparent after he signed for Real Madrid.", "category": 0 },
+        { "text": "I'll tell you what time we're coming the moment I've heard from Emil.", "category": 1 }
+      ]
+    }
+  ]
+}

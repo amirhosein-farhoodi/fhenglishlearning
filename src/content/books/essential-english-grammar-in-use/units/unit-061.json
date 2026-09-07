@@ -1,0 +1,168 @@
+{
+  "number": 61,
+  "title": "Whose is this? It's mine/yours/hers etc.",
+  "subtitle": "It's my money. = It's mine.",
+  "summary": "Use mine, ours, yours, his, hers and theirs without a noun, and ask Whose ... ? to find out who the owner is.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "my -> mine, our -> ours ...",
+      "columns": ["subject", "+ noun", "no noun"],
+      "rows": [
+        ["I", "my money", "mine"],
+        ["we", "our money", "ours"],
+        ["you", "your money", "yours"],
+        ["he", "his money", "his"],
+        ["she", "her money", "hers"],
+        ["they", "their money", "theirs"]
+      ],
+      "note": "It's **my** money. = It's **mine**."
+    },
+    {
+      "type": "explain",
+      "heading": "my / your + noun",
+      "text": "We use **my**, **your**, **her** etc. with a noun after them: *my hands*, *your book*.",
+      "examples": [
+        { "text": "**My hands** are cold." },
+        { "text": "Is this **your book**?" },
+        { "text": "Helen gave me **her umbrella**." },
+        { "text": "It's **their problem**, not **our problem**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "mine / yours with no noun",
+      "text": "We use **mine**, **yours**, **hers** etc. alone. There is no noun after them.",
+      "examples": [
+        { "text": "Is this book **mine** or **yours**?", "note": "= my book or your book" },
+        { "text": "I didn't have an umbrella, so Helen gave me **hers**.", "note": "= her umbrella" },
+        { "text": "It's their problem, not **ours**.", "note": "= not our problem" },
+        { "text": "We went in our car, and they went in **theirs**.", "note": "= their car" }
+      ],
+      "note": "**his** is the same with and without a noun: *A:* Is this **his camera** or **hers**? *B:* It's **his**."
+    },
+    {
+      "type": "explain",
+      "heading": "a friend of mine",
+      "text": "After *a friend of* or *some friends of* we use **mine**, **his**, **yours** etc.",
+      "examples": [
+        { "text": "I went out to meet a friend **of mine**.", "wrong": "a friend of me" },
+        { "text": "Tom was in the restaurant with a friend **of his**.", "wrong": "a friend of him" },
+        { "text": "Are those people friends **of yours**?", "wrong": "friends of you" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Whose ... ?",
+      "text": "**Whose** asks who the owner is. Somebody finds a notebook with no name in it and asks: **Whose** book is this? You can use *whose* with a noun or without one.",
+      "examples": [
+        { "text": "**Whose book** is this?", "note": "= Is it your book? his book? my book?" },
+        { "text": "*A:* **Whose money** is this? *or* **Whose** is this? *B:* It's mine." },
+        { "text": "*A:* **Whose shoes** are these? *or* **Whose** are these? *B:* They're John's." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never put a noun after **mine/yours/hers**: *That's not my umbrella. **Mine** is black*, not ~~Mine umbrella is black~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's my bag. It's ___.",
+      "hint": "(I)",
+      "answers": ["mine"],
+      "explanation": "my + noun -> mine with no noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They're her shoes. They're ___.",
+      "hint": "(she)",
+      "answers": ["hers"],
+      "explanation": "her + noun -> hers with no noun."
+    },
+    {
+      "type": "mcq",
+      "prompt": "That's not ___ umbrella. Mine is black.",
+      "options": ["my", "mine", "me"],
+      "answer": 0,
+      "explanation": "There is a noun (umbrella) after it, so we need my."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the word come before a noun, or does it stand alone?",
+      "categories": ["before a noun (my book)", "alone (It's mine)"],
+      "items": [
+        { "text": "my", "category": 0 },
+        { "text": "mine", "category": 1 },
+        { "text": "our", "category": 0 },
+        { "text": "ours", "category": 1 },
+        { "text": "your", "category": 0 },
+        { "text": "yours", "category": 1 },
+        { "text": "their", "category": 0 },
+        { "text": "theirs", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is a nice camera. Is it ___?",
+      "hint": "(you)",
+      "answers": ["yours"],
+      "explanation": "There is no noun after it, so we use yours."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They've got two children, but I don't know ___ names.",
+      "hint": "(they)",
+      "answers": ["their"],
+      "explanation": "names is a noun, so we need their."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Can we use your washing machine? ___ isn't working.",
+      "options": ["Ours", "Our", "Us"],
+      "answer": 0,
+      "explanation": "Ours = our washing machine. There is no noun, so we use ours."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My room is bigger than ___.",
+      "hint": "(she)",
+      "answers": ["hers"],
+      "explanation": "hers = her room. There is no noun after than."
+    },
+    {
+      "type": "matching",
+      "prompt": "People are asking who the owner is. Match each question with the answer.",
+      "pairs": [
+        { "left": "Whose car is this?", "right": "It's theirs." },
+        { "left": "Whose camera is this?", "right": "It's hers." },
+        { "left": "Whose gloves are these?", "right": "They're mine." },
+        { "left": "Whose hat is this?", "right": "It's his." },
+        { "left": "Whose money is this?", "right": "It's yours." },
+        { "left": "Whose books are these?", "right": "They're ours." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had dinner with some ___.",
+      "hint": "(friends / we)",
+      "answers": ["friends of ours"],
+      "explanation": "After some friends of we use ours, not us."
+    },
+    {
+      "type": "true_false",
+      "statement": "I went out to meet a friend of me.",
+      "answer": false,
+      "explanation": "I went out to meet a friend of mine. After a friend of we use mine."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Some books are on the table and you don't know who the owner is. Put the words in order.",
+      "words": ["Whose", "books", "are", "these?", "Yours", "or", "mine?"],
+      "answer": "Whose books are these? Yours or mine?",
+      "explanation": "Whose + noun asks who the owner is, and yours/mine stand alone with no noun."
+    }
+  ]
+}

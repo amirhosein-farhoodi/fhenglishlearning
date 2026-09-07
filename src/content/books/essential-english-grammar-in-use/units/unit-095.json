@@ -1,0 +1,253 @@
+{
+  "number": 95,
+  "title": "still yet already",
+  "subtitle": "still raining / not yet / already here",
+  "summary": "Use still for a situation that has not changed, yet for until now in negatives and questions, and already for earlier than expected.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "still",
+      "text": "A man looks out of the window. An hour ago it was raining. He looks out again now and the rain has not stopped. **still** means the situation is the same as before.",
+      "examples": [
+        {
+          "text": "An hour ago it was raining. It is **still** raining now."
+        },
+        {
+          "text": "I had a lot to eat, but I'm **still** hungry.",
+          "note": "= I was hungry before, and I'm hungry now"
+        },
+        {
+          "text": "*A:* Did you sell your car? *B:* No, I've **still** got it."
+        },
+        {
+          "text": "*A:* Do you **still** live in Barcelona? *B:* No, I live in Madrid now."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "yet",
+      "text": "Two friends are sitting on a sofa. Twenty minutes ago they were waiting for Bill. Now they are **still** waiting and Bill has**n't** come **yet**. **yet** means until now. We use it in negative sentences and in questions, and it usually goes at the end.",
+      "examples": [
+        {
+          "text": "*A:* Where's Emma? *B:* She is**n't** here **yet**.",
+          "note": "= she will be here, but until now she hasn't come"
+        },
+        {
+          "text": "*A:* What are you doing this evening? *B:* I do**n't** know **yet**."
+        },
+        {
+          "text": "*A:* Are you ready to go **yet**? *B:* **Not yet**. In a minute."
+        },
+        {
+          "text": "*A:* Have you finished with the newspaper **yet**? *B:* No, I'm **still** reading it."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "yet and still",
+      "left": {
+        "label": "yet - negative or question",
+        "text": "yet goes at the end of the sentence.",
+        "examples": [
+          "She hasn't gone **yet**.",
+          "I haven't finished eating **yet**.",
+          "Has Helen arrived **yet**?"
+        ]
+      },
+      "right": {
+        "label": "still - positive",
+        "text": "still goes with the verb in the middle.",
+        "examples": [
+          "She's **still** here.",
+          "I'm **still** eating.",
+          "They are **still** waiting for Bill."
+        ]
+      },
+      "note": "*She's still here*, not ~~she is yet here~~."
+    },
+    {
+      "type": "explain",
+      "heading": "already",
+      "text": "**already** means earlier than expected. It goes with the verb in the middle of the sentence.",
+      "examples": [
+        {
+          "text": "*A:* What time is Joe coming? *B:* He's **already** here.",
+          "note": "= earlier than we expected"
+        },
+        {
+          "text": "*A:* I'm going to tell you what happened. *B:* That's not necessary. I **already** know."
+        },
+        {
+          "text": "Sarah isn't coming to the cinema with us. She has **already** seen the film."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where does the word go?",
+      "columns": [
+        "Word",
+        "Position",
+        "Example"
+      ],
+      "rows": [
+        [
+          "still",
+          "in the middle, with the verb",
+          "It **is still** raining."
+        ],
+        [
+          "yet",
+          "at the end, in negatives and questions",
+          "Bill has**n't** come **yet**."
+        ],
+        [
+          "already",
+          "in the middle, with the verb",
+          "She **has already** seen the film."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*He hasn't come yet* and *He is still here* say the same thing in two ways: **yet** with a negative, **still** with a positive."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I had a lot to eat, but I'm ___ hungry.",
+      "hint": "(still / yet)",
+      "answers": [
+        "still"
+      ],
+      "explanation": "Nothing has changed - I was hungry before and I am hungry now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where's Emma? *B:* She isn't here ___.",
+      "hint": "(still / yet)",
+      "answers": [
+        "yet"
+      ],
+      "explanation": "yet goes at the end of a negative sentence."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* What time is Joe coming? *B:* He's ___ here.",
+      "options": [
+        "already",
+        "yet",
+        "still"
+      ],
+      "answer": 0,
+      "explanation": "already = earlier than we expected."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        {
+          "left": "Are you ready to go yet?",
+          "right": "Not yet. In a minute."
+        },
+        {
+          "left": "Have you finished with the newspaper yet?",
+          "right": "No, I'm still reading it."
+        },
+        {
+          "left": "What time is Joe coming?",
+          "right": "He's already here."
+        },
+        {
+          "left": "Did you sell your car?",
+          "right": "No, I've still got it."
+        },
+        {
+          "left": "Do you still live in Barcelona?",
+          "right": "No, I live in Madrid now."
+        }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Two years ago Tina was a student. Ask her about now.",
+      "words": [
+        "Are",
+        "you",
+        "still",
+        "a student?"
+      ],
+      "answer": "Are you still a student?",
+      "explanation": "still comes after are."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Two years ago Tina had a motorbike. Ask her about now.",
+      "words": [
+        "Have",
+        "you",
+        "still",
+        "got",
+        "a motorbike?"
+      ],
+      "answer": "Have you still got a motorbike?",
+      "explanation": "still goes between the two verbs: Have you still got ...?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He is still looking for work. He ___ a job yet.",
+      "hint": "(not / find)",
+      "answers": [
+        "hasn't found",
+        "has not found"
+      ],
+      "explanation": "With yet we use a negative: He hasn't found a job yet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are waiting for Helen. She wasn't here ten minutes ago. You ask somebody: Is Helen ___?",
+      "hint": "(yet)",
+      "answers": [
+        "here yet"
+      ],
+      "explanation": "yet goes at the end of the question."
+    },
+    {
+      "type": "true_false",
+      "statement": "They are still waiting. Bill hasn't come yet.",
+      "answer": true,
+      "explanation": "Correct. still goes in the middle of a positive sentence and yet at the end of a negative one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I have to see Julia before she goes. *B:* It's too late. She ___.",
+      "hint": "(already / go)",
+      "answers": [
+        "has already gone",
+        "'s already gone",
+        "has already left",
+        "'s already left"
+      ],
+      "explanation": "She went earlier than you expected: She's already gone."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah has seen already the film.",
+      "answer": false,
+      "explanation": "Sarah has already seen the film. already goes between has and seen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Shall I tell Paul about the meeting? *B:* No, he ___. I told him.",
+      "hint": "(already)",
+      "answers": [
+        "already knows"
+      ],
+      "explanation": "already comes before the main verb knows."
+    }
+  ]
+}

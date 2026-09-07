@@ -1,0 +1,172 @@
+{
+  "number": 40,
+  "title": "I am, I don't etc.",
+  "subtitle": "She isn't tired, but he is.",
+  "summary": "Use a short form with am/is/have/do/can etc. so that you do not repeat the same words twice.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Don't repeat the words",
+      "text": "A woman says 'I'm not tired.' The man with her says 'I am.' This means *he is tired*. In the same way, a man says 'Yes, I do' when a woman asks 'Do you like tea?', and she says 'No, I don't.' He likes tea, but **she doesn't**. It is not necessary to repeat the words *tired* or *like tea*.",
+      "examples": [
+        { "text": "She isn't tired, but **he is**.", "note": "he is = he is tired" },
+        { "text": "He likes tea, but **she doesn't**.", "note": "she doesn't = she doesn't like tea" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs you can use in this way",
+      "columns": ["Verb", "Example"],
+      "rows": [
+        ["am / is / are", "I'm not married, but my brother **is**."],
+        ["was / were", "*A:* Are you tired? *B:* I **was**, but I'm not now."],
+        ["have / has", "I haven't got a car, but my sister **has**."],
+        ["do / does / did", "I don't like hot weather, but Sue **does**."],
+        ["can", "*A:* Please help me. *B:* I'm sorry. I **can't**."],
+        ["will", "Karen won't be here, but Chris **will**."],
+        ["might", "*A:* Do you think Jane will phone? *B:* She **might**."],
+        ["must", "*A:* Are you going now? *B:* Yes, I'm afraid I **must**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "No short forms like 's or 've",
+      "text": "You cannot end a sentence with **'m** / **'s** / **'ve**. You must use the full word **am**, **is**, **have** etc. But you *can* use the negative short forms **isn't**, **haven't**, **won't**.",
+      "examples": [
+        { "text": "She isn't tired, but he **is**.", "wrong": "but he's" },
+        { "text": "My sister has got a car, but I **haven't**." },
+        { "text": "*A:* Are you and Jane working tomorrow? *B:* I am, but Jane **isn't**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Yes and No answers",
+      "text": "We use the same short forms after **Yes** and **No**. We do not repeat the whole sentence.",
+      "examples": [
+        { "text": "*A:* Are you tired? *B:* Yes, **I am**. / No, **I'm not**." },
+        { "text": "*A:* Will Alan be here tomorrow? *B:* Yes, **he will**. / No, **he won't**." },
+        { "text": "*A:* Is there a bus to the airport? *B:* Yes, **there is**. / No, **there isn't**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do / does for the present",
+      "text": "For the present simple (*like*, *work*, *watch* etc.) we use **do** and **does**.",
+      "examples": [
+        { "text": "I don't like hot weather, but Sue **does**.", "note": "Sue likes hot weather" },
+        { "text": "Sue works hard, but I **don't**.", "note": "I don't work hard" },
+        { "text": "*A:* Do you enjoy your work? *B:* Yes, I **do**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "did for the past",
+      "text": "For the past simple (*enjoyed*, *had*, *rained* etc.) we use **did**.",
+      "examples": [
+        { "text": "*A:* Did you and Chris enjoy the film? *B:* I **did**, but Chris **didn't**." },
+        { "text": "*A:* I had a good time. *B:* I **did** too." },
+        { "text": "*A:* Did it rain yesterday? *B:* No, it **didn't**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After *Yes* or *No* use the full verb: *Yes, I am*, not ~~Yes, I'm~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Kate wasn't hungry, but we ___ .",
+      "hint": "(one verb only)",
+      "answers": ["were"],
+      "explanation": "we + past of be = we were (we were hungry)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not married, but my brother ___ .",
+      "hint": "(one verb only)",
+      "answers": ["is"],
+      "explanation": "my brother = he, so we say is (he is married)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the verb that finishes it.",
+      "pairs": [
+        { "left": "I haven't seen the film, but Tom", "right": "has." },
+        { "left": "Karen won't be here, but Chris", "right": "will." },
+        { "left": "Bill can't help you, but I", "right": "can." },
+        { "left": "You weren't late, but I", "right": "was." },
+        { "left": "I don't like hot weather, but Sue", "right": "does." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "She isn't tired, but he ___ .",
+      "options": ["is", "'s", "does"],
+      "answer": 0,
+      "explanation": "You cannot end with the short form 's. Say: but he is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was working, but my friends ___ .",
+      "hint": "(negative)",
+      "answers": ["weren't", "were not"],
+      "explanation": "my friends = they, so the negative is weren't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm ready to go, but Tom ___ .",
+      "hint": "(negative)",
+      "answers": ["isn't", "is not", "'s not"],
+      "explanation": "Tom = he, so the negative is isn't."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verb finishes each sentence: do, does or did?",
+      "categories": ["do", "does", "did"],
+      "items": [
+        { "text": "*A:* Do you enjoy your work? *B:* Yes, I ___ .", "category": 0 },
+        { "text": "You don't know Paul very well, but I ___ .", "category": 0 },
+        { "text": "I don't watch TV much, but Peter ___ .", "category": 1 },
+        { "text": "My mother wears glasses, and my father ___ too.", "category": 1 },
+        { "text": "I didn't enjoy the party, but my friends ___ .", "category": 2 },
+        { "text": "*A:* Did it rain yesterday? *B:* Yes, it ___ .", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve is happy today, but he ___ yesterday.",
+      "hint": "(negative)",
+      "answers": ["wasn't", "was not"],
+      "explanation": "yesterday = past, so we use the past negative wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I haven't got a telescope, but I know somebody who ___ .",
+      "hint": "(one verb only)",
+      "answers": ["has"],
+      "explanation": "somebody = he/she, so we say has (has got a telescope)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would like to help you, but I'm afraid I ___ .",
+      "hint": "(negative)",
+      "answers": ["can't", "cannot", "can not"],
+      "explanation": "I can't = I can't help you."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Are you tired? *B:* Yes, I'm.",
+      "answer": false,
+      "explanation": "Yes, I am. After Yes we use the full form am, not I'm."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Do you think Sarah will pass her driving test? Put B's answer in order.",
+      "words": ["Yes,", "I'm", "sure", "she", "will."],
+      "answer": "Yes, I'm sure she will.",
+      "explanation": "she will = she will pass her driving test."
+    }
+  ]
+}

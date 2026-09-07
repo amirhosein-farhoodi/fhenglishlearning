@@ -1,0 +1,165 @@
+{
+  "number": 14,
+  "title": "I was doing (past continuous) and I did (past simple)",
+  "subtitle": "I was reading / I read",
+  "summary": "Use the past continuous for the longer, unfinished action and the past simple for the short, complete action.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Jack and the phone",
+      "text": "Jack was reading a book. Then the phone rang. He stopped reading and answered the phone. What **happened**? The phone **rang**. What **was** Jack **doing** when the phone rang? He **was reading** a book. What **did** he **do** when the phone rang? He **stopped** reading and **answered** the phone.",
+      "examples": [
+        { "text": "The phone **rang**.", "note": "past simple - a short, finished action" },
+        { "text": "He **was reading** a book.", "note": "past continuous - the longer action" },
+        { "text": "He **stopped** reading and **answered** the phone.", "note": "past simple" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Which action started first?",
+      "text": "Jack began reading *before* the phone rang. So *when* the phone rang, he **was reading**. The reading started first and was not finished. The phone call came in the middle of it.",
+      "examples": [
+        { "text": "Jack **was reading** a book **when** the phone **rang**." },
+        { "text": "**It was raining** when we **went** out.", "note": "= it started raining before we went out" },
+        { "text": "Kelly **fell** asleep while she **was reading**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Three questions about the same story",
+      "columns": ["Question", "Answer", "Tense"],
+      "rows": [
+        ["What happened?", "The phone rang.", "past simple"],
+        ["What was Jack doing?", "He was reading a book.", "past continuous"],
+        ["What did he do?", "He stopped reading.", "past simple"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Complete action or unfinished action?",
+      "left": {
+        "label": "past simple: we played (complete action)",
+        "text": "*A:* What **did** you **do** yesterday morning? *B:* We **played** tennis. (from 10 to 11.30)",
+        "examples": [
+          "Jack **read** a book yesterday. (= from beginning to end)",
+          "**Did** you **watch** the film on television last night?",
+          "**It didn't rain** while we were on holiday."
+        ]
+      },
+      "right": {
+        "label": "past continuous: we were playing (unfinished action)",
+        "text": "*A:* What **were** you **doing** at 10.30? *B:* We **were playing** tennis.",
+        "examples": [
+          "Jack **was reading** a book when the phone rang.",
+          "**Were** you **watching** television when I phoned you?",
+          "**It wasn't raining** when I got up."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "More examples",
+      "text": "The past simple gives us the whole action from start to finish. The past continuous puts us in the middle of the action.",
+      "examples": [
+        { "text": "I **started** work at 9 o'clock and **finished** at 4.30. At 2.30 **I was working**." },
+        { "text": "I **saw** Lucy and Steve this morning. They **were waiting** at the bus stop." },
+        { "text": "Yesterday Sue **was walking** along the road when she **met** James." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The long action takes was/were + -ing; the short action that comes in the middle takes the past simple: *Kelly **fell** asleep while she **was reading**.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Lucy broke her arm last week. It ___ when she was painting her room.",
+      "hint": "(happen)",
+      "answers": ["happened"],
+      "explanation": "A short, finished action: it happened (past simple)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Was Jane busy when you went to see her?' 'Yes, she ___.'",
+      "hint": "(study)",
+      "answers": ["was studying"],
+      "explanation": "She was in the middle of studying, so: she was studying."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jack ___ a book when the phone rang.",
+      "options": ["was reading", "read", "did read"],
+      "answer": 0,
+      "explanation": "The reading started before the phone call, so the longer action takes the past continuous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The train ___ at the station and Paula got off.",
+      "hint": "(arrive)",
+      "answers": ["arrived"],
+      "explanation": "A short, complete action: the train arrived."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paula got off the train. Her friends Jon and Rachel ___ to meet her.",
+      "hint": "(wait)",
+      "answers": ["were waiting"],
+      "explanation": "They started waiting before she arrived: they were waiting."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know about the post this morning. Ask the question.",
+      "words": ["What", "time", "did", "the", "post", "arrive", "this morning?"],
+      "answer": "What time did the post arrive this morning?",
+      "explanation": "Past simple question: did + subject + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The post came while ___ breakfast.",
+      "hint": "(I / have)",
+      "answers": ["I was having"],
+      "explanation": "The breakfast was the longer action: while I was having breakfast."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the action complete (past simple) or unfinished (past continuous)?",
+      "categories": ["Complete action", "Unfinished action"],
+      "items": [
+        { "text": "We played tennis from 10 to 11.30.", "category": 0 },
+        { "text": "At 10.30 we were playing tennis.", "category": 1 },
+        { "text": "Jack read a book yesterday.", "category": 0 },
+        { "text": "Jack was reading when the phone rang.", "category": 1 },
+        { "text": "It didn't rain while we were on holiday.", "category": 0 },
+        { "text": "It wasn't raining when I got up.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Kelly fell asleep while she was reading.",
+      "answer": true,
+      "explanation": "Correct. The short action (fell asleep) is past simple; the long action (was reading) is past continuous."
+    },
+    {
+      "type": "true_false",
+      "statement": "I saw Lucy and Steve this morning. They waited at the bus stop.",
+      "answer": false,
+      "explanation": "They were waiting at the bus stop. They started waiting before I saw them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'How fast ___ when the police stopped you?' 'I'm not sure, but I wasn't driving very fast.'",
+      "hint": "(you / drive)",
+      "answers": ["were you driving"],
+      "explanation": "The driving was in progress when the police stopped you: were you driving."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'How did you break the window?' 'We were playing football. I kicked the ball and it ___ the window.'",
+      "hint": "(hit)",
+      "answers": ["hit"],
+      "explanation": "A short, complete action: it hit the window (past simple)."
+    }
+  ]
+}

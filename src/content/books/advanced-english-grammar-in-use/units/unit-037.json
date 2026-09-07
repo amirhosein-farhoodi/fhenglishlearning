@@ -1,0 +1,164 @@
+{
+  "number": 37,
+  "title": "Modal verbs in reporting",
+  "subtitle": "He said that he could meet us at the airport.",
+  "summary": "Know which modal verbs stay the same when you report them, which shift back, and when will, can and may can be kept.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "What happens to the modal?",
+      "columns": ["In the original", "In the report"],
+      "rows": [
+        ["could, would, should, might, needn't, ought to, used to, could have, should have", "no change"],
+        ["will, can, may", "would, could, might - or unchanged if the situation still exists or is in the future"],
+        ["shall (future)", "would"],
+        ["shall (offers, requests for advice)", "should"],
+        ["must (= necessity)", "must or had to"],
+        ["must (= I conclude)", "must"],
+        ["mustn't", "mustn't"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Modals that never change",
+      "text": "**could, would, should, might, needn't, ought to, used to** and their perfect forms are already 'past' in form, so they stay exactly as they were.",
+      "examples": [
+        { "text": "'I could meet you at the airport.' -> He said that he **could** meet us at the airport." },
+        { "text": "'We might drop in if we have time.' -> They said they **might** drop in if they have time." },
+        { "text": "'You should have contacted me earlier.' -> She said I **should have contacted** her earlier." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "will, can, may - shift back or keep?",
+      "left": {
+        "label": "Shift back",
+        "text": "The normal change is will -> would, can -> could, may -> might, especially when the situation is over.",
+        "examples": ["'She may have already left.' -> He thought she **might** have already left.", "'Careful! You'll fall through the ice!' -> I warned him he **would** fall through the ice.", "'I can't repair the radiator.' -> The mechanic admitted he **couldn't** repair the radiator."]
+      },
+      "right": {
+        "label": "Keep the original modal",
+        "text": "If the situation still exists or is still in the future, keep will / can / may after a **present** reporting verb. After a **past** reporting verb, either form is possible.",
+        "examples": ["'I'll be in Paris at Christmas.' -> She tells me she**'ll** be in Paris at Christmas.", "'Maxim can come after all.' -> Maxim tells me he **can** come for dinner tonight.", "'The problem can be solved.' -> They said the problem **can / could** be solved."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "shall",
+      "text": "**shall** for the future is reported as *would*. **shall** in offers and requests for advice is reported as *should*.",
+      "examples": [
+        { "text": "'I shall (I'll) call you on Monday.' -> She told me she **would** call me on Monday." },
+        { "text": "'Where shall I put this box?' -> He asked where he **should** put the box." },
+        { "text": "'Where shall we meet?' -> She asked where we **should** meet." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "must and mustn't",
+      "text": "When **must** expresses necessity, the report keeps *must* or uses *had to* (more natural in speech). When *must* means 'I conclude', it never changes. **mustn't** never changes either.",
+      "examples": [
+        { "text": "'You must be home by 9 o'clock.' -> She said I **must / had to** be home by 9 o'clock." },
+        { "text": "'I didn't hear the phone. I must be going deaf.' -> Alex thought he **must** be going deaf.", "wrong": "he had to be going deaf" },
+        { "text": "'You mustn't tell my brother.' -> He warned me that I **mustn't** tell his brother." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A modal where there was none",
+      "text": "Sometimes the original has no modal verb at all, but the natural report uses one.",
+      "examples": [
+        { "text": "'You're not allowed to smoke here.' -> She told me that I **mustn't** smoke there." },
+        { "text": "'My advice is to look for a new job now.' -> She said that I **should** look for a new job now." },
+        { "text": "'It's vital that you attend the meeting.' -> She said that I **had to / must** attend the meeting." }
+      ]
+    },
+    { "type": "tip", "text": "Before shifting *will*, *can* or *may* back, check the reporting verb: if it is present and the situation is still ahead, leave the modal alone." }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The doctor says that he ___ see you in 20 minutes.",
+      "options": ["will", "would", "shall"],
+      "answer": 0,
+      "explanation": "The reporting verb is present and the appointment is still in the future, so will stays."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maxim tells me that he ___ come for dinner with us tonight after all.",
+      "hint": "(can / could)",
+      "answers": ["can"],
+      "explanation": "A present reporting verb plus a situation that is still ahead keeps can."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Inge promised that she ___ be at home by nine, so I phoned her shortly after that.",
+      "hint": "(will / would)",
+      "answers": ["would"],
+      "explanation": "The promise and the time it referred to are both over, so will shifts to would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The mechanic admitted that he ___ repair the radiator and had to replace it instead.",
+      "hint": "(can't / couldn't)",
+      "answers": ["couldn't", "could not"],
+      "explanation": "The situation is finished, so can't becomes couldn't."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each set of words with its report.",
+      "pairs": [
+        { "left": "'You're not allowed to smoke here.'", "right": "She told me that I mustn't smoke there." },
+        { "left": "'My advice is to look for a new job now.'", "right": "She said that I should look for a new job now." },
+        { "left": "'It's vital that you attend the meeting.'", "right": "She said that I had to attend the meeting." },
+        { "left": "'Karl's likely to be back soon.'", "right": "She said that Karl would be back soon." },
+        { "left": "'There's a possibility that I'll have to move to Milan.'", "right": "She said that she might have to move to Milan." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the modal verb usually stay the same when reported, or shift to another form?",
+      "categories": ["Stays the same", "Usually shifts"],
+      "items": [
+        { "text": "could", "category": 0 },
+        { "text": "ought to", "category": 0 },
+        { "text": "needn't", "category": 0 },
+        { "text": "mustn't", "category": 0 },
+        { "text": "will", "category": 1 },
+        { "text": "can", "category": 1 },
+        { "text": "may", "category": 1 },
+        { "text": "shall", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I'll pay for the meal.' -> He insisted that he ___ for the meal and I accepted, of course.",
+      "hint": "(pay)",
+      "answers": ["would pay"],
+      "explanation": "The offer is over, so will becomes would."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I shall be there this time.' -> She promised that she ___ there this time.",
+      "hint": "(be)",
+      "answers": ["would be"],
+      "explanation": "shall talking about the future is reported as would."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report the question 'Where shall I put this box?'",
+      "words": ["He asked", "where", "he should", "put", "the box"],
+      "answer": "He asked where he should put the box",
+      "explanation": "shall in a request for advice is reported as should."
+    },
+    { "type": "true_false", "statement": "'I didn't hear the phone. I must be going deaf.' -> Alex thought he had to be going deaf.", "answer": false, "explanation": "Alex thought he must be going deaf. When must means 'I conclude', it never changes to had to." },
+    {
+      "type": "fill_blank",
+      "prompt": "'You mustn't forget to bring your student discount card.' -> She said that I ___ to bring my student discount card.",
+      "hint": "(forget)",
+      "answers": ["mustn't forget", "must not forget"],
+      "explanation": "mustn't stays as it is in the report; only the pronouns change."
+    },
+    { "type": "true_false", "statement": "'You should have contacted me earlier.' -> She said I should have contacted her earlier.", "answer": true, "explanation": "Correct. should have + past participle is already a past form, so it does not change." }
+  ]
+}

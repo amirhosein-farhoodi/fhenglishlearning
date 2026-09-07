@@ -1,0 +1,179 @@
+{
+  "number": 84,
+  "title": "If 2",
+  "subtitle": "Had they not rushed Jo to hospital ... / if you happen to ...",
+  "summary": "Drop if and invert with should, were and had, know when if ... will is possible, use if ... happen to for unlikely events, and make comparisons with as if.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Leaving out if: should, were, had",
+      "text": "When the first verb in a conditional if-clause is **should**, **were** or **had**, we can leave out *if* and put the verb at the start of the clause. This is formal or literary, and only happens in hypothetical conditionals - the ones that answer 'What would happen if ...?'",
+      "examples": [
+        { "text": "**Should** any of this cost you anything, send me the bill.", "note": "= If any of this should cost ..." },
+        { "text": "It would be embarrassing, **were** she to find out the truth.", "note": "= ... if she were to find out ..." },
+        { "text": "**Had** they not rushed Jo to hospital, she would have died.", "note": "= If they hadn't rushed Jo ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if ... will for a result",
+      "left": {
+        "label": "Possible - the if-clause is the result of the main clause",
+        "examples": [
+          "Open a window **if it will help** you to sleep.",
+          "'Helping you to sleep' is the result of opening the window (or ... if it helps you to sleep)."
+        ]
+      },
+      "right": {
+        "label": "Not possible - no result relationship",
+        "examples": [
+          "I will be angry **if it turns out** that you are wrong.",
+          "not ... if it will turn out that you are wrong"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "if ... will in requests",
+      "text": "We also use **if ... will** in requests, with the meaning 'if you are willing to'. **If ... would** is more polite.",
+      "examples": [
+        { "text": "**If you will** / **would** take your seats, ladies and gentlemen, we can begin the meeting." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if ... will for disapproval; if ... won't for a refusal",
+      "text": "In real conditionals we can use **if ... will** to show that we disapprove of something. In speech *will* is stressed. **If ... won't** talks about a refusal to do something.",
+      "examples": [
+        { "text": "*A:* I'm tired. *B:* Well, if you **will** go to bed so late, I'm not surprised." },
+        { "text": "There's no point in trying to teach the class **if they won't** pay attention." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if ... happen to; if ... should",
+      "text": "In a real conditional we use **if ... happen to**, **if ... should** or **if ... should happen to** for something that may be possible but is not very likely. *If ... happen to* is the most common in speech.",
+      "examples": [
+        { "text": "**If you happen to** be in our area, drop in and see us.", "note": "or If you should (happen to) be ..." }
+      ],
+      "note": "We don't use this pattern in unreal conditionals about states or events the speaker sees as highly unlikely or impossible: If the North Sea froze in winter, you could walk from London to Oslo. (but probably not If the North Sea happened to freeze ...)"
+    },
+    {
+      "type": "explain",
+      "heading": "as if in comparison clauses",
+      "text": "In comparison clauses **as if** can be followed by a noun phrase, an -ing clause, a past participle clause or a to-infinitive. We use it to explain something, or to say that something appears to be the case but is not.",
+      "examples": [
+        { "text": "Magnus walked in **as if** nothing had happened." },
+        { "text": "His hands made a circular motion, **as if steering** a bus through a sharp bend." },
+        { "text": "When he caught the ball, Lee fell to the floor **as if hit** by a bullet." },
+        { "text": "**As if to convince** herself that Luis was really there, she gently touched his cheek." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "as though and like",
+      "text": "We can use **as though** instead of as if. In informal speech some people use **like** with the same meaning.",
+      "examples": [
+        { "text": "The crowd reacted **as though** they were watching a boxing match.", "note": "or ... as if ..." },
+        { "text": "He walked into the room **like** nothing had happened.", "note": "informal; or ... as if ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Inversion only works with should, were and had - you cannot drop if in front of any other verb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ the symptoms remain 72 hours after starting the course of medicine, consult your doctor again.",
+      "hint": "(Should / Were / Had)",
+      "answers": ["Should"],
+      "explanation": "Should + subject replaces if ... should in formal instructions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ Clare's friends still living in Brussels, she would have been able to stay with them.",
+      "hint": "(Should / Were / Had)",
+      "answers": ["Were"],
+      "explanation": "if they were still living becomes Were they still living, with if dropped."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'You would know what you have to do for homework, if you had not been absent from school on Friday' beginning with Had.",
+      "words": ["Had you not been absent", "from school on Friday,", "you would know", "what you have to do", "for homework."],
+      "answer": "Had you not been absent from school on Friday, you would know what you have to do for homework.",
+      "explanation": "if you had not been absent inverts to Had you not been absent."
+    },
+    {
+      "type": "true_false",
+      "statement": "If I will press this button, will it start to record?",
+      "answer": false,
+      "explanation": "If I press this button, will it start to record? Pressing the button is not the result of the recording, so if ... will is not possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "You're welcome to borrow my old bike, if you think it will be of any use to you.",
+      "answer": true,
+      "explanation": "Correct. Being of use is the result of borrowing the bike, so if ... will works."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I will be angry if it ___ that you are wrong.",
+      "options": ["turns out", "will turn out", "would turn out"],
+      "answer": 0,
+      "explanation": "There is no result relationship here, so we use the present simple after if."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you'll complain about me, I'll get into trouble with my teacher.",
+      "answer": false,
+      "explanation": "If you complain about me, I'll get into trouble with my teacher. Your complaining is not the result of my getting into trouble."
+    },
+    {
+      "type": "true_false",
+      "statement": "If he won't resign, the Prime Minister should sack him.",
+      "answer": true,
+      "explanation": "Correct. if ... won't talks about a refusal to do something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ see Georgia when I'm in Rome, I'll send her your regards.",
+      "hint": "(happen)",
+      "answers": ["happen to"],
+      "explanation": "if ... happen to marks something that is possible but not very likely."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can the if-clause be rewritten with happen to, or is the situation too unlikely for that pattern?",
+      "categories": ["happen to works", "Too unlikely - keep the past simple"],
+      "items": [
+        { "text": "If I see Georgia when I'm in Rome, I'll send her your regards.", "category": 0 },
+        { "text": "The plan for a new airport outside London is bad news if you live nearby.", "category": 0 },
+        { "text": "If you are in the south of Spain next week, there is a good chance of seeing a total eclipse of the sun.", "category": 0 },
+        { "text": "If a UFO landed in the centre of New York, there would be mass panic.", "category": 1 },
+        { "text": "If I was the President, I would order our nuclear weapons to be destroyed.", "category": 1 },
+        { "text": "If the North Sea froze in winter, you could walk from London to Oslo.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each action with the as if clause that explains it.",
+      "pairs": [
+        { "left": "My father raised his eyebrows", "right": "as if I had said something shocking." },
+        { "left": "He folded his arms on the table and laid his head on them,", "right": "as if overcome with a great weariness." },
+        { "left": "She stared hard at the parcel", "right": "as if trying to imagine what it contained." },
+        { "left": "He nodded his head slowly", "right": "as if to agree with everything Julia said." },
+        { "left": "The back of the car looked", "right": "as if it had been reversed into a wall." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When he caught the ball, Lee fell to the floor as if ___ by a bullet.",
+      "hint": "(hit)",
+      "answers": ["hit"],
+      "explanation": "As if can be followed by a past participle clause with no subject or auxiliary."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "number": 77,
+  "title": "Degree adverbs and focus adverbs",
+  "subtitle": "I much enjoyed / too hot / only my mother",
+  "summary": "Use degree adverbs such as much and very much, keep very and too apart, and place even and only where you mean them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Degree adverbs",
+      "text": "Degree adverbs go before adjectives, verbs or other adverbs to say something about the extent or level of something. Some (almost, largely, really, virtually) usually come before the main verb; others (altogether, enormously, somewhat, tremendously) usually come after it. Degree adverbs are rarely used in front position.",
+      "examples": [
+        { "text": "They're **extremely** happy." },
+        { "text": "I **really** hate coffee." },
+        { "text": "He **almost** always arrived late." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two jobs a focus adverb can do",
+      "left": {
+        "label": "Making what we say more specific",
+        "text": "especially, even, mainly, mostly, particularly, specifically",
+        "examples": [
+          "There is likely to be snow today, **particularly** in the north.",
+          "Every penny helps, and **even** the smallest donation can make a vital difference."
+        ]
+      },
+      "right": {
+        "label": "Limiting what we say to one thing or person",
+        "text": "alone, just, only, simply, solely",
+        "examples": [
+          "Many people offered to help me invest the money, but I **only** trusted Rick.",
+          "**Only** Louis knew where the keys were kept, and nobody else."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "much before a verb",
+      "text": "In affirmative sentences in formal contexts, **much** can be used as a degree adverb before the verbs *admire, appreciate, enjoy, prefer* and *regret*, to emphasise how we feel about something. It is used like this particularly after I and we.",
+      "examples": [
+        { "text": "I **much enjoyed** having you stay with us." },
+        { "text": "Their music is **much admired**." }
+      ],
+      "note": "We don't usually use this pattern in questions: not ~~Did you much enjoy ...?~~"
+    },
+    {
+      "type": "compare",
+      "heading": "much or very much?",
+      "left": {
+        "label": "much or very much",
+        "text": "admire, appreciate, enjoy, prefer, regret",
+        "examples": [
+          "I **much prefer** seeing films at the cinema than on DVD.",
+          "or I **very much prefer** ..."
+        ]
+      },
+      "right": {
+        "label": "very much only",
+        "text": "agree, doubt, fear, hope, like, want",
+        "examples": [
+          "We **very much agree** with the decision.",
+          "or We agree very much ...; but not ~~We much agree ...~~"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "much and very much before participles",
+      "text": "Before a past participle that is part of a passive, both **much** and **very much** are possible. Before a past participle *adjective* we can use very much but not much. Before a present participle adjective we use neither.",
+      "examples": [
+        { "text": "The new by-pass was **(very) much needed**.", "note": "passive" },
+        { "text": "I was **very much surprised** by her news.", "wrong": "I was much surprised by her news", "note": "or simply I was surprised ..." },
+        { "text": "The hotel was **(very) welcoming**.", "wrong": "The hotel was very much welcoming" }
+      ],
+      "note": "In negative sentences in informal contexts, (very) much can go before appreciate, enjoy, like and look forward to: I didn't (very) much enjoy the film."
+    },
+    {
+      "type": "compare",
+      "heading": "very or too?",
+      "left": {
+        "label": "very = to a high degree",
+        "examples": [
+          "The weather was **very** hot in Majorca - perfect for swimming.",
+          "He revised **very** hard and did well in his exams."
+        ]
+      },
+      "right": {
+        "label": "too = more than enough, more than is wanted or needed",
+        "examples": [
+          "It's **too** hot to stay in this room - let's find somewhere cooler.",
+          "The old bridge was **too** narrow for the coach to drive across."
+        ]
+      },
+      "note": "In negative sentences in informal spoken English, not too can mean 'not very': I'm not too bothered about who wins."
+    },
+    {
+      "type": "explain",
+      "heading": "even and only: where you put them is what you mean",
+      "text": "Even and only usually go in mid position, but if they refer to the subject they come in front of it - and the meaning changes.",
+      "examples": [
+        { "text": "My mother has **only** brought some food.", "note": "= she hasn't brought anything else" },
+        { "text": "**Only my mother** has brought some food.", "note": "= my mother and nobody else" },
+        { "text": "Aya can **even** speak French.", "note": "= in addition to everything else she can do" },
+        { "text": "**Even Aya** can speak French.", "note": "= you might not expect her to" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before a participle, ask what kind it is: passive (*much needed*), a past participle adjective (*very much surprised*, never *much surprised*), or a present participle adjective (*very welcoming*, never *very much welcoming*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Leo was in a wheelchair as he was still ___ weak to walk far.",
+      "hint": "(very / too)",
+      "answers": ["too"],
+      "explanation": "Too = more than is wanted: he was so weak that walking far was impossible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ hope that the striking workers will now resume negotiations.",
+      "hint": "(much / very much)",
+      "answers": ["very much"],
+      "explanation": "Hope belongs to the group that takes very much only, never much on its own."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was ___ thrilling to get Marie's news.",
+      "options": ["very", "much", "very much"],
+      "answer": 0,
+      "explanation": "Thrilling is a present participle adjective, so neither much nor very much is possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would ___ prefer to be remembered as kind rather than wealthy.",
+      "hint": "(much / very much)",
+      "answers": ["much", "very much"],
+      "explanation": "Prefer is one of the verbs (with admire, appreciate, enjoy, regret) that takes either much or very much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thanks for organising the quiz night. Your help was ___ appreciated.",
+      "hint": "(much / very much)",
+      "answers": ["much", "very much"],
+      "explanation": "This is a passive past participle, so much and very much are both fine."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was much surprised by her news.",
+      "answer": false,
+      "explanation": "I was very much surprised by her news. Much on its own is not used before a past participle adjective."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Kristof says that he wants to go into politics, but I ___ doubt that he's serious.",
+      "options": ["very much", "much", "very"],
+      "answer": 0,
+      "explanation": "Doubt takes very much, like agree, fear, hope, like and want."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was snowing ___ heavily for us to climb further up the mountain.",
+      "options": ["too", "very", "so"],
+      "answer": 0,
+      "explanation": "Too + adverb + for ... to means 'more than was possible'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ellie has agreed to start work earlier, but she's not ___ enthusiastic about it.",
+      "hint": "(very / too)",
+      "answers": ["very", "too"],
+      "explanation": "Both work: in informal speech not too means much the same as not very."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ Louis knew where the keys were kept, and nobody else.",
+      "hint": "(even / only)",
+      "answers": ["Only"],
+      "explanation": "The focus adverb refers to the subject, so it comes in front of it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with what it means.",
+      "pairs": [
+        { "left": "My mother has only brought some food.", "right": "She hasn't brought anything else." },
+        { "left": "Only my mother has brought some food.", "right": "My mother and nobody else has brought any." },
+        { "left": "Aya can even speak French.", "right": "That is one more thing she can do, on top of everything else." },
+        { "left": "Even Aya can speak French.", "right": "You might not expect her to be able to." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the focus adverb make what we say more specific, or limit it to one thing or person?",
+      "categories": ["Makes it more specific", "Limits it to one thing or person"],
+      "items": [
+        { "text": "particularly", "category": 0 },
+        { "text": "only", "category": 1 },
+        { "text": "especially", "category": 0 },
+        { "text": "solely", "category": 1 },
+        { "text": "mainly", "category": 0 },
+        { "text": "simply", "category": 1 },
+        { "text": "even", "category": 0 },
+        { "text": "alone", "category": 1 }
+      ]
+    }
+  ]
+}

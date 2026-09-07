@@ -1,0 +1,162 @@
+{
+  "number": 99,
+  "title": "Inversion 1",
+  "subtitle": "In the doorway stood Alex / Had Andy asked ...",
+  "summary": "Put the verb before the subject after here and there, after adverbs of direction, in place of if, and after as and than.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two kinds of inversion",
+      "text": "Normally the verb follows the subject, but sometimes we reverse the order. Either the whole verb comes before the subject - and then inversion is often optional - or only the first auxiliary does, in which case inversion is usually necessary.",
+      "examples": [
+        { "text": "Alex stood in the doorway. / **In the doorway stood Alex.**", "note": "or In the doorway Alex stood." },
+        { "text": "I had rarely seen such a view. / **Rarely had I seen** such a view.", "wrong": "Rarely I had seen such a view" }
+      ],
+      "note": "Inversion brings about fronting: it re-orders the sentence so that an element is postponed and attention falls on it."
+    },
+    {
+      "type": "explain",
+      "heading": "Here comes ... and There goes ...",
+      "text": "In conversation we use **Here comes** + noun and **There goes** + noun for things and people moving towards or away from us. Here comes ... also says that something is about to happen, and There goes ... that something (often money) is lost, or that a phone or bell is ringing.",
+      "examples": [
+        { "text": "**Here comes** the bus. / **There goes** Per Alvin, the conductor." },
+        { "text": "**Here comes** lunch." },
+        { "text": "My bike's been stolen! **There goes** £100!" },
+        { "text": "**There goes** the phone. Can you answer it?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adverbs of direction in narrative",
+      "text": "We also put the verb before the subject after adverbs of direction such as **along, away, back, down, in, off, out, up** with verbs like come, fly and go. This is common in stories, where it marks a change in events.",
+      "examples": [
+        { "text": "The door opened and **in came the doctor**.", "note": "less formally ... and the doctor came in." },
+        { "text": "As soon as I let go of the string, **up went the balloon**, high into the sky." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Inversion instead of if",
+      "left": {
+        "label": "with if",
+        "examples": [
+          "It would be a serious setback, **if** the talks **were** to fail.",
+          "**If** you **should need** more information, please telephone our main office.",
+          "**If** Andy **had asked**, I would have been able to help."
+        ]
+      },
+      "right": {
+        "label": "with inversion - more formal",
+        "examples": [
+          "It would be a serious setback, **were the talks** to fail.",
+          "**Should you need** more information, please telephone our main office.",
+          "**Had Andy asked**, I would have been able to help."
+        ]
+      },
+      "note": "Never use a contraction in a negative inverted clause: Had the plane not been diverted, they would have arrived early. (not Hadn't the plane ...)"
+    },
+    {
+      "type": "explain",
+      "heading": "After as and than",
+      "text": "In formal written language we commonly invert subject and verb after **as** and **than** in comparisons.",
+      "examples": [
+        { "text": "Paper was invented in China, **as was** the process of printing." },
+        { "text": "Most young people did not vote in the election, **as was** the case in 2010." },
+        { "text": "I believed, **as did** my colleagues, that the plan would work." },
+        { "text": "Research shows that parents watch more television than **do** their children." }
+      ],
+      "note": "There is no inversion when the subject is a pronoun: We now know a lot more about the universe than we did ten years ago. (not ... than did we ...)"
+    },
+    {
+      "type": "tip",
+      "text": "Were, Should and Had at the front of a clause are doing the job of if - so no if is needed as well."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We'd just got to the top of the hill when ___ the rain and we got soaked.",
+      "hint": "(down / come)",
+      "answers": ["down came", "down comes"],
+      "explanation": "After an adverb of direction the verb comes before the subject; the present is also possible in narrative."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ a car been coming the other way, I might have been seriously injured.",
+      "options": ["Had", "Would", "Should"],
+      "answer": 0,
+      "explanation": "Had + subject + past participle replaces If ... had ... in formal style."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan is a keen golfer, ___ his wife.",
+      "answers": ["as is"],
+      "explanation": "After as we invert verb and subject: as is his wife."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Whenever I ask the class a question, ___ their hands and they sit patiently until I choose one of them to answer.",
+      "hint": "(up / go)",
+      "answers": ["up go"],
+      "explanation": "up + verb + subject; hands is plural, so the verb is go."
+    },
+    {
+      "type": "true_false",
+      "statement": "Paper was invented in China, as was the process of printing.",
+      "answer": true,
+      "explanation": "Correct. Inversion after as is normal in formal writing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Just when you've bought a computer that you think will last a lifetime, ___ some new software that needs an even bigger hard drive.",
+      "hint": "(along / come)",
+      "answers": ["along comes", "along came"],
+      "explanation": "along + verb + subject; the present tense fits this general comment."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each inverted clause with the rest of its sentence.",
+      "pairs": [
+        { "left": "Were the plane ever to be built,", "right": "it would cut the journey time from New York to Tokyo by four hours." },
+        { "left": "Should you not wish to receive further information about our products,", "right": "click on the box below." },
+        { "left": "Had there been a referendum on the issue,", "right": "it is unlikely that the electorate would have supported the government." },
+        { "left": "Were I offered the job,", "right": "I would have no hesitation in accepting." },
+        { "left": "Should you not be able to afford the SXL3,", "right": "there are less expensive models in the range." },
+        { "left": "Were Charles Dickens alive today,", "right": "he would be writing novels about the homeless in London." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Hadn't the plane been diverted, they would have arrived early.",
+      "answer": false,
+      "explanation": "Had the plane not been diverted, they would have arrived early. Contracted forms are not used in negative inverted clauses."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kamal went to Oxford University, ___ his sister.",
+      "answers": ["as did"],
+      "explanation": "as + do / does / did + subject repeats the earlier verb in formal writing."
+    },
+    {
+      "type": "true_false",
+      "statement": "We now know a lot more about the universe than did we ten years ago.",
+      "answer": false,
+      "explanation": "We now know a lot more about the universe than we did ten years ago. There is no inversion when the subject is a pronoun."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'If Kahn had not resigned as party leader, he would have been sacked' with inversion.",
+      "words": ["Had Kahn", "not resigned", "as party leader,", "he would", "have been sacked."],
+      "answer": "Had Kahn not resigned as party leader, he would have been sacked.",
+      "explanation": "Had + subject + not + past participle - and no if."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'If the ice hockey team wins again today, it will be their tenth consecutive victory' with inversion.",
+      "words": ["Should", "the ice hockey team", "win", "again today,", "it will be", "their tenth consecutive victory."],
+      "answer": "Should the ice hockey team win again today, it will be their tenth consecutive victory.",
+      "explanation": "Should + subject + bare infinitive replaces If ... should ... ."
+    }
+  ]
+}

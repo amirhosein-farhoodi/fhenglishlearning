@@ -1,0 +1,177 @@
+{
+  "number": 94,
+  "title": "Two- and three-word verbs: word order",
+  "subtitle": "look it up / tell them apart / talk me out of it",
+  "summary": "Decide where the object goes with two- and three-word verbs, and why a pronoun object behaves differently.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two- and three-word verbs",
+      "text": "When a verb is used with a particular preposition or adverb (a particle), the meaning is often quite different from the meaning of the separate parts. Some of these verbs take an adverb *and* a preposition.",
+      "examples": [
+        { "text": "I'll quickly **go over** the main points of the report again.", "note": "= summarise" },
+        { "text": "She had to **let** her dress **out** because she'd put on weight.", "note": "= make it larger" },
+        { "text": "Do you think he's really likely to **go through with** his threat?", "note": "= do it" },
+        { "text": "The team has failed to **live up to** earlier expectations.", "note": "= achieve what was expected" }
+      ],
+      "note": "These verbs are also called phrasal verbs."
+    },
+    {
+      "type": "explain",
+      "heading": "With an object or without?",
+      "text": "Many two-word verbs are intransitive - they never take an object. Others work both ways, sometimes with the same meaning and sometimes with a different one.",
+      "examples": [
+        { "text": "He **grew up** on a farm. / When she **came to** she found herself in hospital.", "note": "intransitive; also crop up, fall through, get up, move off, shop around, splash out" },
+        { "text": "I'll **call back** later. / I'll **call** you **back** when I get home.", "note": "same meaning either way; also answer back, clear away, cover up, help out, take over, tidy up, wash up" },
+        { "text": "The engine **cut out** and the car came to a stop. / I **cut** the picture **out** and kept it.", "note": "different meanings; also break in, hold out, look out, look up, pick up, split up, turn in, wind up" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Object before or after the adverb",
+      "text": "With many transitive two-word verbs the object can go either side of the adverb. We prefer to put a long object after the adverb.",
+      "examples": [
+        { "text": "I want to **try out** the local food. / I want to **try** the local food **out**." },
+        { "text": "She had to **clean the kitchen up**.", "note": "or ... clean up the kitchen." },
+        { "text": "She had to **clean up the mess in the kitchen**.", "note": "rather than clean the mess in the kitchen up" }
+      ],
+      "note": "Also: bring about, clean up, count out, drink up, gather up, get down, leave out, make up, mess up, shoot down, sort out, throw away, use up."
+    },
+    {
+      "type": "tip",
+      "text": "A pronoun object always sits between the verb and the adverb: You'll have to count me out, not ~~count out me~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs where the object stays in the middle",
+      "text": "With some transitive two-word verbs the object always comes between the verb and the adverb, even when it is a noun.",
+      "examples": [
+        { "text": "I just couldn't **tell the twins apart**.", "wrong": "tell apart the twins" }
+      ],
+      "note": "Also: catch out, hear out, order about, pull to, push to, shut up (= to silence), stand up."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs where the object follows the preposition",
+      "text": "With other transitive two-word verbs the particle is a preposition, so the object always follows it.",
+      "examples": [
+        { "text": "She **takes after** her mother." },
+        { "text": "I **flicked through** a magazine while I was waiting." }
+      ],
+      "note": "Also: account for, act on, approve of, call on, check into, look after, provide for, result from, run into, take against."
+    },
+    {
+      "type": "explain",
+      "heading": "Three-word verbs",
+      "text": "With most three-word verbs the object goes after the preposition. A few, however, take the object immediately after the verb, and a second noun phrase goes after the preposition.",
+      "examples": [
+        { "text": "He really **looks up to** his older brother.", "note": "also come in for, come up against, cut back on, look down on, put up with" },
+        { "text": "She tried to **talk me out of** the plan.", "note": "also do out of, help on with, let in on, put down as, put up to, take up on" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The five patterns at a glance",
+      "columns": ["Pattern", "Example"],
+      "rows": [
+        ["Object either side of the adverb", "I want to try out the local food. / ... try the local food out."],
+        ["Pronoun object: always in the middle", "You'll have to count me out."],
+        ["Object always in the middle", "I couldn't tell the twins apart."],
+        ["Object after the preposition", "She takes after her mother. / He looks up to his older brother."],
+        ["Three-word verbs with the object first", "She tried to talk me out of the plan."]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I'm not sure how you spell it. I'll ___ in the dictionary.",
+      "options": ["look it up", "look up it", "look up"],
+      "answer": 0,
+      "explanation": "A pronoun object goes between the verb and the adverb, and look up needs an object here."
+    },
+    {
+      "type": "true_false",
+      "statement": "I checked into the hotel at about four.",
+      "answer": true,
+      "explanation": "Correct. With check into the object follows the preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's freezing in here. Can you ___?",
+      "hint": "(push to / the window)",
+      "answers": ["push the window to"],
+      "explanation": "With push to the object always stays between the verb and the adverb."
+    },
+    {
+      "type": "true_false",
+      "statement": "He was always ordering about everyone, getting them to do his work for him.",
+      "answer": false,
+      "explanation": "He was always ordering everyone about. With order about the object comes in the middle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. The object is a pronoun, so watch where it goes.",
+      "words": ["The house is untidy,", "but I haven't got time", "to sort", "it", "out", "now."],
+      "answer": "The house is untidy, but I haven't got time to sort it out now.",
+      "explanation": "sort out allows either order with a noun, but a pronoun must come before the adverb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does the object go with each verb?",
+      "categories": ["In the middle: tell the twins apart", "After the particle: take after her mother"],
+      "items": [
+        { "text": "tell apart", "category": 0 },
+        { "text": "hear out", "category": 0 },
+        { "text": "order about", "category": 0 },
+        { "text": "push to", "category": 0 },
+        { "text": "take after", "category": 1 },
+        { "text": "look after", "category": 1 },
+        { "text": "approve of", "category": 1 },
+        { "text": "put up with", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know you suspect me of cheating, but you've got to give me a chance to explain myself. At least ___ before making up your mind.",
+      "hint": "(hear out / me)",
+      "answers": ["hear me out"],
+      "explanation": "hear out keeps its object between the verb and the adverb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* I must get my shoes repaired again. *B:* But they're so old - ... Put B's words in order.",
+      "words": ["why don't you", "just", "throw", "them", "away?"],
+      "answer": "why don't you just throw them away?",
+      "explanation": "throw away takes either order with a noun, but the pronoun them must come before away."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were so many desserts on the menu, I couldn't ___.",
+      "hint": "(make up / my mind)",
+      "answers": ["make my mind up", "make up my mind"],
+      "explanation": "make up allows the object on either side of the adverb."
+    },
+    {
+      "type": "true_false",
+      "statement": "I had always looked Mr Gao up to, so I was shocked to discover what he had done.",
+      "answer": false,
+      "explanation": "I had always looked up to Mr Gao. With this three-word verb the object goes after the preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When she filled the form in she ___, so they sent it back to her.",
+      "hint": "(leave out / her name)",
+      "answers": ["left her name out", "left out her name"],
+      "explanation": "leave out allows the object on either side of the adverb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. The object is long, so it belongs at the end.",
+      "words": ["The strike", "by airline pilots", "messed up", "the holiday", "I'd spent", "months planning."],
+      "answer": "The strike by airline pilots messed up the holiday I'd spent months planning.",
+      "explanation": "With a long object we prefer to keep the verb and adverb together and put the object last."
+    }
+  ]
+}

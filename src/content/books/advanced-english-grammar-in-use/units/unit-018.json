@@ -1,0 +1,163 @@
+{
+  "number": 18,
+  "title": "Must and have (got) to",
+  "subtitle": "must be / has got to be",
+  "summary": "Use must for rules, reminders and conclusions, and learn when have to or have got to is the only natural choice.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Rules, regulations and warnings",
+      "text": "We use must and must not in formal rules and regulations and in warnings.",
+      "examples": [
+        { "text": "Bookings **must be made** at least seven days before departure." },
+        { "text": "The government **must not be allowed** to appoint judges." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Loose arrangements and reminders",
+      "text": "In spoken English we often use must and mustn't to propose a future arrangement without making detailed plans. We also use I must ... to remind ourselves to do something.",
+      "examples": [
+        { "text": "We **must** get together more often." },
+        { "text": "We **mustn't** leave it so long next time." },
+        { "text": "**I must** charge my phone. I meant to do it yesterday, but I forgot." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Drawing conclusions",
+      "text": "For a conclusion about the past we use must + have + past participle; about now, must be + -ing; about the future, must be going to or must be + -ing; about a present situation, must be (or, informally, have (got) to be).",
+      "examples": [
+        { "text": "That's not Clara's car. She **must have borrowed** it from her parents.", "note": "the past" },
+        { "text": "I can't hear a noise. You **must be imagining** things.", "note": "around now" },
+        { "text": "'What are all those workmen doing?' 'I think they **must be going to** dig up the road.'", "note": "the future" },
+        { "text": "Their goalkeeper **has got to be** at least two metres tall!", "note": "or ... must be ...; informal speech" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "must have to and must have had to",
+      "text": "We use must have to to conclude something from what we know about a present situation, and must have had to to conclude something about a past situation.",
+      "examples": [
+        { "text": "I can't access the database. You **must have to** put in a password.", "note": "= a password is necessary" },
+        { "text": "Matt wasn't at home when I went round. He **must have had to** go out unexpectedly." }
+      ],
+      "note": "We can't say ~~must've got to~~, but must've had to is fine."
+    },
+    {
+      "type": "explain",
+      "heading": "Questions",
+      "text": "In questions that hope for or expect a negative answer we prefer have (got) to; must is used in formal contexts. We also use have to in questions that imply a criticism, stressing have.",
+      "examples": [
+        { "text": "**Do we have to** answer all the questions?", "note": "or Have we got to ...?; formally Must we ...?" },
+        { "text": "**Do you have to** play your trumpet here? It's deafening!", "note": "formally Must you play ...?; some people find must old-fashioned here" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "When have to beats have got to",
+      "columns": ["Example", "Why"],
+      "rows": [
+        ["I often **have to** work at the weekend to get everything done.", "with frequency adverbs: always, never, normally, rarely, sometimes"],
+        ["When **did you have to** give it back?", "past simple questions - not ~~When had you got to give it back?~~"],
+        ["We **didn't have to** wait too long for an answer.", "past simple negatives - not ~~We hadn't got to wait ...~~"],
+        ["Motorists **will have to** wait until next year to use the bridge.", "after another modal verb - not ~~will have got to wait~~"],
+        ["I need new shoes, and they'**ve got to** be blue.", "if have is contracted, got must be included - not ~~they've to be~~"]
+      ],
+      "note": "Otherwise have got to is often preferred in informal speech."
+    },
+    {
+      "type": "tip",
+      "text": "Keep the two conclusions apart: *You must have to put in a password* = I conclude it is necessary now; *He must have had to go out* = I conclude it was necessary then."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "When I left my laptop on the train I thought I'd never see it again. But someone ___ it and handed it in to the lost property office.",
+      "hint": "(find)",
+      "answers": ["must have found"],
+      "explanation": "A conclusion about something that happened in the past: must + have + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Luisa owns a big car and a yacht. She ___ incredibly rich.",
+      "hint": "(be)",
+      "answers": ["must be", "has got to be"],
+      "explanation": "A conclusion about a present situation: must be (or, informally, has got to be)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Everyone's going into the hall. *B:* The meeting ___ soon. Let's go.",
+      "hint": "(start)",
+      "answers": ["must be starting", "must be going to start", "must start"],
+      "explanation": "A conclusion about the near future: must be + -ing, or must be going to + infinitive."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the version that uses have (got) to.",
+      "pairs": [
+        { "left": "It is necessary to do all of this photocopying before lunchtime.", "right": "All of this photocopying has got to be done before lunchtime." },
+        { "left": "It is rarely necessary to ask Hannah to tidy her room.", "right": "Hannah rarely has to be asked to tidy her room." },
+        { "left": "It wasn't necessary for me to go to the hospital after all.", "right": "I didn't have to go to the hospital after all." },
+        { "left": "Was it necessary for Ben to go alone?", "right": "Did Ben have to go alone?" },
+        { "left": "It may be necessary to cancel our holiday because my mother is ill.", "right": "We may have to cancel our holiday because my mother is ill." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Without things like washing machines and dishwashers our grandparents ___ much harder in the kitchen than we do today.",
+      "hint": "(work)",
+      "answers": ["must have had to work", "must have worked"],
+      "explanation": "We conclude that it was necessary for them: must have had to + infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I wonder how you get past security. *B:* I suppose you ___ some form of ID.",
+      "hint": "(show)",
+      "answers": ["must have to show"],
+      "explanation": "We conclude from a present situation that something is necessary: must have to + infinitive."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'It is sometimes necessary for Adam to start work at 6:30.' using have to.",
+      "words": ["Adam", "sometimes", "has to", "start work", "at 6:30."],
+      "answer": "Adam sometimes has to start work at 6:30.",
+      "explanation": "With frequency adverbs we prefer have to rather than have got to."
+    },
+    {
+      "type": "true_false",
+      "statement": "The door's very stiff, and I always have got to pull it very hard to shut it.",
+      "answer": false,
+      "explanation": "The door's very stiff, and I always have to pull it very hard to shut it. With frequency adverbs we use have to."
+    },
+    {
+      "type": "true_false",
+      "statement": "My neighbour's always saying, 'Have you to bang the door so hard?'",
+      "answer": false,
+      "explanation": "'Do you have to bang the door so hard?' Questions that imply criticism take do you have to (formally Must you ...?)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "None of the windows and doors were damaged, so someone very small ___ through the tiny window in the kitchen.",
+      "options": ["must have had to squeeze", "must have to squeeze", "must had to squeeze"],
+      "answer": 0,
+      "explanation": "A conclusion about what was necessary in the past: must have had to + infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I think the burglars ___, perhaps when the postman came.",
+      "options": ["must have been disturbed", "must be disturbed", "must have to be disturbed"],
+      "answer": 0,
+      "explanation": "A conclusion about a past event, in the passive: must have been + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I suppose I ___ get a burglar alarm, too.",
+      "hint": "(may / must)",
+      "answers": ["may have to", "might have to"],
+      "explanation": "Two modal verbs can't follow each other, so may must becomes may have to."
+    }
+  ]
+}

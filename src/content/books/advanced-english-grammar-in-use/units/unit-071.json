@@ -1,0 +1,170 @@
+{
+  "number": 71,
+  "title": "Adjectives and adverbs",
+  "subtitle": "in a friendly way / freely",
+  "summary": "Make adverbs from awkward adjectives and choose between pairs such as free/freely, late/lately and high/highly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adjectives that already end in -ly",
+      "text": "Many adverbs of manner (saying how something is done) are an adjective + -ly: *sudden* - *suddenly*, *happy* - *happily*. But when the adjective already ends in -ly (cowardly, elderly, friendly, kindly, lively, lonely, lovely) we don't add -ly again. Instead we use a prepositional phrase with **fashion**, **manner** or **way**.",
+      "examples": [
+        { "text": "He smiled at me **in a friendly way**.", "wrong": "friendlily" },
+        { "text": "She waved her hands around **in a lively fashion**." },
+        { "text": "He was accused of behaving **in a cowardly manner** in the battle.", "wrong": "cowardlily" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Participle adjectives ending in -ed",
+      "text": "Most participle adjectives ending in -ed have no adverb form, so we use a prepositional phrase instead, or a preposition and a related noun if there is one.",
+      "examples": [
+        { "text": "They rose to greet me **in a subdued manner**.", "wrong": "subduedly" },
+        { "text": "She looked at me **in amazement**.", "wrong": "amazedly" },
+        { "text": "The storm was unexpected. / The weather turned **unexpectedly** stormy.", "note": "unexpected does have an -ly form" }
+      ],
+      "note": "Others with an -ly form: agitatedly, allegedly, deservedly, determinedly, disappointedly, excitedly, hurriedly, pointedly, repeatedly, reportedly, reputedly, supposedly, worriedly."
+    },
+    {
+      "type": "explain",
+      "heading": "Two forms, one meaning",
+      "text": "Some adverbs have a form with -ly and a form without it, and we can sometimes use either without changing the meaning - though the -ly form is grammatically correct and more formal. The -ly form must be used when the adverb comes immediately before the verb.",
+      "examples": [
+        { "text": "She ran **quick** / **quickly** towards the door." },
+        { "text": "She **quickly** ran towards the door.", "wrong": "She quick ran towards the door" },
+        { "text": "Spread some butter on the bread as **thinly** as possible.", "note": "*thin* is heard in informal contexts" }
+      ],
+      "note": "Also: cheap(ly), clean(ly), clear(ly), fine(ly), loud(ly), slow(ly), thin(ly)."
+    },
+    {
+      "type": "explain",
+      "heading": "Two forms, two meanings",
+      "text": "With other adverbs the two forms mean quite different things, so they are not interchangeable. The form without -ly usually keeps the concrete, physical meaning, while the -ly form is often figurative.",
+      "examples": [
+        { "text": "The rise in car crime in the area is **deeply** worrying.", "note": "deeply = very; *deep* would mean 'a long way'" },
+        { "text": "Pierre Evene manufactured the glass for which the town became **justly** renowned.", "wrong": "just renowned" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pairs to keep apart (1)",
+      "columns": ["Without -ly", "With -ly"],
+      "rows": [
+        ["She gave her time **free**. (= for no money)", "She gave her time **freely**. (= willingly)"],
+        ["I arrived **late** for the concert. (= not on time)", "I haven't seen Amy **lately**. (= recently)"],
+        ["He wandered **deep** into the forest and got lost. (= a long way)", "He felt **deeply** hurt by her criticisms. (= very) / They loved each other **deeply**. (= very much)"],
+        ["You don't have to change trains. You can go **direct**. (= without stopping)", "I'll be with you **directly**. (= very soon) / He saw Hassan **directly** ahead. (= straight)"],
+        ["It sounded awful - one of the choir members was singing **flat**.", "This time I **flatly** refused to lend him any money. (= definitely; completely)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pairs to keep apart (2)",
+      "columns": ["Without -ly", "With -ly"],
+      "rows": [
+        ["He kicked the ball **high** over the goal.", "Everyone thinks **highly** of her teaching. (= they think it is very good)"],
+        ["'Is Emil here yet?' 'He's **just** arrived.' / She looks **just** like her mother.", "You can be **justly** proud of your musical achievements. (= rightly; justifiably)"],
+        ["Which of these cheeses do you like **most**?", "Her novels are now **mostly** out of print. (= most of them) / We **mostly** go on holiday to France. (= usually)"],
+        ["They cut **short** their holiday when Lina fell ill. (= went home early)", "The speaker will be arriving **shortly** (= soon). Please take your seats."],
+        ["The door was **wide** open so I just went straight in. (= completely)", "You won't have any problems getting the book. It's **widely** available. (= in many places)"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If an adjective resists -ly, reach for *in a ... way / manner / fashion*, or a preposition plus a related noun: *in amazement*, *with despair*, *in / with satisfaction*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I warned him ___ of the dangers on the mountain, but he insisted on going on.",
+      "hint": "(repeated)",
+      "answers": ["repeatedly"],
+      "explanation": "Repeated is one of the -ed participle adjectives that does have an -ly adverb form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We don't go out much in the evening. We ___ watch television.",
+      "options": ["mostly", "most", "the most"],
+      "answer": 0,
+      "explanation": "Mostly here means 'usually'; most without -ly would mean 'more than anything else'."
+    },
+    {
+      "type": "true_false",
+      "statement": "She waved friendlily to me.",
+      "answer": false,
+      "explanation": "She waved to me in a friendly way / manner / fashion. Friendly already ends in -ly, so it has no adverb form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Still no news from Paul,' she said ___.",
+      "hint": "(disappointed)",
+      "answers": ["disappointedly"],
+      "explanation": "Disappointed is one of the participle adjectives with a regular -ly adverb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The class was out of control and he put his head in his hands ___, feeling that he could do nothing.",
+      "options": ["in despair", "despairedly", "despairly"],
+      "answer": 0,
+      "explanation": "Despaired has no adverb form, so we use a preposition + a related noun: in / with despair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is ___ the smallest post office in the country, although no one knows for certain.",
+      "hint": "(reputed)",
+      "answers": ["reputedly"],
+      "explanation": "Reputedly (= it is said to be) is one of the -ed adjectives that takes -ly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He ran the company ___ and rarely let anything annoy him.",
+      "hint": "(relaxed) - use a prepositional phrase",
+      "answers": ["in a relaxed way", "in a relaxed manner", "in a relaxed fashion"],
+      "explanation": "There is no adverb 'relaxedly', so we use in a relaxed way / manner / fashion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not in my office at the moment, but if you leave your name and number I'll get back to you ___.",
+      "hint": "(direct / directly)",
+      "answers": ["directly"],
+      "explanation": "Directly here means 'very soon'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I used to have to change in Amsterdam to get to Moscow, but now I can fly ___.",
+      "hint": "(direct / directly)",
+      "answers": ["direct"],
+      "explanation": "Go / fly direct = without stopping on the way."
+    },
+    {
+      "type": "true_false",
+      "statement": "The prime minister was loud applauded by her audience.",
+      "answer": false,
+      "explanation": "The prime minister was loudly applauded by her audience. When the adverb comes immediately before the verb, the -ly form is needed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do you turn each adjective into an adverb?",
+      "categories": ["Add -ly", "Use in a ... way / manner / fashion"],
+      "items": [
+        { "text": "repeated", "category": 0 },
+        { "text": "friendly", "category": 1 },
+        { "text": "determined", "category": 0 },
+        { "text": "relaxed", "category": 1 },
+        { "text": "excited", "category": 0 },
+        { "text": "cowardly", "category": 1 },
+        { "text": "reputed", "category": 0 },
+        { "text": "organised", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Correct the adverb in 'I called Elena and she slow turned to face me.'",
+      "words": ["I called Elena", "and", "she", "slowly", "turned", "to face me."],
+      "answer": "I called Elena and she slowly turned to face me.",
+      "explanation": "Slow and slowly can both follow the verb, but immediately before the verb only the -ly form is possible."
+    }
+  ]
+}

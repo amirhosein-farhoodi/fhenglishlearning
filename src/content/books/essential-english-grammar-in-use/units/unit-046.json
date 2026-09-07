@@ -1,0 +1,179 @@
+{
+  "number": 46,
+  "title": "Who is she talking to? What is it like? (questions 3)",
+  "subtitle": "Who ... to? What ... like?",
+  "summary": "Put prepositions like to, for and with at the end of a question, and ask What is it like? to hear about something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Julia is on the phone",
+      "text": "Julia is standing in the street with a phone at her ear. She is talking to somebody, but we do not know who. So we ask a question with the preposition **to** at the end.",
+      "examples": [
+        { "text": "Julia is talking **to** somebody." },
+        { "text": "**Who** is she talking **to**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The preposition goes at the end",
+      "text": "In questions with **Who ... ?**, **What ... ?**, **Where ... ?** and **Which ... ?**, prepositions (**to**, **from**, **with**, **about**, **of**, **by** ...) usually go at the end.",
+      "examples": [
+        { "text": "*A:* **Where** are you **from**? *B:* I'm from Thailand." },
+        { "text": "*A:* Jack was afraid. *B:* **What** was he afraid **of**?" },
+        { "text": "*A:* **Who** do these books belong **to**? *B:* They're mine." },
+        { "text": "*A:* Tom's father is in hospital. *B:* **Which hospital** is he **in**?" },
+        { "text": "*A:* Can we talk? *B:* Sure. **What** do you want to talk **about**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "From sentence to question",
+      "columns": ["Sentence", "Question"],
+      "rows": [
+        ["The letter is **from** somebody.", "Who is the letter **from**?"],
+        ["I'm looking **for** something.", "What are you looking **for**?"],
+        ["I went to the cinema **with** somebody.", "Who did you go to the cinema **with**?"],
+        ["The book was written **by** somebody.", "Who was the book written **by**?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What's it like?",
+      "text": "A woman asks a man about his new home: *What's your new house like?* He thinks of a big house with a garden and answers *It's very big.* **What's it like?** means: tell me something about it - is it good or bad, big or small, old or new?",
+      "examples": [
+        { "text": "*A:* There's a new restaurant in our street. *B:* **What's it like**? Is it good?" },
+        { "text": "*A:* **What's** your new teacher **like**? *B:* She's very good. We learn a lot." },
+        { "text": "*A:* I met Nicole's parents yesterday. *B:* **What are they like**? *A:* They're very nice." },
+        { "text": "*A:* Did you have a good holiday? **What was the weather like**? *B:* It was lovely." }
+      ],
+      "note": "**What's** it like? = What **is** it like?"
+    },
+    {
+      "type": "compare",
+      "heading": "like as a preposition, not as a verb",
+      "left": {
+        "label": "What is ... like?",
+        "text": "Here **like** is a preposition. You ask the person to describe something.",
+        "examples": [
+          "**What's** your new house **like**? - It's very big.",
+          "**What was** the film **like**? - It was very good."
+        ]
+      },
+      "right": {
+        "label": "Do you like ... ?",
+        "text": "Here **like** is the verb. You ask if the person enjoys something.",
+        "examples": [
+          "**Do you like** your new house? - Yes, very much.",
+          "**Did you like** the film? - No, not really."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "What is/are/was/were ... like?",
+      "columns": ["One thing or person", "More than one"],
+      "rows": [
+        ["What **is** the food **like**?", "What **are** the people **like**?"],
+        ["What **was** the hotel **like**?", "What **were** the lessons **like**?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never say ~~How is it like?~~ Use *What is it like?* for a description and *How is it?* on its own."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The letter is from somebody. -> Who is the letter ___?",
+      "hint": "(from / to / with)",
+      "answers": ["from"],
+      "explanation": "The preposition from goes at the end of the question."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm looking for something. -> What are you looking ___?",
+      "hint": "(for / at / to)",
+      "answers": ["for"],
+      "explanation": "look for something, so the question ends with for."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went to the cinema with somebody. Which question is correct?",
+      "options": [
+        "Who did you go to the cinema with?",
+        "Who with did you go to the cinema?",
+        "Who did you went to the cinema with?"
+      ],
+      "answer": 0,
+      "explanation": "with goes at the end, and after did the verb is go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The book was written by somebody. -> ___ was the book written by?",
+      "hint": "(who / what)",
+      "answers": ["Who"],
+      "explanation": "A person wrote it, so we ask Who ... written by?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right question.",
+      "pairs": [
+        { "left": "A woman is standing in the street with a phone at her ear.", "right": "Who is she talking to?" },
+        { "left": "Two friends are looking up at something in the sky.", "right": "What are they looking at?" },
+        { "left": "A woman has headphones on and music is playing.", "right": "What is she listening to?" },
+        { "left": "Two people are standing at a bus stop.", "right": "Which bus are they waiting for?" },
+        { "left": "Two people say: It was very good. Yes, very interesting.", "right": "What are they talking about?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A man says: I'm going to a restaurant. You want to know the name. Make the question.",
+      "words": ["Which restaurant", "is", "he", "going", "to?"],
+      "answer": "Which restaurant is he going to?",
+      "explanation": "Which restaurant + is + he + going, and to at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* We stayed at a hotel. *B:* Which hotel ___ at?",
+      "hint": "(you / stay)",
+      "answers": ["did you stay"],
+      "explanation": "Which hotel did you stay at? The preposition at stays at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "How was the weather like on your holiday?",
+      "answer": false,
+      "explanation": "What was the weather like on your holiday? We use What ... like?, not How ... like?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jack plays for a football team. You want to know the name. Make the question.",
+      "words": ["Which team", "does", "he", "play", "for?"],
+      "answer": "Which team does he play for?",
+      "explanation": "Present simple question with does, and for at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are asking about another country. What ___ the food like?",
+      "hint": "(is / are)",
+      "answers": ["is"],
+      "explanation": "The food is one thing, so we use is: What is the food like?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your friend has just come back from holiday. You want to hear about the hotel. What do you ask?",
+      "options": ["What was the hotel like?", "How was the hotel like?", "What did the hotel like?"],
+      "answer": 0,
+      "explanation": "The holiday is finished, so we use was: What was the hotel like?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend has just finished an English course. Ask about the lessons.",
+      "words": ["What", "were", "the", "lessons", "like?"],
+      "answer": "What were the lessons like?",
+      "explanation": "Lessons is plural and the course is finished, so we use were."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "number": 43,
+  "title": "isn't, haven't, don't etc. (negatives)",
+  "subtitle": "I'm not / it isn't / I didn't",
+  "summary": "Make negative sentences with not (n't) after am/is/have/will/can etc., and with don't, doesn't or didn't for other verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "positive -> negative",
+      "columns": ["Positive", "Negative", "Short form"],
+      "rows": [
+        ["am", "am not", "'m not"],
+        ["is", "is not", "isn't or 's not"],
+        ["are", "are not", "aren't or 're not"],
+        ["was", "was not", "wasn't"],
+        ["were", "were not", "weren't"],
+        ["have", "have not", "haven't"],
+        ["has", "has not", "hasn't"],
+        ["will", "will not", "won't"],
+        ["can", "cannot", "can't"],
+        ["could", "could not", "couldn't"],
+        ["must", "must not", "mustn't"],
+        ["should", "should not", "shouldn't"],
+        ["would", "would not", "wouldn't"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "am not / isn't / wasn't",
+      "text": "We put **not** (**n't**) after am, is, are, was and were.",
+      "examples": [
+        { "text": "**I'm not** tired." },
+        { "text": "It **isn't** raining.", "note": "or It's not raining." },
+        { "text": "They **aren't** here.", "note": "or They're not here." },
+        { "text": "Julian **wasn't** hungry." },
+        { "text": "The shops **weren't** open." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "haven't / won't / can't / shouldn't",
+      "text": "We do the same with have, has, will, can, could, must, should and would.",
+      "examples": [
+        { "text": "I **haven't** finished my work." },
+        { "text": "Sue **hasn't** got a car." },
+        { "text": "We **won't** be here tomorrow." },
+        { "text": "George **can't** drive." },
+        { "text": "You **shouldn't** work so hard." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "don't / doesn't / didn't",
+      "columns": ["Subject", "Negative", "Verb"],
+      "rows": [
+        ["I / we / you / they", "do not (don't)", "work / live / go"],
+        ["he / she / it", "does not (doesn't)", "work / live / go"],
+        ["I / you / he / she / they", "did not (didn't)", "work / live / go"]
+      ],
+      "note": "**do**/**does** is the present, **did** is the past. The verb after them never changes."
+    },
+    {
+      "type": "explain",
+      "heading": "Other verbs: use do / does / did",
+      "text": "For verbs like *want*, *work*, *play* and *have* we need **don't**, **doesn't** or **didn't**.",
+      "examples": [
+        { "text": "I **don't want** to go out.", "note": "positive: I want to go out." },
+        { "text": "Liz **doesn't play** the guitar.", "note": "positive: Liz plays the guitar." },
+        { "text": "I **didn't get** up early this morning.", "note": "positive: I got up early this morning." },
+        { "text": "We **didn't play** tennis.", "note": "positive: We played tennis." },
+        { "text": "Diane **didn't have** dinner with us.", "note": "positive: Diane had dinner with us." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't look! and don't do",
+      "text": "To tell somebody *not* to do something, we start with **Don't**. Sometimes **do** is the main verb, so we say **don't do**, **doesn't do**, **didn't do**.",
+      "examples": [
+        { "text": "**Don't look!**", "note": "positive: Look!" },
+        { "text": "**Don't wait** for me.", "note": "positive: Wait for me." },
+        { "text": "**Don't do** anything!", "note": "positive: Do something!" },
+        { "text": "Sue **doesn't do** much at weekends." },
+        { "text": "I **didn't do** what you said." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After don't / doesn't / didn't the verb never changes: *she doesn't play*, not ~~she doesn't plays~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "They aren't rich. They ___ got much money.",
+      "hint": "(negative verb)",
+      "answers": ["haven't", "have not"],
+      "explanation": "have got -> haven't got."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Would you like something to eat? *B:* No, thank you. I ___ hungry.",
+      "hint": "(negative verb)",
+      "answers": ["'m not", "am not"],
+      "explanation": "The negative of I am is I'm not."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each negative sentence with its ending.",
+      "pairs": [
+        { "left": "I mustn't forget", "right": "to phone Jane." },
+        { "left": "You shouldn't work", "right": "so hard." },
+        { "left": "I wouldn't like", "right": "to be an actor." },
+        { "left": "I couldn't sleep", "right": "last night." },
+        { "left": "Sue hasn't got", "right": "a car." },
+        { "left": "The shops weren't", "right": "open." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ find my glasses. Have you seen them?",
+      "hint": "(negative verb)",
+      "answers": ["can't", "cannot", "can not"],
+      "explanation": "The negative of can is can't (cannot)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve ___ use email much. He prefers to talk on the phone.",
+      "hint": "(negative verb)",
+      "answers": ["doesn't", "does not"],
+      "explanation": "use is a normal verb and Steve = he, so we need doesn't."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It rained yesterday. Now make it negative: It ___ yesterday.",
+      "options": ["didn't rain", "didn't rained", "doesn't rain"],
+      "answer": 0,
+      "explanation": "After didn't the verb has no ending: didn't rain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be careful! ___ fall!",
+      "hint": "(negative)",
+      "answers": ["Don't", "Do not"],
+      "explanation": "To tell somebody not to do something we start with Don't."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which negative word goes in each sentence: don't, doesn't or didn't?",
+      "categories": ["don't", "doesn't", "didn't"],
+      "items": [
+        { "text": "I ___ believe you.", "category": 0 },
+        { "text": "We ___ like cold weather.", "category": 0 },
+        { "text": "He ___ speak German.", "category": 1 },
+        { "text": "Sue ___ do much at weekends.", "category": 1 },
+        { "text": "I ___ go to the bank.", "category": 2 },
+        { "text": "They ___ understand.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been to Japan many times, but I ___ been to Korea.",
+      "hint": "(negative verb)",
+      "answers": ["haven't", "have not"],
+      "explanation": "I've been -> I haven't been."
+    },
+    {
+      "type": "true_false",
+      "statement": "We didn't see what happened. We weren't looking at the time.",
+      "answer": true,
+      "explanation": "Correct. weren't = were not, the negative of were."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You ask Gary: 'Were you born in London?' He answers 'No.' Put the words in order to write about Gary.",
+      "words": ["He", "wasn't", "born", "in", "London."],
+      "answer": "He wasn't born in London.",
+      "explanation": "The negative of was is wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ___ drive so fast. It's dangerous.",
+      "hint": "(negative verb)",
+      "answers": ["shouldn't", "should not", "mustn't", "must not"],
+      "explanation": "shouldn't (or mustn't) tells somebody that something is a bad idea."
+    }
+  ]
+}

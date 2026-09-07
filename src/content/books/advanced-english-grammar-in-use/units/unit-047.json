@@ -1,0 +1,190 @@
+{
+  "number": 47,
+  "title": "A / an, the and zero article 3",
+  "subtitle": "books / the books; on Saturday / on a Saturday",
+  "summary": "Choose between the and zero article with plural and uncountable nouns, with days, seasons and times of day, and with means of transport.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "General or specific?",
+      "left": {
+        "label": "Zero article - talking generally",
+        "text": "With plural and uncountable nouns we use no article when we have no definite people or things in mind.",
+        "examples": [
+          "The government has promised not to tax **books**. (= books generally)",
+          "**Music** played an important part in his life. (= music generally)"
+        ]
+      },
+      "right": {
+        "label": "the - the listener knows which ones",
+        "text": "We use the when we assume the listener or reader will understand who or what we mean, or when other words in the noun phrase make the reference specific.",
+        "examples": [
+          "**The books** have arrived. (= the books you ordered)",
+          "I thought **the music** used in the film was the best part."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Holidays and days of the week",
+      "text": "We use zero article with the names of holidays and special times of the year: **Easter, Ramadan, New Year's Day**. With days of the week the article changes the meaning.",
+      "examples": [
+        { "text": "I'll see you on **Saturday**.", "note": "= next Saturday" },
+        { "text": "We met on **Saturday**.", "note": "= last Saturday" },
+        { "text": "They came on **a Saturday** as far as I can remember.", "note": "we are only interested in the day of the week, not which particular Saturday" },
+        { "text": "They came on **the Saturday** after our party.", "note": "a particular Saturday, and we say which one" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Seasons and New Year",
+      "text": "With **winter, summer, spring, autumn** and **New Year** (the holiday period) we can use either zero article or *the*. We use *the* when it is understood, or when we go on to specify, which one we mean.",
+      "examples": [
+        { "text": "In **(the) summer** I try to spend as much time as I can in the garden." },
+        { "text": "I'd like to go skiing in **the autumn**.", "note": "= this year" },
+        { "text": "I first went skiing in **the spring** of 2002." },
+        { "text": "I'll see you again in **the New Year**.", "note": "= near the beginning of next year" },
+        { "text": "That was **a winter** I'll never forget.", "note": "compared with other winters it was unforgettable" },
+        { "text": "That was **the winter** we went to Norway.", "note": "a statement about one particular winter" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Times of the day",
+      "text": "We use zero article with **midnight, midday** and **noon**, and either *dawn* or *the dawn*. We use **the + morning / afternoon / evening** for a day that is understood or already specified.",
+      "examples": [
+        { "text": "If possible, I'd like it finished by **midday**. **Midnight** couldn't come quickly enough." },
+        { "text": "He got back into bed and waited for **(the) dawn**." },
+        { "text": "I enjoyed **the morning**, but in **the afternoon** the course was boring." },
+        { "text": "**Morning** is the time I work best.", "note": "= mornings in general; The morning ... is also possible" },
+        { "text": "I'll be there by **(the) morning / evening**.", "note": "but ... by the afternoon, not by afternoon" },
+        { "text": "I waited **all morning**.", "note": "more usual than all the morning" },
+        { "text": "'You look upset.' 'Yes, I've had **a terrible morning**.'", "note": "= compared with other mornings" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "by bus or take the bus?",
+      "left": {
+        "label": "by + zero article",
+        "text": "We often use by + zero article to talk about means of transport and communication.",
+        "examples": [
+          "I generally go **by bus** to work.",
+          "go / travel **by car / taxi / plane / train / air / sea**",
+          "contact / communicate **by post / email / phone**"
+        ]
+      },
+      "right": {
+        "label": "the / a + the noun itself",
+        "text": "When the vehicle or message is a thing rather than a method, it takes an ordinary article.",
+        "examples": [
+          "I generally take **the bus** to work.",
+          "It's raining, so I think I'll take **the car**.",
+          "I got **an email** from Carla yesterday."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "For plural and uncountable nouns the question is never *is it countable?* but *does my listener already know which ones I mean?* If yes, use *the*; if you mean the whole class, use no article."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does each gap need zero article (a general reference) or the (a specific one)?",
+      "categories": ["zero article", "the"],
+      "items": [
+        { "text": "___ Children as young as ten are working in the clothing industry.", "category": 0 },
+        { "text": "While you're painting the sitting room, I'll take ___ children over to the park.", "category": 1 },
+        { "text": "Around 60% of the labour force in the county is supported by ___ agriculture.", "category": 0 },
+        { "text": "As the soil quality deteriorated, so too did ___ agriculture on which the region depended.", "category": 1 },
+        { "text": "It is said that ___ money is the root of all evil.", "category": 0 },
+        { "text": "I've left ___ money I owe you on your desk.", "category": 1 },
+        { "text": "Animals fear ___ fire more than anything else.", "category": 0 },
+        { "text": "It isn't known how ___ fire started.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Around the world ___ are being threatened by rising sea levels.",
+      "hint": "(islands)",
+      "answers": ["islands"],
+      "explanation": "A general reference to islands everywhere, so zero article."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ off the east coast of Malaysia are beautiful.",
+      "hint": "(islands)",
+      "answers": ["the islands"],
+      "explanation": "The phrase off the east coast of Malaysia makes the reference specific, so the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've been working in the garden all ___ and my back aches.",
+      "options": ["afternoon", "the afternoon", "an afternoon"],
+      "answer": 0,
+      "explanation": "all afternoon is more usual than all the afternoon."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Can you remember when we last saw Alex? B: It was ___ in June, I think.",
+      "hint": "(a / the) Sunday",
+      "answers": ["a Sunday"],
+      "explanation": "a + day of the week when we are only interested in which day it was, not which particular Sunday."
+    },
+    {
+      "type": "true_false",
+      "statement": "A: Shall we go out walking on the Sunday? B: No, I'm busy this weekend.",
+      "answer": false,
+      "explanation": "Shall we go out walking on Sunday? For next Sunday we use zero article."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I got my laptop on July 15th last year. I remember because it was also ___ day I passed my driving test.",
+      "options": ["the", "a", "one"],
+      "answer": 0,
+      "explanation": "The following clause specifies which day, so the is needed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: I haven't seen Subin for months. B: He's been away in South Africa for ___.",
+      "hint": "(winter)",
+      "answers": ["the winter"],
+      "explanation": "We use the because it is understood which winter is meant."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Do you remember when Mateo did all the cooking? B: Of course. It was ___ the rest of us had flu.",
+      "hint": "(a / the) Christmas",
+      "answers": ["the Christmas"],
+      "explanation": "We go on to say which Christmas it was, so the is used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: Remember when Lars and Ella had that terrible row? B: How could I forget? That was ___ I wouldn't want to go through again.",
+      "hint": "(a / the) day",
+      "answers": ["a day"],
+      "explanation": "That was + a / an + noun + modifying phrase says what made that day special compared with others."
+    },
+    {
+      "type": "matching",
+      "prompt": "Complete each sentence with the right phrase.",
+      "pairs": [
+        { "left": "The train was cancelled, so I had to come ...", "right": "by car" },
+        { "left": "It's raining, so I think I'll take ...", "right": "the car" },
+        { "left": "The quickest way to get in touch with him is ...", "right": "by email" },
+        { "left": "Yesterday I got ... from Carla.", "right": "an email" },
+        { "left": "Thailand - getting there ...", "right": "by air" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Research has found that living plants are efficient at absorbing pollutants in ___.",
+      "hint": "(air)",
+      "answers": ["the air"],
+      "explanation": "Here we mean the air around us - a specific, understood thing - so the."
+    }
+  ]
+}

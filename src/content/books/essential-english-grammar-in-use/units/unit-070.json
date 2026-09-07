@@ -1,0 +1,163 @@
+{
+  "number": 70,
+  "title": "the ...",
+  "subtitle": "the sun / the same / the police",
+  "summary": "Learn the groups of words that always take the, and the words that never take it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "the when there is only one",
+      "text": "We use **the** when it is clear which thing or person we mean, because there is only one.",
+      "examples": [
+        { "text": "What is **the name** of this street? (there is only one name)" },
+        { "text": "Who is **the best player** in your team? (there is only one best player)" },
+        { "text": "Can you tell me **the time**, please? (= the time now)" },
+        { "text": "My office is on **the first floor**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't forget the",
+      "text": "Some phrases sound wrong without **the**. Always say *the city centre* and *the nearest ...*.",
+      "examples": [
+        { "text": "Do you live near **the city centre**?", "wrong": "near city centre" },
+        { "text": "Excuse me, where is **the nearest bank**?", "wrong": "where is nearest bank" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the same ...",
+      "text": "**same** always has **the** in front of it.",
+      "examples": [
+        { "text": "We live in **the same street**.", "wrong": "in same street" },
+        { "text": "*A:* Are these two books different? *B:* No, they're **the same**.", "wrong": "they're same" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "We say the with these",
+      "columns": ["Group", "Words", "Example"],
+      "rows": [
+        ["nature", "the sun / the moon / the world / the sky / the sea / the country", "**The sky** is blue and **the sun** is shining."],
+        ["public services", "the police / the fire brigade / the army", "My brother is a soldier. He's in **the army**."],
+        ["position", "the top / the end / the middle / the left / the right", "My house is at **the end** of the street."],
+        ["musical instruments", "the piano / the guitar / the trumpet", "Paula is learning to play **the piano**."],
+        ["media", "the radio / the Internet", "I listen to **the radio** a lot."]
+      ],
+      "note": "*Do you live in a town or in **the country**?* and *Do you use **the Internet** much?*"
+    },
+    {
+      "type": "explain",
+      "heading": "No the with these",
+      "text": "We do **not** use *the* with **television/TV**, with **breakfast / lunch / dinner**, or after **next** and **last**.",
+      "examples": [
+        { "text": "I watch **TV** a lot. What's on **television** tonight?" },
+        { "text": "What did you have for **breakfast**?", "wrong": "the breakfast" },
+        { "text": "**Dinner** is ready!" },
+        { "text": "I'm not working **next week**.", "wrong": "the next week" },
+        { "text": "Did you have a holiday **last summer**?", "wrong": "the last summer" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*What's on television tonight?* = the programmes. But *Can you turn off the television?* = the TV set in this room."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The sky is blue and ___ is shining.",
+      "hint": "(sun)",
+      "answers": ["the sun"],
+      "explanation": "There is only one sun, so we always say the sun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emma is sitting on a stool with a musical instrument. She's playing ___.",
+      "hint": "(guitar)",
+      "answers": ["the guitar"],
+      "explanation": "With musical instruments we say the: play the guitar, the piano, the trumpet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's morning, and the family is eating at the table. They're having ___.",
+      "hint": "(breakfast)",
+      "answers": ["breakfast"],
+      "explanation": "No the with breakfast, lunch and dinner."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Our apartment is on ___.",
+      "options": ["the second floor", "second floor", "a second floor"],
+      "answer": 0,
+      "explanation": "A building has only one second floor, so we say the second floor."
+    },
+    {
+      "type": "true_false",
+      "statement": "What's on television tonight?",
+      "answer": true,
+      "explanation": "We do not use the with television when we talk about the programmes."
+    },
+    {
+      "type": "true_false",
+      "statement": "Would you like to go to moon?",
+      "answer": false,
+      "explanation": "Would you like to go to the moon? There is only one moon."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each pair of facts with the sentence that says the same thing.",
+      "pairs": [
+        { "left": "I live in North Street and you live in North Street.", "right": "We live in the same street." },
+        { "left": "I arrived at 8.30 and you arrived at 8.30.", "right": "We arrived at the same time." },
+        { "left": "Jim is 25 and Sue is 25.", "right": "Jim and Sue are the same age." },
+        { "left": "My shirt is dark blue and so is my jacket.", "right": "My shirt and jacket are the same colour." },
+        { "left": "I've got no money and you've got no money.", "right": "We've got the same problem." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two people are in the water near a big ship. They're swimming in ___.",
+      "hint": "(sea)",
+      "answers": ["the sea"],
+      "explanation": "the sea, like the sky and the sun."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these need the?",
+      "categories": ["the ...", "no the"],
+      "items": [
+        { "text": "sun", "category": 0 },
+        { "text": "police", "category": 0 },
+        { "text": "Internet", "category": 0 },
+        { "text": "city centre", "category": 0 },
+        { "text": "breakfast", "category": 1 },
+        { "text": "lunch", "category": 1 },
+        { "text": "television (the programmes)", "category": 1 },
+        { "text": "next week", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody was trying to break into the shop, so I called ___.",
+      "hint": "(police)",
+      "answers": ["the police"],
+      "explanation": "We say the police, the army and the fire brigade."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tokyo is ___ of Japan.",
+      "hint": "(capital)",
+      "answers": ["the capital"],
+      "explanation": "Japan has only one capital, so we say the capital."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["We", "live", "in the country", "about ten miles", "from", "the nearest town."],
+      "answer": "We live in the country about ten miles from the nearest town.",
+      "explanation": "the country = not a town; and we always say the nearest ..."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "number": 23,
+  "title": "be/have/do in present and past tenses",
+  "subtitle": "am/is/are, was/were, have/has, do/does/did",
+  "summary": "Learn which helping verb goes with -ing, with a past participle and with the infinitive, in the present and in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "be + -ing",
+      "text": "**am/is/are + -ing** is the present continuous: the action is happening now. **was/were + -ing** is the past continuous: the action was happening at a time in the past.",
+      "examples": [
+        { "text": "Please be quiet. I**'m working**." },
+        { "text": "It **isn't raining** at the moment." },
+        { "text": "What **are** you **doing** this evening?" },
+        { "text": "I **was working** when she arrived." },
+        { "text": "It **wasn't raining**, so we didn't need an umbrella." },
+        { "text": "What **were** you **doing** at 3 o'clock?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "be + past participle",
+      "text": "**am/is/are + past participle** is the passive present. **was/were + past participle** is the passive past. The past participle is **cleaned**, **made**, **eaten**, **born** etc.",
+      "examples": [
+        { "text": "I**'m** never **invited** to parties." },
+        { "text": "Butter **is made** from milk." },
+        { "text": "These offices **aren't cleaned** every day." },
+        { "text": "The office **was cleaned** yesterday." },
+        { "text": "These houses **were built** 100 years ago." },
+        { "text": "Where **were** you **born**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "have/has + past participle",
+      "text": "**have/has + past participle** is the present perfect. We use it for things that have happened up to now.",
+      "examples": [
+        { "text": "I**'ve cleaned** my room." },
+        { "text": "Tom **has lost** his passport." },
+        { "text": "Kate **hasn't been** to Canada." },
+        { "text": "Where **have** Paul and Nicole **gone**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do/does/did + infinitive",
+      "text": "**do/does + infinitive** makes present simple negatives and questions. **did + infinitive** makes past simple negatives and questions. After do/does/did the verb has no ending.",
+      "examples": [
+        { "text": "I like coffee, but I **don't like** tea." },
+        { "text": "Chris **doesn't go** out very often." },
+        { "text": "What **do** you usually **do** at weekends?" },
+        { "text": "**Does** Silvia **live** alone?" },
+        { "text": "I **didn't watch** TV yesterday." },
+        { "text": "What time **did** Paul and Nicole **go** out?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which helping verb, and what comes after it",
+      "columns": ["Helping verb", "+ what?", "Example"],
+      "rows": [
+        ["am / is / are, was / were", "-ing", "I'm working. I was working."],
+        ["am / is / are, was / were", "past participle", "Butter is made from milk. The office was cleaned."],
+        ["have / has", "past participle", "I've cleaned my room. Tom has lost his passport."],
+        ["do / does / did", "infinitive", "I don't like tea. Did you go out?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use **is/are** with **-ing** and with a past participle, but never with **do**: say *Is Maria working?* or *Does Maria work?*, not ~~Does Maria working?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Why ___ you looking at me?",
+      "hint": "(is/are or do/does)",
+      "answers": ["are"],
+      "explanation": "looking is an -ing form, so it needs are: Why are you looking at me?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ Bill live near you?",
+      "hint": "(is/are or do/does)",
+      "answers": ["Does"],
+      "explanation": "live is the infinitive, and Bill = he, so we use Does."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the sun shining?",
+      "hint": "(is/are or do/does)",
+      "answers": ["Is"],
+      "explanation": "shining is an -ing form and the sun = it, so we use Is."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each helping verb with the sentence that uses it.",
+      "pairs": [
+        { "left": "am/is/are + -ing", "right": "Please be quiet. I'm working." },
+        { "left": "was/were + -ing", "right": "I was working when she arrived." },
+        { "left": "am/is/are + past participle", "right": "Butter is made from milk." },
+        { "left": "have/has + past participle", "right": "Tom has lost his passport." },
+        { "left": "do/does + infinitive", "right": "Does Silvia live alone?" },
+        { "left": "did + infinitive", "right": "What time did Paul go out?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gary ___ working this week. He's on holiday.",
+      "hint": "(isn't/aren't or doesn't/don't)",
+      "answers": ["isn't", "is not"],
+      "explanation": "working is an -ing form, so the negative is isn't working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nicole has travelled a lot, but she ___ speak any foreign languages.",
+      "hint": "(isn't/aren't or doesn't/don't)",
+      "answers": ["doesn't", "does not"],
+      "explanation": "speak is the infinitive, and she needs doesn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ you go out last night?",
+      "hint": "(was/were/did/have/has)",
+      "answers": ["Did"],
+      "explanation": "go is the infinitive and last night is past, so we use Did."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where ___ your mother born?",
+      "hint": "(was/were/did/have/has)",
+      "answers": ["was"],
+      "explanation": "born is a past participle and your mother is one person: Where was your mother born?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ Steve arrived yet?",
+      "hint": "(was/were/did/have/has)",
+      "answers": ["Has"],
+      "explanation": "arrived here is a past participle with yet, so we use Has (present perfect)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ___ just made some coffee. Would you like some?",
+      "options": ["have", "am", "was"],
+      "answer": 0,
+      "explanation": "made is a past participle after I, so we use have (present perfect)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each sentence use?",
+      "categories": ["be + -ing", "be + past participle", "have + past participle"],
+      "items": [
+        { "text": "Please be quiet. I'm working.", "category": 0 },
+        { "text": "It wasn't raining, so we didn't need an umbrella.", "category": 0 },
+        { "text": "Butter is made from milk.", "category": 1 },
+        { "text": "These houses were built 100 years ago.", "category": 1 },
+        { "text": "I've cleaned my room.", "category": 2 },
+        { "text": "Kate hasn't been to Canada.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't know how to say this word. How is it pronounce?",
+      "answer": false,
+      "explanation": "How is it pronounced? After is we need the past participle pronounced."
+    }
+  ]
+}

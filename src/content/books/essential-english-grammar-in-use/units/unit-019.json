@@ -1,0 +1,182 @@
+{
+  "number": 19,
+  "title": "for since ago",
+  "subtitle": "for three days / since Monday / three days ago",
+  "summary": "Use for with a period of time, since with the start of a period, and ago to say how long before now something happened.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "for and since",
+      "text": "We use **for** and **since** to say *how long*. Jane is in Ireland now. She arrived on Monday, so today is her third day there. We can say it in two ways.",
+      "examples": [
+        { "text": "Jane is in Ireland. She **has been** there **for three days**." },
+        { "text": "Jane is in Ireland. She **has been** there **since Monday**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What comes after for and after since",
+      "columns": ["for + a period of time", "since + the start of the period"],
+      "rows": [
+        ["three days", "Monday"],
+        ["an hour", "9 o'clock"],
+        ["a week", "24 July"],
+        ["a month", "Christmas"],
+        ["five years", "1985"],
+        ["a long time", "I was ten years old"]
+      ],
+      "note": "**for** = how long the period is. **since** = when the period started."
+    },
+    {
+      "type": "compare",
+      "heading": "for and since together",
+      "left": {
+        "label": "for + a period of time",
+        "text": "How long is the period?",
+        "examples": [
+          "Richard has been in Canada **for six months**. (not ~~since six months~~)",
+          "We've been waiting **for two hours**. (not ~~since two hours~~)",
+          "I've lived in London **for a long time**."
+        ]
+      },
+      "right": {
+        "label": "since + the start of the period",
+        "text": "When did the period start?",
+        "examples": [
+          "Richard has been in Canada **since January**. (= from January to now)",
+          "We've been waiting **since 9 o'clock**. (= from 9 o'clock to now)",
+          "I've lived in London **since I was ten years old**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "ago",
+      "text": "**ago** = before now. We use **ago** with the past (**started / did / had / was** etc.). The time word comes first, then **ago**.",
+      "examples": [
+        { "text": "Susan started her new job **three weeks ago**.", "note": "= three weeks before now" },
+        { "text": "*A:* When did Tom go out? *B:* **Ten minutes ago**.", "note": "= ten minutes before now" },
+        { "text": "I had dinner **an hour ago**." },
+        { "text": "Life was very different **a hundred years ago**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "ago or for?",
+      "left": {
+        "label": "ago + past",
+        "text": "We say when something happened.",
+        "examples": [
+          "**When did** Jane **arrive** in Ireland?",
+          "She **arrived** in Ireland **three days ago**.",
+          "Lynn and Mark **got** married **20 years ago**."
+        ]
+      },
+      "right": {
+        "label": "for + present perfect",
+        "text": "We say how long a situation has continued.",
+        "examples": [
+          "**How long has** she **been** in Ireland?",
+          "She **has been** in Ireland **for three days**.",
+          "Lynn and Mark **have been** married **for 20 years**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Quick test: if the words answer *when?* (Monday, 1985, Christmas), use **since**. If they answer *how long?* (three days, six months), use **for**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Jane has been in Ireland ___ Monday.",
+      "hint": "(for / since)",
+      "answers": ["since"],
+      "explanation": "Monday is the start of the period, so we use since."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My aunt has lived in Australia ___ 15 years.",
+      "hint": "(for / since)",
+      "answers": ["for"],
+      "explanation": "15 years is a period of time, so we use for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jennifer is in her office. She has been there ___ 7 o'clock.",
+      "hint": "(for / since)",
+      "answers": ["since"],
+      "explanation": "7 o'clock is the start of the period, so we use since."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bus is late. We've been waiting ___ 20 minutes.",
+      "hint": "(for / since)",
+      "answers": ["for"],
+      "explanation": "20 minutes is a period of time: for 20 minutes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "India has been an independent country ___ 1947.",
+      "options": ["since", "for", "ago"],
+      "answer": 0,
+      "explanation": "1947 is the start of the period, so we use since."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Michael has been in hospital ___ October.",
+      "hint": "(for / since)",
+      "answers": ["since"],
+      "explanation": "October is when the period started: since October."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each time expression come after for or after since?",
+      "categories": ["for", "since"],
+      "items": [
+        { "text": "20 minutes", "category": 0 },
+        { "text": "1947", "category": 1 },
+        { "text": "many years", "category": 0 },
+        { "text": "9 o'clock", "category": 1 },
+        { "text": "six months", "category": 0 },
+        { "text": "I was ten years old", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lynn and Mark have been married ___.",
+      "hint": "(20 years)",
+      "answers": ["for 20 years", "for twenty years"],
+      "explanation": "have been + for + a period of time: for 20 years."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lynn and Mark got married ___.",
+      "hint": "(20 years)",
+      "answers": ["20 years ago", "twenty years ago"],
+      "explanation": "got is the past, so we use ago: 20 years ago."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I first met Sue in 2002. I've known her ___.",
+      "hint": "(2002)",
+      "answers": ["since 2002"],
+      "explanation": "2002 is the start of the period: I've known her since 2002."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jack is here. He arrived on Tuesday. Say how long he has been here.",
+      "words": ["Jack", "has", "been", "here", "since", "Tuesday."],
+      "answer": "Jack has been here since Tuesday.",
+      "explanation": "Tuesday is the start of the period, so we use since."
+    },
+    {
+      "type": "true_false",
+      "statement": "Richard has been in Canada since six months.",
+      "answer": false,
+      "explanation": "Richard has been in Canada for six months. six months is a period of time, so we use for."
+    }
+  ]
+}

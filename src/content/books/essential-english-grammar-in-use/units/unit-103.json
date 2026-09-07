@@ -1,0 +1,184 @@
+{
+  "number": 103,
+  "title": "at 8 o'clock on Monday in April",
+  "subtitle": "at / on / in for time",
+  "summary": "Use at for clock times, on for days and dates, and in for months, years and seasons.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "at / on / in",
+      "columns": ["Preposition", "We use it with", "Examples"],
+      "rows": [
+        ["at", "clock times", "at 8 o'clock, at 10.30, at midnight"],
+        ["on", "days and dates", "on Monday, on 25 April, on New Year's Day"],
+        ["in", "months, years, seasons", "in April, in 2003, in summer"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at + clock times",
+      "text": "We use **at** with the time on the clock. We also use **at** in some other time expressions: **at night**, **at the weekend**, **at Christmas**, **at Easter**, **at the end of** ..., **at the moment**.",
+      "examples": [
+        { "text": "I start work **at 8 o'clock**." },
+        { "text": "The shops close **at 5.30**." },
+        { "text": "Are you going away **at the weekend**?" },
+        { "text": "I can't sleep **at night**." },
+        { "text": "Are you busy **at the moment**?" }
+      ],
+      "note": "We say **at Christmas**, but **on** Christmas **Day**. We also say: I'm going on holiday **at the end of** October."
+    },
+    {
+      "type": "explain",
+      "heading": "on + days and dates",
+      "text": "We use **on** with days of the week and with dates.",
+      "examples": [
+        { "text": "Bye! I'll see you **on Friday**." },
+        { "text": "What do you usually do **on Sundays**?" },
+        { "text": "The concert is **on 22 November**." },
+        { "text": "Where were you **on 28 February**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in + months, years and seasons",
+      "text": "We use **in** with months, years and seasons - longer periods of time.",
+      "examples": [
+        { "text": "I'm going on holiday **in October**." },
+        { "text": "Emma was born **in 1983**." },
+        { "text": "The park is beautiful **in spring**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in the morning / on Monday morning",
+      "left": {
+        "label": "in the morning / in the evening",
+        "text": "Use in with a part of the day alone.",
+        "examples": [
+          "I always feel good **in the morning**.",
+          "Do you often go out **in the evening**?"
+        ]
+      },
+      "right": {
+        "label": "on Monday morning / on Saturday night",
+        "text": "Use on when you say the day too.",
+        "examples": [
+          "I'm meeting Joanne **on Monday morning**.",
+          "Are you doing anything **on Saturday night**?"
+        ]
+      },
+      "note": "But we say **at night**: I can't sleep at night."
+    },
+    {
+      "type": "explain",
+      "heading": "No at / on / in before this, last, next, every",
+      "text": "We do **not** use at, on or in before **this** ..., **last** ..., **next** ... and **every** ... .",
+      "examples": [
+        { "text": "Are you going out **this evening**?" },
+        { "text": "We go on holiday **every summer**. **Last summer** we went to Canada." },
+        { "text": "I'm leaving **next Monday**.", "wrong": "on next Monday" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in five minutes / in a few days",
+      "text": "**in** + a period of time means 'from now'. **in five minutes** = five minutes from now.",
+      "examples": [
+        { "text": "Hurry! The train leaves **in five minutes**." },
+        { "text": "Bye! I'll see you **in a few days**." },
+        { "text": "My exam is **in two weeks**." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I got up ___ 8 o'clock this morning.",
+      "hint": "(at / on / in)",
+      "answers": ["at"],
+      "explanation": "We use at with clock times."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister got married ___ May.",
+      "hint": "(at / on / in)",
+      "answers": ["in"],
+      "explanation": "We use in with months."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you go out ___ Tuesday?",
+      "hint": "(at / on / in)",
+      "answers": ["on"],
+      "explanation": "We use on with days of the week."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each time expression?",
+      "categories": ["at", "on", "in"],
+      "items": [
+        { "text": "half past two", "category": 0 },
+        { "text": "the weekend", "category": 0 },
+        { "text": "night", "category": 0 },
+        { "text": "Wednesday", "category": 1 },
+        { "text": "24 September", "category": 1 },
+        { "text": "Christmas Day", "category": 1 },
+        { "text": "1997", "category": 2 },
+        { "text": "winter", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I like getting up early ___ the morning.",
+      "options": ["in", "at", "on"],
+      "answer": 0,
+      "explanation": "in the morning / in the afternoon / in the evening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll send you the money ___ the end of the month.",
+      "hint": "(at / on / in)",
+      "answers": ["at"],
+      "explanation": "We say at the end of ... ."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did you go out ___ Tuesday evening?",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "When the day is there too, we use on: on Tuesday evening."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went to France last summer.",
+      "answer": true,
+      "explanation": "Correct. We do not use at, on or in before last ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lisa's diary for next week says: Wednesday - cinema (evening). Lisa is going to the cinema ___.",
+      "answers": ["on Wednesday evening"],
+      "explanation": "The day is there too, so we use on: on Wednesday evening."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm leaving on next Monday.",
+      "answer": false,
+      "explanation": "I'm leaving next Monday. We do not use on before next ... ."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Are", "you", "going", "away", "at", "the", "weekend?"],
+      "answer": "Are you going away at the weekend?",
+      "explanation": "We say at the weekend."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's 8.25 now and the train leaves at 8.30. The train leaves ___.",
+      "answers": ["in five minutes", "in 5 minutes"],
+      "explanation": "in + a period of time means 'from now': in five minutes."
+    }
+  ]
+}

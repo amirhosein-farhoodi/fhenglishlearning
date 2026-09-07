@@ -1,0 +1,159 @@
+{
+  "number": 100,
+  "title": "Inversion 2",
+  "subtitle": "Rarely do we ... / So successful was her business ...",
+  "summary": "Invert subject and auxiliary after negative and only adverbials, after so and such, and after neither and nor.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Negative time adverbials",
+      "text": "In formal and literary language we often begin a clause with a negative adverbial. The subject and the first auxiliary then change places, and **do** appears with a simple tense.",
+      "examples": [
+        { "text": "**Seldom do we have** goods returned to us because they are faulty." },
+        { "text": "**Hardly had everybody taken** their seats when Dr Lee began her lecture." }
+      ],
+      "note": "The adverbials in this group: never (before), rarely, seldom; barely / hardly / scarcely ... when / before; no sooner ... than."
+    },
+    {
+      "type": "explain",
+      "heading": "only + a time expression or a prepositional phrase",
+      "text": "**only** at the front of a clause also brings inversion - with a time expression (only after, only later, only if, only once, only then, only when) or with other prepositional phrases (only by ..., only in ..., only with ...).",
+      "examples": [
+        { "text": "She bought a newspaper and some milk at the shop on the corner. **Only later did she realise** that she'd been given the wrong change." },
+        { "text": "**Only when she apologises will I speak** to her again." },
+        { "text": "**Only by chance had Carl discovered** where the birds were nesting." },
+        { "text": "Maria had to work in the evenings. **Only in this way was she able** to complete the report." }
+      ],
+      "note": "Inversion can also follow a whole clause beginning only after / if / when or not until: Not until the train pulled into the station did Miguel find that his coat had gone."
+    },
+    {
+      "type": "explain",
+      "heading": "at no time, on no account, under no circumstances",
+      "text": "Fixed negative phrases such as **at no time, in no way, on no account** and **under / in no circumstances** work the same way.",
+      "examples": [
+        { "text": "**At no time did they** actually break the rules of the game." },
+        { "text": "**Under no circumstances are passengers permitted** to open the doors themselves." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not only, not until, not a ..., little",
+      "text": "Expressions with **not** - not only, not until, not since, not for one moment, not a + noun - and **little** with a negative meaning also require inversion.",
+      "examples": [
+        { "text": "**Not until August did the government order** an inquiry into the accident." },
+        { "text": "**Not a word had she written** since the exam had started." },
+        { "text": "**Little do they know** how lucky they are to live in such a wonderful house.", "note": "= they don't know, or they don't know sufficiently" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "so + adjective ... that; such + be ... that",
+      "text": "We can front **so + adjective** to emphasise the adjective, and **such + be** to emphasise the extent or degree of something. In both cases the subject and first auxiliary are inverted.",
+      "examples": [
+        { "text": "**So successful was her business**, that Lana was able to retire at the age of 50." },
+        { "text": "**So dangerous did weather conditions become**, that all mountain roads were closed." },
+        { "text": "**Such is the popularity** of the play that the theatre is likely to be full every night." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "neither and nor",
+      "text": "We use inversion after **neither** and **nor** when they begin a clause that adds a negative point to a previous negative one.",
+      "examples": [
+        { "text": "For some time after the explosion Jack couldn't hear, and **neither could he see**." },
+        { "text": "The council never wanted the new supermarket to be built, **nor did local residents**." }
+      ],
+      "note": "The same order appears in the short replies Neither / Nor do I, Neither / Nor does Diane, So do I, So does Maya."
+    },
+    {
+      "type": "tip",
+      "text": "After a negative or only adverbial at the front, use question word order: the auxiliary comes before the subject, and do appears if there is no other auxiliary."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite 'The public was never in any danger': At no time ___ the public in any danger.",
+      "answers": ["was"],
+      "explanation": "After At no time the verb comes before the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite 'A new film has not often before produced such positive reviews': Rarely ___ a new film produced such positive reviews.",
+      "answers": ["has"],
+      "explanation": "Rarely at the front brings the auxiliary in front of the subject."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Under no circumstances ___ to open the doors themselves.",
+      "options": ["are passengers permitted", "passengers are permitted", "permitted are passengers"],
+      "answer": 0,
+      "explanation": "Under no circumstances is a negative adverbial, so the auxiliary are goes before the subject."
+    },
+    {
+      "type": "true_false",
+      "statement": "Hardly the evacuation had been completed when the wind changed direction.",
+      "answer": false,
+      "explanation": "Hardly had the evacuation been completed when the wind changed direction. After hardly the auxiliary comes before the subject."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the halves of these so and such sentences.",
+      "pairs": [
+        { "left": "Such was the strength of the earthquake", "right": "that few buildings were left standing." },
+        { "left": "Such is her dominance in the sport", "right": "that she hasn't lost a match for over three years." },
+        { "left": "So alike were the twins", "right": "that even their parents couldn't tell them apart." },
+        { "left": "So complicated was the equation", "right": "that it even took a computer three days to solve it." },
+        { "left": "So boring was the lesson", "right": "that most of the students went to sleep." },
+        { "left": "Such is the popularity of the play", "right": "that the theatre is likely to be full every night." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite 'He only felt entirely relaxed with close friends and family': Only with close friends and family ___ entirely relaxed.",
+      "hint": "(he / feel)",
+      "answers": ["did he feel"],
+      "explanation": "There is no auxiliary in the original, so do is added: did he feel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "For some time after the explosion Jack couldn't hear, and ___.",
+      "options": ["neither could he see", "neither he could see", "neither he saw"],
+      "answer": 0,
+      "explanation": "neither at the front of a clause is followed by auxiliary + subject."
+    },
+    {
+      "type": "true_false",
+      "statement": "'At no time did the fires pose a real threat,' said one local man.",
+      "answer": true,
+      "explanation": "Correct. At no time + did + subject + bare infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite 'He has only been acknowledged to be a great author in the last few years': Only in the last few years ___ been acknowledged to be a great author.",
+      "answers": ["has he"],
+      "explanation": "Only in + phrase puts the auxiliary has in front of the subject he."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'The match won't be cancelled unless the pitch is frozen' beginning Only if ... .",
+      "words": ["Only if", "the pitch", "is frozen", "will", "the match", "be cancelled."],
+      "answer": "Only if the pitch is frozen will the match be cancelled.",
+      "explanation": "Inversion follows the whole only if clause, not the words inside it."
+    },
+    {
+      "type": "true_false",
+      "statement": "So upset some elderly residents are that they are threatening to complain to their MP.",
+      "answer": false,
+      "explanation": "So upset are some elderly residents that they are threatening to complain to their MP. Fronted so + adjective requires inversion."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'I didn't know then that Carmen and I would be married one day' beginning Little ... .",
+      "words": ["Little", "did I know", "then", "that Carmen and I", "would be married", "one day."],
+      "answer": "Little did I know then that Carmen and I would be married one day.",
+      "explanation": "little has a negative meaning here, so do is added and inverted."
+    }
+  ]
+}

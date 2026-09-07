@@ -1,0 +1,177 @@
+{
+  "number": 44,
+  "title": "is it ... ? have you ... ? do they ... ? etc. (questions 1)",
+  "subtitle": "Are you eating? Do they work hard?",
+  "summary": "Make questions by putting the first verb before the subject, and use do/does/did for the present and past simple.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The verb comes first",
+      "text": "In a positive sentence the subject comes first: *You are eating.* In a question the first verb (**is**, **are**, **have**, **can** ...) comes before the subject.",
+      "examples": [
+        { "text": "**You are** eating.", "note": "positive" },
+        { "text": "**Are you** eating?", "note": "question" },
+        { "text": "What **are you** eating?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "From positive to question",
+      "columns": ["Positive (subject + verb)", "Question (verb + subject)"],
+      "rows": [
+        ["I **am** late.", "**Am I** late?"],
+        ["That seat **is** free.", "**Is that seat** free?"],
+        ["She **was** angry.", "Why **was she** angry?"],
+        ["David **has** gone.", "Where **has David** gone?"],
+        ["You **have** got a car.", "**Have you** got a car?"],
+        ["They **will** be here soon.", "When **will they** be here?"],
+        ["Paula **can** swim.", "**Can Paula** swim?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The subject is after the first verb",
+      "text": "Keep the subject right after the first verb. Do not put it at the end of the question.",
+      "examples": [
+        { "text": "Where **has David** gone?", "wrong": "Where has gone David?" },
+        { "text": "**Are those people** waiting for something?", "wrong": "Are waiting those people?" },
+        { "text": "When **was the telephone** invented?", "wrong": "When was invented the telephone?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "do / does / did",
+      "columns": ["Question type", "do / does / did", "Subject", "Verb"],
+      "rows": [
+        ["present simple", "do", "I / we / you / they", "work / live / go ... ?"],
+        ["present simple", "does", "he / she / it", "work / live / go ... ?"],
+        ["past simple", "did", "I / he / she / they ...", "work / live / go ... ?"]
+      ],
+      "note": "After do/does/did the verb has no ending: *Does Chris **work** hard?*, not ~~Does Chris works~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Questions with do, does and did",
+      "text": "The present simple and the past simple have no other helping verb, so we add **do**, **does** or **did** before the subject.",
+      "examples": [
+        { "text": "They work hard. -> **Do they work** hard?" },
+        { "text": "You watch television. -> How often **do you watch** television?" },
+        { "text": "Chris works hard. -> **Does Chris work** hard?" },
+        { "text": "She gets up early. -> What time **does she get** up?" },
+        { "text": "You had dinner. -> What **did you have** for dinner?" }
+      ],
+      "note": "Sometimes **do** is also the main verb: *What **do** you usually **do** at weekends?* and *How **did** you **do** that?*"
+    },
+    {
+      "type": "explain",
+      "heading": "Why isn't ... ? Why don't ... ?",
+      "text": "In a negative question the negative verb still comes before the subject.",
+      "examples": [
+        { "text": "Where's John? Why **isn't he** here?", "wrong": "Why he isn't here?" },
+        { "text": "Why **can't Paula** come to the meeting tomorrow?", "wrong": "Why Paula can't come?" },
+        { "text": "Why **didn't you** phone me last night?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: is there already a verb like *is*, *are*, *have*, *will* or *can*? If yes, move it in front of the subject. If not, use do, does or did."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I can swim. *B:* ___ swim?",
+      "hint": "(and you?)",
+      "answers": ["Can you"],
+      "explanation": "can is already in the sentence, so it goes before the subject: Can you swim?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I was late this morning. *B:* ___ late this morning?",
+      "hint": "(and you?)",
+      "answers": ["Were you"],
+      "explanation": "was/were goes before the subject: Were you late this morning?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I've got a key. *B:* ___ a key?",
+      "options": ["Has Kate got", "Kate has got", "Does Kate got", "Has got Kate"],
+      "answer": 0,
+      "explanation": "have/has comes before the subject: Has Kate got a key?"
+    },
+    {
+      "type": "matching",
+      "prompt": "You are asking a friend about driving. Match each question with her answer.",
+      "pairs": [
+        { "left": "Have you got a car?", "right": "Yes, I have." },
+        { "left": "Do you use it a lot?", "right": "Yes, nearly every day." },
+        { "left": "Did you use it yesterday?", "right": "Yes, to go to work." },
+        { "left": "Do you enjoy driving?", "right": "Not very much." },
+        { "left": "Are you a good driver?", "right": "I think I am." },
+        { "left": "Have you ever had an accident?", "right": "No, never." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I live near here. *B:* ___ near here?",
+      "hint": "(and Nicole?)",
+      "answers": ["Does Nicole live"],
+      "explanation": "Nicole = she, so the present simple question is Does Nicole live ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I enjoyed the film. *B:* ___ the film?",
+      "hint": "(and you?)",
+      "answers": ["Did you enjoy"],
+      "explanation": "The past simple question uses did + the verb with no ending."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word begins each question: do, does or did?",
+      "categories": ["do", "does", "did"],
+      "items": [
+        { "text": "... you like your job?", "category": 0 },
+        { "text": "... they work hard?", "category": 0 },
+        { "text": "... Nicole live near here?", "category": 1 },
+        { "text": "... Chris work hard?", "category": 1 },
+        { "text": "... you have a good holiday last week?", "category": 2 },
+        { "text": "... she get up early yesterday?", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with these words.",
+      "words": ["What time", "does", "your", "train", "leave?"],
+      "answer": "What time does your train leave?",
+      "explanation": "does comes before the subject (your train), and the verb has no ending."
+    },
+    {
+      "type": "true_false",
+      "statement": "Where has gone David?",
+      "answer": false,
+      "explanation": "Where has David gone? The subject comes straight after the first verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with these words.",
+      "words": ["Why", "didn't", "Emily", "go", "to work?"],
+      "answer": "Why didn't Emily go to work?",
+      "explanation": "In a negative question, didn't comes before the subject Emily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Angela doesn't like me. *B:* Why ___ you?",
+      "hint": "(she / like)",
+      "answers": ["doesn't she like", "does not she like"],
+      "explanation": "Why doesn't she like you? The negative verb stays before the subject."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with these words.",
+      "words": ["Was", "your car", "damaged", "in", "the accident?"],
+      "answer": "Was your car damaged in the accident?",
+      "explanation": "was comes before the subject (your car) in the question."
+    }
+  ]
+}

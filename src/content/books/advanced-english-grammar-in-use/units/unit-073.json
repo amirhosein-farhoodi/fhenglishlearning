@@ -1,0 +1,183 @@
+{
+  "number": 73,
+  "title": "Comparative phrases and clauses",
+  "subtitle": "as normal a life as / too strong a word",
+  "summary": "Build comparisons with as ... as, not as/such ... as, as many/much as, enough, too and so ... that / as to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "as + adjective / adverb + as",
+      "text": "We use **as ... as** to say that something or someone is like something or someone else, or that one situation is like another. The negative can use either **not as** or **not so**; in formal speech and writing **less** + adjective + **than** is more common.",
+      "examples": [
+        { "text": "Was the film **as funny as** his last one?" },
+        { "text": "I came round **as quickly as** I could." },
+        { "text": "The gap between the sides is **not as / so wide as** it was.", "note": "or ... is less wide than it was." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A noun inside the comparison",
+      "text": "If we put a singular countable noun between the adjective and the second *as*, we need **a / an** in front of the noun. The negative can use **not as** + adjective + a/an + noun, or **not such a / an** + adjective + noun - but not a mixture of the two.",
+      "examples": [
+        { "text": "Despite his disability, he tried to lead **as normal a life as** possible.", "wrong": "as normal life as possible" },
+        { "text": "It's **not as quiet a place as** it used to be.", "note": "or ... not such a quiet place as ..." },
+        { "text": "She's **not such a fluent Greek speaker as** she claims to be." }
+      ],
+      "note": "So, too and how work in the same way: It's not quite so straightforward a problem as it might at first seem. / 'Conspiracy' is perhaps too strong a word. / How big a piece do you want?"
+    },
+    {
+      "type": "explain",
+      "heading": "as much / many as, as little / few as",
+      "text": "These phrases say that a quantity or amount is larger or smaller than expected. **Many** and **few** are preferred before numbers; **much** and **little** are preferred with amounts (£40, 25%) and distances (50 metres).",
+      "examples": [
+        { "text": "There are a small number of people involved, possibly **as few as** twenty." },
+        { "text": "Prices have increased by **as much as** 300%." },
+        { "text": "**As many as** 5,000 people phoned in to complain about last night's TV programme." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not ... enough + to-infinitive",
+      "text": "We use **not** + adjective / adverb + **enough** + to-infinitive to say that there isn't as much of something as is necessary. **Sufficiently** goes before the adjective or adverb and is often preferred in formal contexts.",
+      "examples": [
+        { "text": "I'm **not tall enough to** reach." },
+        { "text": "He **didn't speak loudly enough to** be heard." },
+        { "text": "She **didn't play sufficiently well to** qualify.", "note": "or ... well enough to qualify." }
+      ],
+      "note": "Choose one or the other: not ~~sufficiently well enough~~."
+    },
+    {
+      "type": "explain",
+      "heading": "too + adjective / adverb + to-infinitive",
+      "text": "**Too** ... + to-infinitive means 'more than is necessary, possible or wanted' to do something. In rather formal English we can also use too + adjective + a / an + noun.",
+      "examples": [
+        { "text": "They arrived **too late to** get seats." },
+        { "text": "It moved **too fast to** see it clearly." },
+        { "text": "The suitcase was **too small (for him) to** get all his clothes in." },
+        { "text": "I hope you haven't had **too tiring a day**.", "wrong": "a too tiring day" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "so ... that or so ... as to?",
+      "left": {
+        "label": "so + adjective / adverb + that-clause",
+        "text": "The everyday pattern: something happened to such a degree that a particular result followed.",
+        "examples": [
+          "It's **so simple that** even I can do it.",
+          "He came in **so quietly that** I didn't hear him.",
+          "The difference was **so small that** it wasn't worth arguing about."
+        ]
+      },
+      "right": {
+        "label": "so + adjective / adverb + as + to-infinitive",
+        "text": "Less common, and more formal, but the same meaning.",
+        "examples": [
+          "The difference was **so small as to** not be worth arguing about.",
+          "Her handwriting was **so untidy as to** be nearly illegible."
+        ]
+      },
+      "note": "Use go so / as far as + to-infinitive for surprising or extreme actions: One furious woman went so / as far as to throw tomatoes at the minister."
+    },
+    {
+      "type": "tip",
+      "text": "With a singular noun inside the comparison the order is fixed: adjective + a/an + noun. *as normal a life as*, *too strong a word*, *how big a piece*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I came round ___ as I could.",
+      "hint": "(quick)",
+      "answers": ["as quickly"],
+      "explanation": "as + adverb + as compares how something was done."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ 5,000 people phoned in to complain about last night's TV programme.",
+      "hint": "(as ... as)",
+      "answers": ["As many as"],
+      "explanation": "Many is preferred before a number."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We don't use much electricity. Sometimes our bill is ___ £40 a month.",
+      "hint": "(as ... as)",
+      "answers": ["as little as"],
+      "explanation": "Little is preferred with amounts of money."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The Downtown Hotel is ___ to stay as the Strand Hotel.",
+      "options": ["not such a pleasant place", "not as pleasant place", "not such pleasant a place"],
+      "answer": 0,
+      "explanation": "Either not such a + adjective + noun, or not as + adjective + a + noun (not as pleasant a place as) - never a mixture."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The President's address to the nation is as ___ as he is ever likely to make in his career.",
+      "hint": "(important / speech)",
+      "answers": ["important a speech"],
+      "explanation": "A singular countable noun inside the comparison needs a / an in front of it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pair of words completes each sentence: as many/few as, or as much/little as?",
+      "categories": ["as many as / as few as", "as much as / as little as"],
+      "items": [
+        { "text": "When it was really hot I was having ___ four showers a day.", "category": 0 },
+        { "text": "The elephant population may soon fall to ___ 1,000 from 5,000 ten years ago.", "category": 0 },
+        { "text": "At the end of the 200-metre race there was ___ 50 metres between the first and second runners.", "category": 1 },
+        { "text": "Lit continuously, the life of a light bulb varies from ___ two weeks to three months.", "category": 1 },
+        { "text": "Some days there were ___ three or four students at his lectures.", "category": 0 },
+        { "text": "The country spends ___ 25% of its income on defence.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Join each first half to the clause that completes it with so + adjective + as + to-infinitive.",
+      "pairs": [
+        { "left": "The noise from the factory was so loud", "right": "as to prevent me sleeping." },
+        { "left": "Her handwriting was so untidy", "right": "as to be nearly illegible." },
+        { "left": "The bookcase was so heavy", "right": "as to be almost impossible to move." },
+        { "left": "The CD was so badly scratched", "right": "as to be unplayable." },
+        { "left": "The plot of the novel was so complicated", "right": "as to be completely incomprehensible." },
+        { "left": "The difference between the results was so small", "right": "as to be insignificant." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He didn't speak ___ to be heard at the back of the hall.",
+      "hint": "(loud + enough)",
+      "answers": ["loudly enough"],
+      "explanation": "Enough follows the adjective or adverb: not + adverb + enough + to-infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's certainly enough bad to keep him out of football for at least six months.",
+      "answer": false,
+      "explanation": "It's certainly bad enough to keep him out of football ... Enough comes after the adjective, not before it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Well, we all wish him ___ recovery as possible.",
+      "hint": "(speedy)",
+      "answers": ["as speedy a"],
+      "explanation": "as + adjective + a + noun + as is the fixed order."
+    },
+    {
+      "type": "true_false",
+      "statement": "I know him sufficiently well enough to say that he will consider his future carefully.",
+      "answer": false,
+      "explanation": "I know him sufficiently well / well enough to say ... Sufficiently and enough do the same job, so we use one or the other."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "But I wouldn't go so far ___ say that he'll never play for the national team again.",
+      "hint": "two words",
+      "answers": ["as to"],
+      "explanation": "go so / as far as + to-infinitive describes a surprising or extreme action."
+    }
+  ]
+}

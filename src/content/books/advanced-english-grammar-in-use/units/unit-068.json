@@ -1,0 +1,176 @@
+{
+  "number": 68,
+  "title": "Gradable and non-gradable adjectives 2",
+  "subtitle": "a very old house / my old professor",
+  "summary": "Spot adjectives that switch between a gradable and a non-gradable sense, and emphasise with good / lovely / nice and ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Same adjective, different meaning",
+      "left": {
+        "label": "Gradable - a quality in degrees",
+        "examples": [
+          "Smith is a **very common** name. (= frequently found)",
+          "The house is **very old**. (= it has existed many years)"
+        ]
+      },
+      "right": {
+        "label": "Non-gradable - a category",
+        "examples": [
+          "We have a lot of **common** interests. (= shared; not ~~very common interests~~)",
+          "I met my **old** politics professor the other day. (= former)"
+        ]
+      },
+      "note": "Also civil, clean, critical, electric (= 'exciting' when gradable), empty, false, late, odd, original, particular, straight."
+    },
+    {
+      "type": "compare",
+      "heading": "Similar meaning, different job",
+      "left": {
+        "label": "Qualitative - gradable",
+        "text": "We talk about the quality a person or thing has, so an adverb is possible.",
+        "examples": [
+          "I don't know where he came from, but he sounded **slightly foreign**. (= not from this country)",
+          "They had a **very public** argument. (= seen or heard by a lot of people)"
+        ]
+      },
+      "right": {
+        "label": "Classifying - non-gradable",
+        "text": "We say which category or type something belongs to, so no adverb is used.",
+        "examples": [
+          "She is now advising on the government's **foreign** policy. (= concerning other countries)",
+          "He was forced to resign by **public** pressure. (= from many people in the community)"
+        ]
+      },
+      "note": "Also academic, adult, average, diplomatic, genuine, guilty, human, individual, innocent, mobile, private, professional, scientific, technical, true, wild."
+    },
+    {
+      "type": "table",
+      "heading": "One adjective, two senses",
+      "columns": ["Adjective", "Gradable", "Non-gradable"],
+      "rows": [
+        ["late", "The train is **very late** again.", "I was given the oil painting by my **late** uncle Simon. (= who has died)"],
+        ["critical", "The report was **very critical** of the police officers involved. (= finding fault)", "The driver of the overturned lorry was in a **critical** condition in hospital. (= extremely serious)"],
+        ["straight", "The path to the summit of the hill was **very straight** and steep.", "I had a **straight** choice between working for my father and having no job at all. (= a simple choice of two)"],
+        ["original", "The novel was praised for its **very original** use of language.", "The **original** fireplaces had been removed and replaced by more modern ones. (= the first ones)"],
+        ["false", "Some people seemed **very false**, so I could never be sure if they meant what they said. (= insincere)", "She was accused of giving **false** information during the trial. (= untrue)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "good and ..., lovely and ..., nice and ...",
+      "text": "In spoken English we can put good and, lovely and or nice and in front of another gradable adjective to emphasise it. Each of the three has its own set of partners.",
+      "examples": [
+        { "text": "If you're all feeling **good and relaxed** after the break, let's get on with the meeting." },
+        { "text": "It's **lovely and warm** in here. Freezing outside, though." },
+        { "text": "*A:* Shall we get some strawberries? *B:* Yes, they look **nice and fresh**." }
+      ],
+      "note": "good and ready / proper / relaxed / strong (but not good and beautiful / rich / tall); lovely and dry / soft / sunny / warm (but not lovely and decent / empty / short); nice and bright / clean / cold / comfortable / early / fresh / juicy / quiet / simple / soft / tidy / warm (but not nice and interesting / handsome / exciting)."
+    },
+    {
+      "type": "explain",
+      "heading": "more and more, higher and higher",
+      "text": "We can link two comparative adjectives or adverbs with and to talk about a quality that keeps increasing. Long adjectives use more and more.",
+      "examples": [
+        { "text": "As she got **more and more excited**, her voice got **higher and higher** and **louder and louder**." },
+        { "text": "The taxi driver just drove **faster and faster and faster** until I told him to stop, and I got out." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before adding very, check which sense you mean. If the adjective is naming a category (foreign policy, public pressure, a critical condition), leave the adverb out - it would change the meaning."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The train is ___ again. I wonder if the bad weather has delayed it.",
+      "hint": "(late)",
+      "answers": ["very late"],
+      "explanation": "Late meaning 'behind time' is gradable, so very is possible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was given the oil painting by my ___ uncle Simon.",
+      "options": ["late", "very late", "quite late"],
+      "answer": 0,
+      "explanation": "Here late means 'who has died' - a non-gradable sense, so no adverb."
+    },
+    {
+      "type": "true_false",
+      "statement": "We have a lot of very common interests.",
+      "answer": false,
+      "explanation": "We have a lot of common interests. Common meaning 'shared' is non-gradable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The report was ___ of the police officers involved in the investigation.",
+      "hint": "(critical)",
+      "answers": ["very critical"],
+      "explanation": "Critical meaning 'finding fault' is gradable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The driver of the overturned lorry was in a ___ condition in hospital last night.",
+      "options": ["critical", "very critical", "slightly critical"],
+      "answer": 0,
+      "explanation": "A critical condition is a category of medical condition, so it is non-gradable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The instructions were ___ and clearly meant for an expert.",
+      "hint": "(technical)",
+      "answers": ["highly technical"],
+      "explanation": "Here technical describes a quality of the instructions, so an adverb is possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Being frightened in this situation is a ___ response and nothing to be ashamed of.",
+      "hint": "(human)",
+      "answers": ["very human"],
+      "explanation": "Human here describes a quality of the response, so it is gradable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was ___ person and had few close friends.",
+      "hint": "(private)",
+      "answers": ["an intensely private"],
+      "explanation": "Private here is a quality of the person, so an adverb can be added."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've put you in the spare room at the back of the house, so it'll be ___.",
+      "hint": "(nice and ...)",
+      "answers": ["nice and quiet"],
+      "explanation": "Nice and + a gradable adjective emphasises the adjective."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Have you felt the material my new coat's made of? *B:* Oh, it's ___.",
+      "options": ["lovely and soft", "lovely and decent", "good and beautiful"],
+      "answer": 0,
+      "explanation": "Each phrase has its own partners: lovely and soft is normal, lovely and decent is not."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Describe how her voice changed as her excitement grew.",
+      "words": ["As she got", "more and more excited,", "her voice got", "higher and higher", "and", "louder and louder."],
+      "answer": "As she got more and more excited, her voice got higher and higher and louder and louder.",
+      "explanation": "Linked comparatives describe a quality that keeps increasing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the adjective being used in its gradable sense or its non-gradable sense?",
+      "categories": ["Gradable use", "Non-gradable use"],
+      "items": [
+        { "text": "The train is very late again.", "category": 0 },
+        { "text": "The oil painting was a present from my late uncle Simon.", "category": 1 },
+        { "text": "The report was very critical of the officers involved.", "category": 0 },
+        { "text": "The driver was in a critical condition in hospital.", "category": 1 },
+        { "text": "The novel was praised for its very original use of language.", "category": 0 },
+        { "text": "The original fireplaces had been removed.", "category": 1 }
+      ]
+    }
+  ]
+}

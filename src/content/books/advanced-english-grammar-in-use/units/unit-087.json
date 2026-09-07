@@ -1,0 +1,187 @@
+{
+  "number": 87,
+  "title": "Connecting ideas in a sentence and between sentences",
+  "subtitle": "As a result, ... / so that ...",
+  "summary": "Tell sentence connectors from conjunctions, punctuate them correctly, and use even though, even so and however precisely.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Two kinds of linking word",
+      "left": {
+        "label": "Sentence connectors - link one sentence to a previous one",
+        "text": "They often, but not always, go at the beginning of the sentence.",
+        "examples": [
+          "There was no heating in the building. **As a result**, the workers had to be sent home."
+        ]
+      },
+      "right": {
+        "label": "Conjunctions - link clauses inside one sentence",
+        "examples": [
+          "**While** I was waiting, I read a magazine.",
+          "I stood up **so that** I could see better."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Which word does which job",
+      "columns": ["Type of connection", "Sentence connectors", "Conjunctions"],
+      "rows": [
+        ["Comparing, contrasting, unexpected", "after all, all the same, alternatively, anyway, by contrast, even so, however, in any case, in contrast, instead, nevertheless, on the contrary, on the other hand", "although, even though, though, whereas, while, yet"],
+        ["Reasons and results", "as a consequence, as a result, consequently, for one thing, so; hence, in consequence, therefore, thus (rather formal)", "as, because, for, in that, since, insofar as, so, so that"],
+        ["Adding information", "above all, after all, also, besides, furthermore, in addition, likewise, moreover, similarly, what's more; as well, too (these two not at the start of a sentence)", "-"],
+        ["Condition", "if not, if so, otherwise", "as long as, assuming (that), if, on condition that, provided (that), so long as, supposing (that), unless"],
+        ["Time: one event at the same time as another", "at that time, at the same time, meanwhile", "as, when, whenever, while"],
+        ["Time: one event before or after another", "after, after that, afterwards, before, before that, earlier, later, previously, soon, subsequently, then", "after, as soon as, before, since, until"]
+      ],
+      "note": "After, before and so can be both connectors and conjunctions."
+    },
+    {
+      "type": "explain",
+      "heading": "Punctuating a connector inside a sentence",
+      "text": "We can't use a sentence connector on its own with a comma to join two clauses in one sentence. It works if the clauses are joined with **and, but, or, so**, or with a semi-colon, colon or dash.",
+      "examples": [
+        { "text": "The building was extremely well constructed **and, as a result,** difficult to demolish." },
+        { "text": "You could fly via Singapore**; however,** this isn't the only way." },
+        { "text": "I expect to be promoted**;** if not, I'll leave.", "wrong": "I expect to be promoted, if not I'll leave" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "even though and even so",
+      "left": {
+        "label": "even though - a conjunction, inside one sentence",
+        "text": "It says that a fact doesn't make the rest of the sentence untrue.",
+        "examples": [
+          "**Even though** it was midday, I put on the light."
+        ]
+      },
+      "right": {
+        "label": "even so - a connector, between sentences",
+        "text": "It introduces a fact that is surprising after what was just said.",
+        "examples": [
+          "It was midday. **Even so**, I put on the light."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "however as an adverb",
+      "text": "**However** is often a sentence connector, but it can also be an adverb followed by an adjective, an adverb, or much / many.",
+      "examples": [
+        { "text": "We just don't have the money to do the work, **however necessary** you think it is." },
+        { "text": "**However many** times I see the Eiffel Tower, it never fails to impress me." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "however as a conjunction",
+      "text": "**However** can also be a conjunction meaning 'in whatever way'.",
+      "examples": [
+        { "text": "**However** she held the mirror, she couldn't see the back of her neck." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you write a comma, ask whether the linking word is a conjunction: only a conjunction can join two clauses on its own."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Mara cut the cake carefully into slices ___ everybody had their fair share.",
+      "hint": "(so that / otherwise)",
+      "answers": ["so that"],
+      "explanation": "So that is a conjunction, so it can join the two clauses on its own."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One way of getting rid of weeds is to dig them out. ___, you could poison them.",
+      "hint": "(Alternatively / While)",
+      "answers": ["Alternatively"],
+      "explanation": "A new sentence needs a connector; Alternatively offers another possibility."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My landlady didn't mind me having parties in my room ___ the rent was paid on time.",
+      "hint": "(as long as / otherwise)",
+      "answers": ["as long as"],
+      "explanation": "As long as is a conjunction of condition, joining the clauses inside one sentence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A mass evacuation of islanders is taking place. ___, the volcano continues to erupt.",
+      "hint": "(Meanwhile / While)",
+      "answers": ["Meanwhile"],
+      "explanation": "Between two sentences the connector is Meanwhile; while is a conjunction."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The course taught me a lot about astronomy. ___, there is still a lot to learn.",
+      "options": ["Even so", "Even though", "Even if"],
+      "answer": 0,
+      "explanation": "Even so is the connector that links two sentences; even though joins clauses."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I felt guilty about leaving the company ___ I knew it was the right decision.",
+      "options": ["even though", "even so", "nevertheless"],
+      "answer": 0,
+      "explanation": "Inside one sentence we need the conjunction even though."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'll have to buy some ladders ___ I can borrow a pair from Harry.",
+      "options": ["unless", "if not", "otherwise"],
+      "answer": 0,
+      "explanation": "Only the conjunction unless can join the clauses without extra punctuation."
+    },
+    {
+      "type": "true_false",
+      "statement": "I expect to be promoted, if not I'll leave.",
+      "answer": false,
+      "explanation": "I expect to be promoted; if not, I'll leave. A sentence connector cannot join two clauses with just a comma."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Notice how the connector is punctuated inside the sentence.",
+      "words": ["The building was", "extremely well constructed", "and,", "as a result,", "difficult to demolish."],
+      "answer": "The building was extremely well constructed and, as a result, difficult to demolish.",
+      "explanation": "With and in front of it, the connector as a result can sit inside a single sentence."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each linking word a sentence connector or a conjunction?",
+      "categories": ["Sentence connector", "Conjunction"],
+      "items": [
+        { "text": "as a result", "category": 0 },
+        { "text": "even so", "category": 0 },
+        { "text": "meanwhile", "category": 0 },
+        { "text": "nevertheless", "category": 0 },
+        { "text": "even though", "category": 1 },
+        { "text": "whereas", "category": 1 },
+        { "text": "so that", "category": 1 },
+        { "text": "unless", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the halves of these sentences with however + adjective / adverb / much / many.",
+      "pairs": [
+        { "left": "However hard you might exercise,", "right": "it is difficult to lose weight without cutting down on the amount you eat." },
+        { "left": "However much we enjoy being together,", "right": "it is important to spend some time apart." },
+        { "left": "However many times I see the Eiffel Tower,", "right": "it never fails to impress me." },
+        { "left": "Professor Malcolm is always happy to spend time with his students,", "right": "however busy he might be." },
+        { "left": "Some people never seem content,", "right": "however much money they have." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She is determined to be a successful artist, however ___ it might be to achieve.",
+      "hint": "(+ adjective)",
+      "answers": ["difficult"],
+      "explanation": "Here however is an adverb and is followed directly by an adjective."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "number": 16,
+  "title": "I've just ... I've already ... I haven't ... yet (present perfect 2)",
+  "subtitle": "just / already / yet",
+  "summary": "Use just for a short time ago, already for sooner than expected, and yet in negatives and questions about now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I've just ...",
+      "text": "**just** = a short time ago. Two guests come through the door of a party and the host says *'Welcome!'* - **they have just arrived**. Put **just** between have/has and the past participle.",
+      "examples": [
+        { "text": "*A:* Are Diane and Paul here? *B:* Yes, they**'ve just arrived**." },
+        { "text": "*A:* Are you hungry? *B:* No, **I've just had** dinner." },
+        { "text": "*A:* Is Tom here? *B:* No, I'm afraid he**'s just gone**.", "note": "= he has just gone" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I've already ...",
+      "text": "**already** = before you expected / before I expected. It also goes between have/has and the past participle.",
+      "examples": [
+        { "text": "*A:* What time are Diane and Paul coming? *B:* They**'ve already arrived**.", "note": "= before you expected" },
+        { "text": "It's only 9 o'clock and Anna **has already gone** to bed." },
+        { "text": "*A:* Jon, this is Emma. *B:* Yes, I know. We**'ve already met**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where do just and already go?",
+      "columns": ["Subject + have/has", "just / already", "Past participle"],
+      "rows": [
+        ["They've", "just", "arrived."],
+        ["I've", "just", "had dinner."],
+        ["Anna has", "already", "gone to bed."],
+        ["We've", "already", "met."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I haven't ... yet",
+      "text": "**yet** = until now. We use **yet** in negative sentences and in questions, and it usually goes at the **end** of the sentence. *I haven't ... yet* means I expect it to happen soon.",
+      "examples": [
+        { "text": "*A:* Are Diane and Paul here? *B:* No, they **haven't arrived yet**.", "note": "but B expects them soon" },
+        { "text": "*A:* Does James know that you're going away? *B:* No, I **haven't told** him **yet**." },
+        { "text": "Silvia has bought a new dress, but she **hasn't worn** it **yet**." },
+        { "text": "Some people are sitting in the cinema. The film **hasn't started yet**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "yet in negatives and in questions",
+      "left": {
+        "label": "I haven't ... yet",
+        "examples": [
+          "They **haven't arrived yet**.",
+          "I **haven't told** him **yet**.",
+          "She **hasn't worn** it **yet**."
+        ]
+      },
+      "right": {
+        "label": "Have you ... yet?",
+        "examples": [
+          "**Have** Diane and Paul **arrived yet**?",
+          "**Has** Nicole **started** her new job **yet**?",
+          "This is my new dress. - Oh, it's nice. **Have** you **worn** it **yet**?"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "just and already go in the middle of the sentence; yet goes at the end: *Have you eaten **yet**?*, not ~~Have you yet eaten?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A man is getting out of bed and the sun is shining outside. He ___ up.",
+      "hint": "(just / get)",
+      "answers": ["has just got", "'s just got"],
+      "explanation": "It happened a short time ago: he has just got up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The starter has fired his pistol and the runners are running. The race ___.",
+      "hint": "(just / start)",
+      "answers": ["has just started"],
+      "explanation": "just = a short time ago: the race has just started."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the reply that uses already.",
+      "pairs": [
+        { "left": "What time is Paul arriving?", "right": "He's already arrived." },
+        { "left": "Do your friends want to see the film?", "right": "No, they've already seen it." },
+        { "left": "Don't forget to phone Tom.", "right": "I've already phoned him." },
+        { "left": "When is Martin going away?", "right": "He's already gone." },
+        { "left": "Do you want to read the newspaper?", "right": "I've already read it." },
+        { "left": "When does Sarah start her new job?", "right": "She's already started it." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Silvia has bought a new dress, but she ___ it yet.",
+      "options": ["hasn't worn", "hasn't wear", "doesn't wear"],
+      "answer": 0,
+      "explanation": "Negative present perfect + yet: she hasn't worn it yet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few minutes ago the bus was at the bus stop. Now it is going down the road. The bus ___.",
+      "hint": "(just / go)",
+      "answers": ["has just gone"],
+      "explanation": "It left a short time ago: the bus has just gone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few minutes ago the train was at the platform. It is still there with the doors open. The train ___ yet.",
+      "hint": "(not / leave)",
+      "answers": ["hasn't left", "has not left"],
+      "explanation": "Negative + yet: the train hasn't left yet."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend has some new neighbours. Perhaps he has met them. Ask him.",
+      "words": ["Have", "you", "met", "your", "new", "neighbours", "yet?"],
+      "answer": "Have you met your new neighbours yet?",
+      "explanation": "In a question, yet goes at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's only 9 o'clock and Anna has already gone to bed.",
+      "answer": true,
+      "explanation": "Correct. already = before I expected, and it goes before the past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "Have Diane and Paul yet arrived?",
+      "answer": false,
+      "explanation": "Have Diane and Paul arrived yet? In questions, yet goes at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few minutes ago Joe said 'This present is for me.' The present is still on the table in its paper. He ___ it yet.",
+      "hint": "(not / open)",
+      "answers": ["hasn't opened", "has not opened"],
+      "explanation": "Negative + yet: he hasn't opened it yet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A few minutes ago they had food on their plates. Now the plates are empty. They ___ their dinner.",
+      "hint": "(just / finish)",
+      "answers": ["have just finished", "'ve just finished"],
+      "explanation": "It happened a short time ago: they have just finished their dinner."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom was trying to sell his car. You ask a friend about Tom: '___ his car yet?'",
+      "hint": "(Tom / sell)",
+      "answers": ["Has Tom sold", "Has he sold"],
+      "explanation": "Has + Tom + past participle, with yet at the end."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "number": 35,
+  "title": "Do this! Don't do that! Let's do this!",
+  "subtitle": "Come in! / Don't fall! / Let's go!",
+  "summary": "Use the verb alone to tell somebody to do something, don't + verb to tell them not to, and let's + verb for things you do together.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Come in!",
+      "text": "A man knocks at an office door. The manager inside looks up and says: '**Come** in.' We use **come**, **look**, **go**, **wait**, **do**, **be** and other verbs on their own when we tell somebody to do something.",
+      "examples": [
+        { "text": "'**Come** here and **look** at this!' 'What is it?'" },
+        { "text": "I don't want to talk to you. **Go** away!" },
+        { "text": "I'm not ready yet. Please **wait** for me." },
+        { "text": "Please **be** quiet. I'm working." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Have a nice time!",
+      "text": "We also use **have** in this way, to wish somebody something nice or to offer something.",
+      "examples": [
+        { "text": "Bye! **Have** a good holiday! / **Have** a nice time! / **Have** fun!" },
+        { "text": "'**Have** a chocolate.' 'Oh, thanks.'", "note": "= would you like a chocolate?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't do that!",
+      "text": "A woman is climbing a ladder into a tree. Her friend watches her and says: 'Be careful! **Don't fall**.' We use **don't** + verb when we tell somebody not to do something.",
+      "examples": [
+        { "text": "Be careful! **Don't fall**." },
+        { "text": "Please **don't go**. Stay here with me." },
+        { "text": "Be here on time. **Don't be** late." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Let's do this!",
+      "text": "You can say **Let's ...** when you want people to do something with you. **Let's** = let us, so it means *you and I*.",
+      "examples": [
+        { "text": "It's a nice day. **Let's go** out.", "note": "= you and I can go out" },
+        { "text": "Come on! **Let's dance**." },
+        { "text": "A woman is at the open front door with her coat on. She says: 'Are you ready? **Let's go**.'" },
+        { "text": "**Let's have** fish for dinner tonight." },
+        { "text": "*A:* Shall we go out tonight? *B:* No, I'm tired. **Let's stay** at home." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Let's not ...",
+      "text": "The negative is **Let's not ...** . You can also say **Don't let's ...** . Both are correct.",
+      "examples": [
+        { "text": "It's cold. **Let's not go** out. Let's stay at home." },
+        { "text": "**Let's not have** fish for dinner tonight. Let's have chicken." },
+        { "text": "It's cold. **Don't let's go** out. Let's stay at home." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Positive and negative",
+      "columns": ["", "You do it", "You and I do it"],
+      "rows": [
+        ["Positive", "Go out!", "Let's go out."],
+        ["Negative", "Don't go out!", "Let's not go out."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "These sentences have no subject: *Come in*, not ~~You come in~~. And after *don't* or *let's* we use the simple verb: *Don't be late*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Two people are looking at a new car in a showroom. The price is very high. One of them says: 'It's too expensive. ___ it.'",
+      "hint": "(buy)",
+      "answers": ["Don't buy"],
+      "explanation": "We tell somebody not to do something with don't + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A photographer is ready to take a photo of a family. He says: 'OK, are you ready? ___!'",
+      "hint": "(smile)",
+      "answers": ["Smile"],
+      "explanation": "To tell somebody to do something we use the verb alone: Smile!"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two friends are waving at a train. One of them calls: 'Bye! ___ a nice time!'",
+      "hint": "(have)",
+      "answers": ["Have"],
+      "explanation": "Have a nice time! = I hope you have a nice time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your friend is going to sit down on the sofa, but the cat is sitting there. You say: '___ on the cat!'",
+      "hint": "(sit)",
+      "answers": ["Don't sit"],
+      "explanation": "don't + verb tells somebody not to do something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A man is holding a big old vase. His friend says: 'Be careful with that vase. ___ it!'",
+      "options": ["Don't drop", "Not drop", "Don't dropping"],
+      "answer": 0,
+      "explanation": "The negative is don't + the simple verb: Don't drop it!"
+    },
+    {
+      "type": "true_false",
+      "statement": "Be here on time. Don't be late.",
+      "answer": true,
+      "explanation": "Correct. We say Be ... for the positive and Don't be ... for the negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Would you like to play tennis?' 'No, ___ for a swim.'",
+      "hint": "(let's / go)",
+      "answers": ["let's go", "let us go"],
+      "explanation": "Let's go = you and I can go."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the answer that uses let's.",
+      "pairs": [
+        { "left": "Shall I put a CD on?", "right": "No, let's watch TV." },
+        { "left": "Shall we have dinner at home?", "right": "No, let's go to a restaurant." },
+        { "left": "Would you like to go now?", "right": "No, let's wait a little." },
+        { "left": "Do you want to walk home?", "right": "No, let's take a taxi." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "You want to say no. Which answer do you use: Don't ... or Let's not ... ?",
+      "categories": ["Answer with Don't ...", "Answer with Let's not ..."],
+      "items": [
+        { "text": "Shall I wait for you?", "category": 0 },
+        { "text": "Shall we go home now?", "category": 1 },
+        { "text": "Do you want me to close the window?", "category": 0 },
+        { "text": "Shall we go out?", "category": 1 },
+        { "text": "Shall I phone you tonight?", "category": 0 },
+        { "text": "Shall we go by bus?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend asks: 'Shall I wait for you?' You don't want that. Put your answer in order.",
+      "words": ["No,", "don't", "wait", "for", "me."],
+      "answer": "No, don't wait for me.",
+      "explanation": "Your friend asked about himself, so we answer with don't + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Shall we go home now?' 'No, ___ go home yet.'",
+      "hint": "(let's / not)",
+      "answers": ["let's not", "don't let's"],
+      "explanation": "The negative of let's is let's not (or don't let's)."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Do you want me to close the window?' 'No, let's not close the window.'",
+      "answer": false,
+      "explanation": "'No, don't close the window.' Your friend asked about what he should do, so we answer with Don't ... ."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "number": 29,
+  "title": "Verb + two objects",
+  "subtitle": "I built my daughter a doll's house.",
+  "summary": "Order the two objects after verbs like give and buy, choose between to and for, and spot the verbs that refuse one of the patterns.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two objects",
+      "text": "Some verbs can be followed by two objects. Usually the first one (the **indirect object**) is a person or group of people, and the second one (the **direct object**) is a thing.",
+      "examples": [
+        { "text": "Can you bring **me** *some milk* from the shops?", "note": "me = indirect object, some milk = direct object" },
+        { "text": "He made **himself** *a cup of coffee*." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reversing the objects with for or to",
+      "text": "With many of these verbs we can reverse the order of the objects if we put **for** or **to** before the indirect object (which then becomes a prepositional object).",
+      "examples": [
+        { "text": "I built **my daughter a doll's house**. / I built **a doll's house for my daughter**." },
+        { "text": "Can you pass **me that bandage**? / Can you pass **that bandage to me**?" }
+      ],
+      "note": "with for: book, buy, catch, choose, cook, fetch, find, get, make, order, pour, save. with to: award, give, hand, lend, offer, owe, show, teach, tell, throw."
+    },
+    {
+      "type": "explain",
+      "heading": "When the prepositional pattern is better",
+      "text": "We use the pattern with *for* or *to* when we want to focus attention on the object that follows it, and when the indirect object is much **longer** than the direct object.",
+      "examples": [
+        { "text": "Jasmin taught **music to a large number of children at the school**.", "wrong": "Jasmin taught a large number of children at the school music" },
+        { "text": "He teaches **sports to disabled children**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Pronoun objects",
+      "text": "If the direct object is a **pronoun**, the pattern direct object + preposition + indirect object is the usual one. Patterns without a preposition are avoided here because they are considered bad style.",
+      "examples": [
+        { "text": "I gave **them to Isa**.", "note": "rather than I gave Isa them. / I gave them Isa." },
+        { "text": "We bought **it for them**.", "note": "rather than We bought them it. / We bought it them." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "to or for?",
+      "left": {
+        "label": "to = something is transferred to someone",
+        "examples": [
+          "I hadn't got time to visit Mira, so I wrote a letter **to** her.",
+          "I sold him the car. (= I sold the car **to** him)"
+        ]
+      },
+      "right": {
+        "label": "for = someone benefits from something",
+        "examples": [
+          "Mira had broken her wrist, so I wrote a letter **for** her.",
+          "Jane posted the letter **for** me because I had flu."
+        ]
+      },
+      "note": "Also bring, leave, pay, play, post, read, sell, send, sing, take. Sometimes the meaning is very similar: He played the piece to (or for) me."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that cannot reverse their objects",
+      "text": "Some verbs take two objects but can never turn the indirect object into a prepositional object with *for* or *to*.",
+      "examples": [
+        { "text": "We all envied **him his lifestyle**.", "wrong": "We all envied his lifestyle to him" },
+        { "text": "Can I ask **you a favour**?", "wrong": "Can I ask a favour to you" }
+      ],
+      "note": "Also: allow, cost, deny, forgive, guarantee, permit, refuse."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that need the preposition",
+      "text": "Some verbs can only have a second object if it is a **prepositional** object - with *to* for the 'reporting' verbs, and with *for* for verbs like *fix*.",
+      "examples": [
+        { "text": "She described the situation (**to me**).", "wrong": "She described me the situation", "note": "but She told this joke (to me). or She told me this joke." },
+        { "text": "He fixed the tap (**for me**).", "wrong": "He fixed me the tap", "note": "but I booked a room (for her). or I booked her a room." }
+      ],
+      "note": "with to: admit, announce, demonstrate, explain, introduce, mention, point out, prove, report, say, suggest. with for: collect, mend, repair."
+    },
+    {
+      "type": "tip",
+      "text": "Two pronouns? Put the thing first and the person after the preposition: I gave them to Isa, not ~~I gave Isa them~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Kaspar hates going shopping. I have to choose his clothes ___ him.",
+      "hint": "(to / for)",
+      "answers": ["for"],
+      "explanation": "choose takes for: he benefits from what I do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When Mr Durand bought the house, we sold all the carpets ___ him as well.",
+      "hint": "(to / for)",
+      "answers": ["to"],
+      "explanation": "sell takes to when something is transferred to someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll be in late tonight. Can you save some dinner ___ me, please?",
+      "hint": "(to / for)",
+      "answers": ["for"],
+      "explanation": "save is a 'for' verb: I benefit from the dinner being kept."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each verb allow?",
+      "categories": ["Both patterns: told me the joke / told the joke to me", "Only with a preposition: described the situation to me"],
+      "items": [
+        { "text": "tell", "category": 0 },
+        { "text": "describe", "category": 1 },
+        { "text": "explain", "category": 1 },
+        { "text": "book", "category": 0 },
+        { "text": "fix", "category": 1 },
+        { "text": "hand", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't reach the salt. Could you pass ___, please?",
+      "hint": "(it / me)",
+      "answers": ["it to me"],
+      "explanation": "With a pronoun as the direct object we use direct object + to + indirect object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's got a very rewarding job. He teaches sports ___ disabled children.",
+      "hint": "(to / for)",
+      "answers": ["to"],
+      "explanation": "teach takes to, and here the long indirect object goes at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "He kindly collected me some library books.",
+      "answer": false,
+      "explanation": "He kindly collected some library books for me. collect can only have a prepositional object with for."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'd like to introduce you to my sister.",
+      "answer": true,
+      "explanation": "Correct. introduce needs a prepositional object with to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["Can I ask you a favour?", "Can I ask a favour to you?", "Can I ask a favour for you?"],
+      "answer": 0,
+      "explanation": "ask is one of the verbs whose objects cannot be reversed with to or for."
+    },
+    {
+      "type": "true_false",
+      "statement": "He admitted his error for his colleagues.",
+      "answer": false,
+      "explanation": "He admitted his error to his colleagues. admit is a 'reporting' verb and takes to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The clock on the wall was wrong. When we pointed out the problem ___ our teacher, she allowed us another half hour.",
+      "hint": "(preposition)",
+      "answers": ["to"],
+      "explanation": "point out needs a prepositional object with to; allow, in contrast, keeps both objects (allowed us another half hour)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Remember that describe cannot take two plain objects.",
+      "words": ["When he described", "his sister", "to me", "I didn't think", "I knew her"],
+      "answer": "When he described his sister to me I didn't think I knew her",
+      "explanation": "described his sister to me - not ~~described me his sister~~."
+    }
+  ]
+}

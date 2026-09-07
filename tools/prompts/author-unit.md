@@ -4,8 +4,15 @@ You are converting **one unit** of an English grammar book into an interactive l
 FH Language Learning app (React, no backend). Work carefully: the answer key in the raw file is
 the source of truth for correct answers.
 
-- **Input:** `content-src/<book-slug>/raw/unit-NNN.md`
+- **Input, text books:** `content-src/<book-slug>/raw/unit-NNN.md`
   (three fenced blocks: lesson page, exercises page, answer key - produced by `tools/extract_book.py`)
+- **Input, scanned books:** `content-src/<book-slug>/pages/unit-NNN-a.png` (lesson page),
+  `unit-NNN-b.png` (exercises page) and the key page(s) named in that folder's `index.json`
+  under `unitPages.<N>.key` - produced by `tools/render_scanned_book.py`. Read the images with the
+  Read tool; they are page scans, so read all of them before writing anything. Filenames are
+  numbered by PDF page, which is usually not the number printed on the page, so trust the `key`
+  list rather than the printed folio. If a unit's answers are not on the key page you were given,
+  look at the neighbouring `key-*.png` - the key runs in unit order and one page holds several units.
 - **Output:** `src/content/books/<book-slug>/units/unit-NNN.json`
   (must conform to `Unit` in `src/content/types.ts`; `NNN` is zero-padded to 3 digits)
 - **Golden example:** `src/content/books/english-grammar-in-use/units/unit-001.json` - read it first
@@ -43,7 +50,9 @@ put the incorrect alternative in `wrong` (without markup): `{ "text": "**I'm try
 
 Rules:
 - No references to pictures ("look at the picture", "in the photo") - the app has no images.
-  Turn picture-based content into a described situation.
+  Turn picture-based content into a described situation. Scanned elementary books lean heavily on
+  cartoons and speech bubbles: read what the drawing shows, then write the situation in words
+  ("Lisa is thirsty. What does she say?" -> a `fill_blank` with the answer from the key).
 - No page/unit cross references ("see Unit 19"). Drop them.
 - British spelling as in the book. Straight apostrophes `'`. Keep sentences short.
 

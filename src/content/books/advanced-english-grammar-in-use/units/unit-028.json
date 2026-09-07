@@ -1,0 +1,180 @@
+{
+  "number": 28,
+  "title": "Verbs, objects and complements",
+  "subtitle": "She closed the door. / The door closed.",
+  "summary": "Recognise which verbs can drop their object, which need a complement, and which take an object plus a preposition or an adjective.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Transitive or intransitive",
+      "text": "Some verbs work both ways, which lets us focus either on the person or thing **performing** the action, or on the person or thing **affected** by it.",
+      "examples": [
+        { "text": "She closed the door.", "note": "transitive" },
+        { "text": "The door closed.", "note": "intransitive" },
+        { "text": "I've ripped my shirt. / My shirt has ripped." }
+      ],
+      "note": "Also: begin, bend, break, burn, change, decrease, drop, finish, increase, move, open, shut, start, vary, wake - most of them 'change' verbs."
+    },
+    {
+      "type": "explain",
+      "heading": "Leaving out an obvious object",
+      "text": "Some transitive verbs don't need an object at all when the meaning is clear from the context.",
+      "examples": [
+        { "text": "I often sing (songs) in the shower." },
+        { "text": "She plays (the saxophone) beautifully." }
+      ],
+      "note": "Also: answer, ask, change, cook, dance, drink, drive, eat, fail, park, phone, read, smoke, study, wash, wash up, wave, win, write."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that need a complement",
+      "text": "A **complement** is a phrase that completes the meaning of a verb, noun or adjective. After some verbs we have to add one - an adverb or a prepositional phrase. Other verbs usually have a complement but can manage without one.",
+      "examples": [
+        { "text": "The disease **originated in Britain**.", "wrong": "The disease originated", "note": "we have to say where or how" },
+        { "text": "He paused for a few moments. / He paused.", "note": "no complement needed" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + preposition + object",
+      "text": "Some verbs are always followed by a particular preposition and then an object.",
+      "examples": [
+        { "text": "We had to **deal with** hundreds of complaints.", "wrong": "We had to deal" },
+        { "text": "I'm sure that blue car **belongs to** Murad.", "wrong": "that blue car belongs" }
+      ],
+      "note": "Also: adhere to, aspire to, culminate in / with, detract from, differentiate between, incline to / towards, specialise in."
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + object + prepositional phrase",
+      "text": "Some verbs need an object **and** a prepositional phrase to complete them.",
+      "examples": [
+        { "text": "I always **associate** pizza **with** Italy.", "wrong": "I always associate pizza" },
+        { "text": "She **put** the report **on the floor**.", "wrong": "She put the report" }
+      ],
+      "note": "Also: attribute ... to, base ... on / upon, equate ... with, inflict ... on, mistake ... for, regard ... as / with, remind ... of."
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + object + adjective",
+      "text": "Some verbs are often followed by an object and then an adjective (or adjective phrase) as the complement.",
+      "examples": [
+        { "text": "The people of this country will **hold the government responsible**." },
+        { "text": "Conti **pronounced herself fit** for the match." },
+        { "text": "The scientific evidence **proved him guilty**." }
+      ],
+      "note": "Also: assume, believe, consider, declare, find, judge, prove, report, think. After declare, find, pronounce and prove the object is usually a reflexive pronoun."
+    },
+    {
+      "type": "explain",
+      "heading": "Making it less formal",
+      "text": "Sentences with an object + adjective complement after these verbs are rather **formal**. Adding **to be** after the object, or using a **that**-clause, makes them less formal.",
+      "examples": [
+        { "text": "Dr Adams argues that house prices will fall, but other economists **believe the opposite true**.", "note": "less formally ... believe the opposite to be true. or ... believe that the opposite is true." },
+        { "text": "She **declared herself satisfied** with the result.", "note": "less formally She declared herself to be satisfied ... / She declared that she was satisfied ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When a sentence feels unfinished, the verb is probably asking for a complement: originate in ..., deal with ..., put something somewhere."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Can the object at the end of each sentence be left out without changing the meaning?",
+      "categories": ["The object can be left out", "The object must stay"],
+      "items": [
+        { "text": "I called you earlier, but nobody answered the phone.", "category": 0 },
+        { "text": "At about seven Aya washed herself.", "category": 0 },
+        { "text": "Then she brushed her hair.", "category": 1 },
+        { "text": "Aya parked her car on the drive.", "category": 0 },
+        { "text": "Tom's still cooking dinner.", "category": 0 },
+        { "text": "I forgot to mention her when I spoke to you earlier.", "category": 1 },
+        { "text": "Aya helped wash up the dishes.", "category": 0 },
+        { "text": "Aya enjoyed the evening very much.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is complete?",
+      "options": ["The disease originated in Britain.", "The disease originated.", "The disease originated it."],
+      "answer": 0,
+      "explanation": "originate needs a complement saying where or how something began."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb + preposition with the phrase that completes it.",
+      "pairs": [
+        { "left": "aspire to", "right": "national leadership" },
+        { "left": "culminate in", "right": "the discovery of penicillin" },
+        { "left": "differentiate between", "right": "fantasy and reality" },
+        { "left": "specialise in", "right": "seafood" },
+        { "left": "mistake ... for", "right": "a taxi" },
+        { "left": "base ... on", "right": "events in 16th-century Denmark" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Electors deserve more from a political party that ___ national leadership.",
+      "hint": "(aspire)",
+      "answers": ["aspires to"],
+      "explanation": "aspire is always followed by to + object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Years of research by Fleming ___ the discovery of penicillin.",
+      "hint": "(culminate)",
+      "answers": ["culminated in", "culminated with"],
+      "explanation": "culminate takes in (or with) before its object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's a great restaurant by the harbour which ___ seafood.",
+      "hint": "(specialise)",
+      "answers": ["specialises in"],
+      "explanation": "specialise needs in + object."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm sure that blue car belongs.",
+      "answer": false,
+      "explanation": "I'm sure that blue car belongs to Murad. belong needs to + object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The team of amateur footballers inflicted a surprise defeat ___ the first division leaders.",
+      "hint": "(preposition)",
+      "answers": ["on", "upon"],
+      "explanation": "inflict takes an object + on: inflict a defeat on someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was dark and raining and she mistook the black car ___ a taxi.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "mistake takes an object + for."
+    },
+    {
+      "type": "true_false",
+      "statement": "Conti pronounced herself fit for the match.",
+      "answer": true,
+      "explanation": "Correct. After pronounce the object is usually a reflexive pronoun, followed by an adjective complement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Less formal version: the scientific evidence proved him ___ guilty.",
+      "hint": "(add two words after the object)",
+      "answers": ["to be"],
+      "explanation": "Adding to be after the object makes the object + adjective pattern less formal."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a rather formal sentence with an object + adjective.",
+      "words": ["The people", "of this country", "will hold", "the government", "responsible"],
+      "answer": "The people of this country will hold the government responsible",
+      "explanation": "hold + object + adjective complement: hold somebody responsible."
+    }
+  ]
+}

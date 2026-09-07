@@ -1,0 +1,188 @@
+{
+  "number": 86,
+  "title": "quickly/badly/suddenly etc. (adverbs)",
+  "subtitle": "quick -> quickly",
+  "summary": "Use adverbs like quickly, badly and suddenly to say how something happens or how somebody does something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is an adverb?",
+      "text": "A boy sits down at 7.10 and his plate is empty at 7.15. He ate his dinner very **quickly**. In another room a man is reading. Then, with no warning, the shelf above him falls down. **Suddenly** the shelf fell down. **Quickly** and **suddenly** are adverbs.",
+      "examples": [
+        { "text": "He ate his dinner very **quickly**." },
+        { "text": "**Suddenly** the shelf fell down." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "adjective + -ly -> adverb",
+      "columns": ["Adjective", "Adverb"],
+      "rows": [
+        ["quick", "quickly"],
+        ["bad", "badly"],
+        ["sudden", "suddenly"],
+        ["careful", "carefully"],
+        ["heavy", "heavily"],
+        ["easy", "easily"]
+      ],
+      "note": "Spelling: words ending in *-y* change to *-ily*: easy -> eas**ily**, heavy -> heav**ily**."
+    },
+    {
+      "type": "explain",
+      "heading": "Adverbs tell you how",
+      "text": "Adverbs tell you *how* something happens or *how* somebody does something. They usually come after the verb or after the verb and its object.",
+      "examples": [
+        { "text": "The train **stopped suddenly**." },
+        { "text": "I **opened** the door **slowly**." },
+        { "text": "Please **listen carefully**." },
+        { "text": "I **understand** you **perfectly**." },
+        { "text": "It's **raining heavily**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Adjective or adverb?",
+      "left": {
+        "label": "Adjective",
+        "text": "An adjective tells you about a person or a thing.",
+        "examples": [
+          "Sue is very **quiet**.",
+          "Be **careful**!",
+          "It was a **bad** game.",
+          "I felt **nervous**."
+        ]
+      },
+      "right": {
+        "label": "Adverb",
+        "text": "An adverb tells you about the verb - how somebody does something.",
+        "examples": [
+          "Sue **speaks** very **quietly**. (not speaks very quiet)",
+          "**Listen carefully**! (not listen careful)",
+          "Our team **played badly**. (not played bad)",
+          "I **waited nervously**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "hard, fast, late, early",
+      "text": "These four words are adjectives *and* adverbs. They do not change and they never take **-ly**.",
+      "examples": [
+        { "text": "Sue's job **is** very **hard**.", "note": "adjective" },
+        { "text": "Sue **works** very **hard**.", "wrong": "works very hardly", "note": "adverb" },
+        { "text": "Ben is **a fast runner**. He can **run fast**." },
+        { "text": "The bus **was late**. I **went** to bed **late**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "good (adjective) -> well (adverb)",
+      "text": "The adverb of **good** is **well**. Use **good** before a noun or after *is / was*, and **well** after a verb.",
+      "examples": [
+        { "text": "Your English **is** very **good**." },
+        { "text": "You **speak** English very **well**.", "wrong": "speak English very good" },
+        { "text": "It was **a good game**. Our team **played well**." }
+      ],
+      "note": "**well** is also an adjective. It means *not ill*: 'How are you?' 'I'm very **well**, thank you.'"
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: does the word tell you about a *person/thing* (adjective: *she is quiet*) or about the *verb* (adverb: *she speaks quietly*)?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The rain is very strong today. It's raining ___.",
+      "hint": "(heavy)",
+      "answers": ["heavily"],
+      "explanation": "The adverb of heavy is heavily. Words ending in -y change to -ily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom sings very ___. People put their hands over their ears.",
+      "hint": "(bad)",
+      "answers": ["badly"],
+      "explanation": "sings is a verb, so we need the adverb badly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was late and everybody was asleep, so they came in ___.",
+      "hint": "(quiet)",
+      "answers": ["quietly"],
+      "explanation": "came in is a verb, so we need the adverb quietly."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its adverb.",
+      "pairs": [
+        { "left": "quick", "right": "quickly" },
+        { "left": "easy", "right": "easily" },
+        { "left": "heavy", "right": "heavily" },
+        { "left": "careful", "right": "carefully" },
+        { "left": "good", "right": "well" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it an adjective or an adverb?",
+      "categories": ["Adjective", "Adverb"],
+      "items": [
+        { "text": "quietly", "category": 1 },
+        { "text": "nervous", "category": 0 },
+        { "text": "badly", "category": 1 },
+        { "text": "careful", "category": 0 },
+        { "text": "suddenly", "category": 1 },
+        { "text": "dangerous", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm tired this morning. I didn't sleep ___ last night.",
+      "options": ["good", "well", "better"],
+      "answer": 1,
+      "explanation": "sleep is a verb, so we use the adverb well, not good."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Think ___ before you answer the question.",
+      "hint": "(careful)",
+      "answers": ["carefully"],
+      "explanation": "Think is a verb, so we need the adverb carefully."
+    },
+    {
+      "type": "true_false",
+      "statement": "Bill is a very careful driver.",
+      "answer": true,
+      "explanation": "Correct. driver is a noun, so we use the adjective careful."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jane is studying hardly for her examinations.",
+      "answer": false,
+      "explanation": "Jane is studying hard for her examinations. The adverb of hard is hard."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Our teacher doesn't explain things very ___. We never understand him.",
+      "options": ["clear", "clearly", "clearer"],
+      "answer": 1,
+      "explanation": "explain is a verb, so we need the adverb clearly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jackie did very ___ in her exams.",
+      "hint": "(good / well)",
+      "answers": ["well"],
+      "explanation": "did is a verb, so we use the adverb well."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A woman was very angry with me and she shouted. Put the sentence in order.",
+      "words": ["She", "shouted", "at", "me", "angrily."],
+      "answer": "She shouted at me angrily.",
+      "explanation": "The adverb angrily comes after the verb and its object."
+    }
+  ]
+}

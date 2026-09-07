@@ -1,0 +1,172 @@
+{
+  "number": 41,
+  "title": "Have you? Are you? Don't you? etc.",
+  "subtitle": "Oh, have you? / isn't it?",
+  "summary": "Use short questions like Have you? and Didn't she? to show interest or surprise, and add question tags to the end of a sentence.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Showing interest or surprise",
+      "text": "A man tells his friend 'I've bought a new car.' She answers '**Oh, have you?**' A woman says 'I'm writing a book.' Her friend answers '**Are you** really? What about?' You can use these mini-questions to show that you are interested or surprised.",
+      "examples": [
+        { "text": "*A:* You're late. *B:* Oh, **am I?** I'm sorry." },
+        { "text": "*A:* I was ill last week. *B:* **Were you?** I didn't know that." },
+        { "text": "*A:* It's raining again. *B:* **Is it?** It was sunny ten minutes ago." },
+        { "text": "*A:* There's a letter for you. *B:* **Is there?** Where is it?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative mini-questions",
+      "text": "When the other person says something negative, your mini-question is negative too. A man says 'I don't like George.' His friend answers '**Don't you?** Why not?'",
+      "examples": [
+        { "text": "*A:* Bill can't drive. *B:* **Can't he?** I didn't know that." },
+        { "text": "*A:* I'm not hungry. *B:* **Aren't you?** I am." },
+        { "text": "*A:* Sue isn't at work today. *B:* **Isn't she?** Is she ill?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do / does / did",
+      "text": "Use **do** and **does** for the present simple, and **did** for the past simple.",
+      "examples": [
+        { "text": "*A:* I speak four languages. *B:* **Do you?** Which ones?" },
+        { "text": "*A:* Tim doesn't eat meat. *B:* **Doesn't he?** Does he eat fish?" },
+        { "text": "*A:* Nicole got married last week. *B:* **Did she?** Really?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Question tags",
+      "text": "You can also put these mini-questions at the end of your own sentence. We call them **question tags**. Two men are walking in the hills. One says 'It's a beautiful day, **isn't it**?' The other one answers 'Yes, it's perfect.'",
+      "examples": [
+        { "text": "It's a beautiful day, **isn't it**?" },
+        { "text": "That isn't your car, **is it**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Positive sentence -> negative tag",
+      "columns": ["Sentence", "Question tag", "Answer"],
+      "rows": [
+        ["It's a beautiful day,", "isn't it?", "Yes, it's perfect."],
+        ["Sally lives in London,", "doesn't she?", "Yes, that's right."],
+        ["You closed the window,", "didn't you?", "Yes, I think so."],
+        ["Those shoes are nice,", "aren't they?", "Yes, very nice."],
+        ["Tom will be here soon,", "won't he?", "Yes, probably."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Negative sentence -> positive tag",
+      "columns": ["Sentence", "Question tag", "Answer"],
+      "rows": [
+        ["That isn't your car,", "is it?", "No, it's my mother's."],
+        ["You haven't met my mother,", "have you?", "No, I haven't."],
+        ["Sally doesn't go out much,", "does she?", "No, she doesn't."],
+        ["You won't be late,", "will you?", "No, I'm never late."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A positive sentence takes a negative tag, and a negative sentence takes a positive tag."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I speak four languages. *B:* ___ ? Which ones?",
+      "hint": "(do you? / does she? etc.)",
+      "answers": ["Do you"],
+      "explanation": "I speak = present simple, so the mini-question is Do you?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Kate phoned me last night. *B:* ___ ? What did she say?",
+      "hint": "(did she? / do you? etc.)",
+      "answers": ["Did she"],
+      "explanation": "phoned = past simple, so the mini-question is Did she?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the mini-question that answers it.",
+      "pairs": [
+        { "left": "I've lost my key.", "right": "Have you?" },
+        { "left": "Sue can't drive.", "right": "Can't she?" },
+        { "left": "I was born in Italy.", "right": "Were you?" },
+        { "left": "Maria works in a factory.", "right": "Does she?" },
+        { "left": "I won't be here next week.", "right": "Won't you?" },
+        { "left": "The clock isn't working.", "right": "Isn't it?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Jane doesn't like me. *B:* ___ ? Why not?",
+      "hint": "(negative mini-question)",
+      "answers": ["Doesn't she"],
+      "explanation": "doesn't like = negative present simple, so we say Doesn't she?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I didn't sleep well last night. *B:* ___ ? Was the bed uncomfortable?",
+      "hint": "(negative mini-question)",
+      "answers": ["Didn't you"],
+      "explanation": "didn't sleep = negative past simple, so we say Didn't you?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* There's a film on TV tonight. *B:* ___ ? Are you going to watch it?",
+      "options": ["Is there", "Is it", "Are there"],
+      "answer": 0,
+      "explanation": "There's a film -> Is there? The mini-question keeps there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a beautiful day, ___ ?",
+      "hint": "(question tag)",
+      "answers": ["isn't it"],
+      "explanation": "The sentence is positive, so the tag is negative: isn't it?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "These flowers are nice, ___ ?",
+      "hint": "(question tag)",
+      "answers": ["aren't they"],
+      "explanation": "These flowers = they, so the tag is aren't they?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence need a negative tag or a positive tag?",
+      "categories": ["negative tag (isn't it? / don't you?)", "positive tag (is it? / do you?)"],
+      "items": [
+        { "text": "You speak German, ...", "category": 0 },
+        { "text": "You aren't tired, ...", "category": 1 },
+        { "text": "Lisa is a very nice person, ...", "category": 0 },
+        { "text": "You don't know Mike's sister, ...", "category": 1 },
+        { "text": "Sarah went to university, ...", "category": 0 },
+        { "text": "The film wasn't very good, ...", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You won't tell anybody what I said, ___ ?",
+      "hint": "(question tag)",
+      "answers": ["will you"],
+      "explanation": "won't is negative, so the tag is positive: will you?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Anna lives near you, doesn't she?",
+      "answer": true,
+      "explanation": "Correct. lives is positive, so the tag is negative: doesn't she?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence with a question tag.",
+      "words": ["Martin", "looks", "tired,", "doesn't", "he?"],
+      "answer": "Martin looks tired, doesn't he?",
+      "explanation": "looks is positive present simple, so the tag is doesn't he?"
+    }
+  ]
+}

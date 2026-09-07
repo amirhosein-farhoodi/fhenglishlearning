@@ -1,0 +1,168 @@
+{
+  "number": 34,
+  "title": "Would you like ... ? I'd like ...",
+  "subtitle": "Would you like ... ? / I'd like ...",
+  "summary": "Use Would you like ... ? to offer things and invite people, and I'd like ... as a polite way to say what you want.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Would you like a chocolate?",
+      "text": "A woman holds out an open box of chocolates to her friend. She asks: '**Would you like** a chocolate?' He takes one and says: 'Yes, please.' **Would you like ... ?** = Do you want ... ? We use it to offer things.",
+      "examples": [
+        { "text": "*A:* **Would you like** some coffee? *B:* No, thank you." },
+        { "text": "*A:* **Would you like** a chocolate? *B:* Yes, please." },
+        { "text": "*A:* What **would you like**, tea or coffee? *B:* Tea, please." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Would you like to ... ?",
+      "text": "We use **Would you like to ... ?** to invite somebody. A common answer is *Yes, I'd love to.*",
+      "examples": [
+        { "text": "**Would you like to go** for a walk?" },
+        { "text": "*A:* **Would you like to have** dinner with us on Sunday? *B:* Yes, **I'd love to**." },
+        { "text": "What **would you like to do** this evening?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I'd like ...",
+      "text": "**I'd like ...** is a polite way to say 'I want'. **I'd like** = I would like.",
+      "examples": [
+        { "text": "I'm thirsty. **I'd like** a drink." },
+        { "text": "In a tourist office: **I'd like** some information about hotels, please." },
+        { "text": "I'm feeling tired. **I'd like to stay** at home this evening." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Would you like ... ? and Do you like ... ?",
+      "left": {
+        "label": "Would you like ... ? = now",
+        "text": "You offer something or invite somebody.",
+        "examples": [
+          "A woman with a teapot asks her friend: '**Would you like** some tea?' - 'Yes, please.'",
+          "*A:* **Would you like** to go to the cinema tonight? *B:* Yes, I'd love to.",
+          "**I'd like** an orange, please. (= can I have an orange?)",
+          "What **would you like** to do next weekend?"
+        ]
+      },
+      "right": {
+        "label": "Do you like ... ? = in general",
+        "text": "You ask if somebody thinks something is nice.",
+        "examples": [
+          "'**Do you like** tea?' - 'Yes, I do.' - 'Would you like some now?' - 'No, thank you. Not now.'",
+          "*A:* **Do you like** going to the cinema? *B:* Yes, I go to the cinema a lot.",
+          "**I like** oranges. (in general)",
+          "What **do you like** to do at weekends?"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Question, meaning and answer",
+      "columns": ["Question", "Meaning", "Answer"],
+      "rows": [
+        ["Would you like a chocolate?", "Do you want one now?", "Yes, please. / No, thank you."],
+        ["Would you like to go out?", "Do you want to go out?", "Yes, I'd love to."],
+        ["Do you like chocolate?", "Do you think it is nice?", "Yes, I do. / No, I don't."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Would you like ... ?* offers something now. *Do you like ... ?* asks about things in general."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'___ a chocolate?' 'Yes, please.'",
+      "options": ["Would you like", "Do you like", "Are you like"],
+      "answer": 0,
+      "explanation": "We use Would you like ... ? to offer something now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman is holding a bowl of apples. She offers one to you: '___ an apple?'",
+      "hint": "(would / like)",
+      "answers": ["Would you like"],
+      "explanation": "Would you like ... ? = Do you want ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are in a cafe. You want a sandwich. You say: '___ a sandwich, please.'",
+      "hint": "(I / like)",
+      "answers": ["I'd like", "I would like"],
+      "explanation": "I'd like ... is a polite way to say I want."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the question ask about now or about things in general?",
+      "categories": ["Now (Would you like ... ?)", "In general (Do you like ... ?)"],
+      "items": [
+        { "text": "Would you like some tea?", "category": 0 },
+        { "text": "Do you like tea?", "category": 1 },
+        { "text": "What kind of music do you like?", "category": 1 },
+        { "text": "What would you like to do next weekend?", "category": 0 },
+        { "text": "Do you like going to the cinema?", "category": 1 },
+        { "text": "Would you like to go to the cinema tonight?", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to go to the cinema tonight. Perhaps Sue will go with you. Invite her.",
+      "words": ["Would", "you", "like", "to", "go", "to the cinema", "tonight?"],
+      "answer": "Would you like to go to the cinema tonight?",
+      "explanation": "We invite somebody with Would you like to ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to play tennis tomorrow. Perhaps Sue will play too. You say: 'Would you like ___ tennis tomorrow?'",
+      "hint": "(play)",
+      "answers": ["to play"],
+      "explanation": "Would you like + to + verb: Would you like to play tennis?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You have an extra ticket for a concert next week. You say to Sue: 'Would you like ___ to a concert next week?'",
+      "hint": "(come)",
+      "answers": ["to come"],
+      "explanation": "After Would you like we use to + verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'___ bananas?' 'Yes, I love them.'",
+      "options": ["Do you like", "Would you like", "Are you liking"],
+      "answer": 0,
+      "explanation": "'Yes, I love them' is about bananas in general, so we ask Do you like ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's raining and Sue is going out. She hasn't got an umbrella, but you have one. You say: 'Would you like ___ my umbrella?'",
+      "hint": "(borrow)",
+      "answers": ["to borrow"],
+      "explanation": "We offer something with Would you like to ... ?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "'What ___ to drink?' 'A glass of water, please.'",
+      "options": ["would you like", "do you like", "you would like"],
+      "answer": 0,
+      "explanation": "The answer is a drink for now, so the question is What would you like to drink?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm tired. ___ to go to sleep now.",
+      "hint": "(I / like)",
+      "answers": ["I'd like", "I would like"],
+      "explanation": "I'd like to ... = I want to (now)."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'd like tomatoes, but I don't eat them very often.",
+      "answer": false,
+      "explanation": "I like tomatoes, but I don't eat them very often. This is about tomatoes in general, so we use I like."
+    }
+  ]
+}

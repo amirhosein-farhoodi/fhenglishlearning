@@ -1,0 +1,179 @@
+{
+  "number": 29,
+  "title": "might",
+  "subtitle": "I might go",
+  "summary": "Use might + verb to say that something is possible: I might go = it is possible that I will go.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "It is possible",
+      "text": "A woman in a travel agent's asks a man: 'Where are you going for your holidays?' He thinks about a big city with tall buildings and says: 'I'm not sure. I might go to New York.' Outside, a woman looks up at dark clouds and says: 'It might rain.' **might** + verb says that something is possible.",
+      "examples": [
+        { "text": "He **might go** to New York.", "note": "= it is possible that he will go to New York" },
+        { "text": "It **might rain**.", "note": "= it is possible that it will rain" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "might (not)", "+ verb"],
+      "rows": [
+        ["I / we / you / they", "might", "be late"],
+        ["he / she / it", "might", "go out"],
+        ["I / we / you / they", "might not", "play tennis"],
+        ["he / she / it", "might not", "come"]
+      ],
+      "note": "might is the same for every subject: he **might go**, not ~~he mights go~~ or ~~he might goes~~."
+    },
+    {
+      "type": "explain",
+      "heading": "I might = it is possible that I will",
+      "text": "We use **I might** when we are not sure. It means: perhaps I will, it is possible that I will.",
+      "examples": [
+        { "text": "**I might go** to the cinema this evening, but I'm not sure.", "note": "= it is possible that I will go" },
+        { "text": "*A:* When is Rebecca going to phone you? *B:* I don't know. She **might phone** this afternoon." },
+        { "text": "Take an umbrella with you. It **might rain**." },
+        { "text": "Buy a lottery ticket. You **might be** lucky.", "note": "= perhaps you will be lucky" },
+        { "text": "'Are you going out tonight?' '**I might**.'", "note": "= I might go out" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Sure or possible?",
+      "left": {
+        "label": "sure",
+        "examples": [
+          "**I'm playing** tennis tomorrow.",
+          "Rebecca **is going to phone** later."
+        ]
+      },
+      "right": {
+        "label": "possible",
+        "examples": [
+          "I **might play** tennis tomorrow.",
+          "Rebecca **might phone** later."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "I might not",
+      "text": "**I might not** = it is possible that I will not.",
+      "examples": [
+        { "text": "I **might not go** to work tomorrow.", "note": "= it is possible that I will not go" },
+        { "text": "Sue **might not come** to the party.", "note": "= it is possible that she will not come" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "may",
+      "text": "You can use **may** in the same way. **I may** = **I might**. And **May I ... ?** = Is it OK to ... ? / Can I ... ?",
+      "examples": [
+        { "text": "I **may go** to the cinema this evening.", "note": "= I might go" },
+        { "text": "Sue **may not come** to the party.", "note": "= Sue might not come" },
+        { "text": "**May I** ask a question?", "note": "= is it OK to ask / can I ask?" },
+        { "text": "'**May I** sit here?' 'Yes, of course.'" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After might there is no *to*: I might go, not ~~I might to go~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's possible that I'll see you tomorrow. ___ you tomorrow.",
+      "hint": "(might / see)",
+      "answers": ["I might see"],
+      "explanation": "might + verb says that something is possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's possible that Sarah will forget to phone. Sarah ___ to phone.",
+      "hint": "(might / forget)",
+      "answers": ["might forget"],
+      "explanation": "might is the same for every subject: Sarah might forget."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's possible that it will snow today. It ___ today.",
+      "hint": "(might / snow)",
+      "answers": ["might snow"],
+      "explanation": "It might snow = it is possible that it will snow."
+    },
+    {
+      "type": "matching",
+      "prompt": "Somebody is asking about your plans. You have some ideas, but you are not sure. Match each question with your answer.",
+      "pairs": [
+        { "left": "Where are you going for your holidays?", "right": "I'm not sure. I might go to Italy." },
+        { "left": "What are you doing at the weekend?", "right": "I don't know. I might go away." },
+        { "left": "What are you going to have for dinner?", "right": "I don't know. I might have fish." },
+        { "left": "How are you going to get home tonight?", "right": "I'm not sure. I might take a taxi." },
+        { "left": "What are you going to do with the money you won?", "right": "I haven't decided yet. I might buy a new car." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's possible that Mark will not be here next week. Mark ___ here next week.",
+      "hint": "(might not / be)",
+      "answers": ["might not be"],
+      "explanation": "might not = it is possible that ... will not."
+    },
+    {
+      "type": "word_order",
+      "prompt": "It's possible that you won't have time to go out. Say it with might not.",
+      "words": ["I", "might", "not", "have", "time", "to go out."],
+      "answer": "I might not have time to go out.",
+      "explanation": "might not + verb, with no to after might."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You ask Bill: 'Are you going to get up early tomorrow?' Bill says: 'Perhaps.' What do you write about Bill?",
+      "options": ["He might get up early.", "He's getting up early.", "He gets up early."],
+      "answer": 0,
+      "explanation": "'Perhaps' means Bill is not sure, so we use might."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ask Bill: 'Will you be at home tomorrow morning?' Bill says: 'Maybe.' So he ___ at home tomorrow morning.",
+      "hint": "(might / be)",
+      "answers": ["might be"],
+      "explanation": "'Maybe' = it is possible, so: He might be at home."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You ask Bill: 'Are you working tomorrow?' Bill says: 'No, I'm not.' What do you write about Bill?",
+      "options": ["He isn't working tomorrow.", "He might not work tomorrow.", "He doesn't work tomorrow."],
+      "answer": 0,
+      "explanation": "Bill is sure, so we don't use might: He isn't working tomorrow."
+    },
+    {
+      "type": "true_false",
+      "statement": "You ask Bill 'Are you going out in the afternoon?' and he answers 'Yes, I am.' So: He might go out in the afternoon.",
+      "answer": false,
+      "explanation": "He's going out in the afternoon. Bill is sure, so might is wrong here."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker sure, or is it only possible?",
+      "categories": ["Sure", "Possible"],
+      "items": [
+        { "text": "I'm playing tennis tomorrow.", "category": 0 },
+        { "text": "I might play tennis tomorrow.", "category": 1 },
+        { "text": "Rebecca is going to phone later.", "category": 0 },
+        { "text": "Rebecca might phone later.", "category": 1 },
+        { "text": "Sue might not come to the party.", "category": 1 },
+        { "text": "He's going out in the afternoon.", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are in a class and you want to ask something. What do you say?",
+      "options": ["May I ask a question?", "May I asking a question?", "May I to ask a question?"],
+      "answer": 0,
+      "explanation": "May I ... ? = Is it OK to ... ? After may we use the verb with no -ing and no to."
+    }
+  ]
+}

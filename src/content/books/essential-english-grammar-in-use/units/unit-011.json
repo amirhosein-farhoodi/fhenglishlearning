@@ -1,0 +1,186 @@
+{
+  "number": 11,
+  "title": "worked/got/went etc. (past simple)",
+  "subtitle": "I worked / I went",
+  "summary": "Make the past simple with -ed for regular verbs and learn the most common irregular past forms.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "watch -> watched",
+      "text": "Two people are sitting on the sofa in front of the television. They **watch** television every evening (present simple). They **watched** television yesterday evening (past simple). **watched** is the past simple.",
+      "examples": [
+        { "text": "They **watch** television every evening.", "note": "present simple" },
+        { "text": "They **watched** television yesterday evening.", "note": "past simple" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form is the same for everybody",
+      "columns": ["Subject", "Past simple"],
+      "rows": [
+        ["I / we / you / they", "watched"],
+        ["he / she / it", "watched"]
+      ],
+      "note": "There is no extra -s for he/she/it in the past simple."
+    },
+    {
+      "type": "explain",
+      "heading": "Regular verbs: + -ed",
+      "text": "Most verbs are *regular*. The past simple ends in **-ed**: work -> **worked**, clean -> **cleaned**, start -> **started**, dance -> **danced**, stay -> **stayed**, need -> **needed**.",
+      "examples": [
+        { "text": "I clean my teeth every morning. This morning I **cleaned** my teeth." },
+        { "text": "Terry **worked** in a bank from 1996 to 2003." },
+        { "text": "Yesterday it **rained** all morning. It **stopped** at lunchtime." },
+        { "text": "We **enjoyed** the party last night. We **danced** a lot and **talked** to a lot of people." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Spelling",
+      "columns": ["Verb ends in", "What to do", "Examples"],
+      "rows": [
+        ["most verbs", "add -ed", "work -> worked, clean -> cleaned, stay -> stayed"],
+        ["-e", "add -d", "dance -> danced"],
+        ["consonant + -y", "-y becomes -ied", "try -> tried, study -> studied, copy -> copied"],
+        ["one vowel + one consonant", "double the consonant", "stop -> stopped, plan -> planned"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Irregular verbs",
+      "text": "Some verbs are *irregular*. Their past simple does **not** end in -ed, so you have to learn each one.",
+      "examples": [
+        { "text": "I usually get up early, but this morning I **got** up at 9 o'clock." },
+        { "text": "We **did** a lot of work yesterday." },
+        { "text": "Caroline **went** to the cinema three times last week." },
+        { "text": "James **came** into the room, **took** off his coat and **sat** down." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Important irregular verbs",
+      "columns": ["Verb", "Past simple", "Verb", "Past simple"],
+      "rows": [
+        ["begin", "began", "know", "knew"],
+        ["break", "broke", "leave", "left"],
+        ["bring", "brought", "lose", "lost"],
+        ["buy", "bought", "make", "made"],
+        ["come", "came", "meet", "met"],
+        ["do", "did", "pay", "paid"],
+        ["drink", "drank", "put", "put"],
+        ["eat", "ate", "say", "said"],
+        ["fall", "fell", "see", "saw"],
+        ["find", "found", "sell", "sold"],
+        ["fly", "flew", "sleep", "slept"],
+        ["forget", "forgot", "speak", "spoke"],
+        ["get", "got", "take", "took"],
+        ["give", "gave", "tell", "told"],
+        ["go", "went", "think", "thought"],
+        ["have", "had", "win", "won"],
+        ["hear", "heard", "write", "wrote"]
+      ],
+      "note": "put and read do not change: put -> put, read -> read (the past is pronounced 'red')."
+    },
+    {
+      "type": "tip",
+      "text": "Learn each irregular verb in a short sentence, not on its own: *Yesterday I went to work by car.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I clean my teeth every morning. This morning I ___ my teeth.",
+      "hint": "(clean)",
+      "answers": ["cleaned"],
+      "explanation": "clean is regular: clean -> cleaned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was hot in the room, so I ___ the window.",
+      "hint": "(open)",
+      "answers": ["opened"],
+      "explanation": "open is regular: open -> opened."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past simple.",
+      "pairs": [
+        { "left": "buy", "right": "bought" },
+        { "left": "go", "right": "went" },
+        { "left": "know", "right": "knew" },
+        { "left": "speak", "right": "spoke" },
+        { "left": "pay", "right": "paid" },
+        { "left": "see", "right": "saw" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The film was very long. It started at 7.15 and ___ at 10 o'clock.",
+      "hint": "(finish)",
+      "answers": ["finished"],
+      "explanation": "finish is regular: finish -> finished."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We often go to the cinema at weekends. Last Sunday we ___ to the cinema.",
+      "options": ["went", "goed", "gone"],
+      "answer": 0,
+      "explanation": "go is irregular: go -> went."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the past simple of this verb regular (-ed) or irregular?",
+      "categories": ["Regular (-ed)", "Irregular"],
+      "items": [
+        { "text": "visit", "category": 0 },
+        { "text": "buy", "category": 1 },
+        { "text": "copy", "category": 0 },
+        { "text": "think", "category": 1 },
+        { "text": "start", "category": 0 },
+        { "text": "put", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a nice day today, but yesterday it ___ all day.",
+      "hint": "(rain)",
+      "answers": ["rained"],
+      "explanation": "rain is regular: rain -> rained."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I was a child, I ___ to be a doctor.",
+      "hint": "(want)",
+      "answers": ["wanted"],
+      "explanation": "want is regular: want -> wanted."
+    },
+    {
+      "type": "true_false",
+      "statement": "Kate meets her friends every evening. She meeted her friends yesterday evening.",
+      "answer": false,
+      "explanation": "She met her friends yesterday evening. meet is irregular: meet -> met."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel often loses her keys. She ___ her keys last week.",
+      "hint": "(lose)",
+      "answers": ["lost"],
+      "explanation": "lose is irregular: lose -> lost."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last Tuesday Lisa ___ from London to Madrid.",
+      "hint": "(fly)",
+      "answers": ["flew"],
+      "explanation": "fly is irregular: fly -> flew."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to tell the story: (took off his coat / came into the room / James / and sat down)",
+      "words": ["James", "came into the room,", "took off his coat", "and sat down."],
+      "answer": "James came into the room, took off his coat and sat down.",
+      "explanation": "Three irregular past simple verbs in one sentence: came, took, sat."
+    }
+  ]
+}

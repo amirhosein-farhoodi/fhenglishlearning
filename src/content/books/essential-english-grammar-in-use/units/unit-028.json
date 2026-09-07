@@ -1,0 +1,181 @@
+{
+  "number": 28,
+  "title": "will/shall 2",
+  "subtitle": "I'll carry it / Shall I ... ?",
+  "summary": "Use I'll ... to offer something or to decide something now, and Shall I / Shall we ... ? to ask if something is a good idea.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Offers and decisions",
+      "text": "A man is carrying a big heavy box. His friend holds out his hands and says: 'I'll carry it for you.' At the door, a man with a briefcase says goodbye to a woman: 'Bye, I'll phone you tomorrow, OK?' You can use **I'll ...** (**I will**) when you offer something or decide to do something.",
+      "examples": [
+        { "text": "'My bag is very heavy.' '**I'll carry** it for you.'" },
+        { "text": "'**I'll phone** you tomorrow, OK?' 'OK, bye.'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I think I'll ... / I don't think I'll ...",
+      "text": "We often say **I think I'll ...** or **I don't think I'll ...** when we decide to do something at the moment of speaking.",
+      "examples": [
+        { "text": "I'm tired. **I think I'll go** to bed early tonight." },
+        { "text": "It's a nice day. **I think I'll sit** outside." },
+        { "text": "It's raining. **I don't think I'll go** out." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not the present simple",
+      "text": "Do not use the present simple (**I go** / **I phone**) in sentences like these.",
+      "examples": [
+        { "text": "**I'll phone** you tomorrow, OK?", "wrong": "I phone you" },
+        { "text": "I think **I'll go** to bed early.", "wrong": "I go to bed" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Deciding now or decided before?",
+      "left": {
+        "label": "I'll ... (you decide now)",
+        "examples": [
+          "'My bag is very heavy.' '**I'll carry** it for you.'",
+          "It's a nice day. I think **I'll sit** outside."
+        ]
+      },
+      "right": {
+        "label": "I'm doing / I'm going to (you decided before)",
+        "examples": [
+          "**I'm working** tomorrow.",
+          "There's a good film on TV tonight. **I'm going to watch** it.",
+          "What **are** you **doing** at the weekend?"
+        ]
+      },
+      "note": "Do not use I'll ... for something you decided before: **I'm working** tomorrow, not ~~I'll work~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Shall I ... ? Shall we ... ?",
+      "text": "A woman and a man are sitting in armchairs. The phone starts to ring. She says: 'Shall I answer the phone?' He says: 'No, it's OK. I'll answer it.' **Shall I ... ?** and **Shall we ... ?** = Do you think this is a good thing to do? Do you think this is a good idea?",
+      "examples": [
+        { "text": "It's very warm in this room. **Shall I open** the window?" },
+        { "text": "'**Shall I phone** you this evening?' 'Yes, please.'" },
+        { "text": "I'm going to a party tonight. What **shall I wear**?" },
+        { "text": "It's a nice day. **Shall we go** for a walk?" },
+        { "text": "'Let's go out this evening.' 'OK, what time **shall we meet**?'" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form of shall",
+      "columns": ["Question word", "shall I / shall we", "+ verb"],
+      "rows": [
+        ["-", "Shall I", "open the window?"],
+        ["What", "shall I", "wear?"],
+        ["-", "Shall we", "go for a walk?"],
+        ["Where", "shall we", "go for our holidays?"],
+        ["What time", "shall we", "meet?"]
+      ],
+      "note": "We use shall only with **I** and **we**."
+    },
+    {
+      "type": "tip",
+      "text": "Shall I ... ? asks about *your* idea; I'll ... says what you have *decided* to do."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each thing somebody says with the answer.",
+      "pairs": [
+        { "left": "My bag is very heavy.", "right": "I'll carry it for you." },
+        { "left": "Enjoy your holiday.", "right": "Thank you. I'll send you a postcard." },
+        { "left": "Do you want a chair?", "right": "No, it's OK. I'll sit on the floor." },
+        { "left": "Did you phone Jenny?", "right": "Oh no, I forgot. I'll do it now." },
+        { "left": "How do you use this camera?", "right": "Give it to me and I'll show you." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I don't want this banana. *B:* Well, I'm hungry. ___ it.",
+      "hint": "(eat)",
+      "answers": ["I'll eat", "I will eat"],
+      "explanation": "B decides now, so we use I'll: I'll eat it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you coming with me? *B:* No, I don't think so. ___ here.",
+      "hint": "(stay)",
+      "answers": ["I'll stay", "I will stay"],
+      "explanation": "A decision at the moment of speaking: I'll stay here."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This camera is too expensive. ___ it.",
+      "options": ["I don't think I'll buy", "I don't think I buy", "I think I'll buy"],
+      "answer": 0,
+      "explanation": "You decide not to buy it now: I don't think I'll buy it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm hungry. ___ something to eat.",
+      "hint": "(I think I'll / have)",
+      "answers": ["I think I'll have", "I think I will have"],
+      "explanation": "We often say I think I'll ... when we decide something now."
+    },
+    {
+      "type": "word_order",
+      "prompt": "This programme isn't very good. Offer to switch off the television.",
+      "words": ["Shall", "I", "turn off", "the television?"],
+      "answer": "Shall I turn off the television?",
+      "explanation": "Shall I ... ? asks if something is a good idea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm hungry. ___ some sandwiches?",
+      "hint": "(Shall I / make)",
+      "answers": ["Shall I make"],
+      "explanation": "You offer to make them: Shall I make some sandwiches?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Let's have a holiday. *B:* OK, where ___?",
+      "hint": "(shall / we / go)",
+      "answers": ["shall we go"],
+      "explanation": "After a question word: where shall we go?"
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm tired. I think I go to bed early tonight.",
+      "answer": false,
+      "explanation": "I think I'll go to bed early tonight. Don't use the present simple for a decision you make now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I like sport. ___ a lot of sport on TV.",
+      "options": ["I watch", "I'll watch", "I'm going to watch"],
+      "answer": 0,
+      "explanation": "This is something you do again and again, so the present simple is right: I watch."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Gerry ___ a new car. He told me last week.",
+      "options": ["is going to buy", "will buy", "buys"],
+      "answer": 0,
+      "explanation": "He decided before, so we don't use will: he is going to buy a new car."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker deciding now, or did they decide before?",
+      "categories": ["Deciding now (I'll ...)", "Decided before (I'm doing / I'm going to)"],
+      "items": [
+        { "text": "My bag is heavy. - I'll carry it for you.", "category": 0 },
+        { "text": "There's a good film on TV tonight. I'm going to watch it.", "category": 1 },
+        { "text": "It's a nice day. I think I'll sit outside.", "category": 0 },
+        { "text": "I can't go out with you tomorrow night. I'm working.", "category": 1 },
+        { "text": "Oh no, I forgot. I'll do it now.", "category": 0 },
+        { "text": "What are you doing at the weekend?", "category": 1 }
+      ]
+    }
+  ]
+}

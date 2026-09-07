@@ -1,0 +1,182 @@
+{
+  "number": 2,
+  "title": "am/is/are (questions)",
+  "subtitle": "am I? / is he? / are you?",
+  "summary": "Ask questions by putting am, is or are before the subject, and answer with short answers like Yes, I am or No, it isn't.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Positive and question",
+      "columns": ["positive", "question"],
+      "rows": [
+        ["I am", "am I?"],
+        ["he / she / it is", "is he / she / it?"],
+        ["we / you / they are", "are we / you / they?"]
+      ],
+      "note": "In a question, am/is/are comes first, then the subject."
+    },
+    {
+      "type": "explain",
+      "heading": "A first conversation",
+      "text": "A woman meets a young man at a party. She wants to know about him, so she asks short questions with **am/is/are**. He gives short answers.",
+      "examples": [
+        { "text": "*A:* **What's** your name? *B:* David." },
+        { "text": "*A:* **Are you** married? *B:* No, I'm single." },
+        { "text": "*A:* **How old are** you? *B:* 25." },
+        { "text": "*A:* **Are you** a student? *B:* Yes, I am." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Yes / no questions",
+      "text": "Put **am/is/are** before the subject. The subject can be one word (*she*) or more than one (*your mother*).",
+      "examples": [
+        { "text": "*A:* **Am I** late? *B:* No, you're on time." },
+        { "text": "*A:* **Is your mother** at home? *B:* No, she's out.", "wrong": "Is at home your mother?" },
+        { "text": "*A:* **Are your parents** at home? *B:* No, they're out." },
+        { "text": "Your shoes are nice. **Are they** new?", "wrong": "Are new your shoes?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where ... ? What ... ? Who ... ? How ... ? Why ... ?",
+      "text": "You can put a question word before **am/is/are**. Then the order is: question word + am/is/are + subject.",
+      "examples": [
+        { "text": "*A:* **Where are** you from? *B:* Canada." },
+        { "text": "*A:* **What colour is** your car? *B:* It's red." },
+        { "text": "*A:* **How old is** Joe? *B:* He's 24." },
+        { "text": "These postcards are nice. **How much are** they?" },
+        { "text": "This hotel isn't very good. **Why is** it so expensive?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short forms with question words",
+      "text": "**what's** = what is, **who's** = who is, **how's** = how is, **where's** = where is. We use them a lot in speaking.",
+      "examples": [
+        { "text": "**What's** the time?" },
+        { "text": "**Where's** Lucy?" },
+        { "text": "**Who's** that man?" },
+        { "text": "**How's** your father?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Short answers",
+      "columns": ["Yes", "No"],
+      "rows": [
+        ["Yes, I am.", "No, I'm not."],
+        ["Yes, he / she / it is.", "No, he / she / it isn't."],
+        ["Yes, we / you / they are.", "No, we / you / they aren't."]
+      ],
+      "note": "In a short answer we do not use the short form of the verb: *Yes, I am*, not ~~Yes, I'm~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Short answers in use",
+      "text": "A short answer repeats the subject and **am/is/are**. It sounds friendly and complete.",
+      "examples": [
+        { "text": "*A:* Are you tired? *B:* **Yes, I am.**" },
+        { "text": "*A:* Are you hungry? *B:* **No, I'm not**, but I'm thirsty." },
+        { "text": "*A:* Is your friend English? *B:* **Yes, he is.**" },
+        { "text": "*A:* Are these your keys? *B:* **Yes, they are.**" },
+        { "text": "*A:* That's my seat. *B:* **No, it isn't.**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never put the subject before am/is/are in a question: *Is your job interesting?* not ~~Your job is interesting?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Find the right answer for each question.",
+      "pairs": [
+        { "left": "Where's the camera?", "right": "In your bag." },
+        { "left": "Is your car blue?", "right": "No, it's black." },
+        { "left": "Is Linda from London?", "right": "No, she's American." },
+        { "left": "Are you hungry?", "right": "No, I'm not." },
+        { "left": "How is George?", "right": "Very well." },
+        { "left": "Who's that woman?", "right": "My sister." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ the bus stop? *B:* At the end of the street.",
+      "hint": "(where)",
+      "answers": ["Where's", "Where is"],
+      "explanation": "The answer gives a place, so the question word is where. Where's = where is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ your favourite sport? *B:* Skiing.",
+      "hint": "(what)",
+      "answers": ["What's", "What is"],
+      "explanation": "One thing, so: What's your favourite sport?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ your children? *B:* Five, six and ten.",
+      "hint": "(how old)",
+      "answers": ["How old are"],
+      "explanation": "Your children = they, so we use are: How old are your children?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ these oranges? *B:* One pound fifty a kilo.",
+      "hint": "(how much)",
+      "answers": ["How much are"],
+      "explanation": "We ask about the price of more than one thing: How much are they?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ the man in this photograph? *B:* That's my father.",
+      "hint": "(who)",
+      "answers": ["Who's", "Who is"],
+      "explanation": "We ask about a person: Who's = who is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ your new shoes? *B:* Black.",
+      "hint": "(what colour)",
+      "answers": ["What colour are"],
+      "explanation": "Shoes = they, so: What colour are your new shoes?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with these words.",
+      "words": ["Is", "your", "job", "interesting?"],
+      "answer": "Is your job interesting?",
+      "explanation": "is + subject (your job) + the rest."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with these words.",
+      "words": ["Are", "the shops", "open", "today?"],
+      "answer": "Are the shops open today?",
+      "explanation": "The shops = they, so the question starts with are."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend arrives very late. Make a question with these words.",
+      "words": ["Why", "are", "you", "late?"],
+      "answer": "Why are you late?",
+      "explanation": "Question word + are + subject."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Are these your keys? *B:* ___",
+      "options": ["Yes, they are.", "Yes, they're.", "Yes, these are."],
+      "answer": 0,
+      "explanation": "In a short answer we use the full form: Yes, they are."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Are you tired? *B:* Yes, I'm.",
+      "answer": false,
+      "explanation": "Yes, I am. We never use the short form I'm at the end of a short answer."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "number": 23,
+  "title": "Forming passive sentences 2: verb + -ing or to-infinitive",
+  "subtitle": "was seen climbing / loved being given",
+  "summary": "Form the passive when a verb is followed by an -ing form or a to-infinitive, and recognise the patterns that have no passive at all.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + object + -ing",
+      "text": "Verbs followed by object + **-ing** in the active are made passive with **be + past participle + -ing**. The object of the active verb becomes the subject; the -ing form stays.",
+      "examples": [
+        { "text": "They saw the monkey climbing over the fence. - The monkey **was seen climbing** over the fence." },
+        { "text": "The man **was observed hiding** a suspicious package under a seat in the train." }
+      ],
+      "note": "Also: bring, catch, hear, find, keep, notice, observe, send, show."
+    },
+    {
+      "type": "explain",
+      "heading": "being + past participle after an -ing verb",
+      "text": "Some verbs that can be followed by an **-ing** form can take the passive **being + past participle**. This is how you make the second verb passive rather than the first.",
+      "examples": [
+        { "text": "I really love **being given** presents." },
+        { "text": "The children enjoyed **being taken** to the zoo." },
+        { "text": "Tarik rather **resented being given** orders by people who had been there only weeks." }
+      ],
+      "note": "Also: avoid, deny, describe, dislike, face, hate, (not) imagine, like, remember, report, resent."
+    },
+    {
+      "type": "explain",
+      "heading": "Patterns with no passive",
+      "text": "When a verb is followed in the active by an object made up of a **noun phrase + -ing clause**, there is usually **no passive** at all.",
+      "examples": [
+        { "text": "I dread him (or his) finding out.", "wrong": "He is dreaded finding out" }
+      ],
+      "note": "Also: anticipate, appreciate, dislike, forget, hate, imagine, like, (not) mind, recall, remember."
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + object + to-infinitive",
+      "text": "This active pattern is made passive with **be + past participle + to-infinitive**. In some contexts both verbs can be passive.",
+      "examples": [
+        { "text": "Mr Wang has taught Peter to sing for years. - Peter **has been taught to sing** (by Mr Wang) for years." },
+        { "text": "Changes to the taxation system **are expected to be proposed**.", "note": "compare the active We expect the government to propose changes ..." }
+      ],
+      "note": "Also: advise, allow, ask, believe, consider, expect, feel, instruct, mean, order, require, tell, understand."
+    },
+    {
+      "type": "explain",
+      "heading": "'Liking' and 'wanting' verbs have no passive here",
+      "text": "Some verbs followed by object + to-infinitive in the active have **no** passive form in this pattern.",
+      "examples": [
+        { "text": "Susan liked Karl to be there.", "wrong": "Karl was liked to be there" }
+      ],
+      "note": "Also: (can't) bear, hate, love, need, prefer, want, wish."
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + to-infinitive + object",
+      "text": "This active pattern is made passive with **verb + to be + past participle**. The first verb stays active; only the infinitive becomes passive.",
+      "examples": [
+        { "text": "Supermarkets started to sell fresh pasta only in the 1990s. - Fresh pasta **started to be sold** by supermarkets only in the 1990s." },
+        { "text": "The south coast continues to attract holidaymakers. - Holidaymakers **continue to be attracted** to the south coast." }
+      ],
+      "note": "Group (i): appear, begin, come, continue, seem, tend (and start). Group (ii): agree, aim, arrange, attempt, hope, refuse, want."
+    },
+    {
+      "type": "compare",
+      "heading": "Same meaning or a different one?",
+      "left": {
+        "label": "Group (i): the meaning is kept",
+        "text": "appear, begin, come, continue, seem, tend, start",
+        "examples": [
+          "People have come to see organic food as something only the wealthy eat.",
+          "Organic food has come to be seen as something only the wealthy eat.",
+          "= the same idea, told from the other end"
+        ]
+      },
+      "right": {
+        "label": "Group (ii): the meaning changes",
+        "text": "agree, aim, arrange, attempt, hope, refuse, want",
+        "examples": [
+          "Petra wanted to help me.",
+          "I wanted to be helped by Petra.",
+          "= two different wishes, held by two different people"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself which verb you want to make passive. The first verb takes be + past participle; the second takes being + past participle or to be + past participle."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Inger ___ for over three hours when she went for her dental appointment.",
+      "hint": "(keep / wait)",
+      "answers": ["was kept waiting"],
+      "explanation": "be + past participle + -ing: they kept her waiting, so she was kept waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When the police first questioned him, Wayne ___ in the robbery.",
+      "hint": "(deny / involve)",
+      "answers": ["denied being involved"],
+      "explanation": "deny takes an -ing form, and the second verb is passive: being involved."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The man ___ a suspicious package under a seat in the train.",
+      "hint": "(observe / hide)",
+      "answers": ["was observed hiding"],
+      "explanation": "Active: they observed the man hiding ... The -ing form is unchanged in the passive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When the bike hit her, Ana ___ to the ground.",
+      "hint": "(send / tumble)",
+      "answers": ["was sent tumbling"],
+      "explanation": "send + object + -ing becomes was sent + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mrs Dee was caught shoplifting.",
+      "answer": true,
+      "explanation": "Correct. They caught Mrs Dee shoplifting becomes Mrs Dee was caught shoplifting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I woke up in hospital, I ___ by the snake but nothing after that.",
+      "hint": "(remember / bite)",
+      "answers": ["remembered being bitten"],
+      "explanation": "remember takes an -ing form; the snake did the biting, so being bitten."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They think that over 20,000 people will go to the pop concert. - The pop concert ___ over 20,000 people.",
+      "options": ["is expected to attract", "is expected attracting", "expects to be attracted"],
+      "answer": 0,
+      "explanation": "be + past participle + to-infinitive: the concert is expected to attract them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two teenagers yesterday ___ from school after they were found with over a hundred stolen mobile phones.",
+      "hint": "(face / expel)",
+      "answers": ["faced being expelled"],
+      "explanation": "face takes an -ing form, and the school does the expelling: being expelled."
+    },
+    {
+      "type": "true_false",
+      "statement": "Karl was liked to be there.",
+      "answer": false,
+      "explanation": "Susan liked Karl to be there. 'Liking' and 'wanting' verbs (like, love, hate, want, need, prefer, wish) have no passive in this pattern."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each active sentence with its passive version.",
+      "pairs": [
+        { "left": "Kay's questions began to irritate Marco.", "right": "Marco began to be irritated by Kay's questions." },
+        { "left": "The team captain hopes to select Omar.", "right": "Omar hopes to be selected by the team captain." },
+        { "left": "Critics have come to recognise Galdos as one of Spain's greatest novelists.", "right": "Galdos has come to be recognised as one of Spain's greatest novelists." },
+        { "left": "The south coast continues to attract holidaymakers.", "right": "Holidaymakers continue to be attracted to the south coast." },
+        { "left": "Harris has agreed to interview the Finance Minister.", "right": "The Finance Minister has agreed to be interviewed by Harris." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They said I had to fill in two copies of the customs declaration. - I ___ two copies of the customs declaration.",
+      "hint": "(require / complete)",
+      "answers": ["was required to complete"],
+      "explanation": "be + past participle + to-infinitive after require."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each passive sentence keep the meaning of the active version, or change it?",
+      "categories": ["Same meaning as the active", "A different meaning"],
+      "items": [
+        { "text": "Marco began to be irritated by Kay's questions.", "category": 0 },
+        { "text": "Omar hopes to be selected by the team captain.", "category": 1 },
+        { "text": "Kathy arranged to be taken to the station by Alastair.", "category": 1 },
+        { "text": "Galdos has come to be recognised as one of Spain's greatest novelists by critics.", "category": 0 },
+        { "text": "Holidaymakers continue to be attracted to the south coast.", "category": 0 },
+        { "text": "The Finance Minister has agreed to be interviewed by Harris.", "category": 1 }
+      ]
+    }
+  ]
+}

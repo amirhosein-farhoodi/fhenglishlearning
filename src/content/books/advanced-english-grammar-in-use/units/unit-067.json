@@ -1,0 +1,171 @@
+{
+  "number": 67,
+  "title": "Gradable and non-gradable adjectives 1",
+  "subtitle": "extremely rich / absolutely superb",
+  "summary": "Match grading adverbs such as very to gradable adjectives and non-grading adverbs such as absolutely to non-gradable ones.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Gradable adjectives take grading adverbs",
+      "text": "Gradable adjectives describe qualities that come in degrees, so we can use grading adverbs (a bit, dreadfully, extremely, hugely, immensely, intensely, rather, reasonably, slightly, very) to say how much of the quality there is.",
+      "examples": [
+        { "text": "She was **extremely rich**." },
+        { "text": "The people there are **reasonably friendly**." },
+        { "text": "It's **hugely popular**." },
+        { "text": "They're **slightly different**." }
+      ],
+      "note": "Gradable in their most common meanings: angry, big, busy, clever, common, different, fast, friendly, happy, important, low, popular, quiet, rich, strong, weak, young."
+    },
+    {
+      "type": "explain",
+      "heading": "Non-gradable adjectives take non-grading adverbs",
+      "text": "Non-gradable adjectives already describe something extreme or absolute, so very and extremely don't fit. Instead we use adverbs that emphasise that absolute nature: absolutely, completely, entirely, perfectly, practically, simply, totally, utterly, virtually.",
+      "examples": [
+        { "text": "She's **completely wrong**." },
+        { "text": "It was **absolutely superb**." },
+        { "text": "He was **practically unknown** to the public." }
+      ],
+      "note": "Non-gradable in their most common meanings: awful, excellent, huge, impossible, superb, terrible, unique, unknown, wrong."
+    },
+    {
+      "type": "table",
+      "heading": "Three groups of adverbs",
+      "columns": ["Adverbs", "Go with", "Example"],
+      "rows": [
+        ["Grading: a bit, extremely, hugely, immensely, rather, reasonably, slightly, very", "gradable adjectives", "Her explanation was **very clear**."],
+        ["Non-grading: absolutely, completely, entirely, perfectly, simply, totally, utterly, virtually", "non-gradable adjectives", "The food was **absolutely excellent**."],
+        ["Extent: almost, exclusively, fully, largely, mainly, nearly, primarily", "classifying adjectives (domestic, environmental, agricultural, male, permanent) and other non-gradable adjectives", "The region is **largely agricultural**. / The bridge is now **almost complete**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Breaking the pattern on purpose",
+      "text": "Gradable adjectives are sometimes used with non-grading adverbs, and non-gradable adjectives with grading adverbs, for special emphasis or humour.",
+      "examples": [
+        { "text": "What you're asking isn't just difficult - it's **extremely impossible**!", "note": "grading adverb + non-gradable adjective" },
+        { "text": "You've won a hundred pounds? Wow, you're **virtually rich**!", "note": "non-grading adverb + gradable adjective" }
+      ],
+      "note": "Not every adverb goes with every adjective in its group: 'absolutely huge' is normal, but we wouldn't usually say 'completely huge'."
+    },
+    {
+      "type": "explain",
+      "heading": "fairly, really and pretty",
+      "text": "These three work with gradable and non-gradable adjectives alike. Fairly means 'to quite a large degree', usually less than very; pretty is similar to fairly and belongs to informal contexts; really means 'very (much)'.",
+      "examples": [
+        { "text": "She's **fairly popular** at school. / It was a **fairly awful** film." },
+        { "text": "I'm **really busy** at the moment. / The flooding was **really terrible**." },
+        { "text": "It's a **pretty important** exam. / The bill was **pretty huge**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "But not fairly essential",
+      "text": "We don't generally use fairly (or very) with adjectives that say something is very good or necessary.",
+      "examples": [
+        { "text": "Experience is **really / pretty essential** for the job.", "wrong": "fairly essential" },
+        { "text": "The weather was **really / pretty perfect**.", "wrong": "fairly perfect" }
+      ],
+      "note": "Also invaluable, superb, tremendous, wonderful."
+    },
+    {
+      "type": "tip",
+      "text": "Ask whether the quality can come in degrees. If it can't (superb, impossible, unique, complete), reach for absolutely, completely or almost - not very."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The food was ___ excellent.",
+      "options": ["absolutely", "very", "a bit"],
+      "answer": 0,
+      "explanation": "Excellent is non-gradable, so it takes a non-grading adverb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The material is ___ cotton.",
+      "hint": "(mainly / very)",
+      "answers": ["mainly"],
+      "explanation": "Cotton classifies the material, so we use an adverb of extent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Their actions were ___ illegal.",
+      "hint": "(completely / very)",
+      "answers": ["completely"],
+      "explanation": "Illegal is non-gradable - an action either is or isn't against the law."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bridge is now ___ complete.",
+      "hint": "(almost / practically / very)",
+      "answers": ["almost", "practically"],
+      "explanation": "Complete is non-gradable, so an adverb of extent shows how near it is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My new flat is in an ___ old building which was totally renovated last year.",
+      "options": ["extremely", "absolutely", "utterly"],
+      "answer": 0,
+      "explanation": "Old is gradable, so it needs a grading adverb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Until last year the club was ___ male.",
+      "hint": "(exclusively / mainly / very)",
+      "answers": ["exclusively", "mainly"],
+      "explanation": "Male is a classifying adjective, so we use an adverb of extent."
+    },
+    {
+      "type": "mcq",
+      "prompt": "As you know, I'm ___ useless at DIY.",
+      "options": ["absolutely", "hugely", "reasonably"],
+      "answer": 0,
+      "explanation": "Useless is non-gradable, so a non-grading adverb is needed."
+    },
+    {
+      "type": "true_false",
+      "statement": "My neighbours are very friendly and usually fully quiet.",
+      "answer": false,
+      "explanation": "... usually reasonably quiet. Quiet is gradable, so it takes a grading adverb, not fully."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the halves of these sentences from a letter about a new flat.",
+      "pairs": [
+        { "left": "It's in an extremely old building", "right": "which was totally renovated last year." },
+        { "left": "The view across the river from my sitting room", "right": "is simply superb." },
+        { "left": "The flat's quite small,", "right": "but perfectly comfortable for me." },
+        { "left": "The woman upstairs plays the trumpet,", "right": "and I find it virtually impossible to read when she's playing." },
+        { "left": "There's an absolutely marvellous restaurant nearby", "right": "that we could go to." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The building is ___ unique in this part of Stratford, as most others around are rather modern.",
+      "options": ["almost", "reasonably", "very"],
+      "answer": 0,
+      "explanation": "Unique is non-gradable; an adverb of extent like almost is possible, but reasonably unique is unlikely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather was ___ perfect for a long walk.",
+      "hint": "(really / fairly)",
+      "answers": ["really"],
+      "explanation": "We don't use fairly with adjectives that say something is very good, like perfect."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each adjective gradable or non-gradable in its most common meaning?",
+      "categories": ["Gradable (very ...)", "Non-gradable (absolutely ...)"],
+      "items": [
+        { "text": "angry", "category": 0 },
+        { "text": "popular", "category": 0 },
+        { "text": "old", "category": 0 },
+        { "text": "superb", "category": 1 },
+        { "text": "impossible", "category": 1 },
+        { "text": "unique", "category": 1 }
+      ]
+    }
+  ]
+}

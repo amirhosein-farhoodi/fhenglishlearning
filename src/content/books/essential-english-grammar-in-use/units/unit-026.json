@@ -1,0 +1,177 @@
+{
+  "number": 26,
+  "title": "I'm going to ...",
+  "subtitle": "I'm going to do something",
+  "summary": "Use am/is/are going to for what you have decided to do, and for something we can see now is sure to happen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "She is going to watch TV",
+      "text": "It is morning. A woman is reading the television page in her newspaper. She thinks about the evening and sees herself in front of the television. She says: 'I'm going to watch TV this evening.' So: **She is going to watch** TV this evening. We use **am/is/are going to** for the future.",
+      "examples": [
+        { "text": "**I'm going to watch** TV this evening." },
+        { "text": "**I'm going to buy** some books tomorrow." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Positive and negative",
+      "columns": ["Subject", "am / is / are", "(not) going to", "+ verb"],
+      "rows": [
+        ["I", "am", "(not) going to", "do ..."],
+        ["he / she / it", "is", "(not) going to", "drink ..."],
+        ["we / you / they", "are", "(not) going to", "watch ..."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions",
+      "columns": ["am / is / are", "Subject", "going to", "+ verb"],
+      "rows": [
+        ["am", "I", "going to", "buy ... ?"],
+        ["is", "he / she / it", "going to", "eat ... ?"],
+        ["are", "we / you / they", "going to", "wear ... ?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I have decided to do it",
+      "text": "**I am going to do something** = I have decided to do it, my intention is to do it. I decided in the past, and now I have the plan.",
+      "examples": [
+        { "text": "**I'm going to buy** some books tomorrow." },
+        { "text": "Sarah **is going to sell** her car." },
+        { "text": "**I'm not going to have** breakfast this morning. I'm not hungry." },
+        { "text": "What **are** you **going to wear** to the wedding next week?" },
+        { "text": "'Your hands are dirty.' 'Yes, I know. **I'm going to wash** them.'" },
+        { "text": "**Are** you **going to invite** Martin to your party?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "going to or the present continuous?",
+      "left": {
+        "label": "going to (I have decided)",
+        "examples": [
+          "**I'm going to buy** some books tomorrow.",
+          "Sarah **is going to sell** her car."
+        ]
+      },
+      "right": {
+        "label": "present continuous (an arrangement)",
+        "examples": [
+          "**I am playing** tennis with Julia tomorrow.",
+          "We**'re having** a party next weekend."
+        ]
+      },
+      "note": "We also use the present continuous (**I am doing**) for the future, usually for arrangements."
+    },
+    {
+      "type": "explain",
+      "heading": "Something is going to happen",
+      "text": "**Something is going to happen** = we can see *now* that it is sure to happen. A woman is outside and the sky is full of black clouds. She says: 'It's going to rain.'",
+      "examples": [
+        { "text": "Look at the sky! It**'s going to rain**.", "note": "black clouds now - rain" },
+        { "text": "Oh dear! It's 9 o'clock and I'm not ready. **I'm going to be** late.", "note": "9 o'clock now and not ready - late" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "going to always keeps to before the verb: I'm going **to** buy a car, not ~~I'm going buy a car~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A woman in a bathrobe opens the bathroom door. She is thinking about a hot bath. She says: 'I ___ a bath.'",
+      "hint": "(going to / have)",
+      "answers": ["'m going to have", "am going to have"],
+      "explanation": "She has decided to have a bath: I'm going to have a bath."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man reads a big sign: 'BUY A NEW CAR NOW!'. He sees himself with a shiny new car. He says: 'I ___ a car.'",
+      "hint": "(going to / buy)",
+      "answers": ["'m going to buy", "am going to buy"],
+      "explanation": "He has decided to buy a car: I'm going to buy a car."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the plan.",
+      "pairs": [
+        { "left": "My hands are dirty.", "right": "I'm going to wash them." },
+        { "left": "I'm hungry.", "right": "I'm going to eat this sandwich." },
+        { "left": "It's Sharon's birthday next week.", "right": "We're going to give her a present." },
+        { "left": "Sue says she's feeling very tired.", "right": "She's going to lie down for an hour." },
+        { "left": "It's a nice day and I don't want to take the bus.", "right": "I'm going to walk." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steve is going to London next week. He ___ with some friends.",
+      "hint": "(going to / stay)",
+      "answers": ["'s going to stay", "is going to stay"],
+      "explanation": "His plan for next week: He's going to stay with some friends."
+    },
+    {
+      "type": "word_order",
+      "prompt": "There's a good film on Channel 6 tonight. Ask your friend about it.",
+      "words": ["Are", "you", "going to", "watch", "it?"],
+      "answer": "Are you going to watch it?",
+      "explanation": "Questions put am/is/are first: Are you going to ... ?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "A shelf is full of heavy books, and one end is coming away from the wall. What is going to happen?",
+      "options": ["The shelf is going to fall.", "The shelf falls.", "The shelf goes to fall."],
+      "answer": 0,
+      "explanation": "We can see now that it is sure to happen: The shelf is going to fall."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A car is coming to a corner and its right indicator is flashing. The car ___ right.",
+      "hint": "(going to / turn)",
+      "answers": ["'s going to turn", "is going to turn"],
+      "explanation": "We can see now that it is sure to happen: It's going to turn right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A boy has his foot back and the ball is right in front of him. He ___ the ball.",
+      "hint": "(going to / kick)",
+      "answers": ["'s going to kick", "is going to kick"],
+      "explanation": "We can see now that it is sure to happen: He's going to kick the ball."
+    },
+    {
+      "type": "true_false",
+      "statement": "Look at those black clouds. It's going to rain.",
+      "answer": true,
+      "explanation": "Correct. We can see the clouds now, so the rain is sure to come."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sarah is going sell her car.",
+      "answer": false,
+      "explanation": "Sarah is going to sell her car. going to always needs to before the verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about Rachel's plans for after school.",
+      "words": ["What", "is", "Rachel", "going to", "do", "when she leaves school?"],
+      "answer": "What is Rachel going to do when she leaves school?",
+      "explanation": "What + is + Rachel + going to + verb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the speaker talking about a decision, or about something we can see now is sure to happen?",
+      "categories": ["I have decided to do it", "We can see it is sure to happen"],
+      "items": [
+        { "text": "I'm going to buy some books tomorrow.", "category": 0 },
+        { "text": "Look at the sky! It's going to rain.", "category": 1 },
+        { "text": "Sarah is going to sell her car.", "category": 0 },
+        { "text": "It's 9 o'clock and I'm not ready. I'm going to be late.", "category": 1 },
+        { "text": "Are you going to invite Martin to your party?", "category": 0 },
+        { "text": "The shelf is full of books. It's going to fall.", "category": 1 }
+      ]
+    }
+  ]
+}

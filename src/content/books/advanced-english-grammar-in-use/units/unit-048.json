@@ -1,0 +1,163 @@
+{
+  "number": 48,
+  "title": "Some and any",
+  "subtitle": "some friends / hardly any sugar",
+  "summary": "Use some for particular but indefinite things, for approximate numbers and for unknown ones, and any in non-affirmative contexts - including the cases where some survives next to a negative word.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "some or no article?",
+      "text": "Before plural and uncountable nouns, **some** and zero article often make very little difference: both refer to particular people or things in an indefinite way. Used this way, *some* is pronounced weakly. But we do **not** use *some* to make general statements about whole classes of things or people.",
+      "examples": [
+        { "text": "'Where were you last week?' 'I was visiting **(some)** friends.'" },
+        { "text": "Before serving, pour **(some)** yoghurt over the top." },
+        { "text": "**Machinery** can be dangerous unless used properly.", "wrong": "Some machinery can be dangerous" },
+        { "text": "**Babies** need a lot of attention." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some = approximately",
+      "text": "**Some** is used before a number to mean *approximately*. It is pronounced weakly here too.",
+      "examples": [
+        { "text": "**Some** eighty per cent of all residents took part in the vote.", "note": "beginning 'Eighty per cent ...' suggests a more precise figure" },
+        { "text": "An unexploded bomb has been found **some** five miles from the centre of Newham." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "some + singular noun",
+      "text": "When we can't say exactly which person or thing we mean - because we don't know, can't remember, or want to stress that it doesn't matter - we can use **some** instead of *a / an* with a singular noun. The phrase **some (thing) or other** works in the same way.",
+      "examples": [
+        { "text": "He was interrupted twice by **some troublemaker** in the audience." },
+        { "text": "I bought them from **some shop or other** in New Street.", "wrong": "from a shop or other" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "any in non-affirmative contexts",
+      "text": "We usually use **any** (and *anyone, anything*) in contexts that lack positive, affirmative meaning, and to refer to non-specific, unspecified things. This covers sentences with a negative meaning of any kind.",
+      "examples": [
+        { "text": "There's hardly **any** sugar left." },
+        { "text": "I closed the windows to prevent **any** flies getting in." },
+        { "text": "It was impossible to see **anything** in the dark." },
+        { "text": "We got to the airport without **any** difficulty." }
+      ],
+      "note": "Also with barely, never, rarely, scarcely, seldom (negative adverbs); deny, fail, forbid, prohibit, refuse (negative verbs); reluctant, unable, unlikely (negative adjectives)."
+    },
+    {
+      "type": "explain",
+      "heading": "When some survives next to a negative word",
+      "text": "We still use **some** with those negative words when *some* has the implication *not all*, when the basic meaning is positive, or when we are talking about a particular but unspecified person or thing.",
+      "examples": [
+        { "text": "I talk to colleagues before I make **some** decisions, but I had to make this one on my own.", "note": "= not all decisions" },
+        { "text": "**Somebody** isn't telling the truth.", "note": "= There is some person who isn't telling the truth" },
+        { "text": "I was reluctant to repeat **something** so critical of Paul.", "note": "= a specific criticism" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "any with before and comparisons",
+      "text": "We often use **any** in clauses beginning with *before*, and in comparisons.",
+      "examples": [
+        { "text": "I cleared up the mess before **anyone** saw it.", "note": "'... before someone saw it' suggests a particular person I have in mind" },
+        { "text": "The material felt softer than **anything** she had ever touched before." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A negative word nearby does not automatically force *any*: if you really mean *not all of them*, or if there is one particular thing you have in mind, *some* is still right."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Money can't buy you some happiness.",
+      "answer": false,
+      "explanation": "Money can't buy you happiness. We don't use some in general statements about a whole class of things."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to say that not all sports are dangerous. Which sentence do you use?",
+      "options": ["Some sports are dangerous.", "Sports are dangerous.", "Any sports are dangerous."],
+      "answer": 0,
+      "explanation": "some means 'not all'; without it the sentence is a general statement about all sports."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ 30% of all city buses have been found to be unsafe.",
+      "hint": "(approximately)",
+      "answers": ["some"],
+      "explanation": "some before a number means approximately."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An unexploded bomb has been found ___ from the centre of Newham.",
+      "hint": "(approximately five miles)",
+      "answers": ["some five miles"],
+      "explanation": "some + number is the natural way to give an approximate distance."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each gap take some / someone / something, or any / anyone / anything?",
+      "categories": ["some / someone / something", "any / anyone / anything"],
+      "items": [
+        { "text": "I was unable to eat ___ of the food. (= I ate none of it)", "category": 1 },
+        { "text": "I always get to work before ___ else.", "category": 1 },
+        { "text": "The theatre is unlikely to have ___ tickets left for tonight.", "category": 1 },
+        { "text": "___ isn't telling the truth.", "category": 0 },
+        { "text": "I talk to colleagues before I make ___ decisions, but I had to make this one on my own.", "category": 0 },
+        { "text": "I was reluctant to repeat ___ so critical of Paul. (= one particular criticism)", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know where I got the information from. I must have heard it on ___.",
+      "hint": "(some radio programme ...)",
+      "answers": ["some radio programme or other", "some radio programme"],
+      "explanation": "some (thing) or other is used when we can't say exactly which one - never 'a programme or other'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elias worked hard at learning Japanese but failed to make ___ real progress.",
+      "hint": "(some / any)",
+      "answers": ["any"],
+      "explanation": "fail is a negative verb, so any is used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I always offer to help organise school concerts, but there is seldom ___ for me to do.",
+      "hint": "(something / anything)",
+      "answers": ["anything"],
+      "explanation": "seldom is a negative adverb, so anything is used."
+    },
+    {
+      "type": "true_false",
+      "statement": "He denied that he had done anything wrong.",
+      "answer": true,
+      "explanation": "Correct. deny is a negative verb, so anything - suggesting he did nothing at all wrong. (something is also possible if he is denying one particular accusation.)"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make one sentence.",
+      "words": ["The material", "felt softer", "than anything", "she had", "ever touched", "before."],
+      "answer": "The material felt softer than anything she had ever touched before.",
+      "explanation": "We use any / anything in comparisons."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fiona Jones is ___ I rarely see these days.",
+      "hint": "(someone / anyone)",
+      "answers": ["someone", "somebody"],
+      "explanation": "Despite rarely, the basic meaning is positive - there is such a person - so someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ parents never seem to have time to sit down and talk to their children.",
+      "hint": "(Some / Any)",
+      "answers": ["some"],
+      "explanation": "Here some means 'not all', so it stays even next to never."
+    }
+  ]
+}

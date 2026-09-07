@@ -1,0 +1,178 @@
+{
+  "number": 97,
+  "title": "and but or so because",
+  "subtitle": "joining two sentences",
+  "summary": "Join two short sentences into one with and, but, or, so and because.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Joining two sentences",
+      "text": "We use **and**, **but**, **or**, **so** and **because** to join two sentences. They make one longer sentence from two shorter ones.",
+      "examples": [
+        { "text": "The car stopped. + The driver got out." },
+        { "text": "The car stopped **and** the driver got out." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "and / but / or",
+      "text": "**and** puts two things together, **but** shows a difference, and **or** gives a choice. When the person is the same in both parts, you do not need to say it again.",
+      "examples": [
+        { "text": "We stayed at home **and** watched television.", "note": "You do not need to repeat *we*." },
+        { "text": "My sister is married **and** lives in London." },
+        { "text": "He doesn't like her, **and** she doesn't like him." },
+        { "text": "I bought a newspaper, **but** I didn't read it." },
+        { "text": "It's a nice house, **but** it hasn't got a garden." },
+        { "text": "Do you want to go out, **or** are you too tired?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Lists",
+      "text": "In a list we use commas (,) and we put **and** before the last thing.",
+      "examples": [
+        { "text": "I got home, had something to eat, sat down in an armchair **and** fell asleep." },
+        { "text": "Karen is at work, Sue has gone shopping **and** Chris is playing football." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "so and because",
+      "left": {
+        "label": "so - the result",
+        "text": "After so we say what happened because of the first part.",
+        "examples": [
+          "It was very hot, **so** I opened the window.",
+          "Joe does a lot of sport, **so** he's very fit.",
+          "They don't like travelling, **so** they haven't been to many places."
+        ]
+      },
+      "right": {
+        "label": "because - the reason",
+        "text": "After because we say why.",
+        "examples": [
+          "I opened the window **because** it was very hot.",
+          "Joe can't come to the party **because** he's going away.",
+          "Lisa is hungry **because** she didn't have breakfast."
+        ]
+      },
+      "note": "**Because** is also possible at the beginning: *Because it was very hot, I opened the window.*"
+    },
+    {
+      "type": "table",
+      "heading": "Which word?",
+      "columns": ["Word", "It shows", "Example"],
+      "rows": [
+        ["and", "two things together", "The car stopped **and** the driver got out."],
+        ["but", "a difference", "I bought a newspaper, **but** I didn't read it."],
+        ["or", "a choice", "Do you want to go out, **or** are you too tired?"],
+        ["so", "the result", "It was very hot, **so** I opened the window."],
+        ["because", "the reason", "I opened the window **because** it was very hot."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More than one joining word",
+      "text": "One long sentence can have two of these words.",
+      "examples": [
+        { "text": "It was late **and** I was tired, **so** I went to bed." },
+        { "text": "I always enjoy visiting London, **but** I wouldn't like to live there **because** it's too big." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I bought a newspaper, ___ I didn't read it.",
+      "options": ["but", "and", "so"],
+      "answer": 0,
+      "explanation": "but shows a difference between the two parts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I opened the window ___ it was very hot.",
+      "hint": "(so / because)",
+      "answers": ["because"],
+      "explanation": "The second part gives the reason, so we use because."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Joe does a lot of sport, ___ he's very fit.",
+      "hint": "(so / because)",
+      "answers": ["so"],
+      "explanation": "The second part is the result, so we use so."
+    },
+    {
+      "type": "true_false",
+      "statement": "The car stopped and the driver got out.",
+      "answer": true,
+      "explanation": "Correct. and joins the two sentences into one."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word joins each pair of sentences: so or because?",
+      "categories": ["so", "because"],
+      "items": [
+        { "text": "Joe does a lot of sport. He's very fit.", "category": 0 },
+        { "text": "They don't like travelling. They haven't been to many places.", "category": 0 },
+        { "text": "It was late and I was tired. I went to bed.", "category": 0 },
+        { "text": "Joe can't come to the party. He's going away.", "category": 1 },
+        { "text": "Lisa is hungry. She didn't have breakfast.", "category": 1 },
+        { "text": "I opened the window. It was very hot.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join two sentences: I went to the window. I looked out.",
+      "words": ["I", "went", "to the window", "and", "looked out."],
+      "answer": "I went to the window and looked out.",
+      "explanation": "The person is the same, so you do not repeat I after and."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the right ending.",
+      "pairs": [
+        { "left": "They went to the museum,", "right": "but it was closed." },
+        { "left": "They couldn't play tennis", "right": "because it was raining." },
+        { "left": "Bill wasn't hungry,", "right": "so he didn't eat anything." },
+        { "left": "Helen was late", "right": "because there was a lot of traffic." },
+        { "left": "It was late and I was tired,", "right": "so I went to bed." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I usually drive to work, ___ I went by bus this morning.",
+      "hint": "(and / but)",
+      "answers": ["but"],
+      "explanation": "This morning was different from usual, so we use but."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join two sentences: I wanted to phone you. I didn't have your number.",
+      "words": ["I", "wanted to phone you,", "but", "I didn't have", "your number."],
+      "answer": "I wanted to phone you, but I didn't have your number.",
+      "explanation": "but shows the difference between what you wanted and what happened."
+    },
+    {
+      "type": "true_false",
+      "statement": "I always enjoy visiting London, so I wouldn't like to live there.",
+      "answer": false,
+      "explanation": "I always enjoy visiting London, but I wouldn't like to live there because it's too big."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join two sentences: Do you want me to come with you? Shall I wait here?",
+      "words": ["Do you want me to come with you,", "or", "shall I wait", "here?"],
+      "answer": "Do you want me to come with you, or shall I wait here?",
+      "explanation": "or gives the other person a choice."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join two sentences: I jumped into the river. I swam to the other side.",
+      "words": ["I", "jumped", "into the river", "and", "swam to the other side."],
+      "answer": "I jumped into the river and swam to the other side.",
+      "explanation": "The person is the same in both parts, so I is not repeated after and."
+    }
+  ]
+}

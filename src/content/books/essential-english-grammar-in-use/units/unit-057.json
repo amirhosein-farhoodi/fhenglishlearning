@@ -1,0 +1,190 @@
+{
+  "number": 57,
+  "title": "do and make",
+  "subtitle": "do the shopping / make a mistake",
+  "summary": "Use do for actions in general and make when somebody produces or creates something, and learn the common phrases with each verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "do = a general word for actions",
+      "text": "**Do** is a general word for actions. When we do not say the name of the action, we use **do**.",
+      "examples": [
+        { "text": "What are you **doing** this evening?", "wrong": "What are you making" },
+        { "text": "*A:* Shall I open the window? *B:* No, it's OK. I'll **do** it." },
+        { "text": "Rachel's job is very boring. She **does** the same thing every day." },
+        { "text": "I **did** a lot of things yesterday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What do you do?",
+      "text": "**What do you do?** is a question about your job. It means: What's your job?",
+      "examples": [
+        { "text": "*A:* What do you **do**? *B:* I work in a bank." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "make = produce or create",
+      "text": "**Make** = produce or create. Something new is there at the end. A woman with a coffee pot in her hands is **making** coffee. A man with a big cake in his hands has **made** a cake.",
+      "examples": [
+        { "text": "She's **making** coffee." },
+        { "text": "He has **made** a cake." },
+        { "text": "They **make** umbrellas." },
+        { "text": "It was **made** in China." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "do or make?",
+      "left": {
+        "label": "do (an action)",
+        "text": "You do an action. Nothing new is there at the end.",
+        "examples": [
+          "I **did** a lot yesterday. I cleaned my room and I wrote some letters.",
+          "*A:* What do you **do** in your free time? Sport? Reading?",
+          "I **did** the washing, but I didn't **do** the shopping."
+        ]
+      },
+      "right": {
+        "label": "make (something new)",
+        "text": "You make something, so something new is there at the end.",
+        "examples": [
+          "I **made** a cake.",
+          "*B:* I **make** clothes. I **make** dresses and jackets.",
+          "I also **make** toys for my children."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Expressions with do",
+      "columns": ["do + ...", "Example"],
+      "rows": [
+        ["an exam / a test", "I'm **doing my driving test** next week."],
+        ["a course", "John has just **done a training course**."],
+        ["homework", "Our children have to **do** a lot of **homework**."],
+        ["housework", "I hate **doing housework**, especially cleaning."],
+        ["somebody a favour", "Sue, could you **do me a favour**?"],
+        ["an exercise", "I go for a run and **do exercises** every morning."]
+      ],
+      "note": "Also *do the shopping / do the washing / do the washing-up / do the ironing / do the cooking*: I **did the washing**, but I didn't **do the shopping**."
+    },
+    {
+      "type": "table",
+      "heading": "Expressions with make",
+      "columns": ["make + ...", "Example"],
+      "rows": [
+        ["a mistake", "I'm sorry, I **made a mistake**."],
+        ["an appointment", "I need to **make an appointment** to see the doctor."],
+        ["a phone call", "Excuse me, I have to **make a phone call**."],
+        ["a list", "Have you **made a shopping list**?"],
+        ["a noise", "It's late. Don't **make a noise**."],
+        ["a bed", "Sometimes I forget to **make my bed** in the morning."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say **make a film** but **take a photograph**: *When was this film made?* but *When was this photograph taken?*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "What did you ___ at the weekend? Did you go away?",
+      "hint": "(do / make)",
+      "answers": ["do"],
+      "explanation": "We do not name the action, so we use do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you know how to ___ bread?",
+      "hint": "(do / make)",
+      "answers": ["make"],
+      "explanation": "You produce bread, so we use make."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paper is ___ from wood.",
+      "options": ["made", "done", "making"],
+      "answer": 0,
+      "explanation": "Somebody produces paper, so we use make: paper is made from wood."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What do you ___? *B:* I'm a doctor.",
+      "hint": "(do / make)",
+      "answers": ["do"],
+      "explanation": "What do you do? is a question about your job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I asked you to clean the bathroom. Have you ___ it?",
+      "hint": "(do)",
+      "answers": ["done"],
+      "explanation": "After have we use done, the past participle of do."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verb goes with each expression: do or make?",
+      "categories": ["do", "make"],
+      "items": [
+        { "text": "your homework", "category": 0 },
+        { "text": "a mistake", "category": 1 },
+        { "text": "an exam", "category": 0 },
+        { "text": "a phone call", "category": 1 },
+        { "text": "the washing-up", "category": 0 },
+        { "text": "a noise", "category": 1 },
+        { "text": "somebody a favour", "category": 0 },
+        { "text": "an appointment", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "What are these people doing? Match each situation with the right sentence.",
+      "pairs": [
+        { "left": "A man is putting flour, eggs and milk in a bowl.", "right": "He's making a cake." },
+        { "left": "Two children are writing in an exercise book after school.", "right": "They're doing their homework." },
+        { "left": "A man is putting food in a basket at the supermarket.", "right": "He's doing the shopping." },
+        { "left": "A woman is standing at the sink with plates and water.", "right": "She's doing the washing-up." },
+        { "left": "A man is writing sugar, bread, tea and milk on a piece of paper.", "right": "He's making a list." },
+        { "left": "A man is holding a camera in front of his face.", "right": "He's taking a photograph." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why do you always ___ the same mistake?",
+      "hint": "(do / make)",
+      "answers": ["make"],
+      "explanation": "We say make a mistake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need to see the dentist, but I haven't ___ an appointment.",
+      "hint": "(do / make)",
+      "answers": ["made"],
+      "explanation": "We say make an appointment, so after haven't we use made."
+    },
+    {
+      "type": "true_false",
+      "statement": "It was a bad mistake. It was the worst mistake I've ever done.",
+      "answer": false,
+      "explanation": "It was the worst mistake I've ever made. We say make a mistake, not do a mistake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's something wrong with the car. The engine is ___ a strange noise.",
+      "hint": "(do / make)",
+      "answers": ["making"],
+      "explanation": "We say make a noise."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["Let's", "make", "a list", "of all the things", "we have to", "do", "today."],
+      "answer": "Let's make a list of all the things we have to do today.",
+      "explanation": "make a list (you produce the list), but do things (a general action)."
+    }
+  ]
+}

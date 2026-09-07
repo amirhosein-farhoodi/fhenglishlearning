@@ -1,0 +1,197 @@
+{
+  "number": 63,
+  "title": "myself/yourself/themselves etc.",
+  "subtitle": "I hurt myself / They enjoyed themselves",
+  "summary": "Use myself, yourself, himself etc. when the person who does the action and the person who gets it are the same, and each other for two people who do the same thing to one another.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "myself, yourself, themselves",
+      "text": "A man in front of a mirror puts on his tie and looks at his own face: he's looking at **himself**. At a party there is a big table of food, and the host says two words to a guest: 'Help **yourself**!' On the beach some children are building a sandcastle: they're enjoying **themselves**.",
+      "examples": [
+        { "text": "I looked at **myself** in the mirror." },
+        { "text": "He cut **himself** with a knife." },
+        { "text": "She fell off her bike, but she didn't hurt **herself**." },
+        { "text": "Please help **yourself**.", "note": "one person" },
+        { "text": "Please help **yourselves**.", "note": "two or more people" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["I / he / she ...", "me / him / her ...", "myself / himself ..."],
+      "rows": [
+        ["I", "me", "myself"],
+        ["he", "him", "himself"],
+        ["she", "her", "herself"],
+        ["you (one person)", "you", "yourself"],
+        ["you (two or more)", "you", "yourselves"],
+        ["we", "us", "ourselves"],
+        ["they", "them", "themselves"]
+      ],
+      "note": "One person = *-self*. Two or more people = *-selves*."
+    },
+    {
+      "type": "compare",
+      "heading": "me/him/them or myself/himself/themselves?",
+      "left": {
+        "label": "me / him / them etc.",
+        "text": "Two different people. She is looking at him: they are not the same person.",
+        "examples": [
+          "You never talk to **me**.",
+          "I didn't pay for **them**.",
+          "I'm sorry. Did I hurt **you**?"
+        ]
+      },
+      "right": {
+        "label": "myself / himself / themselves etc.",
+        "text": "The same person. He is looking at himself in the mirror.",
+        "examples": [
+          "Sometimes I talk to **myself**.",
+          "They paid for **themselves**.",
+          "Be careful. Don't hurt **yourself**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "by myself = alone",
+      "text": "**by myself**, **by yourself**, **by herself** etc. mean *alone*.",
+      "examples": [
+        { "text": "I went on holiday **by myself**.", "note": "= I went alone" },
+        { "text": "'Was she with friends?' 'No, she was **by herself**.'" },
+        { "text": "My sister lives **by herself**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "each other",
+      "text": "Use **each other** for two people who do the same thing to one another.",
+      "examples": [
+        { "text": "Kate and Helen are good friends. They know **each other** well.", "note": "= Kate knows Helen / Helen knows Kate" },
+        { "text": "Paul and I live near **each other**.", "note": "= he lives near me / I live near him" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "each other or -selves?",
+      "left": {
+        "label": "each other",
+        "text": "Tim looks at Sue and Sue looks at Tim.",
+        "examples": [
+          "Tim and Sue looked at **each other**.",
+          "= he looked at her, she looked at him"
+        ]
+      },
+      "right": {
+        "label": "themselves",
+        "text": "Tim and Sue stand in front of a mirror and look at their own faces.",
+        "examples": [
+          "Tim and Sue looked at **themselves**.",
+          "= he looked at himself, she looked at herself"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "*They looked at themselves* = in a mirror. *They looked at each other* = face to face."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not angry with you. I'm angry with ___.",
+      "hint": "(I)",
+      "answers": ["myself"],
+      "explanation": "The person is the same, so we use myself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Karen had a good time in Australia. She enjoyed ___.",
+      "hint": "(she)",
+      "answers": ["herself"],
+      "explanation": "One woman, so we use herself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My friends had a good time in Australia. They enjoyed ___.",
+      "hint": "(they)",
+      "answers": ["themselves"],
+      "explanation": "More than one person, so we use themselves."
+    },
+    {
+      "type": "categorize",
+      "prompt": "One person or two or more people?",
+      "categories": ["one person", "two or more people"],
+      "items": [
+        { "text": "myself", "category": 0 },
+        { "text": "himself", "category": 0 },
+        { "text": "herself", "category": 0 },
+        { "text": "yourself", "category": 0 },
+        { "text": "ourselves", "category": 1 },
+        { "text": "yourselves", "category": 1 },
+        { "text": "themselves", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He never thinks about other people. He only thinks about ___.",
+      "hint": "(he)",
+      "answers": ["himself"],
+      "explanation": "The same man, so we use himself."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its -self / -selves form.",
+      "pairs": [
+        { "left": "I", "right": "myself" },
+        { "left": "he", "right": "himself" },
+        { "left": "she", "right": "herself" },
+        { "left": "we", "right": "ourselves" },
+        { "left": "they", "right": "themselves" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Goodbye! Have a good trip and look after ___! (you are talking to two people)",
+      "options": ["yourselves", "yourself", "themselves"],
+      "answer": 0,
+      "explanation": "Two people, so we use yourselves."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister lives alone. My sister lives by ___.",
+      "hint": "(she)",
+      "answers": ["herself"],
+      "explanation": "by herself = alone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a wall between two people. He says 'I can't see her' and she says 'I can't see him'. They can't see ___.",
+      "hint": "(each ...)",
+      "answers": ["each other"],
+      "explanation": "Both people do the same thing to the other person, so we use each other."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't go to Emily's party. She didn't invite ___.",
+      "hint": "(we)",
+      "answers": ["us"],
+      "explanation": "Emily and we are different people, so we use us."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tim and Sue looked at themselves. This means Tim looked at Sue and Sue looked at Tim.",
+      "answer": false,
+      "explanation": "Tim and Sue looked at each other means he looked at her and she looked at him. Looked at themselves = each of them looked in a mirror."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order. It means: I went on holiday alone.",
+      "words": ["I", "went", "on holiday", "by", "myself."],
+      "answer": "I went on holiday by myself.",
+      "explanation": "by myself = alone."
+    }
+  ]
+}

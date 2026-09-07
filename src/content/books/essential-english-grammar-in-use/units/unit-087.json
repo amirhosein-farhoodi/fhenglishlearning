@@ -1,0 +1,192 @@
+{
+  "number": 87,
+  "title": "old/older expensive / more expensive",
+  "subtitle": "older / more expensive",
+  "summary": "Make the comparative with -er for short words and with more ... for long words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Comparative forms",
+      "text": "Two old men are talking. One says 'I'm 92' and the other says 'I'm 93'. Both men are **old**, but the second man is **older**. One weight is 40 kg and the other is 50 kg: the second one is **heavier**. One pair of shoes costs 95 pounds and another pair costs 110 pounds: the second pair is **more expensive**.",
+      "examples": [
+        { "text": "old -> **older**" },
+        { "text": "heavy -> **heavier**" },
+        { "text": "expensive -> **more expensive**" }
+      ],
+      "note": "**older**, **heavier** and **more expensive** are *comparative* forms. The comparative is **-er** or **more ...**."
+    },
+    {
+      "type": "table",
+      "heading": "Short words (1 syllable) -> -er",
+      "columns": ["Adjective", "Comparative"],
+      "rows": [
+        ["old", "older"],
+        ["slow", "slower"],
+        ["cheap", "cheaper"],
+        ["nice", "nicer"],
+        ["late", "later"],
+        ["big", "bigger"]
+      ],
+      "note": "Spelling: big -> bi**gg**er, hot -> ho**tt**er, thin -> thi**nn**er. We write the last letter twice."
+    },
+    {
+      "type": "table",
+      "heading": "Words ending in -y -> -ier",
+      "columns": ["Adjective", "Comparative"],
+      "rows": [
+        ["easy", "easier"],
+        ["heavy", "heavier"],
+        ["early", "earlier"],
+        ["happy", "happier"],
+        ["pretty", "prettier"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-er in sentences",
+      "text": "With short words we always use **-er**. We do not use *more*.",
+      "examples": [
+        { "text": "Rome is old, but Athens is **older**.", "wrong": "more old" },
+        { "text": "Is it **cheaper** to go by car or by train?", "wrong": "more cheap" },
+        { "text": "Helen wants a **bigger** car." },
+        { "text": "This coat is OK, but I think the other one is **nicer**." },
+        { "text": "Don't take the bus. It's **easier** to take a taxi.", "wrong": "more easy" }
+      ],
+      "note": "far -> **further**: 'How far is it to the station? A mile?' 'No, it's **further**. About two miles.'"
+    },
+    {
+      "type": "table",
+      "heading": "Long words (2/3/4 syllables) -> more ...",
+      "columns": ["Adjective", "Comparative"],
+      "rows": [
+        ["careful", "more careful"],
+        ["polite", "more polite"],
+        ["expensive", "more expensive"],
+        ["interesting", "more interesting"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "more ... in sentences",
+      "text": "With longer words we put **more** in front of the adjective. The adjective does not change.",
+      "examples": [
+        { "text": "You must be **more careful**." },
+        { "text": "I don't like my job. I want to do something **more interesting**." },
+        { "text": "Is it **more expensive** to go by car or by train?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Special forms",
+      "columns": ["Adjective / Adverb", "Comparative"],
+      "rows": [
+        ["good / well", "better"],
+        ["bad / badly", "worse"],
+        ["far", "further"]
+      ],
+      "note": "The weather wasn't very **good** yesterday, but it's **better** today. 'Do you feel **better** today?' 'No, I feel **worse**.'"
+    },
+    {
+      "type": "tip",
+      "text": "Use **-er** *or* **more**, never both: *older*, not ~~more older~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "One box weighs 30 kg and the other weighs 40 kg. The second box is ___.",
+      "hint": "(heavy)",
+      "answers": ["heavier"],
+      "explanation": "heavy ends in -y, so the comparative is heavier."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A tortoise is slow, but a snail is even ___.",
+      "hint": "(slow)",
+      "answers": ["slower"],
+      "explanation": "slow is a short word, so we add -er: slower."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its comparative.",
+      "pairs": [
+        { "left": "good", "right": "better" },
+        { "left": "bad", "right": "worse" },
+        { "left": "far", "right": "further" },
+        { "left": "big", "right": "bigger" },
+        { "left": "easy", "right": "easier" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which comparative does each adjective take?",
+      "categories": ["-er / -ier", "more ..."],
+      "items": [
+        { "text": "strong", "category": 0 },
+        { "text": "happy", "category": 0 },
+        { "text": "large", "category": 0 },
+        { "text": "pretty", "category": 0 },
+        { "text": "modern", "category": 1 },
+        { "text": "important", "category": 1 },
+        { "text": "serious", "category": 1 },
+        { "text": "crowded", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen's car isn't very big. She wants a ___ one.",
+      "hint": "(big)",
+      "answers": ["bigger"],
+      "explanation": "big is a short word: we write the last letter twice and add -er."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rome is old, but Athens is ___.",
+      "options": ["more old", "older", "the oldest"],
+      "answer": 1,
+      "explanation": "old is a short word, so the comparative is older, not more old."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Is it ___ to go by car or by train?",
+      "options": ["more cheap", "cheaper", "cheapest"],
+      "answer": 1,
+      "explanation": "cheap is a short word, so the comparative is cheaper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My job isn't very interesting. I want to do something ___.",
+      "hint": "(interesting)",
+      "answers": ["more interesting"],
+      "explanation": "interesting is a long word, so we use more interesting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My chair isn't very comfortable. Yours is ___.",
+      "hint": "(comfortable)",
+      "answers": ["more comfortable"],
+      "explanation": "comfortable is a long word, so we use more comfortable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather wasn't very good yesterday, but it's ___ today.",
+      "hint": "(good)",
+      "answers": ["better"],
+      "explanation": "The comparative of good is better."
+    },
+    {
+      "type": "true_false",
+      "statement": "These tomatoes don't taste very good. The other ones tasted more good.",
+      "answer": false,
+      "explanation": "These tomatoes don't taste very good. The other ones tasted better. good -> better."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your job is boring and you want a different one. Put the sentence in order.",
+      "words": ["I", "want", "to", "do", "something", "more", "interesting."],
+      "answer": "I want to do something more interesting.",
+      "explanation": "more goes in front of the long adjective interesting."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "number": 56,
+  "title": "get",
+  "subtitle": "get a job / get hungry / get to work",
+  "summary": "Use get with a noun (= receive, buy, find), with an adjective (= become), and with to / in / out / on / off to talk about arriving and travelling.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "get + noun = receive, buy, find",
+      "text": "First you don't have something. Then you **get** it. Now you have it. So **get** + a noun can mean receive, buy or find.",
+      "examples": [
+        { "text": "*A:* Did you **get** my postcard? *B:* Yes, I **got** it yesterday.", "note": "get = receive" },
+        { "text": "I like your sweater. Where did you **get** it?", "note": "get = buy" },
+        { "text": "Is it difficult to **get** a job at the moment?", "note": "get = find" },
+        { "text": "*A:* Hello, can I speak to Lisa, please? *B:* Sure. I'll **get** her." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get a bus / a train / a taxi",
+      "text": "We also say **get a bus**, **get a train** and **get a taxi**. Here **get** means take.",
+      "examples": [
+        { "text": "*A:* Did you walk here? *B:* No, I **got** the bus." },
+        { "text": "I don't want to walk home. Let's **get** a taxi." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get + adjective = become",
+      "text": "First you're not hungry. Then you **get** hungry. Now you are hungry. So **get** + an adjective means become.",
+      "examples": [
+        { "text": "If you don't eat, you **get hungry**." },
+        { "text": "Drink your coffee. It**'s getting cold**." },
+        { "text": "I'm sorry your mother is ill. I hope she **gets better** soon." },
+        { "text": "It was raining very hard. We didn't have an umbrella, so we **got** very **wet**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get married / get dressed / get lost",
+      "text": "Some very common phrases work in the same way. **get dressed** = put your clothes on. **get lost** = lose your way.",
+      "examples": [
+        { "text": "Nicole and Frank are **getting married** soon." },
+        { "text": "I got up and **got dressed** quickly." },
+        { "text": "We didn't have a map, so we **got lost**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get to a place = arrive",
+      "text": "**get to** a place means arrive there. But we say **get here**, **get there** and **get home** with no *to*.",
+      "examples": [
+        { "text": "I usually **get to work** before 8.30." },
+        { "text": "We left London at 10 o'clock and **got to Manchester** at 12.45." },
+        { "text": "How did you **get here**? By bus?", "wrong": "get to here" },
+        { "text": "What time did you **get home** last night?", "wrong": "get to home" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "get in / out / on / off",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["get in (a car)", "you go into a car", "Kate **got in the car** and drove away."],
+        ["get out (of a car)", "you leave a car", "A car stopped and a man **got out**."],
+        ["get on (a bus / a train / a plane)", "you go on to a bus, train or plane", "We **got on the bus** outside the hotel."],
+        ["get off (a bus / a train / a plane)", "you leave a bus, train or plane", "We **got off** in Church Street."]
+      ],
+      "note": "You can also say *Kate got into the car* and *A man got out of the car*."
+    },
+    {
+      "type": "tip",
+      "text": "We travel *in* a car but *on* a bus, so we **get in** a car and **get on** a bus."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Where did you ___? It's very nice.",
+      "hint": "(get / your jacket)",
+      "answers": ["get your jacket"],
+      "explanation": "Here get = buy: Where did you get your jacket?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quick! This man is ill. We must ___.",
+      "hint": "(get / a doctor)",
+      "answers": ["get a doctor"],
+      "explanation": "Here get = find or bring: We must get a doctor."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Turn on the light. It's ___.",
+      "options": ["getting dark", "get dark", "gets dark"],
+      "answer": 0,
+      "explanation": "After it's we need the -ing form: It's getting dark (= it is becoming dark)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where's Karen? *B:* She's ___ to go out.",
+      "hint": "(getting)",
+      "answers": ["getting ready"],
+      "explanation": "get + adjective: she is becoming ready."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't go out in the rain. You'll ___.",
+      "hint": "(get)",
+      "answers": ["get wet"],
+      "explanation": "get + adjective = become: you'll get wet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Martin is always very calm. He never ___.",
+      "hint": "(get / angry)",
+      "answers": ["gets angry"],
+      "explanation": "After he we use gets: he never gets angry."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does get mean receive/buy/find here, or does it mean become?",
+      "categories": ["get + noun (receive / buy / find)", "get + adjective (become)"],
+      "items": [
+        { "text": "get a taxi", "category": 0 },
+        { "text": "get hungry", "category": 1 },
+        { "text": "get a ticket", "category": 0 },
+        { "text": "get lost", "category": 1 },
+        { "text": "get a good salary", "category": 0 },
+        { "text": "get old", "category": 1 },
+        { "text": "get a new computer", "category": 0 },
+        { "text": "get better", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "We tried to find the hotel, but", "right": "we got lost." },
+        { "left": "Everybody wants to stay young, but", "right": "we all get old." },
+        { "left": "The weather is horrible here in winter.", "right": "We get a lot of rain." },
+        { "left": "Margaret has got a well-paid job.", "right": "She gets a good salary." },
+        { "left": "Tom has an interview tomorrow.", "right": "I hope he gets the job." },
+        { "left": "My brother got married last year.", "right": "His wife's name is Sarah." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday the weather wasn't so good at first, but it ___ during the day.",
+      "hint": "(get / better)",
+      "answers": ["got better"],
+      "explanation": "The past of get is got: the weather got better."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ the bus and walked to my house from the bus stop.",
+      "hint": "(got in / got out of / got on / got off)",
+      "answers": ["got off"],
+      "explanation": "We get on a bus and we get off a bus."
+    },
+    {
+      "type": "true_false",
+      "statement": "I made a stupid mistake. I got in the wrong train.",
+      "answer": false,
+      "explanation": "I got on the wrong train. We use get on and get off with a bus, a train or a plane."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Somebody left home at 7.30 and arrived at work at 8.15. Put the sentence in order.",
+      "words": ["I", "left", "home", "at 7.30", "and", "got to", "work", "at 8.15."],
+      "answer": "I left home at 7.30 and got to work at 8.15.",
+      "explanation": "get to a place = arrive there."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "number": 81,
+  "title": "Purposes and results: in order to, so as to, etc.",
+  "subtitle": "so as to reduce noise / so that she could finish",
+  "summary": "Express purpose with in order / so as + to-infinitive and with in order that / so that, and introduce results with such that and in such a way that / as to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in order to and so as to",
+      "text": "To talk about the purpose of an action we can use **in order** or **so as** + to-infinitive. In spoken English in particular it is much more common simply to use a to-infinitive on its own with the same meaning.",
+      "examples": [
+        { "text": "He took the course **in order to** get a better job." },
+        { "text": "Trees are being planted by the roadside **so as to** reduce traffic noise." },
+        { "text": "He took the course **to** get a better job.", "note": "the everyday version - no in order / so as" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative purpose: so as not to / in order not to",
+      "text": "We rarely use just *not* + to-infinitive. Instead we use **so as not to** or **in order not to**.",
+      "examples": [
+        { "text": "He kept the speech vague **in order not to** commit himself to one side or the other.", "wrong": "vague not to commit himself" },
+        { "text": "I wrote down her name **so as not to** forget it.", "wrong": "her name not to forget it" }
+      ],
+      "note": "In contrastive sentences not + to-infinitive is fine: I came to see you not (in order / so as) to complain, but (in order / so as) to apologise."
+    },
+    {
+      "type": "compare",
+      "heading": "to-infinitive or a clause?",
+      "left": {
+        "label": "in order / so as + to-infinitive",
+        "examples": [
+          "She stayed at work late **in order to** complete the report.",
+          "She stayed at work late **so as to** complete the report."
+        ]
+      },
+      "right": {
+        "label": "in order that / so that + clause",
+        "examples": [
+          "She stayed at work late **in order that** she could complete the report.",
+          "She stayed at work late **so that** she could complete the report."
+        ]
+      },
+      "note": "Never in order that / so that + to-infinitive. So that is more common than in order that and less formal; informally we can drop that after so, but we always keep it after in order."
+    },
+    {
+      "type": "explain",
+      "heading": "Tenses after in order that / so that",
+      "text": "A present tense verb in the main clause is usually followed by a present tense verb, or a modal with present or future reference (can, will). A past tense verb is usually followed by a past tense verb or a modal with past reference (could, would). Modals are very common here.",
+      "examples": [
+        { "text": "Regular checks are made **in order that** safety standards **are maintained**." },
+        { "text": "Advice is given **in order that** students **can** choose the best course." },
+        { "text": "Did you give up your job **so that** you **could** take care of your mother?" },
+        { "text": "I hid the presents **so that** Marianna **wouldn't** find them." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "such that (formal)",
+      "text": "In formal contexts, such as academic writing, we can use **such that** to introduce a result. It means 'in a way that has the result that ...'.",
+      "examples": [
+        { "text": "The model was designed **such that** the value of x could be calculated." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in such a way that / as to",
+      "text": "Less formally we can use **in such a way that** + clause, or **in such a way as** + to-infinitive, with a similar meaning.",
+      "examples": [
+        { "text": "The advertisement is printed **in such a way that** two very different pictures can be seen depending on how you look at it." },
+        { "text": "Our business is managed **in such a way as to** minimise its environmental impact." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "such + noun phrase + that",
+      "text": "We can also introduce a result with **such** + noun phrase + **that**.",
+      "examples": [
+        { "text": "It is **such** a popular play **that** all the performances were sold out after the first day." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the purpose clause has its own subject, you need in order that / so that; if the subject is the same as in the main clause, a to-infinitive is usually enough."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Bus fares in the city were being cut ___ encourage people to use public transport.",
+      "hint": "(in order / so as) - positive purpose",
+      "answers": ["so as to", "in order to"],
+      "explanation": "A positive purpose takes in order to or so as to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We crept quietly towards the deer ___ frighten them away.",
+      "hint": "(in order / so as) - negative purpose",
+      "answers": ["so as not to", "in order not to"],
+      "explanation": "For a negative purpose we use so as not to or in order not to, not plain 'not to'."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each action with the purpose behind it.",
+      "pairs": [
+        { "left": "He packed his suitcase with the books at the bottom", "right": "so as not to crush his clothes." },
+        { "left": "We put up a fence", "right": "in order to prevent people walking across the grass." },
+        { "left": "I walked around the outside of the field", "right": "so as not to damage the growing crops." },
+        { "left": "She looked down at the book in front of her", "right": "in order to avoid his gaze." },
+        { "left": "The roadworks were carried out at night", "right": "so as not to disrupt traffic too much." },
+        { "left": "I had to borrow money from the bank", "right": "in order to set up the business." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "She stayed at work late in order that she ___ the report.",
+      "options": ["could complete", "to complete", "completing"],
+      "answer": 0,
+      "explanation": "In order that is followed by a clause, very often with a modal - never by a to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I put a rug over the stain on the carpet so that nobody ___ it was there.",
+      "hint": "(will / would know)",
+      "answers": ["would know"],
+      "explanation": "A past tense in the main clause (put) is followed by a modal with past reference."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were screens on all the windows so that mosquitoes ___ in.",
+      "hint": "(can't / couldn't get)",
+      "answers": ["couldn't get", "could not get"],
+      "explanation": "There were is past, so the so that clause takes could, not can."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The software is designed so that it ___ up a lot of computer memory.",
+      "hint": "(won't / wouldn't take)",
+      "answers": ["won't take", "will not take"],
+      "explanation": "A present tense in the main clause (is designed) is followed by a modal with present or future reference."
+    },
+    {
+      "type": "true_false",
+      "statement": "He kept the speech vague not to commit himself to one side or the other.",
+      "answer": false,
+      "explanation": "He kept the speech vague in order not to / so as not to commit himself to one side or the other. Plain 'not to' is not used for a negative purpose here."
+    },
+    {
+      "type": "true_false",
+      "statement": "It is such a popular play that all the performances were sold out after the first day.",
+      "answer": true,
+      "explanation": "Correct. such + noun phrase + that introduces a result."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'The website is organised such that it is easy to navigate' less formally.",
+      "words": ["The website", "is organised", "in such a way that", "it is easy", "to navigate."],
+      "answer": "The website is organised in such a way that it is easy to navigate.",
+      "explanation": "in such a way that is the less formal equivalent of the academic such that."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The meeting room is designed in such a way ___ allow everyone's voice to be heard without microphones.",
+      "hint": "(+ to-infinitive)",
+      "answers": ["as to"],
+      "explanation": "Before a to-infinitive the pattern is in such a way as to; before a clause it is in such a way that."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can the purpose be expressed with a plain to-infinitive (no in order / so as), or does it need so as / in order?",
+      "categories": ["A plain to-infinitive is fine", "Needs so as not to / in order not to"],
+      "items": [
+        { "text": "I had to borrow money from the bank to set up the business.", "category": 0 },
+        { "text": "Bus fares were cut to encourage people to use public transport.", "category": 0 },
+        { "text": "She looked down at the book to avoid his gaze.", "category": 0 },
+        { "text": "We put up a fence to prevent people walking across the grass.", "category": 0 },
+        { "text": "He packed the books at the bottom not to crush his clothes.", "category": 1 },
+        { "text": "I walked around the field not to damage the growing crops.", "category": 1 },
+        { "text": "We crept towards the deer not to frighten them away.", "category": 1 }
+      ]
+    }
+  ]
+}

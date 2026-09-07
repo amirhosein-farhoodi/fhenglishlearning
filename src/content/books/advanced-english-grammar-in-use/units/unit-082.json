@@ -1,0 +1,194 @@
+{
+  "number": 82,
+  "title": "Contrasts: although and though; even though / if; while, whilst and whereas",
+  "subtitle": "Hot though the night air was ...",
+  "summary": "Mark a contrast with although, though, even though and even if, front the adjective in 'Hot though it was', and choose between while, whilst and whereas.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "although and though",
+      "text": "We use **although**, or less formally **though**, to say that there is a surprising contrast between the main clause and the adverbial clause.",
+      "examples": [
+        { "text": "**Although** / **Though** Reid failed to score himself, he helped Jones to score two goals." },
+        { "text": "**Despite the fact that** / **In spite of the fact that** Reid failed to score, he helped Jones to score two goals.", "note": "+ that-clause" },
+        { "text": "**Despite** / **In spite of** Reid failing to score ... / **Despite** / **In spite of** his failure to score ...", "note": "+ -ing or + his / her + noun" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "though at the end",
+      "text": "We can use **though** at the end of a clause, but not *although*.",
+      "examples": [
+        { "text": "I eat most dairy products. I'm not keen on yogurt, **though**.", "wrong": "I'm not keen on yogurt, although" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Fronting the adjective for emphasis",
+      "left": {
+        "label": "adjective + though / as + subject + linking verb",
+        "text": "Special emphasis on the adjective. As can replace though here, but although cannot.",
+        "examples": [
+          "**Hot though** the night air was, they slept soundly.",
+          "**Hot as** the night air was, they slept soundly."
+        ]
+      },
+      "right": {
+        "label": "The ordinary order",
+        "examples": [
+          "**Although** / **Though** the night air was hot, they slept soundly."
+        ]
+      },
+      "note": "The verb is usually a linking verb: appear, be, become, feel, look, seem, sound, prove."
+    },
+    {
+      "type": "compare",
+      "heading": "even though and even if",
+      "left": {
+        "label": "even though = despite the fact that",
+        "text": "The speaker knows the fact is true.",
+        "examples": [
+          "**Even though** Matt doesn't speak Spanish, I think he should still visit Madrid.",
+          "= Despite the fact that he doesn't speak Spanish"
+        ]
+      },
+      "right": {
+        "label": "even if = whether or not",
+        "text": "The speaker doesn't know definitely whether it is true.",
+        "examples": [
+          "**Even if** Matt doesn't speak Spanish, I think he should still visit Madrid.",
+          "= Whether or not he speaks Spanish"
+        ]
+      },
+      "note": "We say even though, never 'even although'."
+    },
+    {
+      "type": "explain",
+      "heading": "while and whilst = 'although' (formal)",
+      "text": "In formal contexts **while** or **whilst** can mean something close to 'although', introducing something that qualifies the main clause or seems to conflict with it. This clause comes before or inside the main clause, but never after it.",
+      "examples": [
+        { "text": "**While** / **Whilst** there is no evidence that Rob cheated, we were all astonished that he passed the exam.", "wrong": "We were all astonished that he passed the exam, while there is no evidence ..." },
+        { "text": "The diesel model of the car, **while** / **whilst** more expensive, is better value for money." }
+      ],
+      "note": "Whilst is rather literary and some people avoid it."
+    },
+    {
+      "type": "explain",
+      "heading": "while and whereas for contrast",
+      "text": "We use **while** or **whereas** (less often *whilst*) to say that something contrasts with something in the main clause. This clause can come before or after the main clause.",
+      "examples": [
+        { "text": "Juan gets lots of homework from school, **while** / **whereas** Mia gets very little." },
+        { "text": "**While** / **Whereas** I always felt I would pass the exam, I never thought I would get an A grade." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When whereas doesn't work",
+      "text": "We don't use **whereas** if the subordinate clause makes what is said in the main clause unexpected. That is a job for although, though or while.",
+      "examples": [
+        { "text": "**Although** / **While** Sophie's father is from Spain, she doesn't speak Spanish.", "wrong": "Whereas Sophie's father is from Spain" }
+      ],
+      "note": "After although, though, while and whilst we can also use -ing and past participle clauses, and clauses with the subject and verb left out."
+    },
+    {
+      "type": "tip",
+      "text": "Two facts side by side that simply differ - whereas or while. One fact that makes the other surprising - although, though or while, but not whereas."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Hot ___ the night air was, they slept soundly.",
+      "hint": "(though / as / although)",
+      "answers": ["though", "as"],
+      "explanation": "In the fronted-adjective pattern we use though or as - although is not possible."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The driver stopped to let on more passengers ___ the bus was already full.",
+      "options": ["even though", "even if", "even although"],
+      "answer": 0,
+      "explanation": "The bus really was full, so we need even though = despite the fact that."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I wouldn't tell you where Mariam lives ___ I knew.",
+      "options": ["even if", "even though", "even so"],
+      "answer": 0,
+      "explanation": "The speaker doesn't know where she lives, so this is even if = whether or not."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the fronted adjective clauses with their endings.",
+      "pairs": [
+        { "left": "Amazing though it may seem,", "right": "my brother Johan has just won the lottery." },
+        { "left": "Frightened though she was,", "right": "she forced herself to pick up the snake." },
+        { "left": "Scarce though food became,", "right": "they always found enough to share with me." },
+        { "left": "Experienced though the climbers were,", "right": "they had never faced such severe conditions before." },
+        { "left": "Disgusting though it looked,", "right": "it was actually quite tasty." },
+        { "left": "Successful though their new products have proved,", "right": "the company is still in financial difficulties." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I eat most dairy products. I'm not keen on yogurt, although.",
+      "answer": false,
+      "explanation": "I'm not keen on yogurt, though. Only though can end a clause like this."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ having to cope with three small children, she is taking a part-time MBA course.",
+      "hint": "(In spite of + -ing)",
+      "answers": ["In spite of", "Despite"],
+      "explanation": "In spite of / Despite is followed by an -ing clause, not by a finite clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In spite of ___, he had a three-course meal in the evening.",
+      "hint": "(eat a big lunch)",
+      "answers": ["eating a big lunch"],
+      "explanation": "After in spite of the verb takes the -ing form."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'Although he was much younger than the others, he was the most outstanding rider in the team' beginning with Despite.",
+      "words": ["Despite the fact that", "he was much younger", "than the others,", "he was", "the most outstanding rider", "in the team."],
+      "answer": "Despite the fact that he was much younger than the others, he was the most outstanding rider in the team.",
+      "explanation": "Despite the fact that takes a full clause, so nothing else in the sentence changes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the temperature is below freezing, it actually feels quite warm when the sun is out.",
+      "hint": "(While / Whereas)",
+      "answers": ["While"],
+      "explanation": "The subordinate clause makes the main clause unexpected, so whereas is not possible here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ I've always wanted to visit Australia, I've never had any wish to go to Canada.",
+      "hint": "(While / Whereas)",
+      "answers": ["Whereas", "While"],
+      "explanation": "Two facts simply contrast with each other, so whereas is possible (while also works)."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were all astonished that he passed the exam, while there is no evidence that Rob cheated.",
+      "answer": false,
+      "explanation": "While there is no evidence that Rob cheated, we were all astonished that he passed the exam. In this 'although' meaning the while-clause cannot follow the main clause."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Rewrite each contrast with one word: is whereas possible, or do you need while?",
+      "categories": ["Whereas is possible", "Only while works"],
+      "items": [
+        { "text": "A decade ago only 5% of students dropped out of college, but the figure today is 25%.", "category": 0 },
+        { "text": "I've always wanted to visit Australia, but I've never had any wish to go to Canada.", "category": 0 },
+        { "text": "Horse riding is an expensive pastime, but more and more people are taking it up.", "category": 1 },
+        { "text": "The temperature is below freezing, but it actually feels quite warm when the sun is out.", "category": 1 },
+        { "text": "The cost of rail travel has increased, but the number of train passengers has grown.", "category": 1 },
+        { "text": "Sophie's father is from Spain, but she doesn't speak Spanish.", "category": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "number": 53,
+  "title": "I want you to ... I told you to ...",
+  "subtitle": "verb + somebody + to ...",
+  "summary": "Say what you want other people to do with want/ask/tell/advise + somebody + to ..., and remember that make and let take no to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "I want you to ...",
+      "text": "A woman is at the door with her bag. She says, 'I'm going.' The man doesn't want this. He says, 'Please don't go.' So the woman **wants to go**, but the man **wants her to stay**.",
+      "examples": [
+        { "text": "I **want you to be** happy.", "wrong": "I want that you are happy" },
+        { "text": "They didn't **want anybody to know** their secret." },
+        { "text": "Do you **want me to lend** you some money?" },
+        { "text": "**Would** you **like me to lend** you some money?", "note": "would like works in the same way" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The pattern",
+      "columns": ["verb", "somebody", "to ..."],
+      "rows": [
+        ["I want", "you", "to be happy"],
+        ["I want", "somebody", "to do something"],
+        ["I want", "Sarah", "to phone me"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "ask, tell, advise, expect, persuade, teach",
+      "text": "These verbs use the same pattern: verb + somebody + **to** ... . The person always comes before *to*.",
+      "examples": [
+        { "text": "Sue **asked a friend to lend** her some money." },
+        { "text": "I **told you to be** careful." },
+        { "text": "What do you **advise me to do**?" },
+        { "text": "I didn't **expect them to be** here." },
+        { "text": "We **persuaded Gary to come** with us." },
+        { "text": "I **am teaching my brother to swim**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I told you to ... / I told you not to ...",
+      "text": "Jane says to me, 'Wait for me.' Paul says to Sue, 'Don't wait for me.' For a negative we put **not** before *to*.",
+      "examples": [
+        { "text": "Jane **told me to wait** for her." },
+        { "text": "Paul **told Sue not to wait** for him." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "with to and without to",
+      "left": {
+        "label": "want, ask, tell, advise + to ...",
+        "examples": [
+          "I **want you to be** happy.",
+          "She **asked me to help** her.",
+          "I **told him to come** back in ten minutes."
+        ]
+      },
+      "right": {
+        "label": "make and let: no to",
+        "examples": [
+          "He's very funny. He **makes me laugh**.",
+          "At school our teacher **made us work** very hard.",
+          "Sue **let me use** her computer."
+        ]
+      },
+      "note": "Not ~~makes me to laugh~~ and not ~~let me to use~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Let's ...",
+      "text": "You can say **Let's** ... (= let us) when you want other people to do something with you. There is no *to* after let's.",
+      "examples": [
+        { "text": "Come on! **Let's dance**." },
+        { "text": "*A:* Do you want to go out tonight? *B:* No, I'm tired. **Let's stay** at home." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You say to a friend: 'Listen carefully.' = I want you ___ carefully.",
+      "hint": "(listen)",
+      "answers": ["to listen"],
+      "explanation": "want + somebody + to ...: I want you to listen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ask a friend: 'Shall I wait for you?' = Do you want me ___ for you?",
+      "hint": "(wait)",
+      "answers": ["to wait"],
+      "explanation": "want + me + to ...: Do you want me to wait for you?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "He's very funny. He makes me ___.",
+      "options": ["laugh", "to laugh", "laughing"],
+      "answer": 0,
+      "explanation": "After make we do not use to: He makes me laugh."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verbs take to + verb after the person, and which take no to?",
+      "categories": ["+ somebody + to do", "+ somebody + do"],
+      "items": [
+        { "text": "want", "category": 0 },
+        { "text": "ask", "category": 0 },
+        { "text": "tell", "category": 0 },
+        { "text": "teach", "category": 0 },
+        { "text": "make", "category": 1 },
+        { "text": "let", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't hear what she said, so I asked her ___ it.",
+      "hint": "(repeat)",
+      "answers": ["to repeat"],
+      "explanation": "ask + somebody + to ...: I asked her to repeat it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Shall we begin?' 'No, let's ___ a few minutes.'",
+      "hint": "(wait)",
+      "answers": ["wait"],
+      "explanation": "After let's there is no to: let's wait."
+    },
+    {
+      "type": "true_false",
+      "statement": "I want that you are happy.",
+      "answer": false,
+      "explanation": "We say: I want you to be happy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kevin's parents didn't want him ___ married.",
+      "hint": "(get)",
+      "answers": ["to get"],
+      "explanation": "want + somebody + to ...: didn't want him to get married."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brian said 'I'm not well', so I advised him ___ to the doctor.",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "advise + somebody + to ...: I advised him to go to the doctor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is that your bicycle?' 'No, it's John's. He let me ___ it.'",
+      "hint": "(borrow)",
+      "answers": ["borrow"],
+      "explanation": "After let we do not use to: He let me borrow it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue is going to phone later. I said 'Don't phone before 8 o'clock', so I told her ___ before 8 o'clock.",
+      "hint": "(not / phone)",
+      "answers": ["not to phone"],
+      "explanation": "For the negative we put not before to: I told her not to phone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jane said to me: 'Wait for me.' Report her words.",
+      "words": ["Jane", "told", "me", "to wait", "for", "her."],
+      "answer": "Jane told me to wait for her.",
+      "explanation": "tell + somebody + to ...: Jane told me to wait for her."
+    }
+  ]
+}

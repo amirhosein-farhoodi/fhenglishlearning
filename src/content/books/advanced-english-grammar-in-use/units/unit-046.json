@@ -1,0 +1,176 @@
+{
+  "number": 46,
+  "title": "A / an, the and zero article 2",
+  "subtitle": "a journalist / (the) head of the company",
+  "summary": "Use articles correctly with jobs, people's names and superlatives, and use this the way speakers do when they start a story.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "A job or a job title?",
+      "left": {
+        "label": "a / an - what a person's job is",
+        "examples": [
+          "She was **a company director** when she retired.",
+          "Against her parents' wishes, she wants to be **a journalist**.",
+          "I'm **a production manager** at Fino. (= there may be more than one production manager)"
+        ]
+      },
+      "right": {
+        "label": "the or zero article - a job title or a unique position",
+        "examples": [
+          "She's been appointed **(the) head** of the company.",
+          "Dr Simons has taken on the position of **Head of Department**."
+        ]
+      },
+      "note": "After the position of, the post of or the role of we always use zero article before the job title."
+    },
+    {
+      "type": "explain",
+      "heading": "the before a person's name",
+      "text": "We usually use **zero article** before the name of an individual person or place. But we use **the** to specify which of two people with the same name we mean, to mark out the most famous person with that name (here *the* is stressed), with an adjective or a job noun, and when we talk about a family as a whole.",
+      "examples": [
+        { "text": "That's not **the** Stephen Fraser I went to school with.", "note": "compare There was a Stephen Fraser in my class. = a person named Stephen Fraser" },
+        { "text": "Do they mean **the** Neil Armstrong, or someone else?" },
+        { "text": "**the** late Michael Jackson; **(the)** artist Joseph Turner", "note": "the is sometimes left out, particularly in journalism" },
+        { "text": "**The** Robinsons are away this weekend." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a / an before a name",
+      "text": "**A / an** (or sometimes zero article) is used with a name to refer to the particular excellent qualities of the person named, and for an individual example of a product or a work by a particular artist. We also use *a / an* before a person's name if we don't know the person ourselves.",
+      "examples": [
+        { "text": "Majid plays tennis well, but he'll never be **(a)** Roger Federer." },
+        { "text": "I've just bought **a** Mercedes. Do you think it could be **a** Van Gogh?" },
+        { "text": "Dr Lee is here for you.", "note": "= I know Dr Lee" },
+        { "text": "There's **a** Dr Amy Lee on the phone. Do you want to talk to her?", "note": "= I haven't heard of her before" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "this in stories and jokes",
+      "text": "In stories and jokes in conversation, **this** is commonly used instead of *a / an* to introduce a new person or thing. Using *this* highlights that person or thing as the topic of what is to come next.",
+      "examples": [
+        { "text": "As I was walking along, **this spider** landed on my head, and ...", "note": "= a spider" },
+        { "text": "**This man** goes into a chemist and he says ...", "note": "= a man" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the with superlatives",
+      "left": {
+        "label": "the is needed - a noun or defining phrase follows",
+        "examples": [
+          "He is **the finest young player** around at the moment.",
+          "It was **the cheapest** I could find.",
+          "The Pacific is **the biggest ocean** in the world."
+        ]
+      },
+      "right": {
+        "label": "the can be left out - nothing follows",
+        "examples": [
+          "*A:* Why did you decide to stay in this hotel? *B:* It was **(the) cheapest**.",
+          "*A:* Why did you ask Martina to go first? *B:* Because she's **(the) oldest**."
+        ]
+      },
+      "note": "Leaving out the is particularly common in an informal style."
+    },
+    {
+      "type": "tip",
+      "text": "*A / an* answers *what kind of person is she?*; *the* or no article answers *which post does she hold?* - so a production manager but (the) head of the company."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She was determined to be ___ one day.",
+      "hint": "(author)",
+      "answers": ["an author"],
+      "explanation": "We use a / an to say what a person's job is, was or will be."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A: What make is your computer? B: It's ___.",
+      "options": ["a Mac", "Mac", "the Mac"],
+      "answer": 0,
+      "explanation": "a / an is used for an individual example of a product made by a particular manufacturer."
+    },
+    {
+      "type": "true_false",
+      "statement": "I didn't even know Clara was interested in art until I heard that she owns Van Gogh.",
+      "answer": false,
+      "explanation": "... she owns a Van Gogh. We use a / an for a work by a particular artist."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We're going on holiday with ___.",
+      "options": ["the Nielsens", "Nielsens", "a Nielsens"],
+      "answer": 0,
+      "explanation": "We use the when we talk about a family as a whole."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I found myself talking to George Clooney! Not ___, of course, but someone with the same name.",
+      "hint": "(a / the) George Clooney",
+      "answers": ["the George Clooney"],
+      "explanation": "Stressed the marks out the most famous person with that name."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've been offered the position of Director of Personnel.",
+      "answer": true,
+      "explanation": "Correct. After the position of we use zero article before the job title."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Let me introduce you to ___.",
+      "options": ["Georgia Rossi", "the Georgia Rossi", "a Georgia Rossi"],
+      "answer": 0,
+      "explanation": "Before the name of an individual person we normally use zero article."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A doctor you have never heard of is on the phone for your colleague. Tell them.",
+      "words": ["There's", "a", "Dr Amy Lee", "on", "the phone."],
+      "answer": "There's a Dr Amy Lee on the phone.",
+      "explanation": "a / an before a person's name shows that you don't know the person yourself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Something very strange happened to me the other night. As I was going home ___ came up to me.",
+      "hint": "(this / a) man",
+      "answers": ["this man", "a man"],
+      "explanation": "In a story this often replaces a / an to introduce someone as the topic of what comes next."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He told me that he was ___ head of the local council and that he was offering me a job.",
+      "options": ["the", "a", "an"],
+      "answer": 0,
+      "explanation": "For a unique position we use the (or zero article), not a / an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's really keen on athletics. He likes to think of himself as ___.",
+      "hint": "(a / the) Usain Bolt",
+      "answers": ["a Usain Bolt", "Usain Bolt"],
+      "explanation": "a / an - or zero article - refers to the excellent qualities of the person named; the would mean the athlete himself."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In each sentence, must the stay or can it be left out?",
+      "categories": ["the must stay", "the can be left out"],
+      "items": [
+        { "text": "It's ___ best ice-cream I've ever tasted.", "category": 0 },
+        { "text": "Rodrigo's boat wasn't the most elegant in the harbour, but it was certainly ___ biggest.", "category": 1 },
+        { "text": "I thought the second competitor was ___ best, even though he didn't win a prize.", "category": 1 },
+        { "text": "This is by far ___ most valuable painting in the collection.", "category": 0 },
+        { "text": "Why did you ask Martina to go first? Because she's ___ oldest.", "category": 1 },
+        { "text": "Sapphires occur in a variety of colours, but blue ones are ___ most valuable.", "category": 1 },
+        { "text": "The Pacific is ___ biggest ocean in the world.", "category": 0 },
+        { "text": "It's supposed to be ___ oldest post office in the country.", "category": 0 }
+      ]
+    }
+  ]
+}

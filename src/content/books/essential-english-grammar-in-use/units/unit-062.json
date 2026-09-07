@@ -1,0 +1,177 @@
+{
+  "number": 62,
+  "title": "I/me/my/mine",
+  "subtitle": "I know Tom / Tom knows me / my car / It's mine",
+  "summary": "Put all the pronoun and possessive words together: I/me/my/mine, he/him/his/his, they/them/their/theirs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Four groups of words",
+      "text": "An old woman is watching the news on TV. The man on the screen cannot see her, so she says one sentence with **him** and **me**. A man wants a woman's phone number, so he offers his own number too. Each word does a different job in the sentence.",
+      "examples": [
+        { "text": "I can see **him**, but he can't see **me**." },
+        { "text": "You give **me your** phone number, and I'll give **you mine**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The four groups",
+      "columns": ["I etc.", "me etc.", "my etc.", "mine etc."],
+      "rows": [
+        ["I", "me", "my", "mine"],
+        ["we", "us", "our", "ours"],
+        ["you", "you", "your", "yours"],
+        ["he", "him", "his", "his"],
+        ["she", "her", "her", "hers"],
+        ["they", "them", "their", "theirs"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The same words in sentences",
+      "columns": ["I etc.", "me etc.", "my etc.", "mine etc."],
+      "rows": [
+        ["I know Tom.", "Tom knows me.", "It's my car.", "It's mine."],
+        ["We know Tom.", "Tom knows us.", "It's our car.", "It's ours."],
+        ["You know Tom.", "Tom knows you.", "It's your car.", "It's yours."],
+        ["He knows Tom.", "Tom knows him.", "It's his car.", "It's his."],
+        ["She knows Tom.", "Tom knows her.", "It's her car.", "It's hers."],
+        ["They know Tom.", "Tom knows them.", "It's their car.", "It's theirs."]
+      ],
+      "note": "*I/we/you/he/she/they* do the action. *me/us/you/him/her/them* come after the verb or after a word like *to*, *with* or *for*."
+    },
+    {
+      "type": "explain",
+      "heading": "my + noun",
+      "text": "**my**, **our**, **your**, **his**, **her** and **their** always come before a noun. They tell us who the thing belongs to.",
+      "examples": [
+        { "text": "'Do **you** know that man?' 'Yes, **I** know **him**, but **I** can't remember **his name**.'" },
+        { "text": "**She** was very pleased because **we** invited **her** to stay with **us** at **our house**." },
+        { "text": "*A:* Where are the children? Have **you** seen **them**?" },
+        { "text": "*B:* Yes, **they** are playing with **their friends** in the park." },
+        { "text": "That's **my pen**. Can **you** give it to **me**, please?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "mine with no noun",
+      "text": "**mine**, **ours**, **yours**, **his**, **hers** and **theirs** stand alone. We use them when the noun is already clear, so we do not say it again.",
+      "examples": [
+        { "text": "'Is this **your umbrella**?' 'No, it's **yours**.'" },
+        { "text": "He didn't have an umbrella, so she gave him **hers**.", "note": "= she gave her umbrella to him" },
+        { "text": "I gave her **my** address, and she gave me **hers**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a friend of mine",
+      "text": "After **a friend of** we use **mine**, **yours**, **his**, **hers**, **ours** or **theirs**.",
+      "examples": [
+        { "text": "I'm going out with a friend **of mine** this evening.", "wrong": "a friend of me" },
+        { "text": "Last night I went out for a meal with a friend **of mine**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *my car* with a noun, but *It's mine* with no noun. Never say ~~It's my~~ or ~~mine car~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody points at a woman across the street and asks: 'Do you know that woman?' 'Yes, I know ___, but I can't remember her name.'",
+      "hint": "(she)",
+      "answers": ["her"],
+      "explanation": "After the verb know we use her, not she."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man looks at a group of friends. 'Do you know those people?' 'Yes, I know ___, but I can't remember their names.'",
+      "hint": "(they)",
+      "answers": ["them"],
+      "explanation": "After the verb we use them, not they."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the word that comes before a noun with the word that stands alone.",
+      "pairs": [
+        { "left": "my", "right": "mine" },
+        { "left": "our", "right": "ours" },
+        { "left": "your", "right": "yours" },
+        { "left": "her", "right": "hers" },
+        { "left": "their", "right": "theirs" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman you met once asks: 'Do you know me?' 'Yes, I know ___, but I can't remember your name.'",
+      "hint": "(you)",
+      "answers": ["you"],
+      "explanation": "you is the same word before and after the verb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words come before a noun, and which words stand alone?",
+      "categories": ["before a noun (my car)", "alone (It's mine)"],
+      "items": [
+        { "text": "my", "category": 0 },
+        { "text": "mine", "category": 1 },
+        { "text": "our", "category": 0 },
+        { "text": "ours", "category": 1 },
+        { "text": "your", "category": 0 },
+        { "text": "yours", "category": 1 },
+        { "text": "their", "category": 0 },
+        { "text": "theirs", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He invited us to stay with ___ at his house.",
+      "hint": "(he)",
+      "answers": ["him"],
+      "explanation": "After with we use him, not he."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I gave her my address, and she gave me ___.",
+      "hint": "(she)",
+      "answers": ["hers"],
+      "explanation": "hers = her address. There is no noun after it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We gave them our address, and they gave us ___.",
+      "options": ["theirs", "their", "them"],
+      "answer": 0,
+      "explanation": "theirs = their address, with no noun after it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where are my keys? Where did I put ___?",
+      "hint": "(they)",
+      "answers": ["them"],
+      "explanation": "My keys = they, and after the verb put we use them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I can't find my pen. Can I use ___?' 'Yes, of course.'",
+      "hint": "(you)",
+      "answers": ["yours"],
+      "explanation": "yours = your pen. We do not say the noun again."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm going out with a friend of me this evening.",
+      "answer": false,
+      "explanation": "I'm going out with a friend of mine this evening. After a friend of we use mine."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["I", "went out", "for a meal", "with", "a friend", "of mine."],
+      "answer": "I went out for a meal with a friend of mine.",
+      "explanation": "We say a friend of mine, not a friend of me."
+    }
+  ]
+}

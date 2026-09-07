@@ -1,0 +1,176 @@
+{
+  "number": 49,
+  "title": "Do you know where ... ? I don't know what ... etc.",
+  "subtitle": "Do you know where Paula is?",
+  "summary": "Put a question inside a longer sentence like Do you know ... ? or I don't know ..., where the word order is not a question word order.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Do you know where Paula is?",
+      "text": "A woman is looking for Paula. She stops a man and asks: *Do you know where Paula is?* Alone we say **Where is Paula?**, but inside a longer sentence the subject comes before the verb again.",
+      "examples": [
+        { "text": "**Where is Paula?**", "note": "the question alone" },
+        { "text": "Do you know where **Paula is**?", "wrong": "Do you know where is Paula?" },
+        { "text": "I know / I don't know / Can you tell me where **Paula is**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The question alone and inside a sentence",
+      "columns": ["Question alone", "Inside a sentence"],
+      "rows": [
+        ["Who **are those people**?", "Do you know who **those people are**?"],
+        ["How old **is Nicole**?", "Can you tell me how old **Nicole is**?"],
+        ["What time **is it**?", "Do you know what time **it is**?"],
+        ["When **are you** going away?", "I don't know when **you're** going away."],
+        ["Where **have they** gone?", "I don't know where **they have** gone."],
+        ["What **was Kate** wearing?", "I don't remember what **Kate was** wearing."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions with do, does and did",
+      "text": "In the present simple and the past simple we lose **do**, **does** and **did**. The verb goes back to its normal form.",
+      "examples": [
+        { "text": "**Where does he live?** -> Do you know where **he lives**?", "wrong": "Do you know where does he live?" },
+        { "text": "**What does Jane want?** -> I don't know what **Jane wants**." },
+        { "text": "**Why did she go home?** -> I don't remember why **she went** home." },
+        { "text": "**Where did I put the key?** -> I know where **I put** the key." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "No do/does/did inside the sentence",
+      "columns": ["Question alone", "Inside a sentence"],
+      "rows": [
+        ["How **do** aeroplanes **fly**?", "Do you know how aeroplanes **fly**?"],
+        ["Where **does** Susan **work**?", "I don't know where Susan **works**."],
+        ["What **did** Peter **say**?", "Do you remember what Peter **said**?"],
+        ["How **did** the accident **happen**?", "I don't remember how the accident **happened**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Yes/no questions: if or whether",
+      "text": "Questions that begin **Is ... ?**, **Do ... ?**, **Can ... ?**, **Did ... ?** have no question word. Inside a sentence we add **if** or **whether**. Both are correct.",
+      "examples": [
+        { "text": "**Is Jack at home?** -> Do you know **if Jack is** at home?" },
+        { "text": "Do you know **if** they've got a car? or Do you know **whether** they've got a car?" },
+        { "text": "**Did anybody see you?** -> I don't know **if anybody saw** me." },
+        { "text": "**Can Brian swim?** -> Do you know **whether Brian can** swim?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "if / whether",
+      "columns": ["Question alone", "Inside a sentence"],
+      "rows": [
+        ["**Have they** got a car?", "Do you know **if they've** got a car?"],
+        ["**Do they** live near here?", "I don't know **if they live** near here."],
+        ["**Are** the shops open tomorrow?", "Do you know **whether the shops are** open tomorrow?"],
+        ["**Did he** pass his exam?", "Do you know **if he passed** his exam?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After *Do you know ... ?* or *I don't know ...*, write the words in the order of a normal sentence: subject first, then the verb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is Kate in her office? *B:* I don't know where ___.",
+      "hint": "(she / be)",
+      "answers": ["she is"],
+      "explanation": "Inside the sentence the subject comes first: where she is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is the castle very old? *B:* I don't know how old ___.",
+      "hint": "(it / be)",
+      "answers": ["it is"],
+      "explanation": "how old it is, not how old is it, because it is inside a longer sentence."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is right? Do you know what time ___?",
+      "options": ["it is", "is it", "does it be"],
+      "answer": 0,
+      "explanation": "After Do you know we use normal word order: what time it is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where does Susan work? *B:* I don't know where ___.",
+      "hint": "(Susan / work)",
+      "answers": ["Susan works", "she works"],
+      "explanation": "We lose does, and the verb keeps the -s: where Susan works."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the longer sentence that has the same meaning.",
+      "pairs": [
+        { "left": "How do aeroplanes fly?", "right": "Do you know how aeroplanes fly?" },
+        { "left": "What did Peter say?", "right": "Do you remember what Peter said?" },
+        { "left": "Why did he go home early?", "right": "I don't know why he went home early." },
+        { "left": "What time does the meeting begin?", "right": "Do you know what time the meeting begins?" },
+        { "left": "How did the accident happen?", "right": "I don't remember how the accident happened." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is right? Do you know what ___?",
+      "options": ["elephants eat", "do elephants eat", "do eat elephants"],
+      "answer": 0,
+      "explanation": "There is no do inside the sentence: what elephants eat."
+    },
+    {
+      "type": "categorize",
+      "prompt": "You want to put each question after Do you know ... . Do you need if/whether, or a question word?",
+      "categories": ["if / whether", "a question word (where, what, how ...)"],
+      "items": [
+        { "text": "Have they got a car?", "category": 0 },
+        { "text": "Are they married?", "category": 0 },
+        { "text": "Did he pass his exam?", "category": 0 },
+        { "text": "Where is Paula?", "category": 1 },
+        { "text": "What does Laura want?", "category": 1 },
+        { "text": "How old is the castle?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know the address of Sarah and Tim. Make the question.",
+      "words": ["Do", "you", "know", "where", "Sarah and Tim", "live?"],
+      "answer": "Do you know where Sarah and Tim live?",
+      "explanation": "No do inside the sentence: where Sarah and Tim live."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you know where is Paula?",
+      "answer": false,
+      "explanation": "Do you know where Paula is? The subject Paula comes before is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Will Paul be here soon? *B:* I don't know when ___ here.",
+      "hint": "(he / be)",
+      "answers": ["he'll be", "he will be"],
+      "explanation": "when he'll be here - the subject he comes before will."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know about their car. Make the question.",
+      "words": ["Do", "you", "know", "if", "they've got", "a car?"],
+      "answer": "Do you know if they've got a car?",
+      "alternatives": ["Do you know whether they've got a car?"],
+      "explanation": "The question Have they got a car? has no question word, so we add if or whether."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did they go to Jane's party? *B:* Do you know ___ to Jane's party?",
+      "hint": "(if / they / go)",
+      "answers": ["if they went", "whether they went"],
+      "explanation": "We add if or whether and lose did: if they went."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "number": 30,
+  "title": "can and could",
+  "subtitle": "I can / I could",
+  "summary": "Use can and can't for now, could and couldn't for the past, and Can you ... ? / Could I ... ? to ask people for things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "He can play the piano",
+      "text": "A man stands at a big piano. He says: 'I can play the piano.' At an office door, a man with two heavy bags says to a woman: 'Could you open the door, please?' **can** + verb says what somebody knows how to do or what is possible.",
+      "examples": [
+        { "text": "He **can play** the piano." },
+        { "text": "**Could you open** the door, please?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "can / can't (cannot)", "+ verb"],
+      "rows": [
+        ["I / we / you / they", "can", "play the piano"],
+        ["he / she / it", "can", "speak Italian"],
+        ["I / we / you / they", "can't (cannot)", "come"],
+        ["he / she / it", "can't (cannot)", "swim"]
+      ],
+      "note": "In questions can comes first: **Can** you **swim**? **Can** he **play** chess?"
+    },
+    {
+      "type": "explain",
+      "heading": "I can do something",
+      "text": "**I can** do something = I *know how* to do it, or *it is possible* for me to do it.",
+      "examples": [
+        { "text": "I **can play** the piano. My brother **can play** the piano too." },
+        { "text": "Sarah **can speak** Italian, but she **can't speak** Spanish." },
+        { "text": "'**Can** you **swim**?' 'Yes, but I'm not a very good swimmer.'" },
+        { "text": "'**Can** you **change** twenty pounds?' 'I'm sorry, I **can't**.'" },
+        { "text": "I'm having a party next week, but Paul and Rachel **can't come**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "For the past: could / couldn't",
+      "text": "For the past (yesterday, last week etc.), we use **could** and **couldn't**.",
+      "examples": [
+        { "text": "When I was young, I **could run** very fast." },
+        { "text": "Before Maria came to Britain, she **couldn't understand** much English. Now she **can understand** everything." },
+        { "text": "I was tired last night, but I **couldn't sleep**." },
+        { "text": "I had a party last week, but Paul and Rachel **couldn't come**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Now or in the past?",
+      "left": {
+        "label": "now: can / can't",
+        "examples": [
+          "I'm having a party next week, but Paul and Rachel **can't come**.",
+          "Kate doesn't know what to do. She **can't decide**."
+        ]
+      },
+      "right": {
+        "label": "past: could / couldn't",
+        "examples": [
+          "I had a party last week, but Paul and Rachel **couldn't come**.",
+          "I was tired last night, but I **couldn't sleep**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Can you ... ? Could I ... ?",
+      "text": "We use **Can you ... ?** or **Could you ... ?** when we ask people to do things. We use **Can I have ... ?** or **Could I have ... ?** to ask for something, and **Can I ... ?** or **Could I ... ?** to ask if it is OK to do something.",
+      "examples": [
+        { "text": "**Can you** open the door, please? *or* **Could you** open the door, please?" },
+        { "text": "**Can you** wait a moment, please? *or* **Could you** wait ... ?" },
+        { "text": "*(in a shop)* **Can I have** these postcards, please? *or* **Could I have** ... ?" },
+        { "text": "Tom, **can I** borrow your umbrella? *or* Tom, **could I** borrow your umbrella?" },
+        { "text": "*(on the phone)* Hello, **can I** speak to Gary, please?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "can and could never change and never take to: she **can swim**, not ~~she cans swim~~ or ~~she can to swim~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You want to know if Steve is able to ski. You ask him: '___?'",
+      "hint": "(can / ski)",
+      "answers": ["Can you ski"],
+      "explanation": "In questions can comes before the subject: Can you ski?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like this hotel room. You ___ the mountains from the window.",
+      "hint": "(can / see)",
+      "answers": ["can see"],
+      "explanation": "It is possible to see them, so: You can see the mountains."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are speaking very quietly. I ___ you.",
+      "hint": "(can't / hear)",
+      "answers": ["can't hear", "cannot hear"],
+      "explanation": "It isn't possible for me now: I can't hear you."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right question.",
+      "pairs": [
+        { "left": "Your arms are full and you need the door opened.", "right": "Could you open the door, please?" },
+        { "left": "You are at dinner and you want the salt.", "right": "Could you pass the salt, please?" },
+        { "left": "You want to borrow Tom's umbrella.", "right": "Tom, could I borrow your umbrella?" },
+        { "left": "You are on the phone and you want to talk to Gary.", "right": "Hello, can I speak to Gary, please?" },
+        { "left": "You are in a shop and you want some postcards.", "right": "Can I have these postcards, please?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know if Steve is able to play chess. Ask him.",
+      "words": ["Can", "you", "play", "chess?"],
+      "answer": "Can you play chess?",
+      "explanation": "Can + you + verb, with no to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Catherine got the job because she ___ five languages.",
+      "hint": "(can / speak)",
+      "answers": ["can speak"],
+      "explanation": "She knows how to speak them: she can speak five languages."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wasn't hungry yesterday. I ___ my dinner.",
+      "hint": "(couldn't / eat)",
+      "answers": ["couldn't eat", "could not eat"],
+      "explanation": "Yesterday is the past, so we use couldn't."
+    },
+    {
+      "type": "true_false",
+      "statement": "When I was young, I can run very fast.",
+      "answer": false,
+      "explanation": "When I was young, I could run very fast. For the past we use could."
+    },
+    {
+      "type": "mcq",
+      "prompt": "James ___ to the concert next Saturday. He has to work.",
+      "options": ["can't go", "couldn't go", "can't going"],
+      "answer": 0,
+      "explanation": "Next Saturday is not the past, so we use can't: James can't go."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paula ___ to the meeting last week. She was ill.",
+      "options": ["couldn't go", "can't go", "couldn't went"],
+      "answer": 0,
+      "explanation": "Last week is the past, so we use couldn't + verb: couldn't go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are in the library and you have nothing to write with. You ask the person next to you: '___ your pen, please?'",
+      "hint": "(Can / Could I / use)",
+      "answers": ["Can I use", "Could I use"],
+      "explanation": "Can I ... ? or Could I ... ? asks if it is OK to do something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about now or about the past?",
+      "categories": ["Now (can / can't)", "Past (could / couldn't)"],
+      "items": [
+        { "text": "When I was young, I could run very fast.", "category": 1 },
+        { "text": "Sarah can speak Italian, but she can't speak Spanish.", "category": 0 },
+        { "text": "I was tired last night, but I couldn't sleep.", "category": 1 },
+        { "text": "Paul and Rachel can't come to my party next week.", "category": 0 },
+        { "text": "Before Maria came to Britain, she couldn't understand much English.", "category": 1 },
+        { "text": "Have you seen my bag? I can't find it.", "category": 0 }
+      ]
+    }
+  ]
+}

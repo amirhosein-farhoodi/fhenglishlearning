@@ -1,0 +1,191 @@
+{
+  "number": 84,
+  "title": "(a) little (a) few",
+  "subtitle": "a little water / a few books",
+  "summary": "Use (a) little with uncountable nouns and (a) few with plural nouns, and remember that a little/a few is a positive idea but little/few is a negative one.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "(a) little and (a) few",
+      "left": {
+        "label": "(a) little + uncountable noun",
+        "text": "For things we cannot count.",
+        "examples": [
+          "a little **water**",
+          "a little **time**",
+          "a little **money**",
+          "a little **soup**"
+        ]
+      },
+      "right": {
+        "label": "(a) few + plural noun",
+        "text": "For things we can count.",
+        "examples": [
+          "a few **books**",
+          "a few **questions**",
+          "a few **people**",
+          "a few **days**"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "a little = some but not much",
+      "left": {
+        "label": "a little",
+        "text": "**a little** = some, but not much.",
+        "examples": [
+          "She didn't eat anything, but she drank **a little water**.",
+          "I speak **a little Spanish**. (= some Spanish but not much)",
+          "*A:* Can you speak Spanish? *B:* **A little**."
+        ]
+      },
+      "right": {
+        "label": "a few",
+        "text": "**a few** = some, but not many.",
+        "examples": [
+          "Excuse me, I have to make **a few phone calls**.",
+          "We're going away for **a few days**.",
+          "*A:* Are there any shops near here? *B:* Yes, **a few**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "little and few without a",
+      "text": "**little** (without *a*) = nearly no or nearly nothing. **few** (without *a*) = nearly no. You can also say **very little** and **very few**.",
+      "examples": [
+        { "text": "There was **little food** in the fridge. It was nearly empty." },
+        { "text": "There were **few people** in the theatre. It was nearly empty." },
+        { "text": "Dan is very thin because he eats **very little**. (= nearly nothing)" },
+        { "text": "Your English is very good. You make **very few mistakes**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a little and little",
+      "left": {
+        "label": "a little / a few = positive",
+        "text": "The speaker is happy: they have got some.",
+        "examples": [
+          "They have **a little** money, so they're not poor. (= they have some money)",
+          "I've got **a few** friends, so I'm not lonely. (= I've got some friends)"
+        ]
+      },
+      "right": {
+        "label": "little / few = negative",
+        "text": "The speaker is not happy: they have got nearly none.",
+        "examples": [
+          "They have **little** money. They are very poor. (= nearly no money)",
+          "I'm sad and I'm lonely. I've got **few** friends. (= nearly no friends)"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "The four forms",
+      "columns": ["Meaning", "uncountable (water, money)", "plural (books, friends)"],
+      "rows": [
+        ["some but not much/many", "**a little** water", "**a few** books"],
+        ["nearly none", "**little** water or **very little** water", "**few** books or **very few** books"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*I've got **a little** money* is good news. *I've got **little** money* is bad news. The small word **a** changes everything."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'Have you got any money?' 'Yes, ___ .'",
+      "hint": "(a little / a few)",
+      "answers": ["a little"],
+      "explanation": "money is uncountable, so a little."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Have you got any envelopes?' 'Yes, ___ .'",
+      "hint": "(a little / a few)",
+      "answers": ["a few"],
+      "explanation": "envelopes is a plural noun, so a few."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each noun go after a little or after a few?",
+      "categories": ["a little", "a few"],
+      "items": [
+        { "text": "water", "category": 0 },
+        { "text": "books", "category": 1 },
+        { "text": "time", "category": 0 },
+        { "text": "questions", "category": 1 },
+        { "text": "money", "category": 0 },
+        { "text": "people", "category": 1 },
+        { "text": "soup", "category": 0 },
+        { "text": "days", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can I have ___ in my coffee, please?",
+      "hint": "(a little + milk)",
+      "answers": ["a little milk"],
+      "explanation": "milk is uncountable, so a little milk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Martin speaks Italian well. He lived in Italy for ___ .",
+      "hint": "(a few + years)",
+      "answers": ["a few years"],
+      "explanation": "years is plural, so a few years."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your English is very good. You make ___ .",
+      "hint": "(very few + mistakes)",
+      "answers": ["very few mistakes"],
+      "explanation": "very few = nearly no; mistakes is a plural noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather here is very dry in summer. There is ___ .",
+      "hint": "(very little + rain)",
+      "answers": ["very little rain"],
+      "explanation": "very little = nearly none; rain is uncountable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There was ___ food in the fridge. It was nearly empty.",
+      "options": ["little", "a little", "few"],
+      "answer": 0,
+      "explanation": "little (without a) = nearly nothing, and food is uncountable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'When did Sarah go out?' '___ minutes ago.'",
+      "options": ["A few", "A little", "Few"],
+      "answer": 0,
+      "explanation": "minutes is plural and the meaning is positive, so A few."
+    },
+    {
+      "type": "true_false",
+      "statement": "Everybody needs little luck.",
+      "answer": false,
+      "explanation": "Everybody needs a little luck. Here the meaning is positive, so we need a."
+    },
+    {
+      "type": "true_false",
+      "statement": "Martin is a very private person. Few people know him well.",
+      "answer": true,
+      "explanation": "Correct: few people = nearly no people, a negative idea."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You will be away for three days. Put the words in the right order.",
+      "words": ["We're", "going away", "for a few days", "next", "week."],
+      "answer": "We're going away for a few days next week.",
+      "explanation": "days is plural, so we say for a few days."
+    }
+  ]
+}

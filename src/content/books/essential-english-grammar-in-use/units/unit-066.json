@@ -1,0 +1,169 @@
+{
+  "number": 66,
+  "title": "train(s) bus(es) (singular and plural)",
+  "subtitle": "one flower / some flowers",
+  "summary": "Make plurals with -s, learn the spelling rules for -es, -ies and -ves, and remember the special plurals like men, children and people.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The plural is usually -s",
+      "text": "*Singular* means one. *Plural* means two or more. One flower stands in a vase; in the next vase there are four flowers. For most nouns we just add **-s**.",
+      "examples": [
+        { "text": "a flower -> some **flowers**" },
+        { "text": "a train -> two **trains**" },
+        { "text": "one week -> a few **weeks**" },
+        { "text": "a nice place -> some nice **places**" },
+        { "text": "this student -> these **students**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Spelling",
+      "columns": ["The word ends in", "Plural", "Examples"],
+      "rows": [
+        ["-s / -sh / -ch / -x", "-es", "bus -> buses, dish -> dishes, church -> churches, box -> boxes"],
+        ["-o (some words)", "-es", "potato -> potatoes, tomato -> tomatoes"],
+        ["-y", "-ies", "baby -> babies, dictionary -> dictionaries, party -> parties"],
+        ["-ay / -ey / -oy", "-ys", "day -> days, monkey -> monkeys, boy -> boys"],
+        ["-f / -fe", "-ves", "shelf -> shelves, knife -> knives, wife -> wives"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Words that are always plural",
+      "text": "These things are plural in English: **scissors**, **glasses**, **trousers**, **jeans**, **shorts**, **tights**, **pyjamas**. You can also say **a pair of** scissors / trousers / pyjamas.",
+      "examples": [
+        { "text": "Do you wear **glasses**?" },
+        { "text": "Where **are** the **scissors**? I need **them**." },
+        { "text": "I need **a new pair of jeans**. *or* I need **some new jeans**.", "wrong": "a new jeans" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Some plurals do not end in -s",
+      "columns": ["Singular", "Plural"],
+      "rows": [
+        ["this man", "these men"],
+        ["a woman", "some women"],
+        ["a child", "many children"],
+        ["one foot", "two feet"],
+        ["a tooth", "all my teeth"],
+        ["a mouse", "some mice"],
+        ["that sheep", "those sheep"],
+        ["a fish", "a lot of fish"],
+        ["a person", "two people"]
+      ],
+      "note": "*She's a nice person*, but *They are nice people*, not ~~nice persons~~."
+    },
+    {
+      "type": "explain",
+      "heading": "people and police are plural",
+      "text": "**people** means *they*, so we say **people are** and **people have**. **police** is plural too.",
+      "examples": [
+        { "text": "A lot of people **speak** English.", "wrong": "speaks" },
+        { "text": "I like the people here. **They are** very friendly." },
+        { "text": "The police **want** to talk to anybody who saw the accident.", "wrong": "The police wants" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Many people are here*, not ~~is here~~. Think of *people* as *they*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "one boat, two ___",
+      "hint": "(boat)",
+      "answers": ["boats"],
+      "explanation": "Most nouns just add -s."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "one knife, two ___",
+      "hint": "(knife)",
+      "answers": ["knives"],
+      "explanation": "Words ending in -f or -fe change to -ves."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each singular word with its plural.",
+      "pairs": [
+        { "left": "man", "right": "men" },
+        { "left": "woman", "right": "women" },
+        { "left": "child", "right": "children" },
+        { "left": "tooth", "right": "teeth" },
+        { "left": "foot", "right": "feet" },
+        { "left": "mouse", "right": "mice" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do you spell the plural of these words?",
+      "categories": ["+ -s", "+ -es", "-y becomes -ies"],
+      "items": [
+        { "text": "umbrella", "category": 0 },
+        { "text": "holiday", "category": 0 },
+        { "text": "address", "category": 1 },
+        { "text": "sandwich", "category": 1 },
+        { "text": "potato", "category": 1 },
+        { "text": "city", "category": 2 },
+        { "text": "family", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gary is standing at the mirror with a toothbrush. Gary is cleaning his ___.",
+      "hint": "(tooth)",
+      "answers": ["teeth"],
+      "explanation": "The plural of tooth is teeth."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man and two women are waiting at the bus stop. There are three ___ at the bus stop.",
+      "hint": "(person)",
+      "answers": ["people"],
+      "explanation": "The plural of person is people."
+    },
+    {
+      "type": "true_false",
+      "statement": "There was a woman in the car with two mens.",
+      "answer": false,
+      "explanation": "There was a woman in the car with two men. The plural of man is men, with no -s."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went fishing, but we didn't catch many fish.",
+      "answer": true,
+      "explanation": "fish is the same in the singular and the plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like your trouser. Where did you get it?",
+      "answer": false,
+      "explanation": "I like your trousers. Where did you get them? trousers is always plural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A lot of people ___ television every day.",
+      "options": ["watch", "watches", "is watching"],
+      "answer": 0,
+      "explanation": "people is plural, so the verb has no -s."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The police ___ looking for the stolen car.",
+      "options": ["are", "is", "was"],
+      "answer": 0,
+      "explanation": "police is plural, so we say the police are."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["I", "need", "a new", "pair", "of", "jeans."],
+      "answer": "I need a new pair of jeans.",
+      "explanation": "jeans is plural, so we say a pair of jeans or some new jeans."
+    }
+  ]
+}

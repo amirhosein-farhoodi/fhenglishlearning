@@ -1,0 +1,178 @@
+{
+  "number": 17,
+  "title": "May and might",
+  "subtitle": "may / might have done",
+  "summary": "Choose between may and might for possibility, and use may or might with have and be + -ing to talk about possible past, present and future events.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "may or might?",
+      "left": {
+        "label": "may - academic or formal language",
+        "text": "Preferred for characteristics and behaviour.",
+        "examples": [
+          "The seeds from the plant **may** grow up to 20 centimetres in length."
+        ]
+      },
+      "right": {
+        "label": "might - in speech",
+        "text": "Preferred for saying what we will possibly do in the future.",
+        "examples": [
+          "I **might** paint the kitchen purple."
+        ]
+      },
+      "note": "In many other contexts the two have a very similar meaning."
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about possibility",
+      "text": "We don't use may to ask questions about the possibility of something happening. Instead we use could(n't) or the phrase be likely. Might is possible in this kind of question, but it is rather formal.",
+      "examples": [
+        { "text": "**Could it be** that you don't want to leave?", "wrong": "May it be that you ...?" },
+        { "text": "**Are you likely to be** in Spain again this summer?", "wrong": "May you be in Spain ...?" },
+        { "text": "**Might they be** persuaded to change their minds?", "note": "possible, but rather formal" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "may for permission and offers",
+      "text": "We do use may when we ask for permission formally, and when we offer help.",
+      "examples": [
+        { "text": "**May I** leave now?" },
+        { "text": "**May I** help you?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "might + bare infinitive for the typical past",
+      "text": "Might (not may) + bare infinitive is sometimes used to talk about what was typically the case in the past. This is a formal or literary use. Could + bare infinitive is also possible here, but it then means past ability: 'the police could arrest you' means they were legally able to.",
+      "examples": [
+        { "text": "During the war, the police **might arrest** you for criticising the government." },
+        { "text": "Years ago children **might be sent** down mines at the age of six.", "note": "passive form" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "may / might not ... but ...",
+      "text": "When we say that a person or thing makes up for a limitation or weakness by having another quality, we can use may / might not + bare infinitive ... but ..., or may / might not have + past participle ... but ...",
+      "examples": [
+        { "text": "The painting **may not be** a masterpiece, **but** the colours are remarkable." },
+        { "text": "She **might not have danced** very gracefully, **but** she had a lot of energy and enthusiasm." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Possible past, present and future events",
+      "text": "We use may / might (not can) + have + past participle and may / might (not can) + be + -ing to talk about possible events in the past, the present and the future. Could is also possible in all these sentences.",
+      "examples": [
+        { "text": "Do you think Laura **may / might have completed** the report by now?", "note": "the past" },
+        { "text": "His maths **may / might have improved** by the time the exam comes round.", "note": "the future" },
+        { "text": "Marco isn't in his office. He **may / might be working** at home today.", "note": "the present" },
+        { "text": "When I go to Vienna I **may / might be staying** with Max, but I'm not sure yet.", "note": "the future" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "may / might have been + -ing",
+      "text": "We use may / might have been + -ing to talk about a possible situation or activity that went on over a period of past time.",
+      "examples": [
+        { "text": "Callum didn't know where the ball was, but he thought his sister **might have been playing** with it before she left for school." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "may / might have + past participle can point backwards or forwards - the time words decide: *by now* looks back, *by the time the exam comes round* looks forward."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ go to Majorca for our holiday this summer.",
+      "hint": "(may / might) - said in conversation about our own plans",
+      "answers": ["might"],
+      "explanation": "In speech we prefer might for what we will possibly do in the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Exceeding the stated dose ___ cause drowsiness.",
+      "hint": "(may / might) - a formal written warning",
+      "answers": ["may"],
+      "explanation": "In formal or academic language about characteristics and behaviour we prefer may."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You can't ask 'May you be in Spain again this summer?'. Put the words in order to ask about the possibility.",
+      "words": ["Are you", "likely", "to be", "in Spain", "again", "this summer?"],
+      "answer": "Are you likely to be in Spain again this summer?",
+      "explanation": "May is not used to ask about possibility - be likely (or could) is used instead."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Someone's left their coat. *B:* ___ it be Nadia's?",
+      "options": ["Could", "May", "Do"],
+      "answer": 0,
+      "explanation": "Could is the natural way to ask whether something is possible; may is not used in this kind of question."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You should have come dancing. You ___ it.",
+      "options": ["might have enjoyed", "might enjoy", "might be enjoying"],
+      "answer": 0,
+      "explanation": "A possible event in the past: might have + past participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She ___ to get a book off the top shelf when she fell.",
+      "options": ["might have been trying", "might have tried", "might try"],
+      "answer": 0,
+      "explanation": "An activity that went on over a period of past time: might have been + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dr Carter ___ over this evening, so can you tidy the house up a bit?",
+      "hint": "(come)",
+      "answers": ["might be coming", "may be coming", "could be coming"],
+      "explanation": "A possible event in the future: might be + -ing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "As recently as the 1950s, employers ___ a woman to leave her job when she got married.",
+      "options": ["might require", "might be requiring", "might have required"],
+      "answer": 0,
+      "explanation": "Might + bare infinitive describes what was typically the case in the past."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the past, left-handed children ___ for not holding a pen in their right hand.",
+      "options": ["might be punished", "might be punishing", "might have been punishing"],
+      "answer": 0,
+      "explanation": "The passive of might + bare infinitive, again for what typically happened in the past."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why not come and see us in March? The weather ___ by then.",
+      "hint": "(improve)",
+      "answers": ["may have improved", "might have improved", "could have improved"],
+      "explanation": "May / might have + past participle can point to the future when the sentence says by then."
+    },
+    {
+      "type": "true_false",
+      "statement": "He said he was in a lot of pain, but he may exaggerate.",
+      "answer": false,
+      "explanation": "He said he was in a lot of pain, but he may have been exaggerating. The exaggerating went on over a period of past time."
+    },
+    {
+      "type": "matching",
+      "prompt": "Each speaker admits a weakness and then makes up for it. Match the halves.",
+      "pairs": [
+        { "left": "He may not be the best singer in the world,", "right": "but at least he's in tune." },
+        { "left": "Hugh's old car might not be terribly comfortable,", "right": "but it's never broken down." },
+        { "left": "Her English grammar may not be very accurate,", "right": "but she has a very wide vocabulary." },
+        { "left": "You may not agree with him,", "right": "but his opinions on music make you think." },
+        { "left": "She may not express her feelings openly,", "right": "but she is really very fond of you." },
+        { "left": "It may not sound very exciting,", "right": "but the new museum of fishing is actually very good." }
+      ]
+    }
+  ]
+}

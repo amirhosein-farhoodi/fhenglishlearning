@@ -1,0 +1,180 @@
+{
+  "number": 83,
+  "title": "If 1",
+  "subtitle": "If you leave now ... / If it were not for Nina ...",
+  "summary": "Handle real conditionals with present and present perfect verbs, the if ... were to pattern for unlikely futures, and if it were not for / but for.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Real conditionals: present tense for the future",
+      "text": "In real conditionals we usually use a present tense verb in the if-clause to talk about the future. In conversation we can use **be going to** instead of a present tense verb.",
+      "examples": [
+        { "text": "**If you leave** now, you'll be able to catch the 5 o'clock train.", "note": "or If you're leaving now ..." },
+        { "text": "**If I'm going to** catch the train, I'll have to leave now." },
+        { "text": "We'll need more chairs **if we're going to** invite so many people to the performance." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "An imperative in the main clause",
+      "text": "When we make offers, or give instructions or advice, we can use an imperative in the main clause.",
+      "examples": [
+        { "text": "**Take** another sandwich if you're hungry." },
+        { "text": "If you have a mobile phone, **check** that it is turned off." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "if = 'when'",
+      "text": "An if-clause with a present tense verb can introduce the conditions under which something is true. Here **if** has a meaning close to *when*.",
+      "examples": [
+        { "text": "The video pauses **if** you click on this button." },
+        { "text": "**If** age-related changes are taken into account, the conclusion remains the same." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present perfect or present simple in the if-clause?",
+      "left": {
+        "label": "Present perfect - the event may already have happened",
+        "text": "Use it to focus on the future consequences of a past event.",
+        "examples": [
+          "**If I've failed** my exam again, I'm giving up the course.",
+          "= I have probably already taken the exam; I don't know the result"
+        ]
+      },
+      "right": {
+        "label": "Present simple - open",
+        "examples": [
+          "**If I fail** my exam again, I'm giving up the course.",
+          "= I may or may not have taken the exam yet"
+        ]
+      },
+      "note": "Often the two are very close in meaning: I'll lend you War and Peace if I've finished it before you go on holiday. (or ... if I finish ...)"
+    },
+    {
+      "type": "explain",
+      "heading": "Unreal conditionals: if ... were + to-infinitive",
+      "text": "In unreal conditionals we can use **if ... were + to-infinitive** instead of if + past simple to talk about imaginary future situations, especially when the situation in the if-clause is unlikely.",
+      "examples": [
+        { "text": "**If** the technology **were to become** available, we would be able to expand the business." },
+        { "text": "Would it be too early for you **if we were to meet** at 5:30?", "note": "the pattern also makes a suggestion sound more polite" }
+      ],
+      "note": "We don't usually use this pattern with state verbs such as belong, doubt, enjoy, know, like, remember and understand: If I knew they were honest, I'd gladly lend them the money. (not If I were to know ...)"
+    },
+    {
+      "type": "explain",
+      "heading": "if it was / were not for; if it had not been for",
+      "text": "We use **if it was not for** + noun phrase, or more formally **if it were not for**, to say that one situation depends on another situation or on a person. For the past we can also use **if it had not been for**.",
+      "examples": [
+        { "text": "**If it wasn't** / **weren't for** Nina, the conference wouldn't be going ahead." },
+        { "text": "**If it hadn't been for** Dad, I wouldn't have gone to college.", "note": "or If it wasn't / weren't for Dad ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Formal alternatives: Were it not for ...; but for ...",
+      "text": "In formal language we can drop *if* and put the verb first: **Were it not for** ... and **Had it not been for** ... . **But for** + noun has a similar meaning and is also rather formal.",
+      "examples": [
+        { "text": "**Were it not for** Nina, the conference wouldn't be going ahead." },
+        { "text": "**Had it not been for** Dad, I wouldn't have gone to college." },
+        { "text": "The village school would have been closed years ago **but for** the determination of teachers and parents to keep it open." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask whether the if-clause event is still open (present simple), possibly already over (present perfect), or imaginary and unlikely (were to)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "There have been a lot of thefts from cars in the city centre. If you leave your car there, ___ it's locked.",
+      "hint": "(make - imperative)",
+      "answers": ["make sure"],
+      "explanation": "Advice and instructions take an imperative in the main clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ home before I get there, I'll meet you at the airport.",
+      "hint": "(leave)",
+      "answers": ["leave", "have left"],
+      "explanation": "Here the present perfect and the present simple have a similar meaning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If the taxi ___ by 10 o'clock, I'll give you a lift to the station.",
+      "hint": "(not arrive)",
+      "answers": ["doesn't arrive", "does not arrive", "hasn't arrived", "has not arrived"],
+      "explanation": "Both forms work here, and the meaning barely changes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If the technology ___ available, we would be able to expand the business.",
+      "options": ["were to become", "will become", "would become"],
+      "answer": 0,
+      "explanation": "if ... were + to-infinitive presents an imaginary, fairly unlikely future situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ Macbeth, you'll know the scene with the witches.",
+      "hint": "(study)",
+      "answers": ["have studied", "study"],
+      "explanation": "The present perfect suggests 'if you studied it in the past'; the present simple points to studying it in the future."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'd sell the house immediately if it were to belong to me.",
+      "answer": false,
+      "explanation": "I'd sell the house immediately if it belonged to me. Belong is a state verb, so were to is not used."
+    },
+    {
+      "type": "true_false",
+      "statement": "If they were to hold an election now, the Democrats would undoubtedly win.",
+      "answer": true,
+      "explanation": "Correct. Hold is an action verb, so if ... were to is fine for this unlikely future situation."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the verb work in the if ... were to pattern, or does it need a past simple form instead?",
+      "categories": ["were to is fine", "Use the past simple"],
+      "items": [
+        { "text": "If they were to hold an election now, the Democrats would undoubtedly win.", "category": 0 },
+        { "text": "There would be no cinema in the town if the Odeon were to close.", "category": 0 },
+        { "text": "I'd sell the house immediately if it were to belong to me.", "category": 1 },
+        { "text": "I'd go back to the restaurant if I were to like sushi more.", "category": 1 },
+        { "text": "If I were to doubt his honesty, I wouldn't employ him.", "category": 1 },
+        { "text": "If I were to understand Chinese, I'd do the translation myself.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If I ___ they were honest, I'd gladly lend them the money.",
+      "hint": "(know)",
+      "answers": ["knew"],
+      "explanation": "Know describes a state, so we use the past simple, not 'were to know'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'The strike would probably still be going on if the government hadn't intervened' beginning with Were.",
+      "words": ["Were it not for", "the intervention", "of the government,", "the strike would", "probably still be", "going on."],
+      "answer": "Were it not for the intervention of the government, the strike would probably still be going on.",
+      "explanation": "In formal English if is dropped and were comes first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'The fight could have got out of hand if the police hadn't arrived' beginning with Had.",
+      "words": ["Had it not been for", "the arrival", "of the police,", "the fight", "could have got", "out of hand."],
+      "answer": "Had it not been for the arrival of the police, the fight could have got out of hand.",
+      "explanation": "Had it not been for ... is the formal, inverted version of if it hadn't been for ... ."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the sound of birds singing, everything was quiet.",
+      "hint": "(But ...)",
+      "answers": ["But for"],
+      "explanation": "But for + noun means the same as if it hadn't been for, and is used in formal contexts."
+    }
+  ]
+}

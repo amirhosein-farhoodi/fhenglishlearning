@@ -1,0 +1,181 @@
+{
+  "number": 6,
+  "title": "Present perfect continuous and present perfect",
+  "subtitle": "I've been playing / I've played",
+  "summary": "Separate the process from the result, and know which verbs refuse the present perfect continuous.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "An activity in progress until recently",
+      "text": "The present perfect continuous expresses an activity - a task, a piece of work - that was in progress until recently or until the moment of speaking. We often add a time expression saying how long it went on.",
+      "examples": [
+        { "text": "**Have you been working** in the garden all day? You look exhausted." },
+        { "text": "She**'s been writing** the book since she was in her twenties and at last it's finished." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not with unchanging states",
+      "text": "We don't use the present perfect continuous with verbs such as **belong, know, (dis)like** and **understand**, which describe unchanging states.",
+      "examples": [
+        { "text": "**Have you known** each other long?", "wrong": "Have you been knowing" },
+        { "text": "**I haven't liked** ice cream since I ate too much and was sick.", "wrong": "I haven't been liking" },
+        { "text": "**We've been looking** forward to this holiday for ages.", "note": "or We've looked forward to ... - for general circumstances up to now, either form works" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Something that has just finished",
+      "left": {
+        "label": "Present perfect - one complete happening",
+        "examples": [
+          "He**'s broken** his finger and is in a lot of pain. (not ~~He's been breaking~~)"
+        ]
+      },
+      "right": {
+        "label": "Present perfect continuous - extended or repeated activity",
+        "examples": [
+          "I**'ve been playing** squash and need a shower! (more likely than I've played ...)"
+        ]
+      },
+      "note": "Both are used for something recently finished whose results we can still see; the choice depends on the verb."
+    },
+    {
+      "type": "explain",
+      "heading": "Drawing a conclusion from the evidence",
+      "text": "When we draw a conclusion from what we can see or hear, we prefer the present perfect continuous. It is a favourite form for complaining and criticising.",
+      "examples": [
+        { "text": "Who**'s been messing** around with my papers? They're all over the place." },
+        { "text": "You**'ve been eating** chocolate, haven't you? There's some on your shirt." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The result or the process?",
+      "left": {
+        "label": "The result - present perfect",
+        "examples": [
+          "Prices **have decreased** by 7%. (not ~~Prices have been decreasing by 7%~~)",
+          "I**'ve used** three tins of paint on the kitchen walls. (not ~~I've been using three tins~~)"
+        ]
+      },
+      "right": {
+        "label": "The process - either form",
+        "examples": [
+          "Prices **have been decreasing** recently. (or Prices have decreased ...)",
+          "I**'ve been using** a new kind of paint on the kitchen walls. (or I've used ...)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Ongoing and repeated, or a set number of times?",
+      "text": "The present perfect continuous emphasises that an activity is ongoing and repeated. The present perfect suggests it happened once, or a specified number of times.",
+      "examples": [
+        { "text": "Miguel **has been kicking** a football against the wall all day.", "note": "more likely than ... has kicked ..." },
+        { "text": "He **has played** for the national team in 65 matches so far.", "wrong": "He has been playing for the national team in 65 matches so far" },
+        { "text": "The workers **have been calling** for the chairman's resignation.", "note": "= a number of times, probably over an extended period" },
+        { "text": "Workers **have called** for management to begin negotiations on pay.", "note": "= maybe a number of times, maybe only once" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the sentence contains a number - 7%, three tins, 65 matches - you are talking about a result, so use the plain present perfect."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ at this hotel a couple of times before.",
+      "hint": "(stay)",
+      "answers": ["'ve stayed", "have stayed"],
+      "explanation": "A specified number of occasions, so the plain present perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ any of Dickens' novels.",
+      "hint": "(read) - negative",
+      "answers": ["haven't read", "have not read"],
+      "explanation": "This is a fact about your experience up to now, not an activity in progress."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He ___ his finger and is in a lot of pain.",
+      "options": ["'s broken", "'s been breaking", "breaks"],
+      "answer": 0,
+      "explanation": "Breaking a finger is one complete happening, so the present perfect continuous is impossible."
+    },
+    {
+      "type": "true_false",
+      "statement": "Who's been messing around with my papers? They're all over the place.",
+      "answer": true,
+      "explanation": "Correct. We use the present perfect continuous to draw a conclusion from what we can see - often to complain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ this book on astrophysics for hours and I'm still only on page six.",
+      "hint": "(read)",
+      "answers": ["'ve been reading", "have been reading", "have read", "'ve read"],
+      "explanation": "An activity in progress with a time expression saying how long: the present perfect continuous is the natural choice."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of these sentences.",
+      "pairs": [
+        { "left": "Have you been working in the garden all day?", "right": "You look exhausted." },
+        { "left": "You've been eating chocolate, haven't you?", "right": "There's some on your shirt." },
+        { "left": "I haven't liked ice cream", "right": "since I ate too much and was sick." },
+        { "left": "I've been playing squash", "right": "and need a shower!" },
+        { "left": "She's been writing the book since she was in her twenties", "right": "and at last it's finished." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dr Fletcher ___ the same lecture to students for the last ten years.",
+      "hint": "(give)",
+      "answers": ["has been giving", "'s been giving", "has given", "'s given"],
+      "explanation": "A repeated activity over an extended period: the present perfect continuous fits best."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Prices ___ by 7%.",
+      "options": ["have decreased", "have been decreasing", "are decreasing"],
+      "answer": 0,
+      "explanation": "A figure states the result, so the plain present perfect is needed."
+    },
+    {
+      "type": "true_false",
+      "statement": "He has been playing for the national team in 65 matches so far.",
+      "answer": false,
+      "explanation": "He has played for the national team in 65 matches so far. A specified number of occasions takes the present perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Since 1950 influenza has claimed more than 50,000 lives in this country, and in 1957 alone around 6,000 people ___ in the outbreak.",
+      "hint": "(die)",
+      "answers": ["died"],
+      "explanation": "In 1957 is a finished past time, so the past simple - not any perfect form - is right."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's remarkable to think that since 1950 influenza ___ more than 50,000 lives in this country.",
+      "options": ["has claimed", "has been claiming", "claims"],
+      "answer": 0,
+      "explanation": "The number of lives is a result, so the present perfect continuous will not do."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form does each meaning call for?",
+      "categories": ["Present perfect - a result or a set number of occasions", "Present perfect continuous - an extended or repeated activity"],
+      "items": [
+        { "text": "He's broken his finger and is in a lot of pain.", "category": 0 },
+        { "text": "I've been playing squash and need a shower.", "category": 1 },
+        { "text": "Prices have decreased by 7%.", "category": 0 },
+        { "text": "Miguel has been kicking a football against the wall all day.", "category": 1 },
+        { "text": "He has played for the national team in 65 matches so far.", "category": 0 },
+        { "text": "The workers have been calling for the chairman's resignation.", "category": 1 }
+      ]
+    }
+  ]
+}

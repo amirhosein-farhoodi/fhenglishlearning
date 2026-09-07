@@ -1,0 +1,164 @@
+{
+  "number": 24,
+  "title": "Using passives",
+  "subtitle": "It was believed that the plan would fail.",
+  "summary": "Decide when a passive is the better choice: to leave out the agent, to keep the topic at the front, and to avoid a that-clause subject.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Leaving out the agent",
+      "text": "A passive lets us leave out the **agent** (the subject of the matching active sentence) by dropping the phrase with **by**. We prefer a passive when the agent is not known, is 'people in general', is unimportant, or is obvious.",
+      "examples": [
+        { "text": "My office **was broken into** when I was on holiday.", "note": "the agent is not known" },
+        { "text": "An order form **can be found** on page 2.", "note": "the agent is 'people in general'" },
+        { "text": "He **is thought** to be somewhere in Russia.", "note": "the agent is unimportant" },
+        { "text": "She **is being treated** in hospital.", "note": "the agent is obvious - medical staff" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Factual writing",
+      "text": "In factual writing - describing a procedure or a process - we often leave the agent out altogether and use one passive after another.",
+      "examples": [
+        { "text": "Nuclear waste will still be radioactive even after 20,000 years, so it **must be disposed of** very carefully." },
+        { "text": "It **can be stored** as a liquid in stainless-steel containers which **are encased** in concrete." },
+        { "text": "The most dangerous nuclear waste **can be turned** into glass which **will be stored** in deep underground mines." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Conversation or formal writing?",
+      "left": {
+        "label": "Informal: an active with a vague subject",
+        "text": "people, somebody / someone, something, they, we, you - even when we don't know who the agent is",
+        "examples": ["They're installing the new computer system next month."]
+      },
+      "right": {
+        "label": "Formal: a passive with no agent",
+        "text": "the mention of an agent is avoided completely",
+        "examples": ["The new computer system is being installed next month."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "A related noun as the subject",
+      "text": "Some verbs have a related noun with the same meaning. That noun can become the subject of a passive sentence, with a new passive verb introduced.",
+      "examples": [
+        { "text": "The new computer system is being installed next month. - **The installation** of the new computer system **will be completed** by next month." },
+        { "text": "They will consider the issue at next week's meeting. - **Consideration will be given** to the issue at next week's meeting." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Topic first, comment last",
+      "text": "English usually puts the **topic** (what we are already talking about) at the start of a clause and the **comment** on it at the end. A passive often lets us do this - and it lets us move a long subject to the end.",
+      "examples": [
+        { "text": "The three machines tested for the report contained different types of safety valve. **All the valves were manufactured** by the Boron Group in Germany.", "note": "the valves are the topic, so they come first" },
+        { "text": "**I was surprised by** Dev's decision to give up his job and move to Sydney.", "note": "more natural than 'Dev's decision to give up his job and move to Sydney surprised me'" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + passive instead of a that-clause subject",
+      "text": "Rather than making a **that**-clause the subject of a passive sentence, it is normal to start with **it**.",
+      "examples": [
+        { "text": "Everybody believed (that) the plan would fail.", "note": "active" },
+        { "text": "**It was believed that** the plan would fail.", "note": "passive - the natural version" },
+        { "text": "That the plan would fail was believed by everybody.", "note": "grammatical, but very unnatural" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If naming the agent adds nothing - or if it would push a long phrase to the front of your sentence - the passive is almost always the better choice."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "They built the main stadium in under three years. - The main stadium ___ in under three years.",
+      "hint": "(build)",
+      "answers": ["was built"],
+      "explanation": "Past simple passive: was/were + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They are holding the rowing competition on the River Nene. - The rowing competition ___ on the River Nene.",
+      "hint": "(hold)",
+      "answers": ["is being held"],
+      "explanation": "Present continuous passive: is being + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They will take down the temporary stands after the Games. - The temporary stands ___ after the Games.",
+      "hint": "(take down)",
+      "answers": ["will be taken down"],
+      "explanation": "will + be + past participle; the particle down stays with the verb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Why is a passive the natural choice in each sentence?",
+      "categories": ["The agent is unknown or unimportant", "The agent is obvious or 'people in general'"],
+      "items": [
+        { "text": "My office was broken into when I was on holiday.", "category": 0 },
+        { "text": "An order form can be found on page 2.", "category": 1 },
+        { "text": "He is thought to be somewhere in Russia.", "category": 0 },
+        { "text": "She is being treated in hospital.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They were using the handball venue as a warehouse until a year ago. - The handball venue ___ as a warehouse until a year ago.",
+      "hint": "(use)",
+      "answers": ["was being used"],
+      "explanation": "Past continuous passive: was being + past participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They should have finished the badminton arena by now. - The badminton arena ___ by now.",
+      "options": ["should have been finished", "should have finished", "should being finished"],
+      "answer": 0,
+      "explanation": "The passive of should have + past participle is should have been + past participle."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was surprised by Dev's decision to give up his job and move to Sydney.",
+      "answer": true,
+      "explanation": "Correct - and more natural than the active, because the passive keeps the long subject at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They will appoint a new managing director next week. - The ___ of a new managing director will be made next week.",
+      "hint": "(appoint - noun)",
+      "answers": ["appointment"],
+      "explanation": "A related noun can become the subject of a passive: the appointment ... will be made."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They demolished the building in only two days. - The ___ of the building was completed in only two days.",
+      "hint": "(demolish - noun)",
+      "answers": ["demolition"],
+      "explanation": "demolish gives the noun demolition, which takes the new passive verb was completed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It ___ that there will be a 38-55 cm rise in average sea levels by the year 2100.",
+      "hint": "(estimate)",
+      "answers": ["is estimated", "has been estimated"],
+      "explanation": "it + passive verb + that-clause reports a figure without naming who worked it out."
+    },
+    {
+      "type": "true_false",
+      "statement": "That the plan would fail was believed by everybody.",
+      "answer": false,
+      "explanation": "It was believed that the plan would fail. We start with it rather than making the that-clause the subject."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite 'They will consider the issue at next week's meeting', starting with a noun formed from consider.",
+      "words": ["Consideration", "will", "be given", "to the issue", "at", "next week's meeting"],
+      "answer": "Consideration will be given to the issue at next week's meeting",
+      "explanation": "The related noun consideration becomes the subject, with the new passive verb be given."
+    }
+  ]
+}

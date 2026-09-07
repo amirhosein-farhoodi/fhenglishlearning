@@ -1,0 +1,166 @@
+{
+  "number": 97,
+  "title": "It 2",
+  "subtitle": "I hate it that ... / There's no denying that ...",
+  "summary": "Use it as the object of a verb pointing forward to a clause, and choose between It is no ... and There is no ... .",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "it as the object of a verb",
+      "text": "Some verbs need **it** before a clause. **can't bear, hate, like, love, resent** and **can't stand** take it before a that-, if- or when-clause; **dislike, enjoy, prefer** and **understand** take it before an if- or when-clause.",
+      "examples": [
+        { "text": "I hate **it** that you can swim so well and I can't.", "wrong": "I hate that you can swim so well" },
+        { "text": "We always enjoy **it** when they stay with us.", "wrong": "We always enjoy when they stay with us" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Optional it, or no it at all",
+      "left": {
+        "label": "it is optional, especially in speech",
+        "examples": [
+          "You've just got to accept **(it)** that Emil's gone and won't be coming back.",
+          "Also: admit, deny, guarantee, mention."
+        ]
+      },
+      "right": {
+        "label": "never with it",
+        "examples": [
+          "I can't remember when I last saw her. (not ... remember **it** when ...)",
+          "Also: argue, discover, emphasise, notice, predict."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "it + adjective / noun phrase + clause",
+      "text": "With verbs that say how we see a situation - **believe, consider, feel, find** (= discover from experience), **think** - it comes first, then an adjective or noun phrase, then the clause. With **leave** and **owe** we can add *to somebody* + a to-infinitive.",
+      "examples": [
+        { "text": "Officials said they believe **it unlikely that** any lasting damage to the environment has been done.", "note": "or ... they believe it is unlikely that ...; not they believe unlikely that ..." },
+        { "text": "Don't bother to arrange anything. Just leave **it to me to sort out**." },
+        { "text": "She owed **it to** her parents **to do** well at college." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + as + noun / adjective + clause",
+      "text": "With **accept, regard, see, take** (= interpret in a particular way) and **view** we use it + *as*.",
+      "examples": [
+        { "text": "We see **it as** an insult to have received no reply to our letter." },
+        { "text": "I take **it as** encouraging when students attend all my lectures." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "It is no ... and There is no ...",
+      "columns": ["It is / was no ...", "There is / was no ..."],
+      "rows": [
+        ["It's no secret that he wants a new job.", "There's no denying that he's intelligent."],
+        ["It's no surprise that his latest film has been so successful.", "There's no alternative (or choice) but to ask her to leave."],
+        ["It's no use telling me now. I needed to know a week ago.", "There's no hope of getting more money."],
+        ["It's no good getting angry. That won't help solve the problem.", "There's no need to explain how it works; I'll read the manual."],
+        ["It's no coincidence (or accident) that they left the party at the same time.", "There's no point in buying an ice-cream maker unless you plan to use it a lot."],
+        ["It's no longer necessary to have a visa to visit the country.", "There's no question of agreeing to his demands. / There's no reason to be pessimistic."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Only the It is no ... sentences can be turned round",
+      "text": "With **It is / was no ...** we can move the that-, -ing or to-infinitive clause to the front. With **There is / was no ...** we cannot.",
+      "examples": [
+        { "text": "It's no secret that he wants a new job.", "note": "or That he wants a new job is no secret." },
+        { "text": "There's no denying that he's intelligent.", "wrong": "That he's intelligent is no denying" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you can rewrite the sentence starting with the that-clause, it is an It is no ... expression; if you cannot, it is a There is no ... one."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ when people criticise her work, and she gets very upset.",
+      "hint": "(can't bear)",
+      "answers": ["can't bear it", "cannot bear it", "can not bear it"],
+      "explanation": "can't bear needs it before a when-clause."
+    },
+    {
+      "type": "true_false",
+      "statement": "We always enjoy it when they stay with us.",
+      "answer": true,
+      "explanation": "Correct. enjoy needs it before a when-clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ hard to understand why the film was made in black and white and not colour.",
+      "hint": "(find)",
+      "answers": ["find it"],
+      "explanation": "find takes it + adjective + clause."
+    },
+    {
+      "type": "true_false",
+      "statement": "I hate that you can swim so well and I can't.",
+      "answer": false,
+      "explanation": "I hate it that you can swim so well and I can't. hate needs it before a that-clause."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the halves of these fixed expressions.",
+      "pairs": [
+        { "left": "It's no use", "right": "telling me now. I needed to know a week ago." },
+        { "left": "There's no point in", "right": "buying an ice-cream maker unless you plan to use it a lot." },
+        { "left": "There's no need to", "right": "explain how it works; I'll read the manual." },
+        { "left": "It's no coincidence that", "right": "they left the party at the same time." },
+        { "left": "There's no question of", "right": "agreeing to his demands." },
+        { "left": "It's no surprise that", "right": "his latest film has been so successful." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ that Julia and Jakub have split up. Everyone in the office knows.",
+      "answers": ["It's no secret", "It is no secret"],
+      "explanation": "It's no secret that ... - and we could also say That Julia and Jakub have split up is no secret."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My contact lens must have fallen out in the snow, so ___ of finding it.",
+      "answers": ["there's no hope", "there is no hope", "there's no chance", "there is no chance"],
+      "explanation": "There's no hope / chance of + -ing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Officials said they believe ___ that any lasting damage to the environment has been done.",
+      "options": ["it unlikely", "unlikely", "it as unlikely"],
+      "answer": 0,
+      "explanation": "believe takes it + adjective + that-clause (or ... believe it is unlikely that ...)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ to our supporters to play to the best of our ability in the match.",
+      "hint": "(owe)",
+      "answers": ["owe it"],
+      "explanation": "owe it to somebody to do something = have a responsibility to them."
+    },
+    {
+      "type": "true_false",
+      "statement": "That he's intelligent is no denying.",
+      "answer": false,
+      "explanation": "There's no denying that he's intelligent. There is no ... expressions cannot be turned round."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ possible to buy tickets at the theatre. You have to buy them online.",
+      "answers": ["It's no longer", "It is no longer"],
+      "explanation": "It's no longer + adjective = it used to be so, but is not now."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A new managing director opens his first speech to the board. Put his words in order.",
+      "words": ["I take it as", "a great honour", "to be asked", "to become managing director", "of Rexco."],
+      "answer": "I take it as a great honour to be asked to become managing director of Rexco.",
+      "explanation": "take, see, accept, regard and view use it + as + noun phrase + clause."
+    }
+  ]
+}

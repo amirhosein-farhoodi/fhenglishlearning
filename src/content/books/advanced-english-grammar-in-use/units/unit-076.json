@@ -1,0 +1,183 @@
+{
+  "number": 76,
+  "title": "Adverbs of place, direction, indefinite frequency, and time",
+  "subtitle": "Beyond the houses lay open fields",
+  "summary": "Move adverbs of place, direction and time to the front of a clause, and know when the subject has to follow the verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Place and direction: end position, or front for emphasis",
+      "text": "Adverbs and adverbials of place and direction usually go in end position. Putting them in front position emphasises the location, and also highlights whatever now comes at the end of the clause. This order is found mainly in formal descriptive writing and reports.",
+      "examples": [
+        { "text": "The money was eventually found **under the floorboards**.", "note": "end position" },
+        { "text": "The police searched the house. **Under the floorboards** they found a body.", "note": "front position - and 'a body' now carries the weight" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Front position + be: the subject follows the verb",
+      "text": "If we put an adverb of place in front position and the verb is *be*, the subject comes after the verb.",
+      "examples": [
+        { "text": "**Next to the bookshelf was** a fireplace.", "wrong": "Next to the bookshelf a fireplace was" },
+        { "text": "Most of the furniture was modern, but **in the corner was** a very old grandfather clock.", "note": "less formally: Next to the bookshelf there was a fireplace." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Inversion with verbs of position and movement",
+      "text": "The subject can also follow the verb with intransitive verbs used to indicate being in a position or moving to a position - but not when the subject is a pronoun.",
+      "examples": [
+        { "text": "**Beyond the houses lay** open fields." },
+        { "text": "Beyond the houses **they lay**.", "wrong": "Beyond the houses lay they" },
+        { "text": "**Around her neck hung** a jade necklace." }
+      ],
+      "note": "Verbs used like this: hang, lie, live, sit, stand; come, fly, go, march, roll, run, swim, walk. ('... open fields lay' might be used in a literary style.)"
+    },
+    {
+      "type": "explain",
+      "heading": "When we don't invert",
+      "text": "We don't usually put the subject after the verb when we are talking about actions: that is, when one of those intransitive verbs is followed by an adverb of manner, with other intransitive verbs, or with transitive verbs.",
+      "examples": [
+        { "text": "**Through the waves** the boy swam powerfully.", "note": "rather than ... swam the boy powerfully" },
+        { "text": "**Outside the church** the choir sang.", "note": "rather than ... sang the choir" },
+        { "text": "**In the garden** Nik built a play house for the children.", "wrong": "In the garden built Nik a play house" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative time adverbials in front position",
+      "text": "When certain time adverbials come in front position, the subject must follow an auxiliary verb or main verb *be*. If the main verb is not *be* and there is no auxiliary we use **do** - though here the inversion is not obligatory.",
+      "examples": [
+        { "text": "**At no time would he** admit that his team played badly.", "wrong": "At no time he would admit" },
+        { "text": "**Not once was she** at home when I phoned.", "wrong": "Not once she was at home" },
+        { "text": "**Only later did she** realise how much damage had been caused.", "note": "or Only later she realised ..." }
+      ],
+      "note": "Adverbials like this include at no time, hardly ever, not once, only later, rarely and seldom."
+    },
+    {
+      "type": "compare",
+      "heading": "Then came a voice / Then, a voice came",
+      "left": {
+        "label": "No comma - the subject follows the verb",
+        "text": "First, next, now and then in front position with come introduce a new event.",
+        "examples": [
+          "At first there was silence. **Then came** a voice that I knew.",
+          "**First came** a welcoming address by the head of the organising team."
+        ]
+      },
+      "right": {
+        "label": "With a comma - the verb follows the subject",
+        "text": "A comma in writing, or an intonation break in speech, changes the order back.",
+        "examples": [
+          "At first there was silence. **Then, a voice came** that I knew."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Definite time and definite frequency",
+      "text": "Adverbs of time indicating a definite point or period, or a definite frequency, go in end position, or in front position for emphasis - but never in mid position. In front position there is no inversion of subject and verb. The adverbs **daily, hourly, monthly, weekly, annually, quarterly** only go in end position.",
+      "examples": [
+        { "text": "I went to Paris **yesterday**.", "note": "or Yesterday I went to Paris." },
+        { "text": "We meet for lunch **once a week**.", "note": "or Once a week we meet for lunch." },
+        { "text": "I pay my subscription **annually**.", "wrong": "Annually I pay my subscription" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Inversion after a front-position place adverbial needs two things: no object, and a subject that is not a pronoun. *Up the tree it climbed*, not ~~up the tree climbed it~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The car stopped suddenly and out ___ Daniel.",
+      "hint": "(jump)",
+      "answers": ["jumped"],
+      "explanation": "After a front-position direction adverb, the subject follows a verb of movement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Outside the door ___ two small children.",
+      "hint": "(stand)",
+      "answers": ["stood"],
+      "explanation": "Stand indicates being in a position, so the subject can follow the verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Next to the bookshelf ___.",
+      "options": ["was a fireplace", "a fireplace was", "were a fireplace"],
+      "answer": 0,
+      "explanation": "With be after a front-position place adverbial, the subject must come after the verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "The man released the monkey and up the tree it climbed.",
+      "answer": true,
+      "explanation": "Correct. The subject is a pronoun, so there is no inversion: not up the tree climbed it."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the garden built Nik a play house for the children.",
+      "answer": false,
+      "explanation": "In the garden Nik built a play house for the children. Transitive verbs don't allow this inversion."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The police searched the house. Under the floorboards ___.",
+      "options": ["they found a body", "found they a body", "a body found they"],
+      "answer": 0,
+      "explanation": "There is an object here (a body) and a pronoun subject, so the normal order stays."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the direction adverb at the front and invert the subject and verb.",
+      "words": ["The door burst open", "and", "in", "marched", "a delegation", "from the striking workers."],
+      "answer": "The door burst open and in marched a delegation from the striking workers.",
+      "explanation": "March is a verb of movement to a position, and the subject is not a pronoun, so inversion works."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I trusted Dan completely, and only later ___ I realise that he had tricked me.",
+      "hint": "one word",
+      "answers": ["did"],
+      "explanation": "With no auxiliary and a main verb that isn't be, we use do after a front-position negative time adverbial."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Begin with *at no time*.",
+      "words": ["At no time", "were", "members of the public", "in", "danger."],
+      "answer": "At no time were members of the public in danger.",
+      "explanation": "After at no time in front position, the subject follows main verb be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After a few days of relative calm, next ___ a blizzard, preventing us from leaving the hut.",
+      "hint": "(come)",
+      "answers": ["came"],
+      "explanation": "First, next, now and then + come in front position put the subject after the verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "I walk to work for the exercise, and I twice a week play squash.",
+      "answer": false,
+      "explanation": "... and I play squash twice a week. / ... and twice a week I play squash. Adverbials of definite frequency cannot go in mid position."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can this time adverbial be moved to front position?",
+      "categories": ["Can go in front position", "Can only go in end position"],
+      "items": [
+        { "text": "last week", "category": 0 },
+        { "text": "daily", "category": 1 },
+        { "text": "by next Friday", "category": 0 },
+        { "text": "hourly", "category": 1 },
+        { "text": "at no time", "category": 0 },
+        { "text": "annually", "category": 1 },
+        { "text": "twice a week", "category": 0 },
+        { "text": "monthly", "category": 1 }
+      ]
+    }
+  ]
+}

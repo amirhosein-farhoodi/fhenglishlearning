@@ -1,0 +1,175 @@
+{
+  "number": 55,
+  "title": "go to ... go on ... go for ... go -ing",
+  "subtitle": "go to work / go on holiday / go for a walk / go swimming",
+  "summary": "Choose the right word after go: to a place, on holiday, for a walk, or go + -ing for sports and shopping.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "go to ...",
+      "text": "We use **go to** + a place: go to work, go to London, go to a concert. **go to sleep** means *start to sleep*.",
+      "examples": [
+        { "text": "What time do you usually **go to work**?" },
+        { "text": "I'm **going to China** next week." },
+        { "text": "Sophie didn't want to **go to the concert**." },
+        { "text": "*A:* Where's Tom? *B:* He's **gone to bed**." },
+        { "text": "I was very tired and **went to sleep** quickly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go home",
+      "text": "But we say **go home** with no *to*.",
+      "examples": [
+        { "text": "I'm **going home** now.", "wrong": "going to home" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "go on ... / go for ... / go + -ing",
+      "columns": ["go on ...", "go (somewhere) for ...", "go + -ing"],
+      "rows": [
+        ["holiday", "a walk", "shopping"],
+        ["a trip", "a run", "swimming"],
+        ["a tour", "a swim", "fishing"],
+        ["an excursion", "a drink", "sailing"],
+        ["a cruise", "a meal", "skiing"],
+        ["strike", "-", "jogging"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go on ...",
+      "text": "Use **go on** for holidays and journeys, and also for *strike* (= when workers refuse to work).",
+      "examples": [
+        { "text": "We're **going on holiday** next week." },
+        { "text": "Children often **go on school trips**." },
+        { "text": "When we were in Scotland, we **went on a lot of excursions** to different places." },
+        { "text": "Workers at the airport have **gone on strike**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go for ...",
+      "text": "Use **go for** when you go out and do something for a short time: a walk, a run, a swim, a drink, a meal.",
+      "examples": [
+        { "text": "*A:* Where's Emma? *B:* She's **gone for a walk**." },
+        { "text": "Do you **go for a run** every morning?" },
+        { "text": "The water looks nice. I'm **going for a swim**." },
+        { "text": "I met Chris in town, so we **went for a coffee**." },
+        { "text": "Shall we **go out for a meal**? I know a good restaurant." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go + -ing",
+      "text": "We use **go** + **-ing** for many sports and also for **shopping**. You can use it with go, goes, going, went and gone.",
+      "examples": [
+        { "text": "Are you **going shopping** this afternoon?" },
+        { "text": "It's a nice day. Let's **go swimming**.", "note": "or Let's go for a swim." },
+        { "text": "Richard has a small boat and he often **goes sailing**." },
+        { "text": "I **went jogging** before breakfast this morning." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *go home* and *go shopping* with no preposition, but *go to work*, *go on holiday* and *go for a walk* with one."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Sue went ___ Mexico last year.",
+      "hint": "(to / on / for)",
+      "answers": ["to"],
+      "explanation": "go to + a place: went to Mexico."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going out ___ a walk. Do you want to come?",
+      "hint": "(to / on / for)",
+      "answers": ["for"],
+      "explanation": "go for a walk."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's late. I have to go ___ now.",
+      "options": ["home", "to home", "for home"],
+      "answer": 0,
+      "explanation": "go home has no preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The taxi drivers went ___ strike when I was in New York.",
+      "hint": "(to / on / for)",
+      "answers": ["on"],
+      "explanation": "go on strike."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word goes with each of these: on, for, or nothing (go + -ing)?",
+      "categories": ["go on ...", "go for ...", "go + -ing"],
+      "items": [
+        { "text": "holiday", "category": 0 },
+        { "text": "a cruise", "category": 0 },
+        { "text": "a walk", "category": 1 },
+        { "text": "a meal", "category": 1 },
+        { "text": "shopping", "category": 2 },
+        { "text": "fishing", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Richard has a boat. He often ___.",
+      "hint": "(sail)",
+      "answers": ["goes sailing"],
+      "explanation": "go + -ing for sports: he goes sailing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last Saturday Diane took her rod to the river and caught some fish. She went ___.",
+      "hint": "(fish)",
+      "answers": ["fishing"],
+      "explanation": "went + -ing: she went fishing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nicole is going on holiday next month. She is taking her skis. She is ___.",
+      "hint": "(ski)",
+      "answers": ["going skiing"],
+      "explanation": "go + -ing: she is going skiing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was very tired last night. I sat down in an armchair and went ___.",
+      "hint": "(sleep)",
+      "answers": ["to sleep"],
+      "explanation": "go to sleep = start to sleep."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm going to home now.",
+      "answer": false,
+      "explanation": "We say go home with no to: I'm going home now."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the situation with what the person does.",
+      "pairs": [
+        { "left": "Peter has to buy a few things.", "right": "He goes shopping." },
+        { "left": "We live near the mountains and it is winter.", "right": "We go skiing." },
+        { "left": "The water is warm and clean.", "right": "We go for a swim." },
+        { "left": "Tina wants to study psychology.", "right": "She goes to university." },
+        { "left": "Richard has got a horse.", "right": "He goes riding." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Martin has plans for next week. Put the sentence in order.",
+      "words": ["Martin", "is", "going", "on", "holiday", "to", "Italy", "next", "week."],
+      "answer": "Martin is going on holiday to Italy next week.",
+      "explanation": "go on holiday, and go to + a place: on holiday to Italy."
+    }
+  ]
+}

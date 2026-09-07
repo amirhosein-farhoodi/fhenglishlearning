@@ -1,0 +1,178 @@
+{
+  "number": 105,
+  "title": "before after during while",
+  "subtitle": "before the film / during the film / while we were playing",
+  "summary": "Use before, during and after with a noun, while with a subject and a verb, and for with a period of time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "before, during and after",
+      "text": "Think of an evening at the cinema. First you wait in the queue for your ticket: that is **before** the film. Then you sit and watch: that is **during** the film. Then everybody walks out: that is **after** the film. All three words can take a noun.",
+      "examples": [
+        { "text": "Everybody feels nervous **before exams**." },
+        { "text": "I fell asleep **during the film**." },
+        { "text": "We were tired **after our visit** to the museum." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "before, while and after + a sentence",
+      "text": "**before**, **while** and **after** can also take a subject and a verb. Two friends arrive at the tennis club: that is **before** they played. One hits the ball over the net: that is **while** they were playing. Then they sit with a cold drink: that is **after** they played.",
+      "examples": [
+        { "text": "Don't forget to close the window **before you go out**." },
+        { "text": "I often fall asleep **while I'm reading**." },
+        { "text": "They went home **after they did the shopping**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "during or while?",
+      "left": {
+        "label": "during + a noun",
+        "text": "After **during** we put a thing, not a verb.",
+        "examples": [
+          "We didn't speak **during the meal**.",
+          "The students looked very bored **during the lesson**."
+        ]
+      },
+      "right": {
+        "label": "while + a subject and verb",
+        "text": "After **while** we put somebody and what they do or did.",
+        "examples": [
+          "We didn't speak **while we were eating**.",
+          "Gary called **while you were out**."
+        ]
+      },
+      "note": "Say *while we were eating*, not ~~during we were eating~~."
+    },
+    {
+      "type": "explain",
+      "heading": "for + a period of time",
+      "text": "For a period of time (two hours, five days, a year) we use **for**, not *during*.",
+      "examples": [
+        { "text": "We played tennis **for two hours**.", "wrong": "during two hours" },
+        { "text": "I lived in London **for a year**.", "wrong": "during a year" },
+        { "text": "Last night I watched TV **for three hours**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "before / after + -ing",
+      "text": "After **before** and **after** we can use **-ing**: *before going*, *after eating*. Never use *to* here.",
+      "examples": [
+        { "text": "I always have breakfast **before going** to work.", "note": "= before I go to work" },
+        { "text": "**After doing** the shopping, they went home.", "note": "= after they did the shopping" },
+        { "text": "**Before eating** the apple, I washed it carefully.", "wrong": "Before to eat" },
+        { "text": "I started work **after reading** the newspaper.", "wrong": "after to read" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What comes after each word?",
+      "columns": ["Word", "What comes after it"],
+      "rows": [
+        ["during", "a noun: during the film, during the night"],
+        ["while", "a subject and verb: while I'm reading, while we were eating"],
+        ["for", "a period of time: for two hours, for a year"],
+        ["before / after", "a noun, a subject and verb, or -ing"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember **before going** and **after doing**, not ~~before to go~~ or ~~after to do~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I usually work four hours in the morning, and another three hours ___ lunch.",
+      "hint": "(after / during)",
+      "answers": ["after"],
+      "explanation": "The three hours come later, so we use after + a noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The film was really boring. We left ___ the end.",
+      "hint": "(before / while)",
+      "answers": ["before"],
+      "explanation": "They left earlier than the end, so we use before + a noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna went to evening classes to learn German. She learnt a lot ___ the course.",
+      "hint": "(during / while)",
+      "answers": ["during"],
+      "explanation": "the course is a noun, so we use during."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each phrase come after during or after while?",
+      "categories": ["during", "while"],
+      "items": [
+        { "text": "the meal", "category": 0 },
+        { "text": "we were eating", "category": 1 },
+        { "text": "the night", "category": 0 },
+        { "text": "you were out", "category": 1 },
+        { "text": "the lesson", "category": 0 },
+        { "text": "she was on holiday", "category": 1 },
+        { "text": "the course", "category": 0 },
+        { "text": "I'm reading", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gary called ___ you were out.",
+      "hint": "(during / while / for)",
+      "answers": ["while"],
+      "explanation": "you were out is a subject and a verb, so we use while."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I stayed in Rome ___ five days.",
+      "hint": "(during / while / for)",
+      "answers": ["for"],
+      "explanation": "five days is a period of time, so we use for."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't usually watch TV during the day.",
+      "answer": true,
+      "explanation": "the day is a noun, so during is correct."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Somebody broke a window ___. Did you hear anything? *B:* No, I was asleep all the time.",
+      "options": ["during the night", "while the night", "during it was night"],
+      "answer": 0,
+      "explanation": "the night is a noun, so we use during the night."
+    },
+    {
+      "type": "true_false",
+      "statement": "We played tennis during two hours.",
+      "answer": false,
+      "explanation": "We played tennis for two hours. Use for with a period of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I felt sick after ___ too much chocolate.",
+      "hint": "(eat)",
+      "answers": ["eating"],
+      "explanation": "After after we use the -ing form: after eating."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to ask you a question. Think carefully before ___ it.",
+      "hint": "(answer)",
+      "answers": ["answering"],
+      "explanation": "After before we use the -ing form: before answering."
+    },
+    {
+      "type": "word_order",
+      "prompt": "John left school. Then he worked in a bookshop for two years. Write it as one sentence with after + -ing.",
+      "words": ["John", "worked", "in a bookshop", "for two years", "after", "leaving", "school."],
+      "answer": "John worked in a bookshop for two years after leaving school.",
+      "explanation": "after + -ing: after leaving school."
+    }
+  ]
+}

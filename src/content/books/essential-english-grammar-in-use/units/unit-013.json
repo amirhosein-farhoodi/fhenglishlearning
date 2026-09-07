@@ -1,0 +1,179 @@
+{
+  "number": 13,
+  "title": "I was doing (past continuous)",
+  "subtitle": "was/were + -ing",
+  "summary": "Use was/were + -ing to say what somebody was in the middle of doing at a time in the past.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Paul at 4 o'clock and now",
+      "text": "It is 6 o'clock now. Paul is at home and **he is watching** television. At 4 o'clock he **wasn't** at home. He **was** at the sports club. **He was swimming** in the pool. **He wasn't watching** television.",
+      "examples": [
+        { "text": "Paul **is watching** television now." },
+        { "text": "At 4 o'clock he **was swimming** in the pool." },
+        { "text": "At 4 o'clock he **wasn't watching** television." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the middle of doing something",
+      "text": "Paul started swimming at 3.30 and finished at 4.15. So at 4 o'clock **he was swimming**. He was in the middle of his swim. **I was doing something** = I started it before that time and I finished it after that time.",
+      "examples": [
+        { "text": "He started swimming at 3.30.", "note": "past simple - the start" },
+        { "text": "At 4 o'clock he **was swimming**.", "note": "past continuous - in the middle" },
+        { "text": "He finished swimming at 4.15.", "note": "past simple - the end" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Positive and negative",
+      "columns": ["Subject", "was / were", "Negative", "-ing"],
+      "rows": [
+        ["I / he / she / it", "was", "was not (wasn't)", "doing"],
+        ["we / you / they", "were", "were not (weren't)", "playing"]
+      ],
+      "note": "Spelling: live -> liv**ing**, run -> ru**nning**, lie -> **lying**."
+    },
+    {
+      "type": "table",
+      "heading": "Questions",
+      "columns": ["was / were", "Subject", "-ing"],
+      "rows": [
+        ["Was", "I / he / she / it", "watching?"],
+        ["Were", "we / you / they", "living?"]
+      ],
+      "note": "With a question word, put it first: *What **were** you **doing**?*"
+    },
+    {
+      "type": "explain",
+      "heading": "Examples",
+      "text": "We often use the past continuous to say what was happening at a time in the past, or to describe the background of a story.",
+      "examples": [
+        { "text": "What **were** you **doing** at 11.30 yesterday? **Were** you **working**?" },
+        { "text": "'What did he say?' 'I don't know. **I wasn't listening**.'" },
+        { "text": "**It was raining**, so we didn't go out." },
+        { "text": "In 2001 we **were living** in Canada." },
+        { "text": "I woke up early yesterday. It was a beautiful morning. The sun **was shining** and the birds **were singing**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present and past",
+      "left": {
+        "label": "present: am/is/are + -ing",
+        "examples": [
+          "**I'm working** (now).",
+          "**It isn't raining** (now).",
+          "What **are** you **doing** (now)?"
+        ]
+      },
+      "right": {
+        "label": "past: was/were + -ing",
+        "examples": [
+          "**I was working** at 10.30 last night.",
+          "**It wasn't raining** when we went out.",
+          "What **were** you **doing** at three o'clock?"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Say who or what you are talking about and then was or were: *she **was** reading*, not ~~she reading~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "At 3 o'clock yesterday Jack and Kate were at the cinema. ___ a film.",
+      "hint": "(they / watch)",
+      "answers": ["They were watching"],
+      "explanation": "they + were + -ing: They were watching a film."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At 3 o'clock Tracey was at the station. She ___ for a train.",
+      "hint": "(wait)",
+      "answers": ["was waiting"],
+      "explanation": "She was in the middle of waiting, so: she was waiting."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        { "left": "Where were you living in 1999?", "right": "In London." },
+        { "left": "What were you doing at 2 o'clock?", "right": "I was asleep." },
+        { "left": "Was it raining when you got up?", "right": "No, it was sunny." },
+        { "left": "Why was Sue driving so fast?", "right": "Because she was late." },
+        { "left": "Was Tim wearing a suit yesterday?", "right": "No, a T-shirt and jeans." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'What did he say?' 'I don't know. I ___.'",
+      "options": ["wasn't listening", "didn't listening", "not listening"],
+      "answer": 0,
+      "explanation": "The negative past continuous is wasn't/weren't + -ing: I wasn't listening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah played tennis from 10.15 to 11.45 yesterday. So at 10.45 ___ tennis.",
+      "hint": "(she / play)",
+      "answers": ["she was playing"],
+      "explanation": "10.45 is in the middle of the game, so: she was playing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend has moved house a few times. Ask about 1999.",
+      "words": ["Where", "were", "you", "living", "in 1999?"],
+      "answer": "Where were you living in 1999?",
+      "explanation": "Question word + were + subject + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "In 2001 we were living in Canada.",
+      "answer": true,
+      "explanation": "Correct. was/were + -ing is the past continuous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah had breakfast from 7.10 to 7.25. So at 7.15 ___ breakfast.",
+      "hint": "(she / have)",
+      "answers": ["she was having"],
+      "explanation": "At 7.15 the breakfast was not finished: she was having breakfast."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about now (present) or about a time in the past?",
+      "categories": ["Now (present)", "A time in the past"],
+      "items": [
+        { "text": "I'm working.", "category": 0 },
+        { "text": "I was working at 10.30 last night.", "category": 1 },
+        { "text": "It isn't raining.", "category": 0 },
+        { "text": "It wasn't raining when we went out.", "category": 1 },
+        { "text": "What are you doing?", "category": 0 },
+        { "text": "What were you doing at three o'clock?", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I woke up early. The sun was shine and the birds were singing.",
+      "answer": false,
+      "explanation": "The sun was shining and the birds were singing. After was/were the verb needs -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Sue drove past you very fast. Ask why.",
+      "words": ["Why", "was", "Sue", "driving", "so", "fast?"],
+      "answer": "Why was Sue driving so fast?",
+      "explanation": "Question word + was + subject + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You saw Joe in the street. He had a shopping bag and he said 'I'm going shopping.' So ___ to the dentist.",
+      "hint": "(he / go) - negative",
+      "answers": ["he wasn't going", "he was not going"],
+      "explanation": "Negative past continuous: he wasn't going to the dentist."
+    }
+  ]
+}

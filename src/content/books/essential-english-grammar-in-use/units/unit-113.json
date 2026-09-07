@@ -1,0 +1,164 @@
+{
+  "number": 113,
+  "title": "listen to ... , look at ... etc. (verb + preposition)",
+  "subtitle": "listen to the radio / wait for a taxi / look after the children",
+  "summary": "Learn which preposition goes after verbs like listen, wait, belong, think and look, and see the difference between look at, look for and look after.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "verb + preposition",
+      "columns": ["Verb + preposition", "Example"],
+      "rows": [
+        ["ask (somebody) for ...", "A man stopped me and **asked** me **for** money."],
+        ["belong to ...", "Does this book **belong to** you?"],
+        ["happen to ...", "I can't find my pen. What's **happened to** it?"],
+        ["listen to ...", "**Listen to** this music. It's great."],
+        ["speak/talk to somebody about something", "Did you **talk to** Paul **about** the problem?"],
+        ["thank somebody for ...", "**Thank** you very much **for** your help."],
+        ["think about ... or think of ...", "He never **thinks about** (or **of**) other people."],
+        ["wait for ...", "**Wait for** me. I'm nearly ready."],
+        ["write to somebody", "I couldn't contact the company by phone. I had to **write to** them."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "phone/call somebody",
+      "text": "After **phone** and **call** we do not use **to**. We phone a person, but we write **to** a person.",
+      "examples": [
+        { "text": "I'm going to **phone** my parents this evening.", "wrong": "phone to my parents" },
+        { "text": "Can I **speak to** Chris, please?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "look at",
+      "text": "**look at** = turn your eyes to somebody or something.",
+      "examples": [
+        { "text": "He's **looking at** his watch." },
+        { "text": "**Look at** these flowers! They're beautiful." },
+        { "text": "Why are you **looking at** me like that?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "look for or look after?",
+      "left": {
+        "label": "look for (= try to find)",
+        "examples": [
+          "She's lost her key. She's **looking for** it.",
+          "I'm **looking for** Sarah. Have you seen her?"
+        ]
+      },
+      "right": {
+        "label": "look after (= take care of, keep safe)",
+        "examples": [
+          "When Emily is at work, a friend of hers **looks after** her children.",
+          "Don't lose this book. **Look after** it."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "depend on",
+      "text": "We say **depend on** something. You can say *it depends what/where/how* with or without **on**.",
+      "examples": [
+        { "text": "*A:* Do you like eating in restaurants? *B:* Sometimes. It **depends on** the restaurant.", "wrong": "it depends of" },
+        { "text": "*A:* Do you want to come out with us? *B:* It **depends where** you're going.", "note": "or It depends on where you're going." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We *phone* somebody, but we *write to* somebody: *I phoned Chris* and *I wrote to Chris*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He's sitting in his chair and he's listening ___ the radio.",
+      "answers": ["to"],
+      "explanation": "listen to something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They are standing at the taxi rank. They're waiting ___ a taxi.",
+      "answers": ["for"],
+      "explanation": "wait for somebody or something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul is talking ___ Jane.",
+      "answers": ["to"],
+      "explanation": "talk to a person about something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sue can't find Tom. She says, 'Where's Tom?' She is looking ___ Tom.",
+      "options": ["for", "at", "after"],
+      "answer": 0,
+      "explanation": "look for = try to find."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with its ending.",
+      "pairs": [
+        { "left": "Listen", "right": "to this music!" },
+        { "left": "Wait", "right": "for me." },
+        { "left": "Look", "right": "at these flowers!" },
+        { "left": "It depends", "right": "on the restaurant." },
+        { "left": "Thank you", "right": "for your help." },
+        { "left": "Does this book belong", "right": "to you?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This isn't my umbrella. It belongs ___ a friend of mine.",
+      "answers": ["to"],
+      "explanation": "belong to somebody."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We asked the waiter ___ coffee, but he brought us tea.",
+      "answers": ["for"],
+      "explanation": "ask somebody for something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Do you like reading books?' 'It depends ___ the book.'",
+      "answers": ["on"],
+      "explanation": "depend on, not depend of."
+    },
+    {
+      "type": "true_false",
+      "statement": "Don't forget to phone to your mother tonight.",
+      "answer": false,
+      "explanation": "Don't forget to phone your mother tonight. We do not use to after phone."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word completes each sentence: at, after or for?",
+      "categories": ["at", "after", "for"],
+      "items": [
+        { "text": "I looked ___ the newspaper, but I didn't read it carefully.", "category": 0 },
+        { "text": "I want to take a photograph of you. Please look ___ the camera and smile.", "category": 0 },
+        { "text": "When you are ill, you need somebody to look ___ you.", "category": 1 },
+        { "text": "Goodbye! Have a great holiday and look ___ yourself.", "category": 1 },
+        { "text": "Excuse me, I'm looking ___ Hill Street. Can you tell me where it is?", "category": 2 },
+        { "text": "Barry is looking ___ a job. He wants to work in a hotel.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Catherine is thinking ___ changing her job.",
+      "answers": ["of", "about"],
+      "explanation": "think of or think about doing something - both are correct."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a question about a problem.",
+      "words": ["Did", "you", "talk", "to Paul", "about the problem?"],
+      "answer": "Did you talk to Paul about the problem?",
+      "explanation": "talk to somebody about something."
+    }
+  ]
+}

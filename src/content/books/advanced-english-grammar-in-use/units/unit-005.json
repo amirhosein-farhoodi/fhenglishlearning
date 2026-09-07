@@ -1,0 +1,155 @@
+{
+  "number": 5,
+  "title": "Past perfect and past simple",
+  "subtitle": "the present she had given me",
+  "summary": "Use the past perfect to step back out of a sequence of past events, and know when the past simple is just as good.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "An event out of order",
+      "text": "We normally tell a sequence of past events in order, using the past simple. When we need to mention an event *out of order* - one that happened before the last event we spoke about - we can use the past perfect.",
+      "examples": [
+        { "text": "I **wrote** Clara an email to thank her for the present she **had given** me for my birthday last week." },
+        { "text": "But as soon as I **pressed** the 'send' button, I **realised** that I **had made** a mistake and sent it to her sister instead." }
+      ],
+      "note": "Order the events happened: gave present - wrote email - made mistake - realised mistake. Order they are mentioned: wrote email - had given present - realised - had made a mistake."
+    },
+    {
+      "type": "explain",
+      "heading": "You don't have to keep it up",
+      "text": "Once it is clear that we are talking about events before another past event, we can drop back into the past simple.",
+      "examples": [
+        { "text": "We bought a new car last month. We**'d driven** my parents' old car for ages, but it **started** to fall apart. We **put** a new engine in it, but that **didn't solve** the problems we were having.", "note": "or ... had started ... had put ... hadn't solved ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When the order is already clear",
+      "text": "If time expressions or the context already make the order of events clear, either tense will do.",
+      "examples": [
+        { "text": "After Ivan **had finished** reading, he put out the light.", "note": "or ... Ivan finished ..." },
+        { "text": "The two leaders agreed to meet, even though earlier talks **had failed** to reach an agreement.", "note": "or ... talks failed ..." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Reporting what was said or thought",
+      "columns": ["Original words", "Reporting that past event"],
+      "rows": [
+        ["'I have met him before.'", "I was sure that I **had met** him before. (not ~~I met him~~)"],
+        ["'The village hasn't changed much.'", "I found that the village **hadn't changed** much. (not ~~the village didn't change~~)"],
+        ["'225 people drowned in the recent floods.'", "Police said that 225 people **had drowned** in the recent floods. (or ... drowned ...)"],
+        ["'I stole the watch.'", "She admitted that she **had stolen** the watch. (or ... stole ...)"]
+      ],
+      "note": "A present perfect in the original words has to become a past perfect. An original past simple can stay a past simple."
+    },
+    {
+      "type": "explain",
+      "heading": "Intentions that came to nothing",
+      "text": "For things we intended to do but didn't - or won't do now - the past perfect, past simple, past continuous and past perfect continuous are all possible.",
+      "examples": [
+        { "text": "I **had hoped** to visit the gallery before I left Florence, but it's closed on Mondays.", "note": "or I hoped ..., I was hoping ..., I had been hoping ..." },
+        { "text": "Aron **planned** to retire at 60, but we have persuaded him to stay for a few more years.", "note": "or Aron had planned ..., was planning ..., had been planning ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The past perfect is a signal, not a rule: use it when a reader could otherwise get the order of events wrong."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "As Jonas was introduced to Mrs Lopez, he realised that he ___ her before.",
+      "options": ["had met", "met", "was meeting"],
+      "answer": 0,
+      "explanation": "His thought was 'I have met her before', and a present perfect becomes a past perfect when reported."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I thought it was the best film I ___ in my life.",
+      "hint": "(see)",
+      "answers": ["had seen", "'d seen"],
+      "explanation": "The original thought was 'the best film I've seen', so the report needs the past perfect."
+    },
+    {
+      "type": "true_false",
+      "statement": "I found that the village didn't change much.",
+      "answer": false,
+      "explanation": "I found that the village hadn't changed much. The original words were 'The village hasn't changed much.'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The boy told me that he ___ his train ticket and didn't know how he would get home.",
+      "hint": "(lose)",
+      "answers": ["had lost", "'d lost"],
+      "explanation": "Losing the ticket happened before he told me, so the past perfect marks the earlier event."
+    },
+    {
+      "type": "true_false",
+      "statement": "The teacher guessed that some of the children had cheated in the exam.",
+      "answer": true,
+      "explanation": "Correct. Here the past simple (cheated) would also be possible, because the order is already clear."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each unfulfilled intention with the way it turned out.",
+      "pairs": [
+        { "left": "I had hoped to leave by nine,", "right": "but I overslept and missed the train." },
+        { "left": "Lara hadn't intended to become a dentist;", "right": "she always wanted to be a vet." },
+        { "left": "I had expected the operation to be painful,", "right": "but I didn't feel a thing." },
+        { "left": "I hadn't thought of cooking rabbit,", "right": "until Andrei told me how tasty it was." },
+        { "left": "He hadn't meant to insult her,", "right": "but Daria was very offended." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the conference, scientists reported that they ___ a cure for malaria.",
+      "hint": "(find)",
+      "answers": ["had found", "'d found"],
+      "explanation": "The discovery came before the report, so the past perfect keeps the order clear."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I asked Maria about Jakub, she admitted that she ___ from him for ages.",
+      "hint": "(not hear)",
+      "answers": ["hadn't heard", "had not heard"],
+      "explanation": "Her words were 'I haven't heard from him for ages', so the report uses the past perfect."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You overslept and missed the train. Explain what your plan had been.",
+      "words": ["I had hoped", "to leave", "by nine,", "but I overslept", "and missed the train."],
+      "answer": "I had hoped to leave by nine, but I overslept and missed the train.",
+      "explanation": "The past perfect of hope introduces an intention that came to nothing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She said that she ___ her mind who to vote for, and that I couldn't persuade her to change.",
+      "hint": "(make up)",
+      "answers": ["had made up", "'d made up"],
+      "explanation": "Her words were 'I've made up my mind', which becomes a past perfect in the report."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julia said she didn't want any dinner. Apparently, she ___ already.",
+      "hint": "(eat)",
+      "answers": ["had eaten", "'d eaten"],
+      "explanation": "Eating came before she spoke, and already points back to the earlier event."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In these reports, is the past perfect the only possibility, or would the past simple work too?",
+      "categories": ["Past perfect only", "Past perfect or past simple"],
+      "items": [
+        { "text": "He realised that he had met her before.", "category": 0 },
+        { "text": "He denied that he had taken the money from the office.", "category": 1 },
+        { "text": "I thought it was the best film I had seen in my life.", "category": 0 },
+        { "text": "The teacher guessed that some of the children had cheated in the exam.", "category": 1 },
+        { "text": "She said that she had made up her mind who to vote for.", "category": 0 },
+        { "text": "Thomas explained that he had gone home early because he felt ill.", "category": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "number": 92,
+  "title": "Prepositions after verbs",
+  "subtitle": "agree with / care for / talk of / ask of",
+  "summary": "Choose the right preposition after agree, argue, ask, care, know, learn and talk, and notice how the preposition changes the meaning.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Which prepositions follow these verbs?",
+      "columns": ["Verb", "Prepositions"],
+      "rows": [
+        ["agree", "about, on, to, with"],
+        ["argue", "about, for, with"],
+        ["ask", "about, for, of"],
+        ["care", "about, for"],
+        ["know", "about, of"],
+        ["learn", "about, of"],
+        ["talk", "about, of, on, with"]
+      ],
+      "note": "The choice is not free: each preposition adds a particular meaning."
+    },
+    {
+      "type": "explain",
+      "heading": "about = concerning a particular thing",
+      "text": "**about** is the everyday choice when we mean 'concerning a particular thing'. With **care about** we talk about something we are, or are not, concerned about.",
+      "examples": [
+        { "text": "They began to learn **about** nutrition when they were at primary school." },
+        { "text": "He doesn't seem to care **about** the effect a poor diet has on him." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for = what people want, and looking after",
+      "text": "**ask for** is used for what people want, and **argue for** for giving reasons why something is true or right. **care for** means doing the necessary things to keep someone or something in good condition.",
+      "examples": [
+        { "text": "He finished the drink quickly and asked **for** another." },
+        { "text": "Many people are arguing **for** a big tax cut." },
+        { "text": "Jo cared **for** her disabled mother until her death last year.", "note": "or Jo took care of ..." },
+        { "text": "I don't care **for** the theatre much. / Would you care **for** a cup of coffee?", "note": "care for = like, or want in an offer - both rather formal" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "of = information, and requests",
+      "text": "**of** goes with talk, know and learn when we discuss, have or get information. It is a little more formal than about. **ask of** is used when we make or talk about requests.",
+      "examples": [
+        { "text": "Mira went recently to Laos and can talk **of** nothing else.", "note": "or, less formally, ... talk about ..." },
+        { "text": "The whole country knew **of** Churchill's love of cigars.", "note": "or, less formally, ... knew about ..." },
+        { "text": "I have just learnt **of** the death of Dr Ramirez." },
+        { "text": "I have a favour to ask **of** you and your sister." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on and to",
+      "text": "**on** goes with talk and agree to mean 'concerned with a particular topic'. Note that **agree to** means that someone allows something to happen.",
+      "examples": [
+        { "text": "I was asked to talk **on** my research.", "note": "or ... to talk about ..." },
+        { "text": "We agreed **on** a time to meet.", "note": "usually there has been previous discussion or disagreement" },
+        { "text": "Once the government agreed **to** the scheme it went ahead without delay." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "with = the other person, or the same opinion",
+      "text": "**with** follows argue and talk when we go on to mention the person involved. **agree with** says that two people have the same opinion, that we approve of an idea or action, or that two descriptions match.",
+      "examples": [
+        { "text": "I used to argue / talk **with** Pedro for hours." },
+        { "text": "Adam thinks we should accept the offer, and I agree **with** him." },
+        { "text": "I agree **with** letting children choose the clothes they wear.", "note": "or I agree about / on ..." },
+        { "text": "Stefan's story agreed **with** that of his son." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask what the preposition is doing: naming a topic (about, on), a source of information (of), a want (for), or the other person (with)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "On the website they ask ___ your email address.",
+      "hint": "(ask)",
+      "answers": ["for"],
+      "explanation": "ask for + what someone wants."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We can learn a great deal ___ the oceans by studying even a small piece of coral.",
+      "options": ["about", "after", "for"],
+      "answer": 0,
+      "explanation": "learn about = get information concerning a particular thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't care ___ pop music at all. I much prefer classical music.",
+      "hint": "(care)",
+      "answers": ["for"],
+      "explanation": "care for = like; it is common in negative sentences and is rather formal."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I didn't agree ___ a word of what she said.",
+      "options": ["with", "about", "for"],
+      "answer": 0,
+      "explanation": "agree with = have the same opinion as someone, or approve of what is said."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition completes each sentence?",
+      "categories": ["about", "of", "for"],
+      "items": [
+        { "text": "They began to learn ... nutrition when they were at primary school.", "category": 0 },
+        { "text": "The whole country knew ... Churchill's love of cigars.", "category": 1 },
+        { "text": "He finished the drink quickly and asked ... another.", "category": 2 },
+        { "text": "I have a favour to ask ... you and your sister.", "category": 1 },
+        { "text": "*A:* Dan said he'll try to fix my car. *B:* What does he know ... cars?", "category": 0 },
+        { "text": "Many people are arguing ... a big tax cut.", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Professor Owen is giving a talk ___ the Romans in Lecture Hall 1.",
+      "options": ["on", "of", "with"],
+      "answer": 0,
+      "explanation": "talk on (or about) a topic; talk of is used for having information, not for the subject of a lecture."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The teacher says we've got to do the test, so there's no point in arguing ___ it.",
+      "hint": "(argue)",
+      "answers": ["about"],
+      "explanation": "argue about = disagree concerning a particular thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's always arguing ___ her parents about what to watch on television.",
+      "hint": "(argue)",
+      "answers": ["with"],
+      "explanation": "argue with + the person involved."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jo cared about her disabled mother until her death last year.",
+      "answer": false,
+      "explanation": "Jo cared for her disabled mother until her death last year. care for = look after; care about = be concerned about."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know it's a lot to ask ___ you, but would you look after the children while I'm in Japan on business?",
+      "hint": "(ask)",
+      "answers": ["of"],
+      "explanation": "ask of is used when we make or talk about a request."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you know ___ any reasons why you should not be given medical insurance, you must declare them here.",
+      "hint": "(know)",
+      "answers": ["of"],
+      "explanation": "know of = have information about; about is unlikely in such a formal context."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the meaning of its verb + preposition.",
+      "pairs": [
+        { "left": "The police acted on the information very quickly.", "right": "did what someone else had advised or suggested" },
+        { "left": "I couldn't be at the meeting, so my solicitor acted for me.", "right": "represented me" },
+        { "left": "Doctors have called on the Health Minister to resign.", "right": "have formally asked her to do it" },
+        { "left": "Campaigners have called for a referendum on the issue.", "right": "have demanded one" },
+        { "left": "We're counting on Julia to supply the food for the party.", "right": "depending on her" },
+        { "left": "Playing exciting basketball counts for little if the team isn't winning.", "right": "is of little value" }
+      ]
+    }
+  ]
+}

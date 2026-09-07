@@ -1,0 +1,182 @@
+{
+  "number": 27,
+  "title": "Negative questions; echo questions; questions with that-clauses",
+  "subtitle": "Didn't she realise? / He's what?",
+  "summary": "Use negative questions to suggest, persuade or criticise, use echo questions to check what you heard, and know when that must be left out.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Negative questions",
+      "text": "We usually make a negative yes/no or wh-question with an auxiliary verb (*have, did, would* ...) + **-n't**. We use them to suggest, to persuade, to criticise and so on.",
+      "examples": [
+        { "text": "**Wouldn't** it be better to go tomorrow?", "note": "a suggestion" },
+        { "text": "**Why don't** we go out for a meal?", "note": "a suggestion" },
+        { "text": "*A:* Can you lend me £10? *B:* Again? **Haven't** you got any money left?", "note": "surprise, mild criticism" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not after the subject: more emphatic",
+      "text": "In formal contexts, or when we want to give the negative special emphasis - to show that we are angry or very surprised, or to persuade someone strongly - we put **not** after the subject. This happens particularly in yes/no questions rather than wh-questions.",
+      "examples": [
+        { "text": "**Did she not realise** that she'd broken it?", "note": "less emphatically Didn't she realise that ...?" },
+        { "text": "**Can you not** get there a bit earlier?", "note": "less emphatically Can't you ...?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two ways of being negative",
+      "left": {
+        "label": "More emphatic: never, no, nobody, nothing, nowhere",
+        "examples": [
+          "Why do you **never** help?",
+          "Have you **nowhere** to go? (or Do you have nowhere to go?)"
+        ]
+      },
+      "right": {
+        "label": "Less emphatic or more informal: -n't + ever / any / anybody",
+        "examples": [
+          "Why **don't** you **ever** help?",
+          "**Haven't** you got **anywhere** to go? (or Don't you have anywhere ... ?)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Suggestions and criticism with why",
+      "text": "Make a suggestion with **Why not + verb** or **Why don't / doesn't ...** - but never *Why do not ...*. **Why didn't ...** is not used for a suggestion; depending on intonation and context it can criticise someone.",
+      "examples": [
+        { "text": "**Why not** decorate the house yourself?", "note": "or Why don't you decorate ...?" },
+        { "text": "**Why didn't** you tell me that in the first place?", "note": "= I'm annoyed that you didn't" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Exclamations",
+      "text": "Negative question forms, usually said with a **falling** intonation, are used in exclamations that give an opinion.",
+      "examples": [
+        { "text": "**Haven't you grown!**" },
+        { "text": "**Doesn't she look lovely!**" },
+        { "text": "**Didn't it snow a lot!**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Echo questions",
+      "text": "Echo questions check something we didn't hear properly or found surprising. We can repeat the whole sentence with a **rising** intonation, or focus on one part with a stressed wh-word or a phrase with *how*. **what** or *do* + **what** focuses on the verb.",
+      "examples": [
+        { "text": "*A:* Tala's lost her job. *B:* **Tala's lost her job?**" },
+        { "text": "*A:* Leon's arriving at 6:30. *B:* **When's Leon arriving?** / **Leon's arriving when?**" },
+        { "text": "*A:* We paid £3,000 for the painting. *B:* **How much did you pay?** / **You paid how much?**" },
+        { "text": "*A:* We paid £3,000 for the painting. *B:* **You what?** / **You did what?**" },
+        { "text": "*A:* I think she's having a sleep. *B:* **She's what?** / **She's doing what?**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions with that-clauses",
+      "text": "A wh-question can refer to a following **that**-clause, particularly after *expect, hope, reckon, say, suggest, suppose* and *think*, and *that* can be left out. But when the wh-word is the **subject, object or complement** of the verb in that clause, we do **not** use *that*.",
+      "examples": [
+        { "text": "**When do you reckon (that)** you'll finish the job?" },
+        { "text": "**What did you think was** in the box?", "wrong": "What did you think that was in the box" },
+        { "text": "**Who do you expect will** read your blog?", "wrong": "Who do you expect that will read your blog" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Why don't you ... ? offers help; Why didn't you ... ? usually complains. Choose the tense carefully."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can you lend me £10? *B:* Again? ___ any money left?",
+      "hint": "(you / have got) - negative",
+      "answers": ["Haven't you got"],
+      "explanation": "A negative question with -n't expressing surprise or mild criticism."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've had to bring the children with me. *B:* Why? ___ a babysitter?",
+      "hint": "(you / can / get) - negative",
+      "answers": ["Couldn't you get"],
+      "explanation": "The past form of can in a negative question: Couldn't you ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've put my bike in the sitting room. *B:* The sitting room! ___ it outside?",
+      "hint": "(you / can / leave) - negative",
+      "answers": ["Can't you leave"],
+      "explanation": "A negative question used to persuade someone to do something else."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each -n't question with its more emphatic equivalent using never, no, nobody or nowhere.",
+      "pairs": [
+        { "left": "Haven't you any interest in maths at all?", "right": "Have you no interest in maths at all?" },
+        { "left": "Couldn't you find anywhere else to sleep?", "right": "Could you find nowhere else to sleep?" },
+        { "left": "Can't you remember anything about the accident?", "right": "Can you remember nothing about the accident?" },
+        { "left": "Why don't I ever do well in exams?", "right": "Why do I never do well in exams?" },
+        { "left": "Isn't there anybody you can ask for help?", "right": "Is there nobody you can ask for help?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm annoyed that you didn't come to the meeting. *B:* Why? ___ my email saying I'd be on holiday?",
+      "hint": "(you / get) - negative",
+      "answers": ["Didn't you get"],
+      "explanation": "A negative question defending yourself against a criticism."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He's leaving at the end of next week. *B:* He's leaving ___?",
+      "hint": "(echo question)",
+      "answers": ["when"],
+      "explanation": "An echo question can put a stressed wh-word where the information was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It will cost about £15,000. *B:* It'll cost ___?",
+      "hint": "(echo question)",
+      "answers": ["how much"],
+      "explanation": "Amounts are echoed with how much: It'll cost how much? or It'll what?"
+    },
+    {
+      "type": "true_false",
+      "statement": "How do you think that Twitter will have changed our lives in ten years' time?",
+      "answer": true,
+      "explanation": "Correct. how is not the subject, object or complement of the that-clause, so that can stay."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You have only just found out that your friend changed her number. Which question is right?",
+      "options": [
+        "Why didn't you tell me you'd changed your number?",
+        "Why did not you tell me you'd changed your number?",
+        "Why not you told me you'd changed your number?"
+      ],
+      "answer": 0,
+      "explanation": "In this kind of question we use the contracted didn't; Why did not you ... ? is not used."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Mariam isn't answering her phone. *B:* Why do you not email her?",
+      "answer": false,
+      "explanation": "Why don't you email her? A suggestion uses Why not + verb or Why don't ... , never Why do not ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "Who do you expect that will read your blog?",
+      "answer": false,
+      "explanation": "Who do you expect will read your blog? When the wh-word is the subject of the following clause, we leave out that."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are astonished that she broke it without noticing. Make an emphatic negative question.",
+      "words": ["Did", "she", "not", "realise", "that", "she'd broken it?"],
+      "answer": "Did she not realise that she'd broken it?",
+      "explanation": "not after the subject is more emphatic than Didn't she realise ... ?"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "number": 50,
+  "title": "Much (of), many (of), a lot of, lots (of), etc.",
+  "subtitle": "a lot of traffic / much debate",
+  "summary": "Pick the right quantifier for the context: a lot of and lots of in conversation, much (of) and many (of) in formal writing, and the fixed patterns in between.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Conversation or formal writing?",
+      "left": {
+        "label": "a lot of, lots (of) - affirmative and informal",
+        "examples": [
+          "There's bound to be **a lot of / lots of** traffic on the way to the station.",
+          "**A lot of / Lots of** people think that hedgehogs are very rare nowadays.",
+          "... but when I was in Wales I saw **a lot / lots**."
+        ]
+      },
+      "right": {
+        "label": "much (of), many (of) - formal, e.g. academic writing",
+        "examples": [
+          "**Much** debate has been heard about Thornton's new book.",
+          "There could be **many** explanations for this.",
+          "**Much of** her fiction describes women in unhappy marriages.",
+          "**A large amount of** the food was inedible. (or **Much of** ...)",
+          "The book contains **a large number of** pictures, **many** in colour."
+        ]
+      },
+      "note": "Formal alternatives: a large / considerable / substantial amount of (uncountable nouns); a large / considerable / great / substantial number of (plural nouns)."
+    },
+    {
+      "type": "explain",
+      "heading": "much and many as pronouns",
+      "text": "In formal contexts we can use **much** and **many** on their own, with no noun after them.",
+      "examples": [
+        { "text": "There is no guarantee she will recover. **Much** depends on how well she responds to treatment." },
+        { "text": "**Many** have argued that she is the finest poet of our generation.", "note": "many = many people" },
+        { "text": "Not once did I see a tiger in the jungle, although I heard **many**.", "note": "many refers back to tiger(s)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "many with times and numbers",
+      "text": "We usually use **many** rather than *a lot of* or *lots of* with time expressions (days, minutes, months, weeks, years) and with *number + of*.",
+      "examples": [
+        { "text": "We used to spend **many hours** driving to Melbourne and back." },
+        { "text": "He was the founder of a company now worth **many millions** of pounds." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the / my / its many, and many a",
+      "text": "**Many** can follow *the, my, its, his, her*, etc. with a plural countable noun. **Many a** with a singular noun talks about a repeated event or a large number of people or things.",
+      "examples": [
+        { "text": "Among **the many** unknowns after the earthquake is the extent of damage to the foundations of buildings." },
+        { "text": "The gallery is exhibiting some of **his many** famous paintings of ships." },
+        { "text": "**Many a** pupil at the school will be pleased that Latin is no longer compulsory." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a good / great many, a good / great deal of",
+      "text": "To emphasise a large **number** we use **a good / great many** with a plural noun. To emphasise a large **amount** we use **a good / great deal of** with a singular or uncountable noun. The two are not interchangeable.",
+      "examples": [
+        { "text": "She has **a good / great many** friends in New Zealand.", "wrong": "a good deal of friends" },
+        { "text": "**A good / great deal of** the exhibition was devoted to her recent work." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "far too many, far too much",
+      "text": "We use **far** - not *much* or *many* - before **too many** + a plural countable noun and **too much** + an uncountable noun.",
+      "examples": [
+        { "text": "**Far too many** students failed the end-of-year maths exam.", "wrong": "Much too many students" },
+        { "text": "**Far too much** time is wasted filling in forms.", "wrong": "Many too much time" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "plenty of means enough",
+      "text": "We often use **plenty of** instead of *a lot of* or *lots of* with uncountable and plural countable nouns. But *plenty of* means *enough, or more than enough*, so it is unlikely where the amount is unwelcome.",
+      "examples": [
+        { "text": "We took **lots of / plenty of** food and drink on our walk through the hills." },
+        { "text": "Nina doesn't look well. She's lost **a lot of** weight.", "note": "plenty of is unlikely here" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two quick tests: *much / many* sound formal in an affirmative sentence, so save them for writing; and *plenty of* only fits when having that much is good news."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "In conversation: 'Lola's had ___ problems with her back.'",
+      "options": ["a lot of", "many", "much"],
+      "answer": 0,
+      "explanation": "In informal, affirmative sentences a lot of is more usual than many."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lola's had a lot of problems with her back for ___ years.",
+      "hint": "(many / a lot of)",
+      "answers": ["many"],
+      "explanation": "With time expressions such as years, hours and months we usually prefer many."
+    },
+    {
+      "type": "true_false",
+      "statement": "A lot of people think that hedgehogs are very rare nowadays, but when I was in Wales I saw a lot.",
+      "answer": true,
+      "explanation": "Correct. In conversation a lot of and the pronoun a lot (or lots) are more usual than many."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A: There's bound to be a lot of traffic on the way to the station. B: No, there's ___ time left.",
+      "hint": "(plenty ...)",
+      "answers": ["plenty of"],
+      "explanation": "The quantifier is plenty of - the of cannot be left out."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can the gap be filled with plenty of, or does it need a lot of?",
+      "categories": ["plenty of is possible", "only a lot of"],
+      "items": [
+        { "text": "It will be very hot on the journey, so make sure you bring ___ drinking water.", "category": 0 },
+        { "text": "I'm looking forward to a relaxing holiday, and I'm taking ___ books to read.", "category": 0 },
+        { "text": "___ staff at the hospital have come down with a mysterious illness.", "category": 1 },
+        { "text": "He didn't have ___ money, so he decided to catch the bus rather than take a taxi.", "category": 1 },
+        { "text": "We were surprised when ___ students failed to attend the lecture.", "category": 1 },
+        { "text": "Nina doesn't look well. She's lost ___ weight.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In academic writing: '___ have claimed that Professor Dowman's study on current attitudes to politics is flawed.'",
+      "options": ["Many", "A lot", "Much"],
+      "answer": 0,
+      "explanation": "In formal writing many can stand alone as a pronoun meaning many people."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make one sentence.",
+      "words": ["Far", "too much", "time", "is wasted", "filling in", "forms."],
+      "answer": "Far too much time is wasted filling in forms.",
+      "explanation": "Before too much and too many we use far, never much or many."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In academic writing: '___ research has been conducted on the effects of diet on health.'",
+      "hint": "(much / a lot of)",
+      "answers": ["much"],
+      "explanation": "much (of) and many (of) are preferred in formal contexts such as academic writing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The area is most famous for ___ that attract players from all over the world.",
+      "hint": "(its / many / golf courses)",
+      "answers": ["its many golf courses", "the many golf courses"],
+      "explanation": "many can follow the, my, its, his or her before a plural countable noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ has been lost in the dangerous waters off the south coast of the island.",
+      "hint": "(many a / ship)",
+      "answers": ["many a ship"],
+      "explanation": "many a + singular noun refers to a repeated event or a large number of things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's having an operation next week and she won't be back at work for ___ weeks afterwards.",
+      "hint": "(a good ...)",
+      "answers": ["a good many", "a great many"],
+      "explanation": "a good / great many goes with a plural noun; a good deal of cannot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In addition, ___ hi-tech companies have moved in to take advantage of the newly available workforce.",
+      "hint": "(a great ...)",
+      "answers": ["a great many", "a good many"],
+      "explanation": "companies is a plural noun, so a great deal of is impossible - a great many is needed."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "number": 48,
+  "title": "How long does it take ... ?",
+  "subtitle": "It takes an hour. It took me three days.",
+  "summary": "Ask and answer questions about the time a journey or a job needs, with How long does it take ... ? and It takes ... to ...",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "How long does it take from ... to ... ?",
+      "text": "A plane flies from New York to Washington in one hour. To ask about the time of a journey we say **How long does it take ... ?** The answer begins with **It takes**.",
+      "examples": [
+        { "text": "How long **does it take** by plane from New York to Washington? - **It takes** an hour." },
+        { "text": "How long **does it take** by train from London to Manchester?" },
+        { "text": "**It takes** two hours by train from London to Manchester." },
+        { "text": "How long **does it take** by car from your house to the station? - **It takes** ten minutes." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Question and answer",
+      "columns": ["Question", "Answer"],
+      "rows": [
+        ["How long **does** it take to ... ?", "It **takes** three hours to ..."],
+        ["How long **did** it take to ... ?", "It **took** a week to ..."],
+        ["How long **will** it take to ... ?", "It **will take** a long time to ..."]
+      ],
+      "note": "Negative: It **doesn't** take long, It **didn't** take long, It **won't** take long."
+    },
+    {
+      "type": "explain",
+      "heading": "How long does it take to do something?",
+      "text": "After **take** we use **to** + verb. This works in the present, the past and the future.",
+      "examples": [
+        { "text": "How long **does it take to cross** the Atlantic by ship?" },
+        { "text": "*A:* I came by train. *B:* Did you? How long **did it take** to get here?" },
+        { "text": "How long **will it take to get** from here to the hotel?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It takes a long time / It doesn't take long",
+      "text": "We can also make a statement about the time something needs. Use **a long time** for a lot of time and **long** in negatives.",
+      "examples": [
+        { "text": "**It takes** a long time **to learn** a language." },
+        { "text": "**It doesn't take** long **to cook** an omelette." },
+        { "text": "**It won't take** long **to fix** the computer." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How long does it take you to ... ?",
+      "text": "To say who needs the time, put **me**, **you**, **Tom**, **us**, **them** after take. A man started reading a book on Monday and finished it on Wednesday evening, so: *It took me three days to read it.*",
+      "examples": [
+        { "text": "How long **will it take me to learn** to drive?" },
+        { "text": "**It takes Tom** 20 minutes **to get** to work in the morning." },
+        { "text": "**It took us** an hour **to do** the shopping." },
+        { "text": "**Did it take you** a long time **to find** a job?" },
+        { "text": "**It will take me** an hour **to cook** dinner." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "It takes me / Tom / them ...",
+      "columns": ["It + take", "who", "how long", "to + verb"],
+      "rows": [
+        ["It **takes**", "me", "a week", "to ..."],
+        ["It **took**", "Tom", "a long time", "to ..."],
+        ["It **will take**", "them", "three hours", "to ..."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The sentence always begins with *it*: *It takes two hours*, not ~~Takes two hours~~ or ~~Is two hours~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "How long ___ it take by car from Milan to Rome?",
+      "hint": "(do / does / did)",
+      "answers": ["does"],
+      "explanation": "The question is about journeys in general, so we use the present simple: does it take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How long does it take by plane from New York to Washington? *B:* It ___ an hour.",
+      "hint": "(take)",
+      "answers": ["takes"],
+      "explanation": "it = he/she/it, so the present simple is takes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Cooking an omelette is quick. Which sentence is correct?",
+      "options": [
+        "It doesn't take long to cook an omelette.",
+        "It doesn't take long cooking an omelette.",
+        "It doesn't take long for cook an omelette."
+      ],
+      "answer": 0,
+      "explanation": "After take long we use to + verb: to cook."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jane found a job. -> How long did it take ___ to find a job?",
+      "hint": "(she)",
+      "answers": ["her"],
+      "explanation": "After take we use me/you/him/her/us/them: it took her."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right sentence.",
+      "pairs": [
+        { "left": "I started the book on Monday and finished it three days later.", "right": "It took me three days to read the book." },
+        { "left": "We left at 10 o'clock and arrived home at 10.20.", "right": "It took us 20 minutes to walk home." },
+        { "left": "I had my first driving lesson in January and passed my test six months later.", "right": "It took me six months to learn to drive." },
+        { "left": "Mark left home at 7 o'clock and got to London at 10.", "right": "It took Mark three hours to drive to London." },
+        { "left": "Lisa began looking for a job a long time ago. She got one last week.", "right": "It took Lisa a long time to find a job." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know about the train journey from Paris to Geneva. Make the question.",
+      "words": ["How long", "does it take", "by train", "from Paris", "to Geneva?"],
+      "answer": "How long does it take by train from Paris to Geneva?",
+      "explanation": "How long + does it take + how you travel + from ... to ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I walked to the station. *B:* How long did it take ___ to walk to the station?",
+      "hint": "(I)",
+      "answers": ["you"],
+      "explanation": "You are speaking to the person, so I becomes you: did it take you."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form fits the sentence: takes, took or will take?",
+      "categories": ["takes", "took", "will take"],
+      "items": [
+        { "text": "It ___ two hours by train from London to Manchester.", "category": 0 },
+        { "text": "It ___ Tom 20 minutes to get to work every morning.", "category": 0 },
+        { "text": "It ___ me three days to read the book last week.", "category": 1 },
+        { "text": "It ___ us an hour to do the shopping yesterday.", "category": 1 },
+        { "text": "It ___ me an hour to cook dinner tonight.", "category": 2 },
+        { "text": "It ___ a long time to learn to drive - maybe a year.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "How long takes it to get to the airport?",
+      "answer": false,
+      "explanation": "How long does it take to get to the airport? The question needs does before it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom needs 20 minutes to get to work every morning. It ___ 20 minutes to get to work.",
+      "hint": "(take / Tom)",
+      "answers": ["takes Tom", "takes him"],
+      "explanation": "Put the person after take: It takes Tom 20 minutes."
+    },
+    {
+      "type": "word_order",
+      "prompt": "They repaired the computer. Ask about the time.",
+      "words": ["How long", "did it take", "them", "to repair", "the computer?"],
+      "answer": "How long did it take them to repair the computer?",
+      "explanation": "Past question: did it take + them + to + verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You left at 10 o'clock and arrived home at 10.20. Write the sentence.",
+      "words": ["It", "took", "us", "20 minutes", "to walk home."],
+      "answer": "It took us 20 minutes to walk home.",
+      "alternatives": ["It took us 20 minutes to get home."],
+      "explanation": "It + took + us + how long + to + verb."
+    }
+  ]
+}

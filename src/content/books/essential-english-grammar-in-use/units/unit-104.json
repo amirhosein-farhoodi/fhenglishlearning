@@ -1,0 +1,185 @@
+{
+  "number": 104,
+  "title": "from ... to until since for",
+  "subtitle": "from 1992 to 2001 / until Friday / since Monday / for three days",
+  "summary": "Use from ... to and until for the start and the end of a time, since for a point in the past up to now, and for with a period of time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "from ... to ...",
+      "text": "We use **from ... to ...** to give the start and the end of a time. You can also say **from ... until ...**. Both are correct.",
+      "examples": [
+        { "text": "We lived in Japan **from** 1992 **to** 2001." },
+        { "text": "I work **from** Monday **to** Friday." },
+        { "text": "We lived in Japan **from** 1992 **until** 2001." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "until",
+      "text": "**until** says when something stops. After **until** you can put a day, a month, a time, or a subject and a verb. **till** means the same as **until**.",
+      "examples": [
+        { "text": "They're going away tomorrow. They'll be away **until Friday**." },
+        { "text": "I went to bed early, but I wasn't tired. I read a book **until 3 o'clock**." },
+        { "text": "Wait here **until I come back**." },
+        { "text": "Wait here **till** I come back." }
+      ],
+      "note": "*How long* takes **until**: '**How long** will you be away?' '**Until** Monday.' But *When* takes **on**: '**When** are you coming back?' '**On** Monday.'"
+    },
+    {
+      "type": "explain",
+      "heading": "since + a time in the past",
+      "text": "**since** goes from a time in the past to now. We use it with the present perfect (*have been*, *have done*).",
+      "examples": [
+        { "text": "Joe is in hospital. He has been in hospital **since Monday**.", "note": "= from Monday to now" },
+        { "text": "Sue and Dave have been married **since 1968**.", "note": "= from 1968 to now" },
+        { "text": "It has been raining **since I arrived**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What comes after until, since and for?",
+      "columns": ["Word", "Examples"],
+      "rows": [
+        ["until", "Friday / December / 3 o'clock / I come back"],
+        ["since", "Monday / 1998 / 2.30 / I arrived"],
+        ["for", "three days / ten years / five minutes / a long time"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for + a period of time",
+      "text": "We use **for** with a period of time: three days, ten years, five minutes, a long time. Do not use *since* here.",
+      "examples": [
+        { "text": "Gary stayed with us **for three days**." },
+        { "text": "I'm going away **for a few weeks**." },
+        { "text": "I'm going away **for the weekend**." },
+        { "text": "They've been married **for ten years**." },
+        { "text": "Joe has been in hospital **for three days**.", "wrong": "since three days" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "A finished time or a time up to now?",
+      "left": {
+        "label": "Finished: from ... to / until",
+        "text": "The time is over. We use the past simple.",
+        "examples": [
+          "We lived in Japan **from** 1992 **to** 2001.",
+          "We lived in Japan **until** 2001."
+        ]
+      },
+      "right": {
+        "label": "Up to now: since",
+        "text": "The time started in the past and is still true. We use the present perfect.",
+        "examples": [
+          "Now we live in Canada. We came to Canada **in** 2001.",
+          "We have lived in Canada **since** 2001."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "**since** takes a point in time (*since Monday*) and **for** takes a period of time (*for three days*), not ~~since three days~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Alex came to England in 1999. Before that he lived in Canada. Alex lived in Canada ___ 1999.",
+      "hint": "(until / since)",
+      "answers": ["until", "till"],
+      "explanation": "until 1999 = that is when his time in Canada stopped."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alex came to England in 1999 and he still lives there. Alex has lived in England ___ 1999.",
+      "hint": "(until / since)",
+      "answers": ["since"],
+      "explanation": "since + a point in the past, with the present perfect: from 1999 to now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We waited for Sue ___ half an hour, but she didn't come.",
+      "hint": "(until / since / for)",
+      "answers": ["for"],
+      "explanation": "half an hour is a period of time, so we use for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was tired this morning. I stayed in bed ___ 10 o'clock.",
+      "hint": "(until / since / for)",
+      "answers": ["until", "till"],
+      "explanation": "until 10 o'clock = that is when the time in bed stopped."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'How long did you stay at the party last night?' '___ midnight.'",
+      "options": ["Until", "Since", "For"],
+      "answer": 0,
+      "explanation": "How long ... ? takes until + the time it stopped."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each time expression go after since or after for?",
+      "categories": ["since", "for"],
+      "items": [
+        { "text": "1968", "category": 0 },
+        { "text": "three days", "category": 1 },
+        { "text": "Monday", "category": 0 },
+        { "text": "ten years", "category": 1 },
+        { "text": "I arrived", "category": 0 },
+        { "text": "twenty minutes", "category": 1 },
+        { "text": "2.30", "category": 0 },
+        { "text": "a long time", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Have you just arrived?' 'No, I've been here ___ half past seven.'",
+      "hint": "(until / since / for)",
+      "answers": ["since"],
+      "explanation": "half past seven is a point in time, and the sentence goes up to now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dan and I are good friends. We have known each other ___ ten years.",
+      "hint": "(until / since / for)",
+      "answers": ["for"],
+      "explanation": "ten years is a period of time, so we use for."
+    },
+    {
+      "type": "true_false",
+      "statement": "Joe has been in hospital since three days.",
+      "answer": false,
+      "explanation": "Joe has been in hospital for three days. Use for with a period of time."
+    },
+    {
+      "type": "matching",
+      "prompt": "Alex moved to England in 1999. Clare worked in a hotel from 1998 to 2001 and works in a restaurant now. Adam was a teacher from 1992 to 1998 and is a journalist now. Match each sentence with its ending.",
+      "pairs": [
+        { "left": "Alex lived in Canada", "right": "until 1999" },
+        { "left": "Alex has lived in England", "right": "since 1999" },
+        { "left": "Clare worked in a hotel", "right": "from 1998 to 2001" },
+        { "left": "Clare has worked in a restaurant", "right": "since 2001" },
+        { "left": "Adam was a teacher", "right": "from 1992 to 1998" },
+        { "left": "Adam has been a journalist", "right": "since 1998" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is my house. I've lived here ___ I was seven years old.",
+      "hint": "(until / since / for)",
+      "answers": ["since"],
+      "explanation": "since + a subject and verb: from that time in the past to now."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Somebody asks you 'Where have you been?' You waited twenty minutes. Put your answer in order.",
+      "words": ["I've", "been", "waiting", "for", "you", "for", "twenty", "minutes."],
+      "answer": "I've been waiting for you for twenty minutes.",
+      "explanation": "twenty minutes is a period of time, so we use for."
+    }
+  ]
+}

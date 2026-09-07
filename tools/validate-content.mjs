@@ -8,6 +8,15 @@ import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 
 const ROOT = join(process.cwd(), 'src', 'content', 'books')
+const CATEGORIES_FILE = join(process.cwd(), 'src', 'content', 'categories.ts')
+
+/** Read the category ids straight out of categories.ts so the two cannot drift apart. */
+const CATEGORY_IDS = (() => {
+  const src = readFileSync(CATEGORIES_FILE, 'utf8')
+  const m = src.match(/export const CATEGORY_IDS = \[([^\]]*)\]/)
+  if (!m) throw new Error('could not find CATEGORY_IDS in src/content/categories.ts')
+  return m[1].match(/'([^']+)'/g)?.map((q) => q.slice(1, -1)) ?? []
+})()
 const errors = []
 const warnings = []
 const err = (f, m) => errors.push(`${f}: ${m}`)
@@ -53,6 +62,10 @@ function validateBook(dir, slug) {
       err(f, `cover file public${b.cover} does not exist`)
   }
   if (b.accent && !/^#[0-9a-fA-F]{6}$/.test(b.accent)) err(f, 'accent must be a #rrggbb colour')
+  if (b.category === undefined) warn(f, 'no "category" - the book falls back to the default shelf')
+  else if (!CATEGORY_IDS.includes(b.category))
+    err(f, `category "${b.category}" is not one of ${CATEGORY_IDS.join(', ')} (see src/content/categories.ts)`)
+  if (b.order !== undefined && !Number.isInteger(b.order)) err(f, '"order" must be an integer')
   if (!Array.isArray(b.sections) || b.sections.length === 0) err(f, 'sections must be a non-empty array')
   if (!b.unitTitles || typeof b.unitTitles !== 'object') err(f, 'unitTitles must be an object')
   const listed = new Set()
@@ -72,10 +85,15 @@ function validateBook(dir, slug) {
   return { meta: b, listed }
 }
 
-function validateUnit(f, u, expectedNumber) {
+function validateUnit(f, u, expectedNumber, bookTitles) {
   if (!Number.isInteger(u.number)) err(f, '"number" must be an integer')
   else if (expectedNumber !== null && u.number !== expectedNumber) err(f, `"number" ${u.number} does not match filename`)
   checkStr(f, u, 'title')
+  const listedTitle = bookTitles?.[String(u.number)]
+  if (listedTitle && u.title && u.title !== listedTitle)
+    err(f, `"title" does not match book.json unitTitles["${u.number}"]:
+         unit: ${u.title}
+         book: ${listedTitle}`)
   checkStr(f, u, 'summary')
   checkStr(f, u, 'subtitle', { optional: true })
   if (u.passScore !== undefined && !(Number.isInteger(u.passScore) && u.passScore >= 1 && u.passScore <= 100))
@@ -210,9 +228,26 @@ if (!existsSync(ROOT)) {
 }
 const books = readdirSync(ROOT).filter((d) => statSync(join(ROOT, d)).isDirectory())
 let unitCount = 0
+/** category -> order -> slug, so two books cannot claim the same slot on a shelf. */
+const shelfSlots = new Map()
+const accents = new Map()
 for (const slug of books) {
   const dir = join(ROOT, slug)
   const res = validateBook(dir, slug)
+  if (res) {
+    const { category = '(default)', order, accent } = res.meta
+    if (order !== undefined) {
+      const key = `${category}#${order}`
+      const taken = shelfSlots.get(key)
+      if (taken) err(`${slug}/book.json`, `order ${order} in category "${category}" is already used by ${taken}`)
+      else shelfSlots.set(key, slug)
+    }
+    if (accent) {
+      const taken = accents.get(accent.toLowerCase())
+      if (taken) warn(`${slug}/book.json`, `accent ${accent} is already used by ${taken}`)
+      else accents.set(accent.toLowerCase(), slug)
+    }
+  }
   const unitsDir = join(dir, 'units')
   const files = existsSync(unitsDir) ? readdirSync(unitsDir).filter((f) => f.endsWith('.json')).sort() : []
   const have = new Set()
@@ -232,7 +267,7 @@ for (const slug of books) {
       err(f, `invalid JSON: ${e.message}`)
       continue
     }
-    validateUnit(f, u, n)
+    validateUnit(f, u, n, res?.meta?.unitTitles)
     unitCount++
     if (res && !res.listed.has(n)) err(f, `unit ${n} has a file but is not listed in any book.json section`)
   }

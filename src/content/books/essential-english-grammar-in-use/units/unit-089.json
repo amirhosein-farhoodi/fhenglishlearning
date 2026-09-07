@@ -1,0 +1,173 @@
+{
+  "number": 89,
+  "title": "not as ... as",
+  "subtitle": "not as old as",
+  "summary": "Use not as ... as to say that one person or thing is less old, big or expensive than another.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "not as ... as",
+      "text": "An old woman says 'I'm 93' and an old man says 'I'm 96'. She's old, but she's **not as old as** he is. In another picture Box A is smaller than Box B, so Box A **isn't as big as** Box B. We use the normal adjective between the two **as**.",
+      "examples": [
+        { "text": "Rome is **not as old as** Athens.", "note": "= Athens is older" },
+        { "text": "The Grand Hotel **isn't as expensive as** the Europa.", "note": "= the Europa is more expensive" },
+        { "text": "I **don't** play tennis **as often as** you.", "note": "= you play more often" },
+        { "text": "The weather is better than it was yesterday. It **isn't as cold**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not as much as / not as many as",
+      "text": "Use **as much as** with words like *money*, *time* and *water*. Use **as many as** with things you can count, like *people* and *books*.",
+      "examples": [
+        { "text": "I haven't got **as much money as** you.", "note": "= you've got more money" },
+        { "text": "I don't know **as many people as** you.", "note": "= you know more people" },
+        { "text": "I don't go out **as much as** you.", "note": "= you go out more" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "not as ... as and than",
+      "left": {
+        "label": "not as ... as",
+        "text": "The adjective does not change.",
+        "examples": [
+          "Rome is **not as old as** Athens.",
+          "Tennis **isn't as popular as** football.",
+          "I **don't** go out **as much as** you."
+        ]
+      },
+      "right": {
+        "label": "than",
+        "text": "Here we need the comparative form.",
+        "examples": [
+          "Athens is **older than** Rome. (not older as Rome)",
+          "Football is **more popular than** tennis.",
+          "You go out **more than** me."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "as me / as him",
+      "text": "After **as** we usually say *me / him / her / us / them*. You can also use a subject with a verb.",
+      "examples": [
+        { "text": "She's not as old **as him**. *or* She's not as old **as he is**." },
+        { "text": "You don't work as hard **as me**. *or* You don't work as hard **as I do**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the same as",
+      "text": "When two things are equal, we say **the same as**. We can also say *the same age as*, *the same colour as*, *the same time as*.",
+      "examples": [
+        { "text": "The weather today is **the same as** yesterday." },
+        { "text": "My hair is **the same colour as** yours." },
+        { "text": "I arrived at **the same time as** Tim." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After **as** use the simple adjective: *not as old as*, not ~~not as older as~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Athens is older than Rome. Rome ___ as Athens.",
+      "hint": "(not / old)",
+      "answers": ["isn't as old", "is not as old"],
+      "explanation": "Rome isn't as old as Athens. The adjective stays the same: old."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My room is bigger than yours. Your room isn't ___ mine.",
+      "hint": "(big)",
+      "answers": ["as big as"],
+      "explanation": "as + adjective + as: as big as."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Box A is smaller than Box B. Which sentence is right?",
+      "options": [
+        "Box A isn't as big as Box B.",
+        "Box A isn't as bigger as Box B.",
+        "Box A isn't so big than Box B."
+      ],
+      "answer": 0,
+      "explanation": "We use not as + simple adjective + as."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the same idea using as ... as.",
+      "pairs": [
+        { "left": "She's more nervous than him.", "right": "He isn't as nervous as her." },
+        { "left": "You got up earlier than me.", "right": "I didn't get up as early as you." },
+        { "left": "We played better than them.", "right": "They didn't play as well as us." },
+        { "left": "I've been here longer than you.", "right": "You haven't been here as long as me." },
+        { "left": "Football is more popular than tennis.", "right": "Tennis isn't as popular as football." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the sentence need as or than?",
+      "categories": ["as", "than"],
+      "items": [
+        { "text": "I don't watch TV as much ___ you.", "category": 0 },
+        { "text": "Joe isn't as intelligent ___ he thinks.", "category": 0 },
+        { "text": "Brazil isn't as big ___ Canada.", "category": 0 },
+        { "text": "Athens is older ___ Rome.", "category": 1 },
+        { "text": "You eat more ___ me.", "category": 1 },
+        { "text": "Belgium is smaller ___ Switzerland.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You've got more money than me. I haven't got ___ money as you.",
+      "hint": "(as ... as)",
+      "answers": ["as much"],
+      "explanation": "money is uncountable, so we say as much money as."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You know more people than me. I don't know as ___ people as you.",
+      "hint": "(much / many)",
+      "answers": ["many"],
+      "explanation": "people are countable, so we say as many people as."
+    },
+    {
+      "type": "true_false",
+      "statement": "Rome is not as older as Athens.",
+      "answer": false,
+      "explanation": "Rome is not as old as Athens. Use the simple adjective after as."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't go out as much as you.",
+      "answer": true,
+      "explanation": "Correct. With a verb we say as much as."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Weight A is 10 kg, weight B is 20 kg and weight C is 15 kg. Put the sentence about C in order.",
+      "words": ["C", "is heavier", "than A,", "but not", "as heavy as", "B."],
+      "answer": "C is heavier than A, but not as heavy as B.",
+      "explanation": "than after the comparative, and as ... as after not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Andy is 24 and Laura is 24. Andy is ___ Laura.",
+      "hint": "(the same age)",
+      "answers": ["the same age as"],
+      "explanation": "When two people are equal we say the same age as."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julia lives in Hill Street and Laura lives in Hill Street too. Julia lives in ___ Laura.",
+      "hint": "(the same street)",
+      "answers": ["the same street as"],
+      "explanation": "the same + noun + as: the same street as."
+    }
+  ]
+}

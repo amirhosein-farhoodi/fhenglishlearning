@@ -1,0 +1,196 @@
+{
+  "number": 51,
+  "title": "All (of), whole, every, each",
+  "subtitle": "all the time / the whole city / every six months",
+  "summary": "Place all correctly in a sentence and choose between all, whole, entire, every and each.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "all after the noun or pronoun",
+      "text": "We can put all after the noun or pronoun it refers to instead of in front of it. The meaning is the same.",
+      "examples": [
+        { "text": "His songs **all** sound much the same to me.", "note": "or All (of) his songs sound ..." },
+        { "text": "We **all** think Kushi's working too hard.", "note": "or All of us think ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where all goes in the verb phrase",
+      "text": "When all follows the subject, it comes after the verb be, and after the first auxiliary verb if there is one - never in front of it.",
+      "examples": [
+        { "text": "They **are all** going to Athens during the vacation.", "wrong": "They all are going" },
+        { "text": "You **should all** have three question papers.", "wrong": "You all should have" },
+        { "text": "We have **all been** involved in the decision." }
+      ],
+      "note": "In spoken English 'You all should have ...' is possible for particular emphasis."
+    },
+    {
+      "type": "compare",
+      "heading": "not all (of) or none of?",
+      "left": {
+        "label": "not all (of) - some, but not every one",
+        "text": "For negatives we normally use not all (of) rather than all ... not.",
+        "examples": [
+          "**Not all (of)** the seats were taken.",
+          "The seats were **not all** taken.",
+          "**Not all (of)** my cousins were at the wedding."
+        ]
+      },
+      "right": {
+        "label": "none of - not a single one",
+        "examples": [
+          "**None of** my cousins were at the wedding."
+        ]
+      },
+      "note": "all ... not does occur in informal spoken English, but not all (of) is the safe choice."
+    },
+    {
+      "type": "explain",
+      "heading": "all and whole with singular nouns",
+      "text": "Before singular countable nouns we normally use the whole rather than all the. Entire works in the same position, immediately before the noun.",
+      "examples": [
+        { "text": "They weren't able to stay for **the whole** concert.", "note": "rather than ... for all the concert" },
+        { "text": "**The whole** / **entire** building has recently been renovated." },
+        { "text": "After the fire **the whole** city was covered in dust.", "note": "informally: ... all the city ..." }
+      ],
+      "note": "But we do say all + day / week / night / month / winter, all the time, all the way. All October and all 21st May are not used, and all Monday / Tuesday only in informal contexts."
+    },
+    {
+      "type": "compare",
+      "heading": "all (of) or whole with plural nouns?",
+      "left": {
+        "label": "all (of) the + plural = every one in the group",
+        "examples": [
+          "**All (of) the** towns had their electricity cut off.",
+          "The new rail network links **all of the** towns in the region."
+        ]
+      },
+      "right": {
+        "label": "whole + plural = some of them, completely affected",
+        "examples": [
+          "After the storm, **whole** towns were left without electricity.",
+          "**Whole** areas of the country have been devastated by the floods, although others haven't had rain for months."
+        ]
+      },
+      "note": "We don't say ~~whole the towns~~. In informal speech all the can also be used with things we see as made up of parts: all the house / city / department."
+    },
+    {
+      "type": "explain",
+      "heading": "When to prefer every",
+      "text": "Every and each are often interchangeable, but every is the one we want with almost / virtually + noun (the group as a whole), with a plural noun after a number, and with abstract uncountable nouns to mean 'complete' or 'total'.",
+      "examples": [
+        { "text": "Almost **every** visitor stopped and stared.", "wrong": "Almost each visitor" },
+        { "text": "I go to the dentist **every** six months.", "note": "rather than ... each six months" },
+        { "text": "She has **every** chance of success in her application for the job.", "note": "also: every confidence / hope / reason / sympathy" }
+      ],
+      "note": "Every is also fixed in phrases for regular events: every other (kilometre), every single (day), every so often, every few (months), every now and again."
+    },
+    {
+      "type": "explain",
+      "heading": "When to prefer each",
+      "text": "We use each before a noun or before one when we are talking about both people or things in a pair, and each can also stand alone as a pronoun.",
+      "examples": [
+        { "text": "I only had two suitcases, but **each one** weighed over 20 kilos." },
+        { "text": "In a rugby league game **each** side has 13 players." },
+        { "text": "I asked many people and **each** gave the same answer.", "note": "or ... each / every one gave ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When either word fits, each makes the listener picture the members separately, while every is closer to 'all of them together'."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You ___ stay for dinner if you want.",
+      "hint": "(all + can)",
+      "answers": ["can all"],
+      "explanation": "all comes after the modal or first auxiliary verb, not before it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ going to be late if we don't hurry.",
+      "hint": "(all + are)",
+      "answers": ["are all"],
+      "explanation": "all follows the verb be."
+    },
+    {
+      "type": "true_false",
+      "statement": "They all are going to Athens during the vacation.",
+      "answer": false,
+      "explanation": "They are all going to Athens during the vacation. all goes after the first auxiliary verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have ___ involved in the decision.",
+      "hint": "(all + been)",
+      "answers": ["all been"],
+      "explanation": "all goes after the first auxiliary (have) and before the rest of the verb phrase."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ takes only a few minutes.",
+      "options": ["The whole process", "All the process", "Whole the process"],
+      "answer": 0,
+      "explanation": "Before a singular countable noun we use the whole rather than all the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ of the country have been devastated by the floods, although others haven't had rain for months.",
+      "options": ["Whole areas", "All areas", "The whole areas"],
+      "answer": 0,
+      "explanation": "whole + plural noun means some areas were completely affected - all areas would mean every area in the country."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When I picked up the book I found that ___ had been ripped out. There wasn't a single one left.",
+      "options": ["all of the pages", "whole pages", "the whole pages"],
+      "answer": 0,
+      "explanation": "Not one page was left, so we mean every page: all of the pages."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word fits the gap better - every or each?",
+      "categories": ["every", "each"],
+      "items": [
+        { "text": "I had ___ reason to believe that she would keep my secret.", "category": 0 },
+        { "text": "We've discussed the problem in virtually ___ meeting for the last year.", "category": 0 },
+        { "text": "They had to take out ___ single part of the engine and clean it.", "category": 0 },
+        { "text": "You should take two tablets ___ four hours.", "category": 0 },
+        { "text": "In a rugby league game ___ side has 13 players.", "category": 1 },
+        { "text": "The two girls walked in, ___ one carrying a bouquet of flowers.", "category": 1 },
+        { "text": "The ten lucky winners will ___ receive £1,000.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She has ___ chance of success in her application for the job.",
+      "hint": "(every / each)",
+      "answers": ["every"],
+      "explanation": "With abstract nouns like chance, hope, reason and sympathy we use every to mean 'complete' or 'total'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I only had two suitcases, but ___ weighed over 20 kilos.",
+      "hint": "(each / every + one)",
+      "answers": ["each one"],
+      "explanation": "For both things in a pair we use each (one), not every."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fortunately, ___ the food usually gets eaten, so I have plenty left for the rest of the week.",
+      "hint": "(all - make it negative)",
+      "answers": ["not all", "not all of"],
+      "explanation": "Negatives are made with not all (of) rather than all ... not."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the last sentence of the blog post in order.",
+      "words": ["The rest of us", "all", "had", "a great time", "and we spent", "the whole evening", "talking."],
+      "answer": "The rest of us all had a great time and we spent the whole evening talking.",
+      "explanation": "all follows the subject and comes before the main verb had; before a singular noun we use the whole."
+    }
+  ]
+}

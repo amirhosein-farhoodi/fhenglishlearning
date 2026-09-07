@@ -1,0 +1,167 @@
+{
+  "number": 18,
+  "title": "How long have you ... ? (present perfect 4)",
+  "subtitle": "How long have you been ... ?",
+  "summary": "Use the present perfect, not the present, to say how long a situation has continued until now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Jane in Ireland",
+      "text": "Jane is on holiday in Ireland. She is there now. She arrived in Ireland on Monday, and today is Thursday. Somebody asks her: *'How long **have** you **been** in Ireland?'* She answers: *'**Since** Monday.'*",
+      "examples": [
+        { "text": "How long **has** she **been** in Ireland?" },
+        { "text": "She **has been** in Ireland **since Monday**." },
+        { "text": "She **has been** in Ireland **for three days**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "is and has been",
+      "left": {
+        "label": "is = present",
+        "text": "This tells us about now.",
+        "examples": ["She **is** in Ireland now."]
+      },
+      "right": {
+        "label": "has been = present perfect",
+        "text": "This tells us how long the situation has continued until now.",
+        "examples": [
+          "She **has been** in Ireland since Monday.",
+          "She **has been** in Ireland for three days."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Present simple -> present perfect",
+      "columns": ["Present simple", "Present perfect (how long)"],
+      "rows": [
+        ["Dan and Kate **are** married.", "They **have been** married for five years."],
+        ["**Are** you married?", "How long **have** you **been** married?"],
+        ["**Do** you **know** Lisa?", "How long **have** you **known** her?"],
+        ["I **know** Lisa.", "**I've known** her for a long time."],
+        ["Vicky **lives** in London.", "How long **has** she **lived** in London?"],
+        ["I **have** a car.", "How long **have** you **had** your car?"]
+      ],
+      "note": "not ~~They are married for five years~~ and not ~~How long do you know her?~~"
+    },
+    {
+      "type": "table",
+      "heading": "Present continuous -> present perfect continuous",
+      "columns": ["Present continuous", "Present perfect continuous (how long)"],
+      "rows": [
+        ["**I'm learning** German.", "How long **have** you **been learning** German?"],
+        ["David **is watching** TV.", "How long **has** he **been watching** TV?"],
+        ["**It's raining**.", "**It's been raining** all day."]
+      ],
+      "note": "**have been** + **-ing**. not ~~How long are you learning German?~~"
+    },
+    {
+      "type": "explain",
+      "heading": "for and since",
+      "text": "Use **for** with a period of time and **since** with the day or time when the situation started.",
+      "examples": [
+        { "text": "She has been in Ireland **for three days**." },
+        { "text": "She has been in Ireland **since Monday**." },
+        { "text": "**I've had** it **since April**." },
+        { "text": "**I've been learning** German **for two years**." },
+        { "text": "She **has lived** there **all her life**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After *How long ... ?* use have/has, not do/are: *How long **have** you **known** her?*, not ~~How long do you know her?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah and Andy are married. They ___ married since 1999.",
+      "hint": "(be)",
+      "answers": ["have been", "'ve been"],
+      "explanation": "How long? So we use the present perfect: they have been married since 1999."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brian is ill. He ___ ill for the last few days.",
+      "hint": "(be)",
+      "answers": ["has been", "'s been"],
+      "explanation": "he/she/it takes has: he has been ill for the last few days."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jane and I are friends. I ___ her for a long time.",
+      "options": ["'ve known", "know", "am knowing"],
+      "answer": 0,
+      "explanation": "With for and since we use the present perfect: I've known her for a long time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jane is on holiday. Ask how long.",
+      "words": ["How", "long", "has", "she", "been", "on", "holiday?"],
+      "answer": "How long has she been on holiday?",
+      "explanation": "How long + has + subject + been."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about now, or does it say how long?",
+      "categories": ["About now", "How long (present perfect)"],
+      "items": [
+        { "text": "Vicky lives in London.", "category": 0 },
+        { "text": "She has lived in London for ten years.", "category": 1 },
+        { "text": "I'm learning German.", "category": 0 },
+        { "text": "I've been learning German for two years.", "category": 1 },
+        { "text": "It's raining.", "category": 0 },
+        { "text": "It's been raining all day.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Catherine works in a bank. She ___ in a bank for five years.",
+      "hint": "(work)",
+      "answers": ["has worked", "'s worked", "has been working", "'s been working"],
+      "explanation": "Both are correct here: she has worked / has been working in a bank for five years."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alan has a headache. He ___ a headache since he got up this morning.",
+      "hint": "(have)",
+      "answers": ["has had", "'s had"],
+      "explanation": "The past participle of have is had: he has had a headache since this morning."
+    },
+    {
+      "type": "true_false",
+      "statement": "Martin works in a hotel now. He likes his job a lot.",
+      "answer": true,
+      "explanation": "Correct. There is no how long, for or since here, so the present simple is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sorry I'm late. How long are you waiting?",
+      "answer": false,
+      "explanation": "How long have you been waiting? After How long we use the present perfect."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ruth is reading the newspaper. ___ it for two hours.",
+      "options": ["She has been reading", "She is reading", "She reads"],
+      "answer": 0,
+      "explanation": "for two hours tells us how long, so: she has been reading it for two hours."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman is standing at the bus stop. She says 'I'm waiting.' She came ten minutes ago. She ___ for ten minutes.",
+      "hint": "(wait)",
+      "answers": ["has been waiting", "'s been waiting"],
+      "explanation": "The waiting started ten minutes ago and continues now: she has been waiting for ten minutes."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Diana is learning Italian. Ask how long.",
+      "words": ["How", "long", "has", "she", "been", "learning", "Italian?"],
+      "answer": "How long has she been learning Italian?",
+      "explanation": "How long + has + subject + been + -ing."
+    }
+  ]
+}

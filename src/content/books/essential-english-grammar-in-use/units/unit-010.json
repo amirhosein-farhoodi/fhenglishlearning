@@ -1,0 +1,180 @@
+{
+  "number": 10,
+  "title": "was/were",
+  "subtitle": "I was / you were",
+  "summary": "Use was and were to talk about the past, and make negatives, questions and short answers with them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Robert last night and now",
+      "text": "It is the morning and Robert is at his desk with his computer. Now Robert **is** at work. At midnight last night he **wasn't** at work. He **was** in bed. He **was** asleep.",
+      "examples": [
+        { "text": "Now Robert **is** at work." },
+        { "text": "At midnight last night he **wasn't** at work. He **was** in bed." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Present -> past",
+      "left": {
+        "label": "am / is (present)",
+        "examples": [
+          "I **am** tired. (now)",
+          "Where **is** Kate? (now)",
+          "The weather **is** good today."
+        ]
+      },
+      "right": {
+        "label": "was (past)",
+        "examples": [
+          "I **was** tired last night.",
+          "Where **was** Kate yesterday?",
+          "The weather **was** good last week."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "are -> were",
+      "left": {
+        "label": "are (present)",
+        "examples": ["You **are** late. (now)", "They **aren't** here. (now)"]
+      },
+      "right": {
+        "label": "were (past)",
+        "examples": ["You **were** late yesterday.", "They **weren't** here last Sunday."]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["Subject", "Positive", "Negative", "Question"],
+      "rows": [
+        ["I / he / she / it", "was", "wasn't (was not)", "was I? was he?"],
+        ["we / you / they", "were", "weren't (were not)", "were we? were you?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sentences and questions",
+      "text": "**was/were** needs no other verb. In questions it goes before the subject, after a question word like **why** or **where**.",
+      "examples": [
+        { "text": "Last year Rachel **was** 22, so she **is** 23 now." },
+        { "text": "When I **was** a child, I **was** afraid of dogs." },
+        { "text": "We **were** hungry after the journey, but we **weren't** tired." },
+        { "text": "**Was** the weather nice when you **were** on holiday?" },
+        { "text": "Why **were** you late this morning?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Short answers",
+      "columns": ["Yes", "No"],
+      "rows": [
+        ["Yes, I / he / she / it was.", "No, I / he / she / it wasn't."],
+        ["Yes, we / you / they were.", "No, we / you / they weren't."]
+      ],
+      "note": "'Were you late?' 'No, I wasn't.' - 'Was Ted at work yesterday?' 'Yes, he was.'"
+    },
+    {
+      "type": "tip",
+      "text": "Only **I**, **he**, **she** and **it** take **was**. Everything else takes **were** - and that includes **you**, even for one person."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Now Robert is at work. At midnight last night he was in bed. Which sentence is right?",
+      "options": ["He wasn't at work.", "He weren't at work.", "He isn't at work last night."],
+      "answer": 0,
+      "explanation": "he + was, so the negative is he wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel fine this morning, but I ___ very tired last night.",
+      "hint": "(be)",
+      "answers": ["was"],
+      "explanation": "I + was for the past."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't buy those shoes. They ___ very expensive.",
+      "hint": "(be - present)",
+      "answers": ["are", "'re"],
+      "explanation": "The shoes are expensive now, so the present: they are."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last year she ___ 22, so she is 23 now.",
+      "hint": "(be)",
+      "answers": ["was"],
+      "explanation": "Last year is the past: she was 22."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the subject take was or were?",
+      "categories": ["was", "were"],
+      "items": [
+        { "text": "I", "category": 0 },
+        { "text": "the weather", "category": 0 },
+        { "text": "you", "category": 1 },
+        { "text": "Sue and Chris", "category": 1 },
+        { "text": "my exam", "category": 0 },
+        { "text": "they", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where ___ at 11 o'clock last Friday morning?",
+      "hint": "(you / be)",
+      "answers": ["were you"],
+      "explanation": "In questions, were comes before the subject: Where were you ... ?"
+    },
+    {
+      "type": "true_false",
+      "statement": "We weren't happy with the hotel. Our room was very small and it wasn't clean.",
+      "answer": true,
+      "explanation": "Correct. we takes weren't, and our room (= it) takes was / wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark ___ at work last week because he was ill. He's better now.",
+      "hint": "(not / be)",
+      "answers": ["wasn't", "was not"],
+      "explanation": "Mark = he, so the past negative is wasn't."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        { "left": "Why were you late this morning?", "right": "The traffic was bad." },
+        { "left": "Was your exam difficult?", "right": "No, it was easy." },
+        { "left": "Where were Sue and Chris last week?", "right": "They were on holiday." },
+        { "left": "How much was your new camera?", "right": "Sixty pounds." },
+        { "left": "Why were you angry yesterday?", "right": "Because you were late." },
+        { "left": "Was the weather nice last week?", "right": "Yes, it was beautiful." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You wasn't at home last night. Where was you?",
+      "answer": false,
+      "explanation": "You weren't at home last night. Where were you? - you always takes were."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday was a public holiday, so the banks ___. They're open today.",
+      "hint": "(be / closed)",
+      "answers": ["were closed"],
+      "explanation": "the banks = they, so were closed."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with was/were. Put the words in the right order: (your new camera / how much?)",
+      "words": ["How much", "was", "your", "new", "camera?"],
+      "answer": "How much was your new camera?",
+      "explanation": "Question word + was + subject."
+    }
+  ]
+}

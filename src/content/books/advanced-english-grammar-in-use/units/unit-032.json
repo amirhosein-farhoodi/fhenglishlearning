@@ -1,0 +1,160 @@
+{
+  "number": 32,
+  "title": "Reporting people's words and thoughts",
+  "subtitle": "She explained that she couldn't take the job.",
+  "summary": "Report words and thoughts in your own words or as a quotation, put the negative in the right clause, and report both wh- and yes/no questions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Reporting clause + reported clause",
+      "text": "When we report what people think or say, we usually give the information in our own words. The sentence has a **reporting clause** and a **reported clause**.",
+      "examples": [
+        { "text": "**She explained** (that) *she couldn't take the job until January*." },
+        { "text": "**He didn't tell me** *where to put the boxes*." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Quoting the exact words",
+      "text": "If the exact words matter, we report them as a quotation. The reporting clause can come before, within, or at the end of the quotation. In stories and novels the reporting verb often comes **before the subject** when the reporting clause follows the quotation - but never when the subject is a pronoun.",
+      "examples": [
+        { "text": "'I suppose you've heard the latest news,' **she said to me**." },
+        { "text": "'Of course,' **Carter replied**, 'you'll have to pay him to do the job.'" },
+        { "text": "'When will you be back?' **asked Jimin**.", "note": "or ... Jimin asked." },
+        { "text": "'And after that I moved to Italy,' **she continued**.", "wrong": "continued she" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Where does the negative go?",
+      "left": {
+        "label": "Negative in the reported clause",
+        "text": "To report a negative sentence we normally make the reported clause negative.",
+        "examples": ["'You're right, it isn't a good idea.' -> He agreed that it **wasn't** a good idea.", "'I disagree. It's not a good idea at all.' -> He **didn't agree** that it was a good idea.", "*The reporting clause goes negative here because he disagreed.*"]
+      },
+      "right": {
+        "label": "Negative in the reporting clause",
+        "text": "With believe, expect, feel, intend, plan, propose, suppose, think and want we usually make the reporting verb negative instead.",
+        "examples": ["'I expect he won't come.' -> She **didn't expect** him to come.", "not ~~She expected him not to come~~", "He **didn't tell** me how he would get to London. *(= he said nothing about it)*"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting wh-questions",
+      "text": "To report a wh-question we use a reporting clause plus a clause with a wh-word. To report a yes/no question we use **if** or **whether**. Note that *if* can never be followed by a to-infinitive.",
+      "examples": [
+        { "text": "She asked me **what the problem was**." },
+        { "text": "I asked him **where to go** next." },
+        { "text": "Liz wanted to know **if / whether** we had any photos of our holiday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Word order in the reported question",
+      "text": "The wh-, if- or whether-clause has the word order of a **statement**, and we do not use a form of *do*. Exception: if we report a negative question, a negative form of *do* is possible.",
+      "examples": [
+        { "text": "'Have you seen Paul recently?' -> She wanted to know **if I had seen** Paul recently." },
+        { "text": "She asked me **where I found** it.", "wrong": "where did I find it" },
+        { "text": "He asked (me) **why I didn't want** anything to eat.", "note": "a reported negative question, so didn't is fine" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "what / which / who + be",
+      "text": "If the original question begins with **what**, **which** or **who** followed by *be* + complement, the complement can go before or after *be* in the report.",
+      "examples": [
+        { "text": "'Who was the winner?' -> I asked **who the winner was**.", "note": "or ... who was the winner." },
+        { "text": "'What are your long-term plans?' -> They asked **what my long-term plans were**.", "note": "or ... what were my long-term plans." }
+      ]
+    },
+    { "type": "tip", "text": "Reported questions are statements, so they need statement word order and no auxiliary *do*: *where I found it*, not ~~where did I find it~~." }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each quotation with the reporting verb that fits it.",
+      "pairs": [
+        { "left": "'Why don't we stop for a coffee?'", "right": "she suggested." },
+        { "left": "'All right, Georgia, it was me.'", "right": "he confessed." },
+        { "left": "'Good morning, Miss Novak.'", "right": "chorused the children." },
+        { "left": "'Oh, no, it's raining again.'", "right": "grumbled Matt." },
+        { "left": "'Have I done the right thing?'", "right": "I wondered." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'My novel is more exciting than a Dan Brown thriller,' she ___.",
+      "hint": "(boast / confess)",
+      "answers": ["boasted"],
+      "explanation": "She is praising her own work, so the reporting verb is boasted."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which report of 'And after that I moved to Italy' is correct?",
+      "options": ["'And after that I moved to Italy,' she continued.", "'And after that I moved to Italy,' continued she.", "'And after that I moved to Italy,' continued."],
+      "answer": 0,
+      "explanation": "The reporting verb can go before the subject after a quotation, but not when that subject is a pronoun."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report the question 'Do you have any photos of your holiday?' - Liz asked it.",
+      "words": ["Liz wanted to know", "if", "we had", "any photos", "of our holiday"],
+      "answer": "Liz wanted to know if we had any photos of our holiday",
+      "alternatives": ["Liz wanted to know whether we had any photos of our holiday"],
+      "explanation": "A yes/no question is reported with if or whether plus statement word order."
+    },
+    { "type": "true_false", "statement": "She asked me where did I find it.", "answer": false, "explanation": "She asked me where I found it. We do not use a form of do in the reported wh-clause." },
+    {
+      "type": "fill_blank",
+      "prompt": "'Can you use a spreadsheet?' -> They wanted to know ___ use a spreadsheet.",
+      "hint": "(3 words)",
+      "answers": ["if I could", "whether I could"],
+      "explanation": "A yes/no question becomes an if- or whether-clause, and can becomes could here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where did you learn Chinese?' -> They wondered ___ Chinese.",
+      "hint": "(learn)",
+      "answers": ["where I had learnt", "where I had learned", "where I learnt", "where I learned"],
+      "explanation": "Statement word order, no did: where I (had) learnt Chinese."
+    },
+    {
+      "type": "categorize",
+      "prompt": "To report a negative sentence, does the verb normally go negative in the reporting clause or in the reported clause?",
+      "categories": ["Negative reporting verb: didn't expect him to come", "Negative reported clause: agreed that it wasn't a good idea"],
+      "items": [
+        { "text": "expect", "category": 0 },
+        { "text": "think", "category": 0 },
+        { "text": "intend", "category": 0 },
+        { "text": "suppose", "category": 0 },
+        { "text": "agree", "category": 1 },
+        { "text": "insist", "category": 1 },
+        { "text": "promise", "category": 1 },
+        { "text": "announce", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I won't give you the money back if you keep on at me.' -> He ___ the money if she kept on at him.",
+      "hint": "(threaten - repay)",
+      "answers": ["threatened not to repay"],
+      "explanation": "The threat itself is negative, so not goes before the to-infinitive: threatened not to repay."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I was surprised that Mum was angry.' -> He ___ his mother to be angry.",
+      "hint": "(expect) - negative",
+      "answers": ["didn't expect", "did not expect"],
+      "explanation": "With expect we prefer a negative reporting verb: He didn't expect his mother to be angry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I'm not going back to college.' -> She announced that she ___ back to college.",
+      "hint": "(go) - negative",
+      "answers": ["wasn't going", "was not going"],
+      "explanation": "announce keeps its positive form; the negative belongs in the reported clause."
+    },
+    { "type": "true_false", "statement": "He asked me why I didn't want anything to eat.", "answer": true, "explanation": "Correct. A reported negative question can keep a negative form of do." }
+  ]
+}

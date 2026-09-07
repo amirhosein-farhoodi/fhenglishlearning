@@ -1,0 +1,169 @@
+{
+  "number": 34,
+  "title": "Verb + wh-clause",
+  "subtitle": "That might explain why he's unhappy.",
+  "summary": "Follow verbs with a wh-clause: add an object where the verb demands one, choose between whether and if, and use the way and as to correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + wh-clause",
+      "text": "Many verbs can be followed by a clause beginning with how, what, when, where, which, who or why. Also: arrange, calculate, check, choose, debate, determine, discover, discuss, establish, find out, forget, guess, imagine, know, learn, notice, plan, realise, remember, say, see, talk about, think (about), understand, wonder.",
+      "examples": [
+        { "text": "That might explain **why he's unhappy**." },
+        { "text": "I couldn't decide **which train to catch**." },
+        { "text": "Let's consider **how we can solve** the problem." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wh-word + to-infinitive",
+      "text": "Most of these verbs also allow a wh-word (but not *why*) + to-infinitive. As soon as we put a subject into the wh-clause, the to-infinitive is impossible.",
+      "examples": [
+        { "text": "Did you find out **where to go**?" },
+        { "text": "I can't imagine **what he likes** about jazz.", "wrong": "what to like about jazz" },
+        { "text": "I decided **that I ought to leave**.", "note": "many of these verbs also take a that-clause" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that need an object first",
+      "text": "Some verbs must have an object before the wh-clause. Also: advise, inform, instruct, remind, teach, tell, warn. **ask** and **show** often have an object, but not always.",
+      "examples": [
+        { "text": "She reminded **me** what (I had) to do." },
+        { "text": "I told **Linda** how to get to my house." },
+        { "text": "I asked (**him**) how I could get to the station, and he told me." },
+        { "text": "She taught **me** how to play chess.", "note": "object + wh-word + to-infinitive" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the way instead of how",
+      "text": "We can often use **the way** rather than *how* to talk about a route or a means of doing something. But never put the two together.",
+      "examples": [
+        { "text": "Go back **the way** (that / by which) you came.", "note": "informally: Go back how you came." },
+        { "text": "Have you noticed **the way** (that / in which) he spins the ball?" },
+        { "text": "They showed me **the way to get** to the track.", "wrong": "the way how to get to the track" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "whether or if?",
+      "left": {
+        "label": "whether",
+        "text": "Used as a wh-word to show possible choices - and the only choice before a to-infinitive. Also after choose, consider, debate, determine, discuss, know (in questions and negatives), think about, wonder.",
+        "examples": ["He couldn't remember **whether** he had turned the computer off.", "You have 14 days to decide **whether to keep** it or not.", "I wondered **whether to retrace** my steps."]
+      },
+      "right": {
+        "label": "if",
+        "text": "Has a similar meaning to *whether* in a finite clause, but is never used before a to-infinitive.",
+        "examples": ["He couldn't remember **if** he had turned the computer off.", "not ~~to decide if to keep it or not~~", "*ask, conclude, explain, imagine, realise, speculate and think are not used with whether + to-infinitive at all.*"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "whether-clause or that-clause?",
+      "text": "The two are not interchangeable. A **whether**-clause leaves the question open; a **that**-clause states something as a fact.",
+      "examples": [
+        { "text": "I didn't know **whether** the shop was shut.", "note": "= if the shop was shut or not" },
+        { "text": "I didn't know **that** the shop was shut.", "note": "suggests the shop was in fact shut" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "as to (formal)",
+      "text": "In formal contexts, especially writing, **as to** can come before a wh-clause with a meaning like *about* or *concerning*. It is most common before *whether*.",
+      "examples": [
+        { "text": "Opinion was divided **as to whether** the findings from the study were representative.", "note": "less formally ... divided whether ..." },
+        { "text": "There was some discussion **as to whether** the snow would arrive." }
+      ]
+    },
+    { "type": "tip", "text": "Before a to-infinitive, use *whether*, never *if*: *decide whether to keep it*, not ~~decide if to keep it~~." }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with the wh-clause that completes it.",
+      "pairs": [
+        { "left": "Before the meeting finished they arranged", "right": "when to meet next." },
+        { "left": "I saw Sarah leave the building, but I didn't notice", "right": "where she went after that." },
+        { "left": "When I saw Hugo alone at the party I wondered", "right": "why Helen wasn't with him." },
+        { "left": "After I'd dismantled the motor I couldn't remember", "right": "how to fit the parts back together." },
+        { "left": "To win a prize you had to guess", "right": "how many sweets were in the jar." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna was new in the office and I had to keep reminding ___ everyone was.",
+      "hint": "(who)",
+      "answers": ["her who", "him who", "them who"],
+      "explanation": "remind must have an object before the wh-clause: reminding her who everyone was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As the guests came in Diego told ___ to put their coats.",
+      "hint": "(where)",
+      "answers": ["them where"],
+      "explanation": "tell needs an object, and the wh-word can then be followed by a to-infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She was ___ whether to invite Jeremy over for dinner.",
+      "options": ["debating", "thinking", "explaining"],
+      "answer": 0,
+      "explanation": "debate takes whether + to-infinitive; think does not (only think about does), and explain never does."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I have to ___ whether to get a job or apply to go to college.",
+      "options": ["choose", "imagine", "realise"],
+      "answer": 0,
+      "explanation": "Only 'talking or thinking about choices' verbs like choose take whether + to-infinitive."
+    },
+    { "type": "true_false", "statement": "When the snow started falling it was very light, and I couldn't decide if to carry on or go back down.", "answer": false, "explanation": "... I couldn't decide whether to carry on or go back down. if is never used before a to-infinitive." },
+    {
+      "type": "fill_blank",
+      "prompt": "There was some discussion through the day as ___ whether the snow would arrive before my descent.",
+      "hint": "(1 word)",
+      "answers": ["to"],
+      "explanation": "The formal linker is as to + wh-clause, most often as to whether."
+    },
+    { "type": "true_false", "statement": "In the morning they showed me the way how to get to the track up the mountain.", "answer": false, "explanation": "... showed me the way to get to the track. (or ... showed me how to get to the track.) We never use the way how." },
+    {
+      "type": "categorize",
+      "prompt": "Which verbs can be followed by whether + to-infinitive?",
+      "categories": ["whether + to-infinitive is possible", "whether + to-infinitive is not used"],
+      "items": [
+        { "text": "choose", "category": 0 },
+        { "text": "consider", "category": 0 },
+        { "text": "debate", "category": 0 },
+        { "text": "wonder", "category": 0 },
+        { "text": "ask", "category": 1 },
+        { "text": "explain", "category": 1 },
+        { "text": "imagine", "category": 1 },
+        { "text": "speculate", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "As the snow got heavier I began to realise ___ my life was in danger.",
+      "options": ["that", "whether", "if"],
+      "answer": 0,
+      "explanation": "He was becoming sure of a fact, so a that-clause is right; whether would leave the question open."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I knew there was a shepherd's hut on this side of the mountain, but I didn't know ___ it was nearby or miles away.",
+      "hint": "(that / whether)",
+      "answers": ["whether", "if"],
+      "explanation": "Two open possibilities are being weighed, so we need whether (or if), not that."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this formal sentence in order.",
+      "words": ["Opinion was divided", "as to", "whether", "the findings", "were representative"],
+      "answer": "Opinion was divided as to whether the findings were representative",
+      "explanation": "as to introduces the topic of the question in formal writing."
+    }
+  ]
+}

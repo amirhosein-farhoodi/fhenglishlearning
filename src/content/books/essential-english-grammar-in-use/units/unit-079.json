@@ -1,0 +1,166 @@
+{
+  "number": 79,
+  "title": "somebody/anything/nowhere etc.",
+  "subtitle": "somebody / anything / nowhere",
+  "summary": "Use some-, any- and no- with -body, -thing and -where to talk about people, things and places you cannot name.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "We don't know who, what or where",
+      "text": "A window is broken and there is glass on the ground. We do not know who did it. A woman is holding her hand at her mouth; we cannot see what is in it. On a map there are question marks all round London. In all three cases we use a **some-** word.",
+      "examples": [
+        { "text": "**Somebody** (or **Someone**) has broken the window.", "note": "somebody/someone = a person, but we don't know who" },
+        { "text": "She has got **something** in her mouth.", "note": "something = a thing, but we don't know what" },
+        { "text": "Tom lives **somewhere** near London.", "note": "somewhere = in/to a place, but we don't know where" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The nine words",
+      "columns": ["", "people (-body / -one)", "things (-thing)", "places (-where)"],
+      "rows": [
+        ["some-", "somebody / someone", "something", "somewhere"],
+        ["any-", "anybody / anyone", "anything", "anywhere"],
+        ["no-", "nobody / no-one", "nothing", "nowhere"]
+      ],
+      "note": "*-body* and *-one* are the same: somebody = someone, nobody = no-one."
+    },
+    {
+      "type": "explain",
+      "heading": "People",
+      "text": "Use **somebody** in positive sentences, **anybody** in questions and negatives, and **nobody** with a positive verb.",
+      "examples": [
+        { "text": "There is **somebody** (or **someone**) at the door." },
+        { "text": "Is there **anybody** (or **anyone**) at the door?" },
+        { "text": "There **isn't anybody** (or **anyone**) at the door." },
+        { "text": "There is **nobody** (or **no-one**) at the door." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things and places",
+      "text": "The **-thing** words and the **-where** words work in the same way.",
+      "examples": [
+        { "text": "Lucy said **something**, but I didn't understand what she said." },
+        { "text": "Are you doing **anything** at the weekend?" },
+        { "text": "I was angry, but I **didn't** say **anything**." },
+        { "text": "*A:* What did you say? *B:* **Nothing**." },
+        { "text": "Ruth's parents live **somewhere** in the south of England." },
+        { "text": "I'm staying here. I'm **not** going **anywhere**." },
+        { "text": "I don't like this town. There is **nowhere** to go." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "+ adjective and + to ...",
+      "text": "An adjective (*big*, *cheap*, *interesting*) goes **after** these words, not before. You can also add **to** + verb.",
+      "examples": [
+        { "text": "Did you meet **anybody interesting** at the party?", "wrong": "interesting anybody" },
+        { "text": "We always go to the same place. Let's go **somewhere different**." },
+        { "text": "*A:* What's that letter? *B:* It's **nothing important**." },
+        { "text": "I'm hungry. I want **something to eat**.", "note": "= something that I can eat" },
+        { "text": "Tony hasn't got **anybody to talk** to." },
+        { "text": "There is **nowhere to go** in this town." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The adjective always comes second: *somewhere different*, not ~~different somewhere~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What have you lost? *B:* I've lost ___.",
+      "hint": "(somebody / something / somewhere)",
+      "answers": ["something"],
+      "explanation": "What ... ? asks about a thing, so we use something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where did they go? *B:* Sue and Tom went ___.",
+      "hint": "(somebody / something / somewhere)",
+      "answers": ["somewhere"],
+      "explanation": "Where ... ? asks about a place, so we use somewhere."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Who are you going to phone? *B:* I'm going to phone ___.",
+      "hint": "(somebody / something / somewhere)",
+      "answers": ["somebody", "someone"],
+      "explanation": "Who ... ? asks about a person, so we use somebody or someone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Where are you going? *B:* ___",
+      "options": ["Nowhere.", "Nothing.", "Nobody."],
+      "answer": 0,
+      "explanation": "Where ... ? is about a place, so the short answer is Nowhere."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each short answer with the same answer in a full sentence.",
+      "pairs": [
+        { "left": "*A:* What did you say? *B:* Nothing.", "right": "I didn't say anything." },
+        { "left": "*A:* Where are you going? *B:* Nowhere.", "right": "I'm not going anywhere." },
+        { "left": "*A:* What do you want? *B:* Nothing.", "right": "I don't want anything." },
+        { "left": "*A:* Who are you looking for? *B:* Nobody.", "right": "I'm not looking for anybody." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each gap need something, anything or nothing?",
+      "categories": ["something", "anything", "nothing"],
+      "items": [
+        { "text": "Lucy said ___, but I didn't understand her.", "category": 0 },
+        { "text": "Are you doing ___ at the weekend?", "category": 1 },
+        { "text": "I was angry, but I didn't say ___.", "category": 1 },
+        { "text": "*A:* What did you say? *B:* ___.", "category": 2 },
+        { "text": "I'm hungry. I want ___ to eat.", "category": 0 },
+        { "text": "*A:* What's that letter? *B:* It's ___ important.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's in that cupboard? *B:* ___. It's empty.",
+      "hint": "(nothing / anything)",
+      "answers": ["Nothing"],
+      "explanation": "We can use Nothing alone to answer a question."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's going to happen? *B:* I don't know. ___ knows.",
+      "hint": "(nobody / anybody)",
+      "answers": ["Nobody", "No-one", "No one"],
+      "explanation": "knows is a positive verb, so we use Nobody (or No-one)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like cold weather. I want to live ___ warm.",
+      "hint": "(somewhere / anywhere)",
+      "answers": ["somewhere"],
+      "explanation": "A positive sentence, so somewhere. The adjective warm comes after it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Did you meet interesting anybody at the party?",
+      "answer": false,
+      "explanation": "The adjective goes after: Did you meet anybody interesting at the party?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Why are you standing? *B:* Because there isn't ___.",
+      "options": ["anywhere to sit", "nowhere to sit", "somewhere to sit"],
+      "answer": 0,
+      "explanation": "isn't is negative, so we use anywhere to sit."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A person has no plans for the evening. Put the sentence in order.",
+      "words": ["I'm", "bored.", "I've", "got", "nothing", "to", "do."],
+      "answer": "I'm bored. I've got nothing to do.",
+      "explanation": "I've got is a positive verb, so we use nothing + to do."
+    }
+  ]
+}

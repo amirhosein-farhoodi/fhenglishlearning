@@ -1,0 +1,181 @@
+{
+  "number": 77,
+  "title": "not + any no none",
+  "subtitle": "not any / no money / None.",
+  "summary": "Say the same negative idea in two ways, with not + any or with no + noun, and answer How much? or How many? with none.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "An empty car park",
+      "text": "Two people walk into a car park. There is not one car there. We can say this in two ways, and we can answer the question **How many ... ?** with **None**.",
+      "examples": [
+        { "text": "The car park is empty." },
+        { "text": "There **aren't any** cars in the car park." },
+        { "text": "There are **no** cars in the car park." },
+        { "text": "*A:* How many cars are there in the car park? *B:* **None**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "not + any and no + noun",
+      "left": {
+        "label": "not (-n't) + any",
+        "text": "The verb is negative.",
+        "examples": [
+          "There **aren't any** cars in the car park.",
+          "Tracey and Jeff **haven't** got **any** children.",
+          "You can have some coffee, but I **don't** want **any**."
+        ]
+      },
+      "right": {
+        "label": "no + noun",
+        "text": "**no ...** = not any or not a. The verb is positive.",
+        "examples": [
+          "There are **no** cars in the car park.",
+          "We've got **no** coffee.",
+          "It's a nice house, but there's **no** garden."
+        ]
+      },
+      "note": "We use **no ...** especially after *have (got)* and *there is/are*."
+    },
+    {
+      "type": "explain",
+      "heading": "One negative only",
+      "text": "negative verb + **any** = positive verb + **no**. Use only one of them in a sentence, never both.",
+      "examples": [
+        { "text": "They **haven't** got **any** children. *or* They've got **no** children.", "wrong": "They haven't got no children" },
+        { "text": "There **isn't any** sugar in your coffee. *or* There's **no** sugar in your coffee." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "no and none",
+      "text": "Use **no** with a noun (*no money*, *no children*). Use **none** alone, without a noun.",
+      "examples": [
+        { "text": "We've got **no** money." },
+        { "text": "Everything was OK. There were **no** problems." },
+        { "text": "*A:* How much money have you got? *B:* **None**.", "note": "= no money" },
+        { "text": "*A:* Were there any problems? *B:* No, **none**.", "note": "= no problems" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "none and no-one",
+      "left": {
+        "label": "none = 0 (zero)",
+        "text": "**None** answers **How much ... ?** and **How many ... ?**, for things or people.",
+        "examples": [
+          "*A:* How much money have you got? *B:* **None**.",
+          "*A:* How many people did you meet? *B:* **None**."
+        ]
+      },
+      "right": {
+        "label": "no-one = nobody",
+        "text": "**No-one** answers **Who ... ?**",
+        "examples": [
+          "*A:* Who did you meet? *B:* **No-one**. *or* **Nobody**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "With a noun say *no money*; alone say *None*, not ~~none money~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "There's ___ sugar in your coffee.",
+      "hint": "(no / any)",
+      "answers": ["no"],
+      "explanation": "The verb is positive (there's), so we use no."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother is married, but he hasn't got ___ children.",
+      "hint": "(no / any)",
+      "answers": ["any"],
+      "explanation": "hasn't is negative, so we use any."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sue doesn't speak ___ foreign languages.",
+      "hint": "(no / any)",
+      "answers": ["any"],
+      "explanation": "doesn't is negative, so we use any."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the same sentence written with no.",
+      "pairs": [
+        { "left": "We haven't got any money.", "right": "We've got no money." },
+        { "left": "There aren't any shops near here.", "right": "There are no shops near here." },
+        { "left": "Carla hasn't got any free time.", "right": "Carla has got no free time." },
+        { "left": "There isn't a light in this room.", "right": "There is no light in this room." },
+        { "left": "There aren't any buses today.", "right": "There are no buses today." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm afraid there's ___ coffee. Would you like some tea?",
+      "hint": "(no / any)",
+      "answers": ["no"],
+      "explanation": "The verb is positive (there's), so we use no."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There's no milk in the fridge. Which sentence means the same?",
+      "options": ["There isn't any milk in the fridge.", "There isn't no milk in the fridge.", "There is any milk in the fridge."],
+      "answer": 0,
+      "explanation": "no + noun = negative verb + any. Use one negative only."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each gap need no or any?",
+      "categories": ["no", "any"],
+      "items": [
+        { "text": "The weather was cold, but there was ___ wind.", "category": 0 },
+        { "text": "There aren't ___ pictures on the wall.", "category": 1 },
+        { "text": "Everything was correct. There were ___ mistakes.", "category": 0 },
+        { "text": "I wanted to buy some oranges, but they didn't have ___ in the shop.", "category": 1 },
+        { "text": "He's always alone. He's got ___ friends.", "category": 0 },
+        { "text": "There wasn't ___ furniture in the room. It was completely empty.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jack and Emily would like to go on holiday, but they've got ___.",
+      "hint": "(money)",
+      "answers": ["no money"],
+      "explanation": "After have got with a positive verb we use no: no money."
+    },
+    {
+      "type": "true_false",
+      "statement": "Tracey and Jeff haven't got no children.",
+      "answer": false,
+      "explanation": "Use one negative only: They haven't got any children. or They've got no children."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is ___ between these two machines. They're exactly the same.",
+      "hint": "(difference)",
+      "answers": ["no difference"],
+      "explanation": "there is + no + noun: no difference."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* How much luggage have you got? *B:* ___",
+      "options": ["None.", "No-one.", "Not any."],
+      "answer": 0,
+      "explanation": "None answers How much ... ? and How many ... ? No-one answers Who ... ?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "The holiday went well. Put the sentence in order.",
+      "words": ["Everything", "was", "OK.", "There", "were", "no", "problems."],
+      "answer": "Everything was OK. There were no problems.",
+      "explanation": "The verb is positive, so we use no + noun."
+    }
+  ]
+}

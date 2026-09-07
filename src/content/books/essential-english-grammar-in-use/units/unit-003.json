@@ -1,0 +1,170 @@
+{
+  "number": 3,
+  "title": "I am doing (present continuous)",
+  "subtitle": "I'm working / she isn't eating",
+  "summary": "Use am/is/are + -ing to say that something is happening now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Three things that are happening now",
+      "text": "A woman is at the table with a plate of food in front of her. She says: *I'm eating.* Outside, a person walks along the wet street under an umbrella. In the park, three people run together. For all of these we use **am/is/are + -ing**, because they are happening *now*.",
+      "examples": [
+        { "text": "**She's eating**. She **isn't reading**." },
+        { "text": "**It's raining**. The sun **isn't shining**." },
+        { "text": "**They're running**. They **aren't walking**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "am / is / are (not)", "-ing"],
+      "rows": [
+        ["I", "am (not)", "working"],
+        ["he / she / it", "is (not)", "eating"],
+        ["we / you / they", "are (not)", "doing"]
+      ],
+      "note": "The present continuous is **am/is/are** + **doing / eating / running / writing** etc."
+    },
+    {
+      "type": "explain",
+      "heading": "Positive and negative",
+      "text": "For the negative, put **not** after am/is/are. Both short forms are correct: *she isn't eating* = *she's not eating*.",
+      "examples": [
+        { "text": "**I'm working**. **I'm not watching** TV." },
+        { "text": "Maria **is reading** a newspaper." },
+        { "text": "She **isn't eating**.", "note": "or She's not eating." },
+        { "text": "We**'re having** dinner." },
+        { "text": "The children **are doing** their homework." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Something is happening now",
+      "text": "**am/is/are + -ing** means that the action is happening at this moment. It started a short time ago and it is not finished.",
+      "examples": [
+        { "text": "Please be quiet. **I'm working**.", "note": "= I'm working now" },
+        { "text": "Look, there's Sarah. **She's wearing** a brown coat." },
+        { "text": "The weather is nice. **It's not raining**." },
+        { "text": "*A:* Where are the children? *B:* **They're playing** in the park." },
+        { "text": "You can turn off the television. **I'm not watching** it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Spelling of -ing",
+      "columns": ["Verb", "-ing form", "Change"],
+      "rows": [
+        ["come", "coming", "-e goes away"],
+        ["write", "writing", "-e goes away"],
+        ["dance", "dancing", "-e goes away"],
+        ["run", "running", "double letter"],
+        ["sit", "sitting", "double letter"],
+        ["swim", "swimming", "double letter"],
+        ["lie", "lying", "-ie becomes -y"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Do not forget am/is/are. We say *I'm working*, not ~~I working~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A man in a coat is standing at a bus stop with his bag. ___ for a bus.",
+      "hint": "(he / wait)",
+      "answers": ["He's waiting", "He is waiting"],
+      "explanation": "It is happening now: he's waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some boys are kicking a ball to each other on a pitch. ___ football.",
+      "hint": "(they / play)",
+      "answers": ["They're playing", "They are playing"],
+      "explanation": "More than one person, so are + playing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The telephone starts to ring. Which sentence is right?",
+      "options": ["The phone is ringing.", "The phone ringing.", "The phone is ring."],
+      "answer": 0,
+      "explanation": "We need is + the -ing form: The phone is ringing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where's John? *B:* He's in the kitchen. ___ .",
+      "hint": "(he / cook)",
+      "answers": ["He's cooking", "He is cooking"],
+      "explanation": "He is in the kitchen now, so: He's cooking."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Look! Somebody ___ in the river.",
+      "hint": "(swim)",
+      "answers": ["is swimming", "'s swimming"],
+      "explanation": "Somebody = he/she, so is + swimming. Note the double m."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We're here on holiday. We ___ at the Central Hotel.",
+      "hint": "(stay)",
+      "answers": ["are staying", "'re staying"],
+      "explanation": "It is happening around now: we're staying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where's Sue? *B:* ___ a shower.",
+      "hint": "(she / have)",
+      "answers": ["She's having", "She is having"],
+      "explanation": "She is in the middle of it now: She's having a shower."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They ___ a new hotel in the city centre at the moment.",
+      "hint": "(build)",
+      "answers": ["are building", "'re building"],
+      "explanation": "At the moment tells us the action is happening now."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its -ing form.",
+      "pairs": [
+        { "left": "come", "right": "coming" },
+        { "left": "write", "right": "writing" },
+        { "left": "run", "right": "running" },
+        { "left": "swim", "right": "swimming" },
+        { "left": "sit", "right": "sitting" },
+        { "left": "lie", "right": "lying" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Jane is at home. She is sitting on the floor and she is laughing. The television is on in front of her, and she has a hat on her head. There is a piano behind her, but nobody is at it. There are books on the floor, all closed. Which things is Jane doing?",
+      "categories": ["She's doing this", "She isn't doing this"],
+      "items": [
+        { "text": "watching television", "category": 0 },
+        { "text": "sitting on the floor", "category": 0 },
+        { "text": "laughing", "category": 0 },
+        { "text": "wearing a hat", "category": 0 },
+        { "text": "playing the piano", "category": 1 },
+        { "text": "reading a book", "category": 1 },
+        { "text": "having dinner", "category": 1 },
+        { "text": "writing a letter", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "The television is on, but you don't want it. Tell your friend they can turn it off.",
+      "words": ["I'm", "not", "watching", "it."],
+      "answer": "I'm not watching it.",
+      "explanation": "Negative present continuous: I'm not + -ing."
+    },
+    {
+      "type": "true_false",
+      "statement": "Please be quiet. I working.",
+      "answer": false,
+      "explanation": "Please be quiet. I'm working. The present continuous always needs am/is/are."
+    }
+  ]
+}

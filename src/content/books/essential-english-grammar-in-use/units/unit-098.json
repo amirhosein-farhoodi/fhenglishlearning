@@ -1,0 +1,167 @@
+{
+  "number": 98,
+  "title": "When ...",
+  "subtitle": "When I went out, it was raining.",
+  "summary": "Join two parts into one sentence with when, before, while, after or until, and use the present after when for the future.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two parts in one sentence",
+      "text": "A man opens his front door and sees rain everywhere, so he takes his umbrella. Later he tells a friend about it. He puts two parts together: **when I went out** + **it was raining**. Both orders are correct.",
+      "examples": [
+        { "text": "**When I went out**, it was raining." },
+        { "text": "It was raining **when I went out**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When at the beginning or in the middle",
+      "text": "You can put the **when**-part first or second. The meaning is the same. We write a comma (**,**) only when the **when**-part comes first.",
+      "examples": [
+        { "text": "**When** you're tired, don't drive." },
+        { "text": "Don't drive **when** you're tired." },
+        { "text": "Helen was 25 **when** she got married." },
+        { "text": "**When** Helen got married, she was 25." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "before / while / after",
+      "text": "We do the same in sentences with **before**, **while** and **after**. The two parts can change places.",
+      "examples": [
+        { "text": "Always look both ways **before** you cross the road." },
+        { "text": "**Before** you cross the road, always look both ways." },
+        { "text": "**While** I was waiting for the bus, it began to rain." },
+        { "text": "He never played football again **after** he broke his leg." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When I am ... / When I go ...",
+      "text": "Next week Sarah is going to New York. Her friend Lisa lives there, but Lisa is going away to Mexico. On the phone Lisa says: 'I'll be in Mexico **when you're** here.' The time is future, but after **when** we use the present.",
+      "examples": [
+        { "text": "Lisa **will be** in Mexico **when** Sarah **is** in New York.", "wrong": "when Sarah will be" },
+        { "text": "**When** I **get** home this evening, I'm going to have a shower.", "wrong": "When I will get home" },
+        { "text": "I can't talk to you now. I'll talk to you later **when** I **have** more time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "before / while / after / until + present",
+      "text": "We do the same after **before**, **while**, **after** and **until**. The other part of the sentence often has *will* or *going to*.",
+      "examples": [
+        { "text": "Please close the window **before** you **go** out.", "wrong": "before you will go" },
+        { "text": "Rachel is going to stay in our flat **while** we **are** away.", "wrong": "while we will be" },
+        { "text": "I'll wait here **until** you **come** back.", "wrong": "until you will come back" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "We say / we do not say",
+      "columns": ["We say", "Not"],
+      "rows": [
+        ["When I get home, I'm going to have a shower.", "When I will get home"],
+        ["I'll talk to you when I have more time.", "when I will have"],
+        ["Close the window before you go out.", "before you will go"],
+        ["I'll wait here until you come back.", "until you will come back"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After when, before, while, after and until we use the present for the future: *I'll phone you when I get home*, not ~~when I will get home~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "When I ___ home this evening, I'm going to have a shower.",
+      "hint": "(get)",
+      "answers": ["get"],
+      "explanation": "After when we use the present, not will."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm going to bed when ___ my work.",
+      "options": ["I finish", "I'll finish", "I'm going to finish"],
+      "answer": 0,
+      "explanation": "After when we use the present: when I finish."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each when-part with the rest of the sentence.",
+      "pairs": [
+        { "left": "When I'm tired,", "right": "I like to watch TV" },
+        { "left": "When I phoned her,", "right": "there was no answer" },
+        { "left": "When I go on holiday,", "right": "I always go to the same place" },
+        { "left": "When the programme ended,", "right": "I turned off the TV" },
+        { "left": "When I got to the hotel,", "right": "there were no rooms" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We must do something before ___ too late.",
+      "options": ["it's", "it will be", "it is going to be"],
+      "answer": 0,
+      "explanation": "After before we use the present: before it's too late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't talk to you now. I'll talk to you later when I ___ more time.",
+      "hint": "(have)",
+      "answers": ["have"],
+      "explanation": "After when we use the present, not will have."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Don't go out yet. Wait until the rain ___.",
+      "options": ["stops", "will stop", "is going to stop"],
+      "answer": 0,
+      "explanation": "After until we use the present: until the rain stops."
+    },
+    {
+      "type": "true_false",
+      "statement": "When I got to the hotel, there were no rooms.",
+      "answer": true,
+      "explanation": "Correct. Both parts are past, and the comma is right because the when-part comes first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["When", "I'm tired,", "I", "like", "to", "watch", "TV."],
+      "answer": "When I'm tired, I like to watch TV.",
+      "explanation": "The when-part comes first, so we write a comma after it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "They looked both ways", "right": "before they crossed the road" },
+        { "left": "After they got married,", "right": "they went to live in New Zealand" },
+        { "left": "Their house was damaged in a storm", "right": "while they were away" },
+        { "left": "While we were asleep,", "right": "somebody broke into the house" },
+        { "left": "When I told them what happened,", "right": "they didn't believe me" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen is going away soon. ___ very sad when she leaves.",
+      "hint": "(I'm / I'll be)",
+      "answers": ["I'll be", "I will be"],
+      "explanation": "The other part of the sentence uses will: I'll be very sad when she leaves."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm not ready yet. I'll tell you when ___ ready.",
+      "options": ["I'm", "I'll be", "I am going to be"],
+      "answer": 0,
+      "explanation": "Will goes in the other part, not after when: I'll tell you when I'm ready."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'll give it to you before I will go.",
+      "answer": false,
+      "explanation": "I'll give it to you before I go. After before we use the present, not will."
+    }
+  ]
+}

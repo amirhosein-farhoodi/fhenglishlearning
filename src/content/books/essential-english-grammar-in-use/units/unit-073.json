@@ -1,0 +1,165 @@
+{
+  "number": 73,
+  "title": "the ... (names of places)",
+  "subtitle": "France / the Netherlands / the Nile",
+  "summary": "Learn when a name of a place takes the (rivers, seas, plural names, hotels, museums) and when it takes nothing (countries, towns, streets, stations).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Countries, towns and continents",
+      "text": "In general we do **not** use *the* with names of continents, countries, states, islands and towns.",
+      "examples": [
+        { "text": "**France** is a very large country.", "wrong": "the France" },
+        { "text": "**Cairo** is the capital of **Egypt**." },
+        { "text": "**Corsica** is an island in the Mediterranean." },
+        { "text": "**Peru** is in **South America**." }
+      ],
+      "note": "But we use **the** in names with *republic*, *states* or *kingdom*: **the** Czech Republic, **the** United States of America (**the** USA), **the** United Kingdom (**the** UK)."
+    },
+    {
+      "type": "explain",
+      "heading": "the -s (plural names)",
+      "text": "We use **the** with plural names of countries, islands and mountains.",
+      "examples": [
+        { "text": "**the** Netherlands" },
+        { "text": "**the** Philippines" },
+        { "text": "**the** Canary Islands" },
+        { "text": "**the** Alps" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Seas, rivers and canals",
+      "text": "We use **the** with names of oceans, seas, rivers and canals.",
+      "examples": [
+        { "text": "**the** Atlantic (Ocean), **the** Pacific" },
+        { "text": "**the** Mediterranean (Sea), **the** Black Sea, **the** Red Sea" },
+        { "text": "**the** Amazon, **the** (River) Nile, **the** Rhine" },
+        { "text": "**the** Suez Canal, **the** Panama Canal" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Places in towns",
+      "columns": ["No the", "With the"],
+      "rows": [
+        ["Newton Street, Highfield Road", "the Regent Hotel, the Park Hotel"],
+        ["Times Square", "the Science Museum, the National Gallery"],
+        ["Kennedy Airport, Victoria Station", "the National Theatre"],
+        ["Cambridge University, London Zoo", "the Odeon (cinema), the Regal Cinema"]
+      ],
+      "note": "Streets, squares, airports, stations and many important buildings take no *the*. But most hotels, museums, theatres and cinemas take **the**."
+    },
+    {
+      "type": "explain",
+      "heading": "the ... of ... and the north / the south",
+      "text": "We always use **the** with names that have *... of ...*, and with **the north / the south / the east / the west**.",
+      "examples": [
+        { "text": "**the** Museum **of** Modern Art, **the** University **of** California" },
+        { "text": "**the** Great Wall **of** China, **the** Tower **of** London" },
+        { "text": "I've been to **the north of Italy**, but not to **the south**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One name can go both ways: *Cambridge University* has no *the*, but *the University of Cambridge* does, because of *of*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ is the largest continent in the world.",
+      "hint": "(Asia)",
+      "answers": ["Asia"],
+      "explanation": "No the with the name of a continent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is the capital of Thailand.",
+      "hint": "(Bangkok)",
+      "answers": ["Bangkok"],
+      "explanation": "No the with the name of a town or city."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is a river in South America.",
+      "hint": "(Amazon)",
+      "answers": ["The Amazon"],
+      "explanation": "Rivers always take the: the Amazon, the Nile, the Rhine."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the right name.",
+      "pairs": [
+        { "left": "is a river in Europe", "right": "the Rhine" },
+        { "left": "is between Saudi Arabia and Africa", "right": "the Red Sea" },
+        { "left": "are mountains in South America", "right": "the Andes" },
+        { "left": "is a country in northern Europe", "right": "Sweden" },
+        { "left": "is an island in the Caribbean", "right": "Jamaica" },
+        { "left": "is a country in East Africa", "right": "Kenya" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is the largest ocean.",
+      "hint": "(Pacific)",
+      "answers": ["The Pacific"],
+      "explanation": "Oceans and seas take the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Have you ever been to ___?",
+      "options": ["the Philippines", "Philippines", "a Philippines"],
+      "answer": 0,
+      "explanation": "Plural names of countries and islands take the."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these names take the?",
+      "categories": ["the ...", "no the"],
+      "items": [
+        { "text": "Netherlands", "category": 0 },
+        { "text": "Alps", "category": 0 },
+        { "text": "Nile", "category": 0 },
+        { "text": "Museum of Art", "category": 0 },
+        { "text": "Peru", "category": 1 },
+        { "text": "Corsica", "category": 1 },
+        { "text": "Times Square", "category": 1 },
+        { "text": "Victoria Station", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Kevin lives in Newton Street.",
+      "answer": true,
+      "explanation": "Names of streets take no the."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went to see a play at National Theatre.",
+      "answer": false,
+      "explanation": "We went to see a play at the National Theatre. Theatres, cinemas, hotels and museums take the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you ever been to ___ of France?",
+      "hint": "(south)",
+      "answers": ["the south"],
+      "explanation": "We always say the north / the south / the east / the west of a place."
+    },
+    {
+      "type": "true_false",
+      "statement": "I hope to go to United States next year.",
+      "answer": false,
+      "explanation": "I hope to go to the United States next year. Names with states, republic or kingdom take the."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["The Panama Canal", "joins", "the Atlantic Ocean", "and", "the Pacific Ocean."],
+      "answer": "The Panama Canal joins the Atlantic Ocean and the Pacific Ocean.",
+      "explanation": "Canals and oceans all take the."
+    }
+  ]
+}

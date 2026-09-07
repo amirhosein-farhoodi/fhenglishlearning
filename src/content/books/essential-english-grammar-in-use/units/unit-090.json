@@ -1,0 +1,173 @@
+{
+  "number": 90,
+  "title": "the oldest the most expensive",
+  "subtitle": "the biggest / the most expensive",
+  "summary": "Use the -est or the most ... to say that one thing is more than all the others.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Comparative and superlative",
+      "text": "Four boxes stand in a line: A is the big one, then B, then D, and C is very small. Box A is **bigger than** Box B. Box A is **bigger than** all the other boxes, so Box A is **the biggest** box. It works the same way with hotel prices. The Europa costs 140 pounds a night, the Grand 125 and the Station only 75.",
+      "examples": [
+        { "text": "The Europa Hotel is **more expensive than** the Grand." },
+        { "text": "The Europa Hotel is **more expensive than** all the other hotels in the city." },
+        { "text": "The Europa Hotel is **the most expensive** hotel in the city." }
+      ],
+      "note": "*bigger / older / more expensive* are **comparative** forms. *biggest / oldest / most expensive* are **superlative** forms."
+    },
+    {
+      "type": "table",
+      "heading": "How to make the superlative",
+      "columns": ["Adjective", "Comparative", "Superlative"],
+      "rows": [
+        ["old", "older", "the oldest"],
+        ["cheap", "cheaper", "the cheapest"],
+        ["nice", "nicer", "the nicest"],
+        ["big", "bigger", "the biggest"],
+        ["easy", "easier", "the easiest"],
+        ["pretty", "prettier", "the prettiest"],
+        ["expensive", "more expensive", "the most expensive"],
+        ["interesting", "more interesting", "the most interesting"]
+      ],
+      "note": "Spelling: big -> the bi**gg**est, hot -> the ho**tt**est. Words ending in *-y* change to *-iest*."
+    },
+    {
+      "type": "table",
+      "heading": "Special forms",
+      "columns": ["Adjective", "Comparative", "Superlative"],
+      "rows": [
+        ["good", "better", "the best"],
+        ["bad", "worse", "the worst"],
+        ["far", "further", "the furthest"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "We say the oldest / the most expensive",
+      "text": "The superlative nearly always has **the** in front of it.",
+      "examples": [
+        { "text": "The church is very old. It's **the oldest** building in the town.", "note": "= it is older than all the other buildings" },
+        { "text": "What is **the longest** river in the world?" },
+        { "text": "Money is important, but it isn't **the most important** thing in life." },
+        { "text": "Excuse me, where is **the nearest** bank?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Superlative without a noun",
+      "text": "You can use **the oldest / the best / the most expensive** without a noun, when it is clear what you are talking about.",
+      "examples": [
+        { "text": "Ken is a good player, but he isn't **the best** in the team.", "note": "the best = the best player" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "the best I've ever ...",
+      "text": "We often use a superlative with **I've ever ...** or **you've ever ...** to talk about all our life until now.",
+      "examples": [
+        { "text": "The film was very bad. I think it's **the worst** film **I've ever seen**." },
+        { "text": "What is **the most unusual** thing **you've ever done**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Don't forget **the**: *she's the youngest*, not ~~she's youngest~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Box A is bigger than all the other boxes. Box A is ___.",
+      "hint": "(big)",
+      "answers": ["the biggest"],
+      "explanation": "Short word: the + adjective + -est, with the last letter written twice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Line B is shorter than lines A, C and D. Line B is ___.",
+      "hint": "(short)",
+      "answers": ["the shortest"],
+      "explanation": "short is a short word, so the superlative is the shortest."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its superlative.",
+      "pairs": [
+        { "left": "good", "right": "the best" },
+        { "left": "bad", "right": "the worst" },
+        { "left": "big", "right": "the biggest" },
+        { "left": "easy", "right": "the easiest" },
+        { "left": "expensive", "right": "the most expensive" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A is 23, B is 19, C is 24 and D is 21. B is ___.",
+      "hint": "(young)",
+      "answers": ["the youngest"],
+      "explanation": "B is younger than all the others, so B is the youngest."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which superlative does each adjective take?",
+      "categories": ["the ...est", "the most ..."],
+      "items": [
+        { "text": "happy", "category": 0 },
+        { "text": "cold", "category": 0 },
+        { "text": "pretty", "category": 0 },
+        { "text": "popular", "category": 1 },
+        { "text": "boring", "category": 1 },
+        { "text": "important", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vase A costs 8 pounds, B costs 10, C costs 15 and D costs 12. C is ___ vase.",
+      "hint": "(expensive)",
+      "answers": ["the most expensive"],
+      "explanation": "expensive is a long word, so we say the most expensive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vase A costs 8 pounds, B costs 10, C costs 15 and D costs 12. A is ___ vase.",
+      "hint": "(cheap)",
+      "answers": ["the cheapest"],
+      "explanation": "A costs less than all the others, so A is the cheapest."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Restaurant A is excellent. Restaurant D is awful. Which sentence is right?",
+      "options": ["D is the baddest.", "D is the worst.", "D is the most bad."],
+      "answer": 1,
+      "explanation": "bad is irregular: bad - worse - the worst."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a very happy day. It was ___ of my life.",
+      "hint": "(happy)",
+      "answers": ["the happiest day"],
+      "explanation": "happy ends in -y, so the superlative is the happiest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very good film. It's ___ I've ever seen.",
+      "hint": "(good)",
+      "answers": ["the best film"],
+      "explanation": "good is irregular: good - better - the best."
+    },
+    {
+      "type": "true_false",
+      "statement": "The Nile is the most long river in Africa.",
+      "answer": false,
+      "explanation": "The Nile is the longest river in Africa. long is a short word, so we add -est."
+    },
+    {
+      "type": "word_order",
+      "prompt": "No mountain in the world is higher than Everest. Put the sentence in order.",
+      "words": ["Everest", "is", "the highest", "mountain", "in the world."],
+      "answer": "Everest is the highest mountain in the world.",
+      "explanation": "the + adjective + -est + noun."
+    }
+  ]
+}

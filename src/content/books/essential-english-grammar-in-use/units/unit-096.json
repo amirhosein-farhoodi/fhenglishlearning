@@ -1,0 +1,171 @@
+{
+  "number": 96,
+  "title": "Give me that book! Give it to me!",
+  "subtitle": "give somebody something / give something to somebody",
+  "summary": "Use both give somebody something and give something to somebody, and use give it to somebody with it and them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two possible structures",
+      "text": "A hand holds out some keys and Sarah puts her hand out to take them. There are two ways to say this. After the verbs **give**, **lend**, **pass**, **send** and **show** both structures are correct.",
+      "examples": [
+        { "text": "I gave **the keys to Sarah**.", "note": "give something to somebody" },
+        { "text": "I gave **Sarah the keys**.", "note": "give somebody something" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "give something to somebody",
+      "columns": ["", "something", "to somebody"],
+      "rows": [
+        ["That's my book. **Give**", "it", "**to** me."],
+        ["These are Sue's keys. Can you **give**", "them", "**to** her?"],
+        ["Can you **give**", "these flowers", "**to** your mother?"],
+        ["I **lent**", "my car", "**to** a friend of mine."],
+        ["Did you **send**", "a postcard", "**to** Kate?"],
+        ["We've seen these photos. You **showed**", "them", "**to** us."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "give somebody something",
+      "columns": ["", "somebody", "something"],
+      "rows": [
+        ["**Give**", "me", "that book. It's mine."],
+        ["Tom **gave**", "his mother", "some flowers."],
+        ["I **lent**", "Joe", "some money."],
+        ["I **sent**", "you", "an email. Did you get it?"],
+        ["Nicole **showed**", "us", "her holiday photos."],
+        ["Can you **pass**", "me", "the salt, please?"]
+      ],
+      "note": "There is no *to* in this structure: *Give me that book*, not ~~Give to me that book~~."
+    },
+    {
+      "type": "explain",
+      "heading": "buy and get somebody something",
+      "text": "You can also say **buy** or **get** somebody something. With *for* the thing comes first.",
+      "examples": [
+        { "text": "I **bought my mother some flowers**.", "note": "= I bought some flowers for my mother." },
+        { "text": "Can you **get me a newspaper** when you go out?", "note": "= get a newspaper for me" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Which structure with it and them?",
+      "left": {
+        "label": "Both are correct",
+        "text": "With a noun (the keys, that book) you can choose.",
+        "examples": [
+          "I gave the keys **to Sarah**.",
+          "I gave **Sarah** the keys.",
+          "Can you give that book **to me**?",
+          "Can you give **me** that book?"
+        ]
+      },
+      "right": {
+        "label": "With it and them use to",
+        "text": "We prefer give something to somebody when the thing is **it** or **them**.",
+        "examples": [
+          "I gave **it to her**. (*not* I gave her it)",
+          "Here are the keys. Give **them to your father**. (*not* Give your father them)",
+          "That's my book. Can you give **it to me**?"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Never put *to* before the person in the short structure: *I gave Sarah the keys*, not ~~I gave to Sarah the keys~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Mark didn't want his old books, so he gave ___ to Sarah.",
+      "hint": "(it / them)",
+      "answers": ["them"],
+      "explanation": "books = them, so: He gave them to Sarah."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark gave his tennis racket to Gary. What did he do with the racket? He gave it ___.",
+      "hint": "(Gary)",
+      "answers": ["to Gary"],
+      "explanation": "With it we use give it to somebody."
+    },
+    {
+      "type": "matching",
+      "prompt": "Mark had some things he didn't want. Match each thing with the person he gave it to.",
+      "pairs": [
+        { "left": "the armchair", "right": "his brother" },
+        { "left": "the tennis racket", "right": "Gary" },
+        { "left": "the books", "right": "Sarah" },
+        { "left": "the lamp", "right": "his sister" },
+        { "left": "the pictures", "right": "Robert" },
+        { "left": "the ladder", "right": "a neighbour" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You gave Richard a tie for his birthday. Put the words in order.",
+      "words": ["I", "gave", "Richard", "a tie."],
+      "answer": "I gave Richard a tie.",
+      "explanation": "give somebody something: the person comes first, with no to."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want the salt at dinner. Ask the person next to you.",
+      "words": ["Can", "you", "pass", "me", "the salt?"],
+      "answer": "Can you pass me the salt?",
+      "explanation": "pass somebody something: pass me the salt."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You need an umbrella. You ask a friend: Can you ___ an umbrella?",
+      "hint": "(lend)",
+      "answers": ["lend me"],
+      "explanation": "lend somebody something: lend me an umbrella."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to see the letter. You ask: Can you ___ the letter?",
+      "hint": "(show)",
+      "answers": ["show me"],
+      "explanation": "show somebody something: show me the letter."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want some stamps. You ask: Can you ___ some stamps?",
+      "hint": "(get)",
+      "answers": ["get me"],
+      "explanation": "get somebody something = get something for somebody."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is right?",
+      "options": ["I gave Sarah the keys.", "I gave to Sarah the keys.", "I gave the keys Sarah."],
+      "answer": 0,
+      "explanation": "give somebody something has no to; give something to somebody needs it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'll ___ some money if you want.",
+      "options": ["lend you", "lend to you", "lend for you"],
+      "answer": 0,
+      "explanation": "lend somebody something: I'll lend you some money."
+    },
+    {
+      "type": "true_false",
+      "statement": "I showed to the policeman my identity card.",
+      "answer": false,
+      "explanation": "I showed the policeman my identity card. There is no to before the person here."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This is Lisa's bag. Can you ___?",
+      "options": ["give it to her", "give her it", "give to her it"],
+      "answer": 0,
+      "explanation": "With it we prefer give it to somebody."
+    }
+  ]
+}

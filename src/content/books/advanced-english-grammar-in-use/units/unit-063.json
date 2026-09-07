@@ -1,0 +1,169 @@
+{
+  "number": 63,
+  "title": "Do so; such",
+  "subtitle": "seems likely to do so / such a scheme",
+  "summary": "Replace a repeated verb phrase with do so, and refer back to a kind of thing with such (a / an).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "do so instead of a verb phrase",
+      "text": "Do so (does so, did so, doing so, done so) replaces a whole verb phrase - the verb and everything needed to complete its meaning - when the context makes clear what we mean.",
+      "examples": [
+        { "text": "She won in 2012 and seems likely to **do so** again this year.", "note": "do so = win" },
+        { "text": "Dr Lawson said, 'Sit down.' Katia **did so**, and explained her problem.", "note": "did so = sat down" },
+        { "text": "The climbers will try again today to reach the summit. Their chances of **doing so** are better than they were last week." },
+        { "text": "When he was asked to check the figures, he claimed that he had already **done so**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How formal is do so?",
+      "text": "Do so belongs to formal spoken and written English. In informal English we can use do it or do that instead, and after a modal or a perfect tense we can use do on its own.",
+      "examples": [
+        { "text": "Mrs Chen waved as she walked past. She **does so / it / that** every morning." },
+        { "text": "Ricardo told me to put in a new battery. I **did so / it / that**, but the radio still doesn't work." },
+        { "text": "*A:* Will this program work on your computer? *B:* It **should do**." },
+        { "text": "I told you that I'd finish the work by today, and I **have done**.", "note": "'have' is stressed here" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Actions, but not states or habits",
+      "left": {
+        "label": "Actions - do so is fine",
+        "examples": [
+          "65% of the members voted for Katie Brown this time, whereas 84% **did so** last year.",
+          "Kenyon confessed to the murder, although he only **did so** after a number of witnesses had identified him as the killer.",
+          "I gave her the medicine, and I take full responsibility for **doing so**."
+        ]
+      },
+      "right": {
+        "label": "States and habitual actions - do alone",
+        "examples": [
+          "Lars doesn't like Facebook but Emma **does**.",
+          "He earned a lot more than I **did**.",
+          "I don't have time to go swimming every day, but I usually **do**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "such + noun = 'of this kind'",
+      "text": "Such refers back to something already mentioned and means 'of this / that kind'. Use such + noun with uncountable and plural nouns, and such + a / an + noun with singular countable nouns. This use is mainly formal.",
+      "examples": [
+        { "text": "The students refer to teachers by their first names and will often criticise them for badly prepared lessons. **Such behaviour** is unacceptable in most schools." },
+        { "text": "When asked about rumours that the company is preparing to lose more than 200 jobs, a spokeswoman said: 'I know of **no such plans**.'" },
+        { "text": "They needed someone who was both an excellent administrator and manager. **Such a person** was not easy to find." },
+        { "text": "We allow both men and women to have time off work to look after children. We were the first department to introduce **such a scheme**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Formal such and its everyday equivalents",
+      "columns": ["Formal - such", "More informal"],
+      "rows": [
+        ["**Such behaviour** is unacceptable in most schools.", "Behaviour like this is unacceptable in most schools."],
+        ["I know of **no such plans**.", "I know of no plans of this kind."],
+        ["**Such a person** was not easy to find.", "A person like this was not easy to find."],
+        ["Is there really a computer in **such a device**?", "Is there really a computer in a device like this?"],
+        ["She called on the government to put more money into **such research**.", "... to put more money into research of this kind."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you write do so, check the verb: if it describes a state (like, enjoy, smell) or a habit, use do, does or did on its own."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "If you have not already handed in the form, then please ___ without delay.",
+      "answers": ["do so"],
+      "explanation": "Do so replaces 'hand in the form' - typical of formal written instructions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My French hosts gave me snails to eat, but I ___ very reluctantly.",
+      "answers": ["did so"],
+      "explanation": "Did so replaces 'ate them' - a single action, so do so works."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He jumped down from the window, but in ___ twisted his ankle.",
+      "answers": ["doing so"],
+      "explanation": "After a preposition (in) we need the -ing form doing so."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Olav drives much faster than you ___.",
+      "options": ["do", "do so", "did so"],
+      "answer": 0,
+      "explanation": "Driving here is a habitual action, and we avoid do so with habits."
+    },
+    {
+      "type": "true_false",
+      "statement": "I thought Julie was joking when she said these apples smell like oranges. But they do so!",
+      "answer": false,
+      "explanation": "But they do! Smell describes a state here, so do so is not used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "All EU countries agreed to implement the new regulations on recycling plastic, but so far only Finland and Austria ___.",
+      "answers": ["have done so"],
+      "explanation": "Have done so replaces 'have implemented the new regulations'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join the two ideas: She was asked to teach more classes. She was happy to teach more classes.",
+      "words": ["She was asked", "to teach", "more classes,", "and was happy", "to do so."],
+      "answer": "She was asked to teach more classes, and was happy to do so.",
+      "explanation": "Do so avoids repeating the verb phrase 'teach more classes'."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In each sentence, is the missing form do so or do / does / did on its own?",
+      "categories": ["do so", "do / does / did alone"],
+      "items": [
+        { "text": "Anyone crossing the railway ... at their own risk.", "category": 0 },
+        { "text": "She pointed to the old box, her hand shaking as she ... .", "category": 0 },
+        { "text": "The water freezes in the cracks in rocks, and as it ... it expands.", "category": 0 },
+        { "text": "I know that many people don't enjoy Felipe's blog, but I ... .", "category": 1 },
+        { "text": "As a rule Leyla wins at tennis, and she gets upset if I ... .", "category": 1 },
+        { "text": "*A:* These apples smell like oranges. *B:* You're right - they ... !", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Manufacturers often claim that their washing machines have built-in computers, but is there really a computer in ___?",
+      "hint": "(device)",
+      "answers": ["such a device"],
+      "explanation": "Device is a singular countable noun, so we use such + a + noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Building a new power station would undoubtedly create new jobs, but has the environmental impact of ___ been considered fully?",
+      "hint": "(project)",
+      "answers": ["such a project"],
+      "explanation": "Such a project = a project of this kind."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The earthquake demolished thousands of buildings. The country has rarely seen ___ before.",
+      "options": ["such destruction", "such a destruction", "such destructions"],
+      "answer": 0,
+      "explanation": "Destruction is uncountable, so such is used without a / an."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each formal sentence with its more informal version.",
+      "pairs": [
+        { "left": "Such behaviour is unacceptable in most schools.", "right": "Behaviour like this is unacceptable in most schools." },
+        { "left": "I know of no such plans.", "right": "I know of no plans of this kind." },
+        { "left": "Such a person was not easy to find.", "right": "A person like this was not easy to find." },
+        { "left": "Is there really a computer in such a device?", "right": "Is there really a computer in a device like this?" },
+        { "left": "She called on the government to put more money into such research.", "right": "She called on the government to put more money into research of this kind." }
+      ]
+    }
+  ]
+}

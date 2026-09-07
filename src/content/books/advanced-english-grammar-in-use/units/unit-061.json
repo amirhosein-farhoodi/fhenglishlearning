@@ -1,0 +1,167 @@
+{
+  "number": 61,
+  "title": "One and ones",
+  "subtitle": "I've already got one / his early ones",
+  "summary": "Use one and ones in place of a countable noun, and know when they must be left out and when they must stay.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Instead of repeating a noun",
+      "text": "We use one instead of repeating a singular countable noun, and ones instead of repeating a plural noun, when the context makes clear what we are talking about.",
+      "examples": [
+        { "text": "*A:* Can I get you a drink? *B:* It's okay, I've already got **one**.", "note": "one = a drink" },
+        { "text": "I think his best poems are his early **ones**.", "note": "ones = poems" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not with uncountables, not without a defined group",
+      "text": "We never use one / ones for an uncountable noun, and we can't use ones unless we say precisely which group of things we mean. Where the group is not defined, use some.",
+      "examples": [
+        { "text": "If you need any more paper, I'll bring you **some**.", "wrong": "I'll bring you one / ones" },
+        { "text": "I asked him to get apple juice, but he got **orange**.", "wrong": "he got orange one / ones" },
+        { "text": "*A:* We need new curtains. *B:* Okay, let's buy **some**.", "wrong": "let's buy ones" }
+      ],
+      "note": "Ones is fine as soon as the group is defined: let's buy green ones this time / ... ones with flowers on / ... those ones."
+    },
+    {
+      "type": "explain",
+      "heading": "Nouns used as adjectives, and possessives",
+      "text": "We don't use one / ones after a noun that is working as an adjective. After possessive determiners (my, your, her) we prefer mine, yours, hers, although possessive + one / ones is often heard in informal speech.",
+      "examples": [
+        { "text": "I thought my memory stick was in my trouser pocket, but it was in my **coat pocket**.", "wrong": "my coat one" },
+        { "text": "I'd really like a smartphone like **yours**.", "note": "'... like your one' is heard in informal speech" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things rather than people",
+      "text": "We usually keep ones for things. It is more likely with people in comparative sentences, and in a few fixed phrases.",
+      "examples": [
+        { "text": "We need two people to help. We could ask **those men** over there.", "wrong": "ask those ones" },
+        { "text": "Older students seem to work harder than younger **ones**.", "note": "or ... than younger students" },
+        { "text": "the little **ones** (= small children), (your) loved **ones** (= usually close family), (one of) the lucky **ones**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where one / ones can be left out",
+      "columns": ["After", "Example"],
+      "rows": [
+        ["which", "When we buy medicines, we have no way of knowing which (**ones**) contain sugar."],
+        ["a superlative", "Look at that pumpkin! It's the biggest (**one**) I've seen this year."],
+        ["this, that, these, those", "The last test I did was quite easy, but some parts of this (**one**) are really difficult."],
+        ["either, neither, another, each, the first / second / last", "Karl pointed to the paintings and said I could take either (**one**). She cleared away the cups, washed each (**one**) thoroughly, and put them on the shelf."]
+      ],
+      "note": "Some people think 'those / these ones' is incorrect, particularly in formal English."
+    },
+    {
+      "type": "explain",
+      "heading": "Where one / ones must stay",
+      "text": "We don't leave out one / ones after the, the only, the main and every, or after an adjective.",
+      "examples": [
+        { "text": "When you cook clams you shouldn't eat **the ones** that have broken shells." },
+        { "text": "After I got the glasses home, I found that **every one** was broken." },
+        { "text": "My shoes were so uncomfortable that I had to go out today and buy some new **ones**." }
+      ],
+      "note": "After a colour adjective we can often leave one out in answers: 'Have you decided which jumper to buy?' 'Yes, I think I'll take the blue (one).'"
+    },
+    {
+      "type": "tip",
+      "text": "Ask two questions before writing ones: is the noun countable, and have I said which group I mean? If the answer to either is no, use some."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Bilal brought in the wood and put ___ on the fire.",
+      "options": ["some", "ones", "one"],
+      "answer": 0,
+      "explanation": "Wood is uncountable, so one / ones is impossible - use some."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Normally I don't like wearing a scarf, but it was so cold I put ___ on.",
+      "hint": "(a scarf)",
+      "answers": ["one"],
+      "explanation": "One stands for a singular countable noun (a scarf)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* We've run out of potatoes. *B:* I'll get ___ when I go to the shops.",
+      "answers": ["some"],
+      "explanation": "No particular group of potatoes is defined here, so we use some, not ones."
+    },
+    {
+      "type": "true_false",
+      "statement": "We haven't got lemon tea, but you could have mint one instead.",
+      "answer": false,
+      "explanation": "... but you could have mint instead. / ... you could have some mint instead. Tea is uncountable, so one is not possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* What kind of cakes do you like best? *B:* Ones with cream inside.",
+      "answer": true,
+      "explanation": "Correct. 'With cream inside' defines exactly which group we mean, so ones is fine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't fit all the boxes in the car, so I had to leave ___ behind and pick it up later.",
+      "answers": ["one"],
+      "explanation": "'Pick it up' shows that only one box was left behind, so the singular one is right."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I answered most of the questions, but had to miss out some very difficult ___.",
+      "answers": ["ones"],
+      "explanation": "After an adjective we keep ones; here it replaces the plural noun questions."
+    },
+    {
+      "type": "true_false",
+      "statement": "There are lots of gloves here. Are these your ones?",
+      "answer": false,
+      "explanation": "Are these yours? After a possessive we prefer mine, yours, hers, though 'your ones' is heard informally."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the trees in our garden are less than ten years old but ___ are much older than that.",
+      "answers": ["some"],
+      "explanation": "Ones can't be used without defining the group, so we use some."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a comparison about how hard students of different ages work.",
+      "words": ["Older students", "seem to work", "harder", "than", "younger ones."],
+      "answer": "Older students seem to work harder than younger ones.",
+      "explanation": "Ones refers to people mainly in comparative sentences like this one."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Could the repeated noun in each sentence be replaced by one or ones?",
+      "categories": ["Yes - one / ones works", "No"],
+      "items": [
+        { "text": "I answered most of the questions, but had to miss out some very difficult questions.", "category": 0 },
+        { "text": "The issue discussed at the meeting was an extremely complicated issue.", "category": 0 },
+        { "text": "Diana takes photos of old buildings. There's an excellent photo of a local church in her office.", "category": 0 },
+        { "text": "He used to work for a finance company, but he's moved to an insurance company.", "category": 1 },
+        { "text": "*A:* Are you picking Jo up at the train station? *B:* No, she's arriving at the bus station.", "category": 1 },
+        { "text": "On one channel was a war film and on the other was a horror film.", "category": 1 }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can one or ones be left out of each sentence?",
+      "categories": ["It can be left out", "It must stay"],
+      "items": [
+        { "text": "I like both of these jackets. I don't know which one to choose.", "category": 0 },
+        { "text": "The books were so disorganised that I soon lost track of which ones I had already counted.", "category": 0 },
+        { "text": "Each winter seemed to be colder than the last one.", "category": 0 },
+        { "text": "Can you remember where you bought this one?", "category": 0 },
+        { "text": "The vases are all handmade and every one looks different.", "category": 1 },
+        { "text": "There are many excellent food markets in town but the main one is near the port.", "category": 1 },
+        { "text": "I drove around the houses, looking for the ones with 'For Sale' notices outside.", "category": 1 }
+      ]
+    }
+  ]
+}

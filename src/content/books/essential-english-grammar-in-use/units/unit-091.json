@@ -1,0 +1,169 @@
+{
+  "number": 91,
+  "title": "enough",
+  "subtitle": "enough money / big enough",
+  "summary": "Use enough before a noun and after an adjective to say whether you have as much as you need.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "enough = as much as you need",
+      "text": "A woman is standing at a taxi rank. She says 'I've only got three pounds - not enough for a taxi.' She isn't going to take a taxi, because she hasn't got **enough money**. In another picture a small boy is jumping up to a high shelf, but he can't reach it. He isn't **tall enough**.",
+      "examples": [
+        { "text": "She hasn't got **enough money**." },
+        { "text": "He isn't **tall enough**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "enough + noun",
+      "text": "Before a noun, **enough** comes first: **enough money**, **enough people**, **enough time**.",
+      "examples": [
+        { "text": "'Is there **enough milk** in your coffee?' 'Yes, thank you.'" },
+        { "text": "We wanted to play football, but we didn't have **enough players**." },
+        { "text": "Why don't you buy a car? You've got **enough money**.", "wrong": "money enough" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "enough without a noun",
+      "text": "You can also use **enough** alone, when it is clear what you are talking about.",
+      "examples": [
+        { "text": "I've got some money, but not **enough** to buy a car.", "note": "= I need more money" },
+        { "text": "'Would you like some more to eat?' 'No, thanks. I've had **enough**.'" },
+        { "text": "You're always at home. You don't go out **enough**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "adjective + enough",
+      "text": "After an adjective, **enough** comes second: **good enough**, **warm enough**, **old enough**.",
+      "examples": [
+        { "text": "'Shall we sit outside?' 'No, it isn't **warm enough**.'", "wrong": "enough warm" },
+        { "text": "Can you hear the radio? Is it **loud enough** for you?" },
+        { "text": "Don't buy that coat. It's nice, but it isn't **long enough**.", "note": "= it's too short" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Remember the word order",
+      "columns": ["enough + noun", "adjective + enough"],
+      "rows": [
+        ["enough money", "tall enough"],
+        ["enough time", "good enough"],
+        ["enough people", "old enough"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "enough for ... / enough to do ...",
+      "text": "After **enough** we use **for** + a person or thing, and **to** + a verb.",
+      "examples": [
+        { "text": "This pullover isn't **big enough for** me." },
+        { "text": "I haven't got **enough money for** a new car." },
+        { "text": "I haven't got **enough money to buy** a new car.", "wrong": "enough money for buy" },
+        { "text": "Is your English **good enough to have** a conversation?", "wrong": "good enough for have" },
+        { "text": "There aren't **enough chairs for** everybody **to sit** down." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**enough** goes *before* a noun but *after* an adjective: *enough money*, but *warm enough*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The ticket costs five pounds, but she has only got four. She hasn't got ___.",
+      "hint": "(money)",
+      "answers": ["enough money"],
+      "explanation": "enough comes before a noun: enough money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people at the table are standing up because there is nowhere to sit. There aren't ___.",
+      "hint": "(chairs)",
+      "answers": ["enough chairs"],
+      "explanation": "enough + noun: enough chairs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A boy is jumping up to a high shelf, but he can't reach it. He isn't ___.",
+      "hint": "(tall)",
+      "answers": ["tall enough"],
+      "explanation": "enough comes after an adjective: tall enough."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does enough come before or after each word?",
+      "categories": ["enough + noun", "adjective + enough"],
+      "items": [
+        { "text": "money", "category": 0 },
+        { "text": "time", "category": 0 },
+        { "text": "people", "category": 0 },
+        { "text": "tall", "category": 1 },
+        { "text": "good", "category": 1 },
+        { "text": "old", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Shall we sit outside?' 'No, it isn't ___.'",
+      "options": ["enough warm", "warm enough", "warm as enough"],
+      "answer": 1,
+      "explanation": "After an adjective we say warm enough, not enough warm."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right sentence.",
+      "pairs": [
+        { "left": "The car is full of people.", "right": "The car isn't big enough." },
+        { "left": "The boy can't reach the pedals of his bike.", "right": "His legs aren't long enough." },
+        { "left": "The man can't lift the weights.", "right": "He isn't strong enough." },
+        { "left": "The kite won't fly today.", "right": "There isn't enough wind." },
+        { "left": "The wall is only half painted.", "right": "She hasn't got enough paint." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is there ___ in your coffee?' 'Yes, thank you.'",
+      "hint": "(milk)",
+      "answers": ["enough milk"],
+      "explanation": "enough + noun: enough milk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He can leave school if he wants - he's ___.",
+      "hint": "(old)",
+      "answers": ["old enough"],
+      "explanation": "adjective + enough: old enough."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This house isn't ___ for a large family.",
+      "hint": "(big)",
+      "answers": ["big enough"],
+      "explanation": "adjective + enough, then for + a person or thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My office is very small. There isn't ___.",
+      "hint": "(space)",
+      "answers": ["enough space"],
+      "explanation": "enough + noun: enough space."
+    },
+    {
+      "type": "true_false",
+      "statement": "I haven't got enough money for buy a new car.",
+      "answer": false,
+      "explanation": "I haven't got enough money to buy a new car. Before a verb we use to, not for."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The knife is not sharp and you want to cut tomatoes. Put the sentence in order.",
+      "words": ["This knife", "isn't", "sharp enough", "to cut", "tomatoes."],
+      "answer": "This knife isn't sharp enough to cut tomatoes.",
+      "explanation": "adjective + enough + to + verb."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "number": 54,
+  "title": "I went to the shop to ...",
+  "subtitle": "to ... = why",
+  "summary": "Use to + verb to say why somebody does something, use for + noun for the thing itself, and learn wait for / wait to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Why did she go?",
+      "text": "Paula wanted a newspaper, so she went to the shop. Why did she go to the shop? **To get** a newspaper. We use **to** + verb to say *why* a person does something.",
+      "examples": [
+        { "text": "*A:* Why are you going out? *B:* **To get** some bread." },
+        { "text": "Catherine went to the station **to meet** her friend." },
+        { "text": "Sue turned on the television **to watch** the news." },
+        { "text": "I'd like to go to Spain **to learn** Spanish." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "money to ... / time to ...",
+      "text": "We also use **to** + verb after *money* and *time* to say what the money or the time is for.",
+      "examples": [
+        { "text": "We need some **money to buy** food." },
+        { "text": "I haven't got **time to watch** television." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "to ... and for ...",
+      "left": {
+        "label": "to + verb (to get / to see)",
+        "examples": [
+          "I went to the shop **to get** a newspaper.",
+          "They're going to Brazil **to see** their friends.",
+          "We need some money **to buy** food."
+        ]
+      },
+      "right": {
+        "label": "for + noun (for a newspaper / for food)",
+        "examples": [
+          "I went to the shop **for a newspaper**.",
+          "They're going to Brazil **for a holiday**.",
+          "We need some money **for food**."
+        ]
+      },
+      "note": "We say *to get a newspaper*, not ~~for get a newspaper~~."
+    },
+    {
+      "type": "explain",
+      "heading": "wait for ... and wait to ...",
+      "text": "Use **wait for** + a person or thing. Use **wait to** + verb when you say what you want to do.",
+      "examples": [
+        { "text": "Please **wait for** me." },
+        { "text": "Are you **waiting for** the bus?" },
+        { "text": "Hurry up! I'm **waiting to** go." },
+        { "text": "Are you **waiting to** see the doctor?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wait for somebody to ...",
+      "text": "Sometimes you wait for another person to do something. Then we say **wait for** + somebody + **to** + verb. A woman is sitting by the phone. She says she can't go out yet.",
+      "examples": [
+        { "text": "I can't go out yet. I'm **waiting for John to phone**." },
+        { "text": "Are you **waiting for the doctor to come**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A verb after the reason takes **to**: *I went out to buy bread*. A noun takes **for**: *I went out for some bread*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Paula wanted a newspaper. She went to the shop ___ a newspaper.",
+      "options": ["to get", "for get", "getting"],
+      "answer": 0,
+      "explanation": "We use to + verb to say why: She went to the shop to get a newspaper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Why are you going out?' '___ some bread.'",
+      "hint": "(get)",
+      "answers": ["To get"],
+      "explanation": "The answer to Why ... ? can be to + verb: To get some bread."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the place with the reason for going there.",
+      "pairs": [
+        { "left": "I went to the post office", "right": "to get some stamps." },
+        { "left": "I went to the cafe", "right": "to meet a friend." },
+        { "left": "I went to the chemist", "right": "to get some medicine." },
+        { "left": "I went to the supermarket", "right": "to buy some food." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We went to a restaurant ___ have dinner.",
+      "hint": "(to / for)",
+      "answers": ["to"],
+      "explanation": "A verb (have) comes after it, so we use to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to London ___ an interview next week.",
+      "hint": "(to / for)",
+      "answers": ["for"],
+      "explanation": "A noun (an interview) comes after it, so we use for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everybody needs money ___ live.",
+      "hint": "(to / for)",
+      "answers": ["to"],
+      "explanation": "money to + verb: money to live."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't have any money ___ a taxi, so we walked home.",
+      "hint": "(to / for)",
+      "answers": ["for"],
+      "explanation": "money for + noun: money for a taxi."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do these words come after to or after for?",
+      "categories": ["to ...", "for ..."],
+      "items": [
+        { "text": "have dinner", "category": 0 },
+        { "text": "study economics", "category": 0 },
+        { "text": "wash", "category": 0 },
+        { "text": "an interview", "category": 1 },
+        { "text": "a cup of coffee", "category": 1 },
+        { "text": "a desk and chair", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I went to the shop for get a newspaper.",
+      "answer": false,
+      "explanation": "Before a verb we use to: I went to the shop to get a newspaper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alice sat down in an armchair ___ the newspaper.",
+      "hint": "(read)",
+      "answers": ["to read"],
+      "explanation": "to + verb gives the reason: to read the newspaper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The doorbell rang, so I looked out of the window ___ who it was.",
+      "hint": "(see)",
+      "answers": ["to see"],
+      "explanation": "to + verb gives the reason: to see who it was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't go out yet. I'm waiting ___ to phone.",
+      "hint": "(John)",
+      "answers": ["for John"],
+      "explanation": "wait for + somebody + to ...: I'm waiting for John to phone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are in the cinema before the film. Put the sentence in order.",
+      "words": ["I", "sat", "down", "in", "the", "cinema", "and", "waited", "for the film", "to begin."],
+      "answer": "I sat down in the cinema and waited for the film to begin.",
+      "explanation": "wait for + something + to ...: waited for the film to begin."
+    }
+  ]
+}

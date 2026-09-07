@@ -1,0 +1,187 @@
+{
+  "number": 69,
+  "title": "Participle adjectives and compound adjectives",
+  "subtitle": "a broken plate / well-behaved children",
+  "summary": "Use -ing and -ed participles as adjectives, place them correctly around the noun, and build compound adjectives.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Participle adjectives",
+      "text": "Some -ing forms (present participles) and -ed forms (past participles) of verbs work as adjectives. Most of them can go before the noun they describe or after a linking verb.",
+      "examples": [
+        { "text": "The hotel had a **welcoming** atmosphere." },
+        { "text": "I found this **broken** plate in the kitchen cupboard." },
+        { "text": "The students' test results were **pleasing**." },
+        { "text": "My mother seemed **delighted** with the present." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reduced relative clauses after the noun",
+      "text": "Many participle adjectives can follow a noun directly when they identify or define it. This works like a defining relative clause, which is why these are often called 'reduced relatives'.",
+      "examples": [
+        { "text": "We had to pay for the rooms **used**.", "note": "= the rooms that were used" },
+        { "text": "My watch was among the things **taken**.", "wrong": "the taken things" },
+        { "text": "Please answer the questions on the sheet **provided**." }
+      ],
+      "note": "Rarely used before the noun: applying, caused, found, included, provided, taken, used."
+    },
+    {
+      "type": "compare",
+      "heading": "After the noun or before it",
+      "left": {
+        "label": "After the noun",
+        "examples": [
+          "The crowd **watching** grew restless.",
+          "Sprinkle over any cheese **remaining**.",
+          "Steps are being taken to solve the problems **identified**."
+        ]
+      },
+      "right": {
+        "label": "Before the noun",
+        "examples": [
+          "The **watching** crowd grew restless.",
+          "Sprinkle over any **remaining** cheese.",
+          "Steps are being taken to solve the **identified** problems."
+        ]
+      },
+      "note": "Also affected, alleged, allocated, broken, chosen, infected, interested, resulting, stolen."
+    },
+    {
+      "type": "explain",
+      "heading": "that and those + participle adjective",
+      "text": "In formal English, that and those can act as pronouns in front of a participle adjective - that for a singular or uncountable noun, those for a plural noun or for people.",
+      "examples": [
+        { "text": "The flour is of a higher quality than **that produced** by other varieties of wheat.", "note": "= the flour which is produced" },
+        { "text": "The touchscreens perform less well than **those manufactured** elsewhere." },
+        { "text": "Here is some advice for **those preparing** to go on holiday.", "note": "those = people" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Compound adjectives with a participle",
+      "columns": ["Pattern", "Example"],
+      "rows": [
+        ["adverb + -ed participle", "They are **well-behaved** children."],
+        ["adverb + -ing participle", "Social networking is a **fast-growing** activity."],
+        ["adjective + -ed participle", "She seems to live on **ready-made** meals."],
+        ["adjective + -ing participle", "He's the **longest-serving** employee in the company."],
+        ["noun + -ed participle", "The public square was **tree-lined**."],
+        ["noun + -ing participle", "I hope it will be a **money-making** enterprise."],
+        ["-ed participle + particle", "Did it really happen, or was it a **made-up** story?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Participles that only live in compounds",
+      "text": "Some participle adjectives make no sense on their own: without the adverb or noun in front, the meaning is incomplete. So we can't say 'behaved children' or 'a making enterprise'.",
+      "examples": [
+        { "text": "The school is **well-resourced**, with sufficient books and computers." },
+        { "text": "I found the whole experience **nerve-wracking**." },
+        { "text": "The proposed changes will be **far-reaching**." }
+      ],
+      "note": "Also New York-based, Paris-born, brick-built, easy-going, peace-keeping, long-lasting, good-looking, home-made, hair-raising, sweet-smelling, strange-sounding, soft-spoken, sour-tasting."
+    },
+    {
+      "type": "tip",
+      "text": "Many compound adjectives contain no participle at all: The problem is **short-term**. / It was just a **small-scale** project."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Please answer the questions on the sheet ___.",
+      "hint": "(provide)",
+      "answers": ["provided"],
+      "explanation": "Provided defines which sheet, and it is not used before the noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The holiday cost £1,200, with flights ___.",
+      "hint": "(include)",
+      "answers": ["included"],
+      "explanation": "Included follows the noun - we don't say 'the included flights'."
+    },
+    {
+      "type": "true_false",
+      "statement": "My watch was among the taken things.",
+      "answer": false,
+      "explanation": "My watch was among the things taken. Taken is one of the participle adjectives that cannot go before the noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ visitors can buy a booklet with further information.",
+      "hint": "(interest)",
+      "answers": ["Interested"],
+      "explanation": "Interested can go before the noun (or after it: visitors interested in ...)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steps are being taken by telephone engineers to solve the problems ___.",
+      "hint": "(identify)",
+      "answers": ["identified"],
+      "explanation": "Identified can follow the noun as a reduced relative (= the problems that have been identified)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I didn't want to be on TV but the ___ publicity was good for business.",
+      "options": ["resulting", "resulted", "result"],
+      "answer": 0,
+      "explanation": "Resulting works before or after the noun (the publicity resulting was also possible)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Just before serving the pasta, sprinkle over any cheese ___.",
+      "hint": "(remain)",
+      "answers": ["remaining"],
+      "explanation": "Remaining can follow the noun here, or come before it: any remaining cheese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Organic oranges contain 30% more vitamin C than ___ conventionally.",
+      "hint": "(grow)",
+      "answers": ["those grown"],
+      "explanation": "Those stands for the plural noun oranges before the participle adjective."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The President's salary is 25 times higher than ___ by the average citizen.",
+      "hint": "(earn)",
+      "answers": ["that earned"],
+      "explanation": "Salary is singular, so we use that, not those."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the compound adjective that says the same thing.",
+      "pairs": [
+        { "left": "The company is organised from New York.", "right": "New York-based" },
+        { "left": "The school has all the books and computers it needs.", "right": "well-resourced" },
+        { "left": "The whole experience made me tense and worried.", "right": "nerve-wracking" },
+        { "left": "The changes will have a major influence on a large number of people.", "right": "far-reaching" },
+        { "left": "The discussions dealt with a great variety of topics.", "right": "wide-ranging" },
+        { "left": "When I last saw him he had a beard, but now he has none.", "right": "clean-shaven" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The advertisements for the new car are very ___.",
+      "options": ["eye-catching", "eye-caught", "catching-eye"],
+      "answer": 0,
+      "explanation": "Noun + -ing participle: the advertisements catch your eye."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can each participle adjective also be used before the noun, or only after it?",
+      "categories": ["Only after the noun", "Before or after the noun"],
+      "items": [
+        { "text": "provided (the sheet provided)", "category": 0 },
+        { "text": "included (with flights included)", "category": 0 },
+        { "text": "taken (among the things taken)", "category": 0 },
+        { "text": "remaining (any cheese remaining)", "category": 1 },
+        { "text": "identified (the problems identified)", "category": 1 },
+        { "text": "resulting (the publicity resulting)", "category": 1 }
+      ]
+    }
+  ]
+}

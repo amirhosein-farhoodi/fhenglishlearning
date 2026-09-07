@@ -1,0 +1,183 @@
+{
+  "number": 32,
+  "title": "should",
+  "subtitle": "You should / You shouldn't",
+  "summary": "Use should to say what is a good thing to do, and shouldn't to say what is not a good thing to do.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "You shouldn't watch TV so much",
+      "text": "A young man sits in front of the television all evening. His mother points at him and says: 'You **shouldn't watch** TV so much.' After **should** and **shouldn't** we use the verb with no *to*.",
+      "examples": [
+        { "text": "You **shouldn't watch** TV so much." },
+        { "text": "Tom **should study** harder.", "wrong": "Tom should to study" },
+        { "text": "She **should go** home now.", "wrong": "She shoulds go" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "should / shouldn't", "+ verb"],
+      "rows": [
+        ["I / we / you / they", "should", "do, stop, go, watch"],
+        ["he / she / it", "shouldn't", "do, stop, go, watch"]
+      ],
+      "note": "**should** is the same for every subject, and **shouldn't** = should not."
+    },
+    {
+      "type": "explain",
+      "heading": "You should do it",
+      "text": "You **should** do something = it is a good thing to do, it is the right thing to do. We often use it to give advice.",
+      "examples": [
+        { "text": "Tom doesn't study enough. He **should study** harder." },
+        { "text": "It's a good film. You **should go** and see it." },
+        { "text": "When you play tennis, you **should** always **watch** the ball." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "You shouldn't do it",
+      "text": "You **shouldn't** do something = it is not a good thing to do. **Shouldn't** = should not.",
+      "examples": [
+        { "text": "Tom **shouldn't go** to bed so late." },
+        { "text": "You watch TV all the time. You **shouldn't watch** TV so much." },
+        { "text": "He eats too much. He **shouldn't eat** so much." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I think ... should ...",
+      "text": "We often say **I think ... should ...** and **I don't think ... should ...** to give an opinion. For a question we say **Do you think ... should ... ?**",
+      "examples": [
+        { "text": "**I think** Lisa **should buy** some new clothes.", "note": "= I think it is a good idea." },
+        { "text": "It's late. **I think** I **should go** home now." },
+        { "text": "**I don't think** you **should work** so hard.", "note": "= I don't think it is a good idea." },
+        { "text": "A woman is trying on a big hat in a shop. She asks her friend: '**Do you think** I **should buy** this hat?'" },
+        { "text": "What time **do you think** we **should go** home?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "should and must",
+      "left": {
+        "label": "should",
+        "text": "It is a good thing to do.",
+        "examples": ["It's a **good** film. You **should** go and see it.", "You **should** eat more fruit."]
+      },
+      "right": {
+        "label": "must (stronger)",
+        "text": "It is really necessary.",
+        "examples": ["It's a **fantastic** film. You **must** go and see it.", "I'm very hungry. I **must** eat something."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "ought to",
+      "text": "Another way to say **should** is **ought to**. The meaning is the same.",
+      "examples": [
+        { "text": "It's a good film. You **ought to go** and see it.", "note": "= you should go" },
+        { "text": "I think Lisa **ought to buy** some new clothes.", "note": "= Lisa should buy" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never put *to* after should: *You should go*, not ~~You should to go~~. Only *ought* takes *to*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's late and you're very tired. You ___ to bed.",
+      "hint": "(go)",
+      "answers": ["should go"],
+      "explanation": "should + verb with no to: You should go to bed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fruit and vegetables are good for you. ___ plenty of fruit and vegetables.",
+      "hint": "(you / eat)",
+      "answers": ["You should eat"],
+      "explanation": "We use you should + verb to say what is a good thing to do."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Good advice or bad advice? Put each one in the right group.",
+      "categories": ["You should ...", "You shouldn't ..."],
+      "items": [
+        { "text": "eat plenty of fruit", "category": 0 },
+        { "text": "wear a seat belt when you drive", "category": 0 },
+        { "text": "watch TV all the time", "category": 1 },
+        { "text": "drive so fast", "category": 1 },
+        { "text": "go to bed when you're very tired", "category": 0 },
+        { "text": "eat so much", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's too far to walk from here to the station. ___ a taxi.",
+      "options": ["You should take", "You should to take", "You shoulds take"],
+      "answer": 0,
+      "explanation": "should has no -s and no to: You should take a taxi."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man is eating a very big dinner. His friend says: 'You eat too much.' He ___ so much.",
+      "hint": "(he / eat)",
+      "answers": ["shouldn't eat", "should not eat"],
+      "explanation": "It is not a good thing to do, so we use shouldn't eat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman is still at her desk late at night. You tell her: 'You work too hard.' She ___ so hard.",
+      "hint": "(she / work)",
+      "answers": ["shouldn't work", "should not work"],
+      "explanation": "shouldn't = should not: She shouldn't work so hard."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "Tom doesn't study enough. He should", "right": "study harder." },
+        { "left": "You watch TV all the time. You shouldn't", "right": "watch TV so much." },
+        { "left": "It's a fantastic film. You", "right": "must see it." },
+        { "left": "You look very tired. I don't think you should", "right": "work so hard." },
+        { "left": "It's getting late. What time do you think we", "right": "should go home?" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Tom shouldn't to go to bed so late.",
+      "answer": false,
+      "explanation": "Tom shouldn't go to bed so late. There is no to after shouldn't."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You can't drive. You want your friend's advice. Put the question in order.",
+      "words": ["Do", "you", "think", "I", "should", "learn", "to drive?"],
+      "answer": "Do you think I should learn to drive?",
+      "explanation": "For a question we say Do you think I should ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You don't like your job. You ask your friend: 'Do you think ___ another job?'",
+      "hint": "(I / get)",
+      "answers": ["I should get"],
+      "explanation": "Do you think + I should + verb: Do you think I should get another job?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You don't need your car. I think ___ sell it.",
+      "hint": "(you)",
+      "answers": ["you should"],
+      "explanation": "I think you should ... gives an opinion about a good idea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sally and Dan are too young. I don't think ___ get married.",
+      "hint": "(they)",
+      "answers": ["they should"],
+      "explanation": "For a negative opinion we say I don't think ... should ... ."
+    }
+  ]
+}

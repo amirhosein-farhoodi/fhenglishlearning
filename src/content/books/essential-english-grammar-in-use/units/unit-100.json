@@ -1,0 +1,173 @@
+{
+  "number": 100,
+  "title": "If I had ... If we went ... etc.",
+  "subtitle": "If he had the money, he would buy a fast car.",
+  "summary": "Talk about things that are not real now with if + had / knew / went and would / could.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Dan and the fast car",
+      "text": "Dan likes fast cars, but he doesn't have one. He doesn't have enough money. He looks at a red sports car and dreams: 'If I **had** the money ...' Usually **had** is past, but here it is not past. **If he had** the money = if he had the money **now** (but he doesn't have it).",
+      "examples": [
+        { "text": "**If** he **had** the money, he **would buy** a fast car." },
+        { "text": "He **would buy** a fast car **if** he **had** the money." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["if + past form", "would / could"],
+      "rows": [
+        ["If I had ...", "I would buy ..."],
+        ["If you knew ...", "you would tell ..."],
+        ["If it were ...", "it could be ..."],
+        ["If they didn't have ...", "they wouldn't go ..."],
+        ["If we could ...", "we couldn't stay ..."]
+      ],
+      "note": "I'd / she'd / they'd = I would / she would / they would."
+    },
+    {
+      "type": "explain",
+      "heading": "if I knew ... I'd tell you",
+      "text": "We use this form for things that are not true now. The **if**-part has a past form, but the meaning is *now*.",
+      "examples": [
+        { "text": "I don't know the answer. **If** I **knew** the answer, I'**d tell** you." },
+        { "text": "It's raining, so we're not going out. We'**d get** wet **if** we **went** out." },
+        { "text": "Jane likes cities. She **wouldn't be** happy **if** she **lived** in the country." },
+        { "text": "I'm sorry I can't help you. I'**d help** you **if** I **could**." },
+        { "text": "**If** we **had** a car, we **could travel** more.", "note": "but we haven't got a car" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "If I was ... / If I were ...",
+      "text": "After **if**, you can say **I was** or **I were**. Both are correct. It is the same with *he*, *she* and *it*.",
+      "examples": [
+        { "text": "It's not a very nice place. I wouldn't go there **if I were you**.", "note": "or if I was you" },
+        { "text": "It would be nice **if the weather was** better.", "note": "or if the weather were better" },
+        { "text": "What would Tom do **if he were** here?", "note": "or if he was here" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if I have / if I had",
+      "left": {
+        "label": "if I have / if it is",
+        "text": "Maybe it will happen.",
+        "examples": [
+          "I must go and see Helen. **If I have** time, I **will go** today.",
+          "I like that jacket. I'**ll buy** it **if it isn't** too expensive.",
+          "I'**ll help** you **if I can**."
+        ]
+      },
+      "right": {
+        "label": "if I had / if it was",
+        "text": "It is not real - it will not happen.",
+        "examples": [
+          "I must go and see Helen. **If I had** time, I **would go** today.",
+          "I like that jacket, but it's very expensive. I'**d buy** it **if it wasn't** so expensive.",
+          "I'**d help** you **if I could**, but I can't."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "After if we use a past form (had, knew, went, was), but never would: *If I knew*, not ~~If I would know~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I don't want to go out. If I ___ to go out, I'd go.",
+      "hint": "(want)",
+      "answers": ["wanted"],
+      "explanation": "After if we use a past form: if I wanted."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We haven't got a key. If we ___ a key, we could get into the house.",
+      "hint": "(have)",
+      "answers": ["had"],
+      "explanation": "The sentence is not real now, so after if we use had."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sue enjoys her work. She wouldn't do it if she ___ it.",
+      "options": ["didn't enjoy", "doesn't enjoy", "wouldn't enjoy"],
+      "answer": 0,
+      "explanation": "After if we use a past form, not would: if she didn't enjoy it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You don't try hard enough. If you ___ harder, you would have more success.",
+      "hint": "(try)",
+      "answers": ["tried"],
+      "explanation": "After if we use a past form: if you tried."
+    },
+    {
+      "type": "true_false",
+      "statement": "It would be nice if the weather was better.",
+      "answer": true,
+      "explanation": "Correct. After if you can say the weather was or the weather were."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What would you do if ___ a lot of money?",
+      "hint": "(you / win)",
+      "answers": ["you won"],
+      "explanation": "After if we use a past form: if you won."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "I'd buy that jacket", "right": "if it was a bit cheaper" },
+        { "left": "This room would be nicer", "right": "if we had some pictures on the wall" },
+        { "left": "If there wasn't so much traffic,", "right": "the air would be cleaner" },
+        { "left": "If I had nothing to do,", "right": "I'd be bored" },
+        { "left": "If we had more money,", "right": "we could buy a bigger house" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["If", "I", "knew", "the", "answer,", "I'd", "tell", "you."],
+      "answer": "If I knew the answer, I'd tell you.",
+      "explanation": "if + past form, then would: If I knew ..., I'd tell you."
+    },
+    {
+      "type": "true_false",
+      "statement": "If I would have the money, I'd buy a fast car.",
+      "answer": false,
+      "explanation": "If I had the money, I'd buy a fast car. After if we use had, not would have."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's not a very good hotel. ___ there if I were you.",
+      "options": ["I wouldn't stay", "I don't stay", "I didn't stay"],
+      "answer": 0,
+      "explanation": "The other part of the sentence uses would: I wouldn't stay there."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about something that may happen, or about something that is not real?",
+      "categories": ["it may happen", "it is not real"],
+      "items": [
+        { "text": "If I have time, I will go today.", "category": 0 },
+        { "text": "If I had time, I would go today.", "category": 1 },
+        { "text": "I'll buy it if it isn't too expensive.", "category": 0 },
+        { "text": "I'd buy it if it wasn't so expensive.", "category": 1 },
+        { "text": "I'll help you if I can.", "category": 0 },
+        { "text": "I'd help you if I could.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know anything about cars. If the car broke down, ___ what to do.",
+      "hint": "(I / not know)",
+      "answers": ["I wouldn't know", "I would not know"],
+      "explanation": "The if-part has a past form, so the other part uses would: I wouldn't know."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "number": 58,
+  "title": "Participle clauses with adverbial meaning 1",
+  "subtitle": "Opening her eyes, ... / Having finished the book, ...",
+  "summary": "Use -ing, -ed, having + -ed and passive participle clauses to say when, why or on what condition something happened, and keep the implied subject right.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What these clauses do",
+      "text": "Present participle (-ing) and past participle (-ed) clauses can work like adverbials, giving information about the timing, the causes or the results of the event in the main clause.",
+      "examples": [
+        { "text": "**Opening** her eyes, the baby began to cry.", "note": "= When she opened her eyes ..." },
+        { "text": "**Faced** with a bill for £10,000, Ivan has taken an extra job.", "note": "= Because he is faced ..." },
+        { "text": "**Looked after** carefully, the plant can live through the winter.", "note": "= If it is looked after ..." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["Example", "Form", "Meaning"],
+      "rows": [
+        ["**Opening** her eyes, the baby began to cry.", "-ing", "When she opened her eyes ..."],
+        ["**Faced** with a bill for £10,000, Ivan has taken an extra job.", "-ed", "Because he is faced ..."],
+        ["**Having finished** the book, I had a holiday.", "perfect", "When / Because I had finished ..."],
+        ["The fruit was expensive, **being** imported.", "simple passive", "... because it was imported"],
+        ["**Having been hunted** close to extinction, the rhino is once again common in this area.", "perfect passive", "Although it had been hunted ..."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The implied subject",
+      "text": "The subject of a participle clause is not stated: we understand it from the main clause, so it is usually the same as the subject of the main clause.",
+      "examples": [
+        { "text": "**Arriving** at the party, we saw Ruth standing alone.", "note": "= When we arrived ... we saw ..." },
+        { "text": "**Having wanted** to drive a train all his life, this was an opportunity not to be missed.", "note": "here the implied subject (he) is not mentioned in the main clause at all" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two different subjects: avoid it",
+      "text": "In careful speech and writing we avoid a participle clause whose implied subject is different from the subject of the main clause - the result sounds absurd. Use a full clause instead.",
+      "examples": [
+        { "text": "Turning round quickly, the door hit me in the face.", "note": "first implied subject = I; second subject = the door" },
+        { "text": "**When I turned round quickly**, the door hit me in the face.", "note": "the safe version" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A subject of its own",
+      "text": "In formal English the participle clause can have its own subject, which is often a pronoun or includes one. An -ing clause of this kind describes something happening at the same time as the main event, or comments on the facts in the main clause.",
+      "examples": [
+        { "text": "The collection of vases is priceless, **some** being over 2000 years old." },
+        { "text": "**Her voice** breaking with emotion, Vasiliki spoke about her father's illness." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where not goes",
+      "text": "not usually comes before the participle, but it can follow it - and the position changes the meaning.",
+      "examples": [
+        { "text": "**Not understanding** the rules, I found the cricket match boring.", "note": "= because I didn't understand the rules" },
+        { "text": "**Hoping not** to be recognised, I chose a seat in a dark corner.", "note": "= I hoped that I wouldn't be recognised" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "having + -ed or plain -ing?",
+      "left": {
+        "label": "having + -ed: the main clause is the consequence",
+        "text": "Use having + past participle when the main clause happens because of the earlier event.",
+        "examples": [
+          "**Having broken** her leg the last time she went, Giorgia decided not to go on the school skiing trip this year.",
+          "**Having waited** six weeks for the washing machine to be delivered, I decided to cancel the order."
+        ]
+      },
+      "right": {
+        "label": "-ing: same time, or simply before",
+        "text": "Either form works when the first action is finished before the second begins; -ing alone can also mean 'while'.",
+        "examples": [
+          "**Taking off** his shoes, Ram walked into the house.",
+          "**Running** across the field, I fell and hurt my ankle."
+        ]
+      },
+      "note": "'Having run across the field, I fell ...' would mean I fell after I had crossed the field, not while crossing it."
+    },
+    {
+      "type": "tip",
+      "text": "Read your participle clause and the main clause subject together: if the subject cannot sensibly do the participle's action, rewrite the sentence with a full clause."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ quickly, I soon caught up with her.",
+      "hint": "(walk)",
+      "answers": ["Walking"],
+      "explanation": "= Because / While I was walking quickly. An active verb becomes an -ing clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ a nurse, she knew what to do after the accident.",
+      "hint": "(be)",
+      "answers": ["Being"],
+      "explanation": "= As she was a nurse. Being + noun gives the reason."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ where the theatre was, she asked for directions at the hotel reception.",
+      "hint": "(not / know)",
+      "answers": ["Not knowing"],
+      "explanation": "not normally comes in front of the participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ his childhood in Oslo, he knew the city well.",
+      "hint": "(spend)",
+      "answers": ["Having spent"],
+      "explanation": "The knowledge is the consequence of the earlier, completed event, so having + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the day before for arriving late, I was eager to catch the bus in good time.",
+      "hint": "(tell off - passive)",
+      "answers": ["Having been told off"],
+      "explanation": "An earlier passive event that causes the main clause: having been + past participle."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do the participle clause and the main clause have the same implied subject, or different subjects?",
+      "categories": ["Same subject - fine", "Different subjects - rewrite"],
+      "items": [
+        { "text": "Known mainly as a writer of novels, Rashid has now written a successful biography.", "category": 0 },
+        { "text": "Keeping a careful eye on the spider, Suzanne hurried out of the bathroom.", "category": 0 },
+        { "text": "Found only in the Andes, the plant is used by local people to treat skin diseases.", "category": 0 },
+        { "text": "Waiting for the bus, a car went through a puddle and splashed water all over me.", "category": 1 },
+        { "text": "Looking down from the hill, the town spread out before us towards the coast.", "category": 1 },
+        { "text": "Feeling rather sick, the boat ploughed through the huge waves.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ to cry, she waved to Harun as the train pulled out.",
+      "options": ["Trying not", "Not trying", "Not to try"],
+      "answer": 0,
+      "explanation": "She was trying; what she tried not to do was cry - so not follows the participle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ to put on his coat, he left the house.",
+      "options": ["Not bothering", "Bothering not", "Not to bother"],
+      "answer": 0,
+      "explanation": "Here the whole idea is negative (= he didn't bother), so not comes before the participle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each participle clause with the main clause that follows it.",
+      "pairs": [
+        { "left": "Having moved house recently,", "right": "I don't yet have internet access." },
+        { "left": "Looking over my shoulder,", "right": "I could see Ida running after me." },
+        { "left": "Walking through the tunnel,", "right": "I banged my head on the low roof." },
+        { "left": "Having waited six weeks for the washing machine to be delivered,", "right": "I decided to cancel the order." },
+        { "left": "Having suffered from depression myself as a teenager,", "right": "I could understand how Nathan was feeling." },
+        { "left": "Having learnt some Swahili as a child,", "right": "I was able to understand most of what she said." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Turning round quickly, the door hit me in the face.",
+      "answer": false,
+      "explanation": "When I turned round quickly, the door hit me in the face. The participle clause and the main clause need the same subject."
+    },
+    {
+      "type": "true_false",
+      "statement": "Breaking her leg the last time she went, Giorgia decided not to go on the school skiing trip this year.",
+      "answer": false,
+      "explanation": "Having broken her leg the last time she went, Giorgia decided not to go ... The main clause is the consequence of the earlier event, so we need having + past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this formal sentence in order. The participle clause has a subject of its own.",
+      "words": ["Her voice", "breaking with emotion,", "Vasiliki spoke", "about her father's", "illness."],
+      "answer": "Her voice breaking with emotion, Vasiliki spoke about her father's illness.",
+      "explanation": "In formal English the participle clause can keep its own subject (her voice)."
+    }
+  ]
+}

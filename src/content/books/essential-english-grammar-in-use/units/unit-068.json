@@ -1,0 +1,166 @@
+{
+  "number": 68,
+  "title": "a cake / some cake / some cakes (countable/uncountable 2)",
+  "subtitle": "a / an and some",
+  "summary": "Use a/an with one countable thing, and some with plural countable nouns and with uncountable nouns.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "a/an and some",
+      "text": "Use **a/an** with one countable thing. Use **some** with more than one countable thing, and also with uncountable nouns like *water*, *money* and *music*.",
+      "examples": [
+        { "text": "I need **a** new car." },
+        { "text": "Would you like **an** apple?" },
+        { "text": "I need **some** new shoes." },
+        { "text": "Would you like **some** apples?" },
+        { "text": "I need **some** water." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which word do I need?",
+      "columns": ["Kind of noun", "Word", "Example"],
+      "rows": [
+        ["one countable thing (car / apple / shoe)", "a / an", "I need **a** new car."],
+        ["plural countable (cars / apples / shoes)", "some", "I need **some** new shoes."],
+        ["uncountable (water / money / music)", "some", "Would you like **some** cheese?"]
+      ],
+      "note": "With an uncountable noun you can also say **a piece of**: *Would you like a piece of cheese?*"
+    },
+    {
+      "type": "explain",
+      "heading": "a and some in one sentence",
+      "text": "In a list you often need both words. Look at each noun and ask: one thing, more than one thing, or uncountable?",
+      "examples": [
+        { "text": "Nicole bought **a** hat, **some** shoes and **some** perfume." },
+        { "text": "I read **a** newspaper, made **some** phone calls, and listened to **some** music." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Many nouns are countable and uncountable",
+      "left": {
+        "label": "Countable",
+        "text": "A whole thing, or more than one whole thing.",
+        "examples": ["**a cake**", "**some cakes**", "**a chicken**", "**some chickens**"]
+      },
+      "right": {
+        "label": "Uncountable",
+        "text": "Not a whole thing, but food on your plate.",
+        "examples": ["**some cake** or **a piece of cake**", "**some chicken** or **a piece of chicken**"]
+      },
+      "note": "*a paper* = a newspaper: *I want something to read. I'm going to buy a paper.* But for a shopping list you need **some paper** / **a piece of paper**."
+    },
+    {
+      "type": "explain",
+      "heading": "Be careful with these words",
+      "text": "**advice, bread, furniture, hair, information, news, weather** and **work** are usually uncountable. You cannot say *a/an* with them, and they have no plural.",
+      "examples": [
+        { "text": "Can I talk to you? I need **some advice**.", "wrong": "an advice" },
+        { "text": "I'm going to buy **some bread**.", "wrong": "a bread" },
+        { "text": "They've got **some** very nice **furniture** in their house.", "wrong": "furnitures" },
+        { "text": "Silvia has got very long **hair**.", "wrong": "hairs" },
+        { "text": "I'd like **some information** about hotels in London.", "wrong": "informations" },
+        { "text": "Listen! I've just had **some** good **news**.", "wrong": "a good news" },
+        { "text": "It's nice **weather** today.", "wrong": "a nice weather" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say **a job**, but not ~~a work~~: *I've got a new job.* *Work* is uncountable: *it's hard work*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We met ___ interesting people at the party.",
+      "hint": "(a / an / some)",
+      "answers": ["some"],
+      "explanation": "people is plural countable, so we use some."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel didn't eat much for lunch - only ___ apple and some bread.",
+      "hint": "(a / an / some)",
+      "answers": ["an"],
+      "explanation": "One apple is one countable thing, and apple begins with a vowel sound: an apple."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paula has got short black ___.",
+      "options": ["hair", "hairs", "a hair"],
+      "answer": 0,
+      "explanation": "hair is uncountable here, so it has no plural and no a."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you say a/an or some with these words?",
+      "categories": ["a / an", "some"],
+      "items": [
+        { "text": "new car", "category": 0 },
+        { "text": "biscuit", "category": 0 },
+        { "text": "job", "category": 0 },
+        { "text": "apple", "category": 0 },
+        { "text": "new shoes", "category": 1 },
+        { "text": "water", "category": 1 },
+        { "text": "advice", "category": 1 },
+        { "text": "furniture", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to open ___ window to get some fresh air.",
+      "hint": "(a / an / some)",
+      "answers": ["a"],
+      "explanation": "One window is one countable thing: a window."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The tour guide gave us some ___ about the city.",
+      "options": ["information", "informations", "an information"],
+      "answer": 0,
+      "explanation": "information is uncountable: some information."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Listen to me carefully. I'm going to give you ___ advice.",
+      "hint": "(a / an / some)",
+      "answers": ["some"],
+      "explanation": "advice is uncountable, so we say some advice, not an advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are holding a packet of biscuits and you offer one to your friend. Would you like ___?",
+      "hint": "(biscuit)",
+      "answers": ["a biscuit"],
+      "explanation": "One biscuit is one countable thing: a biscuit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a big piece of cheese on the table and you offer some to a friend. Would you like ___?",
+      "hint": "(cheese)",
+      "answers": ["some cheese", "a piece of cheese"],
+      "explanation": "cheese is uncountable: some cheese or a piece of cheese."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's hard to find a work at the moment.",
+      "answer": false,
+      "explanation": "It's hard to find a job at the moment. We say a job, not a work."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had wonderful weather when we were on holiday.",
+      "answer": true,
+      "explanation": "weather is uncountable, so we do not say a wonderful weather."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You went shopping and bought toothpaste, soap and a comb. Put the sentence in order.",
+      "words": ["I", "bought", "some toothpaste,", "some soap", "and", "a comb."],
+      "answer": "I bought some toothpaste, some soap and a comb.",
+      "explanation": "toothpaste and soap are uncountable (some), but a comb is one countable thing (a)."
+    }
+  ]
+}

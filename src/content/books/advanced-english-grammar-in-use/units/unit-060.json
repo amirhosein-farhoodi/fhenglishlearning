@@ -1,0 +1,169 @@
+{
+  "number": 60,
+  "title": "Reflexive pronouns: herself, himself, themselves, etc.",
+  "subtitle": "got herself promoted / pleased with himself",
+  "summary": "Use reflexive pronouns for emphasis, with verbs that require them, and after prepositions - and know when a personal pronoun is needed instead.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "themselves and oneself",
+      "text": "Besides the usual reflexive pronouns, some people use themselves to refer back to a singular subject when they do not want to say whether the person is male or female. oneself (or less formally yourself) refers to people in general.",
+      "examples": [
+        { "text": "The author of the letter describes **themselves** as 'a senior government official'." },
+        { "text": "Who wants to go through life by **themselves**, without friends?" },
+        { "text": "I think one has to have the courage to be **oneself** and say whatever comes naturally.", "note": "less formally: ... you have to have the courage to be yourself ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Emphasis: what is being stressed?",
+      "left": {
+        "label": "got + reflexive + -ed = through her own efforts",
+        "examples": [
+          "Salma worked hard and got **herself** promoted."
+        ]
+      },
+      "right": {
+        "label": "got + -ed + reflexive = her, not someone else",
+        "examples": [
+          "Salma encouraged me to apply for the senior manager position, but she got promoted **herself**."
+        ]
+      },
+      "note": "Without any reflexive pronoun, 'Salma worked hard and got promoted' simply reports what happened."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that need a reflexive object",
+      "text": "If the object of a transitive verb refers to the same person or thing as the subject, that object must be a reflexive pronoun.",
+      "examples": [
+        { "text": "He walked around the golf course to familiarise **himself** with it." },
+        { "text": "We walked around to familiarise **the children** with their new surroundings.", "note": "different person, so no reflexive" },
+        { "text": "Peter arranged to absent **himself** from the company for the first time in his life." }
+      ],
+      "note": "Also with this pattern: absent ... from, avail ... of, busy ... with, concern ... with, occupy ... by / with, pride ... on, tear ... away from, trouble ... about / with."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs where the reflexive is optional",
+      "text": "With some verbs we can include the reflexive pronoun or leave it out with little difference in meaning. We put it in when we want to stress that the subject is affected by the action.",
+      "examples": [
+        { "text": "We are confident that both sets of fans will behave **(themselves)** at the match." },
+        { "text": "Although she helped other athletes in their preparations for competing at high altitudes, she found it difficult to acclimatise **herself**." }
+      ],
+      "note": "Also: adapt, (un)dress, hide, move, prepare, shave, wash."
+    },
+    {
+      "type": "explain",
+      "heading": "After a preposition",
+      "text": "When the subject and the noun after a preposition refer to the same person or thing, we use a reflexive pronoun. But if the verb already has a direct object, the pronoun after the preposition is a personal pronoun.",
+      "examples": [
+        { "text": "He was pleased with **himself**.", "wrong": "pleased with him" },
+        { "text": "I remember closing the door behind **me**.", "wrong": "closing the door behind myself" },
+        { "text": "She bought the bracelet for **herself**.", "note": "'... for her' would suggest it was bought for someone else" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "myself after and or or",
+      "text": "myself is sometimes used after and or or instead of I or me. It reduces the focus on the speaker, so it sounds less forceful or more polite - though some people consider it incorrect and avoid it.",
+      "examples": [
+        { "text": "I believe that Lizi and **myself** have done a pretty good job." },
+        { "text": "When you've finished the job can you send the bill either to Mrs Petrov or **myself**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before writing myself or himself after a preposition, check whether the verb already has an object - if it does, a plain me or him is what you want."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She works for a charity which ___ the welfare of children.",
+      "hint": "(concern)",
+      "answers": ["concerns itself with"],
+      "explanation": "concern ... with takes a reflexive object referring back to the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is a town that ___ being welcoming to visitors.",
+      "hint": "(pride)",
+      "answers": ["prides itself on"],
+      "explanation": "pride is always used with a reflexive object plus on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Peter arranged to ___ the company for the first time in his life so that he could spend time with his father in hospital.",
+      "hint": "(absent)",
+      "answers": ["absent himself from"],
+      "explanation": "absent ... from needs the reflexive pronoun as its object."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It will take you some time to ___ to the pace of life in Tokyo.",
+      "hint": "(adapt)",
+      "answers": ["adapt", "adapt yourself"],
+      "explanation": "adapt is one of the verbs where the reflexive pronoun can be included or left out."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need a reflexive pronoun or a personal pronoun?",
+      "categories": ["Reflexive (myself, yourself ...)", "Personal (me, us, them ...)"],
+      "items": [
+        { "text": "All my friends were away, I was bored, and I just didn't know what to do with ___.", "category": 0 },
+        { "text": "Now that you're a famous actor, you must hear a lot about ___ in the media.", "category": 0 },
+        { "text": "Can you post this letter for ___, please?", "category": 1 },
+        { "text": "We put the voice recorder on the table between ___.", "category": 1 },
+        { "text": "They dragged the tree behind ___ all the way to the trailer.", "category": 1 },
+        { "text": "I opened the window in front of ___ and took a deep breath of fresh air.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "She kept the bracelet - it wasn't a present for anyone else. She bought the bracelet for ___.",
+      "options": ["herself", "her", "she"],
+      "answer": 0,
+      "explanation": "'... for her' would suggest she bought it for someone else."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which version says that they arranged the vaccination through their own efforts?",
+      "options": ["We got ourselves vaccinated against hepatitis before we went to West Africa.", "We got vaccinated ourselves against hepatitis before we went to West Africa.", "We got vaccinated us against hepatitis before we went to West Africa."],
+      "answer": 0,
+      "explanation": "got + reflexive pronoun + past participle stresses that the subject caused the action; got vaccinated ourselves would stress 'we, not other people'."
+    },
+    {
+      "type": "true_false",
+      "statement": "I know that some of them had checked themselves by their doctors.",
+      "answer": false,
+      "explanation": "I know that some of them had themselves checked by their doctors. The reflexive pronoun comes before the past participle when the subject arranges the action."
+    },
+    {
+      "type": "true_false",
+      "statement": "His boss said that he'd caught himself hepatitis when he was in Africa a few years ago.",
+      "answer": false,
+      "explanation": "... he'd caught hepatitis himself when he was in Africa. catch already has an object (hepatitis), so himself can only go at the end, as emphasis."
+    },
+    {
+      "type": "true_false",
+      "statement": "When he's completely recovered, Jan and myself are off to Paris for a few days.",
+      "answer": true,
+      "explanation": "Acceptable: myself after and reduces the focus on the speaker. Some people think this is incorrect and would say Jan and I."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If I can get Jan to tear ___ away from his office, we're going to occupy ourselves looking at the galleries.",
+      "hint": "(reflexive or personal pronoun)",
+      "answers": ["himself"],
+      "explanation": "tear ... away from takes a reflexive object referring back to Jan."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this general statement about people in order.",
+      "words": ["I think", "one has to have", "the courage", "to be oneself", "and say whatever", "comes naturally."],
+      "answer": "I think one has to have the courage to be oneself and say whatever comes naturally.",
+      "explanation": "oneself is the reflexive pronoun that goes with one when we talk about people in general."
+    }
+  ]
+}

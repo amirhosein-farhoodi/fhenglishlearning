@@ -1,0 +1,185 @@
+{
+  "number": 75,
+  "title": "Position of adverbs 2",
+  "subtitle": "Frankly, ... / we almost missed / hardly ever",
+  "summary": "Choose front position for connecting, comment and viewpoint adverbs, and mid position for degree, order and indefinite frequency adverbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "What typically goes in front position",
+      "columns": ["Type of adverb", "Example"],
+      "rows": [
+        ["connecting adverbs, which make the logical relation to the previous sentence immediately clear", "The value of the yen has fallen. **As a result**, Japan faces a crisis."],
+        ["time and place adverbs, which add to a time or place already mentioned", "The last few days have been hot. **Tomorrow** the weather will be much cooler."],
+        ["comment and viewpoint adverbs, which highlight the speaker's attitude to what they are about to say", "She has just heard that her sister is ill. **Presumably**, she will want to go home."]
+      ],
+      "note": "Other positions are possible for all of these; front position is simply the most usual."
+    },
+    {
+      "type": "compare",
+      "heading": "Comment adverb or adverb of manner?",
+      "left": {
+        "label": "Comment adverb - front position, whole clause",
+        "text": "It tells us the speaker's attitude to everything that follows.",
+        "examples": [
+          "**Naturally**, I'll do all I can to help.",
+          "**Clearly**, he wants me to take the job.",
+          "**Plainly**, he was feeling ill at ease."
+        ]
+      },
+      "right": {
+        "label": "Adverb of manner - end position, modifies the verb",
+        "text": "It tells us how the action was done.",
+        "examples": [
+          "The radioactive gas occurs **naturally** in many areas.",
+          "I was having difficulty thinking **clearly**.",
+          "She always dressed **plainly** at work."
+        ]
+      },
+      "note": "Also used in both ways: curiously, frankly, honestly, oddly, seriously."
+    },
+    {
+      "type": "explain",
+      "heading": "Front position for special emphasis",
+      "text": "Adverbs that normally sit in mid or end position can be moved to the front when we want to focus on them.",
+      "examples": [
+        { "text": "**In May**, Maxine had a baby." },
+        { "text": "**Regularly**, Helena works on several paintings at once." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Mid position: degree adverbs",
+      "text": "Degree adverbs (almost, hardly, nearly, quite, rather, scarcely) usually go in mid position. A few - completely, enormously, entirely, greatly, slightly - can also go in end position.",
+      "examples": [
+        { "text": "The street lighting was so bad that we **almost** missed the turning." },
+        { "text": "I admire your work **greatly**.", "note": "or I greatly admire your work." }
+      ],
+      "note": "Some degree adverbs avoid mid position with particular verbs: enormously is not usually used in mid position with develop, differ, go up or vary, and greatly is not normally used in mid position with care or suffer."
+    },
+    {
+      "type": "explain",
+      "heading": "Mid position: the order of events",
+      "text": "Adverbs showing the order of events - first, last, next - usually go in mid position. They can also go at the end, but if there is a phrase giving the time of the event they come in front of it. We don't put them in front position except when listing actions.",
+      "examples": [
+        { "text": "I **first** met her in 1997.", "note": "or I met her first in 1997." },
+        { "text": "**Next**, add three teaspoons of sugar.", "note": "listing actions" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Mid position: indefinite frequency",
+      "text": "One-word adverbs of indefinite frequency (hardly ever, often, rarely, regularly, seldom, and also always and never) go in mid position. But adverbial *phrases* of indefinite frequency (as a rule, on many occasions, from time to time, every so often) go in front or end position.",
+      "examples": [
+        { "text": "We **hardly ever** see Kaspar nowadays, he's so busy at the office." },
+        { "text": "**As a rule**, I go every six months.", "wrong": "I as a rule go every six months", "note": "or ... every six months, as a rule." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Long adverbials stay out of mid position",
+      "text": "We rarely put long adverbials - clauses, prepositional phrases and noun phrases - in mid position. They go in end position, or in front position for emphasis.",
+      "examples": [
+        { "text": "She phoned home, **anxious for news**.", "note": "or Anxious for news, she phoned home." },
+        { "text": "He picked up the vase **with great care**.", "note": "or With great care he picked up the vase." },
+        { "text": "I'd seen Tarik **the day before**.", "note": "or The day before, I'd seen Tarik." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One word or several? A single frequency adverb (*rarely*) takes mid position; a phrase with the same meaning (*from time to time*) goes at the front or the end."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___, I'm perfectly capable of putting up the shelf myself.",
+      "hint": "(honest)",
+      "answers": ["Honestly"],
+      "explanation": "Front position, so this is a comment adverb about the whole clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was brought up to earn money ___, not to steal it from others.",
+      "hint": "(honest)",
+      "answers": ["honestly"],
+      "explanation": "End position, so this is an adverb of manner: it says how the money was earned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The chief executive has phoned me every day this week to ask whether I've made my mind up. ___, he wants me to take the job.",
+      "hint": "(clear)",
+      "answers": ["Clearly"],
+      "explanation": "A comment adverb in front position: the speaker is saying how obvious the conclusion is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd had very little sleep and was having difficulty thinking ___.",
+      "hint": "(clear)",
+      "answers": ["clearly"],
+      "explanation": "Here the same adverb modifies the verb, so it takes end position."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the adverb working as a comment adverb (about the whole clause) or as an adverb of manner (about the verb)?",
+      "categories": ["Comment adverb", "Adverb of manner"],
+      "items": [
+        { "text": "Frankly, I went to sleep during his lecture - it was so boring.", "category": 0 },
+        { "text": "She admitted frankly that she felt she wasn't doing a good job.", "category": 1 },
+        { "text": "Plainly, he was feeling ill at ease.", "category": 0 },
+        { "text": "She always dressed plainly at work, in a white blouse and grey skirt.", "category": 1 },
+        { "text": "Curiously, the house has two chimneys, although there's only one fireplace.", "category": 0 },
+        { "text": "Esther looked at him curiously, trying to work out whether he was being serious.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I play chess with Lorenzo ___.",
+      "options": ["every week", "hardly ever", "always"],
+      "answer": 0,
+      "explanation": "End position takes adverbials of definite frequency; hardly ever and always need mid position."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Carmen had ___ spoken at meetings before, so it was no surprise when she stood up.",
+      "options": ["often", "on many occasions", "from time to time"],
+      "answer": 0,
+      "explanation": "Mid position takes one-word frequency adverbs; phrases like on many occasions go in front or end position."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was snowing and I was ___ late for the interview.",
+      "hint": "(almost / by an hour)",
+      "answers": ["almost"],
+      "explanation": "A prepositional phrase such as by an hour can't go in mid position; the degree adverb almost can."
+    },
+    {
+      "type": "true_false",
+      "statement": "Asthma rates in cities do not enormously differ from those in rural areas.",
+      "answer": false,
+      "explanation": "Asthma rates in cities do not significantly differ from those in rural areas. Enormously is not used in mid position with differ (or develop, go up, vary)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Although he had to lift heavy boxes in the factory, he greatly suffered from backache.",
+      "answer": false,
+      "explanation": "... he rarely suffered from backache. Greatly is not normally used in mid position with suffer (or care)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which position can *seldom* take?",
+      "options": ["We seldom see Alex any more.", "Seldom we see Alex any more.", "We see Alex seldom any more."],
+      "answer": 0,
+      "explanation": "Seldom is an adverb of indefinite frequency, so mid position is the one that works."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the long adverbial in front position for emphasis.",
+      "words": ["Anxious", "for news,", "she", "phoned", "home."],
+      "answer": "Anxious for news, she phoned home.",
+      "alternatives": ["She phoned home, anxious for news."],
+      "explanation": "Long adverbials go in end position, or in front position when we want to emphasise them - never in mid position."
+    }
+  ]
+}

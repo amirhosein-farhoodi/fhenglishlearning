@@ -1,0 +1,167 @@
+{
+  "number": 39,
+  "title": "Should in that-clauses; the present subjunctive",
+  "subtitle": "They proposed that Felix (should) move to Munich.",
+  "summary": "Report advice, orders and proposals with should in a that-clause, and use the more formal present subjunctive that drops should.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "that + should + bare infinitive",
+      "text": "We can report advice, orders, requests and suggestions about things that need to be done with a that-clause containing **should** + bare infinitive. After *should* we often have *be* + past participle (passive) or *be* + adjective.",
+      "examples": [
+        { "text": "They have proposed that Felix **should move** to their Munich office." },
+        { "text": "We advised that the company **should not raise** its prices." },
+        { "text": "They directed that the building **should be pulled** down." },
+        { "text": "We insist that the money **should be available** to all students in financial difficulties." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The present subjunctive: leaving should out",
+      "text": "In formal contexts, especially writing, we can drop *should* and use the **base form** of the verb - the present subjunctive. Other verbs used this way: advise, ask, beg, command, demand, insist, instruct, intend, order, prefer, recommend, request, require, stipulate, suggest, urge, warn.",
+      "examples": [
+        { "text": "They have proposed that Felix **move** to their Munich office." },
+        { "text": "They directed that the building **be pulled** down." },
+        { "text": "We advised that the company **not raise** its prices.", "wrong": "the company do not raise its prices" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Three levels of formality",
+      "columns": ["Register", "Positive", "Negative"],
+      "rows": [
+        ["neutral", "I suggested that he **should** give up golf.", "... that he shouldn't give up ..."],
+        ["more formal (subjunctive)", "I suggested that he **give** up golf.", "... that he not give up ..."],
+        ["less formal", "I suggested that he **gives** up golf.", "... that he doesn't give up ..."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "After a reporting noun",
+      "text": "The same that-clause with *should* or the subjunctive follows nouns related to those verbs - advice, order, proposal, warning, and so on.",
+      "examples": [
+        { "text": "The police issued an **order** that all weapons (**should**) **be handed** in immediately." },
+        { "text": "The weather forecast gave a **warning** that people (**should**) **prepare** for heavy snow." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + be + adjective",
+      "text": "After **it** + *be* + adjective we can use *should*, and sometimes the subjunctive. Also: advisable, appalling, appropriate, (in)conceivable, crucial, essential, imperative, important, obligatory, (un)necessary, urgent, vital.",
+      "examples": [
+        { "text": "It is inappropriate that he **should receive** the award again.", "note": "or ... that he receives ..." },
+        { "text": "It is imperative that we **should act** now to avoid war." },
+        { "text": "It is appalling that they **should be allowed** to go free." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "should for our own reaction",
+      "text": "We also use **should** in a that-clause to comment on our own reaction to what we are reporting, especially after *be* + adjective. Also: amazed, amused, anxious, astounded, disappointed, shocked, surprised, upset.",
+      "examples": [
+        { "text": "I am concerned that she **should think** I stole the money.", "note": "or ... that she thinks ..." },
+        { "text": "I am shocked that Kristina **should behave** so badly." },
+        { "text": "I am amused that he **should take** his appearance so seriously." }
+      ],
+      "note": "If you leave should out here, use an ordinary tense - not the subjunctive."
+    },
+    {
+      "type": "explain",
+      "heading": "Now, the future, and plans",
+      "text": "**should** in a that-clause can describe a situation that exists now or one that may exist in the future. When we talk about an intention or a plan, the subjunctive is often available too.",
+      "examples": [
+        { "text": "It's not surprising that they **should be** seen together - they're brothers." },
+        { "text": "We believe it is important that she **should take** the exam next year." },
+        { "text": "I've arranged that she **come** to the first part of the meeting.", "note": "or ... that she should come ... / ... that she comes ... / ... for her to come ..." }
+      ]
+    },
+    { "type": "tip", "text": "The subjunctive is only possible after verbs of advising, ordering and proposing. After *felt*, *reported*, *declared*, *agreed* or *announced*, *should* has to stay." }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Lee said: 'Mara Bianchi would make an excellent export manager. Let's promote her.' -> Lee urged that Mara Bianchi ___ to export manager.",
+      "hint": "(promote)",
+      "answers": ["should be promoted"],
+      "explanation": "urge reports a proposal, so we use should + be + past participle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alice said: 'It would be valuable for us to send a sales representative to South Africa.' -> Alice recommended that a sales representative ___ to South Africa.",
+      "hint": "(send)",
+      "answers": ["should be sent"],
+      "explanation": "The action has still to be carried out, so should be sent is right."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each set of words with its report.",
+      "pairs": [
+        { "left": "Simon said: 'It is vital to keep to our work schedules.'", "right": "Simon insisted that work schedules should be kept to." },
+        { "left": "Alina said: 'Perhaps we could use web conferencing to save money on air fares.'", "right": "Alina suggested that web conferencing should be used for meetings." },
+        { "left": "Alina said: 'Our head office must remain in London.'", "right": "Alina declared that the head office should remain in London." },
+        { "left": "Nathan said: 'It's okay for us to sponsor the European chess league.'", "right": "Nathan agreed that the company should sponsor the European chess league." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Complete the formal report: We advised that the company ___ its prices.",
+      "options": ["not raise", "do not raise", "not to raise"],
+      "answer": 0,
+      "explanation": "In the present subjunctive the negative is not + base form - never a form of do."
+    },
+    { "type": "true_false", "statement": "They have proposed that Felix move to their Munich office.", "answer": true, "explanation": "Correct. propose allows the present subjunctive, so the base form move is right in formal writing." },
+    { "type": "true_false", "statement": "Lee felt that business in South America be expanded.", "answer": false, "explanation": "Lee felt that business in South America should be expanded. feel does not allow the subjunctive, so should must stay." },
+    {
+      "type": "fill_blank",
+      "prompt": "I am ___ that Kristina should behave so badly.",
+      "hint": "(amused / shocked)",
+      "answers": ["shocked"],
+      "explanation": "should + bare infinitive after be + adjective reports our reaction; behaving badly shocks us."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is ___ that we should act now to avoid war.",
+      "hint": "(imperative / amused)",
+      "answers": ["imperative"],
+      "explanation": "it + be + adjective of necessity takes a that-clause with should."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can should be left out of the that-clause (leaving the present subjunctive)?",
+      "categories": ["Yes - subjunctive possible", "No - should must stay"],
+      "items": [
+        { "text": "urge", "category": 0 },
+        { "text": "recommend", "category": 0 },
+        { "text": "insist", "category": 0 },
+        { "text": "suggest", "category": 0 },
+        { "text": "feel", "category": 1 },
+        { "text": "report", "category": 1 },
+        { "text": "declare", "category": 1 },
+        { "text": "announce", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is ___ that they should be allowed to go free.",
+      "hint": "(appalling / urgent)",
+      "answers": ["appalling"],
+      "explanation": "The speaker is outraged, so appalling fits; the that-clause keeps should."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report the order the police gave. Put the words in order.",
+      "words": ["The police issued", "an order", "that all weapons", "should be handed in", "immediately"],
+      "answer": "The police issued an order that all weapons should be handed in immediately",
+      "alternatives": ["The police issued an order that all weapons be handed in immediately"],
+      "explanation": "A reporting noun like order takes the same that-clause with should (or the subjunctive be handed in)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which version is the most formal?",
+      "options": ["I suggested that he give up golf.", "I suggested that he should give up golf.", "I suggested that he gives up golf."],
+      "answer": 0,
+      "explanation": "The bare base form is the present subjunctive, the most formal of the three; gives up is the least formal."
+    }
+  ]
+}

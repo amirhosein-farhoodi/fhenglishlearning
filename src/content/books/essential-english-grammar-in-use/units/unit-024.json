@@ -1,0 +1,210 @@
+{
+  "number": 24,
+  "title": "Regular and irregular verbs",
+  "subtitle": "cleaned / broke - broken",
+  "summary": "Learn the past simple and past participle of regular verbs (-ed) and of the most common irregular verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Regular verbs",
+      "text": "The past simple and the past participle of a regular verb are the same. Both end in **-ed**: clean -> **cleaned**, live -> **lived**, paint -> **painted**, study -> **studied**.",
+      "examples": [
+        { "text": "I **cleaned** my room yesterday.", "note": "past simple" },
+        { "text": "Charlie **studied** engineering at university.", "note": "past simple" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where we use the past participle",
+      "text": "We use the past participle after **have/has** (present perfect) and after **be** (passive). The word is the same in both.",
+      "examples": [
+        { "text": "I **have cleaned** my room.", "note": "present perfect" },
+        { "text": "Tina **has lived** in London for ten years.", "note": "present perfect" },
+        { "text": "These rooms **are cleaned** every day.", "note": "passive" },
+        { "text": "My car **has been repaired**.", "note": "passive" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Irregular verbs",
+      "text": "The past simple and past participle of irregular verbs do *not* end in **-ed**. Sometimes the two forms are the same (make -> made -> made), and sometimes they are different (break -> broke -> broken).",
+      "examples": [
+        { "text": "I **made** a cake yesterday.", "note": "past simple" },
+        { "text": "I **have made** some coffee.", "note": "past participle - present perfect" },
+        { "text": "Butter **is made** from milk.", "note": "past participle - passive" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Same past simple and past participle",
+      "columns": ["Verb", "Past simple", "Past participle"],
+      "rows": [
+        ["make", "made", "made"],
+        ["find", "found", "found"],
+        ["buy", "bought", "bought"],
+        ["bring", "brought", "brought"],
+        ["think", "thought", "thought"],
+        ["catch", "caught", "caught"],
+        ["pay", "paid", "paid"],
+        ["sell", "sold", "sold"],
+        ["tell", "told", "told"],
+        ["get", "got", "got"],
+        ["sit", "sat", "sat"],
+        ["leave", "left", "left"],
+        ["hear", "heard", "heard"],
+        ["sleep", "slept", "slept"],
+        ["lose", "lost", "lost"],
+        ["win", "won", "won"],
+        ["meet", "met", "met"],
+        ["understand", "understood", "understood"],
+        ["cut", "cut", "cut"],
+        ["put", "put", "put"],
+        ["cost", "cost", "cost"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Different past simple and past participle",
+      "columns": ["Verb", "Past simple", "Past participle"],
+      "rows": [
+        ["break", "broke", "broken"],
+        ["begin", "began", "begun"],
+        ["eat", "ate", "eaten"],
+        ["drink", "drank", "drunk"],
+        ["drive", "drove", "driven"],
+        ["speak", "spoke", "spoken"],
+        ["write", "wrote", "written"],
+        ["come", "came", "come"],
+        ["know", "knew", "known"],
+        ["take", "took", "taken"],
+        ["go", "went", "gone"],
+        ["give", "gave", "given"],
+        ["throw", "threw", "thrown"],
+        ["forget", "forgot", "forgotten"],
+        ["see", "saw", "seen"],
+        ["fly", "flew", "flown"],
+        ["swim", "swam", "swum"],
+        ["ride", "rode", "ridden"],
+        ["run", "ran", "run"],
+        ["steal", "stole", "stolen"],
+        ["wake up", "woke up", "woken up"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "One verb, three sentences",
+      "text": "The past simple stands alone. The past participle needs **have/has** or a form of **be** in front of it.",
+      "examples": [
+        { "text": "Somebody **broke** this window last night.", "note": "past simple" },
+        { "text": "Somebody **has broken** this window.", "note": "past participle - present perfect" },
+        { "text": "This window **was broken** last night.", "note": "past participle - passive" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After **have/has** or **was/were** never use the past simple: say *I have broken it*, not ~~I have broke it~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past simple. For these verbs the past participle is the same word.",
+      "pairs": [
+        { "left": "bring", "right": "brought" },
+        { "left": "pay", "right": "paid" },
+        { "left": "sit", "right": "sat" },
+        { "left": "catch", "right": "caught" },
+        { "left": "understand", "right": "understood" },
+        { "left": "leave", "right": "left" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Are the past simple and the past participle the same word, or two different words?",
+      "categories": ["The same (made - made)", "Different (broke - broken)"],
+      "items": [
+        { "text": "make", "category": 0 },
+        { "text": "buy", "category": 0 },
+        { "text": "cut", "category": 0 },
+        { "text": "eat", "category": 1 },
+        { "text": "go", "category": 1 },
+        { "text": "take", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel good. I ___ very well last night.",
+      "hint": "(sleep)",
+      "answers": ["slept"],
+      "explanation": "Past simple of sleep: slept."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ a really good film yesterday.",
+      "hint": "(see)",
+      "answers": ["saw"],
+      "explanation": "Past simple of see: saw. (The past participle is seen.)"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It ___ a lot while we were on holiday.",
+      "hint": "(rain)",
+      "answers": ["rained"],
+      "explanation": "rain is a regular verb, so the past simple is rained."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past participle. For these verbs the past simple is a different word.",
+      "pairs": [
+        { "left": "break", "right": "broken" },
+        { "left": "begin", "right": "begun" },
+        { "left": "drink", "right": "drunk" },
+        { "left": "drive", "right": "driven" },
+        { "left": "write", "right": "written" },
+        { "left": "know", "right": "known" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rosa's bicycle was ___ last week.",
+      "hint": "(steal)",
+      "answers": ["stolen"],
+      "explanation": "After was we need the past participle: stolen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The shopping centre was ___ about 20 years ago.",
+      "hint": "(build)",
+      "answers": ["built"],
+      "explanation": "After was we need the past participle: built."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We played basketball on Sunday. We didn't play very well, but we ___ the game.",
+      "hint": "(win)",
+      "answers": ["won"],
+      "explanation": "Past simple of win: won."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many different languages are ___ in the Philippines.",
+      "hint": "(speak)",
+      "answers": ["spoken"],
+      "explanation": "This is a passive sentence, so after are we need the past participle spoken."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My brother ___ in the London Marathon last year.",
+      "options": ["ran", "run", "runned"],
+      "answer": 0,
+      "explanation": "run is irregular: the past simple is ran and the past participle is run."
+    },
+    {
+      "type": "true_false",
+      "statement": "All the tickets for the concert were sold very quickly.",
+      "answer": true,
+      "explanation": "Correct. sell -> sold -> sold, and after were we need the past participle."
+    }
+  ]
+}

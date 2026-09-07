@@ -1,0 +1,172 @@
+{
+  "number": 69,
+  "title": "a/an and the",
+  "subtitle": "a window / the window",
+  "summary": "Use a/an when there are many things like it, and the when it is clear which thing or person you mean.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "a window or the window?",
+      "text": "A room has three windows. Somebody is hot and says: *Can you open **a** window?* Any of the three is fine. In another room there is only one window. Here we say: *Can you open **the** window?* Everybody knows which window.",
+      "examples": [
+        { "text": "I've got **a** car. (there are many cars and I've got one)" },
+        { "text": "I'm going to clean **the** car tomorrow. (= my car)" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a/an and the",
+      "left": {
+        "label": "a/an - one of many",
+        "examples": [
+          "Can I ask **a question**?",
+          "Is there **a hotel** near here?",
+          "Paris is **an interesting city**.",
+          "Lisa is **a student**."
+        ]
+      },
+      "right": {
+        "label": "the - we know which one",
+        "examples": [
+          "Can you repeat **the question**, please?",
+          "We enjoyed our holiday. **The hotel** was very nice.",
+          "Paris is **the capital of France**.",
+          "Lisa is **the youngest student** in her class."
+        ]
+      },
+      "note": "There is only one capital of France and only one youngest student in the class, so we use **the**."
+    },
+    {
+      "type": "explain",
+      "heading": "First a, then the",
+      "text": "When you talk about something for the first time, use **a/an**. After that the other person knows which thing you mean, so use **the**.",
+      "examples": [
+        { "text": "I bought **a** jacket and **a** shirt. **The** jacket was cheap, but **the** shirt was expensive." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "the ... because there is only one",
+      "columns": ["Of a room", "Of a house", "Of a town"],
+      "rows": [
+        ["the door", "the roof", "the centre"],
+        ["the ceiling", "the garden", "the station"],
+        ["the floor", "the kitchen", "the airport"],
+        ["the light", "the bathroom", "the town hall"]
+      ],
+      "note": "A room has one door and one floor, a town has one station, so we say **the**."
+    },
+    {
+      "type": "explain",
+      "heading": "the in everyday sentences",
+      "text": "We say **the** when it is clear which thing or person we mean. Often it is the one in this room, this house, this town or this shop.",
+      "examples": [
+        { "text": "*A:* Where's Tom? *B:* In **the kitchen**. (= the kitchen of this house)" },
+        { "text": "Turn off **the light** and close **the door**." },
+        { "text": "Do you live far from **the centre**? (= the centre of your town)" },
+        { "text": "I'd like to speak to **the manager**, please." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: does the other person know which one I mean? Yes -> **the**. No -> **a/an**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You look very tired. You need ___ holiday.",
+      "hint": "(a / an / the)",
+      "answers": ["a"],
+      "explanation": "Any holiday - not one special holiday - so we use a."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Eve is ___ interesting person. You should meet her.",
+      "hint": "(a / an / the)",
+      "answers": ["an"],
+      "explanation": "There are many interesting people and Eve is one. interesting starts with a vowel sound, so an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Where's Tom?' 'He's in ___ garden.'",
+      "hint": "(a / an / the)",
+      "answers": ["the"],
+      "explanation": "The house has one garden and we both know it, so the garden."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Paris is ___ capital of France.",
+      "options": ["the", "a", "an"],
+      "answer": 0,
+      "explanation": "There is only one capital of France, so we say the capital."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I bought a jacket and a shirt. ___ jacket was cheap, but the shirt was expensive.",
+      "hint": "(a / an / the)",
+      "answers": ["The"],
+      "explanation": "Now you know which jacket I mean - the one I bought."
+    },
+    {
+      "type": "matching",
+      "prompt": "Somebody is speaking. Match each sentence with the words that complete it.",
+      "pairs": [
+        { "left": "How far is it to ... ?", "right": "the airport" },
+        { "left": "Can I have ... of coffee, please?", "right": "a cup" },
+        { "left": "Can you pass me ... , please?", "right": "the dictionary" },
+        { "left": "Why are you sitting on ... ?", "right": "the floor" },
+        { "left": "That's ... - I like it.", "right": "a nice picture" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's ___ nice morning. Let's go for a walk.",
+      "hint": "(a / an / the)",
+      "answers": ["a"],
+      "explanation": "There are many nice mornings and today is one of them."
+    },
+    {
+      "type": "true_false",
+      "statement": "Canada is very big country.",
+      "answer": false,
+      "explanation": "Canada is a very big country. English needs a before a singular noun here."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like this room, but I don't like colour of carpet.",
+      "answer": false,
+      "explanation": "I like this room, but I don't like the colour of the carpet. There is one carpet in this room and it has one colour."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Are you OK?' 'No, I've got ___.'",
+      "hint": "(headache)",
+      "answers": ["a headache"],
+      "explanation": "We say a headache, like a cold and a temperature."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word goes in the gap: a/an or the?",
+      "categories": ["a / an", "the"],
+      "items": [
+        { "text": "Amanda is ___ student.", "category": 0 },
+        { "text": "That's ___ good idea.", "category": 0 },
+        { "text": "Is there ___ hotel near here?", "category": 0 },
+        { "text": "Shall we go out for ___ meal this evening?", "category": 0 },
+        { "text": "What is ___ name of this village?", "category": 1 },
+        { "text": "What is ___ largest city in Canada?", "category": 1 },
+        { "text": "Can you tell me how to get to ___ city centre?", "category": 1 },
+        { "text": "We live in an old house near ___ station.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["We", "live", "in", "an old house", "near", "the station."],
+      "answer": "We live in an old house near the station.",
+      "explanation": "an old house = one of many houses; the station = the one station in this town."
+    }
+  ]
+}

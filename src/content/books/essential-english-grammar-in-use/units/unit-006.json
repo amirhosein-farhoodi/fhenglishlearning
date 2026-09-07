@@ -1,0 +1,171 @@
+{
+  "number": 6,
+  "title": "I don't ... (present simple negative)",
+  "subtitle": "I don't like / he doesn't like",
+  "summary": "Make the present simple negative with don't or doesn't and the simple verb: I don't drink coffee.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "don't and doesn't",
+      "text": "A woman holds out a cup of coffee to her friend: *Coffee?* Her friend says: *No, thanks. I don't drink coffee.* In an office, a man sits at his desk with his head in his hand and thinks: *I don't like my job.* The present simple negative is **don't/doesn't + verb**.",
+      "examples": [
+        { "text": "She **doesn't drink** coffee." },
+        { "text": "He **doesn't like** his job." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The form",
+      "columns": ["Subject", "positive", "negative"],
+      "rows": [
+        ["I / we / you / they", "like", "don't like (do not like)"],
+        ["he / she / it", "likes", "doesn't like (does not like)"]
+      ],
+      "note": "**don't** = do not, **doesn't** = does not."
+    },
+    {
+      "type": "explain",
+      "heading": "Negative sentences",
+      "text": "Use **don't** with I, we, you and they. Use **doesn't** with he, she, it and one person or thing.",
+      "examples": [
+        { "text": "I drink coffee, but I **don't drink** tea." },
+        { "text": "Sue drinks tea, but she **doesn't drink** coffee." },
+        { "text": "We **don't watch** television very often." },
+        { "text": "The weather is usually nice. It **doesn't rain** very often." },
+        { "text": "Gary and Nicole **don't know** many people." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "don't or doesn't?",
+      "left": {
+        "label": "I / we / you / they + don't",
+        "text": "More than one person, and also I and you.",
+        "examples": [
+          "I **don't** like football.",
+          "Gary and Nicole **don't** know many people.",
+          "You **don't** work very hard."
+        ]
+      },
+      "right": {
+        "label": "he / she / it + doesn't",
+        "text": "One person or one thing.",
+        "examples": [
+          "He **doesn't** like football.",
+          "My car **doesn't** use much petrol.",
+          "Sometimes he is late, but it **doesn't** happen very often."
+        ]
+      },
+      "note": "*Fred doesn't like me*, not ~~Fred don't like me~~."
+    },
+    {
+      "type": "explain",
+      "heading": "No -s after don't / doesn't",
+      "text": "After **don't** and **doesn't** the verb is simple: **like**, **speak**, **do**, **have**. Never add **-s** to it.",
+      "examples": [
+        { "text": "I **don't like** washing the car. I **don't do** it very often." },
+        { "text": "Sarah speaks Spanish, but she **doesn't speak** Italian.", "wrong": "doesn't speaks" },
+        { "text": "Bill **doesn't do** his job very well.", "wrong": "Bill doesn't his job" },
+        { "text": "Paula **doesn't** usually **have** breakfast.", "wrong": "doesn't usually has" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The -s moves to doesn't: *she likes* becomes *she doesn't like*, not ~~she doesn't likes~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Make this sentence negative: Jane plays the piano very well. Jane ___ the piano very well.",
+      "hint": "(play)",
+      "answers": ["doesn't play", "does not play"],
+      "explanation": "Jane = she, so doesn't + play (no -s on the verb)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make this sentence negative: They know my phone number. They ___ my phone number.",
+      "hint": "(know)",
+      "answers": ["don't know", "do not know"],
+      "explanation": "They + don't + know."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which negative form goes with each subject: don't or doesn't?",
+      "categories": ["don't", "doesn't"],
+      "items": [
+        { "text": "I", "category": 0 },
+        { "text": "we", "category": 0 },
+        { "text": "they", "category": 0 },
+        { "text": "you", "category": 0 },
+        { "text": "he", "category": 1 },
+        { "text": "Sarah", "category": 1 },
+        { "text": "my car", "category": 1 },
+        { "text": "it", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make this sentence negative: He has a bath every day. He ___ a bath every day.",
+      "hint": "(have)",
+      "answers": ["doesn't have", "does not have"],
+      "explanation": "has becomes doesn't have."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul has a car, but he ___ it very often.",
+      "hint": "(use)",
+      "answers": ["doesn't use", "does not use"],
+      "explanation": "He + doesn't + use."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paul and his friends like films, but they ___ to the cinema very often.",
+      "hint": "(go)",
+      "answers": ["don't go", "do not go"],
+      "explanation": "Paul and his friends = they, so don't + go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amanda is married, but she ___ a ring.",
+      "hint": "(wear)",
+      "answers": ["doesn't wear", "does not wear"],
+      "explanation": "She + doesn't + wear."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sarah speaks Spanish, but she ___ Italian.",
+      "options": ["doesn't speak", "doesn't speaks", "don't speak"],
+      "answer": 0,
+      "explanation": "After doesn't the verb has no -s: doesn't speak."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mark is a vegetarian. He ___ meat.",
+      "hint": "(eat)",
+      "answers": ["doesn't eat", "does not eat"],
+      "explanation": "A vegetarian eats no meat: He doesn't eat meat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Andy ___ a lot of tea. It's his favourite drink.",
+      "hint": "(drink)",
+      "answers": ["drinks"],
+      "explanation": "This sentence is positive, so we need the -s form: drinks."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with these words.",
+      "words": ["Paula", "doesn't", "usually", "have", "breakfast."],
+      "answer": "Paula doesn't usually have breakfast.",
+      "explanation": "doesn't + usually + the simple verb have."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't like Fred and Fred don't like me.",
+      "answer": false,
+      "explanation": "I don't like Fred and Fred doesn't like me. Fred = he, so we need doesn't."
+    }
+  ]
+}

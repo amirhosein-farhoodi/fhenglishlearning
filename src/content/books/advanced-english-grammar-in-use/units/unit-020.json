@@ -1,0 +1,182 @@
+{
+  "number": 20,
+  "title": "Should, ought to and had better",
+  "subtitle": "you should / ought to / had better go",
+  "summary": "Use should and ought to for obligation, recommendation and probability, and had better for urgent advice - and learn where each one doesn't work.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "should or ought to",
+      "text": "We can often use either should or ought to for obligations and recommendations and for probability, although should is much more frequent. Ought to belongs mainly to speech, and is used most often for obligation rather than probability.",
+      "examples": [
+        { "text": "You **should / ought to** finish your homework before you go out.", "note": "obligation" },
+        { "text": "It **should / ought to** be ready by now.", "note": "probability" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Not for firm conclusions",
+      "text": "When we conclude, on the basis of some evidence, that something is certain or very likely, we use must - not should or ought to.",
+      "examples": [
+        { "text": "It's the third time she's been skating this week. She **must** really enjoy it.", "wrong": "She should really enjoy it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where should is preferred",
+      "text": "We prefer should when we report what an outside authority recommends, when we give advice beginning with I ..., and in questions - particularly wh-questions.",
+      "examples": [
+        { "text": "The manual says that the computer **should be** disconnected from the power supply before the cover is removed.", "note": "rather than ought to be disconnected" },
+        { "text": "**I should** leave early tomorrow, if I were you.", "note": "or I would / I'd leave ...; not I ought to leave" },
+        { "text": "What **should** I do if I have any problems?" },
+        { "text": "**Should** I ring you at home?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "should / ought to have + past participle",
+      "text": "This form talks about something that didn't happen and that we are sorry about, and it often carries regret or criticism. It can also express an expectation that something happened, has happened or will happen.",
+      "examples": [
+        { "text": "We **should / ought to have waited** for the rain to stop.", "note": "I'm sorry we didn't" },
+        { "text": "If the flight was on time, he **should / ought to have arrived** in Jakarta early this morning.", "note": "an expectation" }
+      ],
+      "note": "The negatives shouldn't / oughtn't to have + past participle are almost always used to criticise."
+    },
+    {
+      "type": "explain",
+      "heading": "should in offers and requests for advice",
+      "text": "We can use should in questions that are offers, or that request confirmation or advice. Shall is also possible here, with a very similar meaning.",
+      "examples": [
+        { "text": "**Should I** phone for a taxi for you?" },
+        { "text": "**Who should I** pass the message to?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "I shall or I should?",
+      "left": {
+        "label": "I shall = I intend to",
+        "examples": [
+          "**I shall** read the script on the train tomorrow. (or I'll read ...)"
+        ]
+      },
+      "right": {
+        "label": "I should = I ought to",
+        "examples": [
+          "**I should** read the script on the train tomorrow but I know that I'll be too tired."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "had better",
+      "text": "Especially in spoken English we can use had better instead of should / ought to to say that we think something is a good idea. But we don't use it to talk about the past or to make general comments, and we prefer it when we want to express particular urgency, or in demands and threats.",
+      "examples": [
+        { "text": "If you're not well, **you'd better** ask Clare to go instead.", "note": "or ... you should / ought to ..." },
+        { "text": "You **should / ought to have caught** a later train.", "wrong": "You had better have caught" },
+        { "text": "I don't think parents **should / ought to** give children sweets.", "wrong": "parents had better give" },
+        { "text": "There's someone moving about downstairs. **We'd better** call the police, quickly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "had better: negatives and questions",
+      "text": "The negative form is had better not, and in questions the subject comes after had.",
+      "examples": [
+        { "text": "He'**d better not** be late again or he'll be in trouble." },
+        { "text": "**Had we better** get a taxi?", "note": "or Should we get a taxi?" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Thomas is running so well at the moment that he ___ the 800 metres easily.",
+      "hint": "(win)",
+      "answers": ["should win", "ought to win"],
+      "explanation": "Should / ought to for probability - what we expect to happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's important to look smart at the interview. You ___ a suit.",
+      "hint": "(wear)",
+      "answers": ["should wear", "ought to wear"],
+      "explanation": "Should / ought to for a recommendation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Payment for the full amount ___ with this application form.",
+      "hint": "(send) - passive",
+      "answers": ["should be sent"],
+      "explanation": "When an outside authority recommends something we prefer should, not ought to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I wonder how old Louis is? *B:* Well, he went to school with my mother, so he ___ well over 50.",
+      "options": ["must be", "should be", "ought to be"],
+      "answer": 0,
+      "explanation": "This is a logical conclusion drawn from evidence, so must - not should or ought to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are many people who think the President ___ years ago.",
+      "hint": "(resign)",
+      "answers": ["should have resigned", "ought to have resigned"],
+      "explanation": "Should / ought to have + past participle criticises something that didn't happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't imagine what's happened to Nadia. She ___ here by now.",
+      "hint": "(be)",
+      "answers": ["should be", "ought to be", "should have been", "ought to have been"],
+      "explanation": "Should / ought to express an expectation about what is or has been the case."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you want my advice, I ___ by train rather than car.",
+      "options": ["should go", "ought to go", "had better go"],
+      "answer": 0,
+      "explanation": "For advice beginning with I ..., we use should (or would) - ought to is not possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have you put on weight recently? *B:* Yes. I ___ more exercise, but I never seem to have time.",
+      "hint": "(do)",
+      "answers": ["should do", "ought to do"],
+      "explanation": "The meaning is 'I ought to', so should - I shall do would mean 'I intend to'."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* The next meeting's on 3rd April. *B:* I'd better make a note of that, or I'll forget.",
+      "answer": true,
+      "explanation": "Correct. Had better is natural in speech for something we think is a good idea right now."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* I'm freezing. *B:* You'd better have worn a thicker coat.",
+      "answer": false,
+      "explanation": "You should / ought to have worn a thicker coat. Had better is not used to talk about the past."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The children next door have been throwing stones at your windows. Warn them, using had better.",
+      "words": ["Well,", "they'd better not", "do it", "again,", "otherwise", "I'll call the police."],
+      "answer": "Well, they'd better not do it again, otherwise I'll call the police.",
+      "explanation": "Had better not is preferred for a threat or a demand with particular urgency."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Can you use should here as well as must, or does only must work?",
+      "categories": ["should or must", "only must (a logical conclusion)"],
+      "items": [
+        { "text": "A timetable ___ be set for withdrawing the army.", "category": 0 },
+        { "text": "Lev isn't home yet. He ___ have been held up at work.", "category": 1 },
+        { "text": "He went to school with my mother, so he ___ be well over 50.", "category": 1 },
+        { "text": "If you smell gas, you ___ phone the emergency number.", "category": 0 },
+        { "text": "You ___ try to visit Nepal - it's a beautiful country.", "category": 0 },
+        { "text": "It ___ be handy living so close to your office.", "category": 1 }
+      ]
+    }
+  ]
+}

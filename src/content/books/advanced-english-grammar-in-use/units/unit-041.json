@@ -1,0 +1,180 @@
+{
+  "number": 41,
+  "title": "Agreement between subject and verb 2",
+  "subtitle": "a number of people are / the number of people is",
+  "summary": "Choose a singular or a plural verb after quantity phrases such as any of, none of, a number of and one of, and after subjects joined by and or or.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "any of, each of, either of, neither of, none of",
+      "text": "With **any of, each of, either of, neither of** or **none of** and a plural noun or pronoun we can use either a singular or a plural verb. The singular verb is the safer choice in careful written English.",
+      "examples": [
+        { "text": "I don't think any of them **knows** (or **know**) where the money is hidden." },
+        { "text": "Neither of the French athletes **has** (or **have**) won this year." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a number of and the number of",
+      "left": {
+        "label": "a number of + plural noun",
+        "text": "Plural verb. The same goes for a / the majority of, a lot of, plenty of, all (of) and some (of) with a plural noun.",
+        "examples": [
+          "A number of refugees **have** been turned back at the border.",
+          "The majority of those questioned **think** that the policies have failed."
+        ]
+      },
+      "right": {
+        "label": "the number of + plural noun",
+        "text": "Singular verb - the subject is one figure, not many things.",
+        "examples": ["The number of books in the library **has** risen to over five million."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "one of ...",
+      "text": "After **one of** and a plural noun or pronoun we use a singular verb. However, after **one of + plural noun + who** either verb is often possible, and the plural one is more grammatical.",
+      "examples": [
+        { "text": "**One of the reasons** I took the job **was** that I could work from home." },
+        { "text": "He's one of those teachers who **insist** / **insists** on pupils sitting silently in class." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Uncountable nouns, every, each, everyone",
+      "text": "With **any of, none of, the majority of, a lot of, plenty of, all (of)** or **some (of)** and an uncountable noun we use a singular verb. **Every** and **each** with a singular noun (or a coordinated noun *x and y*) also take a singular verb, and so do **everyone, everybody, everything** and the similar words in *any-, some-* and *no-*.",
+      "examples": [
+        { "text": "All the furniture **was** destroyed in the fire." },
+        { "text": "None of the equipment **appears** to be damaged." },
+        { "text": "Every boy and girl **takes** part in the activity." },
+        { "text": "Each child **has** drawn a picture.", "note": "but The children have each drawn a picture." },
+        { "text": "Practically everyone **thinks** that Phil should be given the job." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Items joined by and",
+      "text": "When a subject has two or more items joined by **and**, we usually use a plural verb. But phrases connected by *and* can take a singular verb if we think of them as making up a single item.",
+      "examples": [
+        { "text": "Ingrid and Tobias **are** moving back to Australia." },
+        { "text": "The lorry, its cargo and passengers **weighs** around 35 tonnes.", "note": "or ... weigh ... - the three together make up one load" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "(either) ... or ..., (neither) ... nor ...",
+      "text": "Here the verb agrees with the **last** item: a singular verb if the last item is singular, a plural verb if it is plural. If the last item is singular and the one before it is plural, both verbs are possible.",
+      "examples": [
+        { "text": "Either the station or the cinema **is** a good place to meet.", "note": "or ... are ... in informal English" },
+        { "text": "The President or his representatives **are** to attend the meeting." },
+        { "text": "Either the teachers or the principal **is** to blame for the accident.", "note": "or ... are to blame ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there + be / have",
+      "text": "After **there** we use a singular verb form with singular and uncountable nouns and a plural form with plural nouns. In informal speech, though, a shortened singular form (*There's*) is often used with plural nouns.",
+      "examples": [
+        { "text": "Over the last few years there **have been** many improvements in car safety." },
+        { "text": "**There's been** lots of good films on lately.", "note": "or There've been ... - informal speech only" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In careful writing prefer the singular verb after *none of, neither of* and *any of* - and never forget that *the number of* always takes a singular verb."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "A number of refugees ___ been turned back at the border.",
+      "options": ["have", "has", "is"],
+      "answer": 0,
+      "explanation": "a number of + plural noun takes a plural verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The number of books in the library ___ risen to over five million.",
+      "options": ["has", "have", "were"],
+      "answer": 0,
+      "explanation": "the number of is the exception: it refers to one figure, so the verb is singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd be surprised if any of my children ___ my birthday.",
+      "hint": "(remember)",
+      "answers": ["remember", "remembers"],
+      "explanation": "After any of + plural noun both forms are possible; remembers is preferred in careful written English."
+    },
+    {
+      "type": "true_false",
+      "statement": "Plenty of jobs is available, but no one wants them because they're so poorly paid.",
+      "answer": false,
+      "explanation": "Plenty of jobs are available, but no one wants them because they're so poorly paid. plenty of + plural noun takes a plural verb."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In careful written English, does each subject take a singular or a plural verb?",
+      "categories": ["Singular verb", "Plural verb"],
+      "items": [
+        { "text": "The number of complaints ...", "category": 0 },
+        { "text": "A number of complaints ...", "category": 1 },
+        { "text": "All the furniture ...", "category": 0 },
+        { "text": "Every boy and girl ...", "category": 0 },
+        { "text": "The President or his representatives ...", "category": 1 },
+        { "text": "Practically everyone ...", "category": 0 },
+        { "text": "Ingrid and Tobias ...", "category": 1 },
+        { "text": "None of the equipment ...", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think any of ___ particularly good. In fact, the restaurant is rather disappointing.",
+      "hint": "(the food / taste)",
+      "answers": ["the food tastes"],
+      "explanation": "food is uncountable, so after any of the verb has to be singular."
+    },
+    {
+      "type": "true_false",
+      "statement": "A number of medicines relieve the symptoms of influenza, but none can cure it.",
+      "answer": true,
+      "explanation": "Correct. a number of + plural noun takes a plural verb (relieve)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mainly because of recent health scares involving beef and chicken, the number of vegetarians ___ to rise dramatically in the next five years.",
+      "hint": "(expect) - passive",
+      "answers": ["is expected"],
+      "explanation": "the number of takes a singular verb, so the passive is is expected."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Why did you take the job? Put the words in order.",
+      "words": ["One", "of the reasons", "I took the job", "was that", "I could work", "from home."],
+      "answer": "One of the reasons I took the job was that I could work from home.",
+      "explanation": "After one of + plural noun the verb is singular: was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The majority of those questioned ___ that the government's economic policies have failed.",
+      "hint": "(think)",
+      "answers": ["think"],
+      "explanation": "the majority of + plural noun takes a plural verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Over the last few years there ___ many improvements in car safety.",
+      "hint": "(be) - present perfect",
+      "answers": ["have been"],
+      "explanation": "there + a plural noun takes a plural verb form: there have been."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Professor Smith and Dr Peters claim that the wreck of the ship and its cargo ___ a danger to local people fishing near the island.",
+      "hint": "(constitute)",
+      "answers": ["constitutes", "constitute"],
+      "explanation": "The wreck and its cargo act together as a single item, so the singular constitutes is more likely."
+    }
+  ]
+}

@@ -11,6 +11,8 @@
  *   ___        the blank in fill_blank prompts (exactly one per exercise)
  */
 
+import type { CategoryId } from './categories'
+
 export interface BookSection {
   title: string
   units: number[]
@@ -23,6 +25,14 @@ export interface BookMeta {
   author?: string
   level?: string
   description: string
+  /**
+   * Which shelf the book sits on, e.g. "grammar". Must be the id of a category in
+   * src/content/categories.ts. Books with an unknown (or missing) category fall back
+   * to DEFAULT_CATEGORY so a new book never disappears from the home page.
+   */
+  category?: CategoryId
+  /** Position within its category on the home page (ascending). Ties fall back to title. */
+  order?: number
   /** Fallback shown when there is no cover image. */
   coverEmoji: string
   /** Path to the real book cover, e.g. "/covers/my-book.jpg" (file lives in public/covers/). */

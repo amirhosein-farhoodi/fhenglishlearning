@@ -1,0 +1,165 @@
+{
+  "number": 25,
+  "title": "Reporting with passives; It is said that ...",
+  "subtitle": "It is reported that ... / The damage is reported to be ...",
+  "summary": "Report what an unnamed group of people say or think using passives: it is said that ..., the damage is reported to be ..., and there are thought to be ...",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Reporting with a passive",
+      "text": "We often use a passive to report what people say, think, decide and so on, particularly when it is not important to mention **who** is being reported.",
+      "examples": [
+        { "text": "People in the area **have been told** that they should stay indoors." },
+        { "text": "Everyone **was asked** to bring some food to the party." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + passive verb + that-clause",
+      "text": "Another common way of reporting what an unspecified group of people say is **it + passive verb + that-clause**. It lets us keep the important information until the end of the sentence.",
+      "examples": [
+        { "text": "**It is reported that** the damage is extensive.", "note": "compare The damage is extensive, according to government sources." },
+        { "text": "**It was decided that** the meeting should be cancelled.", "note": "or It was decided to cancel the meeting." }
+      ],
+      "note": "Also: allege, announce, assume, believe, calculate, claim, consider, demonstrate, discover, establish, estimate, expect, feel, find, know, mention, recommend, reveal, say, show, suggest, suppose, think, understand; agree, decide, hope, intend, plan, propose (these last six can also be followed by a to-infinitive clause)."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that need a personal object",
+      "text": "Many other reporting verbs are **not** used in the it + passive + that-clause pattern, because in the active they need a personal object before the that-clause (*They have informed us that ...*). They can still be used as in section A.",
+      "examples": [
+        { "text": "We **have been informed that** we have to leave.", "note": "not It has been informed that we have to leave" }
+      ],
+      "note": "Also: encourage, persuade, reassure, remind, tell, warn."
+    },
+    {
+      "type": "explain",
+      "heading": "subject + passive verb + to-infinitive",
+      "text": "An alternative is to make the person or thing the **subject**, if we want it to be the topic of the sentence. Most of the verbs above work here, except *announce, decide, mention, propose, recommend* and *suggest*.",
+      "examples": [
+        { "text": "It is reported that the damage is extensive. - **The damage is reported to be** extensive." },
+        { "text": "I **was told** (= ordered) **to go** with them to the railway station.", "note": "tell works here only when it means 'order'" },
+        { "text": "It was said that the accident had happened just after midnight.", "wrong": "The accident was told to have happened just after midnight" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "it + passive verb + wh-clause",
+      "text": "With some verbs we can also report information that has been given or found out with **it + passive verb + a wh-clause**.",
+      "examples": [
+        { "text": "**It has now been revealed who** was responsible for the accident." },
+        { "text": "The decision to build the bridge was taken before **it was established whether** it was actually needed." }
+      ],
+      "note": "Also: discover, explain, find, know, reveal, show, understand."
+    },
+    {
+      "type": "explain",
+      "heading": "there + passive verb + to be",
+      "text": "When the that-clause begins **that + there ...**, we can make a matching passive with **there + passive verb + to be / to have been**.",
+      "examples": [
+        { "text": "It is thought (that) there are too many obstacles to peace." },
+        { "text": "**There are thought to be** too many obstacles to peace." }
+      ],
+      "note": "The same verbs work here as in the subject + passive verb + to-infinitive pattern."
+    },
+    {
+      "type": "tip",
+      "text": "Choose it is said that ... when the news is the point, and the King is said to be ... when the person or thing is already the topic."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "TERRORISTS BELIEVED TO BE OPERATING IN BERLIN - ___ that terrorists are operating in Berlin.",
+      "hint": "(it / believe)",
+      "answers": ["It is believed"],
+      "explanation": "it + passive verb + that-clause reports what an unnamed group believes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "WATER DISCOVERED ON MARS - ___ that there is water on Mars.",
+      "hint": "(it / discover) - present perfect",
+      "answers": ["It has been discovered"],
+      "explanation": "A recent discovery takes the present perfect passive: it has been discovered that ..."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was ___ to hold new negotiations next month.",
+      "options": ["agreed", "announced", "reassured"],
+      "answer": 0,
+      "explanation": "agree can be followed by a to-infinitive clause in this pattern; announce cannot, and reassure needs a personal object."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verbs can be used in the pattern It is / has been ... that ...?",
+      "categories": ["Yes: It is ... that ...", "No: the verb needs a personal object"],
+      "items": [
+        { "text": "allege", "category": 0 },
+        { "text": "warn", "category": 1 },
+        { "text": "estimate", "category": 0 },
+        { "text": "persuade", "category": 1 },
+        { "text": "reveal", "category": 0 },
+        { "text": "remind", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite the headline AGREEMENT THAT UN WILL SEND IN TROOPS as a passive sentence with it.",
+      "words": ["It", "has been agreed", "that", "the UN", "will send in", "troops"],
+      "answer": "It has been agreed that the UN will send in troops",
+      "explanation": "it + passive verb + that-clause keeps the news until the end."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which headline cannot be rewritten as a passive sentence beginning with It ... that ... ?",
+      "options": [
+        "PATIENTS REASSURED ABOUT HOSPITAL SAFETY",
+        "WATER DISCOVERED ON MARS",
+        "MOON ASTRONAUTS EXPECTED TO RETURN TODAY"
+      ],
+      "answer": 0,
+      "explanation": "reassure needs a personal object, so we say Patients have been reassured that ..., not It has been reassured that ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It has not yet been ___ who was responsible for the error.",
+      "hint": "(explain / claim)",
+      "answers": ["explained"],
+      "explanation": "Only some verbs take a wh-clause in this pattern: explain does, claim does not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We don't think that the fault is serious. - The fault ___ to be serious.",
+      "hint": "(think) - negative",
+      "answers": ["is not thought", "isn't thought"],
+      "explanation": "subject + passive verb + to-infinitive puts the fault first as the topic."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We expect that it will take several weeks to correct the fault. - The fault ___ to take several weeks to correct.",
+      "hint": "(expect)",
+      "answers": ["is expected"],
+      "explanation": "expect works in both patterns: It is expected that ... and The fault is expected to ..."
+    },
+    {
+      "type": "true_false",
+      "statement": "It has been decided to postpone the next rocket launch.",
+      "answer": true,
+      "explanation": "Correct. decide is one of the verbs that can be followed by a to-infinitive clause after it + passive verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is thought that there are too many obstacles to peace. - There ___ too many obstacles to peace.",
+      "hint": "(think / be)",
+      "answers": ["are thought to be"],
+      "explanation": "A that + there ... clause becomes there + passive verb + to be."
+    },
+    {
+      "type": "true_false",
+      "statement": "The next launch is suggested to take place in May.",
+      "answer": false,
+      "explanation": "It is suggested that the next launch should take place in May. suggest is not used in the subject + passive verb + to-infinitive pattern."
+    }
+  ]
+}

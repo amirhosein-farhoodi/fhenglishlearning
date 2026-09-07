@@ -1,0 +1,181 @@
+{
+  "number": 38,
+  "title": "there was/were there has/have been there will be",
+  "subtitle": "there was / there has been / there will be",
+  "summary": "Use there was/there were for the past, there has/have been for the present perfect, and there will be for the future.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "there was / there were",
+      "text": "At the station a woman looks at the train times. **There is** a train every hour. The time now is 11.15, so the 11 o'clock train has gone: **there was** a train at 11 o'clock. We use **there was** and **there were** to talk about the past.",
+      "examples": [
+        { "text": "**There is** a train every hour." },
+        { "text": "The time now is 11.15. **There was** a train at 11 o'clock." },
+        { "text": "**There was** a good film on TV last night." },
+        { "text": "We stayed at a very big hotel. **There were** 550 rooms." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "present and past",
+      "left": {
+        "label": "there is / there are (present)",
+        "examples": [
+          "**There is** a good film on TV tonight.",
+          "We are staying at a very big hotel. **There are** 550 rooms.",
+          "**Are there** any phone messages for me this morning?",
+          "I'm hungry, but **there isn't** anything to eat."
+        ]
+      },
+      "right": {
+        "label": "there was / there were (past)",
+        "examples": [
+          "**There was** a good film on TV last night.",
+          "We stayed at a very big hotel. **There were** 550 rooms.",
+          "**Were there** any phone messages for me yesterday?",
+          "I was hungry when I got home, but **there wasn't** anything to eat."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "there has been / there have been",
+      "text": "Two cars have crashed in the street. A man sees it and says to his friend: 'Look! **There's been** an accident.' **There's been** = there **has** been. We use **there has been** and **there have been** for the present perfect.",
+      "examples": [
+        { "text": "Look! **There's been** an accident." },
+        { "text": "This road is very dangerous. **There have been** many accidents." },
+        { "text": "Last week I went back to my town. **There have been** a lot of changes." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there was with a finished time",
+      "text": "When we say *when* something happened (last night, last Friday, ten years ago), we use **there was**, not there has been.",
+      "examples": [
+        { "text": "**There was** an accident last night.", "wrong": "There has been an accident last night" },
+        { "text": "**There was** a party at the club last Friday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "there will be",
+      "text": "A man on television points at a weather map and says: '**There will be** rain tomorrow afternoon.' We use **there will be** for the future. The negative is **there won't be** (= there will not be).",
+      "examples": [
+        { "text": "Do you think **there will be** a lot of people at the party on Saturday?" },
+        { "text": "The manager is leaving, so **there will be** a new manager soon." },
+        { "text": "I'll do my packing today because **there won't be** time tomorrow." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "All the forms",
+      "columns": ["Time", "Positive", "Negative", "Question"],
+      "rows": [
+        ["present", "there is / there are", "there isn't / there aren't", "is there? / are there?"],
+        ["past", "there was / there were", "there wasn't / there weren't", "was there? / were there?"],
+        ["present perfect", "there has been / there have been", "there hasn't been / there haven't been", "has there been?"],
+        ["future", "there will be", "there won't be", "will there be?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use **there was** with one thing and **there were** with more than one: *there was a carpet*, *there were three pictures*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Last week the room was not empty. ___ a carpet on the floor.",
+      "hint": "(there + was / were)",
+      "answers": ["There was"],
+      "explanation": "A carpet is one thing, so we say there was."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ three pictures on the wall near the door.",
+      "hint": "(there + was / were)",
+      "answers": ["There were"],
+      "explanation": "Three pictures is more than one thing, so we say there were."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        { "left": "There was a good film on TV", "right": "last night." },
+        { "left": "We stayed at a very big hotel. There were", "right": "550 rooms." },
+        { "left": "I was hungry, but there wasn't", "right": "anything to eat." },
+        { "left": "The manager is leaving, so there will be", "right": "a new manager soon." },
+        { "left": "This road is dangerous. There have been", "right": "many accidents." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you buy any eggs? *B:* No, ___ any in the shop.",
+      "hint": "(there + wasn't / weren't)",
+      "answers": ["there weren't", "there were not"],
+      "explanation": "any eggs = more than one, so we say there weren't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ many people at the meeting? *B:* No, very few.",
+      "hint": "(was / were there)",
+      "answers": ["Were there"],
+      "explanation": "In past questions was/were comes first: Were there many people ... ?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the sentence about the past or about the future?",
+      "categories": ["past", "future"],
+      "items": [
+        { "text": "There was a party at the club last Friday.", "category": 0 },
+        { "text": "There will be a new manager soon.", "category": 1 },
+        { "text": "Ten years ago there were 500 children at the school.", "category": 0 },
+        { "text": "There won't be time tomorrow.", "category": 1 },
+        { "text": "Were there any phone messages for me yesterday?", "category": 0 },
+        { "text": "Will there be a lot of people at the party?", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ 24 hours in a day.",
+      "hint": "(there + is / are)",
+      "answers": ["There are"],
+      "explanation": "24 hours is more than one, and it is true now, so: There are."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When you arrive tomorrow, ___ somebody at the station to meet you.",
+      "hint": "(there + will be)",
+      "answers": ["there will be", "there'll be"],
+      "explanation": "tomorrow = future, so we use there will be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last week I went back to the town where I was born. It's very different now. ___ a lot of changes.",
+      "hint": "(there + has / have been)",
+      "answers": ["There have been"],
+      "explanation": "a lot of changes = more than one, so: There have been."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There ___ an accident last night.",
+      "options": ["was", "has been", "will be"],
+      "answer": 0,
+      "explanation": "With a finished past time (last night) we use there was."
+    },
+    {
+      "type": "true_false",
+      "statement": "There has been an accident last night.",
+      "answer": false,
+      "explanation": "There was an accident last night. We use there was when we say when it happened."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know about Saturday's party. Put the words in order.",
+      "words": ["Do", "you", "think", "there", "will", "be", "a lot of people", "at the party?"],
+      "answer": "Do you think there will be a lot of people at the party?",
+      "explanation": "After think the order is there will be, not will there be."
+    }
+  ]
+}

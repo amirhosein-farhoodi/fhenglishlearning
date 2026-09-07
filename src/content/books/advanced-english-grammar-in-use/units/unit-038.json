@@ -1,0 +1,160 @@
+{
+  "number": 38,
+  "title": "Reporting what people say using nouns and adjectives",
+  "subtitle": "the claim that ... / doubtful whether ...",
+  "summary": "Report words and opinions with a noun or an adjective, and choose the clause or preposition that each one takes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Noun + that-clause",
+      "text": "We can report with a **noun** in the reporting clause. Most of these nouns are related to reporting verbs (acknowledgement - acknowledge, statement - state). Also: advice, allegation, announcement, answer, argument, comment, decision, explanation, forecast, guarantee, indication, observation, promise, recommendation, reply, speculation, suggestion, threat, warning.",
+      "examples": [
+        { "text": "The **claim** is often made **that** smoking causes heart disease." },
+        { "text": "The jury came to the **conclusion that** the woman was guilty." },
+        { "text": "I think it was Aristotle who made the **observation that** there's no such thing as bad publicity." }
+      ],
+      "note": "We do not usually leave out that after these nouns. Reporting with a noun or adjective does not claim to give the exact original words."
+    },
+    {
+      "type": "explain",
+      "heading": "Noun + to-infinitive clause",
+      "text": "Some of these nouns are followed by a to-infinitive instead. Also: decision, instruction, order, promise, recommendation, refusal, threat, warning.",
+      "examples": [
+        { "text": "I accepted Luisa's **invitation to visit** her in Rome." },
+        { "text": "He gave me every **encouragement to take up** painting again." },
+        { "text": "They carried out their **threat to dismiss** workers on strike.", "note": "or ... their threat that they would dismiss workers on strike." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Noun + of + wh-clause",
+      "text": "Before a wh-clause these nouns normally need **of**. Also: discussion, explanation, problem.",
+      "examples": [
+        { "text": "Juan raised the **question of when** the money would be collected." },
+        { "text": "Our previous meeting looked at the **issue of how** to increase income." },
+        { "text": "He failed to address the **question of who** would pay for the repairs." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "as to + wh-clause",
+      "text": "After many of these nouns we can use **as to** to introduce the subject of a question or topic. Another preposition is usually possible instead.",
+      "examples": [
+        { "text": "She asked my advice **as to what** subject she should study at university.", "note": "or ... advice on ..." },
+        { "text": "There was some discussion **as to whether** the price included tax or not.", "note": "or ... discussion of ..." },
+        { "text": "Before we left we gave them strict instructions **as to how to cook** it.", "note": "or ... about how to cook it." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Adjective + that-clause or wh-clause?",
+      "left": {
+        "label": "Feelings and opinions: + that-clause",
+        "text": "Also: adamant, agreed, angry, annoyed, grateful, insistent, sure.",
+        "examples": ["The builders are **certain that** they'll be finished by the end of next week.", "The company is **adamant that** the child car seats are safe.", "All the players are **agreed that** the game should go on."]
+      },
+      "right": {
+        "label": "Uncertainty: + wh-clause",
+        "text": "Also: doubtful (usually + whether), uncertain, not certain, unsure.",
+        "examples": ["Scientists aren't **sure where** the remains of the satellite will land.", "The climbers were **doubtful whether** the clothes would be warm enough.", "Karim left in September but he was **not certain when** he would return."]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Adjective + preposition + noun phrase",
+      "columns": ["Preposition", "Adjectives", "Example"],
+      "rows": [
+        ["about", "apologetic, complimentary, insulting, tactful", "Rachel was extremely apologetic **about** turning up late."],
+        ["of", "critical, dismissive, scornful", "Today's newspapers are very critical **of** the President's decision."],
+        ["to / towards", "abusive, sympathetic", "Hughes became abusive **to / towards** a police officer."]
+      ]
+    },
+    { "type": "tip", "text": "Sort the adjective first: opinion takes *that*, uncertainty takes a wh-word, and a reaction to a thing takes a preposition." }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The turning point in his life came when he took the ___ to become an actor.",
+      "hint": "(noun from decide)",
+      "answers": ["decision"],
+      "explanation": "decision is a reporting noun and takes a to-infinitive (or a that-clause: the decision that he would become an actor)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each reporting noun with the clause that follows it.",
+      "pairs": [
+        { "left": "The jury came to the conclusion", "right": "that the woman was guilty." },
+        { "left": "I accepted Luisa's invitation", "right": "to visit her in Rome." },
+        { "left": "Juan raised the question", "right": "of when the money would be collected." },
+        { "left": "There was some discussion", "right": "as to whether the price included tax." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think it was Aristotle who made the observation ___ there's no such thing as bad publicity.",
+      "hint": "(1 word)",
+      "answers": ["that"],
+      "explanation": "After a reporting noun we normally keep that."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He failed to address the question ___ who would pay for the repairs to the building.",
+      "hint": "(1 word)",
+      "answers": ["of"],
+      "explanation": "Reporting nouns take of before a wh-clause."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The climbers were ___ the clothes would be warm enough at high altitudes.",
+      "options": ["doubtful whether", "doubtful that", "doubtful of"],
+      "answer": 0,
+      "explanation": "Adjectives of uncertainty take a wh-clause, and doubtful is normally followed by whether."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My boss is very unsympathetic and was ___ my complaints about the new software.",
+      "hint": "(dismissive)",
+      "answers": ["dismissive of"],
+      "explanation": "dismissive, critical and scornful take of + noun phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rachel is normally very reliable and was extremely ___ turning up late.",
+      "hint": "(apologetic)",
+      "answers": ["apologetic about"],
+      "explanation": "apologetic, complimentary, insulting and tactful take about + noun phrase."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What follows each adjective when it reports what somebody said or felt?",
+      "categories": ["+ that-clause", "+ wh-clause", "+ preposition + noun phrase"],
+      "items": [
+        { "text": "adamant", "category": 0 },
+        { "text": "insistent", "category": 0 },
+        { "text": "grateful", "category": 0 },
+        { "text": "doubtful", "category": 1 },
+        { "text": "unsure", "category": 1 },
+        { "text": "dismissive", "category": 2 },
+        { "text": "apologetic", "category": 2 },
+        { "text": "sympathetic", "category": 2 }
+      ]
+    },
+    { "type": "true_false", "statement": "Scientists aren't sure that the remains of the satellite will land.", "answer": false, "explanation": "Scientists aren't sure where the remains of the satellite will land. An adjective expressing uncertainty needs a wh-clause." },
+    {
+      "type": "fill_blank",
+      "prompt": "For months people have wondered whether President Malik would stand again. There have been months of ___ as to whether he would stand again.",
+      "hint": "(noun from speculate)",
+      "answers": ["speculation"],
+      "explanation": "speculation is a reporting noun, and as to introduces the topic in formal writing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report that nobody has explained this. Put the words in order.",
+      "words": ["There is still", "no definite explanation", "as to", "why", "the dinosaurs disappeared"],
+      "answer": "There is still no definite explanation as to why the dinosaurs disappeared",
+      "explanation": "explanation + as to + wh-clause is the formal reporting pattern with a noun."
+    },
+    { "type": "true_false", "statement": "Today's newspapers are very critical of the President's decision to appoint Mr Walters.", "answer": true, "explanation": "Correct. critical takes of, and decision takes a to-infinitive." }
+  ]
+}

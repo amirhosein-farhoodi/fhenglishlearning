@@ -1,0 +1,180 @@
+{
+  "number": 20,
+  "title": "I have done (present perfect) and I did (past)",
+  "subtitle": "I have lost my key. / I lost my key last week.",
+  "summary": "Use the past with a finished time (yesterday, last week) and the present perfect for a time that goes up to now.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Finished time takes the past",
+      "text": "With a *finished time* (**yesterday**, **last week**, **at 3 o'clock**, **in 2002**, **six months ago**) we use the past: **arrived / saw / was** etc. The time is over, so the sentence is over too.",
+      "examples": [
+        { "text": "We **arrived** yesterday." },
+        { "text": "We **arrived** last week." },
+        { "text": "We **arrived** at 3 o'clock." },
+        { "text": "We **arrived** six months ago." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Do not use the present perfect with a finished time",
+      "text": "Do *not* say **have arrived / have done / have been** with a finished time.",
+      "examples": [
+        { "text": "I **saw** Paula yesterday.", "wrong": "I have seen" },
+        { "text": "Where **were** you on Sunday afternoon?", "wrong": "Where have you been" },
+        { "text": "We **didn't have** a holiday last year.", "wrong": "We haven't had" },
+        { "text": "*A:* What **did** you **do** last night? *B:* I **stayed** at home." },
+        { "text": "William Shakespeare **lived** from 1564 to 1616. He **was** a writer. He **wrote** many plays and poems." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When ... ? and What time ... ?",
+      "text": "These questions ask about a finished time, so they always take the past.",
+      "examples": [
+        { "text": "**When did** you **buy** your computer?", "wrong": "When have you bought" },
+        { "text": "**What time did** Andy **go** out?", "wrong": "What time has Andy gone out" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Compare the two tenses",
+      "left": {
+        "label": "present perfect (I have done)",
+        "text": "We think about now. No finished time is given.",
+        "examples": [
+          "I **have lost** my key. (= I can't find it *now*)",
+          "Ben **has gone** home. (= he isn't here *now*)",
+          "**Have** you **seen** Kate? (= where is she *now*?)"
+        ]
+      },
+      "right": {
+        "label": "past (I did)",
+        "text": "We say when it happened. The time is finished.",
+        "examples": [
+          "I **lost** my key **last week**.",
+          "Ben **went** home **ten minutes ago**.",
+          "**Did** you **see** Kate **on Saturday**?"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "More examples",
+      "left": {
+        "label": "time until now",
+        "text": "The period goes up to now.",
+        "examples": [
+          "**Have** you **ever been** to Spain? (= in your life, until now)",
+          "My friend is a writer. He **has written** many books.",
+          "The letter **hasn't arrived** yet.",
+          "We**'ve lived** in Singapore for six years. (= we live there now)"
+        ]
+      },
+      "right": {
+        "label": "finished time",
+        "text": "The period is over.",
+        "examples": [
+          "**Did** you **go** to Spain **last year**?",
+          "Shakespeare **wrote** many plays and poems.",
+          "The letter **didn't arrive yesterday**.",
+          "We **lived** in Glasgow for six years, but now we live in Singapore."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "If the sentence says *when*, use the past. If it only says *what has happened*, use the present perfect."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'Have your friends arrived?' 'Yes, ___ at 5 o'clock.'",
+      "hint": "(they / arrive)",
+      "answers": ["they arrived"],
+      "explanation": "at 5 o'clock is a finished time, so we use the past: they arrived."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Have you started your new job?' 'Yes, ___ last week.'",
+      "hint": "(I / start)",
+      "answers": ["I started", "I started it"],
+      "explanation": "last week is a finished time, so we use the past: I started it."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm ready now. I've finished my work.",
+      "answer": true,
+      "explanation": "Correct. There is no finished time here - we are talking about now, so the present perfect is right."
+    },
+    {
+      "type": "true_false",
+      "statement": "Have you seen Kate yesterday?",
+      "answer": false,
+      "explanation": "Did you see Kate yesterday? yesterday is a finished time, so we use the past."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What time ___ your work?",
+      "options": ["did you finish", "have you finished", "you finished"],
+      "answer": 0,
+      "explanation": "What time ... ? asks about a finished time, so we use the past."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ tennis yesterday afternoon.",
+      "hint": "(play)",
+      "answers": ["played"],
+      "explanation": "yesterday afternoon is a finished time: I played."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which tense goes with each time expression?",
+      "categories": ["the past (I did)", "the present perfect (I have done)"],
+      "items": [
+        { "text": "yesterday", "category": 0 },
+        { "text": "last night", "category": 0 },
+        { "text": "in 2002", "category": 0 },
+        { "text": "yet", "category": 1 },
+        { "text": "ever (in your life)", "category": 1 },
+        { "text": "since Monday", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather ___ very good yesterday.",
+      "hint": "(not / be)",
+      "answers": ["wasn't", "was not"],
+      "explanation": "yesterday is a finished time, so we use the past: wasn't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kathy travels a lot. She ___ many countries.",
+      "hint": "(visit)",
+      "answers": ["has visited", "'s visited"],
+      "explanation": "No finished time is given - this is her life until now, so we use the present perfect."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know if your friend has been to Florida at any time in their life. Write the question.",
+      "words": ["Have", "you", "ever", "been", "to", "Florida?"],
+      "answer": "Have you ever been to Florida?",
+      "explanation": "ever means at any time until now, so we use the present perfect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I live in New York now, but I ___ in Mexico for many years.",
+      "hint": "(live)",
+      "answers": ["lived"],
+      "explanation": "That period is finished - he lives in New York now - so we use the past: lived."
+    },
+    {
+      "type": "true_false",
+      "statement": "Steve's grandmother has died two years ago.",
+      "answer": false,
+      "explanation": "Steve's grandmother died two years ago. two years ago is a finished time, so we use the past."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "number": 4,
+  "title": "are you doing? (present continuous questions)",
+  "subtitle": "Are you working? / What are you doing?",
+  "summary": "Make present continuous questions by putting am, is or are before the subject: Are you working?",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Positive and question",
+      "columns": ["positive", "question"],
+      "rows": [
+        ["I am doing", "am I doing?"],
+        ["he / she / it is working", "is he / she / it working?"],
+        ["we / you / they are going", "are we / you / they going?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking what is happening now",
+      "text": "A mother comes into the room. Her little boy is under the table with a football. She asks: *What are you doing?* To make a question, put **am/is/are** before the subject and keep the **-ing** word after it.",
+      "examples": [
+        { "text": "*A:* **Are** you **feeling** OK? *B:* Yes, I'm fine, thanks." },
+        { "text": "*A:* **Is** it **raining**? *B:* Yes, take an umbrella." },
+        { "text": "Why **are** you **wearing** a coat? It's not cold." },
+        { "text": "*A:* **What's** Paul **doing**? *B:* He's reading the newspaper." },
+        { "text": "*A:* **What are** the children **doing**? *B:* They're watching television." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word order: is/are + subject + -ing",
+      "columns": ["Question word", "is / are", "subject", "-ing"],
+      "rows": [
+        ["-", "Is", "he", "working today?"],
+        ["-", "Is", "Paul", "working today?"],
+        ["Where", "are", "they", "going?"],
+        ["Where", "are", "those people", "going?"]
+      ],
+      "note": "The subject goes in the middle: *Is Paul working today?* not ~~Is working Paul today?~~"
+    },
+    {
+      "type": "explain",
+      "heading": "Questions with question words",
+      "text": "You can put **where, what, who, why** or **how** at the start. The rest of the question does not change.",
+      "examples": [
+        { "text": "Look, there's Emily! **Where's** she **going**?" },
+        { "text": "**Who are** you **waiting** for? **Are** you **waiting** for Sue?" },
+        { "text": "**Why is** he **laughing**?" },
+        { "text": "**What are** they **looking** at?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Short answers",
+      "columns": ["Yes", "No"],
+      "rows": [
+        ["Yes, I am.", "No, I'm not."],
+        ["Yes, he / she / it is.", "No, he / she / it isn't."],
+        ["Yes, we / you / they are.", "No, we / you / they aren't."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short answers in use",
+      "text": "A short answer uses only the subject and **am/is/are**. You do not repeat the -ing word.",
+      "examples": [
+        { "text": "*A:* Are you going now? *B:* **Yes, I am.**" },
+        { "text": "*A:* Is Paul working today? *B:* **Yes, he is.**" },
+        { "text": "*A:* Is it raining? *B:* **No, it isn't.**" },
+        { "text": "*A:* Are your friends staying at a hotel? *B:* **No, they aren't.** They're staying with me." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In a question the subject sits between is/are and the -ing word: *Where are those people going?* not ~~Where are going those people?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A woman walks out through the exit door. Two people watch her and one asks: Where ___ going?",
+      "hint": "(she)",
+      "answers": ["is she", "'s she"],
+      "explanation": "Question word + is + subject: Where is she going?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your friend has a sandwich in his hand. You ask: What ___ eating?",
+      "hint": "(you)",
+      "answers": ["are you"],
+      "explanation": "With you we use are: What are you eating?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Are you watching it?", "right": "No, you can turn it off." },
+        { "left": "Are you going now?", "right": "Yes, see you tomorrow." },
+        { "left": "Is it raining?", "right": "No, not at the moment." },
+        { "left": "Are you enjoying the film?", "right": "Yes, it's very funny." },
+        { "left": "Is that clock working?", "right": "No, it's broken." },
+        { "left": "Are you waiting for a bus?", "right": "No, for a taxi." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A little boy is crying in the street. His mother asks him: Why ___ crying?",
+      "hint": "(you)",
+      "answers": ["are you"],
+      "explanation": "Why + are + you + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people are standing in the street and looking up at the sky. You ask your friend: What ___ looking at?",
+      "hint": "(they)",
+      "answers": ["are they"],
+      "explanation": "They + are, so: What are they looking at?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man near you starts to laugh. You ask: Why ___ laughing?",
+      "hint": "(he)",
+      "answers": ["is he", "'s he"],
+      "explanation": "He + is, so: Why is he laughing?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to know if Paul is at work today. Which question is right?",
+      "options": ["Is Paul working today?", "Is working Paul today?", "Paul is working today?"],
+      "answer": 0,
+      "explanation": "is + subject + -ing: Is Paul working today?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend is looking at her phone while you speak. Make a question.",
+      "words": ["Are", "you", "listening", "to me?"],
+      "answer": "Are you listening to me?",
+      "explanation": "are + you + -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friends are putting on their coats. Make a question with these words.",
+      "words": ["Where", "are", "your friends", "going?"],
+      "answer": "Where are your friends going?",
+      "explanation": "Question word + are + subject + -ing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "There is a nice smell from the kitchen. Make a question with these words.",
+      "words": ["What", "is", "Jessica", "cooking?"],
+      "answer": "What is Jessica cooking?",
+      "explanation": "Jessica = she, so we use is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Are your friends staying at a hotel? *B:* No, ___ . They're staying with me.",
+      "options": ["they aren't", "they don't", "they not"],
+      "answer": 0,
+      "explanation": "The question uses are, so the short answer uses aren't."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Are you going now? *B:* Yes, I'm.",
+      "answer": false,
+      "explanation": "Yes, I am. In a short answer we use the full form am."
+    }
+  ]
+}

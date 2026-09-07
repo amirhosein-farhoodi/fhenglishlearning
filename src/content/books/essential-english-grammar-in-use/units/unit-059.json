@@ -1,0 +1,169 @@
+{
+  "number": 59,
+  "title": "I/me he/him they/them etc.",
+  "subtitle": "I know Tom. / Tom knows me.",
+  "summary": "Learn the object words me, us, you, him, her, it and them, and use them after a verb or after a preposition.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Subject and object",
+      "columns": ["subject", "object"],
+      "rows": [
+        ["I", "me"],
+        ["we", "us"],
+        ["you", "you"],
+        ["he", "him"],
+        ["she", "her"],
+        ["they", "them"],
+        ["it", "it"]
+      ],
+      "note": "**you** and **it** are the same in both columns."
+    },
+    {
+      "type": "explain",
+      "heading": "The subject does it, the object gets it",
+      "text": "The subject comes before the verb. The object comes after the verb. So *I know Tom* but *Tom knows me*.",
+      "examples": [
+        { "text": "**I** know Tom. / Tom knows **me**." },
+        { "text": "**We** know Tom. / Tom knows **us**." },
+        { "text": "**He** knows Tom. / Tom knows **him**." },
+        { "text": "**She** knows Tom. / Tom knows **her**." },
+        { "text": "**They** know Tom. / Tom knows **them**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things: it and them",
+      "text": "For one thing we use **it**. For more than one thing we use **they** (subject) and **them** (object). A man looks at one jacket and says: It's nice. I like **it**. A woman looks at some shoes and says: They're nice. I like **them**.",
+      "examples": [
+        { "text": "I don't want **this book**. You can have **it**." },
+        { "text": "I don't want **these books**. You can have **them**." },
+        { "text": "Diane never drinks **milk**. She doesn't like **it**." },
+        { "text": "I never go to **parties**. I don't like **them**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "After a preposition",
+      "text": "We use **me / us / him / her / them** after a preposition: *for*, *to*, *with*, *at*, *on*, *of* and so on.",
+      "examples": [
+        { "text": "This letter isn't **for me**. It's **for you**." },
+        { "text": "Who is that woman? Why are you looking **at her**?" },
+        { "text": "We're going to the cinema. Do you want to come **with us**?" },
+        { "text": "Sue and Kevin are going to the cinema. Do you want to go **with them**?" },
+        { "text": "*A:* Where's the newspaper? *B:* You're sitting **on it**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "give it to me / give them to him",
+      "text": "With *give* we often say the thing first and the person second: **give it to me**, **give them to him**.",
+      "examples": [
+        { "text": "I want that book. Please **give it to me**." },
+        { "text": "Robert needs these books. Can you **give them to him**, please?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After a preposition never use *I*, *he* or *they*: *Listen to **me***, not ~~Listen to I~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know that man. Do you know ___?",
+      "hint": "(him / her / them)",
+      "answers": ["him"],
+      "explanation": "that man = him, the object of know."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know David's wife. Do you know ___?",
+      "hint": "(him / her / them)",
+      "answers": ["her"],
+      "explanation": "David's wife is a woman, so the object word is her."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know Sarah's parents. Do you know ___?",
+      "hint": "(him / her / them)",
+      "answers": ["them"],
+      "explanation": "Sarah's parents are more than one person, so we use them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "George is a very nice man. I like ___.",
+      "hint": "(he / him)",
+      "answers": ["him"],
+      "explanation": "George comes after the verb like, so we use him."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can't find my keys. Where are ___?",
+      "options": ["they", "them", "it"],
+      "answer": 0,
+      "explanation": "my keys is the subject of this question, so we use they."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a subject word or an object word?",
+      "categories": ["subject", "object"],
+      "items": [
+        { "text": "I", "category": 0 },
+        { "text": "me", "category": 1 },
+        { "text": "we", "category": 0 },
+        { "text": "us", "category": 1 },
+        { "text": "he", "category": 0 },
+        { "text": "him", "category": 1 },
+        { "text": "they", "category": 0 },
+        { "text": "them", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've got a new computer. Do you want to see ___?",
+      "hint": "(it / them)",
+      "answers": ["it"],
+      "explanation": "a new computer is one thing, so we use it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like dogs. I'm afraid of ___.",
+      "hint": "(it / them)",
+      "answers": ["them"],
+      "explanation": "dogs is more than one, and it comes after the preposition of, so we use them."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm talking to you. Please listen to I.",
+      "answer": false,
+      "explanation": "Please listen to me. After a preposition we use me, not I."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "They want to see me, but", "right": "I don't want to see them." },
+        { "left": "She wants to see him, but", "right": "he doesn't want to see her." },
+        { "left": "We want to see them, but", "right": "they don't want to see us." },
+        { "left": "He wants to see us, but", "right": "we don't want to see him." },
+        { "left": "You want to see her, but", "right": "she doesn't want to see you." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother has a new job, but ___ doesn't like it very much.",
+      "hint": "(he / him)",
+      "answers": ["he"],
+      "explanation": "My brother is the subject of doesn't like, so we use he."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend wants the key. Ask another person to pass it to him.",
+      "words": ["Can", "you", "give", "it", "to", "him?"],
+      "answer": "Can you give it to him?",
+      "explanation": "give + the thing (it) + to + the person (him)."
+    }
+  ]
+}

@@ -282,7 +282,7 @@ export default function Quiz() {
             </div>
             <button type="button" className={`btn ${answered ? 'btn-success' : 'btn-primary'} btn-lg`} onClick={next}>
               {index + 1 < exercises.length ? 'Continue' : 'See results'}
-              <span className="muted" style={{ fontSize: '0.75rem', fontWeight: 500, color: 'inherit', opacity: 0.75 }}>
+              <span className="kbd-hint" aria-hidden="true">
                 ⏎
               </span>
             </button>

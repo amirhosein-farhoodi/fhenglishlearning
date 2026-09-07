@@ -1,0 +1,150 @@
+{
+  "number": 40,
+  "title": "Agreement between subject and verb 1",
+  "subtitle": "The collection houses ... / the sculptures are ...",
+  "summary": "Make the verb agree with the main noun in a complex subject, with clause and what-clause subjects, with collective nouns, and with names that end in -s.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The verb agrees with the main noun",
+      "text": "A singular subject takes a singular verb and a plural subject a plural verb. When the subject is long and complex, find the **main noun** in it - that is the word the verb agrees with. This holds even when the subject comes after the verb.",
+      "examples": [
+        { "text": "Many leading **members** of the opposition party **have criticised** the delay." },
+        { "text": "The only **excuse** that he gave for his actions **was** that he was tired." },
+        { "text": "Displayed on the board **were** the exam **results**.", "note": "compare: The exam results were displayed on the board." },
+        { "text": "The **collection** of seashells and fossils in the final room **is** sure to be of interest.", "wrong": "are sure to be of interest" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Clause subjects",
+      "text": "If the subject is a clause, we normally use a **singular** verb, however long the clause is.",
+      "examples": [
+        { "text": "To keep these young people in prison **is** inhuman." },
+        { "text": "Having overall responsibility for the course **means** that I have a lot of meetings." },
+        { "text": "Whoever took them **remains** a mystery." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "what-clauses as subject",
+      "left": {
+        "label": "Singular main noun -> singular verb",
+        "examples": ["What worries us **is** the poor selection process.", "What is most surprising about the building **is** the bell tower in the courtyard."]
+      },
+      "right": {
+        "label": "Plural main noun -> singular or plural verb",
+        "text": "A plural verb is preferred in more formal contexts.",
+        "examples": ["What is needed **are** additional resources.", "or more colloquially: What is needed **is** additional resources."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Collective nouns",
+      "text": "Nouns with a singular form that refer to a group can take a singular or a plural verb. A **singular** verb focuses on the institution as one unit; a **plural** verb focuses on the individuals in it. Formal writing usually prefers the singular.",
+      "examples": [
+        { "text": "The council **has** (or **have**) postponed a decision on the new road." },
+        { "text": "The orchestra **performs** (or **perform**) classical concerts throughout the year." },
+        { "text": "The United Nations **has** (or **have**) ordered an investigation." }
+      ],
+      "note": "Also: army, association, audience, class, club, college, commission, committee, community, company, crew, crowd, department, electorate, enemy, family, federation, generation, government, group, institute, jury, opposition, orchestra, population, press, public, school, team, university; the Bank of England, the BBC, IBM, Sony."
+    },
+    {
+      "type": "explain",
+      "heading": "When only one form will do",
+      "text": "Sometimes the meaning forces the choice. If the action is something the **individuals** do, we need a plural verb; if it happens to the group as an institution or a building, we need a singular one.",
+      "examples": [
+        { "text": "The committee usually **raise their hands** to vote 'Yes'.", "wrong": "The committee usually raises its hands" },
+        { "text": "The **class have** all passed the end-of-year exam.", "note": "all points to the individuals" },
+        { "text": "The **school is** to close next year.", "wrong": "The school are to close next year" },
+        { "text": "The **jury includes** three adults and three children.", "note": "include treats the group as a whole" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Names and titles ending in -s",
+      "text": "When a name or title ending in -s refers to a **single unit** - a country, a newspaper, a book or film title, or a quoted word or phrase - we use a singular verb.",
+      "examples": [
+        { "text": "At this time of the year the Netherlands **is** one hour ahead of the UK." },
+        { "text": "The Machine Gunners **was** one of Robert Westall's most successful books." },
+        { "text": "'Daps' **is** the word used in the south-west of the country for sports shoes." },
+        { "text": "The stairs leading to the first floor **were** steep and poorly lit.", "note": "here stairs really are plural" }
+      ]
+    },
+    { "type": "tip", "text": "Cover everything between the main noun and the verb, then read the two together: *the collection ... is*, not ~~the collection of seashells and fossils ... are~~." }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The Rivers Museum on the corner of Corn Street and New Road ___ a fascinating collection of art and other objects.",
+      "hint": "(house)",
+      "answers": ["houses"],
+      "explanation": "The main noun is The Rivers Museum, so the verb is singular."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Among the most eye-catching pieces in the whole collection ___ the marble animal sculptures under two arches.",
+      "options": ["are", "is", "was"],
+      "answer": 0,
+      "explanation": "The subject follows the verb, and its main noun is the plural sculptures."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Whoever created these figures apparently ___ a mystery.",
+      "hint": "(remain)",
+      "answers": ["remains"],
+      "explanation": "A clause subject takes a singular verb."
+    },
+    { "type": "true_false", "statement": "The people I know who have seen the film say that it's really good.", "answer": true, "explanation": "Correct. The main noun is the plural people, so say is right." },
+    {
+      "type": "matching",
+      "prompt": "Match each subject with the verb form it takes.",
+      "pairs": [
+        { "left": "At this time of year the Netherlands", "right": "is one hour ahead of the UK." },
+        { "left": "The Machine Gunners", "right": "was one of Robert Westall's most successful books." },
+        { "left": "The word 'daps'", "right": "is used in the south-west of the country for sports shoes." },
+        { "left": "The stairs leading to the first floor", "right": "were steep and poorly lit." }
+      ]
+    },
+    { "type": "true_false", "statement": "The New Straits Times report that tourism is booming in Malaysia.", "answer": false, "explanation": "The New Straits Times reports that tourism is booming in Malaysia. A newspaper title ending in -s is a single unit." },
+    {
+      "type": "fill_blank",
+      "prompt": "Perhaps what is most surprising about the building itself ___ the bell tower in the small courtyard.",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "After a what-clause subject the verb follows the main noun, and the bell tower is singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Waterman's Junior Book Prize jury ___ three adults and three children.",
+      "hint": "(include)",
+      "answers": ["includes"],
+      "explanation": "include describes the group as a whole, so a singular verb is used."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verb form does each subject allow?",
+      "categories": ["Singular verb only", "Plural verb only", "Either is possible"],
+      "items": [
+        { "text": "The school ___ to close next year.", "category": 0 },
+        { "text": "The phrase 'men in white coats' ___ used to talk about psychiatrists.", "category": 0 },
+        { "text": "Musical chairs ___ a party game.", "category": 0 },
+        { "text": "The committee usually ___ their hands to vote 'Yes'.", "category": 1 },
+        { "text": "The class ___ all passed the exam.", "category": 1 },
+        { "text": "The orchestra ___ classical concerts throughout the year.", "category": 2 },
+        { "text": "The press ___ a picture of chaos in our schools.", "category": 2 },
+        { "text": "The university ___ to host the conference.", "category": 2 }
+      ]
+    },
+    { "type": "true_false", "statement": "Whoever made all the mess in the kitchen have to clear it up.", "answer": false, "explanation": "Whoever made all the mess in the kitchen has to clear it up. A clause subject takes a singular verb." },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. The subject comes after the verb here.",
+      "words": ["Hanging on the wall", "directly opposite the carvings", "are", "over a hundred swords", "from the 17th century"],
+      "answer": "Hanging on the wall directly opposite the carvings are over a hundred swords from the 17th century",
+      "explanation": "The verb still agrees with the main noun of the subject - swords - even though the subject follows it."
+    },
+    { "type": "true_false", "statement": "Over 50 full-time staff and volunteers is employed, and having so many of them available to answer questions adds to the pleasure of this must-see museum.", "answer": false, "explanation": "Over 50 full-time staff and volunteers are employed ... The subject is plural; the -ing clause that follows correctly keeps the singular adds." }
+  ]
+}

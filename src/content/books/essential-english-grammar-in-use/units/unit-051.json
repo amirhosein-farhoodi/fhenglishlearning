@@ -1,0 +1,171 @@
+{
+  "number": 51,
+  "title": "work/working go/going do/doing",
+  "subtitle": "work / to work / working",
+  "summary": "Choose between the plain verb (work), to + verb (to work) and the -ing form (working) after other words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Three forms of the verb",
+      "text": "An English verb has three forms that you meet all the time: the plain form **work**, the *to* form **to work** and the *-ing* form **working**. The word in front of the verb tells you which form you need.",
+      "examples": [
+        { "text": "I must **go** now." },
+        { "text": "I have **to go** now." },
+        { "text": "Tom isn't **working** today." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "will / can / must etc. + plain verb",
+      "columns": ["Word before", "Example"],
+      "rows": [
+        ["will", "Anna **will be** here soon."],
+        ["shall", "**Shall** I **open** the window?"],
+        ["might / may", "I **might phone** you later. **May** I **sit** here?"],
+        ["can / could", "I **can't meet** you tomorrow. **Could** you **pass** the salt, please?"],
+        ["must", "It's late. I **must go** now."],
+        ["should", "You **shouldn't work** so hard."],
+        ["would", "**Would** you **like** some coffee?"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do / does / did + plain verb",
+      "text": "In questions and negatives we use **do**, **does** and **did**. After them the verb is always the plain form.",
+      "examples": [
+        { "text": "**Do** you **work** at the weekend?" },
+        { "text": "They **don't work** very hard." },
+        { "text": "Helen **doesn't know** many people." },
+        { "text": "What time **did** the train **leave**?" },
+        { "text": "We **didn't sleep** well." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "to work / to go / to be",
+      "columns": ["Word before", "Example"],
+      "rows": [
+        ["(I'm) going to ...", "I'm **going to play** tennis tomorrow."],
+        ["(I) have to ...", "I **have to go** now. Everybody **has to eat**."],
+        ["(I) want to ...", "**Do** you **want to go** out?"],
+        ["(I) would like to ...", "I'd **like to talk** to you."],
+        ["(I) used to ...", "Dave **used to work** in a factory."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "working / going / playing",
+      "text": "After **am**, **is**, **are** (present continuous) and after **was**, **were** (past continuous) we use the **-ing** form.",
+      "examples": [
+        { "text": "Please be quiet. I'm **working**." },
+        { "text": "Tom isn't **working** today." },
+        { "text": "What time are you **going** out?" },
+        { "text": "It was **raining**, so we didn't go out." },
+        { "text": "What were you **doing** when the phone rang?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look at the word in front of the verb: after *can/must/did* use **work**, after *want/have/going* use **to work**, after *am/is/are/was/were* use **working**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Can you ___ Paul?",
+      "hint": "(phone / to phone)",
+      "answers": ["phone"],
+      "explanation": "After can we use the plain verb: Can you phone Paul?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like ___ Paul.",
+      "hint": "(phone / to phone)",
+      "answers": ["to phone"],
+      "explanation": "would like + to ...: I'd like to phone Paul."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form comes after these words: the plain verb, to + verb, or -ing?",
+      "categories": ["+ work", "+ to work", "+ working"],
+      "items": [
+        { "text": "I must ...", "category": 0 },
+        { "text": "You should ...", "category": 0 },
+        { "text": "I want ...", "category": 1 },
+        { "text": "Dave used ...", "category": 1 },
+        { "text": "I'm ...", "category": 2 },
+        { "text": "They were ...", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It might ___, so take an umbrella with you.",
+      "options": ["rain", "to rain", "raining"],
+      "answer": 0,
+      "explanation": "After might we use the plain verb: It might rain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What time do you usually ___ up in the morning?",
+      "hint": "(get / getting)",
+      "answers": ["get"],
+      "explanation": "After do we use the plain verb: do you get up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you ___ television last night?",
+      "hint": "(watch / watching)",
+      "answers": ["watch"],
+      "explanation": "After did we use the plain verb: Did you watch ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My friends were ___ for me when I arrived.",
+      "hint": "(wait / waiting)",
+      "answers": ["waiting"],
+      "explanation": "were + -ing (past continuous): they were waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can turn off the radio. I'm not ___ to it.",
+      "hint": "(listen / listening)",
+      "answers": ["listening"],
+      "explanation": "am/is/are + -ing: I'm not listening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm tired. I don't want ___ out.",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "want + to ...: I don't want to go out."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Where's Gary?' 'He's ___ a bath.'",
+      "options": ["having", "have", "to have"],
+      "answer": 0,
+      "explanation": "He's = he is, so we need the -ing form: He's having a bath."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I used ___ a car, but I sold it last year.",
+      "hint": "(have)",
+      "answers": ["to have"],
+      "explanation": "used + to ...: I used to have a car."
+    },
+    {
+      "type": "true_false",
+      "statement": "You don't look well. I don't think you should to go to work today.",
+      "answer": false,
+      "explanation": "After should we use the plain verb: I don't think you should go to work today."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are asking a friend about her trip. Put the question in order.",
+      "words": ["When", "you", "go", "to", "London,", "where", "are", "you", "going", "to stay?"],
+      "answer": "When you go to London, where are you going to stay?",
+      "explanation": "going to + plain verb: are you going to stay."
+    }
+  ]
+}

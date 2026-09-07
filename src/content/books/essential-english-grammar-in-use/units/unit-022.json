@@ -1,0 +1,179 @@
+{
+  "number": 22,
+  "title": "is being done has been done (passive 2)",
+  "subtitle": "The door is being painted. / The door has been painted.",
+  "summary": "Use is/are being done for a passive action happening now, and has/have been done for a passive action that is finished.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "is/are being ... (the action is happening now)",
+      "text": "A man is standing at a door with a brush in his hand. Half the door is green and half is still white. The work is not finished. We can put the door first and use **is being + past participle**.",
+      "examples": [
+        { "text": "Somebody **is painting** the door.", "note": "active" },
+        { "text": "The door **is being painted**.", "note": "passive" },
+        { "text": "My car is at the garage. It **is being repaired**.", "note": "= somebody is repairing it" },
+        { "text": "Some new houses **are being built** opposite the park.", "note": "= somebody is building them" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "is being cleaned or is cleaned?",
+      "left": {
+        "label": "is being done (now)",
+        "text": "The action is happening at the moment.",
+        "examples": [
+          "The office **is being cleaned** at the moment.",
+          "No matches **are being played** next weekend."
+        ]
+      },
+      "right": {
+        "label": "is done (again and again)",
+        "text": "The action happens every day, every week etc.",
+        "examples": [
+          "The office **is cleaned** every day.",
+          "In Britain football matches **are** often **played** at the weekend."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "has/have been ... (the action is finished)",
+      "text": "The door is green now and a small sign next to it says WET PAINT. The job is done. We use **has/have been + past participle**.",
+      "examples": [
+        { "text": "Somebody **has painted** the door.", "note": "active" },
+        { "text": "The door **has been painted**.", "note": "passive" },
+        { "text": "My key **has been stolen**.", "note": "= somebody has stolen it" },
+        { "text": "My keys **have been stolen**.", "note": "= somebody has stolen them" },
+        { "text": "I'm not going to the party. I **haven't been invited**.", "note": "= nobody has invited me" },
+        { "text": "**Has** this shirt **been washed**?", "note": "= has somebody washed it?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "has been done or was done?",
+      "left": {
+        "label": "has been done (present perfect)",
+        "text": "We think about the result now.",
+        "examples": [
+          "The room isn't dirty any more. It **has been cleaned**.",
+          "I can't find my keys. I think they**'ve been stolen**."
+        ]
+      },
+      "right": {
+        "label": "was done (past simple)",
+        "text": "We say when it happened.",
+        "examples": [
+          "The room **was cleaned** yesterday.",
+          "My keys **were stolen** last week."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "The four passive forms",
+      "columns": ["Passive", "Form", "Example"],
+      "rows": [
+        ["present continuous", "am / is / are being + past participle", "The door is being painted."],
+        ["present perfect", "has / have been + past participle", "The door has been painted."],
+        ["present simple", "am / is / are + past participle", "The office is cleaned every day."],
+        ["past simple", "was / were + past participle", "The room was cleaned yesterday."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**being** = the work is going on. **been** = the work is over."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A crane is lifting a big piece of road over a river. The work started last month. A bridge ___.",
+      "hint": "(build)",
+      "answers": ["is being built"],
+      "explanation": "The work is happening now: is being + built."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two people are standing on ladders with cloths and buckets of water at the windows of a house. The windows ___.",
+      "hint": "(clean)",
+      "answers": ["are being cleaned"],
+      "explanation": "The windows is plural and the work is happening now: are being + cleaned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The iron is standing next to a neat pile of folded shirts. The shirts ___.",
+      "hint": "(iron)",
+      "answers": ["have been ironed"],
+      "explanation": "The job is finished, so we use the present perfect passive: have been + ironed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the work still going on, or is it finished?",
+      "categories": ["still going on (is being done)", "finished (has been done)"],
+      "items": [
+        { "text": "The door is being painted.", "category": 0 },
+        { "text": "The door has been painted.", "category": 1 },
+        { "text": "The grass is being cut.", "category": 0 },
+        { "text": "The trees have been cut down.", "category": 1 },
+        { "text": "The roof is being repaired.", "category": 0 },
+        { "text": "The window has been broken.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a big hole in the glass of the window and pieces of glass are on the floor. The window ___.",
+      "hint": "(break)",
+      "answers": ["has been broken"],
+      "explanation": "It is finished and we can see the result now: has been + broken."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Workers with a big machine are pulling down a row of old houses. Say what is happening.",
+      "words": ["The", "houses", "are", "being", "knocked", "down."],
+      "answer": "The houses are being knocked down.",
+      "explanation": "The work is going on now and houses is plural: are being + knocked down."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Two friends are smiling and holding a card that says INVITATION. They ___ to a party.",
+      "hint": "(invite)",
+      "answers": ["have been invited"],
+      "explanation": "Somebody has invited them, so: have been + invited."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The washing machine was broken, but it's OK now. It ___.",
+      "hint": "(repair)",
+      "answers": ["has been repaired"],
+      "explanation": "It works now, so we think about the result: has been + repaired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The washing machine ___ yesterday afternoon.",
+      "hint": "(repair)",
+      "answers": ["was repaired"],
+      "explanation": "yesterday afternoon is a finished time, so we use the past passive: was + repaired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A factory is a place where things ___.",
+      "hint": "(make)",
+      "answers": ["are made"],
+      "explanation": "This is true again and again, so we use the present simple passive: are + made."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* ___ at the moment? *B:* Yes, Steve is using it.",
+      "options": ["Is the computer being used", "Is the computer used", "Has the computer been used"],
+      "answer": 0,
+      "explanation": "at the moment means the action is going on now: is being + used."
+    },
+    {
+      "type": "true_false",
+      "statement": "My sunglasses were stolen at the beach yesterday.",
+      "answer": true,
+      "explanation": "Correct. yesterday is a finished time, so the past passive (were stolen) is right."
+    }
+  ]
+}

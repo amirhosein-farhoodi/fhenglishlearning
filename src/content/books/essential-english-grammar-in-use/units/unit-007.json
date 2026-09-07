@@ -1,0 +1,168 @@
+{
+  "number": 7,
+  "title": "Do you ... ? (present simple questions)",
+  "subtitle": "Do you ... ? / Does he ... ?",
+  "summary": "Ask present simple questions with do and does, and answer them with short answers.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Questions with do and does",
+      "text": "Two people are sitting at a table. Behind them there is a guitar. One of them wants to know about the other's music, so he asks: *'Do you play the guitar?'* We use **do** and **does** to make present simple questions.",
+      "examples": [
+        { "text": "**Do you play** the guitar?" },
+        { "text": "**Do** they **like** music?" },
+        { "text": "**Does he like** music?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "do or does?",
+      "columns": ["Subject", "Positive", "Question"],
+      "rows": [
+        ["I / we / you / they", "work, like, do, have", "do I / we / you / they work?"],
+        ["he / she / it", "works, likes, does, has", "does he / she / it work?"]
+      ],
+      "note": "In the question the verb has no -s: does he **like**? (not does he likes?)"
+    },
+    {
+      "type": "explain",
+      "heading": "Word order: do/does + subject + verb",
+      "text": "The verb after **do/does** is always the simple form: **work**, **live**, **play**. A question word (**where**, **what**, **how often**, **how much**) goes at the beginning.",
+      "examples": [
+        { "text": "**Do** you **work** on Sundays?" },
+        { "text": "**Does** Chris **play** tennis?" },
+        { "text": "Where **do** your parents **live**?" },
+        { "text": "What **does** this word **mean**?" },
+        { "text": "How much **does** it **cost** to fly to Rome?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions with always / usually / often",
+      "columns": ["do / does", "Subject", "always / often / usually", "Verb"],
+      "rows": [
+        ["Do", "you", "always", "have breakfast?"],
+        ["Does", "Chris", "often", "phone you?"],
+        ["What do", "you", "usually", "do at weekends?"]
+      ],
+      "note": "always, often and usually come after the subject."
+    },
+    {
+      "type": "explain",
+      "heading": "What do you do?",
+      "text": "**What do you do?** is the normal way to ask about somebody's job. It does not mean 'what are you doing now?'.",
+      "examples": [
+        { "text": "*A:* **What do you do?** *B:* I work in a bank." },
+        { "text": "*A:* And your husband. **What does he do?** *B:* He's a teacher." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Short answers",
+      "columns": ["Yes", "No"],
+      "rows": [
+        ["Yes, I / we / you / they do.", "No, I / we / you / they don't."],
+        ["Yes, he / she / it does.", "No, he / she / it doesn't."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One -s in the question is enough: it sits on **does**, so the main verb stays simple - *Does your sister live in London?*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You say: 'I like chocolate. How about you?' How do you ask the question?",
+      "options": ["Do you like chocolate?", "Does you like chocolate?", "You like chocolate do?"],
+      "answer": 0,
+      "explanation": "With you we use do: Do you like chocolate?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I play tennis. How about you? ___ tennis?",
+      "hint": "(you / play)",
+      "answers": ["Do you play"],
+      "explanation": "do + subject + verb: Do you play tennis?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You live near here. How about Lucy? ___ near here?",
+      "hint": "(Lucy / live)",
+      "answers": ["Does Lucy live"],
+      "explanation": "Lucy = she, so we use does, and the verb has no -s: Does Lucy live ... ?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its short answer.",
+      "pairs": [
+        { "left": "Do you play tennis?", "right": "No, I don't." },
+        { "left": "Do your parents speak English?", "right": "Yes, they do." },
+        { "left": "Does Gary work hard?", "right": "Yes, he does." },
+        { "left": "Does your sister live in London?", "right": "No, she doesn't." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You say: 'Sue often goes away. How about Paul?' How do you ask the question?",
+      "options": ["Does Paul often go away?", "Do Paul often go away?", "Does Paul often goes away?"],
+      "answer": 0,
+      "explanation": "Paul = he, so does; often comes after the subject and the verb stays simple: go."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with do/does. Put the words in the right order: (where / live / your parents)",
+      "words": ["Where", "do", "your", "parents", "live?"],
+      "answer": "Where do your parents live?",
+      "explanation": "Question word + do/does + subject + verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do your sister live in London?",
+      "answer": false,
+      "explanation": "Does your sister live in London? - with he/she/it we use does."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What ___ ? *B:* I work in a bookshop.",
+      "hint": "(you / do)",
+      "answers": ["do you do"],
+      "explanation": "What do you do? = What's your job?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with do/does. Put the words in the right order: (you / early / always / get up)",
+      "words": ["Do", "you", "always", "get up", "early?"],
+      "answer": "Do you always get up early?",
+      "explanation": "always goes after the subject: Do you always get up early?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you use do or does with these subjects?",
+      "categories": ["do", "does"],
+      "items": [
+        { "text": "you", "category": 0 },
+        { "text": "Chris", "category": 1 },
+        { "text": "your parents", "category": 0 },
+        { "text": "this word", "category": 1 },
+        { "text": "we", "category": 0 },
+        { "text": "your sister", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are reading and you don't understand a word. You ask: What ___ mean?",
+      "hint": "(this word)",
+      "answers": ["does this word"],
+      "explanation": "this word = it, so: What does this word mean?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a question with do/does. Put the words in the right order: (how much / to phone New York / it / cost)",
+      "words": ["How much", "does", "it", "cost", "to phone", "New York?"],
+      "answer": "How much does it cost to phone New York?",
+      "explanation": "it takes does, and cost stays in the simple form."
+    }
+  ]
+}

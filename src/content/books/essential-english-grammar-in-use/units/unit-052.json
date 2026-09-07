@@ -1,0 +1,174 @@
+{
+  "number": 52,
+  "title": "to ... (I want to do) and -ing (I enjoy doing)",
+  "subtitle": "I want to do / I enjoy doing",
+  "summary": "Learn which verbs take to + verb (I want to go), which take the -ing form (I enjoy going), and which take both.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "verbs + to ...",
+      "text": "After **want**, **hope**, **need**, **plan**, **expect**, **promise**, **decide**, **offer**, **refuse**, **try**, **forget** and **learn** we use **to** + verb.",
+      "examples": [
+        { "text": "What do you **want to do** this evening?" },
+        { "text": "It's not very late. We don't **need to go** home yet." },
+        { "text": "Tina has **decided to sell** her car." },
+        { "text": "You **forgot to switch** off the light when you went out." },
+        { "text": "My brother is **learning to drive**." },
+        { "text": "I **tried to read** my book, but I was too tired." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "verbs + -ing",
+      "text": "After **enjoy**, **mind**, **stop**, **finish** and **suggest** we use the **-ing** form. Never use *to* after these verbs.",
+      "examples": [
+        { "text": "I **enjoy dancing**.", "wrong": "enjoy to dance" },
+        { "text": "I don't **mind getting** up early." },
+        { "text": "Has it **stopped raining**?" },
+        { "text": "Sonia **suggested going** to the cinema." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The three groups",
+      "columns": ["+ to ... (to do)", "+ -ing (doing)", "+ -ing or to ..."],
+      "rows": [
+        ["want, hope, need", "enjoy, mind", "like, love"],
+        ["plan, expect, promise", "stop, finish", "prefer, hate"],
+        ["decide, offer, refuse", "suggest", "start, begin"],
+        ["try, forget, learn", "-", "continue"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "verbs + -ing or to ...",
+      "text": "After **like**, **love**, **hate**, **prefer**, **start**, **begin** and **continue** both forms are correct. There is no difference in meaning.",
+      "examples": [
+        { "text": "Do you **like getting** up early? *or* Do you **like to get** up early?" },
+        { "text": "I **prefer travelling** by car. *or* I **prefer to travel** by car." },
+        { "text": "Anna **loves dancing**. *or* Anna **loves to dance**." },
+        { "text": "It **started raining**. *or* It **started to rain**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "would like to ...",
+      "text": "But after **would like**, **would love**, **would prefer** and **would hate** we always use **to** + verb.",
+      "examples": [
+        { "text": "Julia **would like to meet** you." },
+        { "text": "I'd **love to go** to Australia." },
+        { "text": "*A:* Would you like to sit down? *B:* No, I'd **prefer to stand**, thank you." },
+        { "text": "I like this city very much. I **wouldn't like to move**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You can say *I like dancing* or *I like to dance*. But after *would like* only **to dance** is correct, and after *enjoy* only **dancing** is correct."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which form follows each verb: to + verb or the -ing form?",
+      "categories": ["+ to ... (to do)", "+ -ing (doing)"],
+      "items": [
+        { "text": "want", "category": 0 },
+        { "text": "enjoy", "category": 1 },
+        { "text": "decide", "category": 0 },
+        { "text": "finish", "category": 1 },
+        { "text": "promise", "category": 0 },
+        { "text": "suggest", "category": 1 },
+        { "text": "refuse", "category": 0 },
+        { "text": "mind", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bye! I hope ___ you again soon.",
+      "hint": "(see)",
+      "answers": ["to see"],
+      "explanation": "hope + to ...: I hope to see you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you finished ___ the kitchen?",
+      "hint": "(clean)",
+      "answers": ["cleaning"],
+      "explanation": "finish + -ing: Have you finished cleaning ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you enjoy ___ other countries?",
+      "hint": "(visit)",
+      "answers": ["visiting"],
+      "explanation": "enjoy + -ing, never enjoy to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm not in a hurry. I don't mind ___.",
+      "options": ["waiting", "to wait", "wait"],
+      "answer": 0,
+      "explanation": "mind + -ing: I don't mind waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I learnt ___ when I was five years old.",
+      "hint": "(swim)",
+      "answers": ["to swim"],
+      "explanation": "learn + to ...: I learnt to swim."
+    },
+    {
+      "type": "true_false",
+      "statement": "The weather was nice, so I suggested to go for a walk by the river.",
+      "answer": false,
+      "explanation": "suggest + -ing: I suggested going for a walk by the river."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not going out until it stops ___.",
+      "hint": "(rain)",
+      "answers": ["raining"],
+      "explanation": "stop + -ing: until it stops raining."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't forget ___ us a postcard when you're on holiday.",
+      "hint": "(send)",
+      "answers": ["to send"],
+      "explanation": "forget + to ...: Don't forget to send us a postcard."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This ring was my grandmother's. I'd hate ___ it.",
+      "hint": "(lose)",
+      "answers": ["to lose"],
+      "explanation": "After would hate we always use to ...: I'd hate to lose it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Do you ever go to museums?", "right": "Yes, I enjoy going to museums." },
+        { "left": "Would you like to go to a museum now?", "right": "No, I'm hungry. I'd prefer to go to a restaurant." },
+        { "left": "Do you often write letters?", "right": "No, I don't like writing letters." },
+        { "left": "Have you ever been to New York?", "right": "No, but I'd love to go there one day." },
+        { "left": "Do you often travel by train?", "right": "Yes, I enjoy travelling by train." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know your friend's plan. Put the question in order.",
+      "words": ["What", "have", "you", "decided", "to do?"],
+      "answer": "What have you decided to do?",
+      "explanation": "decide + to ...: What have you decided to do?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm trying ___. Please stop talking.",
+      "hint": "(work)",
+      "answers": ["to work"],
+      "explanation": "try + to ...: I'm trying to work. But stop + -ing: stop talking."
+    }
+  ]
+}

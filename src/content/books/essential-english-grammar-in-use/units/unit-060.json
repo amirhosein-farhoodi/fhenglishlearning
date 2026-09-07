@@ -1,0 +1,173 @@
+{
+  "number": 60,
+  "title": "my/his/their etc.",
+  "subtitle": "my hands / his car / their room",
+  "summary": "Use my, our, your, his, her, their and its before a noun to say who something belongs to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "I -> my, we -> our ...",
+      "columns": ["subject", "before a noun", "Example"],
+      "rows": [
+        ["I", "my", "**I** like **my** house."],
+        ["we", "our", "**We** like **our** house."],
+        ["you", "your", "**You** like **your** house."],
+        ["he", "his", "**He** likes **his** house."],
+        ["she", "her", "**She** likes **her** house."],
+        ["they", "their", "**They** like **their** house."],
+        ["it", "its", "Oxford (= it) is famous for **its** university."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "my / your / his + noun",
+      "text": "We always use **my**, **your**, **his** etc. with a noun after them. Six people are standing in the rain, and each one points at an umbrella: **my** umbrella, **our** umbrella, **your** umbrella, **his** umbrella, **her** umbrella, **their** umbrella.",
+      "examples": [
+        { "text": "**My** hands are cold." },
+        { "text": "I like **your** best friend." },
+        { "text": "He's washing **his** new car." },
+        { "text": "**Their** room is very small." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "his / her / their",
+      "text": "Choose the word for the **owner**, not for the thing. Donna is a woman, so everything of hers is **her** ... . Andy is a man, so everything of his is **his** ... . Mr and Mrs Lee are two people, so everything of theirs is **their** ... .",
+      "examples": [
+        { "text": "Donna's car = **her** car. Donna's husband = **her** husband." },
+        { "text": "Andy's bicycle = **his** bicycle. Andy's sister = **his** sister." },
+        { "text": "Mr and Mrs Lee's son = **their** son. Mr and Mrs Lee's children = **their** children." }
+      ],
+      "note": "*her husband* (Donna is a woman) and *his sister* (Andy is a man). The word after **his/her** does not change anything."
+    },
+    {
+      "type": "compare",
+      "heading": "he / him / his and she / her / her",
+      "left": {
+        "label": "he - him - his",
+        "examples": [
+          "**He** lives in London.",
+          "I know **him** very well.",
+          "**His** name is Andy."
+        ]
+      },
+      "right": {
+        "label": "she - her - her",
+        "examples": [
+          "**She** lives in London.",
+          "I know **her** very well.",
+          "**Her** name is Donna."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "its and it's",
+      "text": "These two words sound the same but they are different. **its** = of it. **it's** = it is.",
+      "examples": [
+        { "text": "Oxford is famous for **its** university." },
+        { "text": "I like Oxford. **It's** a nice place.", "note": "It's = It is" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**my/your/his** etc. never change in the plural: *my hand* and *my hands*, not ~~mys hands~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to wash my hands. She's going to wash ___ hands.",
+      "hint": "(she)",
+      "answers": ["her"],
+      "explanation": "she -> her."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to wash my hands. We're going to wash ___ hands.",
+      "hint": "(we)",
+      "answers": ["our"],
+      "explanation": "we -> our."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to wash my hands. They're going to wash ___ hands.",
+      "hint": "(they)",
+      "answers": ["their"],
+      "explanation": "they -> their."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know Mr Watson, but I don't know ___ wife.",
+      "hint": "(he)",
+      "answers": ["his"],
+      "explanation": "Mr Watson is a man, so we use his."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alice and Tom live in London. ___ son lives in Australia.",
+      "hint": "(they)",
+      "answers": ["Their"],
+      "explanation": "Alice and Tom are two people, so we use their."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word do you need: his, her or their?",
+      "categories": ["his", "her", "their"],
+      "items": [
+        { "text": "Mr Watson's wife", "category": 0 },
+        { "text": "Gary's brother", "category": 0 },
+        { "text": "Anna's friends", "category": 1 },
+        { "text": "Sarah's husband", "category": 1 },
+        { "text": "Alice and Tom's son", "category": 2 },
+        { "text": "Emma and Robert's parents", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anna is going out with ___ friends this evening.",
+      "hint": "(she)",
+      "answers": ["her"],
+      "explanation": "Anna is a woman, so we use her, even before a plural noun."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This is a beautiful tree. ___ leaves are a beautiful colour.",
+      "options": ["Its", "It's", "Their"],
+      "answer": 0,
+      "explanation": "its = of it. it's = it is."
+    },
+    {
+      "type": "matching",
+      "prompt": "In this family Sarah and Philip are married. Their children are Gary, Tim and Laura. Laura is married to Steve, and their children are Emma and Robert. Match each person with the right words.",
+      "pairs": [
+        { "left": "I saw Sarah with ...", "right": "her husband, Philip." },
+        { "left": "I saw Steve with ...", "right": "his wife, Laura." },
+        { "left": "I saw Gary with ...", "right": "his brother, Tim." },
+        { "left": "I saw Laura and Steve with ...", "right": "their children, Emma and Robert." },
+        { "left": "I saw Emma and Robert with ...", "right": "their parents, Laura and Steve." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you know that man? *B:* Yes, but I don't know ___.",
+      "hint": "(name)",
+      "answers": ["his name"],
+      "explanation": "that man is a man, so we use his + noun."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you think most people are happy in his jobs?",
+      "answer": false,
+      "explanation": "Do you think most people are happy in their jobs? most people = they, so we use their."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are planning a party. Put the sentence in order.",
+      "words": ["We're", "going to", "invite", "all", "our", "friends."],
+      "answer": "We're going to invite all our friends.",
+      "explanation": "we -> our, and our always comes before the noun."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "number": 21,
+  "title": "is done was done (passive 1)",
+  "subtitle": "The office is cleaned every day.",
+  "summary": "Use am/is/are or was/were with a past participle to say what happens or happened to something, without saying who does it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Somebody cleans the office",
+      "text": "A cleaner comes to an office every evening with a mop and a bucket. In the morning the office is tidy again. We do not need to say who the cleaner is. We can put the office first and use the **passive**.",
+      "examples": [
+        { "text": "The office **is cleaned** every day." },
+        { "text": "The office **was cleaned** yesterday." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Active and passive",
+      "left": {
+        "label": "active",
+        "text": "We say who does the action.",
+        "examples": [
+          "Somebody **cleans** the office every day.",
+          "Somebody **cleaned** the office yesterday."
+        ]
+      },
+      "right": {
+        "label": "passive",
+        "text": "The thing comes first. We do not say who does it.",
+        "examples": [
+          "The office **is cleaned** every day.",
+          "The office **was cleaned** yesterday."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "The form of the passive",
+      "columns": ["Tense", "be (+ not)", "+ past participle"],
+      "rows": [
+        ["present simple", "am / is / are (not)", "cleaned, invented, injured"],
+        ["past simple", "was / were (not)", "done, built, taken"]
+      ],
+      "note": "The past participle of a regular verb ends in **-ed** (cleaned, damaged). Irregular verbs have their own forms (**done**, **built**, **taken**)."
+    },
+    {
+      "type": "explain",
+      "heading": "Present: am/is/are + past participle",
+      "text": "Use **am/is/are + past participle** for things that happen again and again, or that are true now.",
+      "examples": [
+        { "text": "Butter **is made** from milk." },
+        { "text": "Oranges **are imported** into Britain." },
+        { "text": "How often **are** these rooms **cleaned**?" },
+        { "text": "I **am** never **invited** to parties." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Past: was/were + past participle",
+      "text": "Use **was/were + past participle** for things that happened in the past. For the place and date of your birth we always use **was/were born**.",
+      "examples": [
+        { "text": "This house **was built** 100 years ago." },
+        { "text": "These houses **were built** 100 years ago." },
+        { "text": "When **was** the telephone **invented**?" },
+        { "text": "We **weren't invited** to the party last week." },
+        { "text": "*A:* **Was** anybody **injured** in the accident? *B:* Yes, two people **were taken** to hospital." },
+        { "text": "I **was born** in Berlin in 1989.", "wrong": "I am born" },
+        { "text": "*A:* Where **were** you **born**? *B:* In Cairo." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "passive + by ...",
+      "text": "If you want to say who did the action, use **by**.",
+      "examples": [
+        { "text": "The telephone was invented **by Alexander Bell** in 1876.", "note": "= Alexander Bell invented it" },
+        { "text": "I was bitten **by a dog** a few days ago." },
+        { "text": "Do you like these paintings? They were painted **by a friend of mine**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The passive always needs two parts: a form of **be** (am/is/are/was/were) *and* a past participle. One part alone is wrong."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say what glass is made from.",
+      "words": ["Glass", "is", "made", "from", "sand."],
+      "answer": "Glass is made from sand.",
+      "explanation": "Present passive: is + made."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Stamps ___ in a post office.",
+      "hint": "(sell)",
+      "answers": ["are sold"],
+      "explanation": "Stamps is plural and this happens every day: are + sold."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each active sentence with the same idea in the passive.",
+      "pairs": [
+        { "left": "Somebody cleans the office every day.", "right": "The office is cleaned every day." },
+        { "left": "Somebody cleaned the office yesterday.", "right": "The office was cleaned yesterday." },
+        { "left": "Alexander Bell invented the telephone.", "right": "The telephone was invented by Alexander Bell." },
+        { "left": "A dog bit me a few days ago.", "right": "I was bitten by a dog a few days ago." },
+        { "left": "A friend of mine painted these pictures.", "right": "These pictures were painted by a friend of mine." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This room ___ very often.",
+      "hint": "(not / use)",
+      "answers": ["isn't used", "is not used"],
+      "explanation": "Negative present passive: isn't + used."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You do not know how to say a new word. What do you ask?",
+      "options": ["How is this word pronounced?", "How does this word pronounce?", "How this word is pronounced?"],
+      "answer": 0,
+      "explanation": "Passive question: is + this word + pronounced."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The house ___ last month.",
+      "hint": "(paint)",
+      "answers": ["was painted"],
+      "explanation": "last month is past, and one house, so: was + painted."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My phone ___ a few days ago.",
+      "hint": "(steal)",
+      "answers": ["was stolen"],
+      "explanation": "Past passive: was + stolen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Three people ___ in the accident.",
+      "hint": "(injure)",
+      "answers": ["were injured"],
+      "explanation": "Three people is plural and this is past: were + injured."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sally ___ in Manchester.",
+      "hint": "(be born)",
+      "answers": ["was born"],
+      "explanation": "For the place of birth we say was born, never am born."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know the date of this bridge. Write the question.",
+      "words": ["When", "was", "this", "bridge", "built?"],
+      "answer": "When was this bridge built?",
+      "explanation": "Past passive question: was + this bridge + built."
+    },
+    {
+      "type": "true_false",
+      "statement": "Football plays in most countries of the world.",
+      "answer": false,
+      "explanation": "Football is played in most countries of the world. People play football, so football needs the passive."
+    },
+    {
+      "type": "true_false",
+      "statement": "How many languages are speaking in Switzerland?",
+      "answer": false,
+      "explanation": "How many languages are spoken in Switzerland? The passive needs the past participle spoken, not speaking."
+    }
+  ]
+}

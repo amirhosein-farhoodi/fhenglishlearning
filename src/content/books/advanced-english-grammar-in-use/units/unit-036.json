@@ -1,0 +1,136 @@
+{
+  "number": 36,
+  "title": "Reporting offers, suggestions, orders, intentions, etc.",
+  "subtitle": "She encouraged Fran to take the job.",
+  "summary": "Report offers, orders, promises and suggestions with the pattern each verb allows: a to-infinitive, an object + to-infinitive, a that-clause or an -ing clause.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "to-infinitive with or without an object",
+      "left": {
+        "label": "Verb + to-infinitive",
+        "text": "No object comes between the verb and the to-infinitive. Also: agree, demand, guarantee, offer, promise, swear, threaten, volunteer.",
+        "examples": ["'The theatre will be built next to the town hall.' -> They **propose to build** the theatre next to the town hall.", "not ~~They propose them to build the theatre~~", "He **agreed to collect** Declan from school."]
+      },
+      "right": {
+        "label": "Verb + object + to-infinitive",
+        "text": "The object is the person the offer or order is made to - the one who performs the reported action. Also: advise, ask, call on, command, instruct, invite, order, persuade, recommend, remind, request, urge, warn, tell.",
+        "examples": ["'You should take the job, Fran.' -> She **encouraged Fran to take** the job.", "He **ordered us to be** quiet.", "He **called on the government to do** more to help the homeless."]
+      },
+      "note": "Compare: We asked to leave our bags outside the exam room. (= we wanted this) and They asked us to leave our bags outside the exam room. (= they wanted this)"
+    },
+    {
+      "type": "explain",
+      "heading": "that-clause instead of a to-infinitive",
+      "text": "After some verbs a that-clause is an alternative. Also: agree, demand, expect, guarantee, hope, propose, request, vow. The that-clause is useful because the two subjects can be different people.",
+      "examples": [
+        { "text": "He promised **to arrive** on time. = He promised **that he would arrive** on time." },
+        { "text": "He promised **that he wouldn't be** late.", "note": "'He' and 'he' may refer to different people" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "that-clause only",
+      "text": "After **insist**, **order**, **say** and **suggest** we use a that-clause and never a to-infinitive. Advise and order can take either an object + to-infinitive or a that-clause.",
+      "examples": [
+        { "text": "There were cheers when he suggested **that we went** home early.", "wrong": "he suggested to go home early" },
+        { "text": "I advised **that she should accept**.", "note": "or I advised her to accept.; but not ~~I advised to accept~~" },
+        { "text": "She said **that she expected** to see improvements within a year.", "wrong": "She insisted to see improvements" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "to-infinitive only",
+      "text": "After some verbs we use a to-infinitive but never a that-clause. Also: long, offer, refuse, volunteer, want.",
+      "examples": [
+        { "text": "Carolyn **intends to return** to Dublin after a year in Canada.", "wrong": "Carolyn intends that she should return" },
+        { "text": "He **hoped that** the Narian president would act now.", "wrong": "He wanted that the Narian president would act" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting a suggestion with an -ing clause",
+      "text": "With **advise**, **propose**, **recommend** and **suggest** we can report a suggestion with an -ing clause instead of a that-clause. This works whether the suggestion is about the speaker or about somebody else.",
+      "examples": [
+        { "text": "The lecturer recommended **reading** a number of books before the exam.", "note": "or ... recommended that the students should read ..." },
+        { "text": "To avoid the road works, police have advised **leaving** the motorway at Junction 3." },
+        { "text": "The council proposed **reducing** bus and train fares.", "note": "propose also allows a to-infinitive: proposed to reduce fares" }
+      ]
+    },
+    { "type": "tip", "text": "*demand* and *insist* look similar but behave differently: *demanded that troops withdraw*, but ~~demanded troops to withdraw~~ - use *ordered* for that pattern." }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each set of words with its report.",
+      "pairs": [
+        { "left": "'Can you lend me ten pounds?'", "right": "He asked me to lend him ten pounds." },
+        { "left": "'Be quiet!'", "right": "He ordered us to be quiet." },
+        { "left": "'I will fight the ban on smoking in public places.'", "right": "He vowed to fight the ban on smoking in public places." },
+        { "left": "'If I were you, I'd read the exam questions very carefully.'", "right": "He advised us to read the exam questions very carefully." },
+        { "left": "'Please stay for a few more days.'", "right": "He urged me to stay for a few more days." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Okay, I'll collect Declan from school.' -> He ___ to collect Declan from school.",
+      "hint": "(agree)",
+      "answers": ["agreed"],
+      "explanation": "agree takes a plain to-infinitive - no object comes in between."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'The government should do more to help the homeless.' -> He ___ to do more to help the homeless.",
+      "hint": "(call on)",
+      "answers": ["called on the government"],
+      "explanation": "call on needs an object before the to-infinitive: called on the government to do more."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I imagine I'll see Olivia at the party.' -> He ___ to see Olivia at the party.",
+      "hint": "(expect / hope)",
+      "answers": ["expected", "hoped"],
+      "explanation": "Both verbs report an expectation and take a plain to-infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which report of 'Why don't we go home early?' is correct?",
+      "options": ["He suggested that we went home early.", "He suggested to go home early.", "He suggested us to go home early."],
+      "answer": 0,
+      "explanation": "suggest takes a that-clause (or an -ing clause), never a to-infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ricardo said the play was very entertaining and he recommended ___ it.",
+      "hint": "(see)",
+      "answers": ["seeing"],
+      "explanation": "advise, propose, recommend and suggest can report a suggestion with an -ing clause."
+    },
+    { "type": "true_false", "statement": "In a major speech today, the Health Minister suggested to improve the country's health care.", "answer": false, "explanation": "... the Health Minister promised to improve the country's health care. suggest cannot be followed by a to-infinitive." },
+    { "type": "true_false", "statement": "She guaranteed to reduce waiting times for operations.", "answer": true, "explanation": "Correct. guarantee takes a to-infinitive (and also allows a that-clause)." },
+    { "type": "true_false", "statement": "The President of Guwandi has demanded Narian troops to withdraw from the border area.", "answer": false, "explanation": "... has ordered Narian troops to withdraw from the border area. demand cannot take an object + to-infinitive." },
+    { "type": "true_false", "statement": "The UN Secretary General has offered that a peace conference should be held in New York.", "answer": false, "explanation": "... has proposed that a peace conference should be held in New York. offer takes a to-infinitive, not a that-clause." },
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each reporting verb allow?",
+      "categories": ["that-clause but not a to-infinitive", "to-infinitive but not a that-clause"],
+      "items": [
+        { "text": "insist", "category": 0 },
+        { "text": "suggest", "category": 0 },
+        { "text": "say", "category": 0 },
+        { "text": "intend", "category": 1 },
+        { "text": "refuse", "category": 1 },
+        { "text": "want", "category": 1 },
+        { "text": "long", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "The invigilators wanted the bags left outside. Report what they said.",
+      "words": ["They asked", "us", "to leave", "our bags", "outside the exam room"],
+      "answer": "They asked us to leave our bags outside the exam room",
+      "explanation": "With an object, ask reports what somebody wanted us to do; without one it reports what we wanted."
+    }
+  ]
+}

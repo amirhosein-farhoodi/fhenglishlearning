@@ -1,0 +1,182 @@
+{
+  "number": 83,
+  "title": "a lot much many",
+  "subtitle": "much money / many books",
+  "summary": "Use much with uncountable nouns, many with plural nouns, and a lot of with both kinds of noun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "much and many",
+      "left": {
+        "label": "much + uncountable noun",
+        "text": "much food, much money, much luggage.",
+        "examples": [
+          "Did you buy **much food**?",
+          "We haven't got **much luggage**.",
+          "How **much money** do you want?",
+          "*A:* Have you got any money? *B:* I've got some, but **not much**."
+        ]
+      },
+      "right": {
+        "label": "many + plural noun",
+        "text": "many books, many people, many photos.",
+        "examples": [
+          "Did you buy **many books**?",
+          "We don't know **many people**.",
+          "How **many photos** did you take?",
+          "*A:* Did you take any photos? *B:* I took some, but **not many**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "a lot of + both types of noun",
+      "text": "**a lot of** goes with uncountable nouns *and* plural nouns. With an uncountable noun the verb is singular; with a plural noun the verb is plural.",
+      "examples": [
+        { "text": "We bought **a lot of food** and **a lot of books**." },
+        { "text": "Paula hasn't got **a lot of** free **time**." },
+        { "text": "There **is** a lot of **food** on the table." },
+        { "text": "There **are** a lot of **shops** in this street." },
+        { "text": "A lot of **people speak** English.", "wrong": "A lot of people speaks" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which word can I use?",
+      "columns": ["Sentence", "uncountable (money, food)", "plural (books, people)"],
+      "rows": [
+        ["question", "Do you drink **much** coffee?", "Have you got **many** friends?"],
+        ["negative", "I don't drink **much** coffee.", "We haven't got **many** friends."],
+        ["positive", "I drink **a lot of** coffee.", "We've got **many / a lot of** friends."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "much in questions and negatives",
+      "text": "We use **much** in *questions* and *negative sentences*. We do not often use **much** in positive sentences. Use **a lot of** instead.",
+      "examples": [
+        { "text": "Do you drink **much coffee**? I don't drink **much coffee**." },
+        { "text": "I drink **a lot of coffee**.", "wrong": "I drink much coffee" },
+        { "text": "'Do you drink much coffee?' 'Yes, **a lot**.'", "wrong": "Yes, much" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "many and a lot of are free",
+      "text": "**many** and **a lot of** are fine in all types of sentence: positive, negative and question.",
+      "examples": [
+        { "text": "We've got **many** friends / **a lot of** friends." },
+        { "text": "We haven't got **many** friends / **a lot of** friends." },
+        { "text": "Have you got **many** friends / **a lot of** friends?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "much and a lot without a noun",
+      "text": "You can use **much** and **a lot** alone, with no noun after them.",
+      "examples": [
+        { "text": "Donna spoke to me, but she didn't say **much**." },
+        { "text": "'Do you watch TV **much**?' 'No, **not much**.' (= not often)" },
+        { "text": "We like films, so we go to the cinema **a lot**.", "wrong": "go to the cinema much" },
+        { "text": "I don't like him very **much**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Can you count it? *books, people, photos* -> **many**. Can't you count it? *money, food, time* -> **much**. **a lot of** always works."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Did you buy ___ food?",
+      "hint": "(much / many)",
+      "answers": ["much"],
+      "explanation": "food is uncountable, so much food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There aren't ___ hotels in this town.",
+      "hint": "(much / many)",
+      "answers": ["many"],
+      "explanation": "hotels is a plural noun, so many hotels."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each noun go after much or after many?",
+      "categories": ["much", "many"],
+      "items": [
+        { "text": "food", "category": 0 },
+        { "text": "hotels", "category": 1 },
+        { "text": "money", "category": 0 },
+        { "text": "people", "category": 1 },
+        { "text": "luggage", "category": 0 },
+        { "text": "photos", "category": 1 },
+        { "text": "time", "category": 0 },
+        { "text": "countries", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ people are coming to the party?",
+      "hint": "(How much / How many)",
+      "answers": ["How many"],
+      "explanation": "people is plural, so How many."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ milk do you want in your coffee?",
+      "hint": "(How much / How many)",
+      "answers": ["How much"],
+      "explanation": "milk is uncountable, so How much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Hurry up! We haven't got ___ .",
+      "hint": "(much + time)",
+      "answers": ["much time"],
+      "explanation": "time is uncountable and the sentence is negative, so much time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I know Tokyo well. I've been there ___ .",
+      "hint": "(many + times)",
+      "answers": ["many times"],
+      "explanation": "times is plural, so many times."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This road is very dangerous. There are ___ here.",
+      "hint": "(a lot of + accidents)",
+      "answers": ["a lot of accidents"],
+      "explanation": "a lot of works with plural nouns: a lot of accidents."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I drink ___ tea.",
+      "options": ["a lot of", "much", "many"],
+      "answer": 0,
+      "explanation": "We do not often use much in positive sentences, so a lot of tea."
+    },
+    {
+      "type": "true_false",
+      "statement": "It costs much money to travel around the world.",
+      "answer": false,
+      "explanation": "It costs a lot of money to travel around the world. much is not natural in a positive sentence."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Have you got any luggage?' 'Yes, much.'",
+      "answer": false,
+      "explanation": "'Yes, a lot.' We do not say Yes, much."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Jim loves films. Write what he does. Put the words in order.",
+      "words": ["He", "goes", "to", "the cinema", "a lot."],
+      "answer": "He goes to the cinema a lot.",
+      "explanation": "We say go to the cinema a lot, not go to the cinema much."
+    }
+  ]
+}

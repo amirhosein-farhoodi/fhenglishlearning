@@ -1,0 +1,191 @@
+{
+  "number": 80,
+  "title": "Giving reasons: as, because, etc.; for and with",
+  "subtitle": "as / since / seeing that; due to; with",
+  "summary": "Give reasons with as, because, since and seeing that, choose between because of, due to and owing to, and use for and with + a noun phrase.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "as, because, seeing that, seeing as, since",
+      "text": "Any of these can begin a clause that gives the reason for a particular situation. It is common and perfectly acceptable for **because** to begin a sentence.",
+      "examples": [
+        { "text": "**As** it was getting late, I decided I should go home." },
+        { "text": "We must be near the beach, **because** I can hear the waves." },
+        { "text": "**Since** he was going to be away on his birthday, we celebrated before he left." },
+        { "text": "We could go and visit Natalia, **seeing that** we have to drive past her house anyway." },
+        { "text": "**Because** everything looked different, I had no idea where to go." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "because or so?",
+      "left": {
+        "label": "because introduces the reason",
+        "examples": [
+          "**Because** my mother's ill, I won't be able to come."
+        ]
+      },
+      "right": {
+        "label": "so introduces the result",
+        "examples": [
+          "My mother's ill, **so** I won't be able to come."
+        ]
+      },
+      "note": "To give reasons in spoken English we most often use because; so is just as common for expressing the same idea the other way round."
+    },
+    {
+      "type": "explain",
+      "heading": "How formal is each one?",
+      "text": "When it means 'because', **since** is rather formal: it is uncommon in conversation but frequent in academic writing. **Seeing that** belongs to informal English, and some people also use **seeing as** in informal speech.",
+      "examples": [
+        { "text": "I had to go outside **because** I was feeling awful.", "note": "since is unlikely in such an informal context" },
+        { "text": "The results of this analysis can be easily compared to future observations **since** satellite coverage will remain continuous.", "note": "more likely than because in this formal context" },
+        { "text": "Joel just had to apologise, **seeing that / as** he knew he'd made a mistake." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for, in that, inasmuch as",
+      "text": "In formal or literary written English we can also introduce a reason with **for**, **in that** or, less commonly, **inasmuch as**. For is a formal alternative to 'because'; in that and inasmuch as introduce clauses which clarify what has been said by adding detail.",
+      "examples": [
+        { "text": "We must begin planning now, **for** the future may bring unexpected changes.", "wrong": "For the future may bring unexpected changes, we must begin planning now" },
+        { "text": "The film is unusual **in that** it features only four actors.", "note": "or In that ..., the film is ..." },
+        { "text": "Clara and I have quite an easy life, **inasmuch as** neither of us has to work too hard but we earn quite a lot of money." }
+      ],
+      "note": "An in that or inasmuch as clause can come first; a for-clause cannot."
+    },
+    {
+      "type": "explain",
+      "heading": "because of, due to, owing to + noun phrase",
+      "text": "These prepositions go before a noun or noun phrase to give a reason. Note that **because** alone is never used before a noun phrase.",
+      "examples": [
+        { "text": "We were delayed **because of** an accident." },
+        { "text": "She was unable to run **owing to / due to** a leg injury." },
+        { "text": "We have less money to spend **owing to / due to** budget cuts." },
+        { "text": "We were delayed **because there was** an accident.", "wrong": "because an accident" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "due to or owing to after be?",
+      "text": "In current English we usually avoid **owing to** directly after a form of *be*. But owing to is used after be + a degree adverb such as entirely, largely, mainly or partly, and either can be used in the pattern *it was due to / owing to ... that*.",
+      "examples": [
+        { "text": "The company's success is **due to** the new director.", "wrong": "is owing to the new director" },
+        { "text": "The low election turnout was partly **due to / owing to** the bad weather." },
+        { "text": "**It was owing to** his encouragement **that** she applied for the job.", "note": "or It was due to ... that" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for and with + noun phrase",
+      "text": "**For** and **with** followed by a noun phrase can also give a reason: for means 'as a result of', and with means 'as a result of there being'.",
+      "examples": [
+        { "text": "She was looking all the better **for** her stay in hospital." },
+        { "text": "**With** so many people ill, the meeting was cancelled." },
+        { "text": "**With** her father in hospital, Olivia went to stay with her aunt." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Test what follows: a clause with its own subject and verb takes *because / as / since*; a noun phrase takes *because of / due to / owing to / for / with*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "___ it was getting late, I decided I should go home.",
+      "options": ["As", "For", "Owing to"],
+      "answer": 0,
+      "explanation": "As can begin a reason clause; a for-clause can never come first, and owing to needs a noun phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He sent the soup back ___ there was a fly in it.",
+      "hint": "(because / because of)",
+      "answers": ["because"],
+      "explanation": "A full clause follows, so because - not because of."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each statement to the reason that goes with it.",
+      "pairs": [
+        { "left": "Since the train was delayed for more than an hour,", "right": "passengers were given a full refund." },
+        { "left": "Seeing as it's your birthday,", "right": "I'll buy you lunch." },
+        { "left": "Because I'm trying to lose weight,", "right": "I've given up dairy products." },
+        { "left": "As the guest lecturer was late,", "right": "Dr Gomez spoke about his research instead." },
+        { "left": "We were recommended to buy the textbook second-hand since", "right": "a new copy would be very expensive." },
+        { "left": "You should never walk under a ladder because", "right": "it's supposed to be unlucky." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I couldn't speak to Jacob ___ his mobile was switched off.",
+      "options": ["because", "because of", "due to"],
+      "answer": 0,
+      "explanation": "His mobile was switched off is a clause, so it needs because."
+    },
+    {
+      "type": "true_false",
+      "statement": "We were delayed because an accident.",
+      "answer": false,
+      "explanation": "We were delayed because of an accident. / ... because there was an accident. Because alone cannot go before a noun phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The cancellation of the competition is ___ lack of interest.",
+      "hint": "(due to / owing to)",
+      "answers": ["due to"],
+      "explanation": "We avoid owing to directly after a form of be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The popularity of the restaurant is largely ___ its central location.",
+      "hint": "(due to / owing to)",
+      "answers": ["due to", "owing to"],
+      "explanation": "After be + a degree adverb such as largely, both are possible."
+    },
+    {
+      "type": "true_false",
+      "statement": "The film is unusual in that it features only four actors.",
+      "answer": true,
+      "explanation": "Correct. In that introduces a clause that clarifies what has just been said by adding detail."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each reason word or phrase come before a clause (with its own subject and verb) or before a noun phrase?",
+      "categories": ["Before a clause", "Before a noun phrase"],
+      "items": [
+        { "text": "because", "category": 0 },
+        { "text": "because of", "category": 1 },
+        { "text": "since", "category": 0 },
+        { "text": "due to", "category": 1 },
+        { "text": "seeing that", "category": 0 },
+        { "text": "owing to", "category": 1 },
+        { "text": "in that", "category": 0 },
+        { "text": "with", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Give the reason with *with*.",
+      "words": ["With", "so many people", "ill,", "the meeting", "was cancelled."],
+      "answer": "With so many people ill, the meeting was cancelled.",
+      "explanation": "With + a noun phrase means 'as a result of there being'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ my money running out, I got a job as a street sweeper.",
+      "hint": "one word",
+      "answers": ["With"],
+      "explanation": "With + noun phrase + -ing is a neat way of packing a reason into a phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I felt a lot fitter ___ all the exercise I was doing.",
+      "hint": "(for / with)",
+      "answers": ["for", "with"],
+      "explanation": "Both work here: for and with + a noun phrase can mean 'as a result of'."
+    }
+  ]
+}

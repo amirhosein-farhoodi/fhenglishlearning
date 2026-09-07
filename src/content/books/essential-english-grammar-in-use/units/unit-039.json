@@ -1,0 +1,191 @@
+{
+  "number": 39,
+  "title": "It ...",
+  "subtitle": "It's raining. / It's a long way.",
+  "summary": "Use it for time, day, distance and the weather, and in sentences like It's easy to make friends.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Time and day",
+      "text": "We use **it** to talk about the time and the day. The clock on the wall says half past ten, so we say **It's** half past ten. The calendar shows Thursday 16 March, so we say **It's** Thursday.",
+      "examples": [
+        { "text": "What time is **it**? **It's** half past ten." },
+        { "text": "**It's** late. **It's** time to go home." },
+        { "text": "What day is **it**? **It's** Thursday." },
+        { "text": "**It's** 16 March. **It** was my birthday yesterday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Distance",
+      "text": "We also use **it** to say how far one place is from another place. We use **far** in questions (*is it far?*) and in negatives (*it isn't far*). In positive sentences we use **a long way**.",
+      "examples": [
+        { "text": "**It's** three kilometres from our house to the city centre." },
+        { "text": "How far is **it** from New York to Los Angeles?" },
+        { "text": "**It's a long way** from here to the station.", "wrong": "It's far from here to the station" },
+        { "text": "We can walk home. **It isn't far**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The weather",
+      "text": "For the weather we always start with **it**. Rain is falling: **It's** raining. The sun is shining: **It's** sunny.",
+      "examples": [
+        { "text": "**It's** raining. **It** isn't raining. Is **it** snowing?" },
+        { "text": "**It** rains a lot here. **It** didn't rain yesterday." },
+        { "text": "Does **it** snow very often?" },
+        { "text": "**It's** warm / hot / cold / fine / cloudy / windy / sunny / foggy / dark." },
+        { "text": "**It's** a nice day today." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "it and there",
+      "left": {
+        "label": "it + verb / adjective",
+        "examples": ["**It** rains a lot in winter.", "**It** was very **windy**.", "**It's** often cold here."]
+      },
+      "right": {
+        "label": "there + a noun",
+        "examples": [
+          "**There** is **a lot of rain** in winter.",
+          "**There** was **a strong wind** yesterday.",
+          "**There** isn't **much rain** here."
+        ]
+      },
+      "note": "Use **it** before an adjective (*windy*) and **there** before a noun (*a strong wind*)."
+    },
+    {
+      "type": "explain",
+      "heading": "It's nice to ...",
+      "text": "We often say **It's** + adjective + **to** ... . The sentence starts with **it**, and the verb after the adjective is **to** + verb.",
+      "examples": [
+        { "text": "**It's nice to** see you again." },
+        { "text": "**It's impossible to** understand her." },
+        { "text": "**It wasn't easy to** find your house." },
+        { "text": "**It's dangerous to** go out alone at night." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives for It's ... to ...",
+      "columns": ["It's ...", "It's ..."],
+      "rows": [
+        ["easy", "expensive"],
+        ["difficult", "interesting"],
+        ["impossible", "nice"],
+        ["dangerous", "wonderful"],
+        ["safe", "terrible"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't forget it",
+      "text": "English needs **it** in the sentence. Never start these sentences with the verb.",
+      "examples": [
+        { "text": "**It's** raining again.", "wrong": "Is raining again" },
+        { "text": "Is **it** true that you're going away?", "wrong": "Is true that you're going away" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *it's a long way* in positive sentences, but *is it far?* and *it isn't far* in questions and negatives."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rain is falling from the sky. What do you say about the weather? ___ .",
+      "hint": "(rain)",
+      "answers": ["It's raining", "It is raining"],
+      "explanation": "For the weather we start with it: It's raining."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sun is shining and the sky is blue. What do you say? ___ .",
+      "hint": "(sun)",
+      "answers": ["It's sunny", "It is sunny", "It's fine", "It is fine", "It's a nice day", "It is a nice day"],
+      "explanation": "It's sunny, It's fine or It's a nice day are all correct."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ raining again.",
+      "options": ["It's", "Is", "There's"],
+      "answer": 0,
+      "explanation": "Don't forget it: It's raining again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We must go now. ___ very late.",
+      "hint": "(it is)",
+      "answers": ["It's", "It is"],
+      "explanation": "We use it for the time: It's very late."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        { "left": "Hello, Jane. It's nice", "right": "to see you again." },
+        { "left": "I like travelling. It's interesting", "right": "to visit different places." },
+        { "left": "Some cities are not safe. It's dangerous", "right": "to go out alone." },
+        { "left": "If you go to bed late, it's difficult", "right": "to get up early." },
+        { "left": "Everybody is very nice at work. It's easy", "right": "to make friends." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ true that Bill can fly a helicopter?",
+      "hint": "(is it)",
+      "answers": ["Is it"],
+      "explanation": "In this question we need it: Is it true that ... ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ ten kilometres from the airport to the city centre.",
+      "hint": "(it is)",
+      "answers": ["It's", "It is"],
+      "explanation": "We use it for distance: It's ten kilometres."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to know the distance from the hotel to the beach. Put the words in order.",
+      "words": ["How", "far", "is", "it", "from", "the hotel", "to the beach?"],
+      "answer": "How far is it from the hotel to the beach?",
+      "explanation": "In questions about distance we use How far is it from ... to ... ?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word begins each sentence: it or there?",
+      "categories": ["it", "there"],
+      "items": [
+        { "text": "___ 's hot in this room. Open a window.", "category": 0 },
+        { "text": "___ was a storm last night. Did you hear it?", "category": 1 },
+        { "text": "___ was a nice day yesterday. It was warm and sunny.", "category": 0 },
+        { "text": "___ was a strong wind yesterday.", "category": 1 },
+        { "text": "___ 's a long way from here to the nearest shop.", "category": 0 },
+        { "text": "___ isn't much rain here in summer.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was afraid because ___ was very dark.",
+      "hint": "(it / there)",
+      "answers": ["it"],
+      "explanation": "dark is an adjective, so we use it: it was very dark."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is too much noise here. ___ to work in this office.",
+      "hint": "(impossible)",
+      "answers": ["It's impossible", "It is impossible"],
+      "explanation": "It's + adjective + to ... : It's impossible to work here."
+    },
+    {
+      "type": "true_false",
+      "statement": "Is true that you're going away?",
+      "answer": false,
+      "explanation": "Is it true that you're going away? Don't forget it."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "number": 8,
+  "title": "Present and past time: review",
+  "subtitle": "simple, continuous and perfect together",
+  "summary": "Pull the present and past tenses together and choose between simple, continuous, perfect and perfect continuous forms.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Continuous: the activity itself",
+      "text": "We use continuous forms when we focus on an activity itself - one that started before a particular point of time and continues up to it, and possibly beyond it - rather than on actions as completed events.",
+      "examples": [
+        { "text": "Ingrid can't come to the phone. She**'s washing** her hair." },
+        { "text": "As you**'re not using** your car at the moment, can I borrow it?" },
+        { "text": "This time yesterday I **was flying** over the Pacific." },
+        { "text": "**Was** she **wearing** that red dress when you saw her?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Simple: general situations, habits and completed events",
+      "text": "Simple forms are for general situations, habits, and things that are or were always true. The past simple also gives us completed past events.",
+      "examples": [
+        { "text": "When I **worked** as a postman I **got up** at three o'clock every morning." },
+        { "text": "Miguel **doesn't play** golf very well." },
+        { "text": "These birds **build** their nests on the ground." },
+        { "text": "The earthquake **struck** the area at midday yesterday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "State verbs, and when they move",
+      "text": "Verbs describing unchanging states take simple forms. But when the same verb describes something happening or changing, a continuous form becomes possible.",
+      "examples": [
+        { "text": "She **intends** to work hard at school and go on to university." },
+        { "text": "**Did** you **understand** the instructions we were given?" },
+        { "text": "She **was intending** to talk to Tony about the idea, but she didn't get the opportunity." },
+        { "text": "**I'm understanding** physics much better now that Mr Davies is teaching us." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Perfect: one time seen from a later one",
+      "text": "Perfect forms describe an event or state from the point of view of a later time. The present perfect suggests a connection with now - the situation need not still be going on, only be relevant. The past perfect places a past event before another past event.",
+      "examples": [
+        { "text": "**I've finished** that book you wanted, so you can borrow it now." },
+        { "text": "**Have you turned** the heating off? I don't like it to be on when I'm not at home." },
+        { "text": "Your nose is bleeding. **Has** somebody **hit** you?" },
+        { "text": "I invited him out to dinner, but he said he **had** already **eaten**." },
+        { "text": "By the time I picked up the phone, they **had rung off**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Perfect and continuous together",
+      "text": "The present perfect continuous describes an activity in progress at or recently before the time of speaking, often with results you can still see. The past perfect continuous does the same job, but the point of reference is in the past.",
+      "examples": [
+        { "text": "**I have been following** the discussions on the forum with great interest." },
+        { "text": "Look at the dirt on your clothes! **Have you been digging** in the garden again?" },
+        { "text": "When we met Lena and Marko, they **had been riding**." },
+        { "text": "It **had been snowing** heavily for hours and when I went to the door I couldn't open it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Choosing a form",
+      "columns": ["What you are focusing on", "Form", "Example"],
+      "rows": [
+        ["The activity in progress", "continuous", "This time yesterday I **was flying** over the Pacific."],
+        ["A habit or a general truth", "simple", "These birds **build** their nests on the ground."],
+        ["A completed past event", "past simple", "The earthquake **struck** the area at midday yesterday."],
+        ["A past event with a link to now", "present perfect", "**I've finished** that book you wanted."],
+        ["An event before another past event", "past perfect", "By the time I picked up the phone, they **had rung off**."],
+        ["An activity up to now, with visible results", "present perfect continuous", "**Have you been digging** in the garden again?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two questions settle most choices: is the time period finished, and am I interested in the activity or in the completed event?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I am writing this blog in a hotel room in Perth. I ___ here a couple of hours ago after a long coach journey from Adelaide.",
+      "hint": "(get / arrive)",
+      "answers": ["got", "arrived"],
+      "explanation": "A couple of hours ago is a finished past time, so the past simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As you know, I ___ last week in Adelaide with Ruby.",
+      "hint": "(spend)",
+      "answers": ["spent"],
+      "explanation": "Last week is over, so the past simple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ her a month or so ago to tell her when I would be arriving.",
+      "hint": "(text)",
+      "answers": ["texted"],
+      "explanation": "A completed event at a stated past time: past simple."
+    },
+    {
+      "type": "true_false",
+      "statement": "He's been suffering from stress for some time, but we thought a holiday in Scotland would be relaxing for him.",
+      "answer": true,
+      "explanation": "Correct. The stress continues up to now (present perfect continuous), while the thought is a finished past event."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I texted Ruby a month or so ago to tell her when I would be arriving, and she ___ at the airport for me when I got there.",
+      "hint": "(wait)",
+      "answers": ["was waiting"],
+      "explanation": "Waiting was in progress when the single past event happened, so the past continuous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ruby enjoys living in Adelaide, although she ___ for a new job just now.",
+      "hint": "(look)",
+      "answers": ["is looking", "'s looking"],
+      "explanation": "A temporary activity going on around now: present continuous."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of these sentences.",
+      "pairs": [
+        { "left": "Your nose is bleeding.", "right": "Has somebody hit you?" },
+        { "left": "I invited him out to dinner,", "right": "but he said he had already eaten." },
+        { "left": "By the time I picked up the phone,", "right": "they had rung off." },
+        { "left": "When we met Lena and Marko,", "right": "they had been riding." },
+        { "left": "It had been snowing heavily for hours", "right": "and when I went to the door I couldn't open it." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Aston United appointed Ronson as manager two years ago and last season they finished second in the First Division. However, they ___ only five matches so far this season.",
+      "options": ["have won", "won", "had won"],
+      "answer": 0,
+      "explanation": "So far this season is a period that includes now, so the present perfect."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Did he have any health problems recently?",
+      "answer": false,
+      "explanation": "Has he had (or Has he been having) any health problems recently? Recently reaches up to the present, so a perfect form is needed."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Someone comes in covered in dirt. Draw the obvious conclusion out loud.",
+      "words": ["Look at the dirt", "on your clothes!", "Have you been digging", "in the garden", "again?"],
+      "answer": "Look at the dirt on your clothes! Have you been digging in the garden again?",
+      "explanation": "The present perfect continuous draws a conclusion from results you can still see."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The chairman said: 'Neil's attitude ___ us recently.'",
+      "options": ["has disappointed", "had disappointed", "disappoints"],
+      "answer": 0,
+      "explanation": "Recently links the past with the present, so the present perfect."
+    },
+    {
+      "type": "true_false",
+      "statement": "We've been trying to persuade him to have a break for ages before he agreed.",
+      "answer": false,
+      "explanation": "We had been trying to persuade him to have a break for ages before he agreed. The point of reference is a past moment (he agreed), so the past perfect continuous is needed."
+    }
+  ]
+}

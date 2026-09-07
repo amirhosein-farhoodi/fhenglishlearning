@@ -1,0 +1,187 @@
+{
+  "number": 99,
+  "title": "If we go ... If you see ... etc.",
+  "subtitle": "If we go by bus, it will be cheaper.",
+  "summary": "Talk about things that may happen with if + the present, and see when to use if and when to use when.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Bus or taxi?",
+      "text": "Three friends are standing at a bus stop in the rain. One asks: 'Shall we go by bus or taxi?' The second says: '**If we go** by bus, it **will be** cheaper.' The third says: 'We'**ll get** there more quickly **if we go** by taxi.' The **if**-part says what may happen. The other part says the result.",
+      "examples": [
+        { "text": "**If we go** by bus, it **will be** cheaper." },
+        { "text": "We'**ll get** there more quickly **if we go** by taxi." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if at the beginning or in the middle",
+      "left": {
+        "label": "if at the beginning",
+        "text": "We write a comma after the if-part.",
+        "examples": [
+          "**If** we go by bus, it will be cheaper.",
+          "**If** you don't hurry, you'll miss the train.",
+          "**If** you're hungry, have something to eat.",
+          "**If** the phone rings, can you answer it, please?"
+        ]
+      },
+      "right": {
+        "label": "if in the middle",
+        "text": "Here we do not write a comma.",
+        "examples": [
+          "It will be cheaper **if** we go by bus.",
+          "You'll miss the train **if** you don't hurry.",
+          "I'm going to the concert **if** I can get a ticket.",
+          "Is it OK **if** I use your phone?"
+        ]
+      },
+      "note": "In conversation we often use the if-part alone: *A:* Are you going to the concert? *B:* Yes, **if I can get a ticket**."
+    },
+    {
+      "type": "explain",
+      "heading": "If you see Ann tomorrow ...",
+      "text": "After **if** we use the present. We do not use **will** after if, even when we talk about the future.",
+      "examples": [
+        { "text": "**If** you **see** Ann tomorrow, can you ask her to call me?", "wrong": "if you will see" },
+        { "text": "**If** I'**m** late this evening, don't wait for me.", "wrong": "if I will be" },
+        { "text": "What shall we do **if** it **rains**?", "wrong": "if it will rain" },
+        { "text": "**If** I **don't feel** well tomorrow, I'll stay at home." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "We say / we do not say",
+      "columns": ["We say", "Not"],
+      "rows": [
+        ["If you see Ann tomorrow, ask her to call me.", "If you will see Ann"],
+        ["If I'm late this evening, don't wait for me.", "If I will be late"],
+        ["What shall we do if it rains?", "if it will rain"],
+        ["I'll be surprised if they get married.", "if they will get married"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "if and when",
+      "left": {
+        "label": "If I go out ...",
+        "text": "Maybe I will go out, but I'm not sure.",
+        "examples": [
+          "*A:* Are you going out later? *B:* Maybe. **If I go out**, I'll close the windows.",
+          "**If** I'm late this evening, don't wait for me.",
+          "We're going to play tennis **if** it doesn't rain."
+        ]
+      },
+      "right": {
+        "label": "When I go out ...",
+        "text": "I'm going out - I'm sure about it.",
+        "examples": [
+          "*A:* Are you going out later? *B:* Yes, I am. **When I go out**, I'll close the windows.",
+          "**When** I get home this evening, I'm going to have a shower.",
+          "**When** he leaves school, he wants to go to college."
+        ]
+      },
+      "note": "We say *If I'm late, don't wait for me* (not ~~When I'm late~~), because maybe I will not be late."
+    },
+    {
+      "type": "tip",
+      "text": "Never use will after if. Say *If it rains, we'll stay at home*, not ~~If it will rain~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "If there ___ a fire, the alarm will ring.",
+      "hint": "(is / will be)",
+      "answers": ["is"],
+      "explanation": "After if we use the present, not will."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Will you call me if ___ you my phone number?",
+      "options": ["I give", "I'll give", "I'm going to give"],
+      "answer": 0,
+      "explanation": "After if we use the present: if I give you my number."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each if-part with the rest of the sentence.",
+      "pairs": [
+        { "left": "If you pass the exam,", "right": "you'll get a certificate" },
+        { "left": "If you fail the exam,", "right": "you can do it again" },
+        { "left": "If you don't want this magazine,", "right": "I'll throw it away" },
+        { "left": "If you're busy now,", "right": "we can talk later" },
+        { "left": "If you need money,", "right": "I can lend you some" },
+        { "left": "If you're hungry,", "right": "we can have lunch now" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll be surprised if Martin and Jane ___ married.",
+      "hint": "(get / will get)",
+      "answers": ["get"],
+      "explanation": "Will goes in the other part of the sentence, not after if."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If I don't see you tomorrow morning, ___ you in the evening.",
+      "options": ["I'll call", "I call", "I called"],
+      "answer": 0,
+      "explanation": "The if-part uses the present and the other part uses will."
+    },
+    {
+      "type": "true_false",
+      "statement": "You'll miss the train if you don't hurry.",
+      "answer": true,
+      "explanation": "Correct. The if-part is in the middle, so there is no comma, and after if we use the present."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order.",
+      "words": ["If", "you", "don't", "hurry,", "you'll", "be", "late."],
+      "answer": "If you don't hurry, you'll be late.",
+      "explanation": "The if-part comes first, so we write a comma after it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ to the party if they invite you?",
+      "options": ["Will you go", "Do you go", "Would you go"],
+      "answer": 0,
+      "explanation": "The question is about the future, so we use will in the main part: Will you go ... if they invite you?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ Ann tomorrow, can you ask her to call me?",
+      "hint": "(see)",
+      "answers": ["see"],
+      "explanation": "The time is future, but after if we use the present: if you see Ann."
+    },
+    {
+      "type": "true_false",
+      "statement": "What shall we do if it will rain?",
+      "answer": false,
+      "explanation": "What shall we do if it rains? We do not use will after if."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence need if (maybe) or when (for sure)?",
+      "categories": ["if", "when"],
+      "items": [
+        { "text": "I'm going to do some shopping now. ... I come back, we can have lunch.", "category": 1 },
+        { "text": "I'm thinking of going to see Tim. ... I go, will you come with me?", "category": 0 },
+        { "text": "... you don't want to go out tonight, we can stay at home.", "category": 0 },
+        { "text": "Is it OK ... I close the window?", "category": 0 },
+        { "text": "John is still at school. ... he leaves school, he wants to go to college.", "category": 1 },
+        { "text": "Shall we have a picnic tomorrow ... the weather is good?", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We're going to Madrid next week. We haven't got anywhere to stay - we hope to find a hotel ___ we get there.",
+      "hint": "(if / when)",
+      "answers": ["when"],
+      "explanation": "We are going to Madrid for sure, so we use when."
+    }
+  ]
+}

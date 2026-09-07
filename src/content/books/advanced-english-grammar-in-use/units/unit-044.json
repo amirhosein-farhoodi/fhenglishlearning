@@ -1,0 +1,179 @@
+{
+  "number": 44,
+  "title": "A / an and one",
+  "subtitle": "a year / one year",
+  "summary": "Choose between a and an by sound, and know when only one will do instead of a / an.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "a or an? Listen, don't look",
+      "text": "We use **a** before nouns and noun phrases that begin with a **consonant sound** - even when the spelling starts with a vowel letter. We use **an** before words that begin with a **vowel sound**, including words with a silent *h*.",
+      "examples": [
+        { "text": "**a** university, **a** European, **a** one-parent family", "note": "these begin with the consonant sounds 'y' and 'w'" },
+        { "text": "**an** orange, **an** Italian, **an** umbrella, **an** hour, **an** honour" },
+        { "text": "**a** history (book) but **an** (or **a**) historical (novel)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Abbreviations",
+      "text": "Before abbreviations said as **individual letters**, we use *an* when the first letter is A, E, F, H, I, L, M, N, O, R, S or X - the letters whose names begin with a vowel sound. Abbreviations said as **words** follow the ordinary rule.",
+      "examples": [
+        { "text": "**an** MP, **an** FBI agent, **an** IOU, **an** AGM, **an** SOS message" },
+        { "text": "**a** NATO general, **a** FIFA official, **a** MiG fighter plane", "note": "said as words: 'nay-toe', 'fee-fa', 'mig'" },
+        { "text": "but **an** OPEC meeting" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a / an for a particular but unspecified thing",
+      "text": "We use **a / an**, not *one*, to talk about a particular but unspecified person, thing or event.",
+      "examples": [
+        { "text": "I really need **a** cup of coffee." },
+        { "text": "You never see **a** police officer in this part of town, do you?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Number and quantity expressions",
+      "text": "We also use **a / an**, not *one*, in expressions of number and quantity, and in the pattern *a ... of ...* with a possessive.",
+      "examples": [
+        { "text": "three times **a** year, half **an** hour, **a** quarter of **an** hour, **a** day or so", "note": "a day or so = about a day" },
+        { "text": "50 cents **a** litre", "note": "a = each; we can also say 50 cents for one litre" },
+        { "text": "**a** week or two", "note": "= between one and two weeks; we can also say one or two weeks" },
+        { "text": "**a** few, **a** little, **a** huge number of ..." },
+        { "text": "She's **a** colleague of mine. That's **a** friend of Gabriel's.", "wrong": "one colleague of mine" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "one or a / an?",
+      "left": {
+        "label": "Both possible",
+        "text": "Before a singular countable noun, one and a / an both refer to one thing. Using one gives a little more emphasis to the length of time, quantity or amount.",
+        "examples": [
+          "We'll be in Australia for **one** year. (or ... **a** year.)",
+          "Wait here for **one** minute, and I'll be with you. (or ... **a** minute ...)",
+          "He weighs **one** hundred and twenty kilos! Would you believe it!"
+        ]
+      },
+      "right": {
+        "label": "one only",
+        "text": "We use one, not a / an, when we want to emphasise that we are talking about only one thing or person rather than two or more.",
+        "examples": [
+          "Do you want **one** sandwich or two?",
+          "Are you staying only **one** night?",
+          "I just took **one** look at her and she started crying."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "one ... other / another, and one day",
+      "text": "We use **one**, not *a / an*, in the pattern *one ... other / another*. We also use **one** in phrases such as *one day, one evening, one spring* to mean a particular but unspecified day, evening or spring.",
+      "examples": [
+        { "text": "Close **one** eye, and then the other.", "wrong": "Close an eye" },
+        { "text": "Bees carry pollen from **one** plant to another." },
+        { "text": "Hope to see you again **one** day." },
+        { "text": "**One** evening, while he was working late at the office ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the sentence is counting - *only one, not two* - or points forward to *the other*, use *one*. If it is simply naming a rate, a portion or an unspecified example, use *a / an*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does each phrase take a or an?",
+      "categories": ["a", "an"],
+      "items": [
+        { "text": "unpaid bill", "category": 1 },
+        { "text": "DIY shop", "category": 0 },
+        { "text": "MP3 player", "category": 1 },
+        { "text": "Euro", "category": 0 },
+        { "text": "U-turn", "category": 0 },
+        { "text": "heirloom", "category": 1 },
+        { "text": "NASA space launch", "category": 0 },
+        { "text": "SOS message", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The rate of pay is really good here. You can earn over 20 pounds ___ hour.",
+      "options": ["an", "one", "a"],
+      "answer": 0,
+      "explanation": "Quantity expressions take a / an, not one - and hour begins with a vowel sound, so an."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I usually go to the gym four times ___ week.",
+      "hint": "(a / one)",
+      "answers": ["a"],
+      "explanation": "In expressions of number and frequency we use a, not one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The apples are 90 cents ___ kilo.",
+      "options": ["a", "one", "the"],
+      "answer": 0,
+      "explanation": "Here a means each, and only a / an is used in this pattern."
+    },
+    {
+      "type": "true_false",
+      "statement": "There's more than one way to solve the problem.",
+      "answer": true,
+      "explanation": "Correct. one is right here because the emphasis is on the number."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I phoned the council to complain, but just got passed on from ___ person to another.",
+      "hint": "(a / one)",
+      "answers": ["one"],
+      "explanation": "The pattern one ... other / another always takes one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A: What would Moritz like for his birthday? B: Why don't you ask Leah? She's ___ good friend of his and will have some ideas.",
+      "options": ["a", "one", "the"],
+      "answer": 0,
+      "explanation": "In the pattern a ... of ... with a possessive we use a: a good friend of his."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make one instruction.",
+      "words": ["Close", "one eye,", "and", "then", "the other."],
+      "answer": "Close one eye, and then the other.",
+      "explanation": "one ... the other - a / an is not possible in this pattern."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you want some of my chips? There are too many here for ___ person.",
+      "hint": "(a / one)",
+      "answers": ["one"],
+      "explanation": "one stresses 'only one person, not two or more'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maybe we could go skiing ___ winter.",
+      "hint": "(a / one)",
+      "answers": ["one"],
+      "explanation": "one winter / one day / one evening = a particular but unspecified one."
+    },
+    {
+      "type": "true_false",
+      "statement": "Are you staying only a night?",
+      "answer": false,
+      "explanation": "Are you staying only one night? With only, the point is that it is one night and no more, so one is needed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ large number of people had gathered in the square.",
+      "hint": "(a / one)",
+      "answers": ["a"],
+      "explanation": "Quantity phrases such as a large number of, a few and a little always take a."
+    }
+  ]
+}

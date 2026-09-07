@@ -1,0 +1,172 @@
+{
+  "number": 9,
+  "title": "I have ... and I've got ...",
+  "subtitle": "I have got / I haven't got",
+  "summary": "Say what people have with I have or I've got, and make negatives, questions and short answers.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two ways to say the same thing",
+      "text": "A woman is holding her head. She feels ill and says: *'I've got a headache.'* You can say **I have** or **I've got**, **he has** or **he's got**. The meaning is the same.",
+      "examples": [
+        { "text": "**I have** blue eyes. *or* **I've got** blue eyes." },
+        { "text": "Tim **has** two sisters. *or* Tim **has got** two sisters." },
+        { "text": "Our car **has** four doors. *or* Our car **has got** four doors." },
+        { "text": "Sarah isn't feeling well. She **has** a headache. *or* She**'s got** a headache." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "have got and has got",
+      "columns": ["Subject", "Long form", "Short form"],
+      "rows": [
+        ["I / we / you / they", "have got", "I've got, we've got, you've got, they've got"],
+        ["he / she / it", "has got", "he's got, she's got, it's got"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Negatives, questions and short answers",
+      "columns": ["Subject", "Negative", "Question", "Short answer"],
+      "rows": [
+        ["I / we / you / they", "haven't got", "Have you got ... ?", "Yes, I have. / No, I haven't."],
+        ["he / she / it", "hasn't got", "Has he got ... ?", "Yes, he has. / No, he hasn't."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "I haven't got / Have you got ... ?",
+      "text": "In the negative and in questions, **got** stays after the subject. The short answer uses only **have/has** - we do not repeat **got**.",
+      "examples": [
+        { "text": "**I've got** a motorbike, but I **haven't got** a car." },
+        { "text": "Tracey and Jeff **haven't got** any children." },
+        { "text": "It's a nice house, but it **hasn't got** a garden." },
+        { "text": "'**Have** you **got** a camera?' 'No, I **haven't**.'" },
+        { "text": "'**Has** Helen **got** a car?' 'Yes, she **has**.'" },
+        { "text": "What kind of car **has** she **got**?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two ways to make negatives and questions",
+      "left": {
+        "label": "have got",
+        "examples": [
+          "They **haven't got** any children.",
+          "It **hasn't got** a garden.",
+          "**Has** Helen **got** a car?",
+          "What **have** you **got** in your bag?"
+        ]
+      },
+      "right": {
+        "label": "do/does + have",
+        "examples": [
+          "They **don't have** any children.",
+          "It **doesn't have** a garden.",
+          "**Does** Helen **have** a car?",
+          "What **do** you **have** in your bag?"
+        ]
+      },
+      "note": "Both sides mean the same thing. Choose one and keep it inside the sentence."
+    },
+    {
+      "type": "tip",
+      "text": "Remember the short answer: *'Have you got a key?' 'No, I haven't.'* - never *No, I haven't got*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Sarah isn't feeling well. ___ a headache.",
+      "hint": "(she / have got - short form)",
+      "answers": ["She's got", "She has got"],
+      "explanation": "she + has got = she's got."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the short form of 'she has not got'?",
+      "options": ["she hasn't got", "she haven't got", "she doesn't got"],
+      "answer": 0,
+      "explanation": "has not = hasn't, so: she hasn't got."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody asks Mark, 'Have you got a car?' Mark says, 'No.' So: ___ a car.",
+      "hint": "(he / not have got)",
+      "answers": ["He hasn't got", "He has not got", "He doesn't have", "He does not have"],
+      "explanation": "Mark = he, so the negative is he hasn't got (or he doesn't have)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its short answer.",
+      "pairs": [
+        { "left": "Have you got a camera?", "right": "No, I haven't." },
+        { "left": "Has Helen got a car?", "right": "Yes, she has." },
+        { "left": "Have your parents got a computer?", "right": "Yes, they have." },
+        { "left": "Has your brother got a bike?", "right": "No, he hasn't." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody asks Mark, 'Have you got a watch?' Mark says, 'Yes.' So: ___ a watch.",
+      "hint": "(he / have got)",
+      "answers": ["He's got", "He has got", "He has"],
+      "explanation": "he + has got = he's got a watch."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's a nice house, but it hasn't got a garden.",
+      "answer": true,
+      "explanation": "Correct. it takes hasn't got."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Write this sentence with got: 'They don't have much money.' -> ___ much money.",
+      "hint": "(they / not have got)",
+      "answers": ["They haven't got", "They have not got"],
+      "explanation": "don't have = haven't got."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Write this question with got: 'Do you have an umbrella?' -> ___ an umbrella?",
+      "hint": "(you / have got)",
+      "answers": ["Have you got"],
+      "explanation": "Do you have ... ? = Have you got ... ?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the subject take have got or has got?",
+      "categories": ["have got", "has got"],
+      "items": [
+        { "text": "I", "category": 0 },
+        { "text": "an insect", "category": 1 },
+        { "text": "most cars", "category": 0 },
+        { "text": "Tom", "category": 1 },
+        { "text": "we", "category": 0 },
+        { "text": "my sister", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Charles isn't happy. ___ a lot of problems.",
+      "hint": "(he / have got)",
+      "answers": ["He's got", "He has got", "He has"],
+      "explanation": "he's got = he has got a lot of problems."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Write this question with got: 'How much money do we have?' Put the words in the right order.",
+      "words": ["How much money", "have", "we", "got?"],
+      "answer": "How much money have we got?",
+      "explanation": "In questions, got comes after the subject: have we got?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We must hurry. ___ much time.",
+      "hint": "(we / not have got)",
+      "answers": ["We haven't got", "We have not got", "We don't have", "We do not have"],
+      "explanation": "we + haven't got much time."
+    }
+  ]
+}

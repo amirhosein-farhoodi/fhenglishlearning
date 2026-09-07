@@ -1,0 +1,166 @@
+{
+  "number": 78,
+  "title": "not + anybody/anyone/anything nobody/no-one/nothing",
+  "subtitle": "not anybody = nobody",
+  "summary": "Say a negative in two ways: a negative verb with anybody/anything, or a positive verb with nobody/nothing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "For people and for things",
+      "left": {
+        "label": "people: anybody / anyone, nobody / no-one",
+        "text": "A living room with a table, chairs and an armchair. There are no people there.",
+        "examples": [
+          "There **isn't anybody** (or **anyone**) in the room.",
+          "There **is nobody** (or **no-one**) in the room.",
+          "*A:* Who is in the room? *B:* **Nobody**. / **No-one**."
+        ]
+      },
+      "right": {
+        "label": "things: anything, nothing",
+        "text": "A man holds a bag upside down over a table and shakes it. Not one thing falls out.",
+        "examples": [
+          "There **isn't anything** in the bag.",
+          "There **is nothing** in the bag.",
+          "*A:* What's in the bag? *B:* **Nothing**."
+        ]
+      },
+      "note": "*-body* and *-one* are the same: anybody = anyone, nobody = no-one."
+    },
+    {
+      "type": "explain",
+      "heading": "nobody = not + anybody",
+      "text": "**nobody** = not + anybody. **no-one** = not + anyone. **nothing** = not + anything. So there are always two ways to say the same thing.",
+      "examples": [
+        { "text": "I **don't** know **anybody** (or **anyone**) here." },
+        { "text": "I'm lonely. I've got **nobody** to talk to.", "note": "= I haven't got anybody" },
+        { "text": "The house is empty. There is **no-one** in it.", "note": "= There isn't anyone in it." },
+        { "text": "I **can't** remember **anything**." },
+        { "text": "She said **nothing**.", "note": "= She didn't say anything." },
+        { "text": "There's **nothing** to eat.", "note": "= There isn't anything to eat." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "At the beginning, or alone",
+      "text": "You can use **nobody**, **no-one** and **nothing** at the beginning of a sentence, or alone to answer a question. You cannot start a sentence with *anybody* or *anything* in this way.",
+      "examples": [
+        { "text": "The house is empty. **Nobody** lives there.", "wrong": "Anybody lives there" },
+        { "text": "*A:* Who did you speak to? *B:* **No-one**." },
+        { "text": "**Nothing** happened.", "wrong": "Anything happened" },
+        { "text": "*A:* What did you say? *B:* **Nothing**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Two ways to say it",
+      "columns": ["negative verb + any-", "positive verb + no-"],
+      "rows": [
+        ["She **didn't** say **anything**.", "She said **nothing**."],
+        ["There **isn't anything** to eat.", "There's **nothing** to eat."],
+        ["I **haven't** got **anybody** to talk to.", "I've got **nobody** to talk to."],
+        ["There **isn't anyone** in it.", "There is **no-one** in it."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use one negative only: *He doesn't know anything.* or *He knows nothing.*, not ~~He doesn't know nothing~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "That house is empty. ___ lives there.",
+      "hint": "(nobody / anybody)",
+      "answers": ["Nobody", "No-one", "No one"],
+      "explanation": "The verb lives is positive, so we use Nobody (or No-one)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Be quiet! Don't say ___.",
+      "hint": "(nothing / anything)",
+      "answers": ["anything"],
+      "explanation": "Don't is negative, so we use anything."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the same sentence written with nobody or nothing.",
+      "pairs": [
+        { "left": "There isn't anything in the bag.", "right": "There's nothing in the bag." },
+        { "left": "There isn't anybody in the office.", "right": "There's nobody in the office." },
+        { "left": "I haven't got anything to do.", "right": "I've got nothing to do." },
+        { "left": "There wasn't anyone at home.", "right": "There was no-one at home." },
+        { "left": "We didn't find anything.", "right": "We found nothing." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Who did you speak to? *B:* ___",
+      "options": ["No-one.", "Nothing.", "Not anyone."],
+      "answer": 0,
+      "explanation": "Who ... ? is about people, so the short answer is No-one (or Nobody)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What did you have to eat? *B:* ___. I wasn't hungry.",
+      "hint": "(nothing / anything)",
+      "answers": ["Nothing"],
+      "explanation": "We can use Nothing alone to answer a question."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each gap need anything or nothing?",
+      "categories": ["anything", "nothing"],
+      "items": [
+        { "text": "I can't remember ___.", "category": 0 },
+        { "text": "She said ___.", "category": 1 },
+        { "text": "There's ___ to eat.", "category": 1 },
+        { "text": "The museum is free. It doesn't cost ___ to go in.", "category": 0 },
+        { "text": "___ happened.", "category": 1 },
+        { "text": "I don't know ___ about car engines.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't know about the meeting. ___ told me.",
+      "hint": "(nobody / anybody)",
+      "answers": ["Nobody", "No-one", "No one"],
+      "explanation": "told is positive, so we use Nobody (or No-one) at the beginning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Helen was sitting alone. She wasn't with ___.",
+      "hint": "(anybody / nobody)",
+      "answers": ["anybody", "anyone"],
+      "explanation": "wasn't is negative, so we use anybody (or anyone)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Anything happened.",
+      "answer": false,
+      "explanation": "We cannot start a sentence like this with anything: Nothing happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I heard a knock on the door, but when I opened it, there was ___ there.",
+      "hint": "(nobody / anybody)",
+      "answers": ["nobody", "no-one", "no one"],
+      "explanation": "there was is positive, so we use nobody (or no-one)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm afraid I can't help you. There's ___ I can do.",
+      "options": ["nothing", "anything", "not anything"],
+      "answer": 0,
+      "explanation": "There's is positive, so we use nothing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The fridge is empty. Put the sentence in order.",
+      "words": ["We", "haven't", "got", "anything", "for", "dinner."],
+      "answer": "We haven't got anything for dinner.",
+      "explanation": "haven't is negative, so we use anything."
+    }
+  ]
+}

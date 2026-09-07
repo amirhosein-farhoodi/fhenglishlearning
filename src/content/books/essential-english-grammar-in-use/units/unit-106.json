@@ -1,0 +1,177 @@
+{
+  "number": 106,
+  "title": "in at on (places 1)",
+  "subtitle": "in the kitchen / at the door / on the wall",
+  "summary": "Use in for a space or an area, at for a point where something happens, and on for a surface.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "in",
+      "text": "We use **in** when something is inside a space: a room, a shop, a car, the water. We also use **in** for gardens, towns, countries and parts of a country.",
+      "examples": [
+        { "text": "'Where's David?' '**In the kitchen**. / **In the garden**. / **In London**.'" },
+        { "text": "What's **in that box** / **in that bag** / **in that cupboard**?" },
+        { "text": "Rachel works **in a shop** / **in a bank** / **in a factory**." },
+        { "text": "I went for a swim **in the river** / **in the pool** / **in the sea**." },
+        { "text": "Milan is **in the north** of Italy. Naples is **in the south**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "in",
+      "columns": ["in + a space", "in + an area"],
+      "rows": [
+        ["in a room", "in a garden"],
+        ["in a shop", "in a town"],
+        ["in a car", "in the city centre"],
+        ["in the water", "in Brazil"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "at",
+      "text": "We use **at** for a point: a place where you wait, stop or work. Somebody waits **at the bus stop** or knocks **at the door**, a car stops **at the traffic lights**, and Jane works **at her desk**.",
+      "examples": [
+        { "text": "There's somebody **at the bus stop** / **at the door**." },
+        { "text": "The car is waiting **at the traffic lights**." },
+        { "text": "Jane is working **at her desk**." },
+        { "text": "Write your name **at the top of the page**." },
+        { "text": "My house is **at the end of the street**." }
+      ],
+      "note": "We say **at the top** / **at the bottom** / **at the end** (of ...)."
+    },
+    {
+      "type": "explain",
+      "heading": "on",
+      "text": "We use **on** for a surface: a shelf, a plate, a balcony, the floor, a wall, a door, the ceiling. We also say **on a horse**, **on a bicycle**, **on a motorbike**.",
+      "examples": [
+        { "text": "There are some books **on the shelf** and some pictures **on the wall**." },
+        { "text": "There are a lot of apples **on those trees**." },
+        { "text": "Don't sit **on the grass**. It's wet." },
+        { "text": "There is a stamp **on the envelope**." },
+        { "text": "Who is that man **on the motorbike**?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in the box or on the box?",
+      "left": {
+        "label": "in the box",
+        "text": "Inside the box.",
+        "examples": [
+          "Somebody opens a shoe box. The shoes are **in the box**.",
+          "What have you got **in your bag**?"
+        ]
+      },
+      "right": {
+        "label": "on the box",
+        "text": "On top of the box.",
+        "examples": [
+          "The box is closed and a pen lies on top. The pen is **on the box**.",
+          "There's a man **on the roof**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "**at the table** means sitting at a table to eat or work, but **on the table** means on top of it: *Your keys are on the table*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody opens a shoe box. The shoes are inside it. Where are the shoes? ___ the box.",
+      "hint": "(in / at / on)",
+      "answers": ["In"],
+      "explanation": "in = inside something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A box is closed and a pen is lying on top of it. Where is the pen? ___ the box.",
+      "hint": "(in / at / on)",
+      "answers": ["On"],
+      "explanation": "on = on the surface of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A round clock hangs high up in the room, next to a door. Where is the clock? ___ the wall.",
+      "hint": "(in / at / on)",
+      "answers": ["On"],
+      "explanation": "A wall is a surface, so we say on the wall."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each place: in, at or on?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "the kitchen", "category": 0 },
+        { "text": "the pool", "category": 0 },
+        { "text": "the bus stop", "category": 1 },
+        { "text": "the traffic lights", "category": 1 },
+        { "text": "the ceiling", "category": 2 },
+        { "text": "a bicycle", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A woman is swimming up and down between the blue lines. Where is she swimming? ___ the pool.",
+      "hint": "(in / at / on)",
+      "answers": ["In"],
+      "explanation": "She is in the water, so we say in the pool."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What have you got ___ your bag?",
+      "hint": "(in / at / on)",
+      "answers": ["in"],
+      "explanation": "Things inside a bag are in it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Is the post office near here?' 'Yes, turn left ___ the traffic lights.'",
+      "hint": "(in / at / on)",
+      "answers": ["at"],
+      "explanation": "The traffic lights are a point on the road, so we use at."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Look! There's a man ___ the roof. What's he doing?",
+      "options": ["on", "in", "at"],
+      "answer": 0,
+      "explanation": "A roof is a surface, so we say on the roof."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Munich is a large city ___ the south of Germany.",
+      "options": ["in", "at", "on"],
+      "answer": 0,
+      "explanation": "We say in the north / in the south of a country."
+    },
+    {
+      "type": "true_false",
+      "statement": "I looked at the list of names. My name was in the bottom.",
+      "answer": false,
+      "explanation": "My name was at the bottom. We say at the top, at the bottom and at the end."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the right ending.",
+      "pairs": [
+        { "left": "There are a few shops", "right": "at the end of the street" },
+        { "left": "There's a small park", "right": "at the top of the hill" },
+        { "left": "There is a stamp", "right": "on the envelope" },
+        { "left": "My sister lives", "right": "in Brussels" },
+        { "left": "There are a lot of fish", "right": "in this river" },
+        { "left": "I heard the doorbell. There's somebody", "right": "at the door" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "A mirror hangs in the living room. Put the sentence in order.",
+      "words": ["There", "is", "a mirror", "on", "the wall", "in", "the living room."],
+      "answer": "There is a mirror on the wall in the living room.",
+      "explanation": "on the wall (a surface) and in the living room (a space)."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "number": 12,
+  "title": "I didn't ... Did you ... ? (past simple negative and questions)",
+  "subtitle": "I didn't go / Did you go?",
+  "summary": "Make past simple negatives with didn't and past simple questions with did, always followed by the simple verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "did in negatives and questions",
+      "text": "In the past simple we use **did** to make negatives and questions. The main verb goes back to its simple form: **play**, **watch**, **have**, **go**.",
+      "examples": [
+        { "text": "I **played** tennis yesterday, but I **didn't win**." },
+        { "text": "'**Did** you **do** the shopping?' 'No, I **didn't have** time.'" },
+        { "text": "We **went** to the cinema, but we **didn't enjoy** the film." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The forms",
+      "columns": ["Verb", "Positive", "Negative", "Question"],
+      "rows": [
+        ["play", "I played", "I didn't play", "Did I play?"],
+        ["watch", "we watched", "we didn't watch", "Did we watch?"],
+        ["have", "he had", "he didn't have", "Did he have?"],
+        ["see", "she saw", "she didn't see", "Did she see?"],
+        ["go", "they went", "they didn't go", "Did they go?"],
+        ["do", "you did", "you didn't do", "Did you do?"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "do/does -> did",
+      "left": {
+        "label": "Present: do / does",
+        "examples": ["I **don't** watch television very often.", "**Does** she often go away?"]
+      },
+      "right": {
+        "label": "Past: did",
+        "examples": ["I **didn't** watch television yesterday.", "**Did** she go away last week?"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "did/didn't + simple verb",
+      "text": "After **did** and **didn't** the verb never has a past form and never has -ed. Compare: I **watched** -> I **didn't watch**; they **went** -> **did** they **go**?; he **had** -> he **didn't have**.",
+      "examples": [
+        { "text": "I **didn't watch** the film.", "wrong": "I didn't watched" },
+        { "text": "**Did** they **go** home?", "wrong": "Did they went" },
+        { "text": "He **didn't have** any paper." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word order in questions",
+      "columns": ["Question word", "did", "Subject", "Verb", "Rest"],
+      "rows": [
+        ["-", "Did", "your sister", "phone", "you?"],
+        ["What", "did", "you", "do", "last night?"],
+        ["How", "did", "the accident", "happen", "-"],
+        ["Where", "did", "your parents", "go", "for their holiday?"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Short answers",
+      "columns": ["Yes", "No"],
+      "rows": [
+        ["Yes, I / we / you / they did.", "No, I / we / you / they didn't."],
+        ["Yes, he / she / it did.", "No, he / she / it didn't."]
+      ],
+      "note": "'Did it rain on Sunday?' 'Yes, it did.' - 'Did Helen come to the party?' 'No, she didn't.'"
+    },
+    {
+      "type": "tip",
+      "text": "One past form is enough: it sits on **did/didn't**, so the main verb stays simple - *I didn't go*, *Did you go?*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I saw Barbara, but I ___ Jane.",
+      "hint": "(not / see)",
+      "answers": ["didn't see", "did not see"],
+      "explanation": "After didn't the verb is simple: didn't see (not didn't saw)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They worked on Monday, but they ___ on Tuesday.",
+      "hint": "(not / work)",
+      "answers": ["didn't work", "did not work"],
+      "explanation": "Past simple negative: didn't + work."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You say: 'I enjoyed the party. How about you?' How do you ask the question?",
+      "options": ["Did you enjoy the party?", "Did you enjoyed the party?", "Do you enjoy the party?"],
+      "answer": 0,
+      "explanation": "did + subject + simple verb: Did you enjoy ... ?"
+    },
+    {
+      "type": "matching",
+      "prompt": "A tells B some news. Match A's sentence with B's question.",
+      "pairs": [
+        { "left": "We went to New York last month.", "right": "Where did you stay?" },
+        { "left": "I played tennis this afternoon.", "right": "Did you win?" },
+        { "left": "We came home by taxi.", "right": "How much did it cost?" },
+        { "left": "The window is broken.", "right": "How did it happen?" },
+        { "left": "I'm tired this morning.", "right": "Did you go to bed late?" },
+        { "left": "We went to the beach yesterday.", "right": "Did you have a nice time?" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You say: 'I had a good holiday. How about you?' Put the words in the right order.",
+      "words": ["Did", "you", "have", "a good holiday?"],
+      "answer": "Did you have a good holiday?",
+      "explanation": "Did + you + have (not had)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Did you sleep well last night?",
+      "answer": true,
+      "explanation": "Correct. did + subject + the simple verb sleep."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She had a pen, but she ___ any paper.",
+      "hint": "(not / have)",
+      "answers": ["didn't have", "did not have"],
+      "explanation": "had becomes didn't have in the negative."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need the past simple form of the verb, or didn't + the simple verb?",
+      "categories": ["Past simple form", "didn't + simple verb"],
+      "items": [
+        { "text": "Tim ___ some new clothes yesterday. (buy)", "category": 0 },
+        { "text": "We were tired, so we ___ long at the party. (not stay)", "category": 1 },
+        { "text": "It was very warm in the room, so I ___ a window. (open)", "category": 0 },
+        { "text": "'Did you phone Chris?' 'No, I ___ time.' (not have)", "category": 1 },
+        { "text": "Jack ___ French at school. (do)", "category": 0 },
+        { "text": "Jack ___ German at school. (not do)", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "We went to the cinema, but we didn't enjoyed the film.",
+      "answer": false,
+      "explanation": "We didn't enjoy the film. After didn't the verb has no -ed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ yesterday? *B:* No, it was a nice day.",
+      "hint": "(it / rain)",
+      "answers": ["Did it rain"],
+      "explanation": "Did + it + rain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I was late for the meeting. *B:* What time ___ ? *A:* Half past nine.",
+      "hint": "(you / arrive)",
+      "answers": ["did you arrive"],
+      "explanation": "Question word + did + subject + simple verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Why weren't you at the meeting yesterday? *B:* I ___ about it.",
+      "hint": "(not / know)",
+      "answers": ["didn't know", "did not know"],
+      "explanation": "knew becomes didn't know in the negative."
+    }
+  ]
+}

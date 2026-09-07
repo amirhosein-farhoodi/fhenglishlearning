@@ -1,0 +1,186 @@
+{
+  "number": 47,
+  "title": "What ... ? Which ... ? How ... ? (questions 4)",
+  "subtitle": "What colour ... ? Which one ... ? How old ... ?",
+  "summary": "Choose between what, which, who and how, and build questions like What time ... ?, Which bus ... ? and How far ... ?",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What + noun",
+      "text": "We often put a noun after **what**: **what colour**, **what size**, **what time**, **what kind of**. This asks about one part of a thing.",
+      "examples": [
+        { "text": "**What colour** is your car? / **What colour** are your eyes?" },
+        { "text": "**What size** is this shirt? / **What make** is your TV set?" },
+        { "text": "**What time** is it? / **What day** is it today?" },
+        { "text": "**What kind of** job do you want?", "note": "also what type of ... ? / what sort of ... ?" }
+      ],
+      "note": "**What** can also stand alone: *What's your favourite colour?* / *What do you want to do tonight?*"
+    },
+    {
+      "type": "explain",
+      "heading": "Which + noun",
+      "text": "Use **which** with a noun for things and for people. Without a noun, use **which** for things and **who** for people.",
+      "examples": [
+        { "text": "**Which train** did you catch - the 9.50 or the 10.30?" },
+        { "text": "**Which doctor** did you see - Doctor Ellis, Doctor Gray or Doctor Hill?" },
+        { "text": "**Which** is bigger - Canada or Australia?" },
+        { "text": "**Who** is taller - Joe or Gary?", "wrong": "Which is taller - Joe or Gary?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "what or which?",
+      "left": {
+        "label": "which = a small number of things",
+        "text": "You can see or name the choices - perhaps two, three or four.",
+        "examples": [
+          "We can go this way or that way. **Which way** shall we go?",
+          "There are four umbrellas here. **Which** is yours?"
+        ]
+      },
+      "right": {
+        "label": "what = more general",
+        "text": "The choice is very big or open.",
+        "examples": [
+          "**What's** the capital of Argentina?",
+          "**What sort** of music do you like?"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Compare",
+      "columns": ["what (general)", "which (from these)"],
+      "rows": [
+        ["**What colour** are his eyes?", "**Which colour** do you prefer, pink or yellow?"],
+        ["**What** is the longest river in the world?", "**Which** is the longest river - the Mississippi, the Amazon or the Nile?"]
+      ],
+      "note": "Say *What colour are his eyes?*, not ~~Which colour are his eyes?~~"
+    },
+    {
+      "type": "explain",
+      "heading": "How ... ?",
+      "text": "**How** asks about the way something is or the way we do something.",
+      "examples": [
+        { "text": "*A:* **How** was the party last night? *B:* It was great." },
+        { "text": "*A:* **How** do you usually go to work? *B:* By bus." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "how + adjective or adverb",
+      "columns": ["Question", "Answer"],
+      "rows": [
+        ["**How tall** are you?", "I'm 1 metre 70."],
+        ["**How big** is the house?", "Not very big."],
+        ["**How old** is your mother?", "She's 45."],
+        ["**How far** is it from here to the airport?", "Five kilometres."],
+        ["**How often** do you use your car?", "Every day."],
+        ["**How long** have they been married?", "Ten years."],
+        ["**How much** was the meal?", "Thirty pounds."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "For a size, an age or a distance, use *how* + adjective: *How old ... ?*, *How far ... ?* - never ~~What old ... ?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've got a new sweater. *B:* ___ is it?",
+      "hint": "(colour?)",
+      "answers": ["What colour"],
+      "explanation": "We ask about the colour with what + noun: What colour is it?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I got up early this morning. *B:* What time ___ up?",
+      "hint": "(you / get)",
+      "answers": ["did you get"],
+      "explanation": "Past simple question: What time did you get up?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "You can have tea or coffee. ___ do you prefer?",
+      "options": ["Which", "What", "Who"],
+      "answer": 0,
+      "explanation": "There are only two things to choose from, so we use which."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "How high is Mount Everest?", "right": "Nearly 9000 metres." },
+        { "left": "How far is it to the station?", "right": "About two kilometres from here." },
+        { "left": "How old is Helen?", "right": "She's 26." },
+        { "left": "How often do the buses run?", "right": "Every ten minutes." },
+        { "left": "How deep is the water in the pool?", "right": "Two metres." },
+        { "left": "How long have you lived here?", "right": "Nearly three years." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is older, Liz or Steve?",
+      "hint": "(what / which / who)",
+      "answers": ["Who"],
+      "explanation": "Liz and Steve are people and there is no noun after the question word, so we use who."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the question begin with what or which?",
+      "categories": ["what", "which"],
+      "items": [
+        { "text": "... is that man's name?", "category": 0 },
+        { "text": "... day is it today?", "category": 0 },
+        { "text": "... nationality are you?", "category": 0 },
+        { "text": "... way shall we go? Left or right?", "category": 1 },
+        { "text": "... is more expensive, meat or fish?", "category": 1 },
+        { "text": "This is a nice office. ... desk is yours?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend says: I want a job. Ask about the kind of job.",
+      "words": ["What kind", "of job", "do", "you", "want?"],
+      "answer": "What kind of job do you want?",
+      "explanation": "what kind of + noun, then the present simple question do you want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Three buses are waiting at the bus stop. You want the city centre. ___ bus goes to the centre?",
+      "hint": "(what / which)",
+      "answers": ["Which"],
+      "explanation": "You can see the buses, so it is a small number of choices: which bus."
+    },
+    {
+      "type": "true_false",
+      "statement": "What tall are you?",
+      "answer": false,
+      "explanation": "How tall are you? We use how + adjective for height."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Do you watch TV every day? Once a week? Never? Make the question.",
+      "words": ["How often", "do", "you", "watch", "TV?"],
+      "answer": "How often do you watch TV?",
+      "explanation": "how often asks about the number of times."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is this box one kilogram? Two? Three? -> How ___ is this box?",
+      "hint": "(heavy / long / far)",
+      "answers": ["heavy"],
+      "explanation": "Kilograms are weight, so we ask How heavy is this box?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend says: I like music. Ask about the type.",
+      "words": ["What type", "of music", "do", "you", "like?"],
+      "answer": "What type of music do you like?",
+      "alternatives": ["What kind of music do you like?", "What sort of music do you like?"],
+      "explanation": "There are very many kinds of music, so we use what, not which."
+    }
+  ]
+}
