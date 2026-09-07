@@ -7,7 +7,11 @@ export default function Header() {
   return (
     <header className="header">
       <div className="container header-inner">
-        <Link to="/" className="brand" aria-label="FH Language Learning - home">
+        <Link
+          to="/"
+          className="brand "
+          aria-label="FH Language Learning - home"
+        >
           {/* decorative: the link already carries the name for screen readers */}
           <img
             className="brand-mark"

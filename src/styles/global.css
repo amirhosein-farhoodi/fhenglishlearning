@@ -2,8 +2,9 @@
    FH Language Learning - global styles
    ------------------------------------------------------------------ */
 :root {
-  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
-  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body:
+    "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
   --bg: #f7f4ee;
   --bg-2: #efeae1;
@@ -27,7 +28,8 @@
   --gold: #f5b301;
   --gold-soft: #fff2c6;
 
-  --shadow-sm: 0 1px 2px rgba(28, 26, 46, 0.05), 0 2px 8px rgba(28, 26, 46, 0.05);
+  --shadow-sm:
+    0 1px 2px rgba(28, 26, 46, 0.05), 0 2px 8px rgba(28, 26, 46, 0.05);
   --shadow: 0 6px 20px rgba(28, 26, 46, 0.08), 0 2px 6px rgba(28, 26, 46, 0.05);
   --shadow-lg: 0 20px 50px rgba(28, 26, 46, 0.14);
 
@@ -78,8 +80,16 @@ body {
   color: var(--ink);
   background: var(--bg);
   background-image:
-    radial-gradient(1200px 600px at 10% -10%, rgba(255, 107, 74, 0.08), transparent 60%),
-    radial-gradient(900px 500px at 100% 0%, rgba(91, 108, 255, 0.09), transparent 60%);
+    radial-gradient(
+      1200px 600px at 10% -10%,
+      rgba(255, 107, 74, 0.08),
+      transparent 60%
+    ),
+    radial-gradient(
+      900px 500px at 100% 0%,
+      rgba(91, 108, 255, 0.09),
+      transparent 60%
+    );
   background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
 }
@@ -189,6 +199,8 @@ input {
   height: 38px;
   flex-shrink: 0;
   object-fit: contain;
+  background-color: var(--accent);
+  border-radius: 10px;
 }
 
 .brand small {
@@ -619,8 +631,16 @@ input {
   padding: 26px 22px;
   overflow: hidden;
   background:
-    radial-gradient(160px 120px at 78% 18%, rgba(255, 255, 255, 0.26), transparent 70%),
-    linear-gradient(135deg, color-mix(in srgb, var(--book) 82%, #000), color-mix(in srgb, var(--book) 42%, #ffffff));
+    radial-gradient(
+      160px 120px at 78% 18%,
+      rgba(255, 255, 255, 0.26),
+      transparent 70%
+    ),
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--book) 82%, #000),
+      color-mix(in srgb, var(--book) 42%, #ffffff)
+    );
   position: relative;
 }
 
@@ -886,7 +906,8 @@ input {
 .donate-address code {
   flex: 1;
   min-width: 0;
-  font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
+  font-family:
+    ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, monospace;
   font-size: 0.84rem;
   color: var(--ink-2);
   overflow: hidden;
@@ -978,11 +999,15 @@ input {
 }
 
 .course-head::before {
-  content: '';
+  content: "";
   position: absolute;
   inset: 0 auto 0 0;
   width: 8px;
-  background: linear-gradient(180deg, var(--book), color-mix(in srgb, var(--book) 50%, #fff));
+  background: linear-gradient(
+    180deg,
+    var(--book),
+    color-mix(in srgb, var(--book) 50%, #fff)
+  );
 }
 
 .course-head h1 {
@@ -1006,7 +1031,7 @@ input {
 }
 
 .ring::before {
-  content: '';
+  content: "";
   position: absolute;
   inset: 8px;
   border-radius: 50%;
@@ -1293,7 +1318,7 @@ input {
 }
 
 .example::before {
-  content: '';
+  content: "";
   position: absolute;
   left: 13px;
   top: 19px;
@@ -1411,7 +1436,11 @@ input {
   display: flex;
   gap: 12px;
   align-items: flex-start;
-  background: linear-gradient(135deg, var(--gold-soft), color-mix(in srgb, var(--gold-soft) 60%, var(--surface)));
+  background: linear-gradient(
+    135deg,
+    var(--gold-soft),
+    color-mix(in srgb, var(--gold-soft) 60%, var(--surface))
+  );
   border-color: transparent;
 }
 
@@ -1772,7 +1801,7 @@ input {
 }
 
 .match-item::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 50%;
   width: 10px;
