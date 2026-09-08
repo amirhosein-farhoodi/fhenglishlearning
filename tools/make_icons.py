@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """
-make_icons.py - build the favicon and header-logo assets from the master logo.
+make_icons.py - build the header-logo asset from the master logo.
 
 `public/logo-transparent.png` is the master artwork (about 1250x1250, ~770 KB). That is the right
-thing to keep in the repo, but shipping it for a 32px browser tab or a 38px header mark would send
-three quarters of a megabyte to render a thumbnail - more than the whole JS bundle. This writes
-small, alpha-preserving derivatives instead, so the master stays the single source of truth.
+thing to keep in the repo, but shipping it for a 38px header mark would send three quarters of a
+megabyte to render a thumbnail - more than the whole JS bundle. This writes a small,
+alpha-preserving derivative instead, so the master stays the single source of truth.
+
+The favicon is not built here: index.html points straight at `public/icon.png`.
 
 Requirements: Pillow (`pip install pillow`).
 
@@ -14,9 +16,6 @@ Usage:
   python tools/make_icons.py --source public/logo-transparent.png
 
 Output (public/):
-  favicon-32.png          browser tab
-  favicon-192.png         Android / PWA
-  apple-touch-icon.png    iOS home screen (180px)
   logo-mark.png           the header mark (96px, sharp at 38px on a 2x screen)
 
 Re-run this after changing the master, then check index.html still lists the same filenames.
@@ -32,9 +31,6 @@ except ImportError:
 
 # filename -> pixel size
 TARGETS = {
-    'favicon-32.png': 32,
-    'favicon-192.png': 192,
-    'apple-touch-icon.png': 180,
     'logo-mark.png': 96,
 }
 
@@ -54,7 +50,7 @@ def main():
     print(f'{a.source}: {src.width}x{src.height}')
 
     # Trim the transparent margin, then re-centre on a square canvas. Without this the mark keeps
-    # whatever padding the export happened to have and looks small at favicon sizes.
+    # whatever padding the export happened to have and looks small at small sizes.
     bbox = src.getbbox()
     art = src.crop(bbox) if bbox else src
     side = int(max(art.size) * a.margin)
