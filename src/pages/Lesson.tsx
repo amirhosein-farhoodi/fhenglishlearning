@@ -124,7 +124,7 @@ export default function Lesson() {
           </span>
           <button
             type="button"
-            className={`btn ${allShown ? 'btn-success' : 'btn-secondary'}`}
+            className={`btn ${allShown ? 'btn-dark' : 'btn-secondary'}`}
             onClick={() => nav(`/learn/${book.slug}/${unit.number}/quiz`)}
           >
             {allShown ? 'Start the quiz 🎯' : 'Skip to quiz'}

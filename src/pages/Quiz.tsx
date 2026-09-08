@@ -79,7 +79,8 @@ export default function Quiz() {
     setPhase('result')
     if (out.passed) {
       sfx.win()
-      confetti({ particleCount: 140, spread: 80, origin: { y: 0.6 }, colors: ['#ff6b4a', '#5b6cff', '#f5b301', '#1c9c6b'] })
+      // Aubergine, Lavender Haze, Ember and Ink - the design-system palette.
+      confetti({ particleCount: 140, spread: 80, origin: { y: 0.6 }, colors: ['#6d28d2', '#c0c4fc', '#c4710d', '#2a2b3f'] })
       if (out.stars === 3) setTimeout(() => confetti({ particleCount: 80, spread: 120, origin: { y: 0.4 } }), 400)
     } else {
       sfx.fail()
@@ -140,7 +141,7 @@ export default function Quiz() {
                   <div className="label">score {outcome.newBest && '· new best'}</div>
                 </div>
                 <div className="stat">
-                  <div className="value" style={{ color: 'var(--indigo)' }}>
+                  <div className="value" style={{ color: 'var(--accent)' }}>
                     +{outcome.xpGained}
                   </div>
                   <div className="label">XP earned</div>
@@ -183,7 +184,7 @@ export default function Quiz() {
               </p>
               <div className="score-grid" style={{ maxWidth: 360 }}>
                 <div className="stat" style={{ gridColumn: '1 / -1' }}>
-                  <div className="value" style={{ color: 'var(--indigo)' }}>
+                  <div className="value" style={{ color: 'var(--accent)' }}>
                     +{outcome.xpGained} XP
                   </div>
                   <div className="label">earned for {results.filter(Boolean).length} correct answers</div>
@@ -238,7 +239,7 @@ export default function Quiz() {
           <button type="button" className="btn-icon" aria-label="Quit quiz" onClick={() => nav(`/learn/${book.slug}`)}>
             ✕
           </button>
-          <div className="progress indigo" aria-label={`Question ${index + 1} of ${exercises.length}`}>
+          <div className="progress" aria-label={`Question ${index + 1} of ${exercises.length}`}>
             <span style={{ width: `${progress}%` }} />
           </div>
           <span className="quiz-counter">
@@ -280,7 +281,9 @@ export default function Quiz() {
                 {explanationOf(current) && <div>{renderInline(explanationOf(current)!)}</div>}
               </div>
             </div>
-            <button type="button" className={`btn ${answered ? 'btn-success' : 'btn-primary'} btn-lg`} onClick={next}>
+            {/* The sheet is already tinted by the answer state, so the outlined
+                violet would lose contrast here - use the Solid Dark action. */}
+            <button type="button" className="btn btn-dark btn-lg" onClick={next}>
               {index + 1 < exercises.length ? 'Continue' : 'See results'}
               <span className="kbd-hint" aria-hidden="true">
                 ⏎

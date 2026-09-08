@@ -6,6 +6,8 @@ const KEY = 'fhlanguagelearning:v1'
 
 export type UnitStatus = 'not_started' | 'in_progress' | 'passed' | 'failed'
 
+export type Theme = 'light' | 'dark'
+
 export interface UnitProgress {
   status: UnitStatus
   lessonSeen: boolean
@@ -27,7 +29,7 @@ export interface Progress {
   xp: number
   streak: { count: number; lastDay: string | null }
   books: Record<string, BookProgress>
-  settings: { sound: boolean }
+  settings: { sound: boolean; theme: Theme }
 }
 
 const empty = (): Progress => ({
@@ -35,7 +37,7 @@ const empty = (): Progress => ({
   xp: 0,
   streak: { count: 0, lastDay: null },
   books: {},
-  settings: { sound: true },
+  settings: { sound: true, theme: 'light' },
 })
 
 function read(): Progress {
@@ -49,11 +51,27 @@ function read(): Progress {
   }
 }
 
+/**
+ * Light is the product default, so the OS `prefers-color-scheme` is never
+ * consulted - only a stored choice. index.html stamps the same attribute
+ * before first paint, so there is no flash of the wrong theme on load.
+ */
+export function applyTheme(theme: Theme) {
+  const root = document.documentElement
+  if (theme === 'dark') root.dataset.theme = 'dark'
+  else delete root.dataset.theme
+  document
+    .querySelector('meta[name="theme-color"]')
+    ?.setAttribute('content', theme === 'dark' ? '#202230' : '#ffffff')
+}
+
 let state: Progress = read()
+applyTheme(state.settings.theme)
 const listeners = new Set<() => void>()
 
 function write(next: Progress) {
   state = next
+  applyTheme(next.settings.theme)
   try {
     localStorage.setItem(KEY, JSON.stringify(next))
   } catch {
@@ -169,6 +187,10 @@ export function recordQuiz(slug: string, unit: number, correct: number, total: n
 
 export function setSound(sound: boolean) {
   progressStore.set((p) => ({ ...p, settings: { ...p.settings, sound } }))
+}
+
+export function setTheme(theme: Theme) {
+  progressStore.set((p) => ({ ...p, settings: { ...p.settings, theme } }))
 }
 
 export function resetAll() {

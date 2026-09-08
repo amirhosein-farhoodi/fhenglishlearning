@@ -18,8 +18,11 @@ function ScrollToTop() {
 export default function App() {
   const { pathname } = useLocation()
   const inQuiz = /\/quiz$/.test(pathname)
+  // Lesson, quiz and answer key (/learn/<slug>/<unit>...) read on a narrower
+  // measure; the class puts the header and fixed bars on that same column edge.
+  const reading = /^\/learn\/[^/]+\/[^/]+/.test(pathname)
   return (
-    <div className="app">
+    <div className={`app${reading ? ' reading' : ''}`}>
       <ScrollToTop />
       {!inQuiz && <Header />}
       <Routes>

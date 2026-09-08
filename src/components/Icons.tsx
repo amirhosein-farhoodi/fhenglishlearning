@@ -1,3 +1,7 @@
+/**
+ * Mono-stroke line icons. The design system calls for a light, uniform
+ * stroke (see design-system.md, Imagery) - keep new icons at 1.8 too.
+ */
 interface IconProps {
   size?: number
   className?: string
@@ -13,7 +17,7 @@ export function ArrowRight({ size = 20, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.4"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -33,7 +37,7 @@ export function ArrowLeft({ size = 18, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.4"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -53,7 +57,7 @@ export function Check({ size = 20, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.6"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -72,7 +76,7 @@ export function Copy({ size = 18, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -100,7 +104,7 @@ export function Lock({ size = 16, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -120,7 +124,7 @@ export function Wallet({ size = 20, className = '' }: IconProps) {
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth="2"
+      strokeWidth="1.8"
       strokeLinecap="round"
       strokeLinejoin="round"
       aria-hidden="true"
@@ -128,6 +132,45 @@ export function Wallet({ size = 20, className = '' }: IconProps) {
       <path d="M3 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2" />
       <rect x="3" y="8" width="18" height="12" rx="2.5" />
       <circle cx="16.5" cy="14" r="1.4" fill="currentColor" stroke="none" />
+    </svg>
+  )
+}
+
+export function Sun({ size = 18, className = '' }: IconProps) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <circle cx="12" cy="12" r="4" />
+      <path d="M12 2.5v2M12 19.5v2M4.5 12h-2M21.5 12h-2M6.7 6.7 5.3 5.3M18.7 18.7l-1.4-1.4M17.3 6.7l1.4-1.4M5.3 18.7l1.4-1.4" />
+    </svg>
+  )
+}
+
+export function Moon({ size = 18, className = '' }: IconProps) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M20 14.2A8.2 8.2 0 0 1 9.8 4a8.2 8.2 0 1 0 10.2 10.2Z" />
     </svg>
   )
 }

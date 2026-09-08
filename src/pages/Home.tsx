@@ -84,7 +84,7 @@ export default function Home() {
               <div className="label">
                 {p.xp} XP · {lvl.need - lvl.current} to next level
               </div>
-              <div className="progress indigo thin" style={{ marginTop: 8 }}>
+              <div className="progress thin" style={{ marginTop: 8 }}>
                 <span style={{ width: `${Math.round(lvl.progress * 100)}%` }} />
               </div>
             </div>

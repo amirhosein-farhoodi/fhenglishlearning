@@ -45,6 +45,48 @@ npm run build      # type-check + production build into dist/
 npm run validate   # check all course content JSON
 ```
 
+## Design system
+
+The visual language follows [`../design-system.md`](../design-system.md) - a Udemy-style
+"modern classroom whiteboard with violet ink". Everything lives in
+`src/styles/global.css`, in two layers:
+
+- **Primitives** (`--c-*`) are the palette itself: the cool ink scale
+  (Ink -> Porcelain), Aubergine violet, Ember, and the two functional state
+  colours. These are the only place a raw hex belongs.
+- **Semantics** (`--ink`, `--surface`, `--line`, `--accent`, `--r-card`, ...) are
+  what components reference. Dark mode remaps only this layer, so no component
+  rule needs a dark-mode override.
+
+**Light is the default and the OS setting is ignored**, so the app looks the same
+on every machine. Dark mode is opt in: the header toggle writes
+`settings.theme` to localStorage, and `applyTheme()` in `src/lib/storage.ts`
+stamps `data-theme="dark"` on `<html>`. An inline script in `index.html` reads
+the same value before first paint, so there is no flash of the wrong theme.
+
+**Two content measures.** `--measure-page` (900px) for the home and course map,
+`--measure-reading` (720px) for the lesson, quiz and answer key, where prose needs
+a shorter line. The active one lives in `--container-max` on the app root
+(`.app.reading`), so the header and the fixed bars share the page's column edge
+instead of running wider than the text.
+
+The rules worth knowing before you add a component:
+
+| Rule | Why |
+|---|---|
+| Violet is an **outline**, never a flooded fill | `.btn-primary` is a 1.5px Aubergine border on transparent. `.btn-dark` (Solid Dark Action) is the loud one, for tinted or dark surfaces where an outline would lose contrast. |
+| Border before shadow | Cards use a 1px `--line`. `--shadow-lift` is the one shadow, and only on hover. |
+| No gradients | The surface language is flat. The only `*-gradient()` left is the course progress ring, where the sweep is data. |
+| `.page` fades but never transforms | A transform there would become the containing block for the `position: fixed` action bar and feedback sheet, unpinning them from the viewport. The slide lives on `.block`. |
+| One radius per component class | `--r-input` 4px, `--r-card` 8px (cards *and* buttons), `--r-lg` 16px, `--r-xl` 24px, `--r-pill`. |
+| One type family | Inter stands in for Udemy Sans, weights 300/400/500/700 on the 12/14/16/18/24/32px scale. `--text-display` is the single step above it, for the home hero only. |
+| Two chromatic accents | Aubergine + Ember. Green and red exist only as answer feedback, never decoration. Ember fails AA as text, so text uses `--ember-ink`. |
+
+Each book still carries an `accent` in its `book.json`, but it now appears only as
+a small mark - the level badge, the progress fill, the course rail and the card CTA -
+so the three books read as a level progression (teal -> Aubergine -> Ember) rather
+than three competing brand colours.
+
 ## Deploy to Netlify
 
 `netlify.toml` is included (build `npm run build`, publish `dist/`, SPA redirect, Node 20).

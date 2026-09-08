@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
-import { levelFor, useProgress } from "../lib/storage";
+import { levelFor, setTheme, useProgress } from "../lib/storage";
+import { Moon, Sun } from "./Icons";
 
 export default function Header() {
   const p = useProgress();
   const lvl = levelFor(p.xp);
+  const dark = p.settings.theme === "dark";
   return (
     <header className="header">
       <div className="container header-inner">
@@ -35,6 +37,16 @@ export default function Header() {
               <span style={{ width: `${Math.round(lvl.progress * 100)}%` }} />
             </span>
           </span>
+          <button
+            type="button"
+            className="theme-toggle"
+            onClick={() => setTheme(dark ? "light" : "dark")}
+            aria-pressed={dark}
+            title={dark ? "Switch to light mode" : "Switch to dark mode"}
+            aria-label={dark ? "Switch to light mode" : "Switch to dark mode"}
+          >
+            {dark ? <Sun /> : <Moon />}
+          </button>
         </div>
       </div>
     </header>

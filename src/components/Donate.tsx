@@ -225,7 +225,7 @@ export default function Donate() {
       </div>
 
       <div className="donate-actions">
-        <button type="button" className="btn btn-indigo" onClick={payWithWallet} disabled={busy}>
+        <button type="button" className="btn btn-dark" onClick={payWithWallet} disabled={busy}>
           <Wallet size={18} />
           {busy ? 'Waiting for wallet…' : `Send $${amount} with ${net.wallet}`}
         </button>

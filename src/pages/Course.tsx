@@ -70,7 +70,9 @@ export default function Course() {
                 Unit {continueUnit} · {book.unitTitles[String(continueUnit)]}
               </h3>
             </div>
-            <button type="button" className="btn btn-primary" onClick={() => nav(`/learn/${book.slug}/${continueUnit}`)}>
+            {/* Sits on the inverted panel, where the outlined violet would
+                disappear - the CTA flips to a light solid action instead. */}
+            <button type="button" className="btn btn-on-dark" onClick={() => nav(`/learn/${book.slug}/${continueUnit}`)}>
               {continueStatus?.lessonSeen ? 'Continue' : 'Start lesson'}
               <ArrowRight />
             </button>
