@@ -1,0 +1,187 @@
+{
+  "number": 19,
+  "title": "Shops and shopping",
+  "subtitle": "baker's, department store, change, receipt",
+  "summary": "Name the different shops, find your way round a department store and buy something in English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Kinds of shops",
+      "columns": ["Shop", "What you buy there"],
+      "rows": [
+        ["a baker's", "bread and cakes"],
+        ["a butcher's", "meat"],
+        ["a chemist's", "medicine, e.g. aspirin"],
+        ["a newsagent's", "newspapers and magazines"],
+        ["a supermarket", "food and drink for the week"],
+        ["a bookshop", "books"],
+        ["a gift shop", "presents and souvenirs"],
+        ["a toy shop", "toys and games for children"],
+        ["a post office", "stamps; you post letters and parcels here"],
+        ["a department store", "a large shop that sells a lot of different things"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The apostrophe s",
+      "text": "**Baker**, **butcher**, **chemist** and **newsagent** are also words for people's jobs. When we talk about the shop, we often add **'s**.",
+      "examples": [
+        { "text": "I'm going to the **newsagent's** to get a paper." },
+        { "text": "Do you want anything from the **butcher's**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "In the department store",
+      "columns": ["Floor", "What you find there"],
+      "rows": [
+        ["Fourth floor", "Toys, Restaurant"],
+        ["Third floor", "Furniture"],
+        ["Second floor", "Men's Wear, Children's Department"],
+        ["First floor", "Women's Wear"],
+        ["Ground floor", "Beauty"],
+        ["Basement", "Electricals, Food"]
+      ],
+      "note": "In a British building the ground floor is at street level, and the first floor is the floor above it. The basement is under the ground floor."
+    },
+    {
+      "type": "table",
+      "heading": "Signs in shops",
+      "columns": ["Sign", "What it means"],
+      "rows": [
+        ["Open", "you can go into the shop"],
+        ["Closed", "you can't go into the shop"],
+        ["Push", "the door opens away from you"],
+        ["Pull", "the door opens towards you"],
+        ["Cash desk", "you pay for your things here"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Buying something",
+      "text": "The **shop assistant** helps the **customer**. You can **try on** clothes and ask for a different **size** or **colour**. When you want to buy it, you say **I'll take it**.",
+      "examples": [
+        { "text": "*Shop assistant:* **Can I help you**?" },
+        { "text": "*Customer:* **Can I try** this shirt **on**? Have you got a bigger **size**?" },
+        { "text": "*Customer:* OK. **I'll take it**. **How much does it cost**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Paying",
+      "text": "You can **pay by** credit card or debit card, or you can pay in **cash**. A £50 **note** is paper money; **change** means coins or smaller notes. The shop gives you a **receipt** and a **carrier bag**.",
+      "examples": [
+        { "text": "*Customer:* Can I **pay by** cheque? *Shop assistant:* No, credit card, debit card or **cash**, please." },
+        { "text": "Sorry, I only have a £50 **note**. I don't have any **change**." },
+        { "text": "Here's your **receipt**. Would you like a **carrier bag**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say How much does it cost? or How much is it? - not ~~How much it costs?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the item with the shop you buy it in.",
+      "pairs": [
+        { "left": "aspirin", "right": "a chemist's" },
+        { "left": "sausages", "right": "a butcher's" },
+        { "left": "bread", "right": "a baker's" },
+        { "left": "greeting cards", "right": "a newsagent's" },
+        { "left": "a souvenir T-shirt", "right": "a gift shop" },
+        { "left": "a beach ball", "right": "a toy shop" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I want to get a newspaper, so I'm going to the ___.",
+      "hint": "(the shop)",
+      "answers": ["newsagent's", "newsagent", "newsagents"],
+      "explanation": "You buy newspapers and magazines at the newsagent's."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'd like to buy food for a week. Where do I go?",
+      "options": ["a supermarket", "a chemist's", "a gift shop", "a bookshop"],
+      "answer": 0,
+      "explanation": "A supermarket sells all the food and drink you need."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I want to buy clothes for myself and my children in one shop. Where do I go?",
+      "options": ["a department store", "a baker's", "a newsagent's", "a chemist's"],
+      "answer": 0,
+      "explanation": "A department store is a large shop that sells a lot of different things."
+    },
+    {
+      "type": "matching",
+      "prompt": "Look at the department store floors in the lesson. Which floor do you go to?",
+      "pairs": [
+        { "left": "a bed", "right": "third floor" },
+        { "left": "lipstick", "right": "ground floor" },
+        { "left": "a cup of tea", "right": "fourth floor" },
+        { "left": "a tie", "right": "second floor" },
+        { "left": "a TV", "right": "basement" },
+        { "left": "a skirt", "right": "first floor" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person who sells things in a shop is a ___.",
+      "hint": "(two words)",
+      "answers": ["shop assistant"],
+      "explanation": "The shop assistant serves the customer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sorry, I only have a £50 note. I don't have any ___.",
+      "hint": "(coins or smaller notes)",
+      "answers": ["change"],
+      "explanation": "Change means coins or smaller notes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "No cheques, please. You can pay by credit card, by debit card or in ___.",
+      "options": ["cash", "change", "receipt", "note"],
+      "answer": 0,
+      "explanation": "Cash means real money - coins and notes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer:* How much does this jacket ___? *Shop assistant:* £50.",
+      "hint": "(one word)",
+      "answers": ["cost"],
+      "explanation": "We ask How much does it cost?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer:* I'll take it, please. Can I ___ by credit card?",
+      "hint": "(one word)",
+      "answers": ["pay"],
+      "explanation": "We pay by credit card or debit card."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sign tells you that the door will open towards you?",
+      "options": ["Pull", "Push", "Open", "Cash desk"],
+      "answer": 0,
+      "explanation": "Pull = the door opens towards you. Push = it opens away from you."
+    },
+    {
+      "type": "true_false",
+      "statement": "The basement of a department store is the floor above the ground floor.",
+      "answer": false,
+      "explanation": "The basement is the floor under the ground floor. The floor above the ground floor is the first floor."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask the shop assistant if you can try the shirt on.",
+      "words": ["Can", "I", "try", "this", "shirt", "on?"],
+      "answer": "Can I try this shirt on?",
+      "explanation": "We try clothes on in a shop before we buy them."
+    }
+  ]
+}

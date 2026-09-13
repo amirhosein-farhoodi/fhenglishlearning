@@ -1,0 +1,208 @@
+{
+  "number": 79,
+  "title": "Multi-word expressions",
+  "subtitle": "feel under the weather, be over the moon, take the biscuit",
+  "summary": "Learn fixed idiomatic expressions as whole units, and find out how to group them and how flexible their grammar is.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Learning multi-word expressions",
+      "text": "Fixed expressions, also known as idioms, often have meanings you cannot guess from the individual words. **To feel under the weather** means to feel unwell - the words themselves do not tell you that, but the context usually helps.",
+      "examples": [
+        { "text": "I was feeling **under the weather**, so I didn't go to work.", "note": "= unwell" },
+        { "text": "This tin opener **has seen better days**.", "note": "= it is old and worn out; used about things, and always in the perfect form" }
+      ],
+      "note": "Record the whole expression in your notebook as one unit, with notes on its grammar and the words it goes with."
+    },
+    {
+      "type": "explain",
+      "heading": "Be careful with register",
+      "text": "Expressions of this type are often informal, and they usually include a personal comment on the situation - sometimes humorous or ironic. Never use them just to sound fluent. In a formal situation with someone you do not know, choose the neutral phrase.",
+      "examples": [
+        { "text": "How do you do, Mrs Watson? Do **sit down**.", "wrong": "Do take the weight off your feet", "note": "take the weight off your feet = sit down, but only among friends" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Grouping by grammar",
+      "columns": ["Pattern", "Expression", "Meaning"],
+      "rows": [
+        ["verb + object", "get (hold of) the wrong end of the stick", "misunderstand"],
+        ["verb + object", "pull a fast one", "trick or deceive someone"],
+        ["verb + object", "poke your nose in(to)", "interfere"],
+        ["verb + prepositional phrase", "be over the moon", "be extremely happy"],
+        ["verb + prepositional phrase", "feel down in the dumps", "feel depressed or low"],
+        ["verb + prepositional phrase", "be in the red", "have a negative bank balance"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grouping by meaning: describing people",
+      "text": "Another useful way to organise idioms is by topic. Here are four that comment on people's character or intelligence.",
+      "examples": [
+        { "text": "He's **as daft as a brush**.", "note": "= very stupid or silly" },
+        { "text": "She **takes the biscuit**.", "note": "= she is the extreme, the worst of all" },
+        { "text": "They're **a pain in the neck**.", "note": "= a nuisance, a difficult person" },
+        { "text": "Little Sam's **as good as gold**.", "note": "= behaves very well; usually said about children" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grouping by a key word: expressions with make",
+      "text": "You can also collect expressions round one common verb. These four are all built on **make**.",
+      "examples": [
+        { "text": "Why do you have to **make a meal out of** everything?", "note": "= exaggerate the importance of everything" },
+        { "text": "I think we should **make a move**. It's gone ten o'clock.", "note": "= go, leave" },
+        { "text": "Most politicians are **on the make**. I don't trust any of them.", "note": "= wanting money or power for themselves" },
+        { "text": "I'm afraid I'm **making heavy weather of** my essay.", "note": "= making slow and difficult progress with it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The grammar of idioms",
+      "text": "Some expressions are more fixed than others, so it matters how you use them. **Barking up the wrong tree** (= be mistaken) is always used in the continuous form, never the simple.",
+      "examples": [
+        { "text": "I think you're **barking up the wrong tree**.", "wrong": "I think you bark up the wrong tree" }
+      ],
+      "note": "A good dictionary helps, but the best way to learn the grammar of an idiom is to notice it in real examples."
+    },
+    {
+      "type": "tip",
+      "text": "Learn the whole expression, exactly as it is: it is *pull a fast one*, not ~~pull a quick one~~, and *make a meal out of it*, not ~~cook a meal out of it~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each expression with its meaning.",
+      "pairs": [
+        { "left": "be over the moon", "right": "be extremely happy" },
+        { "left": "be down in the dumps", "right": "feel depressed" },
+        { "left": "be in the red", "right": "have a negative bank balance" },
+        { "left": "be a pain in the neck", "right": "be a nuisance" },
+        { "left": "be as good as gold", "right": "behave very well" },
+        { "left": "be on the make", "right": "want money or power for yourself" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I passed all my exams, I felt over the ___.",
+      "hint": "(one word)",
+      "answers": ["moon"],
+      "explanation": "To be over the moon is to be extremely happy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This printer isn't working again! It's a pain ___.",
+      "hint": "(three words)",
+      "answers": ["in the neck"],
+      "explanation": "A pain in the neck is a nuisance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's almost midnight! I'd better be making ___.",
+      "hint": "(two words - leaving)",
+      "answers": ["a move"],
+      "explanation": "To make a move is to go or leave."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I spent too much money last month and now I'm in ___.",
+      "hint": "(two words)",
+      "answers": ["the red"],
+      "explanation": "To be in the red is to have a negative bank balance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's time to change my laptop. It's five years old and has seen ___.",
+      "hint": "(two words)",
+      "answers": ["better days"],
+      "explanation": "Something that has seen better days is old and worn out. The expression is always in the perfect form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She is the absolute limit! She really takes ___.",
+      "hint": "(two words)",
+      "answers": ["the biscuit"],
+      "explanation": "To take the biscuit is to be the extreme, the worst of all."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Oh dear, Matthew completely misunderstood me. He always seems to get hold of the wrong end of the ___.",
+      "hint": "(one word)",
+      "answers": ["stick"],
+      "explanation": "To get hold of the wrong end of the stick is to misunderstand."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sit down and ___ the weight off your feet.",
+      "options": ["take", "get", "make", "pull"],
+      "answer": 0,
+      "explanation": "The expression is take the weight off your feet - an informal way of saying 'sit down'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why does she always have to ___ her nose into other people's affairs?",
+      "options": ["poke", "peek", "push", "pull"],
+      "answer": 0,
+      "explanation": "To poke your nose into something is to interfere."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Zoe pulled a ___ one and didn't pay for her share of the meal.",
+      "options": ["fast", "quick", "cheap", "sharp"],
+      "answer": 0,
+      "explanation": "To pull a fast one is to trick or deceive someone. The word fast is fixed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He's really making ___ weather of what should be a simple task.",
+      "options": ["heavy", "bad", "hard", "slow"],
+      "answer": 0,
+      "explanation": "To make heavy weather of something is to make slow and difficult progress with it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these expressions by their grammar pattern.",
+      "categories": ["verb + object", "verb + prepositional phrase"],
+      "items": [
+        { "text": "pull a fast one", "category": 0 },
+        { "text": "take the biscuit", "category": 0 },
+        { "text": "make a move", "category": 0 },
+        { "text": "be over the moon", "category": 1 },
+        { "text": "be in the red", "category": 1 },
+        { "text": "be down in the dumps", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "'It's midnight. It's time to hit the sack' means it's time to go to bed.",
+      "answer": true,
+      "explanation": "Correct. To hit the sack is an informal way of saying 'go to bed'."
+    },
+    {
+      "type": "true_false",
+      "statement": "If someone is giving you the cold shoulder, they are being especially warm and welcoming.",
+      "answer": false,
+      "explanation": "To give someone the cold shoulder is to treat them in a cold, unfriendly way."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each expression with the meaning you can work out from its context.",
+      "pairs": [
+        { "left": "This is just kid's stuff.", "right": "very easy" },
+        { "left": "I feel as fit as a fiddle.", "right": "very fit physically" },
+        { "left": "We only get together once in a blue moon.", "right": "very rarely" },
+        { "left": "I've got the hang of this program now.", "right": "learnt how to use it" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Tell someone politely that they are mistaken.",
+      "words": ["I", "think", "you're", "barking", "up", "the", "wrong", "tree"],
+      "answer": "I think you're barking up the wrong tree",
+      "explanation": "This idiom is always used in the continuous form, never 'you bark up the wrong tree'."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "number": 80,
+  "title": "Words commonly mispronounced",
+  "subtitle": "comb, honest, an export / to export",
+  "summary": "Spot the silent letters in English spelling and know where the stress falls in words like export, record and photographer.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Spelling does not equal sound",
+      "text": "English vowel letters can stand for many different sounds, so you cannot tell how a word sounds just by looking at it. Compare the letter *a* in **cat**, **wander**, **last** and **late**, or *oo* in **cool**, **cook** and **coopt**. Learn each new word's sound together with its spelling.",
+      "examples": [
+        { "text": "**fiend**, **friend** and **science** all contain *ie*, but none of them rhymes with the others." },
+        { "text": "**our**, **route** and **would** all contain *ou*, and again all three are different." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Silent letters",
+      "columns": ["Silent letter", "Words"],
+      "rows": [
+        ["p", "psychic, psychiatry, pneumatic, receipt, pseudonym, psychology, psalm"],
+        ["b (after m)", "comb, dumb, numb, tomb, climb, womb, lamb"],
+        ["b (before t)", "doubt, subtle, debt, debtor"],
+        ["l", "could, should, calm, half, talk, palm, walk, salmon, chalk"],
+        ["h", "honour, honourable, honest, hour, hourly, heir, heiress"],
+        ["t", "whistle, castle, listen, fasten, soften, Christmas"],
+        ["k", "knee, knife, know, knob, knowledge, knot, knit"]
+      ],
+      "note": "In standard British English the letter *r* is also silent unless a vowel follows it: **card**, **park**, **farm**, **work**, **mother**, **teacher**. In American, Irish and Scottish English it is pronounced."
+    },
+    {
+      "type": "compare",
+      "heading": "Same spelling, different stress",
+      "left": {
+        "label": "Noun: stress on the first syllable",
+        "text": "Many two-syllable words have the same spelling for the noun and the verb. As a noun, the stress goes on syllable one.",
+        "examples": [
+          "Wool is a major Scottish **ex**port.",
+          "Jo was the main **sus**pect.",
+          "A work **per**mit lasts six months.",
+          "I wish I could write a hit **rec**ord!"
+        ]
+      },
+      "right": {
+        "label": "Verb: stress on the second syllable",
+        "text": "As a verb, the stress moves to syllable two.",
+        "examples": [
+          "Scotland ex**ports** a lot of wool.",
+          "The police sus**pected** several people.",
+          "A work permit per**mits** you to work.",
+          "I want to re**cord** a song."
+        ]
+      },
+      "note": "Other words in this group: conduct, conflict, contest, decrease, increase, insult, transfer, reject, desert, import, present, progress, protest, transport, upset."
+    },
+    {
+      "type": "explain",
+      "heading": "Stress in longer words",
+      "text": "Long English words tend to put the main stress on the third syllable from the end. That means the stress moves when you add a suffix, so the same root can sound quite different in two related words.",
+      "examples": [
+        { "text": "**pho**tograph, but pho**tog**rapher and pho**tog**raphy" },
+        { "text": "zo**ol**ogy and zo**ol**ogist, but zoo**log**ical" },
+        { "text": "psy**chol**ogy and psy**chol**ogist, but psycho**log**ical" }
+      ],
+      "note": "The rule is useful but it does have plenty of exceptions."
+    },
+    {
+      "type": "table",
+      "heading": "Words learners often get wrong",
+      "columns": ["Word", "What to watch"],
+      "rows": [
+        ["recipe", "three syllables; it does not rhyme with *pipe*"],
+        ["apostrophe", "four syllables, ending like *trophy*"],
+        ["catastrophe", "four syllables, also ending like *trophy*"],
+        ["cupboard", "the *p* and the *board* disappear - it sounds like *cubbard*"],
+        ["vegetables", "usually three syllables, not four"],
+        ["sword", "the *w* is silent"],
+        ["muscle", "the *c* is silent"],
+        ["interesting", "usually three syllables"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you meet a new long word, write it in your notebook with a mark on the stressed syllable and a note of any silent letters. **honest** (silent *h*), **castle** (silent *t*), **knowledge** (silent *k*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which letter is silent in all of these words: comb, tomb, climb, lamb?",
+      "options": ["b", "m", "c", "l"],
+      "answer": 0,
+      "explanation": "A *b* after *m* at the end of a word is silent."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which letter is silent in all of these words: whistle, castle, fasten, Christmas?",
+      "options": ["t", "s", "h", "n"],
+      "answer": 0,
+      "explanation": "The *t* is silent in whistle, castle, listen, fasten, soften and Christmas."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which letter is silent in all of these words: honour, honest, hour, heir?",
+      "options": ["h", "o", "u", "r"],
+      "answer": 0,
+      "explanation": "The initial *h* is silent in honour, honourable, honest, hour, hourly, heir and heiress."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which silent letter does each word contain?",
+      "categories": ["Silent k", "Silent l", "Silent p"],
+      "items": [
+        { "text": "knee", "category": 0 },
+        { "text": "knowledge", "category": 0 },
+        { "text": "knot", "category": 0 },
+        { "text": "calm", "category": 1 },
+        { "text": "salmon", "category": 1 },
+        { "text": "chalk", "category": 1 },
+        { "text": "receipt", "category": 2 },
+        { "text": "pneumatic", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT rhyme with the other three?",
+      "options": ["word", "sword", "cord", "board"],
+      "answer": 0,
+      "explanation": "Sword, cord and board all rhyme; word does not. Note the silent *w* in sword."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT rhyme with the other two?",
+      "options": ["plead", "head", "tread"],
+      "answer": 0,
+      "explanation": "Head and tread rhyme; plead does not, even though all three are spelt with *ea*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT rhyme with the other two?",
+      "options": ["root", "soot", "foot"],
+      "answer": 0,
+      "explanation": "Soot and foot rhyme; root does not, although all three are spelt with *oo*."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with a word that rhymes with it.",
+      "pairs": [
+        { "left": "enough", "right": "stuff" },
+        { "left": "plough", "right": "now" },
+        { "left": "through", "right": "who" },
+        { "left": "cough", "right": "off" },
+        { "left": "though", "right": "go" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'They paid a one million pound transfer fee', where is the stress in transfer?",
+      "options": ["On the first syllable, because it is a noun here", "On the second syllable, because it is a noun here", "On the first syllable, because it is a verb here", "Nowhere - the word has no stressed syllable"],
+      "answer": 0,
+      "explanation": "Two-syllable noun/verb pairs stress the first syllable as a noun and the second as a verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'A work permit permits you to work for six months', which is true?",
+      "options": ["The noun permit is stressed on syllable one and the verb permits on syllable two", "Both words are stressed on syllable one", "Both words are stressed on syllable two", "The noun is stressed on syllable two and the verb on syllable one"],
+      "answer": 0,
+      "explanation": "Noun first, verb second: a PERmit perMITS you to do something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the underlined word a noun (stress on syllable one) or a verb (stress on syllable two)?",
+      "categories": ["Noun - stress on syllable 1", "Verb - stress on syllable 2"],
+      "items": [
+        { "text": "Jo was the main suspect.", "category": 0 },
+        { "text": "There has been a decrease in wages.", "category": 0 },
+        { "text": "All this upset over the wedding is exhausting.", "category": 0 },
+        { "text": "The police suspected several people.", "category": 1 },
+        { "text": "The cost of living has increased.", "category": 1 },
+        { "text": "The news has really upset them.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Spell the word meaning 'a set of cooking instructions': ___.",
+      "hint": "(six letters, three syllables)",
+      "answers": ["recipe", "a recipe"],
+      "explanation": "Recipe has three syllables and ends like the name *Jessie*, not like *pipe*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Spell the word for the punctuation mark in 'don't': an ___.",
+      "hint": "(it ends like trophy)",
+      "answers": ["apostrophe"],
+      "explanation": "Apostrophe has four syllables and rhymes with catastrophe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Spell the old weapon with a silent w: a ___.",
+      "hint": "(five letters)",
+      "answers": ["sword", "a sword"],
+      "explanation": "The *w* in sword is silent."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the word from the unit.",
+      "pairs": [
+        { "left": "between warm and cold", "right": "cool" },
+        { "left": "the opposite of descend", "right": "climb" },
+        { "left": "describes a sea that isn't rough", "right": "calm" },
+        { "left": "a fish you might eat smoked, with a silent l", "right": "salmon" },
+        { "left": "money you owe, with a silent b", "right": "debt" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The word subtle is spelt with a b, but the b is not pronounced.",
+      "answer": true,
+      "explanation": "Correct. The *b* is silent in subtle, doubt, debt and debtor."
+    },
+    {
+      "type": "true_false",
+      "statement": "In standard British English the r in park and farm is clearly pronounced.",
+      "answer": false,
+      "explanation": "In standard British English that *r* is silent; it is pronounced in American, Irish and Scottish English."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "number": 99,
+  "title": "Language and gender",
+  "subtitle": "chairperson, firefighter, spokesperson, Ms",
+  "summary": "Use gender-neutral English with confidence - firefighter for fireman, staffed for manned, Ms for Miss or Mrs - and know the difference between male and masculine, laddish and macho.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Gender-neutral language",
+      "text": "In professional contexts and elsewhere, we often take care to use **gender-neutral** language in English. Attention has focused on replacing 'male' words that have a **generic** meaning - words with male connotations that actually refer to people in general - with neutral items. **Chairman** has become **chair** or **chairperson**, and **salesman** has become **sales assistant**. In some cases, such as job descriptions, sexually neutral language is a legal requirement.",
+      "examples": [
+        { "text": "The committee elected a new **chairperson**." },
+        { "text": "**Sales assistants** are often well trained and can be very persuasive." }
+      ],
+      "note": "The aim is to make the language less stereotyped with regard to gender, and perhaps to alter gender-biased attitudes."
+    },
+    {
+      "type": "explain",
+      "heading": "How far should it go?",
+      "text": "There is continuing debate between extremists and moderates about how far such revisions should go: whether they should affect traditional idioms such as **the man in the street** (a typical person) and **Neanderthal Man**, or apply to parts of words where the male meaning of *man* is no longer dominant, such as **manhandle** (handle roughly, using force) and even **woman**.",
+      "examples": [
+        { "text": "**The man in the street** has little time for such issues." },
+        { "text": "Rewritten neutrally: **The average person** has little time for such issues." }
+      ],
+      "note": "Some people felt changing chairman was unnecessary, or that language change cannot be imposed artificially."
+    },
+    {
+      "type": "table",
+      "heading": "Older usage and current usage",
+      "columns": ["Older usage", "Current usage"],
+      "rows": [
+        ["spokesman", "**spokesperson**"],
+        ["fireman", "**firefighter**"],
+        ["policeman", "**police officer**"],
+        ["air hostess", "**flight attendant**"],
+        ["cleaning lady", "**cleaner**"],
+        ["foreman", "**supervisor**"],
+        ["man-made", "**artificial**"],
+        ["mankind", "**the human race** / **human beings**"],
+        ["to man a machine or place of work", "to **staff** it"],
+        ["salesman", "**sales assistant**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Titles and marital status",
+      "text": "The vocabulary of marital status has also been affected, notably by the introduction of **Ms** as a neutral alternative to **Miss** or **Mrs**. It does not focus on whether a woman is married, so it is useful when you do not know a woman's marital status, or when she does not want people to know it.",
+      "examples": [
+        { "text": "Please address the letter to **Ms** Alison Reid." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "male / female or masculine / feminine?",
+      "left": {
+        "label": "male, female",
+        "text": "Used for gender classification, as in biology.",
+        "examples": [
+          "**male** and **female** bees",
+          "The **male** cat is less aggressive than his sister."
+        ]
+      },
+      "right": {
+        "label": "masculine, feminine",
+        "text": "Having qualities traditionally felt to be typically male or female.",
+        "examples": [
+          "**masculine** pride, **feminine** charm",
+          "She always dresses in a very **feminine** way."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Informal words for men and women",
+      "columns": ["Word", "Meaning", "Example"],
+      "rows": [
+        ["**guy**, **bloke**", "informal words for a man", "Jack's a really nice **guy**."],
+        ["**you guys**", "an informal way of addressing a group of men and women", "Do any of **you guys** fancy going out for a pizza tonight?"],
+        ["**girlfriend**", "used by women to refer to a female friend", "I'm meeting up with a few **girlfriends** this evening."],
+        ["**girlie / girly**", "describes things girls and young women often enjoy without men - clothes, make-up and so on", "They're having a **girlie** evening at home."],
+        ["**lad**", "informal word for a boy or young man", "He's having a night out with some of the **lads** tonight."],
+        ["**laddish**", "unpleasant behaviour thought typical of young men in a group, especially drinking", "I can't stand that kind of **laddish** behaviour!"],
+        ["**macho**", "describes a man who likes to appear strong and doesn't show his feelings", "He refuses to cry - it would spoil his **macho** image!"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "he, she and they",
+      "text": "A grammatical problem in this area is using **he** or **his** for a person of either gender. In *A government minister may have to neglect his family*, the minister could be a woman. You can write **his or her**, make the sentence plural, or use **their** as a generic pronoun.",
+      "examples": [
+        { "text": "A government minister may have to neglect **his or her** family." },
+        { "text": "**Government ministers** may have to neglect **their families**." },
+        { "text": "A government minister may have to neglect **their** family.", "note": "increasingly common and acceptable, though some people consider it incorrect" }
+      ],
+      "note": "Some writers use the pronoun s/he instead of he or she."
+    },
+    {
+      "type": "tip",
+      "text": "In job advertisements and other official writing, neutral wording is not just polite - it can be a legal requirement."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Three ___ helped put out a fire at a disused warehouse last night.",
+      "hint": "(neutral for firemen)",
+      "answers": ["firefighters"],
+      "explanation": "Firefighter is the gender-neutral replacement for fireman."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ for the Department of Education provided us with a statement.",
+      "hint": "(neutral for spokesman)",
+      "answers": ["spokesperson"],
+      "explanation": "Spokesperson replaces spokesman in current usage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ wanted for house in Priory Street.",
+      "hint": "(neutral for cleaning lady)",
+      "answers": ["Cleaner"],
+      "explanation": "Cleaner is the neutral term, and job adverts require neutral language."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The helpline is continuously ___ even during holiday periods.",
+      "hint": "(neutral for manned)",
+      "answers": ["staffed"],
+      "explanation": "To man a place of work has been replaced by to staff it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "All our ___ are fluent in at least three languages.",
+      "hint": "(neutral for air hostesses)",
+      "answers": ["flight attendants"],
+      "explanation": "Flight attendant replaces air hostess."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The fibres in this garment are ___.",
+      "hint": "(neutral for man-made)",
+      "answers": ["artificial"],
+      "explanation": "Artificial is the neutral alternative to man-made."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ today spend more time in cars than on the beat.",
+      "hint": "(neutral for policemen)",
+      "answers": ["Police officers"],
+      "explanation": "Police officer replaces policeman and policewoman."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This was a great step for ___.",
+      "hint": "(neutral for mankind)",
+      "answers": ["the human race", "humankind", "human beings"],
+      "explanation": "Mankind is replaced by the human race or human beings."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ has little time for such issues.",
+      "hint": "(neutral for the man in the street)",
+      "answers": ["average person", "person in the street"],
+      "explanation": "The average person or the person in the street replaces the man in the street."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each older term with its current, neutral equivalent.",
+      "pairs": [
+        { "left": "foreman", "right": "supervisor" },
+        { "left": "salesman", "right": "sales assistant" },
+        { "left": "chairman", "right": "chairperson" },
+        { "left": "cleaning lady", "right": "cleaner" },
+        { "left": "air hostess", "right": "flight attendant" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "She always dresses in a very ___ way.",
+      "options": ["feminine", "female", "girlie", "macho"],
+      "answer": 0,
+      "explanation": "Feminine describes qualities traditionally felt to be typically female; female is a biological classification."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The ___ cat is less aggressive than his sister.",
+      "options": ["male", "masculine", "laddish", "macho"],
+      "answer": 0,
+      "explanation": "Male is used for gender classification in biology."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you ___ fancy meeting up later?",
+      "options": ["guys", "girlfriends", "lads", "blokes"],
+      "answer": 0,
+      "explanation": "You guys is an informal way of addressing a mixed group of men and women."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The bar was full of loud, ___ young men.",
+      "options": ["laddish", "lad", "girlie", "feminine"],
+      "answer": 0,
+      "explanation": "Laddish describes unpleasant behaviour thought typical of young men in a group."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ross likes to see himself as a tough ___ man!",
+      "options": ["macho", "male", "masculine", "laddish"],
+      "answer": 0,
+      "explanation": "A macho man likes to appear strong and does not show his feelings."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Anna's going away for the weekend with a few ___.",
+      "options": ["girlfriends", "females", "girlies", "lads"],
+      "answer": 0,
+      "explanation": "Women use girlfriends to refer to their female friends."
+    },
+    {
+      "type": "true_false",
+      "statement": "Ms was introduced as a title that does not show whether a woman is married.",
+      "answer": true,
+      "explanation": "Correct - it is useful when you do not know a woman's marital status, or when she prefers not to reveal it."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the phrase 'male words with a generic meaning', generic means that the word refers only to men.",
+      "answer": false,
+      "explanation": "Generic means the word refers to people in general, even though it has male connotations."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which wording belongs to older usage and which to current, neutral usage?",
+      "categories": ["Older usage", "Current neutral usage"],
+      "items": [
+        { "text": "fireman", "category": 0 },
+        { "text": "mankind", "category": 0 },
+        { "text": "to man the helpline", "category": 0 },
+        { "text": "man-made fibres", "category": 0 },
+        { "text": "firefighter", "category": 1 },
+        { "text": "the human race", "category": 1 },
+        { "text": "to staff the helpline", "category": 1 },
+        { "text": "artificial fibres", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite this sentence to avoid assuming the minister is a man.",
+      "words": ["Government", "ministers", "may", "have", "to", "neglect", "their", "families"],
+      "answer": "Government ministers may have to neglect their families",
+      "explanation": "Making the sentence plural is one way to avoid the generic his; his or her and their are the others."
+    }
+  ]
+}

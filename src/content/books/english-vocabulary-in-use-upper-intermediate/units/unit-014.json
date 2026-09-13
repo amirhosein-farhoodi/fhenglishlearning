@@ -1,0 +1,181 @@
+{
+  "number": 14,
+  "title": "Education",
+  "subtitle": "primary school, sitting exams, distance learning",
+  "summary": "Follow a British education from creche to higher education, and talk accurately about exams, grades, qualifications and online learning.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Stages in a person's education",
+      "text": "The youngest children start in a **creche**, where they mostly play, and may then go to a **nursery school**. Between five and 11 they attend **primary school**, where they learn the basics of reading, writing and arithmetic.",
+      "examples": [
+        { "text": "**Secondary education** begins when children enter a **comprehensive school** or a more traditional **grammar school**." },
+        { "text": "You **gain admission** to a grammar school by **sitting an exam**." },
+        { "text": "The famous UK **public schools** are in fact private, **fee-paying** schools." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Leaving school",
+      "text": "In the UK, pupils can leave school at 16, although many choose to remain in **full-time education** until 18. In England it is **compulsory** to continue with some form of education or training until 18, even if you also have a job.",
+      "examples": [
+        { "text": "From 16 to 18 young people may study at secondary school or at a **sixth-form college**." },
+        { "text": "After that they may go on to **higher education**." },
+        { "text": "What's the **school-leaving age**? It's 18 in a lot of countries." },
+        { "text": "At what age does **compulsory** education begin?", "note": "compulsory = which you must do, by law" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Exams and qualifications",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["take / do / sit an exam", "be examined"],
+        ["resit an exam", "take it again because you did badly first time"],
+        ["A levels", "the university entrance exams taken at 18"],
+        ["marks", "a score such as 75%"],
+        ["grades", "a letter such as A, B+ or C"],
+        ["pass / do well", "get a high grade"],
+        ["fail", "not get the minimum grade"],
+        ["skip classes", "miss them deliberately (informal)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Technology in education",
+      "text": "With an **LMS** (Learning Management System) or a **VLE** (Virtual Learning Environment) students can work online.",
+      "examples": [
+        { "text": "Students can do more **distance learning**.", "note": "studying without attending classes, e.g. from home" },
+        { "text": "**Blended learning** uses a mix of classroom and online learning." },
+        { "text": "Teachers can **monitor** students' activities and **progress**.", "note": "monitor = check regularly; progress is uncountable" },
+        { "text": "Students choose courses and **modules** and **submit** work.", "note": "a module is an individual part of a course; submit = send work to the teacher" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You **pass** an exam - *I passed all my exams and graduated in 2010* - never ~~succeed at my exams~~."
+    },
+    {
+      "type": "tip",
+      "text": "*Progress* is uncountable: *I've made a lot of progress*, not ~~a lot of progresses~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Amy first went to her local ___ school at the age of five.",
+      "hint": "(one word)",
+      "answers": ["primary"],
+      "explanation": "Primary school is for children between about five and 11."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The year before that, Amy attended a ___ school, where four-year-olds learn through play.",
+      "hint": "(one word)",
+      "answers": ["nursery"],
+      "explanation": "Children go to a nursery school just before primary school."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her parents didn't send her to a ___ when she was very small.",
+      "hint": "(one word: for the youngest children)",
+      "answers": ["creche", "crèche"],
+      "explanation": "A creche takes the youngest children, who mostly play there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amy passed a special exam and so gained ___ to her local grammar school.",
+      "hint": "(one noun)",
+      "answers": ["admission"],
+      "explanation": "You gain admission to a grammar school by sitting an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Like most children, her friends went to a ___ school, which does not select by exam.",
+      "hint": "(one word)",
+      "answers": ["comprehensive"],
+      "explanation": "A comprehensive school takes all children, without an entrance exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Only a few children from very rich families go to famous ___ schools, which are in fact private.",
+      "hint": "(one word)",
+      "answers": ["public"],
+      "explanation": "In the UK, public schools are private, fee-paying schools."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*I hope I get the minimum grade.* How would you say this more naturally?",
+      "options": ["I hope I pass.", "I hope I do well.", "I hope I resit.", "I hope I skip."],
+      "answer": 0,
+      "explanation": "To pass an exam is to get at least the minimum grade."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*I've missed a couple of classes this term - deliberately.* Which word says this informally?",
+      "options": ["skipped", "submitted", "monitored", "resat"],
+      "answer": 0,
+      "explanation": "To skip classes is to miss them on purpose (informal)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*If you get below the minimum grade, are you allowed to take the exam again?* Which pair of words fits?",
+      "options": ["If you fail, are you allowed to resit it?", "If you pass, are you allowed to resit it?", "If you fail, are you allowed to submit it?", "If you skip it, are you allowed to grade it?"],
+      "answer": 0,
+      "explanation": "To fail = not to get the minimum grade; to resit = to take the exam again."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with its term.",
+      "pairs": [
+        { "left": "learning that mixes classes and online work", "right": "blended learning" },
+        { "left": "learning you can do at home, without going to class", "right": "distance learning" },
+        { "left": "schools which require an exam to gain admission", "right": "grammar schools" },
+        { "left": "private schools where parents pay fees", "right": "public schools" },
+        { "left": "individual elements or parts of a course", "right": "modules" },
+        { "left": "the computer system that controls teaching and learning", "right": "an LMS" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "*In the UK, students between 16 and 18 can go to a nursery school.*",
+      "answer": false,
+      "explanation": "They can go to a sixth-form college. A nursery school is for very young children."
+    },
+    {
+      "type": "true_false",
+      "statement": "*The school-ending age is 18 in many countries.*",
+      "answer": false,
+      "explanation": "The expression is school-leaving age: The school-leaving age is 18 in many countries."
+    },
+    {
+      "type": "true_false",
+      "statement": "*Do we have to admit our work to the teacher by Friday?*",
+      "answer": false,
+      "explanation": "The verb is submit: Do we have to submit our work to the teacher by Friday?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which sentences are correct English and which contain a mistake?",
+      "categories": ["Correct", "Contains a mistake"],
+      "items": [
+        { "text": "She has to sit a Biology exam next week.", "category": 0 },
+        { "text": "I've made a lot of progress in my English recently.", "category": 0 },
+        { "text": "Is school compulsory till 18 in your country?", "category": 0 },
+        { "text": "Teachers can monitor their students' activities.", "category": 0 },
+        { "text": "I'm glad you succeeded at your exam.", "category": 1 },
+        { "text": "She has to sit on a Biology exam next week.", "category": 1 },
+        { "text": "I've made a lot of progresses in my English.", "category": 1 },
+        { "text": "Is school compulsive till 18 in your country?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["I", "passed", "all", "my", "exams", "and", "graduated", "in", "2010."],
+      "answer": "I passed all my exams and graduated in 2010.",
+      "explanation": "You pass an exam - never succeed at an exam."
+    }
+  ]
+}

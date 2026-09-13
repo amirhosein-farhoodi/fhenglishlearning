@@ -1,0 +1,220 @@
+{
+  "number": 70,
+  "title": "Prefixes: changing meaning",
+  "subtitle": "unhappy, impossible, disagree, rewrite",
+  "summary": "Use prefixes such as un-, in-, im-, ir-, dis-, over-, mis- and re- to change the meaning of adjectives and verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Negative prefixes with adjectives",
+      "columns": ["Prefix", "Adjective", "Opposite"],
+      "rows": [
+        ["**un-**", "happy", "**un**happy"],
+        ["**im-**", "possible", "**im**possible"],
+        ["**ir-**", "regular", "**ir**regular"],
+        ["**dis-**", "honest (= tells the truth)", "**dis**honest"],
+        ["**in-**", "correct (= right)", "**in**correct"],
+        ["**il-**", "legal (= allowed by law)", "**il**legal"]
+      ],
+      "note": "There is no easy rule for choosing the prefix, so learn each opposite with the adjective."
+    },
+    {
+      "type": "explain",
+      "heading": "Using the negative adjectives",
+      "text": "The prefix simply gives the opposite meaning. **Dishonest** means you do not tell the truth; **incorrect** means wrong; **illegal** means against the law.",
+      "examples": [
+        { "text": "Dan used all the milk but said he didn't; he's very **dishonest**." },
+        { "text": "I got eight answers right, but two were **incorrect**." },
+        { "text": "It's **illegal** in the UK to ride a motorbike without a helmet." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "un- is the most common prefix",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**uncomfortable**", "not comfortable - this chair is incredibly uncomfortable"],
+        ["**unnecessary**", "not necessary - it was unnecessary for them to wait for us"],
+        ["**unusual**", "different, not common or ordinary - Xerxes is a very unusual name"],
+        ["**unexpected**", "I didn't think it was going to happen - I won, and it was completely unexpected"],
+        ["**unbelievable**", "surprising because it is either very good or very bad"],
+        ["**unable**", "could not - we tried to open the door, but we were unable to get in"],
+        ["**unfit**", "not healthy and not in good condition"],
+        ["**unlucky**", "Declan played well, and I thought he was unlucky to lose"],
+        ["**unlikely**", "they're unlikely to get here before midday = they probably won't"],
+        ["**unfair**", "it does not treat people equally - the test was unfair"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Adding a negative prefix does not change the pronunciation: the stress stays on the same syllable. She was un**luck**y. It's unbe**liev**able."
+    },
+    {
+      "type": "table",
+      "heading": "Prefixes with verbs",
+      "columns": ["Prefix", "Meaning", "Examples"],
+      "rows": [
+        ["**dis-**", "the opposite of something", "I **disagree** with the others. The plane **disappeared** behind a cloud."],
+        ["**un-**", "the opposite of an action", "I couldn't **unlock** the door. We got **undressed**. I **unpacked** the bags."],
+        ["**over-**", "too much", "The bank **overcharged** me."],
+        ["**mis-**", "do something incorrectly", "I **misunderstood** what he said. I **misheard** her - I thought she said Rita."],
+        ["**re-**", "again", "The teacher has asked me to **rewrite** my essay."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Opposite actions with un-",
+      "text": "With verbs, **un-** undoes the action. Learn the verbs in pairs.",
+      "examples": [
+        { "text": "lock the door / **unlock** the door", "note": "unlock = open using a key" },
+        { "text": "get dressed / get **undressed**", "note": "get undressed = take off your clothes" },
+        { "text": "pack the bags / **unpack** the bags", "note": "unpack = take everything out" },
+        { "text": "do up your coat / **undo** your coat" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More opposites to learn",
+      "columns": ["Word", "Opposite"],
+      "rows": [
+        ["pleasant", "**un**pleasant"],
+        ["kind", "**un**kind"],
+        ["patient", "**im**patient"],
+        ["suitable", "**un**suitable"],
+        ["fashionable", "**un**fashionable"],
+        ["reliable", "**un**reliable"],
+        ["friendly", "**un**friendly"],
+        ["tidy", "**un**tidy"],
+        ["sociable", "**un**sociable"],
+        ["like (verb)", "**dis**like"],
+        ["ability", "**in**ability"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which prefix makes each word negative?",
+      "categories": ["un-", "im- / in- / ir- / il-", "dis-"],
+      "items": [
+        { "text": "happy", "category": 0 },
+        { "text": "able", "category": 0 },
+        { "text": "usual", "category": 0 },
+        { "text": "possible", "category": 1 },
+        { "text": "correct", "category": 1 },
+        { "text": "regular", "category": 1 },
+        { "text": "honest", "category": 2 },
+        { "text": "agree", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The opposite of *comfortable* is ___.",
+      "hint": "(add a prefix)",
+      "answers": ["uncomfortable"],
+      "explanation": "un- is the most common negative prefix with adjectives."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The opposite of *necessary* is ___.",
+      "hint": "(add a prefix)",
+      "answers": ["unnecessary"],
+      "explanation": "Unnecessary keeps both n's: un + necessary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The opposite of *regular* is ___.",
+      "hint": "(add a prefix)",
+      "answers": ["irregular"],
+      "explanation": "Words starting with r often take ir-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's against the law, isn't it? *B:* Oh yes, it's ___.",
+      "hint": "(from legal)",
+      "answers": ["illegal"],
+      "explanation": "Illegal = not allowed by law. Words starting with l often take il-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Adera is a strange name. *B:* Yes, very ___.",
+      "hint": "(from usual)",
+      "answers": ["unusual"],
+      "explanation": "Unusual = different, not common or ordinary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He probably won't get back in time for the meeting. *B:* I agree. It's very ___.",
+      "hint": "(from likely)",
+      "answers": ["unlikely"],
+      "explanation": "Unlikely = probably won't happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He doesn't look in very good condition; he's a bit overweight. *B:* I know. He looks terribly ___.",
+      "hint": "(from fit)",
+      "answers": ["unfit"],
+      "explanation": "Unfit = not healthy and not in good condition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Nobody thought this would happen. *B:* Yes, it was completely ___.",
+      "hint": "(from expected)",
+      "answers": ["unexpected"],
+      "explanation": "Unexpected = you didn't think it was going to happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Ann always gives more attention to Sarah than to Lucas. *B:* Yes, it's very ___ on poor Lucas.",
+      "hint": "(from fair)",
+      "answers": ["unfair"],
+      "explanation": "If something is unfair, it does not treat people equally."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which sentence logically follows each one?",
+      "pairs": [
+        { "left": "She arrived home.", "right": "She unlocked the front door." },
+        { "left": "Her essay was terrible.", "right": "She had to rewrite it." },
+        { "left": "She decided to go to bed.", "right": "She got undressed." },
+        { "left": "She got to the hotel.", "right": "She unpacked her suitcase." },
+        { "left": "After I paid, I looked at the price.", "right": "She had overcharged me." },
+        { "left": "She's not here now.", "right": "She has disappeared." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I thought she said Rita, but she said Brita. I ___ her.",
+      "options": ["misheard", "overheard", "reheard", "disheard"],
+      "answer": 0,
+      "explanation": "mis- means 'do something incorrectly': mishear, misunderstand."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The bank asked me to pay too much money. It ___ me.",
+      "options": ["overcharged", "recharged", "discharged", "mischarged"],
+      "answer": 0,
+      "explanation": "over- means 'too much': overcharge, overeat, overwork."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that you could not get into the room.",
+      "words": ["We", "were", "unable", "to", "get", "in."],
+      "answer": "We were unable to get in.",
+      "explanation": "Unable to = could not."
+    },
+    {
+      "type": "true_false",
+      "statement": "The prefix re- in rewrite means 'again', so 'rewrite your essay' means 'write it again'.",
+      "answer": true,
+      "explanation": "Correct. re- = again: rewrite, rebuild, reread."
+    },
+    {
+      "type": "true_false",
+      "statement": "When you add a negative prefix, the stress moves onto the prefix.",
+      "answer": false,
+      "explanation": "The stress stays where it was: she was un**luck**y, it's unbe**liev**able."
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "number": 72,
+  "title": "Roots",
+  "subtitle": "PORT, POSE, SPECT, VERT",
+  "summary": "Recognise the Latin roots inside formal English verbs - DUC, PONE, PORT, PRESS, SPECT and VERT - and work out the meaning of new words from their parts.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verbs built on Latin roots",
+      "text": "Many English words are formed from Latin roots, and they are usually rather formal. If you know the root and the prefix, you can often work out a new word without a dictionary.",
+      "examples": [
+        { "text": "**DUC**, **DUCT** = lead: He **conducted** the orchestra with great vigour.", "note": "conduct = lead" },
+        { "text": "Nothing would **induce** me to join their organisation.", "note": "induce = persuade, lead" },
+        { "text": "The railway goes over a high **viaduct**.", "note": "a viaduct is a high bridge across a river or valley" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "PONE / POSE = place, put",
+      "columns": ["Verb", "Meaning", "Example"],
+      "rows": [
+        ["postpone", "put off to a later date", "The meeting has been postponed until next week."],
+        ["depose", "put out of office", "The President was deposed by his own son."],
+        ["impose", "put into force", "The government have imposed a sizeable tax increase."],
+        ["compose", "created, put together", "Beethoven composed some beautiful pieces of music."],
+        ["deposit", "placed, put in", "She deposited some money in her bank account."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "PORT = carry, take",
+      "columns": ["Verb", "Meaning", "Example"],
+      "rows": [
+        ["transport", "send across", "How are you going to transport your things to the States?"],
+        ["import", "buy in from abroad", "Britain imports cotton."],
+        ["export", "sell out to other countries", "Britain exports wool."],
+        ["support", "hold up, back", "Our opinions are supported by a considerable amount of research."],
+        ["deport", "send away to another country", "Foreigners who commit crimes are usually deported."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "PRESS = press, push",
+      "text": "The root **PRESS** carries the idea of pushing - pushing feelings down, pushing thoughts out, or pushing admiration onto someone.",
+      "examples": [
+        { "text": "She was **impressed** by his presentation.", "note": "filled with admiration and respect" },
+        { "text": "This weather **depresses** me.", "note": "fills me with miserable feelings" },
+        { "text": "She always **expresses** herself very articulately.", "note": "puts her thoughts into words" },
+        { "text": "I don't think it's healthy to **repress** your emotions too much.", "note": "hold them back" },
+        { "text": "She tried hard to **suppress** a laugh but couldn't.", "note": "hold it back" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "SPECT = see, look; VERT = turn",
+      "columns": ["Verb", "Meaning", "Example"],
+      "rows": [
+        ["respect", "look up to", "You should respect your parents."],
+        ["inspect", "look into, examine", "The police officer inspected the mysterious package."],
+        ["prospect", "look for, search", "Many pioneers travelled west in America to prospect for gold."],
+        ["introspective", "thinking privately about your own thoughts", "She's a very introspective person."],
+        ["revert", "go back", "I tried the new coffee but soon reverted to my old brand."],
+        ["convert", "change from one form to another", "Can you convert this document to a pdf?"],
+        ["divert", "send a different way", "The police diverted the traffic because there was a demonstration."],
+        ["advertise", "turn people's attention to a product", "The magazine is full of adverts for cosmetics."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The nouns that go with the verbs",
+      "columns": ["Verb", "Person noun", "Abstract noun"],
+      "rows": [
+        ["inspect", "inspector", "inspection"],
+        ["advertise", "advertiser", "advertisement"],
+        ["deport", "deportee", "deportation"],
+        ["introduce", "introducer", "introduction"],
+        ["oppress", "oppressor", "oppression"],
+        ["compose", "composer", "composition"],
+        ["convert", "-", "conversion"],
+        ["conduct", "conductor", "-"],
+        ["impress", "-", "impression"],
+        ["support", "supporter", "support"],
+        ["compress", "-", "compression"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The prefixes that go on these roots",
+      "columns": ["Prefix", "Meaning"],
+      "rows": [
+        ["intro-", "within, inward"],
+        ["o-, ob-", "against"],
+        ["in-, im-", "in, into"],
+        ["re-", "again, back"],
+        ["de-", "down, from"],
+        ["ex-", "out"],
+        ["sub-", "under"],
+        ["trans-", "across"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The Latin-root word is almost always more formal than its two-part equivalent: *postpone* / put off, *inspect* / look at, *oppose* / go against."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each Latin root with its meaning.",
+      "pairs": [
+        { "left": "DUC / DUCT", "right": "lead" },
+        { "left": "PONE / POSE", "right": "place, put" },
+        { "left": "PORT", "right": "carry, take" },
+        { "left": "PRESS", "right": "press, push" },
+        { "left": "SPECT", "right": "see, look" },
+        { "left": "VERT", "right": "turn" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was ___ from the USA for not having a visa.",
+      "hint": "(PORT)",
+      "answers": ["deported"],
+      "explanation": "de- (from) plus PORT (carry): to send someone away to another country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The magazine seems to have nothing in it but ___ for cosmetics.",
+      "hint": "(VERT, plural noun)",
+      "answers": ["adverts", "advertisements"],
+      "explanation": "Advertisement comes from advertise, built on the root VERT."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The new manager ___ a lot of new rules on the staff when she took over.",
+      "hint": "(POSE)",
+      "answers": ["imposed"],
+      "explanation": "To impose is to put something into force."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The tax ___ wrote to tell me I owed a lot of money.",
+      "hint": "(SPECT, person noun)",
+      "answers": ["inspector"],
+      "explanation": "An inspector is the person who inspects - who looks into things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Because of the flood, the traffic was ___ and we had to drive a long way.",
+      "hint": "(VERT)",
+      "answers": ["diverted"],
+      "explanation": "To divert traffic is to send it a different way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thank you for ___ me to Dino last week.",
+      "hint": "(DUC, -ing form)",
+      "answers": ["introducing"],
+      "explanation": "intro- (inward) plus DUC (lead): to lead someone into a group or a meeting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tchaikovsky ___ some wonderful ballet music.",
+      "hint": "(POSE)",
+      "answers": ["composed"],
+      "explanation": "To compose is to create, to put together."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Grey, wet weather always ___ me. I love the sun.",
+      "hint": "(PRESS)",
+      "answers": ["depresses"],
+      "explanation": "To depress is to fill someone with miserable feelings."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think we should ___ our tennis game till tomorrow. It's going to rain.",
+      "hint": "(PONE)",
+      "answers": ["postpone", "put off"],
+      "explanation": "To postpone is to put something off to a later date."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each formal verb with its less formal two-part equivalent.",
+      "pairs": [
+        { "left": "support", "right": "hold up" },
+        { "left": "postpone", "right": "put off" },
+        { "left": "oppose", "right": "go against" },
+        { "left": "inspect", "right": "look at" },
+        { "left": "deposit", "right": "put down" },
+        { "left": "divert", "right": "turn away" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "'He always seems to *oppose* everything I suggest.' What does *oppose* mean here?",
+      "options": ["argue against", "hold back", "work out", "make public"],
+      "answer": 0,
+      "explanation": "ob- means against, so to oppose is to argue against."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Perhaps you can *deduce* what the word means from the way it's formed.' What does *deduce* mean?",
+      "options": ["work out", "read aloud", "hold back", "write down"],
+      "answer": 0,
+      "explanation": "de- (from) plus DUC (lead): to lead a conclusion out of the evidence."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The documentary *exposed* corruption in high places.' What does *exposed* mean?",
+      "options": ["made public", "argued against", "held back", "sent abroad"],
+      "answer": 0,
+      "explanation": "ex- means out, so to expose is to bring something out into the open."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which root is each word built on?",
+      "categories": ["PORT (carry)", "POSE / PONE (put)", "SPECT (look)"],
+      "items": [
+        { "text": "transport", "category": 0 },
+        { "text": "export", "category": 0 },
+        { "text": "deport", "category": 0 },
+        { "text": "deposit", "category": 1 },
+        { "text": "depose", "category": 1 },
+        { "text": "postpone", "category": 1 },
+        { "text": "inspect", "category": 2 },
+        { "text": "prospect", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The abstract noun formed from *convert* is *conversion*.",
+      "answer": true,
+      "explanation": "Correct - convert becomes conversion, as compose becomes composition."
+    }
+  ]
+}

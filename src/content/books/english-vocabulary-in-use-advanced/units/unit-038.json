@@ -1,0 +1,212 @@
+{
+  "number": 38,
+  "title": "Talking about language",
+  "subtitle": "syntax, lexicon, register, eloquent, mot juste",
+  "summary": "Use the specialist terms for describing language - syntax, phonology, lexicon, orthography, morphology - and the everyday words for using language well or badly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Specialist terms",
+      "columns": ["Term", "What it covers"],
+      "rows": [
+        ["syntax", "the grammar and word order of a language"],
+        ["phonology", "the sound system: pronunciation and intonation"],
+        ["lexicon", "a specialised term for vocabulary"],
+        ["orthography", "a specialised term for writing systems and spelling"],
+        ["morphology", "how words are formed"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Modality, phonemes and morphemes",
+      "text": "Different languages express **modality** - meanings such as possibility and necessity - in different ways; English does it with modal verbs like must, could and should. All languages have **phonemes**, the different sounds that distinguish meanings, and English has ten **diphthongs**, sounds made by combining vowels. **Morphemes** are units of meaning: unthinkable has three, un, think and able.",
+      "examples": [
+        { "text": "**Modality** is expressed in different forms in different languages." },
+        { "text": "Some world languages have very few vowel **phonemes** and no **diphthongs**." },
+        { "text": "There are three **morphemes** in unthinkable." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Writing systems",
+      "text": "The English alphabet has 26 **characters** - letters or symbols. Some writing systems, such as Chinese, are not alphabetic but have **pictograms**, characters representing pictures, or **ideograms**, characters representing ideas and concepts.",
+      "examples": [
+        { "text": "The **orthography** of Burmese is quite difficult for a foreign learner." },
+        { "text": "Japanese uses several different writing systems, with hundreds of **characters**." },
+        { "text": "This ancient and beautiful alphabet uses **pictograms** to express meaning." },
+        { "text": "The **lexicon** of a language like English is constantly changing." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Meanings in context",
+      "text": "Many English words are **polysemous** - they have a number of different meanings - and the meaning is usually clear from the **context**, the language or situation around the word. Words are often used in a **metaphorical** way, a way that is not literal: to see the light means to understand something.",
+      "examples": [
+        { "text": "Many words in English are **polysemous**." },
+        { "text": "'It's not fair that the boy with the fair hair won all the prizes at the fair' is an example of **polysemy**." },
+        { "text": "'Life is a journey and sometimes your path will be rocky' is a **metaphor**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Usage, register and jargon",
+      "text": "Language **usage** - the way words are used - changes with time. Some words become **obsolete**, that is fall out of use, while new words are **coined**, or created. A **register** is the style of language used in a particular situation, formal or informal. **Jargon** is language used by a particular group who share a job or interest.",
+      "examples": [
+        { "text": "Some words become **obsolete** while new words are **coined**." },
+        { "text": "Any language has a number of different **registers**." },
+        { "text": "'What kind of external storage device do you have access to?' is computer **jargon**." },
+        { "text": "'Marry, thou art roinish, forsooth' is **obsolete** language." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using language well",
+      "text": "Someone **articulate** can express their ideas clearly in words; someone **eloquent** expresses ideas or opinions clearly in a way that may influence others. To say something in a **succinct** way is to say it clearly and in few words, and the **mot juste** is exactly the right word for the situation.",
+      "examples": [
+        { "text": "Sam is so good with words - he can always find the **mot juste**." },
+        { "text": "I love listening to her - she's such an **eloquent** speaker." },
+        { "text": "We don't have much time, so I'll be as **succinct** as possible." }
+      ],
+      "note": "Mot juste is French for 'correct word'."
+    },
+    {
+      "type": "explain",
+      "heading": "Using language badly",
+      "text": "Someone **inarticulate** is unable to express their ideas clearly. If you are **speechless** or **lost for words**, you are so surprised that you cannot say anything. If you **put your foot in it**, you say something without thinking and may upset or embarrass someone.",
+      "examples": [
+        { "text": "I couldn't understand a word of what he was saying - he was completely **inarticulate**." },
+        { "text": "I couldn't believe she'd lost all my money - I was completely **speechless**!" },
+        { "text": "I was completely **lost for words** when Adam told me he'd quit his job." },
+        { "text": "I think I **put my foot in it** when I asked Sara how Tom was. I didn't realise they'd split up!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Noun and adjective",
+      "columns": ["Noun", "Adjective", "Change of stress?"],
+      "rows": [
+        ["orthography", "orthographic", "yes"],
+        ["lexicon", "lexical", "no"],
+        ["modality", "modal", "yes"],
+        ["metaphor", "metaphorical", "yes"],
+        ["polysemy", "polysemous", "no"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each specialist term with what it covers.",
+      "pairs": [
+        { "left": "syntax", "right": "grammar and word order" },
+        { "left": "phonology", "right": "the sound system of a language" },
+        { "left": "lexicon", "right": "vocabulary" },
+        { "left": "orthography", "right": "writing systems and spelling" },
+        { "left": "morphology", "right": "how words are formed" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Japanese uses several different writing systems, with hundreds of ___.",
+      "hint": "(letters or symbols)",
+      "answers": ["characters"],
+      "explanation": "Characters are the letters or symbols of a writing system."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ of a language like English is constantly changing as new words are coined.",
+      "hint": "(specialised term for vocabulary)",
+      "answers": ["lexicon"],
+      "explanation": "Lexicon is the specialised term for the vocabulary of a language."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This ancient and beautiful alphabet uses ___ to express meaning through pictures.",
+      "hint": "(characters representing pictures)",
+      "answers": ["pictograms"],
+      "explanation": "Pictograms represent pictures; ideograms represent ideas or concepts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sam is so good with words - he can always find the ___.",
+      "hint": "(French: exactly the right word)",
+      "answers": ["mot juste"],
+      "explanation": "The mot juste is exactly the right word or phrase for a particular situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love listening to her - she's such an ___ speaker.",
+      "hint": "(able to influence others with clear ideas)",
+      "answers": ["eloquent"],
+      "explanation": "An eloquent speaker expresses ideas clearly in a way that may influence others."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We don't have much time, so I'll be as ___ as possible.",
+      "hint": "(clear and using few words)",
+      "answers": ["succinct"],
+      "explanation": "To be succinct is to express something clearly using few words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think I put my ___ in it when I asked Sara how Tom was. I didn't realise they'd split up!",
+      "hint": "(say something embarrassing)",
+      "answers": ["foot"],
+      "explanation": "To put your foot in it is to say something without thinking that may upset or embarrass someone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Meanings connected with probability and obligation are expressed differently in different languages. What is the technical term?",
+      "options": ["modality", "morphology", "orthography", "polysemy"],
+      "answer": 0,
+      "explanation": "Modality covers meanings such as possibility and necessity; English expresses it with modal verbs."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Some world languages have very few vowel phonemes and no combinations of vowels. What are these combinations called?",
+      "options": ["diphthongs", "morphemes", "ideograms", "registers"],
+      "answer": 0,
+      "explanation": "Diphthongs are sounds made by combining vowels; English has ten of them."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is 'military jargon'?",
+      "options": ["language used by a particular group who share a job or interest", "an obsolete word that has fallen out of use", "a word with several different meanings", "a non-literal use of a word"],
+      "answer": 0,
+      "explanation": "Jargon is the specific type of language used by a particular group sharing a job or interest."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a word is obsolete, it has just been coined.",
+      "answer": false,
+      "explanation": "Obsolete words have fallen out of use; new words are coined, that is created."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you are lost for words, you are so surprised that you are unable to say anything.",
+      "answer": true,
+      "explanation": "Correct - you can also say you are speechless."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which term does each example illustrate?",
+      "categories": ["Metaphor", "Polysemy", "Computer jargon"],
+      "items": [
+        { "text": "Life is a journey and sometimes your path will be rocky.", "category": 0 },
+        { "text": "To see the light, meaning to understand something.", "category": 0 },
+        { "text": "The boy with the fair hair won all the prizes at the fair.", "category": 1 },
+        { "text": "A fine day, a parking fine and a fine wine.", "category": 1 },
+        { "text": "What kind of external storage device do you have access to?", "category": 2 },
+        { "text": "You need to back up your files to the cloud.", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this definition in order.",
+      "words": ["A", "register", "is", "the", "style", "of", "language", "used", "in", "a", "particular", "situation"],
+      "answer": "A register is the style of language used in a particular situation",
+      "explanation": "Formal and informal are two of the registers any language has."
+    }
+  ]
+}

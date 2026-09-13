@@ -1,0 +1,171 @@
+{
+  "number": 10,
+  "title": "Food and drink",
+  "subtitle": "bread, fruit, vegetables, fruit juice",
+  "summary": "Name everyday food, fast food, fruit, vegetables and drinks, and use uncountable words like bread and fruit correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Everyday food",
+      "text": "**Bread**, **rice** and **pasta** are everyday food in many countries. We put **salt** and **pepper** on food, and **sugar** in tea or coffee. A person who never eats **meat** or **fish** is **vegetarian**.",
+      "examples": [
+        { "text": "Would you like some **bread**?", "wrong": "a bread" },
+        { "text": "I love sushi because I love **rice**." },
+        { "text": "**Pasta** is good for you, but don't eat too much!" },
+        { "text": "I always put **salt** on my chips, but not **pepper**." },
+        { "text": "My sister never eats meat or fish. She's **vegetarian**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Fast food",
+      "text": "**Fast food** is food you can buy and eat quickly: **hamburgers**, **hot dogs** and **pizzas**. A **hot dog** is a sausage inside a piece of bread.",
+      "examples": [
+        { "text": "I eat **hamburgers**, **hot dogs** and **pizzas** when I don't have much time." },
+        { "text": "**Fish and chips** is popular in Britain, Australia and New Zealand." },
+        { "text": "**Chips** are made from potatoes, and **hamburgers** are made from meat." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Fruit and vegetables",
+      "columns": ["Fruit", "Vegetables"],
+      "rows": [
+        ["an apple", "a carrot"],
+        ["an orange", "beans"],
+        ["a banana", "potatoes"],
+        ["a pear", "tomatoes"],
+        ["grapes", "peas"],
+        ["strawberries", "onions"],
+        ["a pineapple", "garlic and mushrooms"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Good for you",
+      "text": "**Vegetables** are good for you, and **fruit** is good for you too. Remember that **fruit** is uncountable in English, so it takes a singular verb and has no plural.",
+      "examples": [
+        { "text": "**Fruit is** also good for you.", "wrong": "Fruits are" },
+        { "text": "I love **fruit**.", "wrong": "I love fruits" },
+        { "text": "**Vegetables are** good for you." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Drinks",
+      "text": "The usual hot drinks are **tea** and **coffee**. Cold drinks are **milk**, **fruit juice** and **mineral water**. **Beer** and **wine** are drinks with alcohol.",
+      "examples": [
+        { "text": "I have **tea** with **milk** and **sugar** in the morning." },
+        { "text": "A glass of orange **fruit juice**, please." },
+        { "text": "Would you like **mineral water** or **wine**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In a supermarket, look for food and drink with English names on them. Try to learn some of the words you see."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "___ is very popular in Japan. People eat it with sushi.",
+      "hint": "(small white grains)",
+      "answers": ["rice"],
+      "explanation": "Rice is uncountable: I love rice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pasta and ___ are very popular in Italy.",
+      "hint": "(you eat it with cheese and tomato on top)",
+      "answers": ["pizza", "pizzas"],
+      "explanation": "Pizza is a popular Italian food, and also fast food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Chips are made from ___.",
+      "hint": "(a vegetable)",
+      "answers": ["potatoes"],
+      "explanation": "Chips come from potatoes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ is a sausage inside a piece of bread.",
+      "hint": "(two words, fast food)",
+      "answers": ["hot dog"],
+      "explanation": "A hot dog is a kind of fast food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many British people eat ___ and chips.",
+      "hint": "(it swims)",
+      "answers": ["fish"],
+      "explanation": "Fish and chips is popular in Britain, Australia and New Zealand."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vegetarians do not eat ___.",
+      "options": ["meat", "vegetables", "fast food"],
+      "answer": 0,
+      "explanation": "A vegetarian never eats meat or fish."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Garlic is a kind of ___.",
+      "options": ["vegetable", "fruit", "fast food"],
+      "answer": 0,
+      "explanation": "Garlic, onions and carrots are vegetables."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You put ___ in coffee.",
+      "options": ["sugar", "salt", "beer"],
+      "answer": 0,
+      "explanation": "We put sugar in tea and coffee, and salt on food."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Fruit or vegetable?",
+      "categories": ["Fruit", "Vegetables"],
+      "items": [
+        { "text": "pineapple", "category": 0 },
+        { "text": "grapes", "category": 0 },
+        { "text": "apple", "category": 0 },
+        { "text": "pear", "category": 0 },
+        { "text": "beans", "category": 1 },
+        { "text": "onions", "category": 1 },
+        { "text": "carrot", "category": 1 },
+        { "text": "mushrooms", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each drink with its description.",
+      "pairs": [
+        { "left": "fruit juice", "right": "you make it from oranges or apples" },
+        { "left": "mineral water", "right": "water that comes in a bottle" },
+        { "left": "milk", "right": "a white drink that comes from cows" },
+        { "left": "coffee", "right": "a hot brown drink many people have in the morning" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I love fruits and I eat some every day.",
+      "answer": false,
+      "explanation": "I love fruit and I eat some every day. Fruit is uncountable, so there is no plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "Vegetables are good for you.",
+      "answer": true,
+      "explanation": "Correct. Vegetables is plural, so the verb is are."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask politely for some bread at the table.",
+      "words": ["Can", "I", "have", "some", "bread,", "please?"],
+      "answer": "Can I have some bread, please?",
+      "explanation": "Bread is uncountable: say some bread, not a bread."
+    }
+  ]
+}

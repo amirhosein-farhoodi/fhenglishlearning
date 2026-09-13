@@ -1,0 +1,198 @@
+{
+  "number": 15,
+  "title": "At school and university",
+  "subtitle": "study, take an exam, pass, fail",
+  "summary": "Name school subjects and classroom things, and use the verbs we need to talk about studying and exams.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "School subjects",
+      "columns": ["Subject", "What you study"],
+      "rows": [
+        ["maths", "numbers, e.g. 25y + 32x = 51z"],
+        ["physics", "how things move and work, e.g. E = mc2"],
+        ["chemistry", "what things are made of, e.g. H2O"],
+        ["biology", "animals and plants"],
+        ["history", "the past, e.g. the 15th century"],
+        ["geography", "the countries of the world"],
+        ["English", "reading, writing and spelling"],
+        ["modern languages", "French, Spanish, Chinese and others"],
+        ["ICT", "computers (information communication technology)"],
+        ["PE", "sport (physical education)"],
+        ["art", "drawing and painting"],
+        ["music", "singing and playing instruments"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Useful things in the classroom",
+      "columns": ["Thing", "What it is for"],
+      "rows": [
+        ["whiteboard / board", "the teacher writes on it with a board pen"],
+        ["board rubber", "it takes the writing off the board"],
+        ["noticeboard", "you put notices on it with a drawing pin"],
+        ["textbook", "the book you study from"],
+        ["notebook", "you write your notes in it"],
+        ["piece of paper", "you write on it"],
+        ["pen and pencil", "you write with them"],
+        ["rubber", "it takes away pencil marks"],
+        ["pencil sharpener", "it makes your pencil sharp"],
+        ["ruler", "you draw straight lines with it"],
+        ["desk", "you sit at it and work"],
+        ["computer / DVD player / OHP", "machines the teacher uses in class"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "School or university?",
+      "text": "Children **go to school**; older people **go to university**. A maths teacher **teaches** maths and her students **study** maths. At school, children **learn** to read and write.",
+      "examples": [
+        { "text": "Children **go to school** at five in Britain." },
+        { "text": "My sister **goes to university** in Cambridge." },
+        { "text": "He **teaches** English. His students **study** English." },
+        { "text": "At school children **learn** to read and write." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Courses, exams and degrees",
+      "text": "Students can **do a course** in many schools and universities. At the end of a course you often **take** or **do an exam**. You hope to **pass** your exams; you don't want to **fail** them. If you pass your final exams at university, you **get a degree**.",
+      "examples": [
+        { "text": "She wants to **do an English course** this summer." },
+        { "text": "We **take our exams** in June.", "note": "You can also say do our exams." },
+        { "text": "He studied hard and **passed** all his exams." },
+        { "text": "If you **fail** an exam, you can take it again." },
+        { "text": "Next year she will **get her degree** and look for a job." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Students **do** their homework - not ~~make homework~~ and not ~~homeworks~~. Homework has no plural."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the subject with what you study in it.",
+      "pairs": [
+        { "left": "maths", "right": "25y + 32x = 51z" },
+        { "left": "physics", "right": "E = mc2" },
+        { "left": "chemistry", "right": "H2O" },
+        { "left": "biology", "right": "animals and plants" },
+        { "left": "history", "right": "the 15th century" },
+        { "left": "geography", "right": "the countries of the world" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In which subject do you study computers?",
+      "options": ["ICT", "PE", "art", "biology"],
+      "answer": 0,
+      "explanation": "ICT means information communication technology."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In which subject do you do sport?",
+      "options": ["PE", "history", "chemistry", "music"],
+      "answer": 0,
+      "explanation": "PE means physical education."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You use a ___ to take away pencil marks.",
+      "hint": "(one word)",
+      "answers": ["rubber"],
+      "explanation": "A rubber takes pencil writing off the paper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You use a ___ to draw a straight line.",
+      "hint": "(one word)",
+      "answers": ["ruler"],
+      "explanation": "A ruler is long and flat, and you draw straight lines with it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each classroom thing in the right group.",
+      "categories": ["You write with it", "You write on it"],
+      "items": [
+        { "text": "pen", "category": 0 },
+        { "text": "pencil", "category": 0 },
+        { "text": "board pen", "category": 0 },
+        { "text": "notebook", "category": 1 },
+        { "text": "piece of paper", "category": 1 },
+        { "text": "whiteboard", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ethan does well at school. He finds it easy to ___ new things.",
+      "hint": "(learn / teach)",
+      "answers": ["learn"],
+      "explanation": "The teacher teaches and the student learns."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He always ___ his homework in the evening.",
+      "hint": "(do)",
+      "answers": ["does"],
+      "explanation": "We do homework - not make homework."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ethan is a good student. He usually ___ all his exams.",
+      "hint": "(pass)",
+      "answers": ["passes"],
+      "explanation": "pass an exam = do well in it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If he ___ his exams, he will be very sad.",
+      "hint": "(fail)",
+      "answers": ["fails"],
+      "explanation": "fail an exam is the opposite of pass an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ethan really wants to ___ geography at university.",
+      "hint": "(study / teach)",
+      "answers": ["study"],
+      "explanation": "Students study a subject at university."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Next year his sister will ___ her degree and then look for a job.",
+      "hint": "(get)",
+      "answers": ["get"],
+      "explanation": "You get a degree when you pass your final exams at university."
+    },
+    {
+      "type": "true_false",
+      "statement": "After school, students make their homeworks.",
+      "answer": false,
+      "explanation": "After school, students do their homework. We do homework, and the word has no plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "Children go to school and students go to university.",
+      "answer": true,
+      "explanation": "Correct. Note that we say go to school and go to university, with no the."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what you hope about your exams.",
+      "words": ["I", "hope", "to", "pass", "my", "exams."],
+      "answer": "I hope to pass my exams.",
+      "explanation": "You hope to pass, and you don't want to fail."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say when students take an exam.",
+      "words": ["At the end of a course", "you", "often", "take", "an", "exam."],
+      "answer": "At the end of a course you often take an exam.",
+      "alternatives": ["At the end of a course you often take an exam"],
+      "explanation": "We take or do an exam at the end of a course."
+    }
+  ]
+}

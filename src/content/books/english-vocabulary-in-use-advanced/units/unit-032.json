@@ -1,0 +1,229 @@
+{
+  "number": 32,
+  "title": "The animal kingdom",
+  "subtitle": "mammals, predators, habitats and poachers",
+  "summary": "Classify animals precisely, describe their behaviour and habitats, and talk about the ways humans protect and exploit them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Classifying animals and birds",
+      "columns": ["Word", "Meaning", "Examples"],
+      "rows": [
+        ["mammal", "gives birth to live babies, not eggs, and feeds them on its own milk", "cat, cow, kangaroo, whale"],
+        ["marsupial", "a mammal whose young grow in a pouch in front of the mother", "kangaroo, koala"],
+        ["rodent", "small gnawing mammal", "mouse, rat, squirrel"],
+        ["reptile", "cold-blooded, scaly animal", "snake, lizard, crocodile, turtle"],
+        ["carnivore", "eats a diet that is mainly or exclusively meat", "lion, tiger, hyena"],
+        ["herbivore", "eats a diet that is mainly or exclusively grass and vegetation", "deer, cow"],
+        ["predator", "hunts and eats other animals", "eagle, lion, shark"],
+        ["scavenger", "feeds on dead animals it has not killed itself", "vulture, hyena"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Warm-blooded and cold-blooded",
+      "left": {
+        "label": "Warm-blooded",
+        "text": "Their temperature stays about the same whatever the weather.",
+        "examples": [
+          "Mammals are **warm-blooded** creatures.",
+          "A mouse must eat constantly because it is **warm-blooded** and loses heat fast."
+        ]
+      },
+      "right": {
+        "label": "Cold-blooded",
+        "text": "They control their temperature by taking in heat from outside or by being very active.",
+        "examples": [
+          "Reptiles are **cold-blooded**.",
+          "The lizard lay on the rock because, being **cold-blooded**, it needed the sun's heat."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Describing typical animal behaviour",
+      "text": "English has a precise adjective for each kind of animal behaviour. **Docile** and **fierce** describe temperament; **tame**, **domesticated** and **wild** describe the animal's relationship with human beings; **savage** is the strongest word of all.",
+      "examples": [
+        { "text": "Our old cat is a very **docile** creature.", "note": "docile = behaves very gently" },
+        { "text": "These birds are so **tame**, they will sit on your hand.", "note": "tame = not afraid of humans, usually through training or long contact" },
+        { "text": "Dogs and horses became **domesticated** thousands of years ago.", "note": "domesticated = living with or used by humans" },
+        { "text": "There are **wild** cats in the mountains.", "note": "wild is the opposite of domesticated" },
+        { "text": "A **savage** wolf killed three of the farmer's sheep.", "note": "savage = extremely violent or wild" },
+        { "text": "A **fierce** dog guarded the gates.", "note": "fierce = behaves aggressively" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Habitat, migration and extinction",
+      "text": "A **habitat** is the natural place where a species lives and breeds. **Migration** is the long journey some animals make to a different habitat. When the last members of a species die, the species **becomes extinct**.",
+      "examples": [
+        { "text": "As more buildings and roads are constructed, the natural **habitat** for many species is shrinking." },
+        { "text": "The arctic tern **migrates** from the Arctic to the Antarctic, a round trip of over 70,000 km." },
+        { "text": "The dodo was a large flightless bird which **became extinct** in the 17th century.", "note": "became extinct = died out" },
+        { "text": "Many species have **become extinct** because their habitat has been destroyed." }
+      ],
+      "note": "A dodo is now also used to mean someone or something out of touch or obsolete: *That software is a dodo.*"
+    },
+    {
+      "type": "table",
+      "heading": "Places where animals are kept or protected",
+      "columns": ["Place", "What it is"],
+      "rows": [
+        ["game reserve / game park", "an area of land where animals are protected from hunting; game means animals or birds that are hunted"],
+        ["bird sanctuary", "a protected natural area where birds can live and breed"],
+        ["animal (rescue) shelter", "a place where stray cats, dogs and other pets that have lost their home are fed and housed"]
+      ],
+      "note": "A stray is a pet that has wandered away from home."
+    },
+    {
+      "type": "explain",
+      "heading": "Human exploitation of animals",
+      "text": "**Blood sports** are sports whose purpose is to kill or injure animals. The **fur trade** and the **ivory trade** are the buying and selling of animal fur and of ivory from elephants' tusks. **Poachers** hunt animals illegally, and **animal rights activists** campaign against all of it.",
+      "examples": [
+        { "text": "Many people are opposed to **blood sports** such as foxhunting and bullfighting." },
+        { "text": "Some people refuse to wear natural animal fur, since they are opposed to the **fur trade**." },
+        { "text": "**Poachers** kill hundreds of elephants every year to supply the **ivory trade**." },
+        { "text": "**Animal rights activists** often demonstrate outside research laboratories where animals are used in experiments." },
+        { "text": "Rhinos are hunted for their **horn**, which is said to have healing powers.", "note": "a horn is the hard, pointed, often curved part growing from an animal's head" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Noun", "Verb", "Adjective"],
+      "rows": [
+        ["carnivore", "-", "carnivorous"],
+        ["herbivore", "-", "herbivorous"],
+        ["predator", "prey (on)", "predatory"],
+        ["poacher", "poach", "-"],
+        ["migration", "migrate", "migratory"],
+        ["domestication", "domesticate", "domesticated"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "There are a lot of different types of ___ living in the woods - squirrels, rats and mice.",
+      "hint": "(one word)",
+      "answers": ["rodent", "rodents"],
+      "explanation": "Rodents are small gnawing mammals such as mice, rats and squirrels."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A whale isn't a fish, as it doesn't lay eggs. It's actually a ___.",
+      "hint": "(one word)",
+      "answers": ["mammal"],
+      "explanation": "A mammal gives birth to live young and feeds them on its own milk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are some interesting ___ near the river - turtles and crocodiles.",
+      "hint": "(one word, plural)",
+      "answers": ["reptiles"],
+      "explanation": "Reptiles are cold-blooded animals such as snakes, lizards, turtles and crocodiles."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The mother bird protects her eggs from ___, the animals that hunt and eat other animals.",
+      "hint": "(one word, plural)",
+      "answers": ["predators"],
+      "explanation": "A predator hunts and eats other animals."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Everyone thinks these animals are carnivores, but in fact they only feed on certain kinds of leaves - they are ___.",
+      "options": ["herbivores", "scavengers", "marsupials", "rodents"],
+      "answer": 0,
+      "explanation": "A herbivore eats a diet that is mainly or exclusively vegetation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sheep are generally rather ___ animals, but the other day a ram attacked our dog.",
+      "hint": "(behaves very gently)",
+      "answers": ["docile"],
+      "explanation": "Docile describes an animal that behaves very gently."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Horses were probably first ___ many thousands of years ago.",
+      "hint": "(domesticate)",
+      "answers": ["domesticated"],
+      "explanation": "Domesticated animals live with or are used by humans."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some dolphins are very ___ and will swim along with human beings.",
+      "hint": "(not afraid of humans)",
+      "answers": ["tame"],
+      "explanation": "Tame animals are not afraid of humans, usually through training or long contact."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think ___ birds should ever be hunted. They should be left in peace in their natural surroundings.",
+      "hint": "(opposite of domesticated)",
+      "answers": ["wild"],
+      "explanation": "Wild is the opposite of domesticated."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the word it describes.",
+      "pairs": [
+        { "left": "natural home of a species", "right": "habitat" },
+        { "left": "protected place where birds can breed", "right": "sanctuary" },
+        { "left": "creature that eats the flesh of animals killed by others", "right": "scavenger" },
+        { "left": "pet that has wandered away from home", "right": "stray" },
+        { "left": "animal that carries its young in a pouch", "right": "marsupial" },
+        { "left": "extinct bird, or an out-of-touch person or idea", "right": "dodo" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Sports that deliberately injure or kill animals for pleasure", "right": "blood sports" },
+        { "left": "The buying and selling of elephants' tusks", "right": "the ivory trade" },
+        { "left": "People who illegally hunt or catch animals", "right": "poachers" },
+        { "left": "The most valuable part of a rhino", "right": "its horn" },
+        { "left": "Where you go to give a home to a pet that has lost one", "right": "an animal rescue shelter" },
+        { "left": "Where you go in Africa to see protected wild animals", "right": "a game reserve" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each creature warm-blooded or cold-blooded?",
+      "categories": ["Warm-blooded", "Cold-blooded"],
+      "items": [
+        { "text": "cow", "category": 0 },
+        { "text": "kangaroo", "category": 0 },
+        { "text": "whale", "category": 0 },
+        { "text": "mouse", "category": 0 },
+        { "text": "snake", "category": 1 },
+        { "text": "lizard", "category": 1 },
+        { "text": "crocodile", "category": 1 },
+        { "text": "turtle", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the adjective formed from *predator*?",
+      "options": ["predatory", "predative", "predatorial", "predating"],
+      "answer": 0,
+      "explanation": "predator (noun) - prey on (verb) - predatory (adjective)."
+    },
+    {
+      "type": "true_false",
+      "statement": "A scavenger is an animal that hunts and kills the animals it eats.",
+      "answer": false,
+      "explanation": "A scavenger feeds on dead animals which it has not killed itself; the hunter is a predator."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order. (Building is destroying where animals live.)",
+      "words": ["As", "more buildings", "and roads", "are constructed,", "the natural habitat", "for many species", "is shrinking."],
+      "answer": "As more buildings and roads are constructed, the natural habitat for many species is shrinking.",
+      "explanation": "A habitat is the preferred natural place for living and breeding."
+    }
+  ]
+}

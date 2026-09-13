@@ -1,0 +1,173 @@
+{
+  "number": 21,
+  "title": "In a hotel",
+  "subtitle": "a double room, reception, a wake-up call",
+  "summary": "Book a hotel room, ask for what you need at reception and check out at the end of your stay.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Places and things in a hotel",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["reception", "the desk near the door where you arrive"],
+        ["the lift", "it takes you up to your floor"],
+        ["a key", "you open your room door with it"],
+        ["a form", "a paper with your name and address, which you fill in"],
+        ["the bill", "the paper that says how much you must pay"],
+        ["luggage", "your bags and suitcases"],
+        ["a mini-bar", "a small fridge in your room with drinks in it"],
+        ["a hairdryer", "you dry your hair with it"],
+        ["a shower", "you stand under it to wash"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A single room or a double room?",
+      "text": "A **single room** is for one person. A **double room** is for two people. If you booked a room before you arrived, you have a **reservation**.",
+      "examples": [
+        { "text": "Do you have a **single room** for tonight?", "note": "for one person" },
+        { "text": "We'd like a **double room** with a **view of** the sea." },
+        { "text": "I have a **reservation**. My name is Chen.", "note": "= I booked a room" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What the receptionist says",
+      "text": "At **reception** the receptionist gives you your key and asks you to **fill in** a **form** and **sign** your name.",
+      "examples": [
+        { "text": "Here is your **key**. Your room is on the first floor. Take the **lift**. It's over there." },
+        { "text": "Would you like some help with your **luggage**?" },
+        { "text": "Can you **fill in** this **form**, please? **Sign** your name here, please." },
+        { "text": "Please **check** your **bill**.", "note": "= make sure it is correct" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Leaving the hotel",
+      "text": "When you leave the hotel on the last morning, you **check out**. You ask for the **bill** and you pay it.",
+      "examples": [
+        { "text": "Can I **check out**, please?" },
+        { "text": "Can I have the **bill**, please?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about hotel services",
+      "text": "**Room service** brings food and drink to your room. A **wake-up call** is a phone call that wakes you up. An **outside line** lets you phone someone who is not in the hotel.",
+      "examples": [
+        { "text": "How much is a **single room** with a bathroom?" },
+        { "text": "Can I order **room service**?" },
+        { "text": "How do I get an **outside line**? What is the **code** for Poland?" },
+        { "text": "Can I have a **wake-up call** at 6.30, please?" },
+        { "text": "Can I **exchange** some money, please?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say a room with a view of the sea - not ~~a room with a see of the sea~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer:* My wife and I are together. Can I have a ___ room for tonight, please?",
+      "hint": "(for two people)",
+      "answers": ["double"],
+      "explanation": "A double room is for two people."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A room for one person is a ___ room.",
+      "options": ["single", "double", "one", "alone"],
+      "answer": 0,
+      "explanation": "Single = for one person; double = for two people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer:* I have a ___. My name is Lopez. I booked the room last week.",
+      "hint": "(one word)",
+      "answers": ["reservation"],
+      "explanation": "A reservation means you booked the room before you arrived."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match what you want with what you need.",
+      "pairs": [
+        { "left": "to have a drink in your room", "right": "a mini-bar" },
+        { "left": "to go to the top floor", "right": "the lift" },
+        { "left": "to open your door", "right": "a key" },
+        { "left": "to get up at 6 am", "right": "a wake-up call" },
+        { "left": "to phone your country", "right": "an outside line" },
+        { "left": "to dry your hair", "right": "a hairdryer" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Receptionist:* I can give you room 25. It has a ___ of the sea.",
+      "hint": "(four letters)",
+      "answers": ["view"],
+      "explanation": "A room with a view of the sea looks out at the sea."
+    },
+    {
+      "type": "true_false",
+      "statement": "Please fill in this form and sign your name here.",
+      "answer": true,
+      "explanation": "Correct. We fill in a form and sign our name."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'd like a sit-up call at 7.30 and I'd like to make breakfast in my room, please.",
+      "answer": false,
+      "explanation": "I'd like a wake-up call at 7.30 and I'd like to have breakfast in my room, please."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Receptionist:* Would you like some help with your ___?",
+      "hint": "(your bags and suitcases)",
+      "answers": ["luggage"],
+      "explanation": "Luggage means your bags and suitcases."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to phone someone who is not in the hotel. What do you need?",
+      "options": ["an outside line", "room service", "a wake-up call", "a mini-bar"],
+      "answer": 0,
+      "explanation": "An outside line lets you phone people outside the hotel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can I have the ___, please? I'll check it now.",
+      "hint": "(what you must pay)",
+      "answers": ["bill"],
+      "explanation": "The bill says how much your stay costs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm leaving today. Can I ___ out, please?",
+      "hint": "(one word)",
+      "answers": ["check"],
+      "explanation": "You check out of a hotel on your last morning."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask the receptionist to wake you up early.",
+      "words": ["Can", "I", "have", "a", "wake-up", "call", "at", "6.30,", "please?"],
+      "answer": "Can I have a wake-up call at 6.30, please?",
+      "explanation": "We have a wake-up call - not ~~make~~ one."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it in your room, or somewhere else in the hotel?",
+      "categories": ["In your room", "Somewhere else in the hotel"],
+      "items": [
+        { "text": "a mini-bar", "category": 0 },
+        { "text": "a hairdryer", "category": 0 },
+        { "text": "a shower", "category": 0 },
+        { "text": "a TV", "category": 0 },
+        { "text": "reception", "category": 1 },
+        { "text": "the lift", "category": 1 }
+      ]
+    }
+  ]
+}

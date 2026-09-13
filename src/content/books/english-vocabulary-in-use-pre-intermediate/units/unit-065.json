@@ -1,0 +1,193 @@
+{
+  "number": 65,
+  "title": "Apologies, excuses and thanks",
+  "subtitle": "I'm terribly sorry, I was held up, That's very kind of you",
+  "summary": "Apologise in the right way for the situation, give an excuse, and thank people and reply to thanks.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Saying sorry",
+      "text": "To **apologise** means to say sorry. The words **terribly** and **really** make you sound 'more sorry'. **I beg your pardon** is a more formal apology, often used when you walk into someone.",
+      "examples": [
+        { "text": "*A:* I'm (**terribly**/**really**) **sorry** - I've forgotten your book. *B:* Never mind. That's OK." },
+        { "text": "*A:* **I beg your pardon** - I didn't see you there. *B:* That's all right." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which apology in which situation",
+      "columns": ["You say", "When"],
+      "rows": [
+        ["**I'm sorry to disturb you.**", "you interrupt someone who is busy working"],
+        ["**I'm sorry to keep you waiting.** I won't be long.", "someone is waiting for you; I won't be long = I'll be with you very soon"],
+        ["**Excuse me**, I won't be a minute.", "you have to leave a room or go somewhere"],
+        ["**I must apologise for** the noise last night.", "a more formal apology, often used in business letters"],
+        ["**I'm (really) sorry I'm late.**", "you arrive after the time you agreed"]
+      ],
+      "note": "Common replies: Never mind. That's OK. That's all right. Don't worry. I understand."
+    },
+    {
+      "type": "tip",
+      "text": "Say **I'm sorry I'm late**, not ~~I'm sorry for be late~~ or ~~I'm sorry to be late~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Excuses",
+      "text": "After an apology we often give an explanation or **excuse** - a reason for the apology, which may or may not be true. These are excuses for being late.",
+      "examples": [
+        { "text": "There was a **delay** on the underground.", "note": "= a train or plane leaves or arrives later than you expect; you can also say a hold-up" },
+        { "text": "I was **held up** in traffic.", "note": "hold up = cause a delay and make someone late; it is often used in the passive" },
+        { "text": "My train was **cancelled**, and I had to wait half an hour for the next one.", "note": "= the train company decided not to run the train" },
+        { "text": "I **overslept**.", "note": "= slept longer than I planned or wanted to" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Thanks and replies",
+      "text": "**Thanks** and **cheers** are informal; **Thank you. That's very kind of you.** is polite and a little more formal. Common replies are **Not at all**, **That's OK** and **No problem**.",
+      "examples": [
+        { "text": "*A:* **Thanks** (very much). *B:* **Not at all**." },
+        { "text": "*A:* I've brought your books. *B:* Oh, **cheers**. *A:* **No problem**.", "note": "cheers and no problem are informal" },
+        { "text": "*A:* I'll post those letters for you. *B:* Oh, **thank you. That's very kind of you.**" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Informal and more formal",
+      "left": {
+        "label": "Informal",
+        "text": "With friends and people you know well.",
+        "examples": [
+          "**Thanks.** / **Cheers.**",
+          "**No problem.**",
+          "**Sorry** I'm late."
+        ]
+      },
+      "right": {
+        "label": "More formal",
+        "text": "With customers, in business letters, or with people you don't know.",
+        "examples": [
+          "**Thank you. That's very kind of you.**",
+          "**I must apologise for** the delay.",
+          "**I beg your pardon.**"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Learn apology and reply together: *I'm terribly sorry.* - *Never mind.* / *Sorry to keep you waiting.* - *That's all right.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the phrases that have a similar meaning.",
+      "pairs": [
+        { "left": "thanks very much", "right": "cheers" },
+        { "left": "I'm terribly sorry", "right": "I beg your pardon" },
+        { "left": "I was held up", "right": "there was a delay" },
+        { "left": "don't worry", "right": "never mind" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Thanks very much. *B:* ___ at all.",
+      "hint": "(one word)",
+      "answers": ["Not", "not"],
+      "explanation": "Not at all is a common reply to thanks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Sorry to ___ you waiting. I won't be long. *B:* That's all right.",
+      "hint": "(one verb)",
+      "answers": ["keep"],
+      "explanation": "We say sorry to keep you waiting when someone is waiting for us."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Sorry to keep you waiting. I won't be ___.",
+      "hint": "(one word - I'll be with you very soon)",
+      "answers": ["long"],
+      "explanation": "I won't be long = I will be with you very soon."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm sorry I'm late. The 7:30 train was ___, so I had to wait for the next one.",
+      "hint": "(the company decided not to run it)",
+      "answers": ["cancelled"],
+      "explanation": "If a train is cancelled, the company decides not to run it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I gave your parents a lift to the station. *B:* Oh, thanks. That's very ___ of you.",
+      "hint": "(one adjective)",
+      "answers": ["kind"],
+      "explanation": "That's very kind of you is a polite reply when someone helps you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I must ___ for missing the meeting yesterday afternoon. *B:* Never mind.",
+      "hint": "(one verb - say sorry)",
+      "answers": ["apologise"],
+      "explanation": "I must apologise for ... is a more formal apology."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I ___ your pardon. I thought the room was empty. *B:* That's OK.",
+      "hint": "(one verb)",
+      "answers": ["beg"],
+      "explanation": "I beg your pardon is a formal apology, often used when you walk into someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You slept longer than you planned, so you say: 'I'm sorry I'm late - I ___.'",
+      "hint": "(one word, past tense)",
+      "answers": ["overslept"],
+      "explanation": "Oversleep = sleep longer than you planned or wanted to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You need to speak to your boss, but she is working. What do you say when you enter her office?",
+      "options": [
+        "I'm sorry to disturb you.",
+        "I'm sorry to keep you waiting.",
+        "I beg your pardon.",
+        "Cheers."
+      ],
+      "answer": 0,
+      "explanation": "We say sorry to disturb you when we interrupt someone who is busy working."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You have to leave a meeting to take an important phone call. What do you say to the others?",
+      "options": [
+        "Excuse me, I have to take an important phone call.",
+        "Never mind, I have to take a phone call.",
+        "Not at all, I have an important phone call.",
+        "Cheers, I have an important phone call."
+      ],
+      "answer": 0,
+      "explanation": "We use Excuse me when we have to leave a room or go somewhere."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are half an hour late because of the traffic. Give your excuse.",
+      "words": ["I", "was", "held", "up", "in", "traffic."],
+      "answer": "I was held up in traffic.",
+      "explanation": "Hold up means cause a delay, and it is usually used in the passive: I was held up."
+    },
+    {
+      "type": "true_false",
+      "statement": "You arrive twenty minutes late and say: 'I'm sorry for be late.'",
+      "answer": false,
+      "explanation": "I'm sorry I'm late. We do not say ~~I'm sorry for be late~~."
+    },
+    {
+      "type": "true_false",
+      "statement": "A man offers to help you push your broken-down car, so you say: 'Oh, thank you very much. That's very kind of you.'",
+      "answer": true,
+      "explanation": "Correct. That's very kind of you is the polite reply when someone offers help."
+    }
+  ]
+}

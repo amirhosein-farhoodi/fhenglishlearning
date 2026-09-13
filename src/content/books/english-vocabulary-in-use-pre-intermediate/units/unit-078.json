@@ -1,0 +1,224 @@
+{
+  "number": 78,
+  "title": "Prepositional phrases",
+  "subtitle": "by mistake, on purpose, in a hurry",
+  "summary": "Learn fixed phrases built from by, on, in or at + a noun, and tell apart pairs like on time and in time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "by + noun",
+      "text": "**By** + noun often tells you how something happened. Note that there is no *the* or *a* in these phrases.",
+      "examples": [
+        { "text": "I took his pen **by mistake**.", "note": "= I thought it was my pen" },
+        { "text": "These shoes are made **by hand**.", "note": "= not using a machine" },
+        { "text": "I met them **by chance**.", "note": "= it wasn't planned; it was luck" },
+        { "text": "He broke the plate **by accident**.", "note": "= he did not want or plan to do it" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "by accident or on purpose?",
+      "left": {
+        "label": "by accident",
+        "text": "The person did not plan it and did not want it to happen.",
+        "examples": [
+          "He broke the plate **by accident**.",
+          "I'm afraid I deleted your email **by accident**."
+        ]
+      },
+      "right": {
+        "label": "on purpose",
+        "text": "The person wanted to do it; it was their intention.",
+        "examples": [
+          "He broke the plate **on purpose**.",
+          "I'm sure she broke that vase **on purpose**; she never liked it."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "on + noun",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["on the phone", "using the phone", "My boss is on the phone at the moment."],
+        ["on strike", "refusing to work because of a problem over pay or hours", "The workers are on strike."],
+        ["on display", "where people can look at it", "The books were on display in the window."],
+        ["on fire", "burning", "Part of the building was on fire."],
+        ["on board", "on the train, boat or plane", "Most of the passengers are now on board."],
+        ["on business", "there for work, not a holiday", "They're both in Germany on business."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "in + noun",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["in a hurry", "needing to do something very quickly", "Why are they always in a hurry?"],
+        ["in detail", "including all the important information", "I explained everything in detail."],
+        ["in future", "from now on", "She won't make that mistake again in future."],
+        ["in tears", "crying", "The poor little girl was in tears."],
+        ["in a moment / in a minute", "not now, but very soon", "I'll see you in a moment."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "on time or in time?",
+      "left": {
+        "label": "on time",
+        "text": "Exactly at the right time, not late.",
+        "examples": [
+          "Lessons begin at 8.30 and the students are usually here **on time**.",
+          "The meeting was planned for 11 am and we got there **on time**."
+        ]
+      },
+      "right": {
+        "label": "in time",
+        "text": "Before the time when you need to be there.",
+        "examples": [
+          "If we hurry, we'll be there **in time**.",
+          "Did you get to the cinema **in time** for the film?"
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "in the end or at the end?",
+      "left": {
+        "label": "in the end",
+        "text": "Finally, after a lot of time or thought.",
+        "examples": [
+          "We were tired of waiting, so **in the end** we went home.",
+          "It was a terrible journey, but we got there **in the end**."
+        ]
+      },
+      "right": {
+        "label": "at the end",
+        "text": "In the last part of something.",
+        "examples": [
+          "**At the end** of the book they get married.",
+          "He gets killed **at the end** of the film."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "up-to-date, out-of-date and at the moment",
+      "text": "**Out-of-date** information is old and no longer correct. **Up-to-date** information is the most recent. **At the moment** means right now.",
+      "examples": [
+        { "text": "I'm afraid this book's a bit **out-of-date**." },
+        { "text": "I try to keep **up-to-date** with all the changes." },
+        { "text": "I can't speak to you **at the moment**.", "wrong": "in this moment" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *I'm busy at the moment*, never ~~I'm busy in this moment~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each noun?",
+      "categories": ["on ...", "in ...", "by ..."],
+      "items": [
+        { "text": "board", "category": 0 },
+        { "text": "display", "category": 0 },
+        { "text": "fire", "category": 0 },
+        { "text": "detail", "category": 1 },
+        { "text": "future", "category": 1 },
+        { "text": "tears", "category": 1 },
+        { "text": "hand", "category": 2 },
+        { "text": "mistake", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm afraid I deleted your email ___ accident.",
+      "options": ["by", "on", "in", "at"],
+      "answer": 0,
+      "explanation": "By accident = you did not plan or want it to happen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did she hit him ___ purpose?",
+      "options": ["on", "by", "in", "with"],
+      "answer": 0,
+      "explanation": "On purpose = the person wanted to do it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm afraid I'm busy ___ the moment.",
+      "options": ["at", "on", "in", "by"],
+      "answer": 0,
+      "explanation": "At the moment = right now. Never say in this moment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I just saw them ___ chance - we hadn't planned to meet.",
+      "hint": "(preposition)",
+      "answers": ["by"],
+      "explanation": "By chance = it wasn't planned; it was luck."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw smoke coming out of the window, and I realised the house was on ___.",
+      "hint": "(one word = burning)",
+      "answers": ["fire"],
+      "explanation": "On fire = burning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nobody is at the factory. The workers are all on ___.",
+      "hint": "(one word - about pay)",
+      "answers": ["strike"],
+      "explanation": "On strike = refusing to work because of a problem over pay or hours."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "These chocolates are expensive because they are all made by ___.",
+      "hint": "(one word - not by machine)",
+      "answers": ["hand"],
+      "explanation": "Made by hand = made without a machine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry I can't stop to talk now - I'm in a ___.",
+      "hint": "(one word - no time)",
+      "answers": ["hurry"],
+      "explanation": "In a hurry = needing to do something very quickly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She never thanked me for the present, so I won't buy her another one in ___.",
+      "hint": "(one word)",
+      "answers": ["future"],
+      "explanation": "In future = from now on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I told them everything they wanted to know. I explained it all in ___.",
+      "hint": "(one word - all the information)",
+      "answers": ["detail"],
+      "explanation": "In detail = including all the important information."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each meaning with the right prepositional phrase.",
+      "pairs": [
+        { "left": "at exactly the right time, not late", "right": "on time" },
+        { "left": "before the time you need to be there", "right": "in time" },
+        { "left": "finally, after a lot of time", "right": "in the end" },
+        { "left": "in the last part of a book or film", "right": "at the end" },
+        { "left": "old, and the information is wrong", "right": "out-of-date" },
+        { "left": "there for work, not a holiday", "right": "on business" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "'I'm writing an email, but I'll be with you in a minute.' This means the speaker will come very soon.",
+      "answer": true,
+      "explanation": "Correct. In a minute / in a moment = not now, but very soon."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "number": 41,
+  "title": "Sport and leisure",
+  "subtitle": "play football, go swimming, do a bit of yoga",
+  "summary": "Name sports, the people who do them and the places they happen, and choose between play, go and do.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Sports, people and verbs",
+      "columns": ["Sport", "Person", "Verb"],
+      "rows": [
+        ["athletics", "athlete", "run, jump, throw"],
+        ["motor racing", "racing driver", "drive / race"],
+        ["swimming", "swimmer", "swim / race"],
+        ["boxing", "boxer", "box / fight"],
+        ["skiing", "skier", "ski"],
+        ["football", "footballer", "play"],
+        ["ice hockey", "ice hockey player", "play"],
+        ["golf", "golfer", "play"],
+        ["basketball", "basketball player", "play"],
+        ["sailing", "sailor", "sail"]
+      ],
+      "note": "Most sports are also verbs: a skier skis, a boxer boxes, a sailor sails."
+    },
+    {
+      "type": "explain",
+      "heading": "play, go or do?",
+      "text": "We **play** sports such as football, ice hockey, tennis, golf and basketball. We use **go** with other sports and activities, especially those ending in *-ing*. We use **do** with *a lot of* or *a bit of* + *-ing*.",
+      "examples": [
+        { "text": "I **play** football in the winter. I **play** basketball twice a week." },
+        { "text": "I **go** swimming in the lake during summer. We often **go** rock climbing in the mountains." },
+        { "text": "I **did a bit of** sailing in the holidays." },
+        { "text": "I don't **do a lot of** running these days." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where you do it",
+      "columns": ["Sport", "Place"],
+      "rows": [
+        ["football", "a pitch (in a stadium)"],
+        ["athletics", "a track (in a stadium)"],
+        ["swimming", "a pool"],
+        ["boxing", "a boxing ring"],
+        ["skiing", "ski slopes"],
+        ["ice hockey", "an ice hockey rink"],
+        ["golf", "a golf course"],
+        ["basketball", "a basketball court"],
+        ["sailing", "on the sea or a lake"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Equipment",
+      "text": "Every sport needs its own equipment. A football goal has a **net**, an ice hockey player uses a **stick**, a skier wears **skis**, and a swimmer needs a **swimming costume**. The player who stands in the goal is the **goalkeeper**.",
+      "examples": [
+        { "text": "The ball went straight into the **net**." },
+        { "text": "If the girls go swimming, they must remember to take their **swimming costumes**." },
+        { "text": "The **goalkeeper** stopped the ball with one hand." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Leisure activities",
+      "text": "Leisure activities are the things you do in your free time: **camping**, **rock climbing**, **jogging**, **yoga** and **going to the gym**. You need a **tent** if you want to go camping.",
+      "examples": [
+        { "text": "We often **go camping** in the summer, and we usually **do a bit of rock climbing** as well." },
+        { "text": "My best friend **does a lot of yoga**." },
+        { "text": "My brother enjoys **jogging**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Keeping fit",
+      "text": "If exercise **keeps you fit**, it helps your body to stay in good condition. You can also **work out** in the gym. If you do something **for fun** or **for pleasure**, you do it because you enjoy it, not because it is serious.",
+      "examples": [
+        { "text": "My brother enjoys jogging, and it **keeps him fit**." },
+        { "text": "I used to **work out** in the gym, but I'm getting a bit old for that now." },
+        { "text": "My dad plays golf. He's not a serious golfer; he just plays **for fun**." },
+        { "text": "I'm afraid I don't **do any exercise** at all." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the three verbs: *play* + ball games, *go* + activities ending in *-ing*, *do* + *a bit of* / *a lot of*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ basketball in the summer and winter.",
+      "hint": "(play / go / do)",
+      "answers": ["play"],
+      "explanation": "We play ball games such as basketball, football and tennis."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We used to ___ camping in the mountains.",
+      "hint": "(play / go / do)",
+      "answers": ["go"],
+      "explanation": "We use go with activities ending in -ing, such as camping and swimming."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you ___ much exercise?",
+      "options": ["do", "play", "go", "make"],
+      "answer": 0,
+      "explanation": "We do exercise; we do a lot of or a bit of an activity."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a sport, a person or a place?",
+      "categories": ["Sport", "Person", "Place"],
+      "items": [
+        { "text": "swimming", "category": 0 },
+        { "text": "motor racing", "category": 0 },
+        { "text": "golfer", "category": 1 },
+        { "text": "racing driver", "category": 1 },
+        { "text": "court", "category": 2 },
+        { "text": "rink", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sport with the person who does it.",
+      "pairs": [
+        { "left": "skiing", "right": "skier" },
+        { "left": "swimming", "right": "swimmer" },
+        { "left": "boxing", "right": "boxer" },
+        { "left": "sailing", "right": "sailor" },
+        { "left": "athletics", "right": "athlete" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ a bit of yoga when I was younger.",
+      "hint": "(past tense of play / go / do)",
+      "answers": ["did"],
+      "explanation": "We use do with a bit of or a lot of + an activity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ a lot of swimming in the summer.",
+      "hint": "(play / go / do)",
+      "answers": ["do"],
+      "explanation": "a lot of swimming takes do, not go."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Equipment or place? Put each word in the right group.",
+      "categories": ["Equipment", "Place"],
+      "items": [
+        { "text": "net", "category": 0 },
+        { "text": "stick", "category": 0 },
+        { "text": "skis", "category": 0 },
+        { "text": "swimming costume", "category": 0 },
+        { "text": "pitch", "category": 1 },
+        { "text": "track", "category": 1 },
+        { "text": "golf course", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you want to keep ___, you need to run three or four miles every other day.",
+      "hint": "(in good condition)",
+      "answers": ["fit"],
+      "explanation": "keep fit = stay in good physical condition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We played golf in Scotland, where they have some fantastic golf ___.",
+      "options": ["courses", "courts", "pitches", "rinks"],
+      "answer": 0,
+      "explanation": "You play golf on a golf course. A court is for basketball or tennis."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can't go camping unless you have a ___.",
+      "hint": "(you sleep in it)",
+      "answers": ["tent"],
+      "explanation": "A tent is the basic piece of equipment for camping."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My dad plays golf. He's not a serious golfer; he just plays for ___.",
+      "hint": "(because he enjoys it)",
+      "answers": ["fun", "pleasure"],
+      "explanation": "for fun = for pleasure, because you enjoy it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about the gym.",
+      "words": ["I used to", "work out", "in the gym", "every week"],
+      "answer": "I used to work out in the gym every week",
+      "explanation": "work out = do exercise, usually in a gym."
+    },
+    {
+      "type": "true_false",
+      "statement": "Running is good exercise, so four or five times a week I go jogging.",
+      "answer": true,
+      "explanation": "Correct. We say go jogging, like go swimming and go camping."
+    }
+  ]
+}

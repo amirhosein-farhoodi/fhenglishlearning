@@ -1,0 +1,194 @@
+{
+  "number": 48,
+  "title": "Talking",
+  "subtitle": "say, tell, ask, speak, answer, reply",
+  "summary": "Choose the right talking verb - say hello, tell someone a story, ask for the bill, speak Japanese and answer the door.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Say",
+      "text": "We use **say** when we report someone's words, and in a lot of fixed greetings. We also use **say** when we ask about language.",
+      "examples": [
+        { "text": "She **said**, 'This is horrible!'" },
+        { "text": "He **said** that he wanted a drink." },
+        { "text": "We **say** hello and goodbye. We **say** please and thank you." },
+        { "text": "We **say** Happy Birthday, Merry Christmas, Happy New Year and Congratulations!" },
+        { "text": "*A:* How do you **say** 'book' in Spanish? *B:* Libro." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Tell",
+      "text": "**Tell** is usually followed straight away by a person. **Say** is not. We often use **tell** with *how* and question words to give or get information.",
+      "examples": [
+        { "text": "He **told me** his name.", "wrong": "He said me his name" },
+        { "text": "**Tell me** when you want to have dinner." },
+        { "text": "She **told me** how to fill in the application form." },
+        { "text": "You can **tell someone** the time, a story, a joke, your name or your address." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "say or tell?",
+      "left": {
+        "label": "say (no person after it)",
+        "examples": [
+          "I **said** goodbye to her.",
+          "'Come here!' the police officer **said**.",
+          "How do you **say** 'tree' in German?"
+        ]
+      },
+      "right": {
+        "label": "tell + a person",
+        "examples": [
+          "She **told me** her name.",
+          "The teacher **told her students** that they were very good.",
+          "Can you **tell me** where the bus station is, please?"
+        ]
+      },
+      "note": "Can you tell me the time? - not ~~Can you say me the time?~~"
+    },
+    {
+      "type": "explain",
+      "heading": "Ask",
+      "text": "**Ask** is used for questions. You can **ask someone the way** or **the time**, **ask somebody to do something**, and **ask for something**.",
+      "examples": [
+        { "text": "My sister **asked** me where I was going." },
+        { "text": "*A:* Can I **ask** you a question? *B:* Yes." },
+        { "text": "I **asked him to** turn off his radio." },
+        { "text": "She **asked for** the bill." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Speak, talk, answer, reply",
+      "text": "We **speak** a language and we **talk to** a person. We **answer** the phone, the door or a question, and we **reply to** an email or a letter.",
+      "examples": [
+        { "text": "Do you **speak** Japanese?", "wrong": "Do you talk Japanese?" },
+        { "text": "I like **talking to** you.", "note": "= having a conversation with you" },
+        { "text": "Can you **answer** the telephone, please?" },
+        { "text": "Who can **answer** the next question? Joanna?" },
+        { "text": "He didn't **reply to** my email." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We can say answer an email, but never ~~reply to the door~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Can you ___ me where the Plaza Hotel is, please?",
+      "hint": "(say or tell)",
+      "answers": ["tell"],
+      "explanation": "Tell comes straight before a person: tell me."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ me her name, but I have forgotten it.",
+      "hint": "(tell - past)",
+      "answers": ["told"],
+      "explanation": "The past of tell is told, and it is followed by a person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ goodbye to her at the station.",
+      "hint": "(say - past)",
+      "answers": ["said"],
+      "explanation": "We say goodbye - the person comes after to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Please ___ me a story,' the little boy said.",
+      "hint": "(say or tell)",
+      "answers": ["tell"],
+      "explanation": "We tell someone a story, a joke or the time."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the words that go with it.",
+      "pairs": [
+        { "left": "say", "right": "Happy New Year" },
+        { "left": "answer", "right": "the door" },
+        { "left": "ask for", "right": "the bill" },
+        { "left": "reply to", "right": "an email" },
+        { "left": "tell", "right": "someone a joke" },
+        { "left": "speak", "right": "Japanese" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to know the word for 'tree' in German. What do you ask?",
+      "options": [
+        "How do you say 'tree' in German?",
+        "How do you tell 'tree' in German?",
+        "How do you talk 'tree' in German?",
+        "How do you answer 'tree' in German?"
+      ],
+      "answer": 0,
+      "explanation": "We use say when we ask about language."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to know the time. What do you ask a stranger?",
+      "options": [
+        "Excuse me, can you tell me the time?",
+        "Excuse me, can you say me the time?",
+        "Excuse me, can you speak me the time?",
+        "Excuse me, can you reply me the time?"
+      ],
+      "answer": 0,
+      "explanation": "Tell comes straight before the person: tell me the time."
+    },
+    {
+      "type": "true_false",
+      "statement": "He said me his name at the party.",
+      "answer": false,
+      "explanation": "He told me his name at the party. Say is not followed immediately by a person."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you talk Japanese?",
+      "answer": false,
+      "explanation": "Do you speak Japanese? We speak a language."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we use say or tell with each of these?",
+      "categories": ["say", "tell"],
+      "items": [
+        { "text": "hello", "category": 0 },
+        { "text": "goodbye", "category": 0 },
+        { "text": "Happy Birthday", "category": 0 },
+        { "text": "thank you", "category": 0 },
+        { "text": "me your name", "category": 1 },
+        { "text": "me the time", "category": 1 },
+        { "text": "someone a joke", "category": 1 },
+        { "text": "me when you want dinner", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to pay in a restaurant, so you say: Can we have the ___, please?",
+      "hint": "(one word)",
+      "answers": ["bill"],
+      "explanation": "In a restaurant we ask for the bill."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He didn't ___ to my email, so I still don't know his answer.",
+      "hint": "(one word)",
+      "answers": ["reply", "answer"],
+      "explanation": "We reply to an email, a letter or a text."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The phone is ringing and you are busy cooking. What do you ask your friend?",
+      "words": ["Can", "you", "answer", "the", "phone,", "please?"],
+      "answer": "Can you answer the phone, please?",
+      "explanation": "We answer the phone and answer the door."
+    }
+  ]
+}

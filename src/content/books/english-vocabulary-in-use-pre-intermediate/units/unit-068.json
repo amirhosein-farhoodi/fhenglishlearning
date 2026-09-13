@@ -1,0 +1,211 @@
+{
+  "number": 68,
+  "title": "Likes, dislikes, attitudes and preferences",
+  "subtitle": "I'm really into it, I can't stand it, I'd rather stay here",
+  "summary": "Say how much you like or dislike things, agree with So do I and Me neither, and talk about what you prefer.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "From love to hate",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["I **love** rock music.", "like it very much"],
+        ["I'm really **into** dance music.", "like it very much (informal)"],
+        ["I **like** a lot of pop music.", "positive"],
+        ["I **quite like** salsa and samba.", "like it, but not a lot"],
+        ["I **don't mind** jazz.", "it's OK"],
+        ["I'm **not very keen on** folk music.", "don't like it much"],
+        ["I **can't stand** classical music.", "dislike it very much (informal)"],
+        ["I **hate** opera.", "dislike it very much"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Agreeing and disagreeing about likes",
+      "text": "To agree, repeat the same kind of verb: **So do I** after *like*, **So am I** after *am*, **So can I** after *can*. For negative sentences use **Neither do I** / **Neither am I**. **Me too** and **Me neither** are easy informal answers.",
+      "examples": [
+        { "text": "*A:* I love rock music. *B:* **So do I.** / **Me too.**" },
+        { "text": "*A:* I'm really into dance music. *B:* **So am I.** / *B:* Really? **I'm not.**" },
+        { "text": "*A:* I can't stand classical music. *B:* **Neither can I.** / **Me neither.**" },
+        { "text": "*A:* I hate opera. *B:* Really? **I love it.**" }
+      ],
+      "note": "Other useful replies: Yeah, it's OK. Oh, I'm not very keen. Really? I quite like it."
+    },
+    {
+      "type": "explain",
+      "heading": "What comes after these verbs",
+      "text": "Many of these verbs are followed by a **noun** or an **-ing form**.",
+      "examples": [
+        { "text": "I love **driving**." },
+        { "text": "I don't mind **work**." },
+        { "text": "I can't stand **getting up** early." },
+        { "text": "I hate **cold weather**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Attitudes and interests",
+      "text": "Your **attitude to** something is how you think or feel about it. Your **interests** are the things you enjoy doing. If two people have the same interests, they **have a lot in common**; if not, they **have nothing in common**.",
+      "examples": [
+        { "text": "My **attitude to** a lot of things has changed over the years." },
+        { "text": "I **used to** like chips.", "note": "= I liked chips in the past but not now" },
+        { "text": "I used to play computer games, but now they **don't interest** me.", "note": "= I don't find them interesting" },
+        { "text": "I used to go swimming a lot, but now I don't go **at all**.", "note": "at all makes a negative stronger" },
+        { "text": "Mark and I used to have the same **interests**, but now we have nothing **in common**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get used to = become familiar with",
+      "text": "**Get used to** something means become familiar with it. It is followed by a noun or an **-ing** form - never by an infinitive.",
+      "examples": [
+        { "text": "It takes time to **get used to living** in a different country.", "wrong": "get used to live" },
+        { "text": "I didn't like my new glasses at first, but now I've **got used to** them." },
+        { "text": "I found the winters very cold at first, but you **get used to** it." },
+        { "text": "I'm **interested in** seeing that.", "wrong": "I'm interest in seeing that" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "prefer and would rather",
+      "left": {
+        "label": "prefer X to Y (in general)",
+        "text": "Use **to**, not ~~than~~.",
+        "examples": [
+          "*A:* Which do you **prefer** in general, tea or coffee?",
+          "*B:* I **prefer** coffee **to** tea in the morning."
+        ]
+      },
+      "right": {
+        "label": "would prefer / would rather (now)",
+        "text": "**I'd prefer to** + verb means the same as **I'd rather** + verb.",
+        "examples": [
+          "*A:* Which **would** you **prefer**, the cinema or the theatre?",
+          "*B:* I think **I'd prefer to** go to the cinema.",
+          "*B:* I think **I'd rather** go to the cinema."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Three easy mistakes to avoid: *prefer X **to** Y* (not *than*), *get used **to** doing* (not *to do*), and *I'm **interested** in* (not *I'm interest in*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with how much the speaker likes the thing.",
+      "pairs": [
+        { "left": "I'm really into it", "right": "I like it very much" },
+        { "left": "I quite like it", "right": "I like it, but not a lot" },
+        { "left": "I don't mind it", "right": "it's OK" },
+        { "left": "I'm not very keen on it", "right": "I don't like it much" },
+        { "left": "I can't stand it", "right": "I dislike it very much" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister loves Robbie Williams, but I can't ___ him.",
+      "hint": "(one verb)",
+      "answers": ["stand"],
+      "explanation": "Can't stand = dislike very much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The two boys have nothing in ___; they're completely different.",
+      "hint": "(one word)",
+      "answers": ["common"],
+      "explanation": "Have nothing in common = have no interests that are similar."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The others enjoyed the film, but I didn't like it at ___.",
+      "hint": "(one word - it makes the negative stronger)",
+      "answers": ["all"],
+      "explanation": "At all makes a negative stronger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love the cinema, but this particular film doesn't ___ me.",
+      "hint": "(one verb)",
+      "answers": ["interest"],
+      "explanation": "It doesn't interest me = I don't find it interesting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Carole is really ___ modern art at the moment. Personally, I hate it.",
+      "hint": "(one word - informal for 'likes very much')",
+      "answers": ["into"],
+      "explanation": "Be into something is an informal way of saying you like it very much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ to love cheese, but I never eat it now.",
+      "hint": "(one word)",
+      "answers": ["used"],
+      "explanation": "Used to + verb = it was true in the past but not now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Would you like to go out? *B:* I'd ___ stay here, actually.",
+      "hint": "(one word)",
+      "answers": ["rather", "prefer to"],
+      "explanation": "I'd rather stay here = I'd prefer to stay here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't like raw fish at first, but I'm ___ used to it now.",
+      "hint": "(one verb, -ing form)",
+      "answers": ["getting"],
+      "explanation": "Get used to something = become familiar with it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I can drive. *B:* ___",
+      "options": ["So can I.", "So do I.", "So am I.", "Neither can I."],
+      "answer": 0,
+      "explanation": "Repeat the same verb: can in A, so can in B."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I don't like shopping. *B:* ___",
+      "options": ["Me neither.", "Me too.", "So do I.", "So am I."],
+      "answer": 0,
+      "explanation": "For a negative sentence we say Me neither or Neither do I."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I'm single. *B:* ___",
+      "options": ["So am I.", "So do I.", "Neither am I.", "So have I."],
+      "answer": 0,
+      "explanation": "A used am, so B answers So am I."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I've got a cat. *B:* ___",
+      "options": ["So have I.", "So do I.", "So am I.", "Neither have I."],
+      "answer": 0,
+      "explanation": "A used have got, so B answers So have I."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite with 'to': 'I like rugby more than football.'",
+      "words": ["I", "prefer", "rugby", "to", "football."],
+      "answer": "I prefer rugby to football.",
+      "explanation": "Prefer X to Y - not ~~prefer X than Y~~."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* Do you like it in England? *B:* Yes, I'm getting used to live here.",
+      "answer": false,
+      "explanation": "I'm getting used to living here. Get used to is followed by a noun or the -ing form."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you say 'I don't mind the new building', you mean it's OK.",
+      "answer": true,
+      "explanation": "Correct. I don't mind = it's OK for me."
+    }
+  ]
+}

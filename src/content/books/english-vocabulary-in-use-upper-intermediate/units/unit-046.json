@@ -1,0 +1,225 @@
+{
+  "number": 46,
+  "title": "The six senses",
+  "subtitle": "glance, peer, bitter, stroke, pungent",
+  "summary": "Talk precisely about seeing, hearing, tasting, touching and smelling - and about the 'sixth sense'.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The five senses",
+      "text": "The five senses are **sight**, **hearing**, **taste**, **touch** and **smell**. The five verbs that refer to them - look, sound, taste, feel, smell - are followed by an **adjective**, not an adverb.",
+      "examples": [
+        { "text": "He **looks** dreadful.", "wrong": "looks dreadfully" },
+        { "text": "The trip **sounds** marvellous.", "wrong": "sounds marvellously" },
+        { "text": "The cake **tastes** good." },
+        { "text": "It **felt** strange." },
+        { "text": "The soup **smelt** delicious.", "wrong": "smelt deliciously" }
+      ],
+      "note": "A 'sixth sense', or extrasensory perception, is a power to be aware of things independently of the five physical senses."
+    },
+    {
+      "type": "table",
+      "heading": "Sight: nine ways of looking",
+      "columns": ["Verb", "Meaning"],
+      "rows": [
+        ["**notice**", "see something without looking for it"],
+        ["**glance**", "look very quickly"],
+        ["**glimpse**", "get only a brief view of something"],
+        ["**peer**", "look closely, because it is hard to make things out"],
+        ["**observe**", "watch carefully, in a scientific kind of way"],
+        ["**gaze**", "look at something for a long time, often admiringly"],
+        ["**stare**", "look fixedly, often rudely"],
+        ["**witness**", "see something (a crime, an accident) as it happens"],
+        ["**see**", "the ordinary, neutral verb"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sight in action",
+      "text": "Here is a short story that uses all of them. Notice how each verb tells you exactly *how* the person looked.",
+      "examples": [
+        { "text": "I **glanced** out of the window and **noticed** a policeman **observing** a house opposite through binoculars." },
+        { "text": "I thought I **glimpsed** a man inside the house." },
+        { "text": "Then I **saw** that there was a man **peering** into the window of the same house." },
+        { "text": "I **gazed** at them, wondering what they were doing." },
+        { "text": "Suddenly the policeman stopped **staring** through his binoculars - and I realised I had **witnessed** a crime." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Hearing: a scale of loudness",
+      "columns": ["Adjective", "How loud?"],
+      "rows": [
+        ["**noiseless**", "making no noise at all (quietest)"],
+        ["**silent**", "completely without sound"],
+        ["**quiet**", "making very little noise"],
+        ["**noisy**", "making a lot of unpleasant noise"],
+        ["**loud**", "making a lot of sound"],
+        ["**deafening**", "so loud it hurts your ears (loudest)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Taste",
+      "columns": ["Adjective", "Typical example"],
+      "rows": [
+        ["**sweet**", "honey, chocolate cake"],
+        ["**salty**", "crisps, sea water"],
+        ["**bitter**", "strong, unsweetened coffee"],
+        ["**sour**", "vinegar, a lime"],
+        ["**spicy**", "Indian food"],
+        ["**hot**", "chilli powder"]
+      ],
+      "note": "If food tastes hot it usually means spicy rather than 'not cold'. A curry that is not very hot is mild."
+    },
+    {
+      "type": "explain",
+      "heading": "Touch",
+      "text": "English has many verbs for touching. They differ in how gentle, how firm and how sudden the movement is.",
+      "examples": [
+        { "text": "She **poked** me in the ribs with her elbow to wake me up.", "note": "a short, sharp push with a finger or elbow" },
+        { "text": "He **stroked** the cat and **patted** the dog.", "note": "stroke = move your hand gently over it; pat = tap it lightly several times" },
+        { "text": "She **tapped** him on the shoulder.", "note": "touched him quickly and lightly" },
+        { "text": "He **grasped** my hand and we ran.", "note": "took hold of it firmly" },
+        { "text": "The thief **snatched** her handbag.", "note": "snatch and grab are both sudden and rough" },
+        { "text": "**Press** the button. Please **handle** the goods with great care." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Smell",
+      "columns": ["Very unpleasant", "Pleasant"],
+      "rows": [
+        ["**stinking**", "**fragrant**"],
+        ["**foul-smelling**", "**aromatic**"],
+        ["**putrid** (rotten)", "**sweet-smelling**"],
+        ["**musty** (unpleasantly old and slightly damp)", "**perfumed**"],
+        ["**pungent** (very strong, often unpleasantly so)", "**scented**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The sixth sense",
+      "text": "Four things a person with a 'sixth sense' may say they experience. They are all abstract nouns.",
+      "examples": [
+        { "text": "**telepathy**", "note": "experiencing someone else's feelings even though you are apart" },
+        { "text": "**premonition**", "note": "knowing something is going to happen before it occurs" },
+        { "text": "**intuition**", "note": "instinctive understanding, without evidence or reasoning" },
+        { "text": "**deja vu**", "note": "an inexplicable feeling that you have already been somewhere or experienced something before" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb of looking with the way of looking it describes.",
+      "pairs": [
+        { "left": "witness", "right": "see a crime or accident as it happens" },
+        { "left": "peer", "right": "look closely, finding it hard to make things out" },
+        { "left": "observe", "right": "watch in a scientific kind of way" },
+        { "left": "glance", "right": "look very quickly" },
+        { "left": "stare", "right": "look fixedly at someone" },
+        { "left": "glimpse", "right": "get only a brief view of something" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Strong coffee with no sugar in it tastes ___.",
+      "hint": "(one adjective)",
+      "answers": ["bitter"],
+      "explanation": "Bitter is the sharp, unsweet taste of strong black coffee."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sea water tastes very ___.",
+      "hint": "(one adjective)",
+      "answers": ["salty"],
+      "explanation": "Salty describes the taste of salt, as in crisps or sea water."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lime tastes ___, like vinegar.",
+      "hint": "(one adjective)",
+      "answers": ["sour"],
+      "explanation": "Sour is the sharp taste of vinegar or unripe fruit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Chilli powder tastes ___.",
+      "options": ["hot", "mild", "bitter", "musty"],
+      "answer": 0,
+      "explanation": "With food, hot means burning in the mouth. The opposite is mild."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each adjective describe a pleasant smell or a very unpleasant one?",
+      "categories": ["Pleasant", "Very unpleasant"],
+      "items": [
+        { "text": "aromatic", "category": 0 },
+        { "text": "fragrant", "category": 0 },
+        { "text": "scented", "category": 0 },
+        { "text": "sweet-smelling", "category": 0 },
+        { "text": "stinking", "category": 1 },
+        { "text": "putrid", "category": 1 },
+        { "text": "musty", "category": 1 },
+        { "text": "foul-smelling", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A loft that has been used for storage for years smells ___.",
+      "hint": "(old and slightly damp)",
+      "answers": ["musty"],
+      "explanation": "Musty = smelling unpleasantly old and slightly damp."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He touched the cat affectionately, moving his hand slowly along its back. He ___ the cat.",
+      "hint": "(one verb, past tense)",
+      "answers": ["stroked"],
+      "explanation": "You stroke an animal by moving your hand gently over it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He knocked lightly on the door. He ___ on the door.",
+      "hint": "(one verb, past tense)",
+      "answers": ["tapped"],
+      "explanation": "Tap = touch or knock quickly and lightly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She took my hand firmly. She ___ my hand.",
+      "hint": "(one verb, past tense)",
+      "answers": ["grasped"],
+      "explanation": "Grasp = take hold of something firmly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The robber took the money suddenly and ran. The robber ___ the money.",
+      "hint": "(one verb, past tense)",
+      "answers": ["grabbed", "snatched"],
+      "explanation": "Grab and snatch both mean take something suddenly and roughly."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Take care you don't ___ anyone in the eye with your umbrella.",
+      "options": ["poke", "handle", "gaze", "pat"],
+      "answer": 0,
+      "explanation": "Poke = push something sharp or pointed into someone or something."
+    },
+    {
+      "type": "true_false",
+      "statement": "That new soup recipe smells deliciously.",
+      "answer": false,
+      "explanation": "That new soup recipe smells delicious. Sense verbs take an adjective, not an adverb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. A friend has just had her hair cut and you like it.",
+      "words": ["Your", "hair", "looks", "really", "great"],
+      "answer": "Your hair looks really great",
+      "explanation": "look + adjective is how we comment on how something appears."
+    }
+  ]
+}

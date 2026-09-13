@@ -1,0 +1,231 @@
+{
+  "number": 94,
+  "title": "Idioms for everyday situations and feelings",
+  "subtitle": "like clockwork, what a pain!, over the moon",
+  "summary": "React naturally to good news, bad news and confusion with everyday idioms - things running like clockwork, that's all we needed, we got our wires crossed, down in the dumps.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "When things go right",
+      "columns": ["If something ...", "this means ..."],
+      "rows": [
+        ["**worked like a dream**", "a plan succeeded absolutely perfectly"],
+        ["**went / ran like clockwork**", "it went smoothly, with no difficulties"],
+        ["**is up and running**", "it has begun to work as planned"],
+        ["**is falling into place**", "it is on the point of starting to work well"],
+        ["**is looking up**", "it is looking very positive"]
+      ],
+      "note": "It worked like a charm is another way of saying it worked perfectly, as if by magic."
+    },
+    {
+      "type": "explain",
+      "heading": "Things going right in use",
+      "text": "These idioms are the natural way to report progress on a plan or project. Notice the grammar: things **fall into place**, a system **is up and running**, an event **runs like clockwork**.",
+      "examples": [
+        { "text": "The system is now **up and running**, so we should be able to get some useful data soon." },
+        { "text": "Things are **looking up** now that we've increased our online sales." },
+        { "text": "The whole project **worked like a dream**." },
+        { "text": "After a problematic start, things are **falling into place** now." },
+        { "text": "The school open day **went like clockwork**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "When things go wrong: reacting in conversation",
+      "columns": ["Expression", "When you use it"],
+      "rows": [
+        ["**That's all we need / needed!**", "in response to news that makes current problems even worse"],
+        ["**That's the last thing I wanted to hear!**", "in response to news that fulfils your worst fears"],
+        ["**This is like a bad dream!**", "when one bad thing after another happens in quick succession"],
+        ["**It's a real nightmare / my worst nightmare.**", "very general - traffic jams, computers going wrong"],
+        ["**What a pain!**", "very general - any situation that causes you difficulty"],
+        ["**That's the last straw!**", "a final, very damaging event at the end of a series of bad ones"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Confusing situations",
+      "text": "When you cannot follow what is happening, English offers a set of ready-made phrases. Something **throws you** if you do not know how to respond; an event is **a complete shambles** if it is totally disorganised and chaotic; two people **get their wires crossed** if there has been a miscommunication.",
+      "examples": [
+        { "text": "Her sudden question **threw me completely**.", "note": "I didn't know how to respond" },
+        { "text": "The meeting was a complete **shambles**." },
+        { "text": "**It's a mystery to me** how people know about my private life." },
+        { "text": "I'm sorry, we must have **got our wires crossed**. I thought the meeting was at 11, not 10.30." },
+        { "text": "**I'm not with you.** / **You've lost me there.**", "note": "what you have said has confused me" },
+        { "text": "**I can't get my head round it.**", "note": "I can't understand it - it is too complicated" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Happiness and sadness",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["to be **on top of the world** / **on cloud nine** / **over the moon**", "to be extremely happy"],
+        ["to be **walking on air**", "to be feeling very happy and elated"],
+        ["to be **in your element** / to be **made for** something", "to be ideally suited for it"],
+        ["to be **fed up to the back teeth**", "to be extremely unhappy or disappointed"],
+        ["to be **down in the dumps** / **down in the mouth**", "to be depressed"],
+        ["to look **as miserable as sin**", "to look very unhappy indeed"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Getting the wording exactly right",
+      "text": "Idioms are fixed, so a single wrong word spoils them. It is **cloud nine**, not cloud seven; **over** the moon, not above it; **in** your element, not on it; down in the **dumps**, not the damp; fed up to the **back** teeth, not the front teeth.",
+      "examples": [
+        { "text": "Jessica's on **cloud nine** now she's at university.", "wrong": "on cloud seven" },
+        { "text": "She's **in her element** now she's got a job in an architect's office.", "wrong": "on her element" },
+        { "text": "I was **over the moon** when they told me I'd got the job.", "wrong": "above the moon" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Idioms change their meaning completely if you change a word, so learn each one as a single fixed chunk."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The system is now up and ___, so we should be able to get some useful data soon.",
+      "hint": "(run)",
+      "answers": ["running"],
+      "explanation": "To be up and running is to have begun working as planned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Things are looking ___ now that we've increased our online sales.",
+      "hint": "(look)",
+      "answers": ["up"],
+      "explanation": "If things are looking up, the situation is becoming very positive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The whole project worked like a ___.",
+      "hint": "(dream)",
+      "answers": ["dream"],
+      "explanation": "If a plan works like a dream, it succeeds absolutely perfectly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After a problematic start, things are falling into ___ now.",
+      "hint": "(fall)",
+      "answers": ["place"],
+      "explanation": "If things are falling into place, they are on the point of starting to work well."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The school open day ran like ___ - no difficulties at all.",
+      "hint": "(clock)",
+      "answers": ["clockwork"],
+      "explanation": "If something runs like clockwork, it goes smoothly with no difficulties."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Your insurance policy expired a month ago, so you can't claim for the fire damage. *B:* Oh no! This is like a bad ___!",
+      "hint": "(one bad thing after another)",
+      "answers": ["dream"],
+      "explanation": "This is like a bad dream is used when bad things happen in quick succession."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The boss is away this week so we'll have to wait till next week. *B:* Oh, what a ___! Ah well, there's nothing we can do.",
+      "hint": "(a general reaction to difficulty)",
+      "answers": ["pain"],
+      "explanation": "What a pain! responds to any situation that causes you difficulty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Tarek is ill and can't come. Now Sheena's phoned in to say she's sick too! *B:* Oh no! Two people sick! That's all we ___!",
+      "hint": "(need)",
+      "answers": ["needed", "need"],
+      "explanation": "That's all we needed! responds to news that makes current problems even worse."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Look at this traffic jam. We'll be stuck here for hours! *B:* I know. It's a real ___!",
+      "hint": "(a very bad dream)",
+      "answers": ["nightmare"],
+      "explanation": "It's a real nightmare is used very generally about traffic jams, computer failures and the like."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The lawyers say we can't hold the festival without a risk assessment. *B:* Oh no! That's the last thing we wanted to ___!",
+      "hint": "(hear)",
+      "answers": ["hear"],
+      "explanation": "That's the last thing I wanted to hear! responds to news that fulfils your worst fears."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each speaker with what they mean.",
+      "pairs": [
+        { "left": "That shop is a complete shambles these days.", "right": "it is disorganised and chaotic" },
+        { "left": "I think we got our wires crossed yesterday.", "right": "there has been a misunderstanding" },
+        { "left": "Sorry, I'm not with you. You've lost me there.", "right": "I can't follow what you have said" },
+        { "left": "It's a mystery to me how those papers disappeared.", "right": "I can't find an explanation for it" },
+        { "left": "The news threw me completely.", "right": "I didn't know how to respond" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Jessica's on cloud seven now she's at university.",
+      "answer": false,
+      "explanation": "The idiom is cloud nine: Jessica's on cloud nine now she's at university."
+    },
+    {
+      "type": "true_false",
+      "statement": "She's on her element now she's got a job in an architect's office.",
+      "answer": false,
+      "explanation": "The idiom is in your element: She's in her element now she's got a job in an architect's office."
+    },
+    {
+      "type": "true_false",
+      "statement": "You look a bit down in the dumps. What's the matter?",
+      "answer": true,
+      "explanation": "Correct - down in the dumps (or down in the mouth) means depressed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the correct form of the idiom?",
+      "options": ["He looks fed up to the back teeth.", "He looks fed up to the front teeth.", "He looks fed up to the high teeth.", "He looks fed up to the last teeth."],
+      "answer": 0,
+      "explanation": "To be fed up to the back teeth is to be extremely unhappy or disappointed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was ___ the moon when they told me I'd got the job.",
+      "options": ["over", "above", "on", "across"],
+      "answer": 0,
+      "explanation": "To be over the moon is to be extremely happy."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each idiom belong with things going well, with confusion, or with feelings?",
+      "categories": ["Things going well", "Confusion", "Happiness or sadness"],
+      "items": [
+        { "text": "it worked like a charm", "category": 0 },
+        { "text": "up and running", "category": 0 },
+        { "text": "I can't get my head round it", "category": 1 },
+        { "text": "we got our wires crossed", "category": 1 },
+        { "text": "a complete shambles", "category": 1 },
+        { "text": "as miserable as sin", "category": 2 },
+        { "text": "walking on air", "category": 2 },
+        { "text": "down in the mouth", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Oh no! That's the last straw! When do you say this?",
+      "options": ["when a final bad event comes at the end of a series of them", "when a plan succeeds perfectly", "when you cannot understand an explanation", "when you are ideally suited to a job"],
+      "answer": 0,
+      "explanation": "The last straw is the final, very damaging event in a series of bad events."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this apology in order.",
+      "words": ["I'm", "sorry,", "we", "must", "have", "got", "our", "wires", "crossed"],
+      "answer": "I'm sorry, we must have got our wires crossed",
+      "explanation": "To get your wires crossed is to misunderstand each other."
+    }
+  ]
+}

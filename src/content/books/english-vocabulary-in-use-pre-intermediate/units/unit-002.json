@@ -1,0 +1,197 @@
+{
+  "number": 2,
+  "title": "Keeping a vocabulary notebook",
+  "subtitle": "write down, translation, topic, tip",
+  "summary": "Organise a vocabulary notebook by topic, and learn what to write next to each new word: a translation, an explanation, synonyms and an example sentence.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What do students do?",
+      "text": "Five students talk about their notebooks. To **write down** or **note down** a word means to write it so that you do not lose it. If you **make a note of** a word, you do the same thing. Many students add a **translation** - the same word in their own language.",
+      "examples": [
+        { "text": "I **write down** new English words and phrases, and next to each one I write a Spanish **translation**." },
+        { "text": "My notebook is **a mess**.", "note": "a mess = nothing is in a good order; a synonym is untidy" },
+        { "text": "I sometimes **make a note of** new words, but I often **forget**.", "note": "forget = not remember" },
+        { "text": "I **note down** new words and phrases, and sometimes I write an **explanation** in English.", "note": "an explanation = a description of what something means" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Organise your words by topic",
+      "text": "A **topic** is a subject, for example food, clothes or animals. Many students **list** their words by topic: all the animal words together, all the clothes words together. It is easier to remember them this way. Keep the topics apart and don't **mix them up**.",
+      "examples": [
+        { "text": "I try and **list** words by **topic**, so I put all the animals together." },
+        { "text": "Put food in one place and clothes in another. Don't **mix them up**.", "note": "mix up = put things together with no order" },
+        { "text": "Some words and phrases will go in more than one **topic**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Words with no topic",
+      "text": "Some words, for example *useful* or *in particular*, do not belong to a topic. Put them in a different part of your notebook: a page for each day, each week, or each English lesson. Write the date clearly at the top.",
+      "examples": [
+        { "text": "Monday 14th May", "note": "This is how we write the date at the top of a page." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Translations and explanations",
+      "text": "Write a **translation** if it is **necessary**, but also write the meaning in English if it is possible, or draw a picture. To **translate** a word is to put it into another language; the noun is **translation**.",
+      "examples": [
+        { "text": "Sometimes I **translate** new words into Polish.", "note": "You translate something into another language." },
+        { "text": "A translation is not always **necessary**.", "note": "necessary = you need it; the opposite is unnecessary" },
+        { "text": "kitten = a very young cat", "note": "This is an explanation in English, not a translation." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What else can you write next to a word?",
+      "columns": ["Information", "Example"],
+      "rows": [
+        ["a synonym (a word with a similar meaning)", "awful = terrible; a synonym is dreadful"],
+        ["an opposite", "the opposite of forget is remember"],
+        ["an opposite with a prefix", "the opposite of necessary is unnecessary"],
+        ["other parts of speech", "enjoy (verb), enjoyment (noun), enjoyable (adjective)"],
+        ["a second meaning", "a tip is advice, and also money you give a waiter"],
+        ["an example sentence", "I enjoy living in a big city."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Example sentences and word partners",
+      "text": "An example sentence helps you with the grammar of a word and with its **word partners** - the words that usually go with it. Word partners are also called **collocations**. Copy the sentence into your notebook.",
+      "examples": [
+        { "text": "I **enjoy living** in a big city.", "wrong": "I enjoy to live in a big city.", "note": "enjoy is followed by an -ing form" },
+        { "text": "I **spent** two weeks in Rome.", "wrong": "I passed two weeks in Rome.", "note": "You spend time in a place." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Tips",
+      "text": "A **tip** is a piece of advice to help you. Remember that many words have more than one meaning that you need to know. A *tip* is also the money you give to a waiter for serving you in a restaurant.",
+      "examples": [
+        { "text": "Here is a useful **tip**: write the date at the top of the page.", "note": "tip = a piece of advice" },
+        { "text": "We left a **tip** for the waiter.", "note": "tip = money you give for good service" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Write the word, the meaning *and* an example sentence. One word with an example is worth more than three words on their own."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right topic.",
+      "categories": ["Food", "Garden", "Numbers"],
+      "items": [
+        { "text": "diet", "category": 0 },
+        { "text": "branch", "category": 1 },
+        { "text": "count", "category": 2 },
+        { "text": "flour", "category": 0 },
+        { "text": "leaf", "category": 1 },
+        { "text": "minus", "category": 2 },
+        { "text": "butcher", "category": 0 },
+        { "text": "dig", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This fish is ___, so we can't eat it yet.",
+      "hint": "(= not cooked)",
+      "answers": ["raw"],
+      "explanation": "Raw means not cooked."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a **butcher**?",
+      "options": [
+        "a person who sells meat",
+        "a person who grows vegetables",
+        "a machine that cuts bread",
+        "a small garden behind a house"
+      ],
+      "answer": 0,
+      "explanation": "A butcher is a person who sells meat. This word goes in the food topic."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Before dinner I put the plates, knives and forks on the table. In other words, I ___ the table.",
+      "hint": "(one word)",
+      "answers": ["lay"],
+      "explanation": "To lay the table = to put plates, knives, forks and so on on a table before a meal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Six ___ four is two.",
+      "hint": "(6 - 4 = 2)",
+      "answers": ["minus"],
+      "explanation": "We say minus for the sign -, and this word belongs to the numbers topic."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with the extra information you can write next to it in your notebook.",
+      "pairs": [
+        { "left": "forget", "right": "opposite: remember" },
+        { "left": "awful", "right": "synonym: dreadful" },
+        { "left": "necessary", "right": "opposite: unnecessary" },
+        { "left": "translate", "right": "noun: translation" },
+        { "left": "enjoy", "right": "adjective: enjoyable" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need this book for my exam, so a good dictionary is ___ too.",
+      "hint": "(= you need it)",
+      "answers": ["necessary"],
+      "explanation": "Necessary means you need it. The opposite is unnecessary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The film was awful. In fact, it was the most ___ film I have ever seen.",
+      "hint": "(a synonym of awful)",
+      "answers": ["dreadful", "terrible"],
+      "explanation": "Awful, dreadful and terrible are synonyms - they have a similar meaning."
+    },
+    {
+      "type": "true_false",
+      "statement": "The word tip has only one meaning: a piece of advice.",
+      "answer": false,
+      "explanation": "Tip has two meanings: a piece of advice, and money you give a waiter for serving you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "I enjoy living in a big city.",
+        "I enjoy to live in a big city.",
+        "I enjoy live in a big city.",
+        "I enjoy that I live in a big city."
+      ],
+      "answer": 0,
+      "explanation": "Enjoy is followed by an -ing form, so an example sentence helps you with the grammar."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ two weeks in Rome last summer.",
+      "hint": "(not 'passed')",
+      "answers": ["spent"],
+      "explanation": "You spend time in a place - spend is the word partner of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Keep the food words on one page and the clothes words on another. Don't ___ them up.",
+      "hint": "(= put them together with no order)",
+      "answers": ["mix"],
+      "explanation": "To mix words up is to put them together with no order."
+    },
+    {
+      "type": "word_order",
+      "prompt": "How does Donata use her notebook?",
+      "words": ["I", "note", "down", "new", "words", "and", "phrases", "in", "my", "notebook."],
+      "answer": "I note down new words and phrases in my notebook.",
+      "explanation": "Note down and write down mean the same thing."
+    }
+  ]
+}

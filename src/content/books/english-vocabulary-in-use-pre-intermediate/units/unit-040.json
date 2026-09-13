@@ -1,0 +1,208 @@
+{
+  "number": 40,
+  "title": "Business and finance",
+  "subtitle": "rise sharply, a fall of 5%, interest rate",
+  "summary": "Describe how sales and prices go up and down, and use the language of profit, loans, interest and the economy.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Rise and fall",
+      "text": "These verbs describe **trends** (movements) in **sales** - how much you sell - and in prices. When sales or prices go up, we say they **rise**, **go up** or **increase**. When they go down, we say they **fall**, **go down** or **decrease**.",
+      "examples": [
+        { "text": "Prices can rise **slightly**.", "note": "slightly = a bit" },
+        { "text": "Prices can rise **gradually**.", "note": "gradually = slowly over a long period" },
+        { "text": "Prices can rise **sharply**.", "note": "sharply = quickly and by a large amount" },
+        { "text": "If prices do not rise or fall, they **stay the same**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Prepositions with rise and fall",
+      "text": "We use certain prepositions to say by how much something rises or falls. **Rise**, **increase**, **fall** and **decrease** can also be nouns, each with its own preposition.",
+      "examples": [
+        { "text": "The price has risen **by** 10 pence." },
+        { "text": "Sales fell **from** 8,000 units **to** 6,500 units." },
+        { "text": "There's been a gradual rise **in** prices." },
+        { "text": "We've seen a slight increase **in** profit." },
+        { "text": "Profits were £5 million, which is a decrease **of** 10%." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "profit or loss?",
+      "left": {
+        "label": "profit",
+        "text": "The money you receive from your business after you have paid all your costs.",
+        "examples": [
+          "Last year the company **made a profit** of £2 million.",
+          "We made a **profit** of six million euros."
+        ]
+      },
+      "right": {
+        "label": "loss",
+        "text": "The opposite: the business pays out more than it receives.",
+        "examples": [
+          "This year they could **make a loss**.",
+          "The company made a **loss** two years in a row."
+        ]
+      },
+      "note": "In a row means one after another with no break."
+    },
+    {
+      "type": "table",
+      "heading": "Financial language",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**economy**", "the system by which a country's trade, industry and money are organised"],
+        ["**loan**", "money that you borrow"],
+        ["**interest**", "what the bank charges you when you borrow money"],
+        ["**interest rate**", "how much interest you must pay, as a percentage"],
+        ["**inflation**", "the rate at which prices increase"],
+        ["**figures**", "amounts shown in numbers, e.g. 500"],
+        ["**trade**", "buying and selling between countries"],
+        ["**currency**", "the money a country uses, e.g. the pound, the dollar"],
+        ["**value**", "the money that something can be sold for"],
+        ["**quarter**", "(in business) a period of three months"],
+        ["**recession**", "a time when the economy is not successful"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Interest rates",
+      "text": "**Interest** is what the bank **charges** you - asks you to pay - when you borrow money. The **interest rate** is how much you must pay as a percentage, e.g. 5% or 8%.",
+      "examples": [
+        { "text": "If you borrow £100 for a year and the interest rate is 15% a year, you will **pay back** £115." },
+        { "text": "There are growing fears that **interest rates** could go up by as much as 2% next year.", "note": "2% is spoken as 'two per cent'" },
+        { "text": "Banks are reporting positive **signs** that the number of **loans** is increasing.", "note": "a sign is something which shows that something is happening" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "News in business English",
+      "text": "Business news uses these words all the time. Note that **raise** is different from **rise**: you **raise** prices or hopes (you do it to something), but prices themselves **rise**.",
+      "examples": [
+        { "text": "**Figures** published yesterday show that **trade** between the two countries has risen for the fifth year **in a row**." },
+        { "text": "The **value** of the pound fell slightly against the dollar." },
+        { "text": "Sales rose in the last **quarter**." },
+        { "text": "The news has **raised** hopes that we may be coming out of **recession**." },
+        { "text": "The company decided to **raise** the price from £8.95 to £10.25." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the pattern: prices rise *by* an amount, *from* one figure *to* another - and a rise or fall *of* 5% *in* sales."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct preposition: Sales rose ___ 10% last year.",
+      "options": ["by", "to", "of", "in"],
+      "answer": 0,
+      "explanation": "We say prices or sales rise by an amount."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct preposition: The value of the shares fell ___ 240 pence to 225 pence.",
+      "options": ["from", "for", "by", "of"],
+      "answer": 0,
+      "explanation": "We say something falls from one figure to another."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct preposition: There was a fall ___ 5% in the value of the shares.",
+      "options": ["of", "from", "by", "in"],
+      "answer": 0,
+      "explanation": "The noun takes of before a percentage: a fall of 5%, a decrease of 10%."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There has been a gradual rise ___ profits.",
+      "hint": "(preposition)",
+      "answers": ["in"],
+      "explanation": "A rise or an increase in something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The company made a loss two years ___ a row.",
+      "hint": "(preposition)",
+      "answers": ["in"],
+      "explanation": "In a row means one after another with no break."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the right word.",
+      "pairs": [
+        { "left": "The amount of money that something can be sold for", "right": "value" },
+        { "left": "Money you borrow from a bank for your business", "right": "a loan" },
+        { "left": "What the bank charges you when you borrow money", "right": "interest" },
+        { "left": "The rate at which prices increase", "right": "inflation" },
+        { "left": "Buying and selling goods between countries", "right": "trade" },
+        { "left": "A movement in sales or prices over a period", "right": "a trend" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The money a company receives for its goods after paying all its costs is called ___.",
+      "hint": "(one word)",
+      "answers": ["profit"],
+      "explanation": "Profit is what is left after you have paid all your costs; the opposite is a loss."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You borrow £500 for a year and the bank ___ you 20% interest. You will pay back £600.",
+      "hint": "(one word, = asks you to pay)",
+      "answers": ["charges"],
+      "explanation": "The bank charges you interest when you borrow money."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You take out a loan of £500 for one year and the interest rate is 15%. How much will you pay back?",
+      "options": ["£575", "£515", "£600", "£650"],
+      "answer": 0,
+      "explanation": "15% of £500 is £75, so you pay back £575."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sales went up or down. Put each adverb or phrase in the right group.",
+      "categories": ["Up", "Down", "No change"],
+      "items": [
+        { "text": "rose", "category": 0 },
+        { "text": "increased", "category": 0 },
+        { "text": "went up", "category": 0 },
+        { "text": "fell", "category": 1 },
+        { "text": "decreased", "category": 1 },
+        { "text": "went down", "category": 1 },
+        { "text": "stayed the same", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sales history: three years ago 100,000 units, two years ago 50,000 units. So sales did not fall slowly - there was a ___ fall in sales.",
+      "hint": "(one word)",
+      "answers": ["sharp"],
+      "explanation": "Sharp means quick and by a large amount."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sales were 50,000 units two years ago and 50,000 units last year, so sales ___ the same.",
+      "hint": "(one word, past tense)",
+      "answers": ["stayed", "remained"],
+      "explanation": "If figures do not rise or fall, they stay the same."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the first two ___ of this year, sales have risen from 50,000 to 80,000 units.",
+      "hint": "(periods of three months, plural)",
+      "answers": ["quarters"],
+      "explanation": "In business a quarter is a period of three months."
+    },
+    {
+      "type": "true_false",
+      "statement": "The company decided to rise the price from £8.95 to £10.25.",
+      "answer": false,
+      "explanation": "The company decided to raise the price from £8.95 to £10.25. You raise prices, but prices rise."
+    }
+  ]
+}

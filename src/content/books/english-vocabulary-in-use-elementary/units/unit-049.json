@@ -1,0 +1,177 @@
+{
+  "number": 49,
+  "title": "Moving",
+  "subtitle": "walk, run, ride, drive, fly",
+  "summary": "Talk about moving - walking, running and swimming - and choose between go by, take, ride, drive and fly for transport.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Moving without transport",
+      "text": "These verbs describe how your body moves: **walk**, **run**, **jump**, **dance**, **swim**, **climb** and **fall**.",
+      "examples": [
+        { "text": "Jack likes **running** round the park, but Hannah prefers **walking** round it with her dog." },
+        { "text": "Everyone **danced** at the party last night." },
+        { "text": "Stella **jumped** into the swimming pool and quickly **swam** to the other side." },
+        { "text": "Andrew loves **climbing** mountains." },
+        { "text": "The old lady **fell** on her way home and broke her arm." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Past forms",
+      "columns": ["Now", "Past"],
+      "rows": [
+        ["walk / dance / jump / climb", "walked / danced / jumped / climbed"],
+        ["run", "ran"],
+        ["swim", "swam"],
+        ["fall", "fell"],
+        ["fly", "flew"],
+        ["drive / ride / take", "drove / rode / took"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Transport verbs",
+      "columns": ["Verb", "Goes with", "Example"],
+      "rows": [
+        ["go by", "car / plane / bus / train / bike / ship / taxi", "We went to Paris by train last summer."],
+        ["take", "a bus / a train / a taxi / the underground", "I took a taxi home yesterday."],
+        ["ride", "a bicycle / a bike / a motorbike / a horse", "I always rode my bike to school."],
+        ["drive", "a car / a bus / a train / a lorry", "My uncle drove a bus for ten years."],
+        ["fly", "a plane", "The pilot flies a plane."]
+      ],
+      "note": "We say by car, by bus, by train - never ~~by a car~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Arriving",
+      "text": "You **arrive at** or **arrive in** a place. Never *arrive to* a place. We usually use **in** with big places like cities, and **at** with buildings and airports.",
+      "examples": [
+        { "text": "The train **arrived in** Tokyo on time.", "wrong": "arrived to Tokyo" },
+        { "text": "The plane **arrived** late **at** Heathrow." },
+        { "text": "*A:* How did you get to Istanbul? *B:* We **flew** there." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions",
+      "text": "A few useful phrases for journeys and meals: **carry** the luggage, **pass** the salt, **miss** a train and **catch** a train.",
+      "examples": [
+        { "text": "Can I help you **carry** your luggage?" },
+        { "text": "Please **pass** the salt." },
+        { "text": "I've just **missed** the train. The next one is in an hour." },
+        { "text": "If we don't leave now we won't **catch** our train." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you travel you will see a lot of English signs - write down every new word you notice."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Jack likes ___ round the park every morning. He is very fast.",
+      "hint": "(run)",
+      "answers": ["running"],
+      "explanation": "After like we use the -ing form: running, walking, swimming."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everyone ___ at the party last night. The music was great.",
+      "hint": "(dance - past)",
+      "answers": ["danced"],
+      "explanation": "Dance is a regular verb: danced."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The old lady ___ on her way home and broke her arm.",
+      "hint": "(fall - past)",
+      "answers": ["fell"],
+      "explanation": "The past of fall is fell."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Can you ___ a motorbike?",
+      "options": ["ride", "drive", "take", "fly"],
+      "answer": 0,
+      "explanation": "We ride a bike, a motorbike or a horse."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He works for a railway company. He ___ a train.",
+      "options": ["drives", "rides", "flies", "carries"],
+      "answer": 0,
+      "explanation": "We drive a car, a bus or a train."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She sometimes ___ the underground to work.",
+      "hint": "(take)",
+      "answers": ["takes"],
+      "explanation": "We take the underground, a bus or a taxi."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the words that go with it.",
+      "pairs": [
+        { "left": "fly", "right": "a plane" },
+        { "left": "ride", "right": "a horse" },
+        { "left": "drive", "right": "a lorry" },
+        { "left": "take", "right": "the underground" },
+        { "left": "carry", "right": "your luggage" },
+        { "left": "pass", "right": "the salt" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each verb have a regular past with -ed, or an irregular past?",
+      "categories": ["Regular past (-ed)", "Irregular past"],
+      "items": [
+        { "text": "walk", "category": 0 },
+        { "text": "dance", "category": 0 },
+        { "text": "jump", "category": 0 },
+        { "text": "climb", "category": 0 },
+        { "text": "run", "category": 1 },
+        { "text": "swim", "category": 1 },
+        { "text": "fall", "category": 1 },
+        { "text": "fly", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The train arrived to Tokyo on time.",
+      "answer": false,
+      "explanation": "The train arrived in Tokyo on time. We arrive at or in a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The plane arrived late ___ Heathrow.",
+      "hint": "(one word)",
+      "answers": ["at"],
+      "explanation": "We arrive at an airport or a building."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maria often drives her grandmother to the city. She ___ her there yesterday too.",
+      "hint": "(drive - past)",
+      "answers": ["drove"],
+      "explanation": "The past of drive is drove."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Charlie flies to Madrid every week. Say what he did yesterday.",
+      "words": ["Charlie", "flew", "to", "Madrid", "yesterday."],
+      "answer": "Charlie flew to Madrid yesterday.",
+      "explanation": "The past of fly is flew."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We arrived at the station at 10.05, but the train left at 10.00. What happened?",
+      "options": ["We missed the train.", "We caught the train.", "We drove the train.", "We carried the train."],
+      "answer": 0,
+      "explanation": "If you arrive too late you miss the train; if you arrive in time you catch it."
+    }
+  ]
+}

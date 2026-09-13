@@ -1,0 +1,189 @@
+{
+  "number": 56,
+  "title": "Crime",
+  "subtitle": "burglary, arrest, guilty",
+  "summary": "Name different crimes and the people who commit them, and talk about arrests, courts and punishment.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Crime and criminals",
+      "text": "A **crime** is an activity that is wrong and not allowed by law. A person who **commits** a crime is a **criminal**. Each crime has its own noun, person and verb.",
+      "examples": [
+        { "text": "He **committed** his first **crime** when he was sixteen." },
+        { "text": "The police are looking for the **criminal**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Crimes, people and verbs",
+      "columns": ["Crime", "What it is", "Person", "Verb"],
+      "rows": [
+        ["**theft**", "stealing something, e.g. a car", "thief", "steal / take (something)"],
+        ["**robbery**", "stealing from a person or place, e.g. a bank", "robber", "rob (someone, a place)"],
+        ["**burglary**", "getting into a building, usually someone's home, and stealing something", "burglar", "burgle (a place)"],
+        ["**murder**", "killing someone", "murderer", "murder"]
+      ],
+      "note": "Someone's **stolen** my handbag. / I don't know who **robbed** me. / Our flat was **burgled**, but they only took money. / Do they know who **murdered** the boy?"
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting crimes in the news",
+      "text": "News reports use a small group of verbs again and again. Criminals **break in**, they **steal** things **worth** a lot of money, they **attack** people, and then they **escape** or **get away**. **Detectives** are police officers who try to find information to solve crimes.",
+      "examples": [
+        { "text": "They **broke in** around 7 o'clock and **stole** jewellery **worth** over £10,000.", "note": "break in = enter using force; worth = with a value of" },
+        { "text": "The two men **attacked** Mr Crawford while he was walking home.", "note": "attack = use physical violence to hurt someone" },
+        { "text": "They hit him in the face, took his money and **escaped** through the park.", "note": "escape = leave the place to avoid danger; syn get away" },
+        { "text": "**Detectives arrested** a man this morning in connection with the murder." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Arrest",
+      "text": "If you **arrest** someone, you take them to the police station because you believe they committed a crime. That person is then **under arrest**.",
+      "examples": [
+        { "text": "*A:* Have the police caught the man? *B:* Yes, he's **under arrest**." },
+        { "text": "Two men were **arrested** at their homes yesterday evening." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Punishment",
+      "text": "**Punishment** is what a person must suffer if they do something wrong. If the police **catch** you, you will be **punished**. For **minor offences** the punishment may only be a **fine**, but for **serious** crimes you have to go to **court**.",
+      "examples": [
+        { "text": "*A:* Was it a serious crime? *B:* No, just a **minor offence**.", "note": "an offence = a crime; minor is the opposite of serious" },
+        { "text": "*A:* Will she go to prison? *B:* No, she just has to pay a **fine**.", "note": "a fine = money you have to pay" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Guilty or innocent?",
+      "left": {
+        "label": "guilty",
+        "text": "The judge, or a jury of 12 people, decides that you did commit the crime.",
+        "examples": [
+          "If they are found **guilty**, the two men will go to **prison**.",
+          "He was found **guilty** and sent to **jail**."
+        ]
+      },
+      "right": {
+        "label": "innocent",
+        "text": "The court decides that you did not commit the crime.",
+        "examples": [
+          "*A:* Is she guilty? *B:* No, the jury found her **innocent**.",
+          "He says he is **innocent** and will go back to court."
+        ]
+      },
+      "note": "**Prison** and **jail** mean the same thing."
+    },
+    {
+      "type": "tip",
+      "text": "You **rob** a person or a place, but you **steal** a thing: they **robbed** the bank and **stole** £10,000 - not ~~they stole the bank~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each crime with the person who commits it.",
+      "pairs": [
+        { "left": "theft", "right": "thief" },
+        { "left": "robbery", "right": "robber" },
+        { "left": "burglary", "right": "burglar" },
+        { "left": "murder", "right": "murderer" },
+        { "left": "crime", "right": "criminal" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the words that have a similar meaning.",
+      "pairs": [
+        { "left": "catch", "right": "arrest" },
+        { "left": "crime", "right": "offence" },
+        { "left": "jail", "right": "prison" },
+        { "left": "get away", "right": "escape" },
+        { "left": "hit", "right": "attack" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have the police caught the man? *B:* Yes, he's under ___.",
+      "hint": "(one word)",
+      "answers": ["arrest"],
+      "explanation": "Someone the police have taken to the police station is under arrest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is she guilty? *B:* No, the jury found her ___.",
+      "hint": "(opposite of guilty)",
+      "answers": ["innocent"],
+      "explanation": "Innocent is the opposite of guilty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Was it a serious crime? *B:* No, just a minor ___.",
+      "hint": "(o___ = crime)",
+      "answers": ["offence"],
+      "explanation": "An offence is a crime; a minor offence is not a very important one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Will she go to prison? *B:* No, she just has to pay a ___.",
+      "hint": "(money you have to pay)",
+      "answers": ["fine"],
+      "explanation": "A fine is money you pay as a punishment."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Two men entered the warehouse using force late yesterday evening. They ___ into the building through a window.",
+      "options": ["broke", "robbed", "arrested", "escaped"],
+      "answer": 0,
+      "explanation": "Break in = enter a building using force."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The men stole a collection of designer clothes ___ over £40,000.",
+      "hint": "(one word = with a value of)",
+      "answers": ["worth"],
+      "explanation": "Worth = with a value of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police arrived, but the two men managed to ___ through a back door.",
+      "hint": "(e___ = get away)",
+      "answers": ["escape", "get away"],
+      "explanation": "Escape (syn get away) = leave the place to avoid danger."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Both men will appear before a judge in ___ on Monday.",
+      "hint": "(one word)",
+      "answers": ["court"],
+      "explanation": "For serious crimes you have to go to court."
+    },
+    {
+      "type": "true_false",
+      "statement": "Our flat was burgled last night, but they only took money.",
+      "answer": true,
+      "explanation": "Correct. Burgle a place = get into a building and steal something."
+    },
+    {
+      "type": "true_false",
+      "statement": "The two men stole the bank in West London early this morning.",
+      "answer": false,
+      "explanation": "The two men robbed the bank in West London early this morning. You rob a place, but you steal a thing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right group.",
+      "categories": ["The crime", "The police", "The punishment"],
+      "items": [
+        { "text": "burglary", "category": 0 },
+        { "text": "murder", "category": 0 },
+        { "text": "detective", "category": 1 },
+        { "text": "arrest", "category": 1 },
+        { "text": "fine", "category": 2 },
+        { "text": "prison", "category": 2 }
+      ]
+    }
+  ]
+}

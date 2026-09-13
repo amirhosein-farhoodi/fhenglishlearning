@@ -1,0 +1,200 @@
+{
+  "number": 71,
+  "title": "Suffixes: forming nouns",
+  "subtitle": "invention, happiness, translator",
+  "summary": "Build nouns from verbs and adjectives with the suffixes -ion, -ment, -ness and -ity, and name people with -er, -or and -ist.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What a suffix does",
+      "text": "A **suffix** is an ending that you add to a word. It often tells you whether the word is a noun, a verb, an adjective or an adverb. Two suffixes that turn verbs into nouns are **-ion** and **-ment**.",
+      "examples": [
+        { "text": "invent (verb) - **invention** (noun)" },
+        { "text": "improve (verb) - **improvement** (noun)" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verb + noun suffix",
+      "columns": ["Verb", "Meaning", "Noun"],
+      "rows": [
+        ["invent", "produce or design something completely new", "invention"],
+        ["discuss", "talk about something seriously", "discussion"],
+        ["translate", "change from one language to another", "translation"],
+        ["relax", "rest, and feel calm and comfortable", "relaxation"],
+        ["improve", "get better", "improvement"],
+        ["govern", "control the affairs of a city or country", "government"],
+        ["manage", "direct or control a business", "management"],
+        ["develop", "grow or change and become more advanced", "development"]
+      ],
+      "note": "Watch the spelling: relax loses nothing but gains an extra -a- (relaxation), and manage drops its final -e (management)."
+    },
+    {
+      "type": "explain",
+      "heading": "Using these nouns",
+      "text": "These nouns behave like any other noun. Many of them can be singular or plural: *one invention, two inventions*.",
+      "examples": [
+        { "text": "His latest **invention** is a new board game." },
+        { "text": "We had a **discussion** about politics." },
+        { "text": "**Relaxation** will help you to sleep better." },
+        { "text": "The **management** has to change. We need money for more **development**." },
+        { "text": "We need an **improvement** in the weather." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjective + noun suffix",
+      "columns": ["Adjective", "Meaning", "Noun"],
+      "rows": [
+        ["weak", "opposite of strong", "weakness"],
+        ["happy", "pleased and satisfied", "happiness"],
+        ["ill", "sick, not well", "illness"],
+        ["fit", "in good condition, usually because of exercise", "fitness"],
+        ["stupid", "opposite of intelligent or clever", "stupidity"],
+        ["popular", "liked by a lot of people", "popularity"],
+        ["similar", "almost the same; opposite of different", "similarity"],
+        ["able", "can do something", "ability"]
+      ],
+      "note": "The suffix -ness usually keeps the adjective unchanged (sad - sadness), but a final -y becomes -i- (happy - happiness). The opposite of ability is inability."
+    },
+    {
+      "type": "explain",
+      "heading": "More example sentences",
+      "text": "Notice that **-ity** nouns often come from longer adjectives, and **-ness** nouns from short ones.",
+      "examples": [
+        { "text": "What is his main **weakness** as a manager?" },
+        { "text": "Fortunately it wasn't a serious **illness**." },
+        { "text": "Snowboarding is growing in **popularity**." },
+        { "text": "There is a **similarity** between them." },
+        { "text": "I'm frustrated by my **inability** to use computers." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "People: -er, -or and -ist",
+      "columns": ["-er", "-or", "-ist"],
+      "rows": [
+        ["ballet dancer", "company director", "artist"],
+        ["pop singer", "translator", "economist"],
+        ["professional footballer", "film actor", "scientist"]
+      ],
+      "note": "These three suffixes go on nouns or verbs and very often describe people and their jobs."
+    },
+    {
+      "type": "tip",
+      "text": "Adding a suffix can move the main stress in a word: reLAX becomes relaxATion, and STUpid becomes stuPIDity."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We had a long ___ about politics after dinner.",
+      "hint": "(discuss)",
+      "answers": ["discussion"],
+      "explanation": "The verb discuss makes the noun discussion with -ion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather is terrible. We need an ___ before the weekend.",
+      "hint": "(improve)",
+      "answers": ["improvement"],
+      "explanation": "The verb improve makes the noun improvement with -ment."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the noun made from it.",
+      "pairs": [
+        { "left": "invent", "right": "invention" },
+        { "left": "relax", "right": "relaxation" },
+        { "left": "arrange", "right": "arrangement" },
+        { "left": "govern", "right": "government" },
+        { "left": "develop", "right": "development" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which suffix makes a noun from each adjective, -ness or -ity?",
+      "categories": ["-ness", "-ity"],
+      "items": [
+        { "text": "happy", "category": 0 },
+        { "text": "weak", "category": 0 },
+        { "text": "sad", "category": 0 },
+        { "text": "ill", "category": 0 },
+        { "text": "stupid", "category": 1 },
+        { "text": "popular", "category": 1 },
+        { "text": "similar", "category": 1 },
+        { "text": "active", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone whose job is to work in science is a ___.",
+      "options": ["scientist", "scienter", "sciencer", "scientor"],
+      "answer": 0,
+      "explanation": "Many jobs take the suffix -ist: artist, economist, scientist."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her job is to change words from one language into another. She is a ___.",
+      "hint": "(translate)",
+      "answers": ["translator"],
+      "explanation": "Translate + -or gives translator."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He hasn't been well at all, has he? *B:* No, it's quite a serious ___.",
+      "hint": "(ill)",
+      "answers": ["illness"],
+      "explanation": "The adjective ill makes the noun illness with -ness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are they almost the same? *B:* Yes, the ___ is amazing.",
+      "hint": "(similar)",
+      "answers": ["similarity"],
+      "explanation": "The adjective similar makes the noun similarity with -ity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Has anyone made anything like this before? *B:* No, it's a brand-new ___.",
+      "hint": "(invent)",
+      "answers": ["invention"],
+      "explanation": "Invent + -ion gives invention."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is her new novel going to be published in other languages? *B:* Yes, someone is working on a ___ right now.",
+      "hint": "(translate)",
+      "answers": ["translation"],
+      "explanation": "Translate + -ion gives translation - the text itself, not the person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Javier gets tired after ten minutes. If he wants to be in the team, he'll have to improve his ___.",
+      "hint": "(fit)",
+      "answers": ["fitness"],
+      "explanation": "The adjective fit makes the noun fitness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The prime minister blamed the bad ___ of the last government for the state of the economy.",
+      "hint": "(manage)",
+      "answers": ["management"],
+      "explanation": "Manage + -ment gives management; the -e is dropped."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm frustrated by my unability to use computers.",
+      "answer": false,
+      "explanation": "I'm frustrated by my inability to use computers. The opposite of ability is inability."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about a new game.",
+      "words": ["His", "latest", "invention", "is", "a", "new", "board", "game."],
+      "answer": "His latest invention is a new board game.",
+      "explanation": "Invention is the noun form of the verb invent."
+    }
+  ]
+}

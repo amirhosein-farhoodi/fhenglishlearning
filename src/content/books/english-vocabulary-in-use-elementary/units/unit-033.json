@@ -1,0 +1,163 @@
+{
+  "number": 33,
+  "title": "UK culture",
+  "subtitle": "Bonfire Night, fish and chips, a state school",
+  "summary": "Learn the special days, the traditional food, the schools and the politics of the UK.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Special days",
+      "columns": ["Festival", "Date", "What people do"],
+      "rows": [
+        ["**Christmas**", "25th December", "send Christmas cards, give presents, spend time with their families, decorate a Christmas tree, eat a lot"],
+        ["**New Year's Eve** / **Hogmanay** (Scotland)", "31st December", "sing and dance, toast the New Year"],
+        ["**New Year's Day**", "1st January", "a bank holiday"],
+        ["**Valentine's Day**", "14th February", "send cards to a boyfriend / girlfriend / husband / wife"],
+        ["**Easter**", "dates vary", "give children Easter eggs [chocolate eggs]"],
+        ["**Halloween**", "31st October", "children dress up and knock at doors to ask for sweets"],
+        ["**Bonfire Night**", "5th November", "have a bonfire and fireworks"]
+      ],
+      "note": "A **bank holiday** is a day when most organisations are closed."
+    },
+    {
+      "type": "explain",
+      "heading": "Food",
+      "text": "Traditional UK food is **fish and chips**, and **roast beef** with **roast potatoes** [cooked in the oven] and **Yorkshire pudding** [a dish made of flour, milk and eggs].",
+      "examples": [
+        { "text": "We had **fish and chips** by the sea." },
+        { "text": "On Sunday we eat **roast beef** with **roast potatoes** and **Yorkshire pudding**.", "note": "The Yorkshire pudding comes with the main course, not after it." },
+        { "text": "**Chicken tikka masala** comes from India, but it is very popular in the UK.", "note": "It is a kind of curry." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Education",
+      "columns": ["Type of school", "What it is"],
+      "rows": [
+        ["**nursery school**", "for children aged 2-4"],
+        ["**primary school**", "for children aged 5-11"],
+        ["**secondary school**", "for children aged 12-18"],
+        ["**state school**", "parents don't pay for children to go here"],
+        ["**private school**", "parents pay for children to go here"]
+      ],
+      "note": "You can put the words together: *a state primary school*, *a private secondary school*."
+    },
+    {
+      "type": "explain",
+      "heading": "Politics",
+      "text": "The UK has a **royal family**, with a **king** or a **queen**. Political decisions are made at the **Houses of Parliament**, and the **Prime Minister** is the political leader of the country.",
+      "examples": [
+        { "text": "The **royal family** live in London." },
+        { "text": "Political decisions are made at the **Houses of Parliament**." },
+        { "text": "The **Prime Minister** is the political leader of the UK." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the special days with their dates together - *Bonfire Night, 5th November* - so you remember both at the same time."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which festival is on 31st October?",
+      "options": ["Halloween", "Christmas", "Easter", "New Year's Day"],
+      "answer": 0,
+      "explanation": "Halloween is on 31st October. Children dress up and ask for sweets."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each festival with what people do.",
+      "pairs": [
+        { "left": "Christmas", "right": "decorate a tree and give presents" },
+        { "left": "Halloween", "right": "children dress up and ask for sweets" },
+        { "left": "Bonfire Night", "right": "have a bonfire and fireworks" },
+        { "left": "Easter", "right": "give children chocolate eggs" },
+        { "left": "Valentine's Day", "right": "send cards to a boyfriend or girlfriend" },
+        { "left": "New Year's Eve", "right": "sing and dance, and toast the New Year" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "New Year's Day is a ___ holiday - most organisations are closed.",
+      "hint": "(one word)",
+      "answers": ["bank"],
+      "explanation": "A bank holiday is a day when most organisations are closed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "British people traditionally eat fish with ___.",
+      "hint": "(one word)",
+      "answers": ["chips"],
+      "explanation": "Fish and chips is traditional UK food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Chicken tikka masala is popular in the UK, but it comes from ___.",
+      "hint": "(a country)",
+      "answers": ["India"],
+      "explanation": "Chicken tikka masala comes from India."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Chicken tikka masala is a kind of ...",
+      "options": ["curry", "pudding", "soup", "cake"],
+      "answer": 0,
+      "explanation": "Chicken tikka masala is a kind of curry."
+    },
+    {
+      "type": "true_false",
+      "statement": "British people eat Yorkshire pudding after their main course.",
+      "answer": false,
+      "explanation": "No. They eat it with their main course, with roast beef."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You make roast beef and roast potatoes in the ___.",
+      "hint": "(part of the cooker)",
+      "answers": ["oven"],
+      "explanation": "Roast food is cooked in the oven."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which kind of school does each child go to?",
+      "categories": ["Nursery school", "Primary school", "Secondary school"],
+      "items": [
+        { "text": "James is three.", "category": 0 },
+        { "text": "Ellie is four.", "category": 0 },
+        { "text": "Lily is seven.", "category": 1 },
+        { "text": "Mehmet is ten.", "category": 1 },
+        { "text": "Gabriel is 14.", "category": 2 },
+        { "text": "Nick is 16.", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Gabriel is 14. His school is free. What kind of school does he go to?",
+      "options": ["a state secondary school", "a private secondary school", "a state primary school", "a nursery school"],
+      "answer": 0,
+      "explanation": "Free = a state school. Aged 12-18 = a secondary school."
+    },
+    {
+      "type": "true_false",
+      "statement": "Parents pay for their children to go to a state school.",
+      "answer": false,
+      "explanation": "Parents don't pay for a state school. They pay for a private school."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Political decisions in the UK are made at the Houses of ___.",
+      "hint": "(one word)",
+      "answers": ["Parliament"],
+      "explanation": "The Prime Minister works at the Houses of Parliament."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say who leads the country.",
+      "words": ["The", "Prime Minister", "is", "the political leader", "of", "the UK."],
+      "answer": "The Prime Minister is the political leader of the UK.",
+      "explanation": "The Prime Minister is the political leader; the king or queen is the head of the royal family."
+    }
+  ]
+}

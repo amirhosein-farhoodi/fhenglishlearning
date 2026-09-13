@@ -1,0 +1,241 @@
+{
+  "number": 80,
+  "title": "Academic writing: text structure",
+  "subtitle": "reiterate, epitomise, subsume, beyond the scope of",
+  "summary": "Structure an essay in academic English - reiterate, expound, posit, account for - and signpost your argument from prefacing it to being forced to conclude.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Explaining, reinforcing, exemplifying",
+      "columns": ["Verb", "Meaning", "Example from an academic text"],
+      "rows": [
+        ["reiterate", "repeat, restate", "The Prime Minister reiterated her concern that the debate should not be dominated by personal attacks."],
+        ["summarise", "describe briefly the main facts or ideas", "She summarised the new policy as being progressive and radical."],
+        ["epitomise", "be a perfect example of", "Peter Burnett's comments epitomise the attitude of many parents nowadays."],
+        ["assert", "say that something is certainly true", "He asserted that schools are to blame for anti-social behaviour among children."],
+        ["expound", "develop, propose", "It was a philosophy first expounded by John Ruskin in the 19th century."],
+        ["underscore", "emphasise", "The recent events underscore the need for a better understanding of the environmental impact of biotechnology."],
+        ["posit", "suggest as a basic fact or principle", "Several scientists have posited a link between climate change and bird migration patterns."],
+        ["account for", "explain, find the cause of", "In an attempt to account for the lack of interest, political analysts have looked at past voting patterns."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Categorising and including",
+      "text": "**Comprise** and **make up** both mean consist of; something can also **be comprised of** its parts. To **subsume** things under a heading is to bring them together under it, and a book that **embraces** a number of issues covers or includes them.",
+      "examples": [
+        { "text": "Chinese visitors **comprised** / **made up** 70% of the hotel's guests last year." },
+        { "text": "The course **is comprised of** two elements: reading and writing.", "note": "= is composed of" },
+        { "text": "These two approaches can be **subsumed under** one heading." },
+        { "text": "The book **embraces** a number of issues, from economic to religious ones." },
+        { "text": "Her philosophy is difficult to **categorise**.", "note": "= label as belonging to a particular type or class" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Consist of",
+      "text": "**Consist** is followed by **of** when we refer to the elements that compose something. This is a very common mistake in academic writing.",
+      "examples": [
+        { "text": "The country **consists of** five major regions.", "wrong": "consists on five major regions" },
+        { "text": "The course **consists of** five modules, from which students must choose three.", "wrong": "consists five modules" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Structuring the text: beginning, connecting and focusing",
+      "columns": ["Function in the text", "Example"],
+      "rows": [
+        ["mapping out the text at the beginning", "I should like to preface my argument with a true story."],
+        ["connecting points", "I shall return to this point later in my essay."],
+        ["focusing", "This brings me/us to my next area of discussion, which is finance."],
+        ["focusing on a new question", "I should now like to address the question of the arms race."],
+        ["ordering points", "The arguments are presented in ascending/descending order of importance."]
+      ],
+      "note": "In ascending order means least important first; in descending order means most important first."
+    },
+    {
+      "type": "table",
+      "heading": "Structuring the text: referring, limiting and concluding",
+      "columns": ["Function in the text", "Example"],
+      "rows": [
+        ["quoting or referring", "The ideas of several writers will be cited in support of the argument."],
+        ["referring indirectly", "The text alludes to several themes that need closer examination."],
+        ["including material only briefly", "There will only be space to touch upon the big question of political responsibility."],
+        ["excluding material", "It is impossible to deal with all the issues in this short essay."],
+        ["excluding a whole topic", "Discussion of the roots of the problem is beyond the scope of this essay."],
+        ["drawing conclusions", "We are forced to conclude that unemployment will always be with us."]
+      ],
+      "note": "To touch upon something is to include it only briefly; to deal with something is to give all the necessary information about it."
+    },
+    {
+      "type": "tip",
+      "text": "Underscore, reiterate and posit are the essay-writing versions of emphasise, repeat and suggest - use them when the register needs to lift."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: The response from the public ___ the importance of having a full investigation of the facts.",
+      "hint": "(formal verb for 'really shows us')",
+      "answers": ["underscores"],
+      "explanation": "To underscore something is to emphasise it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: This view of the world was originally ___ by the Ancient Greek philosophers.",
+      "hint": "(formal verb for 'laid out')",
+      "answers": ["expounded"],
+      "explanation": "To expound an idea is to develop or propose it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: It is not easy to ___ the fall in population of these birds.",
+      "hint": "(two words: explain, find the cause of)",
+      "answers": ["account for"],
+      "explanation": "To account for something is to explain it or find its cause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: Economists have ___ a link between exchange rates and a general lack of confidence in the European Union.",
+      "hint": "(formal verb for 'said there might be')",
+      "answers": ["posited"],
+      "explanation": "To posit something is to suggest it as a basic fact or principle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: I should like to ___ here that the issue is not one that can be easily resolved.",
+      "hint": "(formal verb for 'say again')",
+      "answers": ["reiterate"],
+      "explanation": "To reiterate is to repeat or restate."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: The recent events ___ the dilemma faced by politicians the world over.",
+      "hint": "(formal verb for 'are the best example of')",
+      "answers": ["epitomise"],
+      "explanation": "If something epitomises a situation, it is a perfect example of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: In a 2010 article, Charles Plestow ___ that the whole European Medieval era had been misinterpreted.",
+      "hint": "(formal verb for 'said with great certainty')",
+      "answers": ["asserted"],
+      "explanation": "To assert something is to say that it is certainly true."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it more formal: The lecturer ___ the main arguments of her talk at the end.",
+      "hint": "(formal verb for 'briefly repeated')",
+      "answers": ["summarised"],
+      "explanation": "To summarise is to describe briefly the main facts or ideas."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which rewrite of '70% of the landmass is mountain ranges' uses comprise correctly?",
+      "options": [
+        "Mountain ranges comprise 70% of the landmass.",
+        "Mountain ranges comprise of 70% of the landmass.",
+        "70% of the landmass comprises in mountain ranges.",
+        "Mountain ranges are comprising 70% of the landmass."
+      ],
+      "answer": 0,
+      "explanation": "Comprise means consist of, so no preposition follows it; you can also say the landmass is comprised of mountain ranges."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with consist: The course ___ five modules, from which students must choose three.",
+      "hint": "(verb + preposition)",
+      "answers": ["consists of"],
+      "explanation": "Consist is always followed by of when referring to the elements that compose something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with subsume: I think these three sections can all be ___ one heading.",
+      "hint": "(past participle + preposition)",
+      "answers": ["subsumed under"],
+      "explanation": "To subsume things under a heading is to bring them together under it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I shall ___ to this line of argument later in the book.",
+      "hint": "(come back to)",
+      "answers": ["return"],
+      "explanation": "I shall return to this point later is a standard way of connecting points in an essay."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The question of monetary union ___ us to our next topic: the idea of a federal Europe.",
+      "hint": "(means we have arrived at)",
+      "answers": ["brings"],
+      "explanation": "This brings me/us to my next area of discussion is a standard focusing phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Smithies just ___ upon the subject of internet policing, but does not go into it in depth.",
+      "hint": "(mentions only briefly)",
+      "answers": ["touches"],
+      "explanation": "To touch upon something is to include it only briefly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I shall attempt to ___ the problem of censorship later in this discussion.",
+      "hint": "(attend to, consider)",
+      "answers": ["address"],
+      "explanation": "I should now like to address the question of ... is a standard focusing phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Psychological factors in learning foreign languages are ___ this article.",
+      "hint": "(four words: outside the topic area)",
+      "answers": ["beyond the scope of"],
+      "explanation": "If something is beyond the scope of an essay, it is outside its topic area."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I shall discuss the poets in ___ order, that is to say I shall comment on the least important ones first.",
+      "hint": "(going up)",
+      "answers": ["ascending"],
+      "explanation": "Ascending order puts the least important first; descending order does the opposite."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the final analysis, we are ___ that there is little hope of stamping out illegal drugs altogether.",
+      "hint": "(three words: have no choice but to believe)",
+      "answers": ["forced to conclude"],
+      "explanation": "We are forced to conclude that ... is a standard way of drawing conclusions."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each essay phrase with the job it does in the text.",
+      "pairs": [
+        { "left": "I should like to preface my argument with ...", "right": "mapping out the text at the beginning" },
+        { "left": "The ideas of several writers will be cited ...", "right": "quoting or referring to sources" },
+        { "left": "The text alludes to several themes ...", "right": "referring to something indirectly" },
+        { "left": "It is impossible to deal with all the issues ...", "right": "excluding material" },
+        { "left": "We are forced to conclude that ...", "right": "drawing conclusions" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If a writer only touches upon a subject, they discuss it in considerable depth.",
+      "answer": false,
+      "explanation": "The opposite - to touch upon something is to include it only briefly."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each verb reinforce a point, or organise the text?",
+      "categories": ["Reinforcing or explaining a point", "Organising the text"],
+      "items": [
+        { "text": "underscore", "category": 0 },
+        { "text": "reiterate", "category": 0 },
+        { "text": "posit", "category": 0 },
+        { "text": "account for", "category": 0 },
+        { "text": "preface", "category": 1 },
+        { "text": "address", "category": 1 },
+        { "text": "touch upon", "category": 1 },
+        { "text": "cite", "category": 1 }
+      ]
+    }
+  ]
+}

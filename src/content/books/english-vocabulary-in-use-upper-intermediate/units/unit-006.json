@@ -1,0 +1,195 @@
+{
+  "number": 6,
+  "title": "The weather",
+  "subtitle": "damp, muggy, a downpour, a gale",
+  "summary": "Talk about cold, hot, wet and windy weather with the precise words native speakers use, from frost and thaw to heatwaves, downpours and gales.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Cold weather",
+      "text": "In Northern Europe, **daytime** temperatures are often quite **mild**, even in **late** autumn. The days are often **misty**, **foggy** and **damp**. Then winter arrives, with **frost**, icy roads and **severe** weather, including heavy snow.",
+      "examples": [
+        { "text": "People try to keep warm so that they don't **freeze**." },
+        { "text": "**Freezing** weather may continue in the far north until May or even June." },
+        { "text": "In June the ground starts to **thaw** and the ice **melts** again." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cold weather words",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["daytime", "happening during the day"],
+        ["late (autumn/summer)", "towards the end of a period of time"],
+        ["misty", "with clouds of small drops of water in the air, so you cannot see far"],
+        ["damp", "slightly wet, and not pleasant or comfortable"],
+        ["frost", "a thin, white layer of ice on surfaces when it is very cold"],
+        ["severe", "extremely bad"],
+        ["thaw", "change from a hard, frozen state to a softer one"],
+        ["melt", "change from solid to liquid under heat"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Warm and hot weather",
+      "text": "In a **tropical** climate the weather is often **stifling**, **muggy** and **humid**. In other hot climates there may be **boiling** hot days, and **heatwaves** may be common.",
+      "examples": [
+        { "text": "It was so **stifling** in the office that we could hardly breathe.", "note": "stifling = hot and uncomfortable" },
+        { "text": "London gets **muggy** in August.", "note": "muggy = very warm and a little damp" },
+        { "text": "The air was so **humid** that we were sweating within minutes.", "note": "humid = hot and damp" },
+        { "text": "We had a three-week **heatwave** last summer.", "note": "heatwave = a very hot, dry period" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The wet weather scale",
+      "columns": ["Weaker", "Stronger", "Strongest"],
+      "rows": [
+        ["a shower (noun)", "heavy rain", "torrential rain"],
+        ["it rains", "it pours down / a downpour (noun)", "a flood (noun and verb)"]
+      ],
+      "note": "The scale gets stronger from left to right: a shower is a short period of rain, while torrential rain can cause floods."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about rain",
+      "text": "Use the noun or the verb, whichever sounds more natural. Note that **overcast** means very cloudy, and a **drought** is a long period with no rain at all.",
+      "examples": [
+        { "text": "This rain won't last long; it's only a **shower**." },
+        { "text": "There was quite **heavy rain** during the night. / It rained **heavily** during the night." },
+        { "text": "It was absolutely **pouring down** yesterday. / There was a real **downpour**." },
+        { "text": "In Malaysia there is usually **torrential rain** most days, and the roads sometimes get **flooded**." },
+        { "text": "The sky's a bit **overcast**; I think it's going to rain." },
+        { "text": "We had a **drought** last summer. It didn't rain for six weeks." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Wind",
+      "text": "Wind words also form a scale, from a pleasant **breeze** up to a dangerous **hurricane**.",
+      "examples": [
+        { "text": "There was a gentle **breeze** on the beach, just enough to cool us." },
+        { "text": "There was a very **strong/high wind** and my umbrella blew away." },
+        { "text": "There was a **gale** that day, so we didn't go sailing.", "note": "a gale = a very high wind" },
+        { "text": "People stayed indoors because there was a **hurricane** on the way.", "note": "a hurricane = an extremely high, dangerous wind" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The noun *weather* is uncountable: say *We had bad weather that day*, not ~~We had a bad weather~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Which adjective describes something that is wet, but not very wet? ___",
+      "hint": "(one adjective)",
+      "answers": ["damp"],
+      "explanation": "Damp means slightly wet, and not pleasant or comfortable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "August is in ___ summer, not at the beginning of it.",
+      "hint": "(adjective meaning 'towards the end of')",
+      "answers": ["late"],
+      "explanation": "Late + a season or period means towards the end of it: late autumn, late summer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In spring the ground starts to ___ and the ice melts again.",
+      "hint": "(verb)",
+      "answers": ["thaw"],
+      "explanation": "Thaw = change from a hard, frozen state to a softer state."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The word for something that happens during the day is ___.",
+      "hint": "(one word)",
+      "answers": ["daytime", "daytime."],
+      "explanation": "Daytime temperatures are the temperatures during the day."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What happens to ice cream on a very hot day?",
+      "options": ["It melts.", "It thaws out.", "It freezes.", "It pours down."],
+      "answer": 0,
+      "explanation": "Melt = change from solid to liquid under heat. Ground and frozen food thaw; ice cream melts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you see a thin, white covering on everything on a cold morning, it is ___.",
+      "hint": "(noun)",
+      "answers": ["frost"],
+      "explanation": "Frost is a thin, white layer of ice that forms on surfaces in very cold weather."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you can't see things in the distance, the weather is probably misty.",
+      "answer": true,
+      "explanation": "Misty (or foggy) weather has clouds of small drops of water in the air, making it hard to see far."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which two adjectives describe a wind that blows very hard?",
+      "options": ["strong and high", "severe and damp", "mild and gentle", "humid and muggy"],
+      "answer": 0,
+      "explanation": "We say a strong wind or a high wind. An even stronger one is a gale."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which adjective can you use to describe very bad weather? ___ weather",
+      "hint": "(adjective meaning 'extremely bad')",
+      "answers": ["severe"],
+      "explanation": "Severe weather = extremely bad weather."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like weather that is hot and damp and makes you sweat - I hate ___ weather.",
+      "hint": "(adjective)",
+      "answers": ["humid"],
+      "explanation": "Humid = hot and damp, so that you sweat a lot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I even dislike the ___ days which we get in the UK - very warm and a little damp.",
+      "hint": "(adjective)",
+      "answers": ["muggy"],
+      "explanation": "Muggy describes weather that is very warm and slightly damp."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each result with the weather that caused it.",
+      "pairs": [
+        { "left": "We had to use the air-conditioning every afternoon.", "right": "The weather was stifling." },
+        { "left": "Cars were sliding everywhere out of control.", "right": "The roads were icy." },
+        { "left": "The postman had to use a boat to get around.", "right": "There was a flood." },
+        { "left": "The earth became rock hard and a lot of plants died.", "right": "We had a drought." },
+        { "left": "It blew the newspaper right out of my hands.", "right": "There was a gale." },
+        { "left": "It looked as if it would rain at any minute.", "right": "The sky was very overcast." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these words by the kind of weather they describe.",
+      "categories": ["Cold weather", "Hot weather", "Rain"],
+      "items": [
+        { "text": "frost", "category": 0 },
+        { "text": "freezing", "category": 0 },
+        { "text": "thaw", "category": 0 },
+        { "text": "stifling", "category": 1 },
+        { "text": "heatwave", "category": 1 },
+        { "text": "boiling", "category": 1 },
+        { "text": "downpour", "category": 2 },
+        { "text": "torrential", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["This", "rain", "won't", "last", "long;", "it's", "only", "a", "shower."],
+      "answer": "This rain won't last long; it's only a shower.",
+      "explanation": "A shower is a short period of rain."
+    }
+  ]
+}

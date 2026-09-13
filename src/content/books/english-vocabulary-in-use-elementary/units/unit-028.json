@@ -1,0 +1,167 @@
+{
+  "number": 28,
+  "title": "Weather",
+  "subtitle": "sunny, raining, a thunderstorm",
+  "summary": "Describe the weather with nouns and adjectives, and answer the question What's the weather like?",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Types of weather",
+      "text": "The main weather words are **sun**, **rain**, **cloud**, **snow**, **fog** and **wind**. In a big storm you also hear **thunder** and see **lightning**.",
+      "examples": [
+        { "text": "There is a lot of **rain** here in April." },
+        { "text": "You see **lightning** before you hear **thunder**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Noun and adjective",
+      "columns": ["Noun", "Adjective"],
+      "rows": [
+        ["sun", "sunny"],
+        ["rain", "rainy"],
+        ["wind", "windy"],
+        ["cloud", "cloudy"],
+        ["snow", "snowy"],
+        ["fog", "foggy"],
+        ["thunder", "thundery"],
+        ["lightning", "(no adjective)"]
+      ],
+      "note": "Most weather adjectives just add -y to the noun."
+    },
+    {
+      "type": "explain",
+      "heading": "Hot, cold, wet and dry",
+      "text": "We measure temperature in **degrees**. Below zero we say **minus**. A place can be **hot**, **cold**, **wet** or **dry**.",
+      "examples": [
+        { "text": "It is very **hot** in Mexico - it is often 45 **degrees** there in summer." },
+        { "text": "It is very **cold** in the Arctic - it is often **minus** 50 degrees there." },
+        { "text": "It can be very **wet** in London - carry an umbrella." },
+        { "text": "It is very **dry** in the Sahara - it doesn't often rain there." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Bad weather words",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["a hurricane", "a very strong wind"],
+        ["a storm", "a strong wind and rain together"],
+        ["a thunderstorm", "thunder, lightning, rain and sometimes wind together"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about the weather",
+      "text": "Ask **What's the weather like?** In the answer we usually start with **It's**. Snow and rain can also be verbs: **it's snowing**, **it's raining**.",
+      "examples": [
+        { "text": "*A:* **What's the weather like** in your country in June? *B:* It's usually warm and **sunny**." },
+        { "text": "It's a **sunny** day in Tokyo today, but it's **cloudy** in Hong Kong.", "wrong": "it's sunning" },
+        { "text": "It's **foggy** in Sydney and it's **snowing** in Moscow." },
+        { "text": "It's **raining** in Barcelona but the sun is **shining** in Granada." },
+        { "text": "It's a **lovely** day. / It's a **horrible** day, isn't it!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say It's windy / cloudy / foggy / sunny - never ~~It's winding / clouding / fogging / sunning~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the weather noun with its adjective.",
+      "pairs": [
+        { "left": "sun", "right": "sunny" },
+        { "left": "rain", "right": "rainy" },
+        { "left": "wind", "right": "windy" },
+        { "left": "cloud", "right": "cloudy" },
+        { "left": "fog", "right": "foggy" },
+        { "left": "snow", "right": "snowy" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When it ___, I take my umbrella.",
+      "hint": "(rain)",
+      "answers": ["rains"],
+      "explanation": "Rain can be a verb: it rains, it is raining."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the ___ like in your country in January?",
+      "hint": "(seven letters)",
+      "answers": ["weather"],
+      "explanation": "What's the weather like? is the usual question."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When it ___, we can go skiing.",
+      "hint": "(snow)",
+      "answers": ["snows"],
+      "explanation": "Snow is a noun and also a verb: it snows, it is snowing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You see ___ before you hear thunder.",
+      "hint": "(nine letters)",
+      "answers": ["lightning"],
+      "explanation": "Lightning is the bright light in the sky; thunder is the noise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is 24 ___ here today - a lovely warm day.",
+      "hint": "(plural)",
+      "answers": ["degrees"],
+      "explanation": "We measure temperature in degrees."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is dangerous to be in a small boat at sea in a ___.",
+      "hint": "(strong wind and rain together)",
+      "answers": ["storm"],
+      "explanation": "A storm is a strong wind and rain together."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is very ___ in Siberia in winter - often minus 40 degrees.",
+      "hint": "(four letters)",
+      "answers": ["cold"],
+      "explanation": "Minus 40 degrees is very cold."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A very strong wind is called a ___.",
+      "options": ["hurricane", "storm", "thunderstorm", "fog"],
+      "answer": 0,
+      "explanation": "A hurricane is a very strong wind."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's raining in Barcelona, but the sun is ___ in Granada.",
+      "options": ["shining", "sunning", "raining", "clouding"],
+      "answer": 0,
+      "explanation": "The sun shines. We never say the sun is sunning."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's sunning today, so let's go to the beach.",
+      "answer": false,
+      "explanation": "It's sunny today, so let's go to the beach. We do not say it's sunning."
+    },
+    {
+      "type": "true_false",
+      "statement": "It is very dry in the Sahara - it doesn't often rain there.",
+      "answer": true,
+      "explanation": "Correct. Dry means there is very little rain."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a visitor about the weather at home in the summer.",
+      "words": ["What's", "the", "weather", "like", "in", "your", "country", "in", "June?"],
+      "answer": "What's the weather like in your country in June?",
+      "explanation": "What's the weather like ...? is the question we use."
+    }
+  ]
+}

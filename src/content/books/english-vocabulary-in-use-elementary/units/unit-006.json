@@ -1,0 +1,183 @@
+{
+  "number": 6,
+  "title": "Health and illness",
+  "subtitle": "a headache, a cold, I feel ill",
+  "summary": "Say how you feel, name everyday health problems and serious illnesses, and talk about a healthy diet and exercise.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "How are you today?",
+      "text": "When someone asks **How are you?** and you are fine, say **I'm very well, thanks** or **I'm fine, thanks**. If you are not fine, you can say how bad the problem is.",
+      "examples": [
+        { "text": "I'm very **well**, thanks." },
+        { "text": "I **don't feel very well**. I must go home and rest.", "note": "I'll probably be OK tomorrow" },
+        { "text": "I **feel ill**. Can you get a doctor, please?", "note": "perhaps it's a serious problem" },
+        { "text": "That fish was bad. I think I'm going to **be sick**!", "note": "= I want to vomit" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Everyday problems",
+      "text": "Small problems come and go. You say **I've got a headache** when your head hurts, **I've got toothache** when a tooth hurts, and **I've got a cold** when your nose is red and you sneeze.",
+      "examples": [
+        { "text": "Have you got an aspirin? I've got a **headache**." },
+        { "text": "I've got **toothache**. I need to go to the dentist.", "note": "no a before toothache" },
+        { "text": "I'm going to bed with a hot drink. I've got **a cold**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Problem and what you do",
+      "columns": ["Problem", "What you do"],
+      "rows": [
+        ["a headache", "take an aspirin"],
+        ["toothache", "go to the dentist"],
+        ["a cold", "go to bed with a hot drink"],
+        ["a heart attack", "go to hospital"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Problems people have for many years",
+      "text": "Some problems stay with people all their lives. **Hay fever** comes from flowers and grass in summer and makes you **sneeze**. If you have **asthma**, sometimes you can't **breathe**.",
+      "examples": [
+        { "text": "I get **hay fever** every summer. I **sneeze** all day." },
+        { "text": "My little brother has **asthma**; sometimes he can't breathe." },
+        { "text": "Pollution and traffic fumes are bad for people with **asthma**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Illnesses in hot countries",
+      "text": "In some hot countries, mosquitoes give people **malaria**. Bad drinking water can give people **cholera**.",
+      "examples": [
+        { "text": "In some countries, mosquitoes can give people **malaria**." },
+        { "text": "The drinking water was bad, and many children had **cholera**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Serious illnesses",
+      "text": "**Cancer** and a **heart attack** are serious. Note that people **have** a heart attack.",
+      "examples": [
+        { "text": "Every year **cancer** kills many people who smoke." },
+        { "text": "My father went to hospital when he **had a heart attack**.", "wrong": "got a heart attack" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Staying healthy",
+      "text": "A **healthy diet** is lots of fruit and vegetables. **Exercise** like swimming, jogging and cycling is good for you. When you feel **stressed**, you need to **relax** more.",
+      "examples": [
+        { "text": "*A:* Do you have a **healthy diet**? *B:* Yes, I eat lots of fruit and vegetables." },
+        { "text": "*A:* Do you **exercise**? *B:* Yes, I like swimming, jogging and cycling." },
+        { "text": "*A:* I feel **stressed**! *B:* You need to **relax** more and don't panic about work!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the verb: my father **had** a heart attack - not ~~got a heart attack~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How are you today? *B:* Very ___, thanks.",
+      "hint": "(one word)",
+      "answers": ["well"],
+      "explanation": "I'm very well, thanks = I feel fine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you got an aspirin? I've got a ___.",
+      "hint": "(your head hurts)",
+      "answers": ["headache"],
+      "explanation": "When your head hurts, you have a headache."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've got ___. I need to go to the dentist.",
+      "hint": "(one word, no a)",
+      "answers": ["toothache"],
+      "explanation": "We say I've got toothache, without a."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your nose is red and you are sneezing. What have you got?",
+      "options": ["a cold", "a headache", "a heart attack", "toothache"],
+      "answer": 0,
+      "explanation": "With a cold you go to bed with a hot drink."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each illness with the thing that causes it.",
+      "pairs": [
+        { "left": "malaria", "right": "a mosquito bite" },
+        { "left": "cholera", "right": "bad drinking water" },
+        { "left": "asthma", "right": "pollution and traffic fumes" },
+        { "left": "hay fever", "right": "grass and flowers" },
+        { "left": "cancer", "right": "smoking" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That fish was bad. I think I'm going to be ___!",
+      "hint": "(one word)",
+      "answers": ["sick"],
+      "explanation": "Be sick = vomit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My father went to hospital when he ___ a heart attack.",
+      "options": ["had", "got", "took", "made"],
+      "answer": 0,
+      "explanation": "People have a heart attack, not get one."
+    },
+    {
+      "type": "true_false",
+      "statement": "My grandfather got a heart attack last year.",
+      "answer": false,
+      "explanation": "My grandfather had a heart attack last year. Use have, not get, with heart attack."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a small everyday problem or a serious illness?",
+      "categories": ["An everyday problem", "A serious illness"],
+      "items": [
+        { "text": "a headache", "category": 0 },
+        { "text": "a cold", "category": 0 },
+        { "text": "toothache", "category": 0 },
+        { "text": "cancer", "category": 1 },
+        { "text": "cholera", "category": 1 },
+        { "text": "a heart attack", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I get hay fever every summer. I ___ all day.",
+      "hint": "(atishoo!)",
+      "answers": ["sneeze"],
+      "explanation": "Hay fever comes from flowers and grass and makes you sneeze."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You feel very ill. Ask for help.",
+      "words": ["Can", "you", "get", "a", "doctor,", "please?"],
+      "answer": "Can you get a doctor, please?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Do you have a healthy ___? *B:* Yes, I eat lots of fruit and vegetables.",
+      "options": ["diet", "exercise", "rest", "illness"],
+      "answer": 0,
+      "explanation": "Your diet is the food you eat."
+    },
+    {
+      "type": "true_false",
+      "statement": "I feel stressed, so I need to relax more and not panic about work.",
+      "answer": true,
+      "explanation": "Correct. When you feel stressed you need to relax."
+    }
+  ]
+}

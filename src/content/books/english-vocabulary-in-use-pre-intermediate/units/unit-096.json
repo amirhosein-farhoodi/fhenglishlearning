@@ -1,0 +1,193 @@
+{
+  "number": 96,
+  "title": "Completing forms and CVs",
+  "subtitle": "fill in a form, date of birth, work experience",
+  "summary": "Understand the formal language of official forms and name the sections of a CV.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of form",
+      "columns": ["Form", "When you use it"],
+      "rows": [
+        ["a **registration form**", "when you enter your name on an official list, e.g. at a school or college"],
+        ["an **enrolment form**", "when you apply to do a course of study"],
+        ["an **entry form**", "when you enter for an exam"],
+        ["a **landing card**", "for people from some countries when they enter the UK"],
+        ["a **visa application form**", "when you officially ask to enter or leave a country"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The language of forms",
+      "text": "When you **fill in** a form (= complete it), you meet formal expressions. In speech we say the same thing much more simply.",
+      "examples": [
+        { "text": "**date of birth** = When were you born?" },
+        { "text": "**place of birth** = Where were you born?" },
+        { "text": "**country of origin** = Where do you come from?" },
+        { "text": "**marital status** = Are you single or married?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More form language",
+      "columns": ["On the form", "In speech"],
+      "rows": [
+        ["date of arrival", "When did you arrive?"],
+        ["date of departure", "When are you leaving?"],
+        ["signed", "Write your signature (sign it)"],
+        ["surname", "What's your family name?"]
+      ],
+      "note": "Your **signature** is the special way you have of writing your own name."
+    },
+    {
+      "type": "explain",
+      "heading": "What goes in a CV",
+      "text": "If you apply for a job you send a letter and a **CV** (curriculum vitae; *resume* in American English). It gives your **personal details** - your name, address and email address.",
+      "examples": [
+        { "text": "**personal details**: Leona Phillips, 18 Mansion Road, Beckington BE2 3RJ" },
+        { "text": "**education**: Kent University 2007-2010, Ainslie Grammar School 1999-2006" },
+        { "text": "**qualifications**: BA Honours degree in Media Studies" },
+        { "text": "**work experience**: Trainee at Northern Radio Station, Jan-June 2007" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Interests, skills, aims and references",
+      "text": "Your **interests** are what you enjoy doing. Your **skills** are abilities you have learned and practised. Your **career aims** are what you want to do in your future working life. A **reference** is a letter from someone who knows you, saying if you are suitable for the job.",
+      "examples": [
+        { "text": "**interests**: I direct plays for a theatre group and help with a children's charity." },
+        { "text": "**skills**: the ability to speak a foreign language; computer skills; a driving licence." },
+        { "text": "**career aims**: I would like to become a radio producer." },
+        { "text": "**references**: a letter from Mr J. Tobin BA, MA (university tutor)." }
+      ],
+      "note": "If you apply to university, they **require** a **personal statement** explaining why you want to go there and follow that course."
+    },
+    {
+      "type": "explain",
+      "heading": "Tips for writing a CV",
+      "text": "A **tip** is a useful piece of advice. Keep your CV short, clear and correct. Say only what is **relevant** - connected to and useful for this particular job.",
+      "examples": [
+        { "text": "A CV should be no longer than two pages; a personal statement no more than 45 lines." },
+        { "text": "**Type** your CV; handwriting is not suitable." },
+        { "text": "Keep it simple. Don't make it **complicated**.", "note": "complicated = difficult to understand" },
+        { "text": "Check there are no mistakes." },
+        { "text": "If you will be working **on your own**, don't say you are good at working in a **team**.", "note": "on your own = without others; a team = a group of people" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You fill in (or complete) a form, and you sign it at the bottom. Both verbs are needed: an unsigned form is usually sent back."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You are just arriving in Britain from a country outside the European Union. What do you complete?",
+      "options": ["a landing card", "an entry form", "a CV", "a personal statement"],
+      "answer": 0,
+      "explanation": "A landing card is for people entering the UK from some countries."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are applying to do an English course at a school in Britain. What do you complete?",
+      "options": ["a registration form", "a landing card", "a reference", "a visa application form"],
+      "answer": 0,
+      "explanation": "A registration or enrolment form puts your name on the list for a course."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are going to do a Cambridge exam. What do you complete?",
+      "options": ["an entry form", "a landing card", "a CV", "a signature"],
+      "answer": 0,
+      "explanation": "You enter for an exam with an entry form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to travel to the United States this summer. What do you complete?",
+      "options": ["a visa application form", "an enrolment form", "an entry form", "a landing card"],
+      "answer": 0,
+      "explanation": "A visa application form is an official request to enter a country."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each part of a CV with the right information.",
+      "pairs": [
+        { "left": "personal details", "right": "Leona Phillips, 18 Mansion Road, Beckington" },
+        { "left": "education", "right": "Kent University 2007-2010" },
+        { "left": "qualifications", "right": "BA Honours degree in Media Studies" },
+        { "left": "work experience", "right": "Trainee at Northern Radio Station, Jan-June 2007" },
+        { "left": "career aims", "right": "I would like to become a radio producer." },
+        { "left": "references", "right": "a letter from Mr J. Tobin, university tutor" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Say it informally: 'What's your date of birth?' -> 'When ___?'",
+      "hint": "(two words)",
+      "answers": ["were you born"],
+      "explanation": "Date of birth = When were you born?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Say it informally: 'What's your country of origin?' -> 'Where do you ___?'",
+      "hint": "(two words)",
+      "answers": ["come from"],
+      "explanation": "Country of origin = Where do you come from?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Say it informally: 'What's your marital status?' -> 'Are you ___?'",
+      "hint": "(three words)",
+      "answers": ["single or married"],
+      "explanation": "Marital status asks whether you are single or married."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the words: 'Do I have to complete this form?' -> 'Do I have to ___ this form?'",
+      "hint": "(two words)",
+      "answers": ["fill in"],
+      "explanation": "Fill in a form = complete it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the words: 'Monica gave me a useful piece of advice.' -> 'Monica gave me a ___.'",
+      "hint": "(one word)",
+      "answers": ["tip"],
+      "explanation": "A tip is a useful piece of advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the words: 'I shall be alone most of the time.' -> 'I shall be ___ most of the time.'",
+      "hint": "(three words)",
+      "answers": ["on my own"],
+      "explanation": "On your own = without others."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the words: 'I'm good at working as part of a group of people.' -> 'I'm good at working in a ___.'",
+      "hint": "(one word)",
+      "answers": ["team"],
+      "explanation": "A team is a group of people working together."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is this good advice for a CV, or bad advice?",
+      "categories": ["Good advice", "Bad advice"],
+      "items": [
+        { "text": "Type your CV.", "category": 0 },
+        { "text": "For an admin job, say you have computer skills.", "category": 0 },
+        { "text": "Put a driving licence under skills.", "category": 0 },
+        { "text": "One or two mistakes are fine.", "category": 1 },
+        { "text": "Three pages is a good length.", "category": 1 },
+        { "text": "Make it complicated.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You can put 'travelling abroad' under career aims on your CV.",
+      "answer": false,
+      "explanation": "Travelling abroad is an interest, not a career aim. Career aims say what you want to do in your working life."
+    }
+  ]
+}

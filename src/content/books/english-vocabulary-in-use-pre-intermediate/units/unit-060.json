@@ -1,0 +1,203 @@
+{
+  "number": 60,
+  "title": "Time",
+  "subtitle": "in time, for ages, it takes",
+  "summary": "Use the common phrases and prepositions of time correctly, and say how long something takes or lasts.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Phrases with time",
+      "text": "A small group of fixed phrases with **time** is used every day. Learn them as whole phrases.",
+      "examples": [
+        { "text": "We got to the meeting **in time**.", "note": "= before the meeting started" },
+        { "text": "My brother is always **on time**.", "note": "= not early or late" },
+        { "text": "**It's time** for us **to go**.", "note": "= something should happen now" },
+        { "text": "Do you **have time** for a cup of coffee?", "note": "= have enough time to do something" },
+        { "text": "Call me **the next time** you're in London." },
+        { "text": "Sophie and I arrived **at the same time**, 9 o'clock exactly." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "until and by",
+      "left": {
+        "label": "until",
+        "text": "Something continues up to that moment.",
+        "examples": [
+          "I'll be here **until** 4.30.",
+          "We can't leave **until** the others get back."
+        ]
+      },
+      "right": {
+        "label": "by",
+        "text": "Not later than that moment.",
+        "examples": [
+          "I'll be there **by** 8.15.",
+          "The teacher told us to finish our homework **by** Monday."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Prepositions people often confuse",
+      "columns": ["Word", "Use it with", "Example"],
+      "rows": [
+        ["**for**", "a period of time", "I've worked here **for** six months."],
+        ["**since**", "a point in time in the past", "I've worked here **since** May."],
+        ["**during**", "says *when* something happened", "I worked on a farm **during** the summer."],
+        ["**for**", "says *how long* it went on", "I worked on a farm **for** a month. (not ~~during a month~~)"],
+        ["**in ... time**", "a moment in the future", "I'm going back to Brazil **in ten days' time**. (not ~~after ten days~~)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Approximate periods of time",
+      "columns": ["Expression", "What it means", "Example"],
+      "rows": [
+        ["**for ages**", "for a long time, e.g. many years", "I've known Lucia **for ages**."],
+        ["**recently / lately**", "in the last few weeks or months", "I haven't been to the dentist **recently**."],
+        ["**a long time ago / ages ago**", "e.g. five to ten years ago", "I used to go skiing, but that was **a long time ago**."],
+        ["**the other day**", "a few days ago, perhaps a week", "My sister went to the zoo **the other day**."],
+        ["**these days / nowadays**", "a period including the past and now", "I don't see my brother much **these days**."],
+        ["**for the time being**", "for now, the near future", "This dictionary's fine **for the time being**."],
+        ["**one day**", "in the future, but I don't know when", "I'm sure I'll go to America **one day**."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Counting time",
+      "columns": ["Period", "How long it is"],
+      "rows": [
+        ["a **minute**", "60 seconds"],
+        ["an **hour**", "60 minutes"],
+        ["a **day**", "24 hours"],
+        ["a **fortnight**", "2 weeks"],
+        ["a **year**", "52 weeks"],
+        ["a **decade**", "10 years"],
+        ["a **century**", "100 years"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "take and last",
+      "left": {
+        "label": "take",
+        "text": "How long you need to do something.",
+        "examples": [
+          "It **takes** me half an hour to get to school.",
+          "We can walk, but it'll **take** us a long time."
+        ]
+      },
+      "right": {
+        "label": "last",
+        "text": "How long something continues, from beginning to end.",
+        "examples": [
+          "The course **lasts** for ten weeks.",
+          "How long does the film **last**?",
+          "The battery in my camera didn't **last** long."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "**On time** = punctual; **in time** = early enough. He was **on time** for the train, so he got there **in time** to buy a ticket."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The shop closes at 5.30. If we don't hurry, we'll never get there ___ time.",
+      "hint": "(one word)",
+      "answers": ["in"],
+      "explanation": "In time = early enough, before something happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I always get to meetings ___ time; I hate it when people are late.",
+      "hint": "(one word)",
+      "answers": ["on"],
+      "explanation": "On time = not early and not late."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm afraid I won't ___ time to see you this week.",
+      "hint": "(one word, verb)",
+      "answers": ["have"],
+      "explanation": "Have time to do something = have enough time for it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julian and I got to the station at the ___ time.",
+      "hint": "(one word)",
+      "answers": ["same"],
+      "explanation": "At the same time = together, at the same moment."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We can't leave ___ the others get back.",
+      "options": ["until", "by", "during", "for"],
+      "answer": 0,
+      "explanation": "Until = up to that moment."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've been in the army ___ I was eighteen.",
+      "options": ["since", "for", "during", "by"],
+      "answer": 0,
+      "explanation": "Since + a point in time in the past."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I visit my uncle every week ___ the winter.",
+      "options": ["during", "for", "since", "by"],
+      "answer": 0,
+      "explanation": "During tells you when; for tells you how long."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's going back to France ___ three months' time.",
+      "options": ["in", "after", "during", "since"],
+      "answer": 0,
+      "explanation": "We say in three months' time, not ~~after three months~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to Egypt with my parents, but that was ten years ago - a long time ___.",
+      "hint": "(one word)",
+      "answers": ["ago"],
+      "explanation": "A long time ago (syn ages ago) = many years ago."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went to the library three days ago - the ___ day, in fact.",
+      "hint": "(one word)",
+      "answers": ["other"],
+      "explanation": "The other day = a few days ago, perhaps a week."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This computer will be fine for the next year, so it's good enough for the time ___.",
+      "hint": "(one word)",
+      "answers": ["being"],
+      "explanation": "For the time being = for now, the near future."
+    },
+    {
+      "type": "true_false",
+      "statement": "It lasts me half an hour to get to school.",
+      "answer": false,
+      "explanation": "It takes me half an hour to get to school. Use take for how long you need to do something."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each period of time with how long it is.",
+      "pairs": [
+        { "left": "a fortnight", "right": "two weeks" },
+        { "left": "a decade", "right": "ten years" },
+        { "left": "a century", "right": "a hundred years" },
+        { "left": "an hour", "right": "sixty minutes" },
+        { "left": "a year", "right": "fifty-two weeks" }
+      ]
+    }
+  ]
+}

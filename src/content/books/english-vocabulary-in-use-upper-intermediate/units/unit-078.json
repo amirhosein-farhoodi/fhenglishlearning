@@ -1,0 +1,200 @@
+{
+  "number": 78,
+  "title": "Abbreviations and acronyms",
+  "subtitle": "BBC, NATO, satnav, RSVP",
+  "summary": "Recognise and use the short forms English speakers use every day, from letter-by-letter abbreviations like ATM to acronyms like NATO and clippings like uni.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Abbreviations for organisations",
+      "columns": ["Abbreviation", "Full form"],
+      "rows": [
+        ["BBC", "British Broadcasting Corporation"],
+        ["CIA", "Central Intelligence Agency - the US agency that collects information about other countries"],
+        ["EU", "European Union"],
+        ["FBI", "Federal Bureau of Investigation"],
+        ["MI6", "Military Intelligence 6 - the UK equivalent of the CIA"],
+        ["WHO", "World Health Organisation"]
+      ],
+      "note": "These are pronounced letter by letter. When the abbreviation is a stressed word in the sentence, the stress falls on the last letter: She works for the **CIA**. I heard it on the **BBC**."
+    },
+    {
+      "type": "table",
+      "heading": "Other letter-by-letter abbreviations",
+      "columns": ["Abbreviation", "Meaning"],
+      "rows": [
+        ["ID", "identity - an identity card or passport"],
+        ["GM", "genetically modified"],
+        ["DNA", "deoxyribonucleic acid, the chemical at the centre of living cells"],
+        ["FAQ", "frequently asked questions"],
+        ["AKA", "also known as"],
+        ["IOU", "I owe you - a note promising to pay money back"],
+        ["ATM", "automated teller machine, the cash machine outside a bank"],
+        ["ASAP", "as soon as possible"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Acronyms: abbreviations pronounced as words",
+      "text": "An abbreviation that we say as a single word is called an **acronym**. **NATO** is the North Atlantic Treaty Organisation and your **PIN** is your Personal Identity Number for a bank or credit card.",
+      "examples": [
+        { "text": "You won't be able to use the ATM if you've forgotten your **PIN**." },
+        { "text": "She suffers from **SAD**.", "note": "SAD = seasonal affective disorder: lacking energy and enthusiasm in winter, where there is little sunlight" },
+        { "text": "I don't know where John can be - he's gone **AWOL**.", "note": "AWOL = absent without leave, i.e. without permission; usually a military expression" }
+      ],
+      "note": "Some acronyms feel so much like ordinary words that we no longer write them in capitals: **laser**, **radar**, **scuba**, **sonar**."
+    },
+    {
+      "type": "table",
+      "heading": "Clippings: short forms used informally",
+      "columns": ["Short form", "Full form"],
+      "rows": [
+        ["kilo", "kilogram"],
+        ["gig", "gigabyte"],
+        ["uni", "university"],
+        ["carbs", "carbohydrates"],
+        ["air con", "air conditioning"],
+        ["mobile (US: cell)", "mobile phone (US: cellphone)"],
+        ["sci-fi", "science fiction"],
+        ["satnav", "satellite navigation system"],
+        ["high-tech", "high-technology"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Written abbreviations",
+      "columns": ["Abbreviation", "Meaning", "Where you see it"],
+      "rows": [
+        ["PTO", "please turn over", "at the bottom of a page or form"],
+        ["PS", "post script", "at the end of a message, when you want to add something"],
+        ["RSVP", "please answer (from French)", "at the end of an invitation"],
+        ["RIP", "rest in peace", "on a headstone where someone is buried"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say each letter for **BBC**, **ATM** and **ID**, but say **NATO**, **PIN** and **AWOL** as ordinary words. If you can pronounce it as a word, English speakers usually do."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with the abbreviation that completes it.",
+      "pairs": [
+        { "left": "Wherever I am in the world I listen to the news on the ...", "right": "BBC" },
+        { "left": "Most websites have a page dealing with ...", "right": "FAQs" },
+        { "left": "Holly took some money out of my wallet and left me an ...", "right": "IOU" },
+        { "left": "What kind of people we are depends on our ...", "right": "DNA" },
+        { "left": "They won't let you into the club without any ...", "right": "ID" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with the abbreviation that completes it.",
+      "pairs": [
+        { "left": "You won't be able to use the ATM if you've forgotten your ...", "right": "PIN" },
+        { "left": "I don't know where John can be - he's gone ...", "right": "AWOL" },
+        { "left": "I always feel lethargic in December - I think I suffer from ...", "right": "SAD" },
+        { "left": "My passport says I was born in the ...", "right": "EU" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Please could you buy me a ___ of apples?",
+      "hint": "(short for kilogram)",
+      "answers": ["kilo"],
+      "explanation": "Kilo is the everyday clipping of kilogram."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "William Barclay ___ James Stubbs has been charged with burglary.",
+      "hint": "(three letters - also known as)",
+      "answers": ["AKA", "aka", "a.k.a."],
+      "explanation": "AKA = also known as, used before a second name someone uses."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The surgeons used ___ technology to carry out the operation.",
+      "hint": "(an acronym now written as an ordinary word)",
+      "answers": ["laser"],
+      "explanation": "Laser began life as an acronym but is now written as a normal word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister works in a very ___ office using all the most up-to-date hardware and software.",
+      "hint": "(clipping of high-technology)",
+      "answers": ["high-tech", "high tech", "hi-tech"],
+      "explanation": "High-tech is the short form of high-technology."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When you're driving it's much easier to use a ___ rather than a road atlas.",
+      "hint": "(clipping of satellite navigation system)",
+      "answers": ["satnav", "sat nav", "sat-nav"],
+      "explanation": "Satnav is the everyday short form of satellite navigation system."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Bats cannot see well and use a kind of ___ to find their way around.",
+      "options": ["sonar", "satnav", "scuba", "laser"],
+      "answer": 0,
+      "explanation": "Sonar uses sound waves to locate objects; radar uses radio waves."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these abbreviations by the area they belong to.",
+      "categories": ["Money", "Food and health", "Sound or radio waves"],
+      "items": [
+        { "text": "PIN", "category": 0 },
+        { "text": "ATM", "category": 0 },
+        { "text": "IOU", "category": 0 },
+        { "text": "GM", "category": 1 },
+        { "text": "carbs", "category": 1 },
+        { "text": "DNA", "category": 1 },
+        { "text": "radar", "category": 2 },
+        { "text": "sonar", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "An invitation says: 'Party at Sam and Beth's house, Saturday 14 August, 8 till late. ___ by 28 July.' Which abbreviation goes in the gap?",
+      "options": ["RSVP", "PTO", "RIP", "PS"],
+      "answer": 0,
+      "explanation": "RSVP at the end of an invitation asks you to reply."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A note reads: 'I've gone shopping with Ana. Back around six. See you later. Emma. ___ Tom phoned for you.' Which abbreviation goes in the gap?",
+      "options": ["PS", "RSVP", "ASAP", "FAQ"],
+      "answer": 0,
+      "explanation": "PS (post script) introduces something added after the end of a message."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A headstone reads: 'In loving memory of James Goodman, 1945 - 2015. ___'. Which abbreviation goes in the gap?",
+      "options": ["RIP", "PTO", "IOU", "AKA"],
+      "answer": 0,
+      "explanation": "RIP = rest in peace, written where someone is buried."
+    },
+    {
+      "type": "true_false",
+      "statement": "At the bottom of a form you see PTO. It means you should turn to the next page.",
+      "answer": true,
+      "explanation": "Correct. PTO = please turn over."
+    },
+    {
+      "type": "true_false",
+      "statement": "WHO is the abbreviation for the World Heritage Organisation.",
+      "answer": false,
+      "explanation": "WHO stands for the World Health Organisation."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a request.",
+      "words": ["Could", "you", "send", "me", "the", "figures", "ASAP?"],
+      "answer": "Could you send me the figures ASAP?",
+      "explanation": "ASAP = as soon as possible, and is said letter by letter."
+    }
+  ]
+}

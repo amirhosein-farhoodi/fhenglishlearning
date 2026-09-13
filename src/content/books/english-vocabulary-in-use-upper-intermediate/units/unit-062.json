@@ -1,0 +1,210 @@
+{
+  "number": 62,
+  "title": "Condition",
+  "subtitle": "unless, provided that, in case of, whatever",
+  "summary": "Express conditions with more precision than if, using unless, provided that, in case of, -ever words and condition nouns.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Words connecting sentence parts",
+      "columns": ["Expression", "Example", "How formal / how strong"],
+      "rows": [
+        ["unless", "You can't come in **unless** you have a ticket.", "= if you do not have a ticket"],
+        ["on condition that", "You can borrow the bike **on condition that** you return it by five o'clock.", "the strongest and most restricting"],
+        ["provided / providing (that)", "**Provided** you don't mind cats, you can stay with us.", "less formal than on condition that, but stronger than as long as"],
+        ["as / so long as", "You can stay, **as long as** you don't mind sleeping on the sofa.", "the least formal and least strong"],
+        ["in case of / in the event of", "**In case of** fire, dial 112.", "usually seen on notices"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "in case of and in case",
+      "left": {
+        "label": "in case of = when there is",
+        "text": "**In case of** introduces a situation that may happen; it is the language of notices and regulations.",
+        "examples": [
+          "**In case of** fire, dial 112.",
+          "**In the event of** an emergency, sound the alarm."
+        ]
+      },
+      "right": {
+        "label": "in case = because it might",
+        "text": "**In case** explains a precaution you take now because something might happen later.",
+        "examples": [
+          "Take your umbrella **in case** it rains.",
+          "Take a jacket **in case** it gets cold later on."
+        ]
+      },
+      "note": "Take your umbrella in case it rains means 'It isn't raining but it might rain.'"
+    },
+    {
+      "type": "explain",
+      "heading": "Supposing ... and What if ...",
+      "text": "**Supposing** and **what if** introduce a possible future situation. Both belong mainly to spoken English; **what if** is the more direct of the two.",
+      "examples": [
+        { "text": "*Mick:* Ethan's coming tomorrow. He'll help us. *Alice:* **Supposing** he doesn't turn up - what shall we do then?" },
+        { "text": "**What if** the train is late? We'll miss the connection." },
+        { "text": "**Supposing** I lent you my car, would that help?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Conditions with -ever",
+      "text": "The suffix **-ever** means 'it does not matter which'. The stress falls on *ever*. Each of these can be replaced by **no matter** + question word.",
+      "examples": [
+        { "text": "**However** you decide to travel in this country, it'll cost you a lot of money." },
+        { "text": "You'll end up paying at least 70 euros, **whichever** means of transport you take." },
+        { "text": "Public transport is expensive **wherever** you go here." },
+        { "text": "**Whoever** wins the next election should try to lower fares." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "-ever and no matter",
+      "columns": ["With -ever", "With no matter"],
+      "rows": [
+        ["**Wherever** she goes, she takes her dog.", "**No matter where** she goes, she takes her dog."],
+        ["**Whatever** I do, I do the wrong thing.", "**No matter what** I do, I do the wrong thing."],
+        ["**Whoever** it is, I won't speak to them.", "**No matter who** it is, I won't speak to them."],
+        ["**However** hard you try, you can't do it alone.", "**No matter how** hard you try, you can't do it alone."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Nouns which express condition",
+      "text": "These nouns are rather formal and belong mostly to written or official English. A **prerequisite** is something absolutely necessary before you can do something else.",
+      "examples": [
+        { "text": "Certain **conditions** must be met before the peace talks can begin." },
+        { "text": "A good standard of English is a **prerequisite** for studying at a British university." },
+        { "text": "What are the entry **requirements** for a diploma in Management?", "note": "= the official conditions" },
+        { "text": "I would not move to London under any **circumstances**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After these condition expressions use a present tense, never will: Take a jacket in case it gets cold later on, not ~~in case it will get cold~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "unless", "right": "if not" },
+        { "left": "in case of", "right": "when there is" },
+        { "left": "prerequisite", "right": "something absolutely necessary first" },
+        { "left": "entry requirements", "right": "the official conditions for joining" },
+        { "left": "whoever", "right": "it does not matter who" },
+        { "left": "on condition that", "right": "only if this strict condition is kept" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can't come in ___ you have a ticket.",
+      "hint": "(u... = if you do not)",
+      "answers": ["unless"],
+      "explanation": "Unless = if ... not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ emergency in the machine room, sound the alarm and notify the supervisor at once.",
+      "hint": "(I... c... o... - notice language)",
+      "answers": ["In case of", "In the event of"],
+      "explanation": "In case of / In the event of = when there is; typical of notices and regulations."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ I hear from you, I'll assume you are coming.",
+      "hint": "(U...)",
+      "answers": ["Unless"],
+      "explanation": "Unless I hear from you = if I do not hear from you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ I lent you my car, would that help?",
+      "hint": "(S... - a possible future situation)",
+      "answers": ["Supposing", "What if"],
+      "explanation": "Supposing and What if introduce a possible situation; both are mainly spoken."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person may take the driving test again ___ they have not already taken a test within the previous 14 days.",
+      "hint": "(o... c... t... - strict official language)",
+      "answers": ["on condition that", "provided that", "providing that", "provided", "providing"],
+      "explanation": "On condition that is the strongest and suits legal or official language."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with -ever: 'No matter where she goes, she always takes that dog of hers.' ___ she goes, she always takes that dog of hers.",
+      "hint": "(W...)",
+      "answers": ["Wherever"],
+      "explanation": "No matter where = wherever."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with -ever: 'If anyone rings, I don't want to speak to them, no matter who it is.' ... I don't want to speak to them, ___ it is.",
+      "hint": "(w...)",
+      "answers": ["whoever"],
+      "explanation": "No matter who = whoever."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with -ever: 'No matter what I do, I always seem to do the wrong thing.' ___ I do, I always seem to do the wrong thing.",
+      "hint": "(W...)",
+      "answers": ["Whatever"],
+      "explanation": "No matter what = whatever."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite with no matter: 'However hard you try, you'll never be able to do it all on your own.'",
+      "options": [
+        "No matter how hard you try, ...",
+        "No matter what hard you try, ...",
+        "However no matter you try, ...",
+        "No matter which hard you try, ..."
+      ],
+      "answer": 0,
+      "explanation": "However = no matter how."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Take your umbrella in case it rains' means:",
+      "options": [
+        "It isn't raining now but it might rain.",
+        "It is raining, so take the umbrella.",
+        "You may only go out if it rains.",
+        "It never rains, so leave the umbrella."
+      ],
+      "answer": 0,
+      "explanation": "In case explains a precaution against something that might happen."
+    },
+    {
+      "type": "true_false",
+      "statement": "Take a jacket in case it will get cold later on.",
+      "answer": false,
+      "explanation": "Take a jacket in case it gets cold later on. Use a present tense after in case, never will."
+    },
+    {
+      "type": "word_order",
+      "prompt": "A notice at a mosque. Put the words in order.",
+      "words": ["Visitors", "may enter", "the mosque", "on condition that", "they remove", "their shoes."],
+      "answer": "Visitors may enter the mosque on condition that they remove their shoes.",
+      "explanation": "On condition that is the strongest and most official condition word."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which expressions belong to formal or official English, and which are everyday spoken English?",
+      "categories": ["Formal / official", "Informal / spoken"],
+      "items": [
+        { "text": "on condition that", "category": 0 },
+        { "text": "in the event of", "category": 0 },
+        { "text": "prerequisite", "category": 0 },
+        { "text": "under any circumstances", "category": 0 },
+        { "text": "as long as", "category": 1 },
+        { "text": "what if", "category": 1 },
+        { "text": "supposing", "category": 1 }
+      ]
+    }
+  ]
+}

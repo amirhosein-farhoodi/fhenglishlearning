@@ -1,0 +1,193 @@
+{
+  "number": 22,
+  "title": "Fashion and buying clothes",
+  "subtitle": "try it on, does it fit?",
+  "summary": "Talk about fashion and about buying clothes in a shop - trying things on, sizes, and saying whether you will take it or leave it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Fashion",
+      "text": "When you **shop** for clothes, you buy them in shops; you can also say you **go shopping**. Most people **try on** clothes before they buy them, which means they put them on in the shop to see what they are like. Clothes that are popular at the moment are **fashionable**, or **in fashion**.",
+      "examples": [
+        { "text": "I usually **shop** with a friend.", "note": "= I often go shopping with a friend" },
+        { "text": "I always **try on** clothes before I buy them." },
+        { "text": "These watches are very **fashionable** this year." },
+        { "text": "I never buy clothes just because they're **in fashion**.", "note": "in fashion = fashionable" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More words for clothes shopping",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["wardrobe", "a large cupboard for keeping clothes in"],
+        ["designer label", "clothes made by a famous designer, e.g. Versace, Armani"],
+        ["reasonable", "not expensive - a price you are happy to pay"],
+        ["dress in", "wear a particular type, style or colour of clothes"],
+        ["have got on", "be wearing"]
+      ],
+      "note": "My **wardrobe** is full of clothes that I buy and hardly ever wear."
+    },
+    {
+      "type": "compare",
+      "heading": "match and go with / suit and fit",
+      "left": {
+        "label": "Two things together",
+        "text": "If two things **match**, they are a similar colour or type. If two things **go with** each other, they look good together.",
+        "examples": [
+          "Catherine's bag **matches** her coat.",
+          "Catherine's bag **goes with** her coat.",
+          "If I buy a skirt, I buy a top **to go with** it at the same time."
+        ]
+      },
+      "right": {
+        "label": "A thing and a person",
+        "text": "If something **suits** you, it looks good on you. If something **fits** you, it is the right size.",
+        "examples": [
+          "Those trousers **suit** you. They look really good on you.",
+          "I sometimes buy clothes that don't **suit** me.",
+          "I tried on the jacket in a size 12, but it didn't **fit** me."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "In a clothes shop",
+      "text": "A **shop assistant** is a person who works in a shop. Shop assistants **serve** customers, which means they look after them and help them to buy things. If another assistant is already helping you, you say *I'm being served*. The **changing rooms** are the place where you can try on clothes.",
+      "examples": [
+        { "text": "*Shop assistant:* Can I help you? *Customer:* No, I'm being **served**, thanks." },
+        { "text": "*Customer:* I'm **looking for** a skirt and this looks nice. Can I try it on?", "note": "look for = want to find" },
+        { "text": "*Shop assistant:* Yes, of course. The **changing rooms** are down there." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Too tight? I'll leave it",
+      "text": "Clothes that are too small around the body are **tight**; the opposite is **loose** or **big**. If the shop cannot help you, you say *that's a shame* or *that's a pity*. Then you say **I'll take it** if you want to buy it, or **I'll leave it** if you have decided not to buy it.",
+      "examples": [
+        { "text": "It didn't really fit me; it's a bit **tight** under the arms.", "note": "opp loose / big" },
+        { "text": "*Customer:* Have you got it in a bigger size? *Shop assistant:* We have got a size 14, but not in pink, I'm afraid." },
+        { "text": "Oh, that's a **shame**. OK. I'll **leave** it, thanks.", "note": "that's a shame = that's a pity" },
+        { "text": "It's lovely and it fits perfectly. I'll **take** it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the difference: a dress can **fit** you (the right size) but still not **suit** you (it doesn't look good on you)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which sentence means the same as 'These watches are fashionable'?",
+      "options": [
+        "These watches are in fashion.",
+        "These watches are reasonable.",
+        "These watches fit.",
+        "These watches are in the wardrobe."
+      ],
+      "answer": 0,
+      "explanation": "In fashion and fashionable mean the same: popular at this particular time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I often go ___ with my mother.",
+      "hint": "(I often shop with my mother.)",
+      "answers": ["shopping"],
+      "explanation": "shop with someone = go shopping with someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A large cupboard for keeping clothes in is a ___.",
+      "hint": "(one word)",
+      "answers": ["wardrobe"],
+      "explanation": "Your clothes hang in your wardrobe at home."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "shop assistant", "right": "a person who works in a shop" },
+        { "left": "serve", "right": "look after customers and help them to buy things" },
+        { "left": "reasonable", "right": "not cheap, but not expensive" },
+        { "left": "designer label", "right": "clothes made by a famous designer" },
+        { "left": "changing room", "right": "the place where you try on clothes in a shop" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do the two words or phrases mean something similar, or something different?",
+      "categories": ["Similar meaning", "Different meaning"],
+      "items": [
+        { "text": "in fashion / fashionable", "category": 0 },
+        { "text": "match something / go with something", "category": 0 },
+        { "text": "that's a shame / that's a pity", "category": 0 },
+        { "text": "wardrobe / changing room", "category": 1 },
+        { "text": "I'll take it / I'll leave it", "category": 1 },
+        { "text": "tight / loose", "category": 1 },
+        { "text": "fit someone / suit someone", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your top goes ___ your skirt.",
+      "hint": "(Your top matches your skirt.)",
+      "answers": ["with"],
+      "explanation": "If two things go with each other, they look good together."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like what I've ___ on.",
+      "hint": "(I like what I'm wearing.)",
+      "answers": ["got"],
+      "explanation": "have got something on = be wearing it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've just tried on this jacket in a size 12, and it didn't really ___ me.",
+      "hint": "(be the right size)",
+      "answers": ["fit"],
+      "explanation": "If something fits you, it is the right size."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Shop assistant:* Do you need any help? *Customer:* No, I'm being ___, thanks.",
+      "hint": "(serve)",
+      "answers": ["served"],
+      "explanation": "I'm being served = another shop assistant is already helping me."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a jacket is too small around the body, we say it is loose.",
+      "answer": false,
+      "explanation": "If a jacket is too small around the body, we say it is tight. Loose is the opposite."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The shop hasn't got the top in your size. What do you say?",
+      "options": [
+        "Oh, that's a shame.",
+        "Oh, that's reasonable.",
+        "Oh, that's fashionable.",
+        "Oh, I'm being served."
+      ],
+      "answer": 0,
+      "explanation": "That's a shame and that's a pity both mean 'that is disappointing'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tell the shop assistant what you want.",
+      "words": ["I'm", "looking", "for", "a", "skirt", "and", "this", "looks", "nice."],
+      "answer": "I'm looking for a skirt and this looks nice.",
+      "explanation": "look for something = want to find it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It wasn't just the size. I don't think it ___ me, actually. I'll leave it, thanks.",
+      "hint": "(look good on me)",
+      "answers": ["suits", "suited"],
+      "explanation": "If something suits you, it looks good on you."
+    }
+  ]
+}

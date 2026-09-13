@@ -1,0 +1,194 @@
+{
+  "number": 82,
+  "title": "Homophones and homographs",
+  "subtitle": "weather / whether, a row / a row",
+  "summary": "Learn to tell apart words that sound alike but are spelt differently (homophones) and words spelt alike but with different meanings (homographs).",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two kinds of confusing pair",
+      "text": "**Homophones** are words with different meanings which sound the same but are spelt differently, so only the spelling tells you which one is meant. **Homographs** are words which are written in the same way but have different meanings, and they may even be said differently.",
+      "examples": [
+        { "text": "**row** as in 'at the end of the row' and **roe** as in 'fish eggs' - homophones." },
+        { "text": "We had a **row** about who should pay for the tickets.", "note": "row here = an argument" },
+        { "text": "He sat at the end of the **row**.", "note": "row here = a line of seats - the same spelling, a different word" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common homophones (1)",
+      "columns": ["Spellings", "What each one means"],
+      "rows": [
+        ["air / heir", "the air we breathe / the person who will inherit"],
+        ["aloud / allowed", "out loud, not silently / permitted"],
+        ["break / brake", "smash or damage / stop a vehicle"],
+        ["fare / fair", "the price of a ticket / just, or light-coloured, or a funfair"],
+        ["grate / great", "the metal frame you burn coal in / wonderful"],
+        ["groan / grown", "a deep sound of pain / past participle of grow"],
+        ["hoarse / horse", "with a rough voice / the animal"],
+        ["its / it's", "belonging to it / it is, it has"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common homophones (2)",
+      "columns": ["Spellings", "What each one means"],
+      "rows": [
+        ["pale / pail", "light in colour / a bucket"],
+        ["pane / pain", "a sheet of glass / what you feel when you are hurt"],
+        ["peal / peel", "the ringing of bells / the skin of a fruit"],
+        ["practise / practice", "the verb / the noun"],
+        ["pray / prey", "speak to God / an animal that is hunted"],
+        ["raise / rays", "lift up / beams of light"],
+        ["sail / sale", "the cloth on a boat / selling something"],
+        ["sight / site", "something you see / a place where something is built or dug"],
+        ["sole / soul", "the bottom of a shoe or foot / the spirit"],
+        ["waist / waste", "the middle of your body / use badly, or rubbish"],
+        ["weather / whether", "rain, sun, wind / if, in indirect questions"],
+        ["whine / wine", "complain in a high voice / the drink"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Homographs: one spelling, two meanings",
+      "columns": ["Word", "Meaning 1", "Meaning 2"],
+      "rows": [
+        ["live", "I **live** in the north of England. (reside)", "My favourite group is singing **live** on TV. (not recorded)"],
+        ["read", "I **read** in bed each night. (present)", "I **read** War and Peace last year. (past)"],
+        ["lead", "The **lead** singer in the group is great. (main)", "**Lead** pipes are dangerous. (a heavy metal)"],
+        ["wind", "The **wind** blew the tree down. (moving air)", "**Wind** the rope round this tree. (turn)"],
+        ["wound", "She **wound** the string round the parcel. (past of wind)", "He suffered a terrible **wound** in the war. (injury)"],
+        ["use", "This book is called English Vocabulary in **Use**. (noun)", "You must know how to **use** words. (verb)"],
+        ["house", "They lived in a large old **house**. (noun)", "The buildings **house** a library. (verb: contain)"],
+        ["sow", "The **sow** has five piglets. (a female pig)", "The farmers **sow** the seeds in spring. (plant)"],
+        ["bow", "The violinist wore a **bow** tie. (a knot)", "He made a **bow** to the audience. (bend forward)"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The classic mistake: weather or whether?",
+      "left": {
+        "label": "whether = if",
+        "text": "Use **whether** when you are talking about a choice between possibilities.",
+        "examples": [
+          "I don't know **whether** to go or not.",
+          "It depends on **whether** she agrees."
+        ]
+      },
+      "right": {
+        "label": "weather = rain, sun, wind",
+        "text": "Use **weather** only for the conditions outside.",
+        "examples": [
+          "What terrible **weather** we're having!",
+          "**Whether** we have a picnic tomorrow will depend on the **weather**."
+        ]
+      },
+      "note": "Say: I don't know whether to go or not. Not: I don't know ~~weather~~ to go or not."
+    },
+    {
+      "type": "tip",
+      "text": "Homophones and homographs are behind most English jokes and puns - if a joke makes no sense, look for a word that has a second meaning."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each spelling with its meaning.",
+      "pairs": [
+        { "left": "heir", "right": "the person who will inherit" },
+        { "left": "pail", "right": "a bucket" },
+        { "left": "pane", "right": "a sheet of glass" },
+        { "left": "sole", "right": "the bottom of a shoe" },
+        { "left": "prey", "right": "an animal that is hunted" },
+        { "left": "waist", "right": "the middle part of your body" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I really must do some more exercise or I'll never lose ___.",
+      "hint": "(weight or wait?)",
+      "answers": ["weight"],
+      "explanation": "Weight is what the scales show; wait means stay until something happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Watching TV game shows is such a ___ of time.",
+      "hint": "(waste or waist?)",
+      "answers": ["waste"],
+      "explanation": "Waste = a bad use of something. Your waist is the middle of your body."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's a hole in the ___ of my shoe.",
+      "hint": "(sole or soul?)",
+      "answers": ["sole"],
+      "explanation": "The sole is the bottom of a shoe; the soul is the spirit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You are not ___ to talk during the test.",
+      "hint": "(allowed or aloud?)",
+      "answers": ["allowed"],
+      "explanation": "Allowed = permitted. Aloud means out loud, not silently."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't throw away that orange ___. I need it for a recipe.",
+      "hint": "(peel or peal?)",
+      "answers": ["peel"],
+      "explanation": "Peel is the skin of a fruit; a peal is the ringing of bells."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He's going ___ a rather difficult ___ at the moment.",
+      "options": ["through / phase", "threw / faze", "through / faze", "threw / phase"],
+      "answer": 0,
+      "explanation": "Through = from one side to the other; a phase is a period of time. Threw is the past of throw and faze means disturb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'The buildings **house** a library and two concert halls', what does *house* mean?",
+      "options": ["contain", "a building people live in", "sell", "build"],
+      "answer": 0,
+      "explanation": "House is a homograph: the noun is a building, the verb means contain or provide space for."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'He's the **lead** singer in the group', what does *lead* mean?",
+      "options": ["main", "a heavy grey metal", "quiet", "last"],
+      "answer": 0,
+      "explanation": "Lead is a homograph: the main singer, or the metal used in old pipes."
+    },
+    {
+      "type": "true_false",
+      "statement": "In 'I **wound** the rope around the tree', *wound* is the past tense of *wind*.",
+      "answer": true,
+      "explanation": "Correct - the other wound, meaning an injury, is a completely different word with the same spelling."
+    },
+    {
+      "type": "true_false",
+      "statement": "In 'The **sow** has five piglets', *sow* means to plant seeds.",
+      "answer": false,
+      "explanation": "Here a sow is a female pig. Farmers sow seeds - the same spelling, a different word."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of these children's jokes. Each one plays on a word with two meanings.",
+      "pairs": [
+        { "left": "What do you get if you cross a sheep and a kangaroo?", "right": "A woolly jumper." },
+        { "left": "What did the south wind say to the north wind?", "right": "Let's play draughts." },
+        { "left": "Why did the man take his pencil to bed?", "right": "He wanted to draw the curtains." },
+        { "left": "Why is history the sweetest lesson?", "right": "Because it's full of dates." },
+        { "left": "What's the best birthday present?", "right": "A drum takes a lot of beating." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order. It contains two homophones.",
+      "words": ["Brake", "now", "or", "you'll", "break", "that", "toy", "in", "the", "road."],
+      "answer": "Brake now or you'll break that toy in the road.",
+      "explanation": "Brake is what you do to stop a car; break means damage or smash."
+    }
+  ]
+}

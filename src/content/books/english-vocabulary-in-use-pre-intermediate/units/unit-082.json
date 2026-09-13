@@ -1,0 +1,186 @@
+{
+  "number": 82,
+  "title": "Key verbs: give, keep and miss",
+  "subtitle": "give me a hand, keep quiet, miss a chance",
+  "summary": "Learn the everyday phrases built from three key verbs: give, keep and miss.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "give = cause an effect",
+      "text": "We use **give** when someone or something causes a certain effect in another person.",
+      "examples": [
+        { "text": "All that noise has **given** me a headache." },
+        { "text": "The walk this morning **gave** me an appetite.", "note": "= made me hungry" },
+        { "text": "Listening to Wai Sin has **given** me an idea." },
+        { "text": "Valentina **gave** us a shock when she shouted like that.", "note": "= shocked us" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "give + noun = an action",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["give someone advice", "advise them", "He gave me some advice."],
+        ["give a speech / a lecture", "talk formally to a group of people", "I had to give a speech at the wedding."],
+        ["give someone a ring", "phone them", "I'll give her a ring."],
+        ["give someone a hand", "help them", "Ollie gave me a hand with my work."],
+        ["give someone a hug", "put your arms round them", "She gave me a hug."],
+        ["give something a push", "push it", "He gave the car a push."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "keep = stay in a state",
+      "text": "**Keep** can mean to stay, or to cause someone to stay, in a particular state or condition. It is followed by an adjective.",
+      "examples": [
+        { "text": "**Keep** right.", "note": "= stay on the right side" },
+        { "text": "She asked us to **keep quiet**." },
+        { "text": "This coat will **keep** you **warm**." },
+        { "text": "Going to the gym **keeps** me **fit**." },
+        { "text": "I never drink coffee at night; it **keeps** me **awake**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "keep (on) doing something",
+      "text": "**Keep** or **keep on** + *-ing* means to repeat doing something. Often it is something you do not want to do or to happen.",
+      "examples": [
+        { "text": "I **keep losing** my glasses." },
+        { "text": "I **keep getting** backache." },
+        { "text": "She **keeps on interrupting** me.", "note": "= disturbs me when I am doing something" },
+        { "text": "I **keep waking** up early because it's so light in my bedroom." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "keep in touch, keep a secret, keep it up",
+      "text": "If you **keep in touch**, you continue to communicate with someone. If you **keep a secret**, you don't tell other people. If you **keep it up**, you continue doing something at a high level.",
+      "examples": [
+        { "text": "I met Mara on holiday and we've **kept in touch** ever since." },
+        { "text": "Tom told me not to tell anyone, but I'm not very good at **keeping a secret**." },
+        { "text": "Your English is improving. That's good - **keep it up**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Four meanings of miss",
+      "columns": ["Meaning", "Example"],
+      "rows": [
+        ["feel sad because a person is not there", "When I went to work in Hungary, I really missed my girlfriend."],
+        ["not hear what someone says", "I'm sorry, I missed that. What did you say?"],
+        ["not use a chance or opportunity", "She's injured, so she might miss her chance to play."],
+        ["manage to avoid something", "I left home early in order to miss the rush hour."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the difference: you **give** someone a hand (= help them), and you **keep** in touch (= go on writing or phoning)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which verb goes with each phrase: give, miss or keep?",
+      "categories": ["give", "miss", "keep"],
+      "items": [
+        { "text": "a speech", "category": 0 },
+        { "text": "someone a hug", "category": 0 },
+        { "text": "someone a hand", "category": 0 },
+        { "text": "an opportunity", "category": 1 },
+        { "text": "a person", "category": 1 },
+        { "text": "what someone says", "category": 1 },
+        { "text": "in touch", "category": 2 },
+        { "text": "a secret", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Take this umbrella. It should keep you ___.",
+      "hint": "(adjective - rain)",
+      "answers": ["dry"],
+      "explanation": "Keep + adjective = stay in that state."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They're making a lot of noise in there. Could you tell them to keep ___?",
+      "hint": "(adjective)",
+      "answers": ["quiet"],
+      "explanation": "Keep quiet = stay silent."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't know why she keeps ___ - it wasn't a very funny story.",
+      "options": ["laughing", "to laugh", "laugh", "laughed"],
+      "answer": 0,
+      "explanation": "Keep (on) + -ing means to repeat doing something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's really stupid, but I keep ___ to lock the doors and windows when I go out.",
+      "hint": "(-ing form of forget)",
+      "answers": ["forgetting"],
+      "explanation": "Keep + -ing = do it again and again."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with give to its meaning.",
+      "pairs": [
+        { "left": "give someone a hand", "right": "help them" },
+        { "left": "give someone a ring", "right": "phone them" },
+        { "left": "give a speech", "right": "talk formally to a group" },
+        { "left": "give someone a shock", "right": "shock them" },
+        { "left": "give someone an appetite", "right": "make them hungry" },
+        { "left": "give someone a hug", "right": "put your arms round them" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He didn't put his arms round her, did he? *B:* Yes. He ___ big hug.",
+      "hint": "(gave + her + a)",
+      "answers": ["gave her a"],
+      "explanation": "Give someone a hug = put your arms round them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have you stayed in contact with your old school friends? *B:* Yes, I've tried to ___ as much as possible.",
+      "hint": "(three words)",
+      "answers": ["keep in touch"],
+      "explanation": "Keep in touch = continue to communicate with someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He had a chance to go and he didn't take it. *B:* I know. He ___ opportunity.",
+      "hint": "(two words = didn't use it)",
+      "answers": ["missed his"],
+      "explanation": "Miss an opportunity = not use a chance to do something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We left before seven because we wanted to ___ the rush hour.",
+      "hint": "(one word = avoid)",
+      "answers": ["miss"],
+      "explanation": "Miss something = manage to avoid it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The guys are working really hard, but I don't know if they can keep it ___.",
+      "hint": "(one word)",
+      "answers": ["up"],
+      "explanation": "Keep it up = continue doing something at a high level."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you keep a secret, you tell other people something that you know.",
+      "answer": false,
+      "explanation": "If you keep a secret, you do NOT tell other people something that you know."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. The music next door is very loud.",
+      "words": ["All", "that", "noise", "has", "given", "me", "a headache."],
+      "answer": "All that noise has given me a headache.",
+      "explanation": "Give is used when something causes an effect: it gave me a headache."
+    }
+  ]
+}

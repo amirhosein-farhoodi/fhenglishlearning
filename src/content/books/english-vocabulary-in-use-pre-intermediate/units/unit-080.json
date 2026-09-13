@@ -1,0 +1,184 @@
+{
+  "number": 80,
+  "title": "Phrasal verbs 2: grammar and style",
+  "subtitle": "turn it off, look after them, put sth off",
+  "summary": "Learn where the object goes in a phrasal verb, and which formal single word means the same.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Phrasal verbs with no object",
+      "text": "Some phrasal verbs never take an object. You cannot put any words between the two parts.",
+      "examples": [
+        { "text": "When does your train **get in**?", "note": "= arrive" },
+        { "text": "**Hold on**, I just need to get my coat.", "note": "= wait a moment" },
+        { "text": "The car **broke down** on my way to work.", "note": "= stopped working" },
+        { "text": "We **set off** about 7.30.", "note": "= started the journey" },
+        { "text": "There's nowhere for teenagers to go, so they just **hang around** on street corners.", "note": "= spend time somewhere doing very little" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Separable phrasal verbs",
+      "text": "Many phrasal verbs need an object, and the object can go in two places: after the verb, or between the two parts. These are called **separable** phrasal verbs.",
+      "examples": [
+        { "text": "**Put on** your shoes. / **Put** your shoes **on**." },
+        { "text": "**Turn on** the TV. / **Turn** the TV **on**." },
+        { "text": "**Take off** your coat. / **Take** your coat **off**." },
+        { "text": "I **turned off** the lights in the living room.", "note": "A long object usually goes at the end." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If the object is a pronoun (it, them, me, him), it must go in the middle: *Put them on.* (not ~~Put on them~~), *Take it off.* (not ~~Take off it~~)."
+    },
+    {
+      "type": "explain",
+      "heading": "Phrasal verbs that cannot be separated",
+      "text": "With some phrasal verbs the object must always come after both parts, even when it is a pronoun.",
+      "examples": [
+        { "text": "I will **look after** the children for you.", "note": "= take care of them" },
+        { "text": "How did the two men **break into** the shop?", "note": "= enter using force, e.g. breaking a window" },
+        { "text": "It took her months to **get over** the shock.", "note": "= begin to feel better after being unhappy or ill" },
+        { "text": "A girl was **handing out** leaflets at the station.", "note": "= giving them to all the people in a group. This one is separable: handing them out." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What a dictionary tells you",
+      "columns": ["Dictionary label", "What it means", "Example"],
+      "rows": [
+        ["hang around (no object)", "the verb takes no object", "They hang around on street corners."],
+        ["hand sth out (separable)", "the object can go in the middle", "Hand out the books. / Hand them out."],
+        ["get over sth (not separable)", "the object must come after the phrasal verb", "She got over the shock. / She got over it."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Informal phrasal verb, formal single word",
+      "columns": ["Phrasal verb (informal)", "Single word (formal)", "Example"],
+      "rows": [
+        ["leave sb/sth out", "omit", "He made a list of people but left me out."],
+        ["make sth up", "invent", "We had to make up a story."],
+        ["put sth off", "postpone", "They put the game off till Friday."],
+        ["turn sth/sb down", "reject", "I offered her a job but she turned it down."],
+        ["hold on", "wait", "Could you hold on a minute, please?"],
+        ["get in", "arrive", "The train should get in by ten o'clock."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Which one should I use?",
+      "text": "Phrasal verbs are very common in spoken and written English, but many of them are quite informal. In a formal letter or report, the single word often sounds better.",
+      "examples": [
+        { "text": "*Informal:* We've had to **put off** the meeting till next week." },
+        { "text": "*Formal:* The meeting has been **postponed** until next week." },
+        { "text": "*Informal:* He **turned** the job **down**." },
+        { "text": "*Formal:* He **rejected** the offer." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "She asked me to hand ___ at the station.",
+      "options": ["them out", "out them", "out it"],
+      "answer": 0,
+      "explanation": "A pronoun object must go between the two parts: hand them out."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My boots were tight and I couldn't take ___.",
+      "options": ["them off", "off them", "off it"],
+      "answer": 0,
+      "explanation": "Take them off. We never say take off them."
+    },
+    {
+      "type": "true_false",
+      "statement": "Could you turn the light on?",
+      "answer": true,
+      "explanation": "Correct. Turn on is separable, so the light can go in the middle or at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "They offered him the job, but why did they turn down it?",
+      "answer": false,
+      "explanation": "Why did they turn it down? A pronoun must go between the two parts."
+    },
+    {
+      "type": "true_false",
+      "statement": "The boys were hanging the station around.",
+      "answer": false,
+      "explanation": "The boys were hanging around the station. Hang around takes no object between its parts."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the phrasal verb take an object or not?",
+      "categories": ["No object", "Takes an object"],
+      "items": [
+        { "text": "get in", "category": 0 },
+        { "text": "hold on", "category": 0 },
+        { "text": "break down", "category": 0 },
+        { "text": "set off", "category": 0 },
+        { "text": "hand out", "category": 1 },
+        { "text": "leave out", "category": 1 },
+        { "text": "look after", "category": 1 },
+        { "text": "break into", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each formal word with the informal phrasal verb that means the same.",
+      "pairs": [
+        { "left": "omit", "right": "leave out" },
+        { "left": "invent", "right": "make up" },
+        { "left": "postpone", "right": "put off" },
+        { "left": "reject", "right": "turn down" },
+        { "left": "wait a minute", "right": "hold on" },
+        { "left": "arrive", "right": "get in" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As so many people are ill, I've had to ___ the meeting till next week.",
+      "hint": "(= postpone)",
+      "answers": ["put off"],
+      "explanation": "Put something off = postpone it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The teacher told us to ___ a story to go with the picture.",
+      "hint": "(= invent)",
+      "answers": ["make up"],
+      "explanation": "Make something up = create it from your imagination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't think Mike was good enough, so we left him ___.",
+      "hint": "(one word)",
+      "answers": ["out"],
+      "explanation": "Leave someone out = not include them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He told me he was 25, but I don't believe him. I think he's making that ___.",
+      "hint": "(one word)",
+      "answers": ["up"],
+      "explanation": "Make something up = invent it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We'll get there by seven if we set ___ now.",
+      "hint": "(one word = start the journey)",
+      "answers": ["off"],
+      "explanation": "Set off = start a journey."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll call ___ you a bit later. I should be at your house by 7 o'clock.",
+      "hint": "(one word)",
+      "answers": ["for"],
+      "explanation": "Call for someone = go to collect them."
+    }
+  ]
+}

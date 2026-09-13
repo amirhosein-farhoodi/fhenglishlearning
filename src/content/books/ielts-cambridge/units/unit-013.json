@@ -1,0 +1,172 @@
+{
+  "number": 13,
+  "title": "Discursive passages",
+  "subtitle": "Cohesive devices, theories and matching features",
+  "summary": "Follow an argument through its linking words, tell the writer's voice from an expert's, and match each theory to the person who holds it.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Linking words are signposts in a text",
+      "text": "The later passages present contrasting points in an argument or explain a complex theory. **Cohesive devices** are the words that hold those ideas together - and each one tells you what is coming next before you have read it.",
+      "examples": [
+        { "text": "*A new study has **actually** confirmed a fictional account.*", "note": "adding to / clarifying a point" },
+        { "text": "*The intelligence of birds has been suggested in stories, **but** experts think that they don't do this in their natural habitat.*", "note": "contrast" },
+        { "text": "*Half the birds were immediately successful; **however**, others needed several attempts.*", "note": "contrast" },
+        { "text": "*The birds realised the advantage of using big stones, and **so** they achieved their goal sooner.*", "note": "result" },
+        { "text": "*The research showed rooks can use tools with ease, **though** only scientific studies can prove this.*", "note": "contrast" },
+        { "text": "*The rooks worked out the properties of different materials and **as a result**, consistently rejected one particular type.*", "note": "result" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cohesive devices by job",
+      "columns": ["To add more / clarify", "To show contrast", "To give an example", "To draw a conclusion / introduce a result"],
+      "rows": [
+        ["moreover", "although", "such as", "therefore"],
+        ["indeed", "despite", "for instance", "consequently"],
+        ["in addition", "in spite of", "to illustrate this", "thus"],
+        ["similarly", "nonetheless", "", "as a result"],
+        ["furthermore", "whilst", "", "hence"],
+        ["in fact", "though", "", ""]
+      ],
+      "note": "These are also the words you need in Writing Task 2, so learning them here pays twice."
+    },
+    {
+      "type": "compare",
+      "heading": "Whose idea is it?",
+      "left": {
+        "label": "The writer's own statement",
+        "text": "No reporting verb, no attribution.",
+        "examples": ["*Corvids rival the great apes in their physical intelligence.*", "*Only 98 of the 177 verbs are still irregular today.*"]
+      },
+      "right": {
+        "label": "Someone else's view",
+        "text": "A name plus a reporting verb - or quotation marks.",
+        "examples": [
+          "*Christopher Bird **highlighted** the importance of the findings, **stating**: 'Corvids are remarkably intelligent ...'*",
+          "*Christopher Bird ... **believes that** Corvids are remarkably intelligent ...*",
+          "*Pagel **commented**.* / *he **adds**.* / *Pagel **points out that** ...* / ***According to** Pagel, ...*"
+        ]
+      },
+      "note": "Direct quotations are easy - look for the quotation marks. Indirect ones hang on a single verb, so learn the reporting verbs: *state, believe, claim, argue, suggest, comment, add, point out, report*."
+    },
+    {
+      "type": "explain",
+      "heading": "Matching features",
+      "text": "**Matching features** tasks are used with passages that contain theories or comments from several people. You match each statement to a person, place, year or thing from a box. The questions are **not** in the order of the passage, the same person can be the answer more than once, and some options may never be used.",
+      "examples": [
+        { "text": "*We are able to recognise certain words used by people in other cultures.* - **Pagel**", "note": "*why we can instinctively recognise words in other Indo-European languages, just from their sounds*" },
+        { "text": "*Certain words have kept a similar sound across many years and many countries.* - **Pagel**", "note": "*all Indo-European-language speakers have used a related sound to communicate the idea of 'two'*" },
+        { "text": "*Words that don't follow a standard pattern will remain that way if they are used often.* - **Lieberman**", "note": "*the more an irregular verb is used, the longer it will remain irregular*" },
+        { "text": "*We focused on the historical changes in one particular language.* - **Lieberman**", "note": "177 irregular English verbs taken from Old English." },
+        { "text": "*Regardless of what happens in the world, there appear to be fixed rules that govern how words alter.* - **Gray**", "note": "*Despite all the vagaries and contingencies of human history, there are remarkable regularities ...*" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Scan for the names first",
+      "text": "Because the people in the box appear in several different sections, the fastest way in is to scan the whole passage and highlight every name before you read a single question. Some names in the list are distractors.",
+      "examples": [
+        { "text": "**1.** Scan and highlight every occurrence of each name." },
+        { "text": "**2.** Read the statement and decide what idea it expresses." },
+        { "text": "**3.** Check every place that name appears - not just the first." }
+      ],
+      "note": "Watch for questions that ask who *carried out* a study rather than who holds a view - those match a person to an action."
+    },
+    {
+      "type": "tip",
+      "text": "Read the Education, Health or Science pages of international newspapers - *The Times*, *The Guardian*, *The Australian*, *The New Zealand Herald*, *The New Yorker*, *The Washington Post*. Reports on academic studies are written in exactly the style the later passages use."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "What job does each linking word do?",
+      "categories": ["Adds or clarifies", "Shows contrast", "Introduces a result"],
+      "items": [
+        { "text": "moreover", "category": 0 },
+        { "text": "furthermore", "category": 0 },
+        { "text": "nonetheless", "category": 1 },
+        { "text": "in spite of", "category": 1 },
+        { "text": "consequently", "category": 2 },
+        { "text": "hence", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Christopher Bird believes that corvids rival the great apes.* Which word tells you this is Bird's view and not the writer's?",
+      "options": ["Christopher", "believes", "rival", "great"],
+      "answer": 1,
+      "explanation": "A reporting verb attributes the idea. Without it the sentence would be the writer's own claim."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each researcher with the idea the passage attributes to them.",
+      "pairs": [
+        { "left": "Pagel", "right": "we can recognise words from other Indo-European languages by their sound" },
+        { "left": "Lieberman", "right": "the more an irregular verb is used, the longer it stays irregular" },
+        { "left": "Gray", "right": "there are remarkable regularities in how language changes" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*The research showed rooks can use tools with ease, ___ only scientific studies can prove this.* Which linking word shows contrast?",
+      "hint": "(one word, like *although*)",
+      "answers": ["though", "although"],
+      "explanation": "*Though* sets the limitation against the finding - the sentence is not simply adding information."
+    },
+    {
+      "type": "true_false",
+      "statement": "In a matching features task, each option in the box is used exactly once.",
+      "answer": false,
+      "explanation": "A person can be the answer to more than one question, and some options are distractors that are never used."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*The birds promptly realised the advantage of using big stones, and so ___* Which ending fits?",
+      "options": [
+        "they achieved their goal sooner.",
+        "others needed several attempts.",
+        "experts think they don't do this in the wild.",
+        "only scientific studies can prove this."
+      ],
+      "answer": 0,
+      "explanation": "*And so* introduces a result. The other three endings all need a contrast link."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each reporting phrase with the way it presents the idea.",
+      "pairs": [
+        { "left": "stating: 'Corvids are ...'", "right": "a direct quotation" },
+        { "left": "believes that corvids are ...", "right": "an indirect view" },
+        { "left": "According to Pagel, ...", "right": "attributed by a preposition" },
+        { "left": "Corvids are remarkably intelligent.", "right": "the writer's own statement" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Matching features questions appear in the same order as the information in the passage.",
+      "answer": false,
+      "explanation": "They are not in passage order, and each person may be mentioned in several different sections - so scan for the names first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a sentence that introduces a result.",
+      "words": ["The", "rooks", "rejected", "one", "material", "and", "as", "a", "result", "solved", "the", "task."],
+      "answer": "The rooks rejected one material and as a result solved the task.",
+      "explanation": "*As a result* belongs in the conclusion column alongside *therefore*, *thus*, *hence* and *consequently*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why is it worth highlighting every name in the passage before reading the statements?",
+      "options": [
+        "Because names are always the answers",
+        "Because each person may be mentioned in several different sections",
+        "Because the names are in alphabetical order",
+        "Because the questions follow the order of the names"
+      ],
+      "answer": 1,
+      "explanation": "The first mention of a researcher is often not the one the question is about."
+    }
+  ]
+}

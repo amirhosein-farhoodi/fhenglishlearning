@@ -1,0 +1,219 @@
+{
+  "number": 26,
+  "title": "The natural world",
+  "subtitle": "whiskers, petals, blossom, breed",
+  "summary": "Name the parts of animals and plants, learn some less familiar creatures, and use the verbs that describe what happens in nature.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parts of birds and animals",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["beak", "a bird's hard, pointed mouth"],
+        ["wing", "the part a bird uses to fly"],
+        ["feather", "one of the light soft things that cover a bird's body"],
+        ["nest", "the place a bird builds to lay its eggs in"],
+        ["fur", "the soft thick hair on an animal such as a cat or a fox"],
+        ["whiskers", "the long stiff hairs that stick out from a cat's face"],
+        ["claws", "the sharp curved nails on an animal's or bird's foot"],
+        ["paw", "the foot of an animal such as a cat or a dog"],
+        ["tail", "the part at the back end of an animal's body"],
+        ["mane", "the long hair on the neck of a lion or a horse"],
+        ["horns", "the hard pointed growths on the head of a cow or a goat"],
+        ["hoof", "a horse's foot (plural: hooves)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Parts of a flower",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["petals", "the coloured outer parts of a flower"],
+        ["pollen", "the fine yellow powder bees carry from flower to flower"],
+        ["bud", "a flower that is closed and just about to open"],
+        ["stem", "the long thin part that holds up the flower"],
+        ["thorn", "a sharp point on the stem of a plant such as a rose"],
+        ["leaf", "a flat green part of a plant (plural: leaves)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Parts of a tree",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["trunk", "the thick main stem of a tree"],
+        ["bark", "the rough outer covering of a tree's trunk"],
+        ["bough", "a large main branch"],
+        ["branch", "an arm of a tree growing out from the trunk"],
+        ["twig", "a very small thin branch"],
+        ["roots", "the parts that grow under the ground"]
+      ],
+      "note": "Two very common trees are the *oak* and the *willow*."
+    },
+    {
+      "type": "table",
+      "heading": "Creatures you may not know",
+      "columns": ["Group", "Creatures"],
+      "rows": [
+        ["In or near water", "frog, whale, shark, crab, seal"],
+        ["On land", "worm, snail, deer (singular and plural), fox, bat"],
+        ["Birds", "owl, pigeon, peacock"]
+      ],
+      "note": "A bat is not a bird - it is a mammal, and it uses a kind of radar to find its way around."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs for processes in nature",
+      "text": "These verbs and their objects go together so regularly that it is worth learning them as pairs.",
+      "examples": [
+        { "text": "Our apple tree **flowers** (or **blossoms**) in April." },
+        { "text": "Let's **pick** some flowers." },
+        { "text": "These birds **lay their eggs** on the ground.", "note": "lay, laid, laid - the bird laid three eggs" },
+        { "text": "Bees **collect pollen** from flowers to make honey." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "With an object or without",
+      "left": {
+        "label": "Intransitive - no object",
+        "examples": [
+          "These flowers **grow** very quickly.",
+          "These animals **breed** in the spring."
+        ]
+      },
+      "right": {
+        "label": "Transitive - with an object",
+        "examples": [
+          "We **grew some tomatoes** in our garden last year.",
+          "My neighbour **breeds Burmese cats** and sells them."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "We **pick** flowers and fruit, never ~~pick up~~: *We picked some flowers and put them in a vase.* You **pick something up** only when it has fallen or been dropped."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with the part of the animal it names.",
+      "pairs": [
+        { "left": "whiskers", "right": "the hairs that stick out from a cat's face" },
+        { "left": "hoof", "right": "a horse's foot" },
+        { "left": "mane", "right": "the long hair on a lion's neck" },
+        { "left": "beak", "right": "a bird's hard, pointed mouth" },
+        { "left": "nest", "right": "the place where a bird lays its eggs" },
+        { "left": "paw", "right": "the foot of a cat or a dog" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bees help to move ___ from one flower to another as they collect nectar to make honey.",
+      "hint": "(fine yellow powder)",
+      "answers": ["pollen"],
+      "explanation": "Bees collect pollen from flowers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The part of a flower that usually has the brightest colours is the ___.",
+      "hint": "(plural)",
+      "answers": ["petals"],
+      "explanation": "Petals are the coloured outer parts of a flower."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word an animal word or a plant word?",
+      "categories": ["Animal word", "Plant word"],
+      "items": [
+        { "text": "mane", "category": 0 },
+        { "text": "fox", "category": 0 },
+        { "text": "claw", "category": 0 },
+        { "text": "owl", "category": 0 },
+        { "text": "petal", "category": 1 },
+        { "text": "oak", "category": 1 },
+        { "text": "thorn", "category": 1 },
+        { "text": "bark", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A cat can sharpen its claws against the ___ of a tree.",
+      "hint": "(the rough outer covering)",
+      "answers": ["bark"],
+      "explanation": "Bark is the rough outer layer of a tree trunk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most fruit trees ___ in spring.",
+      "hint": "(verb)",
+      "answers": ["blossom", "flower"],
+      "explanation": "A tree blossoms or flowers when its flowers come out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Flowers last longer in a vase if you crush the end of their ___.",
+      "hint": "(plural)",
+      "answers": ["stems"],
+      "explanation": "The stem is the long thin part that holds up the flower."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Take care not to prick yourself. That plant has sharp ___.",
+      "hint": "(plural)",
+      "answers": ["thorns"],
+      "explanation": "Thorns are the sharp points on the stem of a plant such as a rose."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ move very, very slowly and carry their shells with them.",
+      "hint": "(plural creature)",
+      "answers": ["snails"],
+      "explanation": "A worm moves slowly too, but the snail is the classic slow mover."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings with the endings.",
+      "pairs": [
+        { "left": "A large bough fell", "right": "from the tree during the storm" },
+        { "left": "We picked up", "right": "some apples that had dropped from the tree" },
+        { "left": "The scientists grew", "right": "a new type of tomato that was very big" },
+        { "left": "The peacock opened", "right": "its feathers. It was beautiful" },
+        { "left": "A frog jumped", "right": "into the stream and swam away" },
+        { "left": "We picked", "right": "some herbs to put on our pizza" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is correct?",
+      "options": [
+        "The bird laid three eggs.",
+        "The bird lay three eggs.",
+        "The bird lied three eggs.",
+        "The bird has lay three eggs."
+      ],
+      "answer": 0,
+      "explanation": "*Lay, laid, laid* takes an object: the bird laid three eggs."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out: a seal, a whale or a crab?",
+      "options": [
+        "a crab - it has a shell and is a shellfish",
+        "a seal - it can come out of the water",
+        "a whale - it is the biggest",
+        "None of them; they are all the same kind of creature"
+      ],
+      "answer": 0,
+      "explanation": "Seals and whales are mammals; a crab is a shellfish."
+    },
+    {
+      "type": "true_false",
+      "statement": "We picked up some flowers and put them in a vase.",
+      "answer": false,
+      "explanation": "We pick flowers and fruit: We picked some flowers and put them in a vase. You pick something up only when it has fallen."
+    }
+  ]
+}

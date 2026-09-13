@@ -1,0 +1,205 @@
+{
+  "number": 77,
+  "title": "Binomials",
+  "subtitle": "odds and ends, give and take, sooner or later",
+  "summary": "Use fixed pairs of words joined by and or or - peace and quiet, back and forth, sink or swim - in the correct, unchangeable order.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are binomials?",
+      "text": "Binomials are expressions, often idiomatic, where two words are joined by a conjunction - usually *and*. The order is fixed: you cannot reverse it.",
+      "examples": [
+        { "text": "Let's get the main things packed - we can do the **odds and ends** later.", "wrong": "ends and odds", "note": "odds and ends = small, unimportant things" },
+        { "text": "Every relationship needs a bit of **give and take** to be successful.", "note": "= a spirit of compromise" }
+      ],
+      "note": "You can often recognise a binomial by its sound: the two words start with the same sound or they rhyme."
+    },
+    {
+      "type": "table",
+      "heading": "Binomials with a sound pattern",
+      "columns": ["Binomial", "Meaning"],
+      "rows": [
+        ["part and parcel", "an important part of something; belonging to it"],
+        ["rant and rave", "shout and be very angry"],
+        ["rack and ruin", "a state of decay or ruin"],
+        ["prim and proper", "rather formal and fussy"],
+        ["rough and ready", "of a poor standard or quality"],
+        ["wine and dine", "entertain someone, take them out to restaurants"],
+        ["high and dry", "in a very difficult situation, with no help"]
+      ],
+      "note": "Tears are **part and parcel** of growing up. The old cottage has gone to **rack and ruin**."
+    },
+    {
+      "type": "explain",
+      "heading": "Pairs of near synonyms",
+      "text": "In many binomials the two words mean almost the same thing. The pair is simply stronger or more idiomatic than either word alone.",
+      "examples": [
+        { "text": "You can **pick and choose** - it's up to you.", "note": "= have a wide choice" },
+        { "text": "My English is progressing **in leaps and bounds**.", "note": "= in big jumps" },
+        { "text": "It's nice to have some **peace and quiet** now that the children have left." },
+        { "text": "The doctor recommended some **rest and recreation**.", "note": "= relaxation; often shortened to R and R" },
+        { "text": "**First and foremost**, you must work hard.", "note": "= first and most importantly" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Binomials made of grammar words",
+      "columns": ["Binomial", "Meaning", "Example"],
+      "rows": [
+        ["here and there", "scattered around, in different places", "There are cafes **here and there** along the sea front."],
+        ["on and off / off and on", "occasionally", "We've had meetings **on and off**."],
+        ["back and forth / to and fro", "to and from somewhere", "I've been running **back and forth** all day."],
+        ["out and about", "going out again after an illness", "She's better now, and **out and about** again."],
+        ["up and down", "in both directions", "She ran **up and down** the street."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Binomials linked by other words",
+      "text": "Not every binomial uses *and*. Several common ones are joined by **or**, **to** or **but** - and the order is just as fixed.",
+      "examples": [
+        { "text": "You've got your sweater on **back to front**.", "note": "= the wrong way round" },
+        { "text": "He won't help her - she'll have to **sink or swim**.", "note": "= survive or fail on her own" },
+        { "text": "**Slowly but surely**, I realised the boat was sinking.", "note": "= gradually" },
+        { "text": "**Sooner or later**, you'll learn your lesson.", "note": "= sometime in the future" },
+        { "text": "It's about the same distance as from here to Dublin, **give or take** a few miles." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two more with or",
+      "text": "**All or nothing** means there is no middle way, and **take it or leave it** means this is the only offer, so accept it or don't.",
+      "examples": [
+        { "text": "She didn't want to be just friends - it had to be **all or nothing**." },
+        { "text": "Well, I'm sorry, that's all I can offer you - **take it or leave it**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Three very neutral binomials you will hear every day: an old **black and white** photograph; **Ladies and gentlemen**, your attention please; she ran **back and forth**. Never reverse them."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the first half of each binomial with its second half.",
+      "pairs": [
+        { "left": "prim and", "right": "proper" },
+        { "left": "rack and", "right": "ruin" },
+        { "left": "rough and", "right": "ready" },
+        { "left": "wine and", "right": "dine" },
+        { "left": "high and", "right": "dry" },
+        { "left": "part and", "right": "parcel" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The receptionist is always so terribly ___; the whole atmosphere seems very formal.",
+      "hint": "(three words)",
+      "answers": ["prim and proper"],
+      "explanation": "Prim and proper = rather formal and fussy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They stole my wallet, so I was left ___, with no one to help me.",
+      "hint": "(three words)",
+      "answers": ["high and dry"],
+      "explanation": "To be left high and dry is to be left in a very difficult situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The room's a bit ___ but you're welcome to stay as long as you like.",
+      "hint": "(three words - poor quality)",
+      "answers": ["rough and ready"],
+      "explanation": "Rough and ready = of a poor standard or quality."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That old house in the country has gone to ___; nobody looks after it now.",
+      "hint": "(three words)",
+      "answers": ["rack and ruin"],
+      "explanation": "To go to rack and ruin is to fall into decay."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She was in a bad temper and was ___ at everybody.",
+      "options": ["ranting and raving", "raving and ranting", "wining and dining", "picking and choosing"],
+      "answer": 0,
+      "explanation": "Rant and rave = shout angrily. The order is fixed: rant comes first."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite in bold: 'Most importantly of all, I want to get a good, steady job.'",
+      "options": ["First and foremost", "Here and there", "On and off", "Give or take"],
+      "answer": 0,
+      "explanation": "First and foremost = first and most importantly."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Her violin playing seems to be progressing ___.",
+      "options": ["in leaps and bounds", "in bounds and leaps", "back and forth", "up and down"],
+      "answer": 0,
+      "explanation": "To progress in leaps and bounds is to improve very fast."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've bumped into Karen ___ but I don't meet her regularly.",
+      "hint": "(three words - occasionally)",
+      "answers": ["on and off", "off and on"],
+      "explanation": "On and off (or off and on) = occasionally."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We'll have to stay in a cheap hotel. We can't afford to ___.",
+      "hint": "(three words - have a wide choice)",
+      "answers": ["pick and choose"],
+      "explanation": "To pick and choose is to have a wide choice and take only what you want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mrs James was ill for a while, but now she's ___ again.",
+      "hint": "(three words - going out and doing things)",
+      "answers": ["out and about"],
+      "explanation": "To be out and about is to be going out again after an illness."
+    },
+    {
+      "type": "true_false",
+      "statement": "I love those old white and black Hollywood films from the 1940s.",
+      "answer": false,
+      "explanation": "The fixed order is black and white: I love those old black and white Hollywood films."
+    },
+    {
+      "type": "true_false",
+      "statement": "Later or sooner you will learn that he is not a true friend of yours.",
+      "answer": false,
+      "explanation": "The binomial is sooner or later: Sooner or later you will learn that he is not a true friend of yours."
+    },
+    {
+      "type": "true_false",
+      "statement": "Slowly but surely my English got better and soon I felt fairly fluent.",
+      "answer": true,
+      "explanation": "Correct. Slowly but surely = gradually, and the order is fixed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word joins the two halves of each binomial?",
+      "categories": ["... or ...", "... but / to ..."],
+      "items": [
+        { "text": "sooner ... later", "category": 0 },
+        { "text": "all ... nothing", "category": 0 },
+        { "text": "sink ... swim", "category": 0 },
+        { "text": "give ... take", "category": 0 },
+        { "text": "slowly ... surely", "category": 1 },
+        { "text": "back ... front", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. Robin's office is on the next floor to mine, so ...",
+      "words": ["we", "have", "to", "go", "up", "and", "down", "all", "day"],
+      "answer": "we have to go up and down all day",
+      "explanation": "Up and down = in both directions."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "number": 3,
+  "title": "Using your dictionary",
+  "subtitle": "stress, usage, transitive, countable, [C] and [U]",
+  "summary": "Learn what a good learners' dictionary tells you about a word - stress, grammar patterns, collocations, synonyms and word class - and how to read its abbreviations.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The basics: pronunciation and stress",
+      "text": "A good learners' dictionary, in book form or online, shows you how a word sounds. It gives the sounds in special symbols, and it marks the **word stress**, usually with a mark before the stressed syllable, or with underlining or bold type.",
+      "examples": [
+        { "text": "**u**nique has the stress on the second syllable, but **el**egant has it on the first." },
+        { "text": "The noun **ex**tract and the verb ex**tract** are spelled the same but stressed differently." },
+        { "text": "The noun **rec**ord and the verb re**cord** follow the same pattern." }
+      ],
+      "note": "Remember: a two-syllable word that is both noun and verb very often stresses the first syllable as a noun and the second as a verb."
+    },
+    {
+      "type": "explain",
+      "heading": "Usage: the grammar pattern",
+      "text": "The dictionary shows the **grammatical pattern** that goes with a word. This is where most learner mistakes come from, so read the pattern and the examples, not just the definition.",
+      "examples": [
+        { "text": "**suggest** + clause: I **suggest you ring** her right away.", "wrong": "I suggest you to ring her right away" },
+        { "text": "**supply** something **to** somebody: Brazil **supplies** coffee **to** many countries.", "wrong": "supplies coffee at many countries" },
+        { "text": "**supply** somebody **with** something: The officer **supplied** each soldier **with** a map.", "wrong": "supplied each soldier a map" },
+        { "text": "**deny** + *-ing* or **deny that** ...: The Minister **denied having received** any money.", "wrong": "denied to have received" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Transitive and intransitive",
+      "left": {
+        "label": "transitive [T] - needs an object",
+        "text": "A **transitive** verb must be followed by an object.",
+        "examples": [
+          "He **caught the ball** and threw it back to me.",
+          "Three people have been arrested for **supplying arms**.",
+          "He will not confirm or **deny the allegations**."
+        ]
+      },
+      "right": {
+        "label": "intransitive [I] - no object",
+        "text": "An **intransitive** verb does not need an object.",
+        "examples": [
+          "She **laughed** when I told her the news.",
+          "The children were **yawning**.",
+          "Prices **rose** sharply last year."
+        ]
+      },
+      "note": "Some verbs are marked [I or T], which means they can be used either way."
+    },
+    {
+      "type": "explain",
+      "heading": "Extra information a good dictionary gives",
+      "text": "Besides meaning, a learners' dictionary tells you about **synonyms** and **antonyms**, the word's usual **collocations**, and whether an adjective is used about **people**, about **things**, or about both.",
+      "examples": [
+        { "text": "Synonyms: **mislay** and **misplace** mean the same." },
+        { "text": "Antonyms: the opposite of **friend** is **enemy** or, more formally, **foe**." },
+        { "text": "Collocations of *firm*: a **firm commitment**, a **firm grip**, a **firm believer**." },
+        { "text": "**hurtful** (adjective) = causing emotional pain. It is used about a thing someone says and about the person: That was a very **hurtful** remark! How can you be so **hurtful**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Dictionary abbreviations",
+      "columns": ["Abbreviation", "What it means"],
+      "rows": [
+        ["(n)", "noun"],
+        ["(adj)", "adjective"],
+        ["(adv)", "adverb"],
+        ["(pron)", "pronoun"],
+        ["(prep)", "preposition"],
+        ["(conj)", "conjunction"],
+        ["noun [C] / noun [U]", "countable noun / uncountable noun"],
+        ["verb [T] / verb [I] / verb [I or T]", "transitive / intransitive / either"],
+        ["UK", "United Kingdom, i.e. British English usage"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Networks of meaning",
+      "text": "Some online dictionaries show you a **visual thesaurus** - a display of the words related in meaning to the one you looked up. This is very useful in writing, when you want to **vary** your adjectives instead of repeating one.",
+      "examples": [
+        { "text": "Adjectives close to **fascinating**: enchanting, enthralling, captivating, entrancing, bewitching." },
+        { "text": "Adjectives close to **fascinating** in the sense of holding your attention: absorbing, engrossing, riveting, gripping." },
+        { "text": "The novel was so **gripping** that I read it in one evening." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you look a word up, copy the example sentence, not just the definition - the example carries the grammar pattern and the collocations with it."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "What does each dictionary abbreviation mean?",
+      "pairs": [
+        { "left": "(pron)", "right": "pronoun" },
+        { "left": "(conj)", "right": "conjunction" },
+        { "left": "(prep)", "right": "preposition" },
+        { "left": "noun [C]", "right": "countable noun" },
+        { "left": "noun [U]", "right": "uncountable noun" },
+        { "left": "verb [T]", "right": "transitive verb" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In a dictionary entry, what does *verb [I or T]* tell you?",
+      "options": [
+        "The verb can be used with or without an object.",
+        "The verb is irregular or transitive.",
+        "The verb is informal or technical.",
+        "The verb must always have an object."
+      ],
+      "answer": 0,
+      "explanation": "[I or T] means the verb can be intransitive or transitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does the label *UK* mean next to a word?",
+      "options": [
+        "It is British English usage.",
+        "It is an old-fashioned word.",
+        "It is only used in writing.",
+        "It is a proper noun."
+      ],
+      "answer": 0,
+      "explanation": "UK marks a word or spelling used in British English."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does the stress fall in each word?",
+      "categories": ["First syllable", "Second syllable"],
+      "items": [
+        { "text": "elegant", "category": 0 },
+        { "text": "urgently", "category": 0 },
+        { "text": "eyebrow", "category": 0 },
+        { "text": "lifestyle", "category": 0 },
+        { "text": "unique", "category": 1 },
+        { "text": "to record", "category": 1 },
+        { "text": "thermometer", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Correct the sentence: Brazil supplies coffee ___ many countries.",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "The pattern is supply something to somebody."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Correct the sentence: The officer supplied each soldier ___ a map.",
+      "hint": "(one word)",
+      "answers": ["with"],
+      "explanation": "The other pattern is supply somebody with something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Correct the sentence: The Minister denied ___ any money from the oil company.",
+      "hint": "(receive)",
+      "answers": ["having received", "receiving"],
+      "explanation": "Deny is followed by an -ing form or by a that-clause, never by an infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "I suggest you to ring her right away.",
+      "answer": false,
+      "explanation": "I suggest you ring her right away. Suggest is followed by a clause, not an infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "*Laugh* is an intransitive verb, so it does not need an object.",
+      "answer": true,
+      "explanation": "Correct: She laughed when I told her the news."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each adjective used about people, about things, or about both?",
+      "categories": ["People only", "Things only", "Both"],
+      "items": [
+        { "text": "content", "category": 0 },
+        { "text": "damp", "category": 1 },
+        { "text": "compulsory", "category": 1 },
+        { "text": "sad", "category": 2 },
+        { "text": "lucky", "category": 2 },
+        { "text": "awkward", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with the information a dictionary would give about it.",
+      "pairs": [
+        { "left": "mislay", "right": "synonym: misplace" },
+        { "left": "friend", "right": "antonym: enemy, foe" },
+        { "left": "firm", "right": "collocations: commitment, grip, believer" },
+        { "left": "hurtful", "right": "used about a remark and about a person" },
+        { "left": "catch", "right": "transitive: it must have an object" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a natural sentence with a synonym of *fascinating*.",
+      "words": ["The", "novel", "was", "so", "gripping", "that", "I", "couldn't", "put", "it", "down."],
+      "answer": "The novel was so gripping that I couldn't put it down.",
+      "explanation": "Gripping, riveting, absorbing and engrossing all describe something that holds your attention completely."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "number": 54,
+  "title": "Computers",
+  "subtitle": "log in, back up, hard drive",
+  "summary": "Name the parts of a computer and talk about logging in, saving, backing up and installing software.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parts of a computer",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["**screen**", "the flat part you look at"],
+        ["**keyboard**", "the part with the letters and numbers that you type on"],
+        ["**spacebar**", "the long key at the bottom of the keyboard that makes a space"],
+        ["**escape key**", "the key at the top left that stops what you are doing"],
+        ["**mouse**", "the small thing you move with your hand to control the screen"],
+        ["**mouse mat**", "the flat square that the mouse sits on"],
+        ["**printer**", "the machine that puts your document on paper"],
+        ["**webcam**", "the little camera that lets other people see you"],
+        ["**microphone**", "the part that picks up your voice"],
+        ["**memory stick**", "a small thing you put into the computer to carry files"],
+        ["**CD-ROM**", "a disc that holds information you can read on a computer"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Starting work",
+      "text": "First you **switch on** your computer. Then you may need to **log in** (or **log on**) with your **username** and **enter your password**. Your password is a special word that only you know. If you **double-click** on an **icon**, a small picture on the screen, you **open an application** such as email or an Internet browser.",
+      "examples": [
+        { "text": "I **switched on** the computer and waited.", "note": "= turned on" },
+        { "text": "You can't **log in** without a **username** and a **password**." },
+        { "text": "**Double-click** on the **icon** to open the program." },
+        { "text": "When you finish, don't forget to **log out**.", "note": "or log off; opposite of log in" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Storing and backing up",
+      "text": "Computers can **store** large amounts of information. But while you are working it is important to **back up** your files. That means you make an extra copy of them, called a **backup**. Then you do not lose your work if something goes wrong.",
+      "examples": [
+        { "text": "This computer can **store** thousands of photos.", "note": "= keep" },
+        { "text": "I **back up** my files at the end of every day." },
+        { "text": "The data is on the hard disk, but I always make a **backup**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Working with documents",
+      "text": "To **create** a new document, select *new* from the **File menu**. You can **copy and paste** information from one file into another, or **cut** it if you want to remove it. If you **save** the document, you can **print it out** later. The paper copy is a **hard copy** or a **printout**.",
+      "examples": [
+        { "text": "**Create** a new document and give it a name.", "note": "= make or start" },
+        { "text": "I **copied** the address and **pasted** it into my email." },
+        { "text": "**Save** the document in case the computer **crashes**.", "note": "crash = suddenly stop working" },
+        { "text": "Press the **escape key** to **exit**.", "note": "exit = stop using an application" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions people ask about computers",
+      "columns": ["Question", "What the words mean"],
+      "rows": [
+        ["Do you have a **PC** or a **laptop**?", "PC is short for personal computer; a laptop is a small computer you can carry around"],
+        ["What **hard drive** do you have?", "the part inside the computer that stores large amounts of information; also called the hard disk"],
+        ["What **operating system** are you using?", "the software, e.g. Windows or Mac OS, that controls how the computer works"],
+        ["Have you **installed** any new **software**?", "install = put new programs onto your computer"],
+        ["Do you have **anti-virus software**?", "a **virus** is a program put on a computer to destroy or steal information; anti-virus software stops it getting in"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We log in **to** a computer but back up files - and the noun is written as one word: make a **backup**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the word on the left with the word that goes with it.",
+      "pairs": [
+        { "left": "memory", "right": "stick" },
+        { "left": "operating", "right": "system" },
+        { "left": "anti-virus", "right": "software" },
+        { "left": "mouse", "right": "mat" },
+        { "left": "escape", "right": "key" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A small computer that you can carry round with you is a ___.",
+      "hint": "(one word)",
+      "answers": ["laptop"],
+      "explanation": "A laptop is a small computer you can carry around."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The special word you type into your computer that only you know is your ___.",
+      "hint": "(one word)",
+      "answers": ["password"],
+      "explanation": "You enter your password when you log in."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Computer software that controls how the different parts work together is the ___.",
+      "options": ["operating system", "hard copy", "memory stick", "mouse mat"],
+      "answer": 0,
+      "explanation": "Windows and Mac OS are operating systems."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The part inside the computer that stores large amounts of information is the hard ___.",
+      "hint": "(one word)",
+      "answers": ["drive", "disk", "disc"],
+      "explanation": "The hard drive, also called the hard disk, stores the information."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A program secretly put on a computer to destroy the information on it is a ___.",
+      "hint": "(one word)",
+      "answers": ["virus"],
+      "explanation": "A virus destroys or steals the information on a computer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How often do you ___ your files? *B:* At the end of every day if I can remember.",
+      "hint": "(two words)",
+      "answers": ["back up", "backup"],
+      "explanation": "Back up = make an extra copy of your files."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you ___ the software yourself? *B:* No, I don't understand anything about computers. My wife did it for me.",
+      "hint": "(one word)",
+      "answers": ["install"],
+      "explanation": "Install = put new programs onto your computer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How do I create a new document? *B:* Just select new from the File ___.",
+      "hint": "(one word)",
+      "answers": ["menu"],
+      "explanation": "You start a new document from the File menu."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you want to stop using an application, you can press the escape key to exit.",
+      "answer": true,
+      "explanation": "Correct. Exit means stop using an application."
+    },
+    {
+      "type": "true_false",
+      "statement": "When your computer suddenly stops working, we say it saves.",
+      "answer": false,
+      "explanation": "When your computer suddenly stops working, we say it crashes."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you do these things at the start of your work, or with a document?",
+      "categories": ["Getting into the computer", "Working on a document"],
+      "items": [
+        { "text": "enter your password", "category": 0 },
+        { "text": "log in", "category": 0 },
+        { "text": "double-click on an icon", "category": 0 },
+        { "text": "copy and paste", "category": 1 },
+        { "text": "save", "category": 1 },
+        { "text": "print out", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about the programs someone has put on their computer.",
+      "words": ["Have", "you", "installed", "any", "new", "software?"],
+      "answer": "Have you installed any new software?",
+      "explanation": "Install software = put new programs onto your computer."
+    }
+  ]
+}

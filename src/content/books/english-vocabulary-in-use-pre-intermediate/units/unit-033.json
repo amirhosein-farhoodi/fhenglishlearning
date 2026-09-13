@@ -1,0 +1,192 @@
+{
+  "number": 33,
+  "title": "Studying English and taking exams",
+  "subtitle": "fluent, accurate, pass an exam",
+  "summary": "Describe how well someone speaks English and talk about revising for exams and passing them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Vocabulary, accuracy and fluency",
+      "text": "Nastya is an English teacher. She says Jade has a **wide vocabulary** and speaks very **accurately**, but she needs to practise more to become **fluent**.",
+      "examples": [
+        { "text": "Jade has a **wide vocabulary**.", "note": "= she knows a lot of words" },
+        { "text": "She speaks very **accurately**.", "note": "= without mistakes" },
+        { "text": "Elke is quite **fluent**.", "note": "= able to speak naturally without stopping" },
+        { "text": "Jose's vocabulary is quite **basic**, so he needs to **increase** it.", "note": "basic = elementary, simple; increase = make it bigger" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Accent, vowels and consonants",
+      "text": "Your **accent** is the way you pronounce words. The letters a, e, i, o and u are the **vowels**; all the other letters of the **alphabet** are **consonants**.",
+      "examples": [
+        { "text": "His **accent** isn't very good; in particular he has problems with certain **consonants**." },
+        { "text": "There are twenty-six letters in the **alphabet**." },
+        { "text": "Jose has no problem **making himself understood**.", "note": "= saying things in a way people understand" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Making progress",
+      "text": "Olga is always **willing to experiment with language**, so she sometimes **gets things wrong**, but she learns from her mistakes and is **making a lot of progress**. Andreas **picks things up** very quickly and has **a good ear for language**.",
+      "examples": [
+        { "text": "She is **willing to** try new words.", "note": "= happy and ready to" },
+        { "text": "She sometimes **gets things wrong**.", "note": "= makes mistakes" },
+        { "text": "He **picks** new words **up** very quickly.", "note": "= learns them without trying" },
+        { "text": "He has **a good ear for language**.", "note": "= he is good at hearing and repeating sounds and words" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Adjective or adverb?",
+      "left": {
+        "label": "Adjective with a noun",
+        "examples": [
+          "He's a **fluent** speaker.",
+          "She's a very **accurate** writer.",
+          "I need good English."
+        ]
+      },
+      "right": {
+        "label": "Adverb with a verb",
+        "examples": [
+          "He speaks **fluently**.",
+          "She writes very **accurately**.",
+          "I need to speak English **well**."
+        ]
+      },
+      "note": "Not a fluently speaker, not she speaks accurate, and not I speak English good."
+    },
+    {
+      "type": "explain",
+      "heading": "Exams: the verbs",
+      "text": "You **take** or **do** an exam - never *make* an exam. Before the exam you **revise for** it. If you are successful and **do well**, you **pass**; if you do badly, you **fail**. Sometimes you can **retake** an exam, that is, do it again.",
+      "examples": [
+        { "text": "Tomas wants to **take** the exam in June.", "wrong": "make the exam" },
+        { "text": "I have to **revise for** my exam next week.", "note": "= study and prepare for it" },
+        { "text": "I'm sure she'll **pass** the exam." },
+        { "text": "Karin **failed** the exam, but she can **retake** it next year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Around the exam",
+      "text": "A **candidate** is someone taking an exam. If you do well you get a good **grade** (or **mark**). Preparing is **hard work**, but you **do your best**, do some **revision** and some **exam preparation**, and **work on** the things you find difficult.",
+      "examples": [
+        { "text": "There are over 100 **candidates** taking the exam." },
+        { "text": "A+ is the highest **grade** you can get." },
+        { "text": "He's **doing his best**.", "note": "syn trying his best" },
+        { "text": "I'm trying to **get through** the coursebook.", "note": "= finish it" },
+        { "text": "I want the students to write an **essay**.", "note": "an essay = a short piece of writing on one subject" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The verb is **revise**, the noun is **revision**: *I must revise tonight* = *I must do some revision tonight*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "My sister picks ___ languages very quickly.",
+      "options": ["up", "out", "on", "in"],
+      "answer": 0,
+      "explanation": "Pick something up = learn it without really trying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I will have to revise ___ my exam next week.",
+      "hint": "(one small word)",
+      "answers": ["for"],
+      "explanation": "We revise for an exam."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The students always ___ their best.",
+      "options": ["do", "make", "take", "get"],
+      "answer": 0,
+      "explanation": "Do your best = make as much effort as you can. You can also say try your best."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Karin ___ the exam, but she can retake it next year.",
+      "options": ["failed", "lost", "missed", "dropped"],
+      "answer": 0,
+      "explanation": "You pass an exam if you are successful and fail it if you are not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A+ is the highest ___ you can get.",
+      "hint": "(one word)",
+      "answers": ["grade", "mark"],
+      "explanation": "Grade and mark both mean the result you get in an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are over 100 ___ taking the exam.",
+      "hint": "(one word, plural)",
+      "answers": ["candidates"],
+      "explanation": "A candidate is someone who is taking an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had to write an ___ for homework in not more than 200 words.",
+      "hint": "(one word)",
+      "answers": ["essay"],
+      "explanation": "An essay is a short piece of writing about a particular subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need to ___ my vocabulary; it's still very basic.",
+      "hint": "(one word - make it bigger)",
+      "answers": ["increase"],
+      "explanation": "Increase your vocabulary = learn more words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Does Victor know a lot of English? *B:* No, but he can make himself ___.",
+      "hint": "(one word)",
+      "answers": ["understood"],
+      "explanation": "Make yourself understood = say things in a way people understand."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the letter a vowel or a consonant?",
+      "categories": ["Vowels", "Consonants"],
+      "items": [
+        { "text": "a", "category": 0 },
+        { "text": "e", "category": 0 },
+        { "text": "i", "category": 0 },
+        { "text": "b", "category": 1 },
+        { "text": "c", "category": 1 },
+        { "text": "d", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "fluent", "right": "able to speak without stopping" },
+        { "left": "accurate", "right": "without mistakes" },
+        { "left": "accent", "right": "the way you pronounce words" },
+        { "left": "basic", "right": "simple and elementary" },
+        { "left": "revision", "right": "study before an exam" },
+        { "left": "candidate", "right": "someone taking an exam" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that you are good at hearing and repeating new sounds.",
+      "words": ["I", "have", "a", "good", "ear", "for", "language."],
+      "answer": "I have a good ear for language.",
+      "explanation": "A good ear for language = you are good at hearing, repeating and understanding sounds and words."
+    },
+    {
+      "type": "true_false",
+      "statement": "Andreas is a fluently speaker with a very wide vocabulary.",
+      "answer": false,
+      "explanation": "Andreas is a fluent speaker with a very wide vocabulary. Use the adjective fluent with a noun, and the adverb fluently with a verb."
+    }
+  ]
+}

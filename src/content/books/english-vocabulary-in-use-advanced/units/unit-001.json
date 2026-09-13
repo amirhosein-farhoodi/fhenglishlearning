@@ -1,0 +1,213 @@
+{
+  "number": 1,
+  "title": "Cramming for success: study and academic work",
+  "subtitle": "cram, revision, plagiarism, dissertation",
+  "summary": "Talk precisely about studying, exams and academic writing, from cramming and rote-learning to deadlines, plagiarism and peer-reviewed papers.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study and exams",
+      "text": "Before an exam, some students **cram** for it - they study in a very concentrated way for a short time. Even a **genius** (an exceptionally clever person) has to do some **revision**. If the exam comes round every year, you can revise by looking at **past papers**, the exam papers from previous years.",
+      "examples": [
+        { "text": "I **crammed** all weekend and still ran out of time in the exam." },
+        { "text": "How much **revision** have you done for tomorrow's maths exam?" },
+        { "text": "The best preparation is working through half a dozen **past papers**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Learning by heart, and beyond",
+      "text": "Some things can be **memorised** or **learnt (off) by heart**. But **rote-learning** - learning purely by repetition - is not enough for most subjects. You can also use **mnemonics**: tricks that help you remember something. All things considered, the best idea is to **bury yourself in your books** and study **intensively** until you **know the subject inside out**.",
+      "examples": [
+        { "text": "She learnt the whole periodic table **off by heart**." },
+        { "text": "'i before e except after c' is a **mnemonic** for English spelling.", "note": "friend, but receive" },
+        { "text": "Caspar is bound to do well in mechanics - he **knows the subject inside out**." },
+        { "text": "For the last fortnight he has **buried himself in his books** and studied **intensively**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Kinds of written work",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["composition", "just 50-100 words, often used for school work"],
+        ["essay", "longer and more serious than a composition; hundreds or thousands of words"],
+        ["assignment", "a long essay, often part of a course, usually thousands of words"],
+        ["project", "like an assignment, but the emphasis is on the student's own material and topic"],
+        ["portfolio", "a collection of individual pieces of work, which may include drawings and other creative work"],
+        ["dissertation", "a long, research-based work, perhaps 10,000-15,000 words, for a degree or diploma"],
+        ["thesis", "a very long, original, research-based work, perhaps 80,000-100,000 words, for a higher degree such as a PhD"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Writing an essay",
+      "text": "It is a good idea to start with a **mind map**, a diagram that lays out your ideas and how they connect. Always write a **first draft** - a first, rough version - before you **write up** the final one. Your essay must be all your own work: **plagiarism**, using other people's work as if it were yours, is a very serious offence.",
+      "examples": [
+        { "text": "**Plagiarism** is an increasing problem because it is so easy to cut and paste from the internet." },
+        { "text": "Don't forget to sign the **plagiarism form** and hand it in with your dissertation." },
+        { "text": "If you quote an article, you must **acknowledge** your source, giving the author and title.", "note": "acknowledge = give details of" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Deadlines, submitting and feedback",
+      "text": "There is usually a **deadline** - the date by which you must hand the work in. After the essay is **submitted** (the formal word for handed in), it will be **assessed**, that is evaluated and given a grade, and usually you can get **feedback**, the teacher's or tutor's comments.",
+      "examples": [
+        { "text": "The **deadline** for the second assignment is midnight on Friday." },
+        { "text": "All coursework must be **submitted** electronically and will be **assessed** by two markers." },
+        { "text": "The **feedback** on my first draft was blunt but extremely useful." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Higher academic study",
+      "text": "University academics **carry out research** - less formally, **do research** - and are expected to read academic **journals**, which publish **papers** or **articles** on specialised subjects. If your library has no copy, you may be able to **access** it online or get it through an **inter-library loan**, the system where libraries exchange books and journals with one another.",
+      "examples": [
+        { "text": "Orla has had a **paper** published in the British Medical Journal." },
+        { "text": "All students need a username and password to **access** journals online." },
+        { "text": "**Open educational resources** are online materials that teachers and students anywhere can use freely." }
+      ],
+      "note": "We do not call an academic journal a magazine."
+    },
+    {
+      "type": "explain",
+      "heading": "Surviving the course",
+      "text": "Academic study can be very **demanding**, and some students **drop out** - leave the course before the end. The majority, though, survive until **finals**, the last exams of a college or university course, and become **well-qualified** members of their profession.",
+      "examples": [
+        { "text": "Nearly a fifth of the first-year intake **dropped out** before Christmas." },
+        { "text": "She revised solidly for six weeks before her **finals**." },
+        { "text": "Some people take a long time to find suitable work even though they are very **well-qualified**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Cram is short and intense; revise is steady and repeated - you cram the night before, but you revise for weeks."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each kind of written work with its description.",
+      "pairs": [
+        { "left": "composition", "right": "50-100 words of school work" },
+        { "left": "portfolio", "right": "a collection of several separate pieces of work" },
+        { "left": "dissertation", "right": "research-based, about 12,000 words, for an MSc" },
+        { "left": "thesis", "right": "90,000 original words for a PhD" },
+        { "left": "project", "right": "the student chooses the topic and does the research" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His PhD ___ was 90,000 words long and was on the history of US place names.",
+      "hint": "(the longest kind of academic work)",
+      "answers": ["thesis"],
+      "explanation": "A thesis is a very long, original, research-based work for a higher degree such as a PhD."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Little Martha did her first ___ in school today. It was called 'My family'.",
+      "hint": "(a short piece of school writing)",
+      "answers": ["composition"],
+      "explanation": "A composition is a short piece, often just 50-100 words, used for school work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think I'll do a study of people's personal banking habits for my MSc ___. It has to be about 12,000 words.",
+      "hint": "(10,000-15,000 words for a degree)",
+      "answers": ["dissertation"],
+      "explanation": "A dissertation is a research-based work of around 10,000-15,000 words for a degree or diploma."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have to hand in a ___ at the end of the course. It can consist of up to five different pieces of work.",
+      "hint": "(a collection of pieces of work)",
+      "answers": ["portfolio"],
+      "explanation": "A portfolio is a collection of individual pieces of work, which may include drawings and other creative material."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I'm studying ___ because I'm cramming for an exam, I don't look at past papers.",
+      "hint": "(in a very focused way)",
+      "answers": ["intensively"],
+      "explanation": "To study intensively is to study in a very focused way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's no point in just learning things off by ___.",
+      "hint": "(memorise = learn off by ...)",
+      "answers": ["heart"],
+      "explanation": "To learn something (off) by heart is to memorise it word for word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a good idea to have some sort of ___ to organise your thoughts before you write.",
+      "hint": "(diagram of connected ideas)",
+      "answers": ["mind map", "mindmap"],
+      "explanation": "A mind map lays out ideas for a topic and shows how they connect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the end of the day, you just have to bury yourself in your books until you know the subject ___ out.",
+      "hint": "(completely)",
+      "answers": ["inside"],
+      "explanation": "To know something inside out is to know it completely."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call the first attempt at writing an essay?",
+      "options": ["a first draft", "a mind map", "a portfolio", "a paper"],
+      "answer": 0,
+      "explanation": "A first draft is the first, rough version, written before you write up the final one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which pair gives the more formal words for 'to hand in' and 'to mark'?",
+      "options": ["submit; assess", "cram; revise", "access; acknowledge", "draft; carry out"],
+      "answer": 0,
+      "explanation": "Work is submitted, then assessed - evaluated and given a grade."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the more formal way of saying 'do research'?",
+      "options": ["carry out research", "bury research", "submit research", "cram research"],
+      "answer": 0,
+      "explanation": "Academics carry out research; do research is the less formal version."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a student drops out, they leave the course before the end.",
+      "answer": true,
+      "explanation": "Correct - academic study is demanding and some students drop out before finals."
+    },
+    {
+      "type": "true_false",
+      "statement": "An academic journal can also be called an academic magazine.",
+      "answer": false,
+      "explanation": "We do not use the word magazine for this kind of academic publication - it is a journal."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word belong to exams and memorising, or to written work and research?",
+      "categories": ["Exams and memorising", "Written work and research"],
+      "items": [
+        { "text": "cram", "category": 0 },
+        { "text": "past papers", "category": 0 },
+        { "text": "mnemonic", "category": 0 },
+        { "text": "rote-learning", "category": 0 },
+        { "text": "deadline", "category": 1 },
+        { "text": "plagiarism", "category": 1 },
+        { "text": "inter-library loan", "category": 1 },
+        { "text": "feedback", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this piece of study advice in order.",
+      "words": ["The", "best", "idea", "is", "to", "bury", "yourself", "in", "your", "books"],
+      "answer": "The best idea is to bury yourself in your books",
+      "explanation": "To bury yourself in your books is to spend the maximum possible time studying."
+    }
+  ]
+}

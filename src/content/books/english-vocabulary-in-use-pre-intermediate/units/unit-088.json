@@ -1,0 +1,188 @@
+{
+  "number": 88,
+  "title": "Verb constructions 2",
+  "subtitle": "advise me to go, warn me that, remind me to",
+  "summary": "Use reporting verbs such as advise, persuade, warn, remind and encourage with the right construction after them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A great opportunity",
+      "text": "Read what a young photographer says about a job offer in Italy. Notice the verb after each person's reaction.",
+      "examples": [
+        { "text": "My best friend thought it was a fantastic opportunity and **advised me to go**." },
+        { "text": "Dad didn't try to **persuade me not to go**, but he **warned me that** it would be hard work." },
+        { "text": "He **reminded me that** it was only three months, then I'd be out of a job." },
+        { "text": "I **realised that** my girlfriend wasn't happy about it either." },
+        { "text": "I **promised her that** I would phone every day." },
+        { "text": "I **suggested that** she could come out to Italy for a holiday." },
+        { "text": "I didn't **mention that** I was part of a small team." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The verbs and their constructions",
+      "columns": ["Verb", "Meaning", "Construction"],
+      "rows": [
+        ["advise", "say what you think someone should do", "advise + object + to infinitive"],
+        ["persuade", "make someone agree to do something by talking a lot", "persuade + object + to infinitive"],
+        ["warn", "tell someone that something bad may happen", "warn + object + (that) ..."],
+        ["remind", "tell someone something so that they don't forget it", "remind + object + (that) ..."],
+        ["realise", "understand something you didn't understand before", "realise + (that) ..."],
+        ["promise", "say you will certainly do something", "promise + (object) + (that) ..."],
+        ["suggest", "tell someone about a possible idea or plan", "suggest + (that) ..."],
+        ["mention", "say something, often briefly or quickly", "mention + (that) ..."]
+      ],
+      "note": "Some of these verbs take more than one construction: I suggested going there. She warned me not to go. He reminded me to post the letter."
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + (that) ...",
+      "text": "These verbs are followed by a clause with or without **that**: **say**, **hope**, **notice**, **recommend** and **expect**.",
+      "examples": [
+        { "text": "I **said that** I was busy.", "wrong": "said him that" },
+        { "text": "I **hope (that)** you'll come and see us soon." },
+        { "text": "When I left, I **noticed that** the door was open.", "note": "notice = could see" },
+        { "text": "I **recommended that** we all go together, so no one gets lost." },
+        { "text": "I **expect (that)** he'll ring us later.", "note": "expect = think or believe something will happen" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + object + (that) ...",
+      "text": "After **tell**, **show** and **convince** you must name the person before the clause.",
+      "examples": [
+        { "text": "I **told them (that)** they could leave early." },
+        { "text": "He tried to **convince me that** I needed some new clothes.", "note": "convince = make me believe" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + object + to infinitive",
+      "text": "These verbs need a person and then **to** + infinitive: **ask**, **tell**, **want**, **allow**, **expect**, **remind**, **help** and **encourage**.",
+      "examples": [
+        { "text": "Tracey **asked me to look** after her cat." },
+        { "text": "They **told us to wait** outside." },
+        { "text": "They **want us to stay** at school.", "wrong": "want that we stay" },
+        { "text": "I had to **remind him to buy** the food." },
+        { "text": "She **helped me to write** the report.", "note": "You can also say: She helped me write the report." },
+        { "text": "My parents **encouraged me to read**.", "note": "encourage = give support and confidence" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say does not take a person: I said the film was terrible, but I told her the film was terrible."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "She encouraged me ___ for the job.",
+      "options": ["to apply", "applying", "apply", "that apply"],
+      "answer": 0,
+      "explanation": "Encourage takes an object and then a to infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She allowed us ___ home early.",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "Allow takes an object and then a to infinitive: allowed us to go."
+    },
+    {
+      "type": "true_false",
+      "statement": "He said me the film was terrible.",
+      "answer": false,
+      "explanation": "He said the film was terrible. Say does not take a person; use tell for that: He told me the film was terrible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She advised me ___ a dictionary.",
+      "hint": "(buy)",
+      "answers": ["to buy"],
+      "explanation": "Advise takes an object and then a to infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He reminded me ___ to the bank before it closed.",
+      "hint": "(go)",
+      "answers": ["to go"],
+      "explanation": "Remind + object + to infinitive: he reminded me to go."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I want ___ now.",
+      "options": ["him to leave", "that he leaves", "that he leave", "he to leave"],
+      "answer": 0,
+      "explanation": "Want takes an object and a to infinitive, never a that clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The path was dangerous, so I warned them ___ there alone.",
+      "hint": "(not / go)",
+      "answers": ["not to go"],
+      "explanation": "Warn + object + not to + infinitive."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its meaning.",
+      "pairs": [
+        { "left": "persuade", "right": "make someone agree by talking a lot" },
+        { "left": "warn", "right": "say that something bad may happen" },
+        { "left": "mention", "right": "say something briefly or quickly" },
+        { "left": "convince", "right": "make someone believe something" },
+        { "left": "encourage", "right": "give someone support and confidence" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When we went in, I ___ that people were looking at us.",
+      "hint": "(notice - past)",
+      "answers": ["noticed"],
+      "explanation": "Notice means you could see something. It is followed by a that clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't want the job, but my mother ___ me to take it.",
+      "hint": "(talked to me until I agreed)",
+      "answers": ["persuaded"],
+      "explanation": "Persuade + object + to infinitive: persuaded me to take it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wasn't sure about the plan, but my boss ___ me that it would work.",
+      "hint": "(made me believe it)",
+      "answers": ["convinced"],
+      "explanation": "Convince + object + (that) ... means make someone believe something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fortunately Aidan ___ me that it was Marsha's birthday; I'd forgotten.",
+      "hint": "(so that I didn't forget)",
+      "answers": ["reminded"],
+      "explanation": "Remind + object + (that) ... means tell someone so they do not forget."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which construction does each verb take?",
+      "categories": ["+ object + to infinitive", "+ (that) ... (no object)"],
+      "items": [
+        { "text": "encourage", "category": 0 },
+        { "text": "allow", "category": 0 },
+        { "text": "want", "category": 0 },
+        { "text": "ask", "category": 0 },
+        { "text": "say", "category": 1 },
+        { "text": "hope", "category": 1 },
+        { "text": "notice", "category": 1 },
+        { "text": "realise", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order.",
+      "words": ["She", "helped", "me", "to", "write", "the", "report"],
+      "answer": "She helped me to write the report",
+      "explanation": "Help takes an object and then to + infinitive. You can also leave out to: She helped me write the report."
+    }
+  ]
+}

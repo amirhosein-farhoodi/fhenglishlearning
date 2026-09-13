@@ -1,0 +1,180 @@
+{
+  "number": 57,
+  "title": "Words and prepositions",
+  "subtitle": "listen to, wait for, good at, proud of",
+  "summary": "Use the right preposition after common verbs and adjectives - listen to, wait for, good at, afraid of.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Verbs and their prepositions",
+      "columns": ["Verb + preposition", "Example"],
+      "rows": [
+        ["**listen to**", "I **listen to** the radio in bed in the morning."],
+        ["**wait for**", "I **waited for** the bus for half an hour yesterday."],
+        ["**ask for**", "I **asked for** a black coffee, not a white one."],
+        ["**pay for**", "Where do I **pay for** our meal?"],
+        ["**come to**", "I hope you can **come to** my party."],
+        ["**belong to**", "This book **belongs to** Sarah Smith."],
+        ["**think about**", "What are you **thinking about**?"],
+        ["**thank someone for**", "Lauren **thanked** her mother **for** the present."],
+        ["**apologise for**", "Damian **apologised for** being late."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Four ways to look",
+      "text": "The verb **look** changes its meaning with a different preposition. Learn the four together.",
+      "examples": [
+        { "text": "I love **looking at** old photographs.", "note": "= watching them with your eyes" },
+        { "text": "If you want to find your key, you must **look for** it.", "note": "= try to find it" },
+        { "text": "Parents **look after** their children.", "note": "= take care of them" },
+        { "text": "I'm **looking forward to** my party.", "note": "= something nice in the future" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives and their prepositions",
+      "columns": ["Adjective + preposition", "Example"],
+      "rows": [
+        ["**good at** / **bad at**", "I'm **good at** geography but **bad at** maths."],
+        ["**interested in**", "I'm **interested in** all your news."],
+        ["**afraid of**", "He is **afraid of** mice."],
+        ["**proud of**", "Lucy is **proud of** winning a medal, and her mother is **proud of** her."],
+        ["**happy about**", "She's a lovely person and I'm really **happy about** her success."]
+      ],
+      "note": "We say **happy about** her success - not ~~happy for her success~~."
+    },
+    {
+      "type": "compare",
+      "heading": "used to / get used to",
+      "left": {
+        "label": "be used to",
+        "text": "You know it well; it is normal for you.",
+        "examples": ["I'm **used to** getting up early. I always do.", "Hiroshi was **used to** traffic jams.", "He wasn't **used to** British money."]
+      },
+      "right": {
+        "label": "get used to",
+        "text": "Something is new, and you are learning to live with it.",
+        "examples": ["You have to **get used to** a new school.", "You have to **get used to** driving on the other side of the road.", "Josephine has **got used to** her new school."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Grammar: what comes after a preposition",
+      "text": "After a preposition we use a **noun** or the **-ing** form of the verb. We never use the infinitive.",
+      "examples": [
+        { "text": "Artur is good at **tennis**.", "note": "preposition + noun" },
+        { "text": "Artur is good at **playing** the piano.", "wrong": "good at play" },
+        { "text": "Damian apologised for **being** late.", "wrong": "apologised for be" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Look carefully at prepositions when you read in English, and write down any new phrase with its preposition."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "This bicycle belongs ___ the hotel.",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "Something belongs to a person or a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Javier is thinking ___ the holidays.",
+      "hint": "(one word)",
+      "answers": ["about"],
+      "explanation": "We think about something."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        { "left": "John is waiting", "right": "for a train to London." },
+        { "left": "The children thanked their aunt", "right": "for the money." },
+        { "left": "Molly is listening", "right": "to music on her phone." },
+        { "left": "He apologised", "right": "for his mistake." },
+        { "left": "Let me pay", "right": "for our tickets." },
+        { "left": "Over 100 people came", "right": "to the football match." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A nurse looks ___ people in hospital.",
+      "options": ["after", "for", "at", "forward to"],
+      "answer": 0,
+      "explanation": "Look after someone means take care of them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't find my glasses. Could you help me look ___ them?",
+      "hint": "(one word)",
+      "answers": ["for"],
+      "explanation": "Look for something means try to find it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's my birthday soon. I'm really looking ___ my party.",
+      "hint": "(two words)",
+      "answers": ["forward to"],
+      "explanation": "We look forward to something nice in the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why are you looking ___ me in that way? Is my face dirty?",
+      "hint": "(one word)",
+      "answers": ["at"],
+      "explanation": "Look at someone means watch them with your eyes."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form of look goes with each thing?",
+      "categories": ["look at", "look for", "look after"],
+      "items": [
+        { "text": "old photographs", "category": 0 },
+        { "text": "a beautiful picture", "category": 0 },
+        { "text": "a key you cannot find", "category": 1 },
+        { "text": "your lost glasses", "category": 1 },
+        { "text": "young children", "category": 2 },
+        { "text": "someone who is ill", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Josephine is very good ___ English and maths.",
+      "hint": "(one word)",
+      "answers": ["at"],
+      "explanation": "We are good at or bad at a subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her parents were very proud ___ her when she won a medal.",
+      "hint": "(one word)",
+      "answers": ["of"],
+      "explanation": "We are proud of someone or something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She is very interested ___ sport.",
+      "options": ["in", "at", "of", "on"],
+      "answer": 0,
+      "explanation": "We are interested in something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Artur is good at ___ the piano.",
+      "options": ["playing", "play", "to play", "plays"],
+      "answer": 0,
+      "explanation": "After a preposition we use the -ing form of the verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "She's a lovely person and I'm really happy for her success.",
+      "answer": false,
+      "explanation": "She's a lovely person and I'm really happy about her success."
+    }
+  ]
+}

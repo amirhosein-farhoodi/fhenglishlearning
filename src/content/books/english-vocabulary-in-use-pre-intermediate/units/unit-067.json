@@ -1,0 +1,207 @@
+{
+  "number": 67,
+  "title": "Opinions, agreeing and disagreeing",
+  "subtitle": "Personally, I think ..., I agree to a certain extent",
+  "summary": "Ask for and give opinions, report other people's opinions, and agree or disagree politely or strongly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Asking someone for their opinion",
+      "columns": ["Question", "Use it for"],
+      "rows": [
+        ["**What do you think of** his new book?", "a specific thing or person"],
+        ["**What do you think about** global warming?", "a general topic"],
+        ["**How do you feel about** working with the others?", "how someone feels about an activity"]
+      ],
+      "note": "After think about, think of and feel about we use a noun or the -ing form."
+    },
+    {
+      "type": "explain",
+      "heading": "Introducing your own opinion",
+      "text": "**Personally** is the easiest and most natural word to use in most situations. **In my opinion** and **My view/feeling is that** are a little more formal.",
+      "examples": [
+        { "text": "**Personally**, I think Helena was probably right." },
+        { "text": "**Personally**, I feel that we should increase the price." },
+        { "text": "**In my opinion**, we need to change the direction of the company.", "note": "in my opinion = I think" },
+        { "text": "**My view/feeling is that** we need to wait a bit longer." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say **Personally, I don't think it's a good idea**, not ~~I think it's not a good idea~~. And say **in my opinion**, not ~~on my opinion~~ or ~~in my meaning~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Giving the opinion of others",
+      "text": "To report what someone else says, use **X says that ...** or **According to X, ...**",
+      "examples": [
+        { "text": "The newspaper **says that** his death was not an accident.", "wrong": "It's written in the newspaper" },
+        { "text": "**According to** the paper, the government didn't know about it.", "note": "according to the paper = the paper says" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Agreeing and disagreeing",
+      "text": "You can agree completely or only partly. Note the grammar: we say **I agree with you**, never ~~I'm agree with you~~, and **Do you agree?**, never ~~Are you agree?~~",
+      "examples": [
+        { "text": "I **totally agree** (with you).", "note": "= agree completely, 100%" },
+        { "text": "I **partly agree** (with you).", "note": "= agree but not completely" },
+        { "text": "I agree (with you) **to a certain extent**.", "note": "= partly agree; you can also say to some extent" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Agreeing first, then disagreeing",
+      "columns": ["Phrase", "What it means"],
+      "rows": [
+        ["**That's true**, but I think ...", "you accept part of what they said"],
+        ["**I see what you mean**, but ...", "I understand what you are saying"],
+        ["**I agree to some extent**, but ...", "I agree, but not completely"],
+        ["**I think that's a good point**, but ...", "a point = an idea or opinion"],
+        ["**I take your point**, but ...", "I understand and partly agree with your opinion"]
+      ],
+      "note": "In British English it is common to agree with someone before giving a different opinion."
+    },
+    {
+      "type": "compare",
+      "heading": "Strong opinions",
+      "left": {
+        "label": "Strong agreement",
+        "examples": [
+          "I **totally agree** with you.",
+          "I think you're **absolutely right**.",
+          "I **feel very strongly about** military service."
+        ]
+      },
+      "right": {
+        "label": "Strong disagreement",
+        "examples": [
+          "I **don't agree at all**.",
+          "I **disagree completely**.",
+          "I think you're **absolutely wrong**."
+        ]
+      },
+      "note": "Absolutely right / absolutely wrong = 100% correct / 100% wrong."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Ask about a specific thing: 'What do you think ___ these shoes? Do you like them?'",
+      "hint": "(one word)",
+      "answers": ["of", "about"],
+      "explanation": "We use What do you think of ...? for a specific thing or person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ask about an activity: 'How do you ___ about having more responsibility?'",
+      "hint": "(one verb)",
+      "answers": ["feel"],
+      "explanation": "How do you feel about ...? asks how someone feels about an activity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you think he was right in what he said? *B:* Not completely, but I ___ agreed with him.",
+      "hint": "(one word - not 100%)",
+      "answers": ["partly"],
+      "explanation": "Partly agree = agree but not completely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you agree with her? *B:* Yes, to a certain ___.",
+      "hint": "(one noun)",
+      "answers": ["extent"],
+      "explanation": "To a certain extent (or to some extent) means partly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* She feels very ___ about protecting the environment. *B:* Yes, I know.",
+      "hint": "(one adverb)",
+      "answers": ["strongly"],
+      "explanation": "Feel strongly about something = have a very strong opinion about it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*B:* ... and I think she's absolutely ___. She's 100% correct.",
+      "hint": "(one adjective)",
+      "answers": ["right"],
+      "explanation": "Absolutely right = 100% correct. The opposite is absolutely wrong."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___, I think all politicians tell lies. *B:* Sorry, but I disagree completely.",
+      "hint": "(one word - the most natural way to start your opinion)",
+      "answers": ["Personally", "personally"],
+      "explanation": "Personally is the easiest and most natural way to introduce your own opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* We can't send everyone to university. *B:* Yes, that's ___, but we should give everyone a chance to go.",
+      "hint": "(one adjective)",
+      "answers": ["true"],
+      "explanation": "That's true, but ... agrees first, then gives a different opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I see what you ___ about spending more money, but can we afford it?",
+      "hint": "(one verb)",
+      "answers": ["mean"],
+      "explanation": "I see what you mean = I understand what you are saying."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite with OPINION: 'I think the club needs new players.'",
+      "options": [
+        "In my opinion the club needs new players.",
+        "On my opinion the club needs new players.",
+        "In my meaning the club needs new players.",
+        "At my opinion the club needs new players."
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is in my opinion."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite with ACCORDING: 'The newspaper says the fire was started on purpose.'",
+      "options": [
+        "According to the newspaper, the fire was started on purpose.",
+        "According the newspaper, the fire was started on purpose.",
+        "According to the newspaper says the fire was started on purpose.",
+        "It's written in the newspaper the fire was started on purpose."
+      ],
+      "answer": 0,
+      "explanation": "According to + the source. It means 'the newspaper says'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite with AT ALL: 'I completely disagree with you.'",
+      "words": ["I", "don't", "agree", "with", "you", "at", "all."],
+      "answer": "I don't agree with you at all.",
+      "explanation": "I don't agree at all = I completely disagree."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with its meaning.",
+      "pairs": [
+        { "left": "I totally agree", "right": "I agree 100%" },
+        { "left": "I agree to some extent", "right": "I agree, but not completely" },
+        { "left": "I take your point", "right": "I understand and partly agree" },
+        { "left": "According to the paper", "right": "the paper says" },
+        { "left": "That's a good point", "right": "that's a good idea or opinion" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You want to check if someone has the same opinion, so you ask: 'Are you agree?'",
+      "answer": false,
+      "explanation": "Do you agree? Agree is a verb, so we do not use the verb be with it."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Personally, I don't think it's a good idea' is better English than 'I think it's not a good idea'.",
+      "answer": true,
+      "explanation": "Correct. We usually make think negative: I don't think it's a good idea."
+    }
+  ]
+}

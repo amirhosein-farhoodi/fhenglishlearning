@@ -1,0 +1,194 @@
+{
+  "number": 61,
+  "title": "Numbers",
+  "subtitle": "three hundred and sixty-two, per cent, work out",
+  "summary": "Say big numbers, dates, fractions, decimals and percentages in English, and talk about simple calculations.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Cardinal numbers",
+      "columns": ["Number", "You say"],
+      "rows": [
+        ["379", "three hundred and seventy-nine"],
+        ["2,860", "two thousand, eight hundred and sixty"],
+        ["5,084", "five thousand and eighty-four"],
+        ["470,000", "four hundred and seventy thousand"],
+        ["2,000,000", "two million"],
+        ["3,000,000,000", "three billion"]
+      ],
+      "note": "There is no plural -s after hundred, thousand, million and billion when they are part of a number. When we are talking generally, they are plural: thousands of people, millions of insects."
+    },
+    {
+      "type": "explain",
+      "heading": "Dates",
+      "text": "With dates, we write them and say them in a different way. We can write 4 June or June 4th, but we say **the fourth of June** or **June the fourth**. Notice that we use an ordinal number (fourth, twenty-first), not a cardinal one.",
+      "examples": [
+        { "text": "21 May = **the twenty-first of May** or **May the twenty-first**." },
+        { "text": "We arrived on **the seventh of April**.", "wrong": "the seven April" },
+        { "text": "I couldn't answer **the fourth question**.", "wrong": "the four question" },
+        { "text": "1997 = **nineteen ninety-seven**; 2016 = **two thousand and sixteen** or **twenty sixteen**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Fractions and decimals",
+      "columns": ["Fraction", "You say", "Decimal", "You say"],
+      "rows": [
+        ["1 1/4", "one and a quarter", "1.25", "one point two five"],
+        ["1 1/2", "one and a half", "1.5", "one point five"],
+        ["1 3/4", "one and three quarters", "1.75", "one point seven five"]
+      ],
+      "note": "After the point we say each figure on its own: 6.02 = six point oh two."
+    },
+    {
+      "type": "explain",
+      "heading": "Percentages",
+      "text": "26% is spoken as **twenty-six per cent**. More than 50% of something is the **majority** of it; less than 50% of something is the **minority**.",
+      "examples": [
+        { "text": "The vast **majority** of the students agreed with the new plan.", "note": "e.g. 95%" },
+        { "text": "Only a small **minority** were unhappy.", "note": "e.g. 5%" },
+        { "text": "About 80% of people were in favour - so the **majority** supported it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Calculations",
+      "columns": ["Sign", "Process", "How we say it"],
+      "rows": [
+        ["+", "addition", "6 + 4 = 10 (six plus / and four equals / is ten)"],
+        ["-", "subtraction", "6 - 4 = 2 (six minus four is two)"],
+        ["x", "multiplication", "6 x 4 = 24 (six multiplied by / times four is twenty-four)"],
+        ["/", "division", "8 / 2 = 4 (eight divided by two is four)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Working out numbers",
+      "text": "When you **work out** an answer, you try to calculate it. If you **add up** numbers, you put them together to reach a total. If you **get stuck**, you have a problem and cannot continue. A **calculator** is a small electronic machine for working out numbers.",
+      "examples": [
+        { "text": "Some people are not very good at **adding up** numbers." },
+        { "text": "I often **get stuck** if I have to **work out** something quite difficult." },
+        { "text": "I'm not very good at arithmetic. I always have to use a **calculator**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Saying '0'",
+      "text": "We say '0' in different ways in different situations. In phone numbers we usually say **oh** or **zero**; in mathematics we say **nought**; with temperature we say **below zero** or **minus**.",
+      "examples": [
+        { "text": "Phone number 603449 = six **oh** three, **double** four nine.", "note": "or six zero three, double four nine" },
+        { "text": "0.7 = **nought** point seven; 6.02 = six point **oh** two." },
+        { "text": "-10 degrees = ten degrees **below zero**, or **minus** ten degrees." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never add -s to hundred, thousand or million inside a number: the crowd was over twenty thousand, not ~~twenty thousands~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "How do you say 2,345?",
+      "options": [
+        "two thousand, three hundred and forty-five",
+        "two thousands, three hundred and forty-five",
+        "two thousand, three hundreds and forty-five",
+        "two thousand and three hundred forty-five"
+      ],
+      "answer": 0,
+      "explanation": "No plural -s inside a number, and we put and before the last part."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In mathematics, 0.25 is spoken as ___ point two five.",
+      "hint": "(the maths word for 0)",
+      "answers": ["nought"],
+      "explanation": "In mathematics we say nought for '0'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "47% is spoken as forty-seven ___.",
+      "hint": "(two words)",
+      "answers": ["per cent", "percent"],
+      "explanation": "We say the number + per cent."
+    },
+    {
+      "type": "true_false",
+      "statement": "Eight divided by two is four.",
+      "answer": true,
+      "explanation": "Correct. 8 / 2 = 4, and we say 'eight divided by two is four'."
+    },
+    {
+      "type": "true_false",
+      "statement": "After the game, I heard that the crowd was over twenty thousands.",
+      "answer": false,
+      "explanation": "After the game, I heard that the crowd was over twenty thousand. There is no plural -s after thousand in a number."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say the date 10 September?",
+      "options": [
+        "the tenth of September",
+        "the ten of September",
+        "the tenth September of",
+        "ten September"
+      ],
+      "answer": 0,
+      "explanation": "We say the + ordinal number + of + month (or September the tenth)."
+    },
+    {
+      "type": "true_false",
+      "statement": "We arrived on the seven June.",
+      "answer": false,
+      "explanation": "We arrived on the seventh of June. Dates need an ordinal number: the seventh, not seven."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My birthday is the ___ of August.",
+      "hint": "(31)",
+      "answers": ["thirty-first", "thirty first"],
+      "explanation": "31 as a date is the thirty-first."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ were in favour of the new airport; about 80%, I think.",
+      "hint": "(more than 50%)",
+      "answers": ["majority"],
+      "explanation": "More than 50% of a group is the majority."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A small ___ did not support the idea, but it was only 5%.",
+      "hint": "(less than 50%)",
+      "answers": ["minority"],
+      "explanation": "Less than 50% of a group is the minority."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I tried to add ___ all the numbers, I couldn't work it out.",
+      "hint": "(one word)",
+      "answers": ["up"],
+      "explanation": "Add up = put numbers together to reach a total."
+    },
+    {
+      "type": "matching",
+      "prompt": "Work out each calculation and match it with the answer in words.",
+      "pairs": [
+        { "left": "23 and 36", "right": "fifty-nine" },
+        { "left": "24 times 3", "right": "seventy-two" },
+        { "left": "80 minus 20", "right": "sixty" },
+        { "left": "65 divided by 13", "right": "five" },
+        { "left": "8 multiplied by 7", "right": "fifty-six" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say the phone number 940338.",
+      "words": ["nine", "four", "oh,", "double", "three", "eight"],
+      "answer": "nine four oh, double three eight",
+      "explanation": "In phone numbers we say oh (or zero) for 0, and double for two identical figures."
+    }
+  ]
+}

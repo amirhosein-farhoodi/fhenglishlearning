@@ -1,0 +1,185 @@
+{
+  "number": 81,
+  "title": "Onomatopoeic words",
+  "subtitle": "buzz, growl, splash, whizz, smash",
+  "summary": "Learn words that seem to sound like their meaning, and the sound patterns - gr-, cl-, sp-, wh-, -ash - that carry an association in English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are onomatopoeic words?",
+      "text": "Onomatopoeic words seem to sound like their meaning. The most obvious examples are the verbs for the noises that animals make. Once you know them, they are easy to remember because the word itself imitates the noise.",
+      "examples": [
+        { "text": "Cows **moo** and sheep **bleat**." },
+        { "text": "Cats **meow** when they want something and **purr** when they are contented." },
+        { "text": "Lions **roar**, dogs **growl** and snakes **hiss**." },
+        { "text": "Bees **buzz** and small birds **tweet**." },
+        { "text": "Hens **cluck** all day in the yard." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "gr- suggests something unpleasant",
+      "text": "Certain combinations of letters carry an association in English. Words beginning with **gr-** often suggest something unpleasant or miserable.",
+      "examples": [
+        { "text": "She was **groaning** with pain.", "note": "groan = make a deep sound forced out by pain or despair" },
+        { "text": "Everyone was **grumbling** about the quality of the food.", "note": "grumble = complain in a bad-tempered way" },
+        { "text": "Don't be so **grumpy**!", "note": "grumpy = bad-tempered" },
+        { "text": "The teacher **growled** angrily at the boys.", "note": "growl = make a deep, threatening sound, like an angry dog" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "cl- suggests something sharp or metallic",
+      "text": "Words beginning with **cl-** often suggest a sharp and/or metallic noise.",
+      "examples": [
+        { "text": "**Click** on 'log in' to enter the website.", "note": "click = make a short sharp sound" },
+        { "text": "There was a loud **clang** as the metal bar hit the stone floor.", "note": "clang = make a loud ringing noise" },
+        { "text": "Horses go **clip-clop** on the road." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sp- suggests liquids and powders",
+      "text": "Words beginning with **sp-** often suggest water, other liquids, or powders.",
+      "examples": [
+        { "text": "She **splashed** water over her face to wake herself up.", "note": "splash = cause a liquid to fly about in drops" },
+        { "text": "The meat was horrible and she **spat** it out.", "note": "spit out = send liquid or food out from the mouth" },
+        { "text": "I never use hair **sprays**.", "note": "spray = send liquid through the air in tiny drops" },
+        { "text": "He **sprinkled** sugar on his breakfast cereal.", "note": "sprinkle = scatter small drops or grains" },
+        { "text": "Water was **spurting** out of the broken pipe.", "note": "spurt = come out in a sudden burst" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wh- suggests moving air",
+      "text": "Words beginning with **wh-** often suggest the movement of air.",
+      "examples": [
+        { "text": "He **whistled** and the horse ran towards him.", "note": "whistle = make a high-pitched noise by forcing air through a small opening" },
+        { "text": "Suddenly a large insect **whizzed** over my head and scared me.", "note": "whizz = make the sound of something rushing through the air" },
+        { "text": "Old Mr Banks **wheezed** as he climbed the stairs.", "note": "wheeze = breathe noisily, with a whistling sound in the chest" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "-ash suggests something fast and violent",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["smash", "break violently into small pieces - a smashed window"],
+        ["dash", "move fast or violently - she dashed out of the door"],
+        ["crash", "suddenly strike violently and noisily - a car crash"],
+        ["bash", "strike heavily so as to break or injure"],
+        ["mash", "make soft or pulpy by beating or crushing - sausages and mashed potato"],
+        ["gash", "a long deep cut or wound"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "These are associations, not rules - *great* and *green* are not miserable words - but noticing the pattern makes a whole family of words much easier to remember."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each animal with the verb for the sound it makes.",
+      "pairs": [
+        { "left": "a cat", "right": "purr" },
+        { "left": "a hen", "right": "cluck" },
+        { "left": "a sheep", "right": "bleat" },
+        { "left": "a snake", "right": "hiss" },
+        { "left": "a bee", "right": "buzz" },
+        { "left": "a lion", "right": "roar" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which association does each opening pattern have?",
+      "categories": ["gr- (unpleasant)", "sp- (liquid)", "wh- (moving air)"],
+      "items": [
+        { "text": "grumble", "category": 0 },
+        { "text": "growl", "category": 0 },
+        { "text": "grumpy", "category": 0 },
+        { "text": "splash", "category": 1 },
+        { "text": "sprinkle", "category": 1 },
+        { "text": "spurt", "category": 1 },
+        { "text": "whistle", "category": 2 },
+        { "text": "wheeze", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The cat was meowing because it wanted food. After it had eaten, it ___ with contentment and fell asleep.",
+      "hint": "(past tense)",
+      "answers": ["purred"],
+      "explanation": "A contented cat purrs; a hungry one meows."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ on the 'copy' symbol, then you can copy the text to a new file.",
+      "hint": "(cl-)",
+      "answers": ["click"],
+      "explanation": "Click means make a short sharp sound - the cl- family."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everyone ___ in despair when they heard the bad news.",
+      "hint": "(gr-, past tense)",
+      "answers": ["groaned"],
+      "explanation": "Groan means make a deep sound forced out by pain or despair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The car had ___ into a wall and was badly damaged, but luckily no one was hurt.",
+      "hint": "(-ash, past participle)",
+      "answers": ["crashed"],
+      "explanation": "Crash = suddenly strike something violently and noisily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you like your potatoes fried, or shall I ___ them for you?",
+      "hint": "(-ash)",
+      "answers": ["mash"],
+      "explanation": "Mash means make soft or pulpy by crushing - mashed potato."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The boy had a ___ on his knee and blood was pouring from it.",
+      "hint": "(-ash, a noun)",
+      "answers": ["gash", "a gash"],
+      "explanation": "A gash is a long deep cut or wound."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Old Mrs Jenks had bronchitis and was ___ all the time.",
+      "options": ["wheezing", "whizzing", "whistling", "sprinkling"],
+      "answer": 0,
+      "explanation": "To wheeze is to breathe noisily with a whistling sound in the chest."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Brightly coloured insects ___ around our heads as we walked through the jungle.",
+      "options": ["whizzed", "wheezed", "spurted", "clanged"],
+      "answer": 0,
+      "explanation": "Whizz = make the sound of something rushing through the air."
+    },
+    {
+      "type": "true_false",
+      "statement": "If someone growls at you, they are probably angry with you.",
+      "answer": true,
+      "explanation": "Correct - growl is a deep, threatening sound, like an angry dog."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you put food in your mouth and it tastes very bad, you might sprinkle it out.",
+      "answer": false,
+      "explanation": "You might spit it out. Sprinkle means scatter small drops or grains over something."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["After", "the", "accident,", "oil", "spurted", "from", "the", "pipe", "and", "polluted", "the", "river."],
+      "answer": "After the accident, oil spurted from the pipe and polluted the river.",
+      "explanation": "Spurt = come out in a sudden burst, one of the sp- liquid words."
+    }
+  ]
+}

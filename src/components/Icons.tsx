@@ -174,3 +174,88 @@ export function Moon({ size = 18, className = '' }: IconProps) {
     </svg>
   )
 }
+
+/** Filled triangle - the transport play affordance. */
+export function Play({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg className={`icon ${className}`} width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M8 5.2a1 1 0 0 1 1.5-.87l9 6.8a1 1 0 0 1 0 1.74l-9 6.8A1 1 0 0 1 8 18.8Z" />
+    </svg>
+  )
+}
+
+export function Pause({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg className={`icon ${className}`} width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <rect x="6.5" y="5" width="4" height="14" rx="1.2" />
+      <rect x="13.5" y="5" width="4" height="14" rx="1.2" />
+    </svg>
+  )
+}
+
+/** Circular arrow with the jump length written inside it. */
+export function Skip({ size = 20, seconds = 5, back = false, className = '' }: IconProps & { seconds?: number; back?: boolean }) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <g transform={back ? 'scale(-1,1) translate(-24,0)' : undefined}>
+        <path d="M12 5a7 7 0 1 0 6.6 4.7" />
+        <path d="M19 4v5h-5" />
+      </g>
+      <text x="12" y="15.5" textAnchor="middle" fontSize="8" fontWeight="700" fill="currentColor" stroke="none">
+        {seconds}
+      </text>
+    </svg>
+  )
+}
+
+export function Headphones({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M4 15v-3a8 8 0 0 1 16 0v3" />
+      <path d="M4 15.5A2.5 2.5 0 0 1 6.5 13H8v6H6.5A2.5 2.5 0 0 1 4 16.5Z" />
+      <path d="M20 15.5A2.5 2.5 0 0 0 17.5 13H16v6h1.5a2.5 2.5 0 0 0 2.5-2.5Z" />
+    </svg>
+  )
+}
+
+export function Film({ size = 20, className = '' }: IconProps) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <rect x="3" y="4.5" width="18" height="15" rx="2.5" />
+      <path d="M7.5 4.5v15M16.5 4.5v15M3 12h18M3 8.2h4.5M3 15.8h4.5M16.5 8.2H21M16.5 15.8H21" />
+    </svg>
+  )
+}

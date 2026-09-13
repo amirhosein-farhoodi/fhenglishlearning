@@ -1,0 +1,194 @@
+{
+  "number": 60,
+  "title": "Words you may confuse",
+  "subtitle": "quite / quiet, lend / borrow, fell / felt",
+  "summary": "Keep apart the words elementary learners most often mix up - quite and quiet, lose and loose, lend and borrow.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "quite and quiet",
+      "left": {
+        "label": "quite",
+        "text": "One syllable. It means 'a little, but not very'. It rhymes with *right*.",
+        "examples": ["This book is **quite** good.", "It's **quite** cold today.", "The film was **quite** long."]
+      },
+      "right": {
+        "label": "quiet",
+        "text": "Two syllables. It means 'silent, with very little sound'. It rhymes with *higher*.",
+        "examples": ["My bedroom is very **quiet**.", "Please be **quiet**. The baby is sleeping.", "It's very **quiet** here in the evening."]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "lose and loose",
+      "left": {
+        "label": "lose",
+        "text": "A verb. If you **lose** something, you do not know where it is. It rhymes with *shoes*.",
+        "examples": ["Why do I always **lose** my keys!", "If you **lose** your passport you must call the embassy."]
+      },
+      "right": {
+        "label": "loose",
+        "text": "An adjective. Clothes that are **loose** are not tight - they are too big. It rhymes with *juice*.",
+        "examples": ["These trousers are very **loose**.", "Do you have this skirt in a smaller size? This one is too **loose**."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "fell / felt and cook / cooker",
+      "text": "**Fell** is the past of *fall*. **Felt** is the past of *feel*. A **cook** is a person; a **cooker** is the machine you cook on.",
+      "examples": [
+        { "text": "Yesterday I **fell** and broke my arm." },
+        { "text": "I **felt** ill yesterday, but I feel OK today." },
+        { "text": "He is a very good **cook**.", "note": "= the person who cooks" },
+        { "text": "This **cooker** costs £500.", "note": "= the thing you cook on" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "lend and borrow",
+      "left": {
+        "label": "lend",
+        "text": "You **give** something to someone for a short time.",
+        "examples": ["Will you **lend** me your bicycle?", "Can you **lend** me £1?", "*Rita:* Yes, take it."]
+      },
+      "right": {
+        "label": "borrow",
+        "text": "You **get** something from someone for a short time.",
+        "examples": ["Can I **borrow** your bicycle?", "Can I **borrow** your camera for two hours?", "Sometimes I **borrow** books and DVDs from friends."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "check and control",
+      "text": "To **check** something is to look at it to see if it is right. To **control** something is to tell it what to do.",
+      "examples": [
+        { "text": "The passport officer **checked** my passport.", "note": "= looked at it" },
+        { "text": "We use the mouse to **control** the computer.", "note": "= tell it what to do" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "wait, hope and expect",
+      "text": "We **wait for** a bus or a person. We **hope** for something we really want. We **expect** something we think is probable, even if it is bad news.",
+      "examples": [
+        { "text": "They're **waiting for** the bus.", "wrong": "waiting the bus" },
+        { "text": "I **hope** I pass my exams.", "note": "= I really want to pass" },
+        { "text": "I haven't studied; I **expect** I'll fail my exams.", "note": "= it's probable" },
+        { "text": "I'm **expecting** my brother at 5.30. He said he would come." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "afternoon, evening and night",
+      "text": "In English the **afternoon** is from about 12 o'clock till 5 or 6 pm. The **evening** is from 5 or 6 pm until about 9 or 10 pm. After that it is the **night**.",
+      "examples": [
+        { "text": "At 3 pm we say *Good **afternoon***." },
+        { "text": "At 7 pm we say *Good **evening***." },
+        { "text": "We say *Good **night*** when we go to bed." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the rhymes: *quite* rhymes with *right*, but *quiet* rhymes with *higher*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Please be ___. The baby is sleeping.",
+      "hint": "(silent)",
+      "answers": ["quiet"],
+      "explanation": "Quiet means 'silent, with very little sound'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's ___ cold today.",
+      "hint": "(a little, but not very)",
+      "answers": ["quite"],
+      "explanation": "Quite means 'a little, but not very'."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with the word that sounds like it.",
+      "pairs": [
+        { "left": "lose", "right": "shoes" },
+        { "left": "loose", "right": "juice" },
+        { "left": "quite", "right": "right" },
+        { "left": "quiet", "right": "higher" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ your passport you must call the embassy.",
+      "hint": "(you can't find it)",
+      "answers": ["lose"],
+      "explanation": "Lose is the verb: you do not know where something is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you have this skirt in a smaller size? This one is too ___.",
+      "hint": "(not tight)",
+      "answers": ["loose"],
+      "explanation": "Loose is the adjective: clothes that are too big."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ tired this morning, but I am OK now.",
+      "hint": "(the past of feel)",
+      "answers": ["felt"],
+      "explanation": "Felt is the past of feel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ and broke her leg. She had to go to hospital.",
+      "hint": "(the past of fall)",
+      "answers": ["fell"],
+      "explanation": "Fell is the past of fall."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My sister is a good ___. I love eating at her house.",
+      "options": ["cook", "cooker", "cooking", "cooked"],
+      "answer": 0,
+      "explanation": "A cook is the person who cooks; a cooker is the machine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We are going to buy a ___ for our new kitchen.",
+      "hint": "(the thing you cook on)",
+      "answers": ["cooker", "new cooker"],
+      "explanation": "A cooker is the machine you cook on."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which verb goes in each sentence - lend or borrow?",
+      "categories": ["lend", "borrow"],
+      "items": [
+        { "text": "Will you ___ me your bicycle?", "category": 0 },
+        { "text": "Can you ___ me one pound?", "category": 0 },
+        { "text": "Can I ___ your camera?", "category": 1 },
+        { "text": "Sometimes I ___ books from my friends.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does the passport officer do to your passport?",
+      "options": ["He checks it.", "He controls it.", "He borrows it.", "He lends it."],
+      "answer": 0,
+      "explanation": "To check something is to look at it to see if it is right."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what the people at the bus stop are doing.",
+      "words": ["They're", "waiting", "for", "the", "bus."],
+      "answer": "They're waiting for the bus."
+    },
+    {
+      "type": "true_false",
+      "statement": "I haven't studied at all. I hope I'll fail my exams.",
+      "answer": false,
+      "explanation": "I haven't studied at all. I expect I'll fail my exams. We use hope for something we want, and expect for something that is probable."
+    }
+  ]
+}

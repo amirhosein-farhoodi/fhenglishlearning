@@ -1,0 +1,219 @@
+{
+  "number": 39,
+  "title": "Running a company",
+  "subtitle": "set up, expand, headquarters, clients",
+  "summary": "Describe a company - how it started, what it produces, where its offices are and how it has grown.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "achieve and a great deal",
+      "text": "If you **achieve** something, you have been successful in something that needed a lot of work and effort. The noun is **achievement**. **A great deal** means a lot.",
+      "examples": [
+        { "text": "Writing a book has been my greatest **achievement**." },
+        { "text": "The company has **achieved a great deal** in a short period of time." },
+        { "text": "The firm has expanded **a great deal** in the last 20 years." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Starting and growing a business",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**set up**", "started (used about a company or organisation)"],
+        ["**aim**", "a plan of what you hope to achieve"],
+        ["**variety**", "different types"],
+        ["**quality**", "how good or bad something is"],
+        ["**demand**", "when more people want to buy something"],
+        ["**expand**", "become bigger"],
+        ["**firm**", "company or business"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Denham Farm Bakery",
+      "text": "Denham Farm Bakery is a family business. Three generations of the family are **currently** working there with a team of 90 **employees**. A **bakery** is a place where bread and cakes are made or sold.",
+      "examples": [
+        { "text": "The company was **set up** in 1991." },
+        { "text": "Their **aim** was to produce a **variety** of bread of the highest **quality**." },
+        { "text": "There was a growing **demand** for organic products in the 1990s." },
+        { "text": "They soon became **experts** in the field of organic bread-making.", "note": "an expert is a person with skill or knowledge in something" }
+      ],
+      "note": "Currently means 'now, at the moment'. Do not use actually for this."
+    },
+    {
+      "type": "explain",
+      "heading": "How the company works",
+      "text": "The company is **run** (organised and controlled) from a factory in Ilminster, where the bread is baked **daily** and then **delivered** to shops across the south-west of England.",
+      "examples": [
+        { "text": "The company is **run** from a factory in Ilminster." },
+        { "text": "The bread is baked **daily**.", "note": "daily = every day" },
+        { "text": "The bread is **delivered** to shops across the south-west." },
+        { "text": "The **firm** has **expanded** a great deal, but it is still a family business." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A view of a company",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**formerly**", "in the past but not now"],
+        ["**take over**", "get control of another company"],
+        ["**take up a position**", "start in the job"],
+        ["**headquarters**", "the place where the main office is"],
+        ["**branch**", "an office that is part of the company"],
+        ["**contacts**", "people you know"],
+        ["**clients**", "people who pay someone for a service"],
+        ["**ambition**", "something someone wants to achieve"],
+        ["**image**", "the way that people think of someone"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Morgan & Stenson",
+      "text": "Morgan & Stenson are a firm of **accountants**: people who control a person's or a company's money. They were **formerly** Stenson & Son, but were **taken over** by JS Morgan five years ago.",
+      "examples": [
+        { "text": "James Morgan **took up the position** of senior partner." },
+        { "text": "The **headquarters** of the firm are in Newcastle, but they have five other **branches**." },
+        { "text": "He is a **former** owner of a football club, with many **contacts** in the football world." },
+        { "text": "The company **attracted a lot of attention** when it advertised on local TV.", "note": "= caused people to notice it" },
+        { "text": "It was his **ambition** to change the **image** that people have of accountants." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three pairs to be careful with",
+      "text": "We usually say **ex-wife** or **ex-boyfriend**, but **former president**, **former career**, **former banker**. Shops and organisations have **customers**; lawyers and accountants have **clients**. We **take up** a job or activity, but we **set up** a company.",
+      "examples": [
+        { "text": "She's my **ex-wife**; we got divorced last year." },
+        { "text": "George Bush is **a former** president of America." },
+        { "text": "The shop assistant was serving a **customer**." },
+        { "text": "Her law firm has many famous **clients**." },
+        { "text": "When did you **take up** tennis? When did they **set up** the company?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use *currently* for 'now, at the moment' - not *actually*, which means 'in fact'."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which of these words refer to people?",
+      "categories": ["People", "Not people"],
+      "items": [
+        { "text": "expert", "category": 0 },
+        { "text": "accountant", "category": 0 },
+        { "text": "client", "category": 0 },
+        { "text": "contacts", "category": 0 },
+        { "text": "headquarters", "category": 1 },
+        { "text": "branches", "category": 1 },
+        { "text": "quality", "category": 1 },
+        { "text": "variety", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'The food is delivered every day.' Another way to say this is: The food is delivered ___.",
+      "hint": "(one word)",
+      "answers": ["daily"],
+      "explanation": "Daily means every day."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'There is a real need for food of this quality.' Another way to say this is: There is a real ___ for food of this quality.",
+      "hint": "(one word)",
+      "answers": ["demand"],
+      "explanation": "Demand is when a lot of people want to buy something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Our plan is to open another branch.' Another way to say this is: Our ___ is to open another branch.",
+      "hint": "(one word)",
+      "answers": ["aim"],
+      "explanation": "An aim is a plan of what you hope to achieve."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'We have 25 workers.' Another way to say this is: We have 25 ___.",
+      "hint": "(one word, plural)",
+      "answers": ["employees"],
+      "explanation": "Employees are the people a company employs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I started the business ten years ago.' Another way to say this is: I ___ the business ten years ago.",
+      "hint": "(two words)",
+      "answers": ["set up"],
+      "explanation": "We set up a company or an organisation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Their main offices are in Sheffield.' Another way to say this is: Their ___ are in Sheffield.",
+      "hint": "(one word)",
+      "answers": ["headquarters"],
+      "explanation": "The headquarters is the place where the main office is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: Marcel used to work here, but he's ___ working abroad.",
+      "options": ["currently", "actually", "formerly", "daily"],
+      "answer": 0,
+      "explanation": "Currently means now, at the moment."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: When did you ___ tennis?",
+      "options": ["take up", "set up", "take over", "run out"],
+      "answer": 0,
+      "explanation": "We take up a job or an activity, but we set up a company."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: Are they planning to ___ the company?",
+      "options": ["take over", "take up", "set up", "attend"],
+      "answer": 0,
+      "explanation": "To take over a company means to get control of it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: She's my ___ wife; we got divorced last year.",
+      "options": ["ex-", "former", "currently", "late"],
+      "answer": 0,
+      "explanation": "We say ex-wife and ex-boyfriend, but former president and former banker."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the word that rewrites it.",
+      "pairs": [
+        { "left": "They were very successful.", "right": "They achieved a great deal." },
+        { "left": "I know a lot of people in banking.", "right": "I have a lot of contacts in banking." },
+        { "left": "They used to be called BMG.", "right": "They were formerly called BMG." },
+        { "left": "I've always wanted to fly a plane.", "right": "It's always been my ambition to fly a plane." },
+        { "left": "She has a great knowledge of finance.", "right": "She's an expert in finance." },
+        { "left": "People noticed the adverts.", "right": "The adverts attracted a lot of attention." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Danielle set up another ___ of the company in Manchester, which was run by her brother.",
+      "hint": "(an office that is part of the company)",
+      "answers": ["branch"],
+      "explanation": "A branch is an office that is part of a larger company."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The business soon ___ rapidly, and it now has offices in many cities.",
+      "hint": "(one word, = became bigger)",
+      "answers": ["expanded"],
+      "explanation": "To expand means to become bigger."
+    },
+    {
+      "type": "true_false",
+      "statement": "A shop assistant serves clients, and a lawyer has customers.",
+      "answer": false,
+      "explanation": "It is the other way round: shops have customers, and lawyers and accountants have clients."
+    }
+  ]
+}

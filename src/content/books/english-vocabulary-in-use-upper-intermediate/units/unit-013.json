@@ -1,0 +1,200 @@
+{
+  "number": 13,
+  "title": "Global problems",
+  "subtitle": "earthquakes, famine, refugees, epidemics",
+  "summary": "Name the world's disasters and the people caught up in them, and use the right verb for each - volcanoes erupt, earthquakes shake, war breaks out.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Disasters and tragedies",
+      "columns": ["Disaster", "What happens"],
+      "rows": [
+        ["earthquake", "the earth moves or trembles"],
+        ["flood", "too much rain"],
+        ["drought", "no rain"],
+        ["volcano", "hot liquid rock and gases pour from a mountain"],
+        ["famine", "no food"],
+        ["landslide", "rocks and earth move suddenly down a slope"],
+        ["epidemic", "a disease affecting large numbers of people"],
+        ["hurricane / tornado / typhoon", "a violent wind or tropical storm"],
+        ["civil war", "war between people of the same country"]
+      ],
+      "note": "Disasters not caused by human beings can be called natural disasters. An explosion or a plane crash is a major accident or incident."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs that go with disasters",
+      "text": "Each disaster has its own verb, and using the wrong one sounds odd. Learn the collocation, not just the noun.",
+      "examples": [
+        { "text": "A volcano has **erupted** in Indonesia. Hundreds are feared dead." },
+        { "text": "The flu epidemic **spread** rapidly throughout the country." },
+        { "text": "Millions are **starving** as a result of the famine." },
+        { "text": "A big earthquake **shook** the city at noon today." },
+        { "text": "Civil war has **broken out** in the north of the country." },
+        { "text": "A tornado **swept through** the islands yesterday." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "injure or damage?",
+      "left": {
+        "label": "injure - people",
+        "examples": [
+          "200 people were **injured**.",
+          "The dead and **wounded** were flown out in helicopters.",
+          "Wounded means injured in a battle or by a weapon."
+        ]
+      },
+      "right": {
+        "label": "damage - things",
+        "examples": [
+          "Many buildings were **damaged**.",
+          "The storm **damaged** hundreds of homes.",
+          "Never say ~~the buildings were injured~~."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "People involved in disasters",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["casualties", "dead and injured people: The explosion resulted in 300 casualties."],
+        ["victims", "those who suffer the results: The real victims of civil war are children left without parents."],
+        ["survivors", "people who live through a disaster: There were only three survivors."],
+        ["refugees", "people who have escaped from their own country because of a war or other disaster"],
+        ["migrants", "people who travel from one country to another, often to find work"],
+        ["the wounded", "people injured in a battle or by a weapon"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Diseases and epidemics in the news",
+      "columns": ["Disease", "How it is caught"],
+      "rows": [
+        ["rabies", "from the bite of a dog, fox or other animal - very serious"],
+        ["malaria", "usually from mosquito bites"],
+        ["cholera and typhoid", "often from infected food and water; they cause sickness and diarrhoea"],
+        ["AIDS", "acquired immune deficiency syndrome; a virus that destroys the body's immune system"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Disasters of many kinds **strike**: *The hurricane struck the coastline at noon.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*The lava flow destroyed three villages.* This report is about a ___.",
+      "hint": "(one word)",
+      "answers": ["volcano"],
+      "explanation": "Lava is the hot liquid rock that pours from a volcano."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*The aftershock struck at 3.35 pm local time.* This report is about an ___.",
+      "hint": "(one word)",
+      "answers": ["earthquake"],
+      "explanation": "An aftershock is a trembling movement of the earth that follows an earthquake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*The earth is cracked and the vegetation has dried up.* This report is about a ___.",
+      "hint": "(one word)",
+      "answers": ["drought"],
+      "explanation": "In a drought there is no rain, so the earth cracks and plants die."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*People had boarded up shops and houses the day before, and stayed indoors.* Which disaster was expected?",
+      "options": ["a hurricane", "a famine", "an epidemic", "a landslide"],
+      "answer": 0,
+      "explanation": "Before a hurricane, typhoon or tropical storm people cover windows and doors with wooden boards."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*People had to stay on the upper floors and sometimes on the roofs of their homes.* What had happened?",
+      "options": ["a flood", "an earthquake", "a drought", "an explosion"],
+      "answer": 0,
+      "explanation": "If your house is flooded, you go upstairs or onto the roof to escape the water."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each noun with the verb that collocates with it.",
+      "pairs": [
+        { "left": "a volcano", "right": "erupts" },
+        { "left": "an epidemic", "right": "spreads" },
+        { "left": "an earthquake", "right": "shakes the city" },
+        { "left": "civil war", "right": "breaks out" },
+        { "left": "a tornado", "right": "sweeps through the islands" },
+        { "left": "people in a famine", "right": "starve" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Over 5 million ___ have fled the war and are seeking shelter in neighbouring countries.",
+      "hint": "(plural noun)",
+      "answers": ["refugees"],
+      "explanation": "Refugees have escaped from their own country because of a war or other disaster."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was the worst road accident the country has ever seen, with over 120 ___.",
+      "hint": "(plural noun: dead and injured)",
+      "answers": ["casualties"],
+      "explanation": "Casualties are the dead and injured people in an accident or disaster."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A: Were there any ___ when the ship sank? B: I'm afraid not.*",
+      "hint": "(plural noun)",
+      "answers": ["survivors"],
+      "explanation": "Survivors are the people who live through a disaster."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The number of economic ___ entering the country each year has increased sharply.",
+      "hint": "(plural noun)",
+      "answers": ["migrants"],
+      "explanation": "Migrants travel from one country to another, often in order to find work."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each disease with how it is caught.",
+      "pairs": [
+        { "left": "malaria", "right": "a mosquito bite" },
+        { "left": "cholera", "right": "drinking infected water" },
+        { "left": "rabies", "right": "an animal bite" },
+        { "left": "AIDS", "right": "a virus that destroys the immune system" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each headline suggest that things are getting worse, or that a disaster has been avoided?",
+      "categories": ["Getting worse", "Disaster avoided / getting better"],
+      "items": [
+        { "text": "Poison gas cloud spreads", "category": 0 },
+        { "text": "Experts warn of cholera time bomb", "category": 0 },
+        { "text": "Flood warnings not heeded in time", "category": 0 },
+        { "text": "Police defuse terrorist bomb", "category": 1 },
+        { "text": "Oil slick recedes", "category": 1 },
+        { "text": "All survive plane's emergency landing", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "*The earthquake injured 200 people and injured hundreds of buildings.*",
+      "answer": false,
+      "explanation": "Injure is used about people, damage about things: The earthquake injured 200 people and damaged hundreds of buildings."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["The", "area", "is", "suffering", "its", "worst", "drought", "for", "many", "years."],
+      "answer": "The area is suffering its worst drought for many years.",
+      "explanation": "A drought is a long period with no rain."
+    }
+  ]
+}

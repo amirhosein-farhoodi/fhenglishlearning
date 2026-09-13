@@ -1,0 +1,196 @@
+{
+  "number": 88,
+  "title": "Containers and contents",
+  "subtitle": "a jar of honey, a tube of toothpaste",
+  "summary": "Learn the English names for everyday containers, what they are made of and which contents normally go in each one.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Naming what things come in",
+      "text": "English almost never names a product on its own in a shopping list: you say what it comes in. The container word tells you a lot about the size, the shape and the material, so it is worth learning the container together with its typical contents.",
+      "examples": [
+        { "text": "I need a **loaf** of bread, two **cartons** of milk and three **bars** of soap." },
+        { "text": "Could you get me a **tube** of toothpaste and a **jar** of honey?" },
+        { "text": "We bought four **cans** of cola and a large **box** of matches." },
+        { "text": "She put the flowers in a **tub** by the front door." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Containers made of soft or light material",
+      "columns": ["Container", "Usually made of", "Typical contents"],
+      "rows": [
+        ["bag", "cloth, paper, plastic", "sweets, shopping, mail"],
+        ["sack", "cloth, plastic", "coal, rubbish, potatoes"],
+        ["basket", "wicker, metal", "shopping, clothes, waste paper"],
+        ["carton", "card", "milk, juice"],
+        ["packet", "card, paper, plastic", "tea, biscuits, cereal, crisps"],
+        ["pack", "card", "cards, six cans of cola or beer"],
+        ["box", "cardboard, wood", "matches, tools, toys, chocolates"],
+        ["tube", "soft metal, plastic", "toothpaste, paint, ointment"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Containers made of harder material",
+      "columns": ["Container", "Usually made of", "Typical contents"],
+      "rows": [
+        ["bottle", "glass, plastic", "milk, lemonade, wine"],
+        ["jar", "glass, pottery", "jam, honey, olives, instant coffee"],
+        ["glass", "glass", "milk, water, wine"],
+        ["jug", "pottery", "milk, cream, water"],
+        ["mug", "pottery", "tea, coffee, cocoa"],
+        ["bowl", "china, glass, wood", "fruit, soup, sugar"],
+        ["can", "tin", "cola, beer"],
+        ["tin", "tin", "tomatoes, sardines, fruit"],
+        ["pan", "metal", "food that is being cooked"],
+        ["bucket", "metal, plastic", "sand, water"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Larger containers",
+      "columns": ["Container", "Usually made of", "Typical contents"],
+      "rows": [
+        ["barrel", "wood and metal", "oil, wine, beer"],
+        ["crate", "wood, plastic", "bottles"],
+        ["case", "leather, wood, cardboard", "jewellery, spectacles, wine"],
+        ["pot", "plastic, metal, pottery", "yoghurt, a plant, paint"],
+        ["tub", "wood, plastic, card", "flowers, rainwater, ice cream"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Container words as compounds",
+      "text": "Many container words also appear in front of another noun to say what they are for. Learn these as fixed compounds.",
+      "examples": [
+        { "text": "a **shopping bag**, a **carrier bag**, a **mail bag**" },
+        { "text": "a **wine bottle**, a **milk bottle**, a **water bottle**" },
+        { "text": "a **milk jug**, a **cream jug**, a **water jug**" },
+        { "text": "a **flower pot**, a **teapot**, a **coffee pot**" },
+        { "text": "a **chocolate box**, a **tool box**, a **match box**" }
+      ],
+      "note": "Note the difference: *a bottle of wine* is a full one; *a wine bottle* may be empty - it just describes the kind of bottle."
+    },
+    {
+      "type": "tip",
+      "text": "Two look-alikes worth separating: a **tub** is a wide open container for ice cream or flowers; a **tube** is a long thin one you squeeze, for toothpaste or ointment."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each container with the thing it usually holds.",
+      "pairs": [
+        { "left": "a tube of", "right": "toothpaste" },
+        { "left": "a jar of", "right": "honey" },
+        { "left": "a tin of", "right": "sardines" },
+        { "left": "a carton of", "right": "cream" },
+        { "left": "a pot of", "right": "yoghurt" },
+        { "left": "a packet of", "right": "crisps" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each container with what it is usually made of.",
+      "pairs": [
+        { "left": "barrel", "right": "wood and metal" },
+        { "left": "carton", "right": "card" },
+        { "left": "jug", "right": "pottery" },
+        { "left": "basket", "right": "wicker" },
+        { "left": "bucket", "right": "plastic or metal" },
+        { "left": "case", "right": "leather" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Add to the shopping list: four ___ of cola.",
+      "hint": "(small metal drink containers)",
+      "answers": ["cans"],
+      "explanation": "Cola and beer come in cans; six cans together make a pack."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Add to the shopping list: a ___ of tuna.",
+      "hint": "(a small sealed metal container)",
+      "answers": ["tin", "a tin"],
+      "explanation": "In British English tinned fish, tomatoes and fruit come in tins."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Add to the shopping list: a large ___ of matches.",
+      "hint": "(made of cardboard or wood)",
+      "answers": ["box"],
+      "explanation": "Matches, tools and toys all come in boxes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Add to the shopping list: two ___ of milk.",
+      "hint": "(card containers)",
+      "answers": ["cartons"],
+      "explanation": "Milk and juice come in cartons; milk also comes in bottles."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Add to the shopping list: a ___ of washing-up liquid.",
+      "hint": "(plastic, with a narrow neck)",
+      "answers": ["bottle", "a bottle"],
+      "explanation": "Liquids come in bottles of glass or plastic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which container would you be most likely to find holding flowers in a garden?",
+      "options": ["a tub", "a mug", "a crate", "a sack"],
+      "answer": 0,
+      "explanation": "A tub, or a pot, holds flowers or rainwater outside."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these would you be most likely to find in a cellar?",
+      "options": ["a barrel", "a mug", "a jug", "a tube"],
+      "answer": 0,
+      "explanation": "Barrels of wine or beer, bottles and sacks of coal or potatoes are all cellar things."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A postman carries the post in a bag, and sometimes in a sack. What is the difference?",
+      "options": [
+        "A sack is bigger than a bag.",
+        "A bag is bigger than a sack.",
+        "A sack is always made of leather.",
+        "There is no difference at all."
+      ],
+      "answer": 0,
+      "explanation": "A sack is bigger, so it is used for collecting post rather than delivering it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these would you expect on a breakfast table, and which in the drinks section of a supermarket?",
+      "categories": ["On the breakfast table", "In the drinks section"],
+      "items": [
+        { "text": "a mug of coffee", "category": 0 },
+        { "text": "a jug of milk", "category": 0 },
+        { "text": "a packet of cereal", "category": 0 },
+        { "text": "a jar of marmalade", "category": 0 },
+        { "text": "a bowl of sugar", "category": 0 },
+        { "text": "a crate of bottles", "category": 1 },
+        { "text": "a pack of six cans", "category": 1 },
+        { "text": "a case of wine", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You buy hand cream in a tube and ice cream in a tub.",
+      "answer": true,
+      "explanation": "Correct - a tube is long and thin and you squeeze it; a tub is wide and open."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the shopping list in order.",
+      "words": ["I", "need", "a", "packet", "of", "butter", "and", "a", "box", "of", "tissues."],
+      "answer": "I need a packet of butter and a box of tissues.",
+      "explanation": "Butter comes in a packet; tissues come in a box."
+    }
+  ]
+}

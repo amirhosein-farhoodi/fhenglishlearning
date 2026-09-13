@@ -1,0 +1,212 @@
+{
+  "number": 42,
+  "title": "Competitive sport",
+  "subtitle": "beat, draw, champion, victory",
+  "summary": "Talk about winning and losing, name the different kinds of competition, and understand the language of sports reports.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Winning and losing",
+      "text": "In football, the **score** is the number of goals a team has. You **win** a game and you **lose** a game, but you **beat** or **defeat** the other team. Note that you never 'win' a team.",
+      "examples": [
+        { "text": "Spain played Poland and they **won** the game." },
+        { "text": "Spain **won** 2-0.", "note": "spoken as 'two nil'" },
+        { "text": "Spain **beat** Poland 2-0.", "wrong": "Spain won Poland" },
+        { "text": "Poland **were defeated** 2-0 by Spain." },
+        { "text": "Spain and Italy **drew** 1-1.", "note": "spoken as 'one all'; also: It was a 1-1 draw." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "score or result?",
+      "left": {
+        "label": "score",
+        "text": "Use score at any point in the game, including half-time.",
+        "examples": [
+          "The **score** at half-time was 1-0.",
+          "The final **score** was 2-0."
+        ]
+      },
+      "right": {
+        "label": "result",
+        "text": "The result is only the score at the end of the game.",
+        "examples": [
+          "The final **result** was 2-0.",
+          "not: ~~The result at half-time was 1-0.~~"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Competitions",
+      "text": "A **competition** is an organised event in which people try to win something by being the best or the fastest. Individuals and teams **take part in** different types of competition.",
+      "examples": [
+        { "text": "Tennis players and golfers **enter tournaments** such as the French Open." },
+        { "text": "Football and ice hockey teams play in **league** competitions, where they play against different teams." },
+        { "text": "Many teams also play in **cup** competitions, e.g. the FA Cup or the World Cup." },
+        { "text": "A cup competition ends with two teams playing against each other in a **final**." }
+      ],
+      "note": "Take part in means join with others in an activity."
+    },
+    {
+      "type": "explain",
+      "heading": "Winners and champions",
+      "text": "The **winners** (opposite: the **losers**) are the **champions**. The **captain** is the leader of a team, and the competition itself may be called a **championship**.",
+      "examples": [
+        { "text": "Germany became World Cup **champions** in 2014." },
+        { "text": "Philipp Lahm received the cup as **captain** of the winning team." },
+        { "text": "Kim Clijsters first won the **championship** in 2005." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words from sports reports",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**break a record**", "run or swim faster than anyone in the world before"],
+        ["**victory**", "the time when you win a game or a competition"],
+        ["**championship**", "an important competition to decide who is the best"],
+        ["**give up**", "stop doing a regular activity"],
+        ["**winner**", "the person who wins"],
+        ["**lead**", "be in front of others during a competition"],
+        ["**race**", "a competition in which people run, drive or swim"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Describing a great performance",
+      "text": "**Superb**, **incredible** and **outstanding** all describe something or someone that is very good and of a very high quality. They are common in sports reports.",
+      "examples": [
+        { "text": "Pele was a **superb** footballer." },
+        { "text": "It was one of the most **incredible** races of all time." },
+        { "text": "Bolt ran an **outstanding** time of 9.81 seconds and achieved a great **victory**." },
+        { "text": "At half-time, Milan are **leading** 1-0." },
+        { "text": "She **gave up** tennis in 2007 to have a baby, and returned in 2009." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the irregular forms together: win / won / won, lose / lost / lost, beat / beat / beaten, draw / drew / drawn."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past simple and past participle.",
+      "pairs": [
+        { "left": "win", "right": "won / have won" },
+        { "left": "lose", "right": "lost / have lost" },
+        { "left": "beat", "right": "beat / have beaten" },
+        { "left": "draw", "right": "drew / have drawn" },
+        { "left": "break", "right": "broke / have broken" },
+        { "left": "give up", "right": "gave up / have given up" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: It was a fantastic ___ for the team - they won 4-0.",
+      "options": ["victory", "defeat", "draw", "loser"],
+      "answer": 0,
+      "explanation": "A victory is the time when you win a game or a competition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: At half-time in the game, the ___ is 1-0 to Arsenal.",
+      "options": ["score", "result", "record", "final"],
+      "answer": 0,
+      "explanation": "Result is only used at the end of the game; score can be used at any time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct word: The French Open is a famous tennis ___.",
+      "options": ["tournament", "cup", "league", "race"],
+      "answer": 0,
+      "explanation": "Tennis players and golfers enter tournaments."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a good game but unfortunately we ___ 3-2.",
+      "hint": "(past tense)",
+      "answers": ["lost"],
+      "explanation": "You lose a game, but you beat the other team."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Holland ___ England 2-1, so they are in the semi-final.",
+      "hint": "(past tense, + the other team)",
+      "answers": ["beat", "defeated"],
+      "explanation": "You beat or defeat the other team - you never 'win' a team."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brazil ___ 1-1 with Argentina last night.",
+      "hint": "(past tense of draw)",
+      "answers": ["drew"],
+      "explanation": "When both teams have the same score, they draw."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Carolina Kluft broke the heptathlon world ___ again last night.",
+      "hint": "(one word)",
+      "answers": ["record"],
+      "explanation": "You break a record when you do better than anyone in the world before."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are 20 teams in the ___, and each team plays the other teams twice.",
+      "hint": "(one word)",
+      "answers": ["league"],
+      "explanation": "In a league competition every team plays against all the others."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bradley Wiggins ___ part in the Tour de France in 2009 and finished fourth.",
+      "hint": "(past tense)",
+      "answers": ["took"],
+      "explanation": "To take part in a competition means to join it with others."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think Novak Djokovic is going to win. He's ___ 5-2 in the final set.",
+      "hint": "(one word, -ing form)",
+      "answers": ["leading"],
+      "explanation": "To lead means to be in front of the others during a competition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Argentina are playing ___ Brazil next week.",
+      "hint": "(preposition)",
+      "answers": ["against"],
+      "explanation": "We play against another team."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right group.",
+      "categories": ["A person", "A competition", "A result"],
+      "items": [
+        { "text": "captain", "category": 0 },
+        { "text": "champion", "category": 0 },
+        { "text": "loser", "category": 0 },
+        { "text": "tournament", "category": 1 },
+        { "text": "league", "category": 1 },
+        { "text": "race", "category": 1 },
+        { "text": "draw", "category": 2 },
+        { "text": "victory", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Croatia won Germany 3-2 in an exciting game.",
+      "answer": false,
+      "explanation": "Croatia beat Germany 3-2. You win a game, but you beat or defeat a team."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report a drawn match between Spain and Italy.",
+      "words": ["It", "was", "a", "1-1", "draw", "between", "Spain", "and", "Italy."],
+      "answer": "It was a 1-1 draw between Spain and Italy.",
+      "explanation": "A 1-1 draw is spoken as 'one all'."
+    }
+  ]
+}

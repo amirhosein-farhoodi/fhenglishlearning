@@ -1,0 +1,162 @@
+{
+  "number": 9,
+  "title": "Conversations 2: Useful words and expressions",
+  "subtitle": "actually, anyway, Why don't we ... ?",
+  "summary": "Use small but very common words like actually, else and anyway, make suggestions, and react to good and bad news.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Five useful little words",
+      "columns": ["Word", "Example", "Meaning"],
+      "rows": [
+        ["actually", "People say bad things about her, but she's actually very nice.", "in reality"],
+        ["really", "The book is really good.", "very"],
+        ["else", "Do you want to buy anything else? Or go somewhere else?", "in addition, or different"],
+        ["around", "I'll meet you at around 6 o'clock.", "about, approximately"],
+        ["anyway", "I'll drive you home. I'm going that way anyway.", "it gives a reason for doing something"],
+        ["anyway", "Anyway, as I said, I woke up very late today.", "it takes you back to an earlier subject"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Making a suggestion",
+      "text": "There are four common ways to suggest something. After **Why don't we** and **Let's**, use the plain verb. After **How about** and **What about**, use the verb with **-ing**.",
+      "examples": [
+        { "text": "**Why don't we go** to the cinema this evening?", "wrong": "Why don't we going" },
+        { "text": "**Let's go** and see a film and then have a meal.", "wrong": "Let's going" },
+        { "text": "**How about going** out for a meal?", "wrong": "How about go" },
+        { "text": "**What about getting** her a scarf?", "wrong": "What about get" }
+      ],
+      "note": "To agree with a suggestion, say **Good idea.**"
+    },
+    {
+      "type": "explain",
+      "heading": "When you have no preference",
+      "text": "If both things are fine for you, say **I don't mind** or **It's up to you**.",
+      "examples": [
+        { "text": "*A:* Which film do you want to see? *B:* **I don't mind.**", "note": "= it's all the same to me" },
+        { "text": "*B:* **It's up to you.**", "note": "= you can decide" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short expressions",
+      "text": "These short expressions are everywhere in spoken English. Learn them as whole phrases.",
+      "examples": [
+        { "text": "*A:* I was late for work today. *B:* **Oh dear!** Was your boss angry?", "note": "surprised or disappointed" },
+        { "text": "*A:* I forgot to bring your book! *B:* Oh, **it doesn't matter.**", "note": "= it's not important" },
+        { "text": "*A:* I can't come to your party. *B:* **What a pity!**", "note": "disappointed" },
+        { "text": "*A:* I passed my exam. *B:* **Well done!**" },
+        { "text": "**Hurry up!** The taxi's here. / **Look out!** There's a car coming." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Agreeing",
+      "text": "To agree, say **I agree** or, more strongly, **Absolutely!** Be careful with the verb: *agree* is not used with *am* or *is*.",
+      "examples": [
+        { "text": "*A:* We need to buy Marta a present. *B:* **Absolutely!**" },
+        { "text": "**I agree.** Let's go shopping this afternoon.", "wrong": "I am agree" },
+        { "text": "**I don't agree** with you.", "wrong": "I'm not agree" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Actually** is a false friend in many languages. In English it means *in reality*, not *now*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's boring here. Let's go somewhere ___.",
+      "hint": "(different)",
+      "answers": ["else"],
+      "explanation": "somewhere else = a different place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were ___ 20 people at the lecture.",
+      "hint": "(about)",
+      "answers": ["around"],
+      "explanation": "around = about, approximately."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a ___ lovely photo!",
+      "hint": "(very)",
+      "answers": ["really"],
+      "explanation": "really = very."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He said he was a doctor but he's ___ still a medical student.",
+      "hint": "(in reality)",
+      "answers": ["actually", "really"],
+      "explanation": "actually = in reality. It does not mean now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't like skiing and ___ I'm not free that weekend.",
+      "options": ["anyway", "about", "else", "around"],
+      "answer": 0,
+      "explanation": "anyway gives one more reason for what you have said."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't ___ what we do. It's all the same to me.",
+      "options": ["mind", "matter", "agree"],
+      "answer": 0,
+      "explanation": "I don't mind = both things are fine for me."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ invite Rachel to dinner tonight.",
+      "options": ["Let's", "It's up to you", "I agree"],
+      "answer": 0,
+      "explanation": "Let's + plain verb makes a suggestion."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you say in each situation?",
+      "pairs": [
+        { "left": "Your friend is crossing the road and a car is coming.", "right": "Look out!" },
+        { "left": "Your friend says: I didn't get that job.", "right": "What a pity!" },
+        { "left": "The taxi is here but your friend is very slow.", "right": "Hurry up!" },
+        { "left": "Your friend has passed a difficult exam.", "right": "Well done!" },
+        { "left": "Your friend asks: Do you want to go to the party or not?", "right": "It's up to you." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "How about go out for a meal this evening?",
+      "answer": false,
+      "explanation": "How about going out for a meal this evening? After How about, use the -ing form."
+    },
+    {
+      "type": "true_false",
+      "statement": "Why don't we go to the Italian restaurant this evening?",
+      "answer": true,
+      "explanation": "Correct. After Why don't we, use the plain verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I forgot to bring your book! *B:* Oh, it ___ matter. I don't need it.",
+      "hint": "(doesn't / isn't)",
+      "answers": ["doesn't", "does not"],
+      "explanation": "The expression is it doesn't matter."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Suggest the cinema to your friend.",
+      "words": ["Why", "don't", "we", "go", "to", "the", "cinema", "this", "evening?"],
+      "answer": "Why don't we go to the cinema this evening?"
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm agree with you about the Italian restaurant.",
+      "answer": false,
+      "explanation": "I agree with you about the Italian restaurant. Never say I am agree."
+    }
+  ]
+}

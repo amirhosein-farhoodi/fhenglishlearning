@@ -1,0 +1,193 @@
+{
+  "number": 38,
+  "title": "Have / had / had",
+  "subtitle": "have breakfast, have a look, have got",
+  "summary": "Use have with meals, lessons and drinks, learn the everyday expressions with have, and use have got and have to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What can you have?",
+      "text": "**Have** goes with a lot of everyday words. You can **have** a meal, **have** a party, **have** a lesson or **have** a drink. Learn the words in groups - it is much easier to remember them.",
+      "examples": [
+        { "text": "I always **have** coffee in the morning." },
+        { "text": "We can **have** dinner before the film, or we can eat after it." },
+        { "text": "I **have** an exam tomorrow, so I have to study tonight." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "have + these words",
+      "columns": ["Group", "You can have ..."],
+      "rows": [
+        ["Meals", "breakfast / lunch / dinner / a meal"],
+        ["Events", "a party / a meeting / a game (of football, tennis ...)"],
+        ["Study", "a lesson / an exam / homework"],
+        ["Food and drink", "a cup of tea / a cup of coffee / a drink / an ice cream / some cheese"],
+        ["Water", "a shower / a bath / a swim"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions with have",
+      "text": "These expressions are very common. **Have a look** means look at it. **Have a go** means try it or ride it. **Have a word with someone** means speak to them. **Have a good time** means enjoy yourself.",
+      "examples": [
+        { "text": "Is that your camera? Can I **have a look**?" },
+        { "text": "Is that your bicycle? Can I **have a go**?" },
+        { "text": "Do you **have a moment**? Can I **have a word** with you?" },
+        { "text": "We always **have a good time** in our English lessons." },
+        { "text": "Goodbye! **Have a good journey**!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "have my hair cut / have the time",
+      "text": "When someone else does something for you, we say **have something done**. And if you are too busy for something, you say you do not **have the time**.",
+      "examples": [
+        { "text": "I'm going to **have my hair cut**. Can you meet me at the hairdresser's?", "wrong": "have cut my hair" },
+        { "text": "I want to learn to ski but I don't **have the time**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "have got and have",
+      "left": {
+        "label": "have got (speaking / informal)",
+        "text": "We use have got a lot when we speak.",
+        "examples": [
+          "I've **got** three sisters.",
+          "**Have** you **got** any brothers and sisters?",
+          "It's **got** five bedrooms and three bathrooms.",
+          "I've **got** a cold. / I've **got** a headache."
+        ]
+      },
+      "right": {
+        "label": "have (writing / formal)",
+        "text": "We use have on its own in writing.",
+        "examples": [
+          "I **have** three sisters.",
+          "Do you **have** any brothers and sisters?",
+          "The house **has** five bedrooms.",
+          "*A:* Do you sell postcards? *B:* Yes, but we **haven't got** any at the moment."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "have to / have got to",
+      "text": "We use **have to** or **have got to** when the situation means you must do something. In the past we use **had to**, without *got*.",
+      "examples": [
+        { "text": "The museum's not free. You **have to** pay $10 to go in." },
+        { "text": "All students **have to** do an exam." },
+        { "text": "My sister needs the car, so I've **got to** walk to school this week." },
+        { "text": "When I was a student, I **had to** write an essay every week.", "wrong": "I had got to write" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Group expressions that belong to the same topic: have + meals (breakfast, lunch, dinner), have + study words (a lesson, an exam, homework)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I have a tennis ___ every Saturday morning. My teacher is excellent.",
+      "hint": "(one word)",
+      "answers": ["lesson", "class"],
+      "explanation": "We have a lesson, an exam or homework."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Evelyn's having a ___ on Saturday. All her friends are invited. Are you going?",
+      "hint": "(one word)",
+      "answers": ["party"],
+      "explanation": "We have a party, a meeting or a game."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have an ___ tomorrow, so I have to study tonight.",
+      "hint": "(one word)",
+      "answers": ["exam", "test"],
+      "explanation": "We have an exam or a test."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Is that your bicycle? Can I have a ___? I'd love to ride it.",
+      "options": ["go", "look", "word", "journey"],
+      "answer": 0,
+      "explanation": "Have a go means try it or ride it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Is that your new camera? Can I have a ___?",
+      "options": ["look", "go", "word", "time"],
+      "answer": 0,
+      "explanation": "Have a look means look at it."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you say in each situation? Match them.",
+      "pairs": [
+        { "left": "Someone is going away on a long trip.", "right": "Have a good journey!" },
+        { "left": "Someone sneezes and has a red nose.", "right": "Have you got a cold?" },
+        { "left": "Your friend has a new camera.", "right": "Can I have a look?" },
+        { "left": "You need to speak to your teacher.", "right": "Can I have a word with you?" },
+        { "left": "Your friend has a new bicycle.", "right": "Can I have a go?" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Scarlett has gone to the hairdresser's to have cut her hair.",
+      "answer": false,
+      "explanation": "Scarlett has gone to the hairdresser's to have her hair cut."
+    },
+    {
+      "type": "true_false",
+      "statement": "I want to have some words with my teacher after the lesson.",
+      "answer": false,
+      "explanation": "I want to have a word with my teacher after the lesson."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mum didn't have the ___ to go to the shop today. She was too busy.",
+      "hint": "(one word)",
+      "answers": ["time"],
+      "explanation": "We say I don't have the time, not the times."
+    },
+    {
+      "type": "categorize",
+      "prompt": "We say have + all of these. Put each one in the right group.",
+      "categories": ["Food and drink", "School", "Free time"],
+      "items": [
+        { "text": "breakfast", "category": 0 },
+        { "text": "a cup of tea", "category": 0 },
+        { "text": "an ice cream", "category": 0 },
+        { "text": "a lesson", "category": 1 },
+        { "text": "an exam", "category": 1 },
+        { "text": "homework", "category": 1 },
+        { "text": "a party", "category": 2 },
+        { "text": "a game of football", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Everybody at the school must do this test. Say it.",
+      "words": ["All", "students", "have", "to", "do", "an", "exam."],
+      "answer": "All students have to do an exam.",
+      "explanation": "Have to means the situation makes you do it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I was a student, I ___ write an essay every week.",
+      "hint": "(have to - past)",
+      "answers": ["had to"],
+      "explanation": "In the past we say had to, without got."
+    },
+    {
+      "type": "true_false",
+      "statement": "They don't have any cake in the cafe today.",
+      "answer": true,
+      "explanation": "Correct. You can also say: They haven't got any cake today."
+    }
+  ]
+}

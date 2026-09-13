@@ -1,0 +1,185 @@
+{
+  "number": 53,
+  "title": "Phoning and texting",
+  "subtitle": "Is that Joe?, get through, engaged, ASAP",
+  "summary": "Start and manage a phone call in English, explain problems on the line, and read common text abbreviations.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A call between friends",
+      "text": "When British people answer the phone at home, they usually just say *hello*. To check who you are speaking to, say **Is that ...?** To say who you are, say **It's ...** Both are fixed phrases, so the words never change.",
+      "examples": [
+        { "text": "*Joe:* Hello? *Lily:* **Is that** Joe?", "wrong": "Are you Joe?" },
+        { "text": "*Joe:* Yeah. *Lily:* Hi. **It's** Lily.", "wrong": "I am Lily" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A business call",
+      "text": "A business call is more formal. You ask **Could I speak to ...?** The receptionist asks **Who's calling, please?** and then says **I'm putting you through** - I'm connecting you. If the caller says your name, you answer **Speaking**.",
+      "examples": [
+        { "text": "*Receptionist:* Good morning. Chalfont Electronics. *Paul:* Oh, **could I speak to** Jane Gordon, please?" },
+        { "text": "*Receptionist:* Yes. **Who's calling**, please? *Paul:* **My name is** Paul Sharp from Bexel Plastics." },
+        { "text": "*Receptionist:* Right, Mr Sharp. **I'm putting you through** ..." },
+        { "text": "*Paul:* Mrs Gordon? *Jane:* **Speaking**.", "note": "= Yes, this is Mrs Gordon." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Problems on the phone",
+      "text": "You can **ring** someone, **phone** someone or **give** someone **a ring** - they all mean the same. If you cannot **get through** to them, the **line** may be **engaged** because they are **on the phone** to somebody else, or you have **dialled the wrong number**.",
+      "examples": [
+        { "text": "I tried to **ring** you this morning but I think you were **on the phone** to your mother." },
+        { "text": "I **gave** her **a ring**, but I couldn't **get through**; the line was **engaged**." },
+        { "text": "I think I **dialled the wrong number** - I got a very angry person on the phone!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Messages",
+      "text": "If the person is **out** (not there; you can also say *not in*), you can leave a message on their **answerphone**. Later you hope they will **phone you back** - return your call.",
+      "examples": [
+        { "text": "I **left a message** on Dan's **answerphone** as he was **out**." },
+        { "text": "He never **phoned me back**, so I don't know if he **got my message**." },
+        { "text": "*A:* Mr Fallow isn't in. Can I ask him to **ring you back** later? *B:* Yes, please." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Phone numbers",
+      "columns": ["Question", "Example answer"],
+      "rows": [
+        ["What's your home phone number? (also landline)", "603 884"],
+        ["What's your mobile number?", "07723 259369"],
+        ["What's the emergency number for the police, fire or ambulance?", "999 (in the UK)"],
+        ["What's the dialling code for the UK?", "0044"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common text abbreviations",
+      "columns": ["Abbreviation", "Meaning"],
+      "rows": [
+        ["ASAP", "as soon as possible"],
+        ["B4 / 2DAY / 2MORO", "before / today / tomorrow"],
+        ["CU", "see you"],
+        ["BF / GF", "boyfriend / girlfriend"],
+        ["IMO", "in my opinion"],
+        ["FYI", "for your information"],
+        ["PLS / THX", "please / thanks"],
+        ["U / Y", "you / why?"],
+        ["LOL", "laughing out loud"],
+        ["X", "kiss"]
+      ],
+      "note": "Many people use their mobile **mainly** for **texting** - sending short written messages from one phone to another."
+    },
+    {
+      "type": "tip",
+      "text": "Two phone phrases to learn by heart: *Is that Joe?* (not ~~Are you Joe?~~) and *It's Lily.* (not ~~Here is Lily~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Hello? *B:* Hi. ___ Serena.",
+      "hint": "(say who you are)",
+      "answers": ["it's", "it is"],
+      "explanation": "On the phone we say It's Serena, not 'I am Serena'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Hello. *B:* Hi. ___ Carlos? *A:* Yeah, speaking.",
+      "hint": "(two words: check who you are speaking to)",
+      "answers": ["is that"],
+      "explanation": "We say Is that Carlos?, not 'Are you Carlos?'"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each text abbreviation with its meaning.",
+      "pairs": [
+        { "left": "ASAP", "right": "as soon as possible" },
+        { "left": "CU", "right": "see you" },
+        { "left": "IMO", "right": "in my opinion" },
+        { "left": "FYI", "right": "for your information" },
+        { "left": "LOL", "right": "laughing out loud" },
+        { "left": "THX", "right": "thanks" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Who's ___, please? *B:* My name is Liam Matthews.",
+      "hint": "(the receptionist asks who you are)",
+      "answers": ["calling"],
+      "explanation": "Who's calling, please? is the polite way to ask for the caller's name."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One moment, please. I'm ___ you through.",
+      "hint": "(= connecting you)",
+      "answers": ["putting"],
+      "explanation": "I'm putting you through means I'm connecting you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You answer the phone and the caller says 'Mrs Gordon?'. What do you reply?",
+      "options": ["Speaking.", "I am.", "Here is Mrs Gordon.", "Yes, I am her."],
+      "answer": 0,
+      "explanation": "Speaking. is the fixed reply meaning 'Yes, this is Mrs Gordon'."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would you hear this in a formal business call or in a call between friends?",
+      "categories": ["Formal business call", "Call between friends"],
+      "items": [
+        { "text": "Who's calling, please?", "category": 0 },
+        { "text": "Hi. It's Lily.", "category": 1 },
+        { "text": "Could I speak to Jane Gordon, please?", "category": 0 },
+        { "text": "Is that Joe?", "category": 1 },
+        { "text": "I'm putting you through.", "category": 0 },
+        { "text": "Good morning. Chalfont Electronics.", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I rang her twice last night, but I couldn't get ___.",
+      "hint": "(make contact with her)",
+      "answers": ["through"],
+      "explanation": "If you cannot get through, you cannot make contact with the person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't speak to her because the line was ___.",
+      "hint": "(somebody else was using it)",
+      "answers": ["engaged", "busy"],
+      "explanation": "An engaged line is a line that is already being used."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry about that. I was ___ the phone to my brother for about an hour.",
+      "hint": "(one small word)",
+      "answers": ["on"],
+      "explanation": "If you are on the phone, you are using the phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Oliver wasn't there, so I left a message on his ___.",
+      "hint": "(the machine that takes messages)",
+      "answers": ["answerphone", "answer phone"],
+      "explanation": "You leave a message on someone's answerphone when they are out."
+    },
+    {
+      "type": "true_false",
+      "statement": "Hello. Are you Joe? Here is Lily.",
+      "answer": false,
+      "explanation": "Hello. Is that Joe? It's Lily. We use Is that ...? and It's ... on the phone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask the receptionist politely for the person you want.",
+      "words": ["Could", "I", "speak", "to", "Jane", "Gordon,", "please?"],
+      "answer": "Could I speak to Jane Gordon, please?",
+      "explanation": "Could I speak to ..., please? is the normal way to ask for someone in a business call."
+    }
+  ]
+}

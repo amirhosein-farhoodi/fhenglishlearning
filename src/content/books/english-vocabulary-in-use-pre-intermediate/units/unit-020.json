@@ -1,0 +1,202 @@
+{
+  "number": 20,
+  "title": "Health",
+  "subtitle": "a sore throat, a headache, it hurts, an operation",
+  "summary": "Say what is wrong with you, describe pain, and talk about serious illnesses and hospital.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "What's the matter? What should you do?",
+      "columns": ["The problem", "The advice"],
+      "rows": [
+        ["I've got a sore throat and a temperature.", "That sounds like flu. You should see a doctor."],
+        ["I've cut my arm; it's bleeding.", "Put a bandage round it."],
+        ["I've got a terrible cough.", "Go to the chemist and get some cough medicine."],
+        ["I've got a headache.", "Take some tablets for the pain. (also pills)"],
+        ["I feel sick.", "Go to the bathroom quickly!"]
+      ],
+      "note": "Medicine is something you take to treat an illness. The chemist is the shop where you buy it."
+    },
+    {
+      "type": "explain",
+      "heading": "a or no a?",
+      "text": "Some health words take **a**: *a cough*, *a headache*, *a sore throat*, *a temperature*, *a heart attack*, *a pain in my foot*. Others take no article: *flu*, *backache*, *cancer*, *hepatitis*.",
+      "examples": [
+        { "text": "Luis's got **a** temperature and **a** sore throat." },
+        { "text": "Zarita's got **flu**.", "wrong": "Zarita's got a flu." },
+        { "text": "I've got **backache** again." },
+        { "text": "My uncle had **a** heart attack last year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "ache",
+      "text": "An **ache** is pain that is not always strong, but often continues. It goes with certain parts of the body. To **suffer from** something means to often have the pain of it.",
+      "examples": [
+        { "text": "I've got a head**ache**." },
+        { "text": "Aria's got stomach **ache**." },
+        { "text": "My dad **suffers from** back**ache**." },
+        { "text": "By the end of the day my feet were **aching**.", "note": "ache is also a verb for pain that continues" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "pain and hurt",
+      "left": {
+        "label": "a pain",
+        "text": "For most parts of the body we use **a pain in** + the part.",
+        "examples": [
+          "I've got a **pain in** my shoulder.",
+          "She's got a **pain in** her foot."
+        ]
+      },
+      "right": {
+        "label": "hurt / painful",
+        "text": "For stronger or more sudden pain we use the verb **hurt** or the adjective **painful**.",
+        "examples": [
+          "My throat **hurts** when I speak.",
+          "I hit my leg on the table and it's very **painful**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Serious illnesses",
+      "text": "For **serious** (= bad) illnesses you will probably **go into hospital**. A person who stays in hospital is called a **patient**. Many patients need an **operation**, when special doctors called **surgeons** cut into the body for medical reasons. This is also called **surgery**.",
+      "examples": [
+        { "text": "I understand Lena has had quite a **serious** illness. She was in hospital for over a week." },
+        { "text": "The **patient** is having an **operation** tomorrow morning." },
+        { "text": "The **surgeon** said the **surgery** went well." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Parts of the body and serious illnesses",
+      "columns": ["Part of the body", "Illness"],
+      "rows": [
+        ["the lungs", "lung cancer can be caused by smoking"],
+        ["the heart", "heart attacks can happen very suddenly"],
+        ["the liver", "hepatitis is a disease affecting the liver"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "disease or illness?",
+      "text": "**Disease** is used for more serious medical problems, often affecting certain parts of the body, e.g. *heart disease*. **Illness** is used for serious and minor problems, and for problems of the mind, e.g. *mental illness*. Disease is not used about a period of being ill.",
+      "examples": [
+        { "text": "He died after a long **illness**.", "wrong": "He died after a long disease." },
+        { "text": "Heart **disease** is common in this country." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In British English we say go into hospital and be in hospital, with no the, when you go there as a patient."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words that go together.",
+      "pairs": [
+        { "left": "lung", "right": "cancer" },
+        { "left": "heart", "right": "attack" },
+        { "left": "surgeon", "right": "operation" },
+        { "left": "sore", "right": "throat" },
+        { "left": "hepatitis", "right": "liver" },
+        { "left": "tablets", "right": "medicine" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the word take a, or no article?",
+      "categories": ["a ...", "no article"],
+      "items": [
+        { "text": "cough", "category": 0 },
+        { "text": "sore throat", "category": 0 },
+        { "text": "headache", "category": 0 },
+        { "text": "heart attack", "category": 0 },
+        { "text": "flu", "category": 1 },
+        { "text": "backache", "category": 1 },
+        { "text": "cancer", "category": 1 },
+        { "text": "hepatitis", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Does your finger hurt? *B:* Yes, it's very ___.",
+      "hint": "(adjective from pain)",
+      "answers": ["painful"],
+      "explanation": "Painful is the adjective we use for strong or sudden pain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's wrong with Dimitrios? *B:* He feels ___. I think it's something he ate.",
+      "hint": "(one word)",
+      "answers": ["sick"],
+      "explanation": "Feel sick = feel that the food in your stomach may come up again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you hit your foot? *B:* Yes, and it really ___.",
+      "hint": "(hurt)",
+      "answers": ["hurts"],
+      "explanation": "We use hurt for stronger or more sudden pain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* My hand's bleeding quite badly. *B:* Well, put a ___ round it.",
+      "hint": "(one word)",
+      "answers": ["bandage", "a bandage"],
+      "explanation": "You put a bandage round a cut that is bleeding."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Your finger's ___. *B:* I know. I cut it using that knife.",
+      "hint": "(bleed)",
+      "answers": ["bleeding"],
+      "explanation": "If a cut is bleeding, blood is coming out of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Does Tanya still ___ from bad headaches? *B:* Yes, she gets them all the time.",
+      "hint": "(one word + from)",
+      "answers": ["suffer"],
+      "explanation": "Suffer from something = often have the pain of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's the matter? *B:* My back ___ from sitting at that computer all day.",
+      "hint": "(ache)",
+      "answers": ["aches", "is aching"],
+      "explanation": "Ache is also a verb, for pain that continues for some time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I understand Lena has had quite a ___ illness. *B:* Yeah. She was in hospital for over a week.",
+      "options": ["serious", "sore", "painful", "minor"],
+      "answer": 0,
+      "explanation": "Serious = bad. For serious illnesses you go into hospital."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You've got a sore throat and a temperature. What should you do?",
+      "options": ["See a doctor - it sounds like flu.", "Put a bandage round it.", "Go to the bathroom quickly.", "Get some cough medicine for your arm."],
+      "answer": 0,
+      "explanation": "A sore throat with a temperature sounds like flu, so you should see a doctor."
+    },
+    {
+      "type": "true_false",
+      "statement": "A person who stays in hospital is called a patient.",
+      "answer": true,
+      "explanation": "Correct. Many patients need an operation, done by a surgeon."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a fact about smoking.",
+      "words": ["Lung", "cancer", "can", "be", "caused", "by", "smoking."],
+      "answer": "Lung cancer can be caused by smoking.",
+      "explanation": "Cancer takes no article here: lung cancer, not ~~a lung cancer~~."
+    }
+  ]
+}

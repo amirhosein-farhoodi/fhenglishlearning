@@ -1,0 +1,166 @@
+{
+  "number": 31,
+  "title": "Animals",
+  "subtitle": "a cow, a calf, beef; pets and wild animals",
+  "summary": "Name farm animals, wild animals and pets, and say what farm animals give us and what their babies are called.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Farm animals",
+      "columns": ["Animal", "What it gives us", "Its baby"],
+      "rows": [
+        ["horse", "hair, meat", "foal"],
+        ["cow", "milk, leather, meat (beef)", "calf"],
+        ["sheep", "wool, meat (lamb)", "lamb"],
+        ["pig", "meat (pork, bacon, ham)", "piglet"],
+        ["chicken / hen", "eggs, meat (chicken)", "chick"],
+        ["goat", "milk, meat", "kid"]
+      ],
+      "note": "The meat often has a different name from the animal: cow gives us beef, pig gives us pork."
+    },
+    {
+      "type": "explain",
+      "heading": "Wild and zoo animals",
+      "text": "In a zoo, or in hot countries, you can see a **monkey**, a **tiger**, a **giraffe**, a **snake**, a **lion**, an **elephant** and a **tortoise**.",
+      "examples": [
+        { "text": "A **giraffe** has a very long neck." },
+        { "text": "**Tigers** and **lions** are large cats." },
+        { "text": "A **tortoise** goes to sleep in winter." },
+        { "text": "You can ride a horse and an **elephant**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Pets",
+      "text": "A **pet** is an animal you keep at home. The most popular pets are a **dog**, a **cat**, a **rabbit**, a **fish** and a **parrot**. A parrot is a **bird**.",
+      "examples": [
+        { "text": "**Rabbits** are very good at hopping and jumping." },
+        { "text": "**Fish** swim and **birds** fly." },
+        { "text": "**Parrots** and hens are **birds**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Looking after animals",
+      "text": "You must **feed** your animals and **give them water** every day. You **take** a dog **for a walk**.",
+      "examples": [
+        { "text": "**Take** your dog **for a walk** every day." },
+        { "text": "Don't forget to **feed** the cat and to **give** it some water." },
+        { "text": "**Do you have any pets**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Sheep and fish are the same in the singular and the plural: one sheep, ten sheep - not ~~ten sheeps~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the farm animal with its baby.",
+      "pairs": [
+        { "left": "cow", "right": "calf" },
+        { "left": "sheep", "right": "lamb" },
+        { "left": "pig", "right": "piglet" },
+        { "left": "hen", "right": "chick" },
+        { "left": "goat", "right": "kid" },
+        { "left": "horse", "right": "foal" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the animal with the meat it gives us.",
+      "pairs": [
+        { "left": "a cow", "right": "beef" },
+        { "left": "a pig", "right": "pork" },
+        { "left": "a sheep", "right": "lamb" },
+        { "left": "a hen", "right": "chicken" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ has a very long neck.",
+      "hint": "(a tall African animal)",
+      "answers": ["giraffe"],
+      "explanation": "A giraffe is the animal with the very long neck."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ has a hard shell on its back and goes to sleep in winter.",
+      "hint": "(it moves very slowly)",
+      "answers": ["tortoise"],
+      "explanation": "A tortoise sleeps all through the winter."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tigers and ___ are large wild cats.",
+      "options": ["lions", "rabbits", "parrots", "goats"],
+      "answer": 0,
+      "explanation": "Lions and tigers are both big cats."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ are very good at hopping and jumping, and they have long ears.",
+      "hint": "(a popular pet, plural)",
+      "answers": ["Rabbits"],
+      "explanation": "Rabbits hop and jump."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these animals is a bird?",
+      "options": ["a parrot", "a snake", "a rabbit", "a tortoise"],
+      "answer": 0,
+      "explanation": "A parrot is a bird. Hens and chickens are birds too."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't forget to ___ the cat and to give it some water.",
+      "hint": "(give it food)",
+      "answers": ["feed"],
+      "explanation": "We feed an animal when we give it food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ my dog for a walk every day before school.",
+      "hint": "(four letters)",
+      "answers": ["take"],
+      "explanation": "We take a dog for a walk."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You can ride a horse and an ___.",
+      "options": ["elephant", "snake", "parrot", "rabbit"],
+      "answer": 0,
+      "explanation": "Horses and elephants are big enough to ride."
+    },
+    {
+      "type": "true_false",
+      "statement": "My uncle keeps ten sheeps and two goats on his farm.",
+      "answer": false,
+      "explanation": "My uncle keeps ten sheep and two goats on his farm. Sheep is the same in the singular and the plural."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a farm animal, a wild animal or a pet?",
+      "categories": ["Farm animal", "Wild animal", "Pet"],
+      "items": [
+        { "text": "a cow", "category": 0 },
+        { "text": "a sheep", "category": 0 },
+        { "text": "a pig", "category": 0 },
+        { "text": "a tiger", "category": 1 },
+        { "text": "a giraffe", "category": 1 },
+        { "text": "an elephant", "category": 1 },
+        { "text": "a cat", "category": 2 },
+        { "text": "a rabbit", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend about the animals they keep at home.",
+      "words": ["Do", "you", "have", "any", "pets?"],
+      "answer": "Do you have any pets?",
+      "explanation": "A pet is an animal you keep at home."
+    }
+  ]
+}

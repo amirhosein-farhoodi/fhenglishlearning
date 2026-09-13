@@ -1,0 +1,194 @@
+{
+  "number": 76,
+  "title": "Fixed phrases in conversation",
+  "subtitle": "I've no idea, no way, in that case",
+  "summary": "Learn the short fixed phrases English speakers use to answer, to show surprise and to keep a conversation going.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Common responses",
+      "text": "A lot of fixed phrases are used as short answers in everyday conversation. Learn them as whole phrases: you cannot change the words inside them.",
+      "examples": [
+        { "text": "*A:* What time did he get here? *B:* **I've no idea.**", "note": "= I don't know" },
+        { "text": "*A:* Are you going tonight? *B:* **That depends.**", "note": "= I'm not sure, because other things affect my answer. Also It depends." },
+        { "text": "*A:* Shall we go out tonight? *B:* Yeah, **why not**?", "note": "= OK" },
+        { "text": "*A:* Did you like the film? *B:* **Not really.**", "note": "= no, but not strongly" },
+        { "text": "*A:* Jason has grown a beard. *B:* **I suppose so.**", "note": "= yes, but not strongly" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The phrases and what they mean",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["I've no idea.", "I don't know."],
+        ["That depends. / It depends.", "I'm not sure; other things affect my answer."],
+        ["Why not?", "OK, yes."],
+        ["Not really.", "No, but I'm not saying it strongly."],
+        ["I suppose so.", "Yes, but I'm not saying it strongly."],
+        ["No way. / No chance.", "That's impossible. (informal)"],
+        ["Really? What for?", "Why?"],
+        ["I don't believe it!", "I'm very surprised."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Showing surprise",
+      "text": "When someone tells you something surprising, say **you must be joking** (also **you're joking** or **you're kidding**). The surprise can be bad or good. If the surprise was something you saw, say **I couldn't believe my eyes**.",
+      "examples": [
+        { "text": "*A:* We have to work tonight. *B:* **You must be joking.**" },
+        { "text": "*A:* My father said he would pay for all of us to go on holiday. *B:* **You're kidding.** Fantastic!" },
+        { "text": "*A:* Eli got top marks. *B:* I know. **I couldn't believe my eyes!**", "note": "= I was very surprised when I saw it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phrases inside a conversation",
+      "text": "These phrases hold a conversation together. **You know** fills a pause. **In that case** means because of the situation you have just described. **Let's wait and see** means wait and find out what happens.",
+      "examples": [
+        { "text": "I had to **have a word with** Vince and Milan today.", "note": "= speak to them without other people listening" },
+        { "text": "They just keep talking and they don't **pay attention**.", "note": "= listen" },
+        { "text": "Well, **in that case**, you'll have to move one of them." },
+        { "text": "I'd **feel bad about** that. They're quite nice boys." },
+        { "text": "They just **can't help it**.", "note": "= they can't control this behaviour" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking and deciding",
+      "text": "**What if ...?** asks what you will do if something happens. **Change your mind** means change your decision.",
+      "examples": [
+        { "text": "But **what if** they don't improve?", "note": "= what will you do if they don't improve?" },
+        { "text": "Let's **wait and see** what happens." },
+        { "text": "If you **change your mind**, come and see me again." },
+        { "text": "Are you still planning to sell the flat? No, I've **changed my mind**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "sort and kind in informal speech",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["that sort/kind of thing", "examples of that type", "I grow onions and carrots - that sort of thing."],
+        ["sort of / kind of", "approximately, more or less", "Her new top is sort of blue."],
+        ["you know", "fills a pause in conversation", "Well, it was quite difficult, you know."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn these phrases as one piece of language. Say *I've no idea*, not ~~I have no the idea~~, and *It depends on the weather*, not ~~It depends of the weather~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does the response mean yes, does it mean no, or is the speaker unsure or surprised?",
+      "categories": ["Positive (yes)", "Negative (no)", "Not sure or surprised"],
+      "items": [
+        { "text": "Why not?", "category": 0 },
+        { "text": "I suppose so.", "category": 0 },
+        { "text": "No way.", "category": 1 },
+        { "text": "Not really.", "category": 1 },
+        { "text": "You're kidding.", "category": 2 },
+        { "text": "That depends.", "category": 2 },
+        { "text": "I don't believe it!", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each fixed phrase with its meaning.",
+      "pairs": [
+        { "left": "I've no idea.", "right": "I don't know." },
+        { "left": "No way.", "right": "That's impossible." },
+        { "left": "In that case ...", "right": "Because of the situation you describe ..." },
+        { "left": "I couldn't believe my eyes.", "right": "I was very surprised when I saw it." },
+        { "left": "Have a word with someone", "right": "Speak to them without others listening." },
+        { "left": "Can't help it", "right": "Can't control that behaviour." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Little children shout and scream all the time; they can't ___ it.",
+      "options": ["help", "leave", "pay", "depend"],
+      "answer": 0,
+      "explanation": "Can't help it = can't control some behaviour."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* I went to Cambridge last week. *B:* Really? ___ for?",
+      "options": ["What", "Why", "How", "Where"],
+      "answer": 0,
+      "explanation": "The fixed phrase is What for? It means why?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The trouble with Mark is that he doesn't ___ attention.",
+      "hint": "(one word)",
+      "answers": ["pay"],
+      "explanation": "Pay attention = listen carefully."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know what they plan to do; we'll have to wait and ___.",
+      "hint": "(one word)",
+      "answers": ["see"],
+      "explanation": "Wait and see = wait to discover what will happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you speak to Nathalie? *B:* Yes, I ___ her.",
+      "hint": "(three words + her)",
+      "answers": ["had a word with"],
+      "explanation": "Have a word with someone = speak to them privately."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Dad wasn't happy about forgetting my birthday. *B:* No, he felt ___ that.",
+      "hint": "(two words)",
+      "answers": ["bad about"],
+      "explanation": "Feel bad about something = be unhappy about it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you know what time he'll be here? *B:* No, I'm afraid I've ___.",
+      "hint": "(two words = I don't know)",
+      "answers": ["no idea"],
+      "explanation": "I've no idea = I don't know."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you still planning to sell the flat? *B:* No, I've ___. I'm going to keep it now.",
+      "hint": "(two words - decision)",
+      "answers": ["changed my mind"],
+      "explanation": "Change your mind = change your decision."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Jerry says we'll have to walk all the way to the campsite. *B:* You must be ___! That's ten miles!",
+      "hint": "(one word)",
+      "answers": ["joking", "kidding"],
+      "explanation": "You must be joking / you're kidding shows that something is a big surprise."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* What do they sell? Put B's answer in order.",
+      "words": ["Oh,", "burgers,", "pizzas,", "that", "sort", "of", "thing."],
+      "answer": "Oh, burgers, pizzas, that sort of thing.",
+      "alternatives": ["Oh, burgers, pizzas, that kind of thing."],
+      "explanation": "That sort/kind of thing = other examples of the same type."
+    },
+    {
+      "type": "true_false",
+      "statement": "*A:* What colour was it? *B:* Kind of blue. - This means the colour was more or less blue.",
+      "answer": true,
+      "explanation": "Correct. Kind of / sort of before an adjective means approximately."
+    },
+    {
+      "type": "true_false",
+      "statement": "You are not sure about tonight because it depends on your work. You say: 'It depends of my work.'",
+      "answer": false,
+      "explanation": "It depends on my work. We say depend on, never depend of."
+    }
+  ]
+}

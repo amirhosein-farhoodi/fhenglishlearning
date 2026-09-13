@@ -1,0 +1,171 @@
+{
+  "number": 18,
+  "title": "Holidays",
+  "subtitle": "on holiday, package holiday, passport",
+  "summary": "Talk about different kinds of holiday, how you travel and what you must take with you.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Holiday",
+      "text": "**Holiday** is a noun. We **have** a holiday, we **go on** holiday, and when we are not working we are **on** holiday.",
+      "examples": [
+        { "text": "We **had** a lovely **holiday** in Egypt in 2014." },
+        { "text": "I'm not working next week. I'm **on holiday**." },
+        { "text": "Are you **going on holiday** this summer?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Types of holidays",
+      "text": "On a **package holiday** the flights and the hotel are included. When you sleep in a tent, you **go camping**. On a **coach tour** you travel in a comfortable bus.",
+      "examples": [
+        { "text": "We're going on a **package holiday** to Hong Kong.", "note": "flights and hotel are included" },
+        { "text": "We're going to have a **winter holiday** this year." },
+        { "text": "I want to **go camping** this year.", "note": "sleep in a tent" },
+        { "text": "I'm going on a **walking holiday** in the Alps." },
+        { "text": "A **coach tour** is an easy way to go on holiday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Transport",
+      "text": "We travel **by** plane, **by** train, **by** car, **by** ferry or **by** coach. We say **by** + the transport word, with no *a* or *the*.",
+      "examples": [
+        { "text": "*A:* Are you flying to France from England? *B:* No, we're going **by ferry**.", "wrong": "by the ferry" },
+        { "text": "I don't like flying, so I always go **by train**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Don't forget to take ...",
+      "columns": ["What you take", "Why"],
+      "rows": [
+        ["your passport", "you need it to go to another country"],
+        ["a visa", "a stamp in your passport for some countries"],
+        ["your tickets", "for the plane, train or ferry"],
+        ["some currency", "the money of the country you are going to"],
+        ["a camera", "for your holiday photos"],
+        ["your luggage", "e.g. a suitcase or a rucksack"]
+      ],
+      "note": "A rucksack is a bag you carry on your back."
+    },
+    {
+      "type": "explain",
+      "heading": "Useful expressions",
+      "text": "In a new place we like to try the **local** food and enjoy the **nightlife** (clubs and bars at night). Before your friends leave, you say **Have a great time!**",
+      "examples": [
+        { "text": "*A:* What are you going to do in Madrid? *B:* We want to try the **local** food and enjoy the **nightlife**." },
+        { "text": "**Have a great time!** And **send me a postcard**!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Luggage is uncountable: we say some luggage or two suitcases - not ~~two luggages~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you working on Monday? *B:* No, I'm on ___.",
+      "hint": "(one word)",
+      "answers": ["holiday"],
+      "explanation": "When you are not working, you are on holiday."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you ___ on holiday this year? *B:* Yes, I'm going camping.",
+      "hint": "(go)",
+      "answers": ["going"],
+      "explanation": "We go on holiday."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you have a good ___ in Greece? *B:* Yes, it was wonderful.",
+      "hint": "(four letters)",
+      "answers": ["time"],
+      "explanation": "We have a good time on holiday."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Are you flying to Italy? *B:* No, I'm going ___ train.",
+      "options": ["by", "on", "in", "with"],
+      "answer": 0,
+      "explanation": "We use by + transport: by train, by car, by ferry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm going to New York next week. *B:* Great! Please ___ me a postcard.",
+      "hint": "(one word)",
+      "answers": ["send"],
+      "explanation": "We send someone a postcard from our holiday."
+    },
+    {
+      "type": "matching",
+      "prompt": "What type of holiday is each person talking about?",
+      "pairs": [
+        { "left": "It was fun but the tent was very small.", "right": "camping" },
+        { "left": "Everything was included - hotels and flights.", "right": "a package holiday" },
+        { "left": "We were on the coach for seven days. I was very tired.", "right": "a coach tour" },
+        { "left": "We walked about 20 kilometres every day.", "right": "a walking holiday" },
+        { "left": "We went to Switzerland in December. There was a lot of snow.", "right": "a winter holiday" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "For some countries you need a special stamp in your passport. It is called a ___.",
+      "hint": "(four letters)",
+      "answers": ["visa"],
+      "explanation": "A visa is a stamp you need in your passport to enter some countries."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call the money of the country you are going to?",
+      "options": ["currency", "a ticket", "a visa", "luggage"],
+      "answer": 0,
+      "explanation": "Currency is the money of a country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "On a walking holiday you carry your things in a ___ on your back.",
+      "hint": "(eight letters)",
+      "answers": ["rucksack"],
+      "explanation": "A rucksack is a bag you carry on your back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm having a great time here in Spain. The ___ is great - the clubs are open all night.",
+      "hint": "(one word)",
+      "answers": ["nightlife"],
+      "explanation": "Nightlife means the clubs and bars you can go to at night."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it something you pack, or a way of travelling?",
+      "categories": ["You pack it", "A way of travelling"],
+      "items": [
+        { "text": "a passport", "category": 0 },
+        { "text": "a rucksack", "category": 0 },
+        { "text": "some currency", "category": 0 },
+        { "text": "a camera", "category": 0 },
+        { "text": "by ferry", "category": 1 },
+        { "text": "by coach", "category": 1 },
+        { "text": "by plane", "category": 1 },
+        { "text": "by train", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about their plans for the summer.",
+      "words": ["Are", "you", "going", "on", "holiday", "this", "summer?"],
+      "answer": "Are you going on holiday this summer?",
+      "explanation": "We go on holiday."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had a lovely holiday in Egypt, but we took too much luggages.",
+      "answer": false,
+      "explanation": "We had a lovely holiday in Egypt, but we took too much luggage. Luggage is uncountable."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "number": 83,
+  "title": "Uncountable nouns",
+  "subtitle": "luggage, advice, information, weather",
+  "summary": "Learn the everyday nouns that English treats as uncountable - no a/an and no plural - grouped by topic so that they are easier to remember.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are uncountable nouns?",
+      "text": "Countable nouns can be used with **a/an** and made plural: *a hat, two hats*. Uncountable nouns are not normally used with a/an and have no plural. They are easiest to learn in groups associated with the same subject.",
+      "examples": [
+        { "text": "Could you give me some **information**, please?", "wrong": "an information / some informations" },
+        { "text": "We bought some new **furniture** at the weekend.", "wrong": "some new furnitures" },
+        { "text": "What terrible **weather**!", "wrong": "What a terrible weather!" },
+        { "text": "I have some **news** for you: Henry is getting married.", "wrong": "I have a news for you" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Groups of uncountable nouns",
+      "columns": ["Topic", "Uncountable nouns"],
+      "rows": [
+        ["Travel", "luggage, baggage, accommodation, money, currency, information, transport, travel"],
+        ["Food", "food, sugar, rice, spaghetti, butter, bread, flour, soup"],
+        ["Abstract ideas and activities", "advice, knowledge, progress, research, work, homework, experience, wealth, poverty, happiness"],
+        ["Materials and resources", "cloth, silk, leather, coal, oil, stone, brick, plastic, equipment, software"],
+        ["Other common ones", "news, weather"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Abstract nouns in use",
+      "text": "Many of the most useful abstract nouns in English are uncountable. Use **some**, **any**, **a lot of** or **a great deal of** with them instead of a number.",
+      "examples": [
+        { "text": "She gave me some **advice** on how to study for the exam." },
+        { "text": "I picked up some interesting **knowledge** on that course." },
+        { "text": "She's made a lot of **progress** in a very short time." },
+        { "text": "She has done some **research** on marine life." },
+        { "text": "Do you have any **experience** of working with children?" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "travel, journey and trip",
+      "left": {
+        "label": "travel (uncountable)",
+        "text": "Use **travel** for the general idea of travelling.",
+        "examples": [
+          "**Travel** broadens the mind.",
+          "She works in the **travel** industry."
+        ]
+      },
+      "right": {
+        "label": "a journey / a trip (countable)",
+        "text": "For one individual occasion, use **journey** or **trip**.",
+        "examples": [
+          "It was a very long **journey**. (not a very long travel)",
+          "She was away on a business **trip** for three days. (not a business travel)"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Uncountable and countable partners",
+      "columns": ["Uncountable", "Countable with a related meaning"],
+      "rows": [
+        ["money", "a coin"],
+        ["bread", "a loaf"],
+        ["information", "a fact"],
+        ["advice", "a recommendation"],
+        ["travel", "a trip"],
+        ["work", "a job"],
+        ["baggage", "a case"]
+      ],
+      "note": "Baggage is more common than luggage in American English."
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs after uncountable nouns",
+      "text": "An uncountable noun always takes a **singular** verb, even when it refers to a large amount. This catches out learners who translate directly from their own language.",
+      "examples": [
+        { "text": "Her research **is** definitely making great progress these days.", "wrong": "Her researches are making great progresses" },
+        { "text": "My knowledge in that area **is** very poor.", "wrong": "My knowledges are very poor" },
+        { "text": "**Poverty** is the biggest problem in many countries.", "wrong": "A poverty is the biggest problem" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you really need to count an uncountable noun, put a counting word in front of it: *a piece of advice*, *two items of luggage*, *a loaf of bread*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Sort these nouns into uncountable and countable.",
+      "categories": ["Uncountable", "Countable"],
+      "items": [
+        { "text": "money", "category": 0 },
+        { "text": "bread", "category": 0 },
+        { "text": "information", "category": 0 },
+        { "text": "advice", "category": 0 },
+        { "text": "baggage", "category": 0 },
+        { "text": "coin", "category": 1 },
+        { "text": "loaf", "category": 1 },
+        { "text": "trip", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each uncountable noun with the countable noun that has a related meaning.",
+      "pairs": [
+        { "left": "money", "right": "coin" },
+        { "left": "bread", "right": "loaf" },
+        { "left": "information", "right": "fact" },
+        { "left": "advice", "right": "recommendation" },
+        { "left": "work", "right": "job" },
+        { "left": "baggage", "right": "case" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry, I can't come. I have some ___ to do.",
+      "hint": "(what the teacher gives you to do at home)",
+      "answers": ["homework"],
+      "explanation": "Homework is uncountable: some homework, not a homework or homeworks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You'll need some ___ if you want to make a Chinese meal.",
+      "hint": "(an uncountable food word)",
+      "answers": ["rice"],
+      "explanation": "Rice, like sugar, flour and spaghetti, is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have some ___ for you: you're going to meet the President next week!",
+      "hint": "(uncountable, though it ends in -s)",
+      "answers": ["news"],
+      "explanation": "News looks plural but is uncountable and takes a singular verb: the news is good."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's doing ___ teenage slang in English for her university project.",
+      "hint": "(research + preposition)",
+      "answers": ["research into", "some research into"],
+      "explanation": "We do research into a subject; research is uncountable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "We had such terrible weather that we found some accommodation in town.",
+        "We had such a terrible weather that we found an accommodation in town.",
+        "We had such terrible weathers that we found accommodations in town.",
+        "We had such a terrible weather that we found some accommodations in town."
+      ],
+      "answer": 0,
+      "explanation": "Weather and accommodation are both uncountable - no a/an, no plural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the south of England, most houses are made of ___, but in the north, ___ is more common.",
+      "options": ["stone / brick", "stones / bricks", "stone / bricks", "a stone / a brick"],
+      "answer": 0,
+      "explanation": "As building materials, stone and brick are uncountable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What ___ do you need to go skiing? If you can give me any ___, I would be grateful.",
+      "options": ["equipment / information", "equipments / informations", "equipment / informations", "equipments / information"],
+      "answer": 0,
+      "explanation": "Equipment and information never take a plural -s."
+    },
+    {
+      "type": "true_false",
+      "statement": "Oil exports have produced a great deal of wealth for the country.",
+      "answer": true,
+      "explanation": "Correct - wealth is uncountable and goes well with a great deal of."
+    },
+    {
+      "type": "true_false",
+      "statement": "Package holidays often include transports from the airport to your accommodations.",
+      "answer": false,
+      "explanation": "Package holidays often include transport from the airport to your accommodation."
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't have any experiences of working in education, but I would like to do some voluntary works in a school.",
+      "answer": false,
+      "explanation": "I don't have any experience of working in education, but I would like to do some voluntary work in a school."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["I", "bought", "some", "new", "software", "that", "shows", "you", "the", "kind", "of", "weather", "every", "country", "has."],
+      "answer": "I bought some new software that shows you the kind of weather every country has.",
+      "explanation": "Software and weather are both uncountable, so neither takes a plural -s."
+    }
+  ]
+}

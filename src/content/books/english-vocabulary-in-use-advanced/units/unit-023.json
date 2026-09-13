@@ -1,0 +1,205 @@
+{
+  "number": 23,
+  "title": "Food: a recipe for disaster",
+  "subtitle": "free-range, additives, half-baked",
+  "summary": "Read a food label with confidence - additives, free-range, fair trade - and use the metaphors English cooks up from food, from grilling a suspect to letting someone stew.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What the label tells you",
+      "text": "Food production is increasingly industrialised and globalised, so knowing what our food contains matters more than ever. Adjectives like **wholesome** (good for you), 'farm fresh' and 'homemade' can be vague and meaningless, and the international numbering system for **additives** - substances added to improve taste or appearance, or to preserve food - is often incomprehensible.",
+      "examples": [
+        { "text": "The label gave no **nutrition** information, so I didn't know if it was good for me.", "note": "nutrition labels indicate how the food influences your health" },
+        { "text": "**Traffic-light labelling** shows high (red), medium (amber) or low (green) levels of fat, sugar and salt." },
+        { "text": "I try to make my diet as **wholesome** as possible." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Descriptions with a clear official meaning",
+      "columns": ["Term", "What it means"],
+      "rows": [
+        ["wholefoods", "foods that have had no natural features taken away and no artificial substances added"],
+        ["free-range", "produced by farm animals allowed to move around outside, not kept in cages or stalls"],
+        ["gluten-free", "not containing the protein found in wheat and some other grains"],
+        ["preservatives", "chemicals used to stop food from decaying"],
+        ["unprocessed", "not treated with chemicals that preserve food or give it extra taste or colour"],
+        ["fair trade", "a way of buying and selling that makes certain the original producer receives a fair price"],
+        ["battery farming", "producing eggs or meat cheaply by keeping a lot of birds in rows of small cages"],
+        ["convenience foods", "foods that are almost ready to eat or quick to prepare"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Who needs the information",
+      "text": "Clear, scientifically accurate descriptions are vital for people with **food allergies** - the adjective is **allergic (to)** - and for vegetarians and **vegans**, who eat no animal products at all, not even eggs or cheese. They also matter to shoppers concerned about **animal welfare**, and, given public concern over bad diet and **obesity**, to everyone.",
+      "examples": [
+        { "text": "I can't eat curry - it makes me come out in red spots. I'm **allergic** to one of the spices." },
+        { "text": "I'm a vegetarian, but I don't think I could ever become a **vegan**." },
+        { "text": "It worries me that farm animals are sometimes treated so badly - **animal welfare** should come first." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Food metaphors: planning and inventing",
+      "text": "A **recipe for disaster** (or for success) is a situation sure to lead to that result. To **cook up** a story or a scheme is to invent it. Something with **all the ingredients of** a hit has all the necessary characteristics. A **half-baked** plan is unrealistic or not thought through properly.",
+      "examples": [
+        { "text": "Inviting Sophie and her ex-husband to the same party was **a recipe for disaster**." },
+        { "text": "He **cooked up** a story about his kitchen being flooded." },
+        { "text": "The film has **all the ingredients of** a box office hit." },
+        { "text": "I'm sure this is another of his **half-baked** schemes that will never come to anything." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Food metaphors: people and feelings",
+      "text": "To **let someone stew** (or **stew in their own juice**) is to let them worry or suffer over something that is their own fault. To **grill** someone is to ask them a lot of searching questions. Something that is **not my cup of tea** is not the type of thing I like.",
+      "examples": [
+        { "text": "I'm not going to call him. I'm going to **let him stew** for another few days." },
+        { "text": "The police **grilled** the suspect for hours, but eventually let him go." },
+        { "text": "It's kind of you to invite me, but ballet isn't really **my cup of tea**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More food metaphors",
+      "text": "To **spice up** something is to make it more lively. **Unsavoury** characters are unpleasant and morally offensive. When a relationship or a business **turns sour**, things go wrong. And **juicy** gossip is exciting and interesting.",
+      "examples": [
+        { "text": "Let's hire a karaoke machine - that'll **spice up** the office party." },
+        { "text": "Rick has started hanging around with some **unsavoury** characters." },
+        { "text": "They started their business with high hopes but things soon **turned sour**." },
+        { "text": "Let's go for a coffee and you can tell me all the **juicy** gossip." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Half-baked criticises the thinking behind an idea; unsavoury criticises the character of a person. Neither has anything to do with actual food."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Six shoppers describe what they buy. Match each one with what matters to them.",
+      "pairs": [
+        { "left": "It worries me that farm animals are sometimes treated so badly.", "right": "animal welfare" },
+        { "left": "I want my food to be 100% natural.", "right": "no additives" },
+        { "left": "I buy coffee that gives growers in developing countries a decent price.", "right": "fair trade" },
+        { "left": "I can't eat curry - it makes me come out in red spots.", "right": "a food allergy" },
+        { "left": "I can't be bothered cooking - I buy ready-made meals and tins.", "right": "convenience foods" },
+        { "left": "I never buy eggs that come from battery farms.", "right": "free-range products" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The label gave no ___ information, so I didn't know if it was good for me.",
+      "hint": "(n...)",
+      "answers": ["nutrition", "nutritional"],
+      "explanation": "A nutrition label indicates how the food influences your health."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ system of labelling is easy to understand with just three familiar colours.",
+      "hint": "(red, amber, green)",
+      "answers": ["traffic-light", "traffic light"],
+      "explanation": "Traffic-light labelling shows high (red), medium (amber) or low (green) levels of fat, sugar and salt."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's sometimes difficult to find ___ foods - everything seems to contain chemicals or preservatives.",
+      "hint": "(not treated with chemicals)",
+      "answers": ["unprocessed"],
+      "explanation": "Unprocessed foods have not been treated with chemicals to preserve them or add taste or colour."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister has to have a ___ diet as wheat makes her ill.",
+      "hint": "(no wheat protein)",
+      "answers": ["gluten-free", "gluten free"],
+      "explanation": "Gluten-free food does not contain the protein found in wheat and some other grains."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm a vegetarian but I don't think I could ever become a ___. I would find the diet too restrictive.",
+      "hint": "(no animal products at all)",
+      "answers": ["vegan"],
+      "explanation": "A vegan does not eat or use any animal products, such as meat, fish, eggs or cheese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My diet is mostly natural foods because I buy a lot of ___.",
+      "hint": "(nothing taken away, nothing added)",
+      "answers": ["wholefoods", "wholefood"],
+      "explanation": "Wholefoods have not had any natural features taken away or artificial substances added."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My mother ___ me for an hour about where I had been last night.",
+      "hint": "(asked searching questions)",
+      "answers": ["grilled"],
+      "explanation": "To grill someone is to ask them a lot of searching questions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel I need something more exciting to ___ my life.",
+      "hint": "(spice ... = make more lively)",
+      "answers": ["spice up"],
+      "explanation": "To spice something up is to make it more lively."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must fill me in on all the ___ gossip.",
+      "hint": "(exciting and interesting)",
+      "answers": ["juicy"],
+      "explanation": "Juicy gossip is exciting and interesting."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Don't tell her her phone has been found. Let her ___ - perhaps she'll be more careful in future.",
+      "options": ["stew", "grill", "spice", "cook"],
+      "answer": 0,
+      "explanation": "To let someone stew (in their own juice) is to let them worry or suffer over their own mistake."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He wanted me to go to the match with him, but rugby just isn't ___.",
+      "options": ["my cup of tea", "half-baked", "a recipe for disaster", "unsavoury"],
+      "answer": 0,
+      "explanation": "Something not your cup of tea is not the type of thing you like."
+    },
+    {
+      "type": "true_false",
+      "statement": "Patience combined with interest in your pupils is a recipe for success for a teacher.",
+      "answer": true,
+      "explanation": "Correct - a recipe for something is a situation sure to lead to that result, good or bad."
+    },
+    {
+      "type": "true_false",
+      "statement": "Jake's ideas are always well thought through - they are completely half-baked.",
+      "answer": false,
+      "explanation": "Half-baked means the opposite: unrealistic or not thought through properly."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each item a real food label term, or a food metaphor?",
+      "categories": ["Food label term", "Food metaphor"],
+      "items": [
+        { "text": "free-range", "category": 0 },
+        { "text": "preservatives", "category": 0 },
+        { "text": "fair trade", "category": 0 },
+        { "text": "battery farming", "category": 0 },
+        { "text": "cook up a story", "category": 1 },
+        { "text": "turn sour", "category": 1 },
+        { "text": "unsavoury characters", "category": 1 },
+        { "text": "all the ingredients of a hit", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order.",
+      "words": ["He", "has", "cooked", "up", "a", "crazy", "scheme", "for", "making", "money", "on", "the", "internet"],
+      "answer": "He has cooked up a crazy scheme for making money on the internet",
+      "explanation": "To cook something up is to invent or make it up."
+    }
+  ]
+}

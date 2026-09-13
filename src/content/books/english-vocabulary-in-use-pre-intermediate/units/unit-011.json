@@ -1,0 +1,186 @@
+{
+  "number": 11,
+  "title": "Describing character",
+  "subtitle": "reliable, generous, patient",
+  "summary": "Describe what people are like - reliable, generous, patient, shy - and form the opposites with un-, im- and dis-.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are you like?",
+      "text": "Your **character** is what you are like as a person. To ask about it we say *What is he like?* The answer is a simple description with *He's ...*",
+      "examples": [
+        { "text": "*A:* What's your new boss **like**?", "wrong": "How is he like?" },
+        { "text": "*B:* He's very nice.", "wrong": "He's like very nice." },
+        { "text": "I think I'm a very **positive** person.", "note": "= I believe good things will happen" },
+        { "text": "I'm quite a **negative** person." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A character quiz",
+      "columns": ["Word", "What it means", "Opposite"],
+      "rows": [
+        ["positive", "believes that good things will happen", "negative"],
+        ["reliable", "can be trusted to do what people expect", "unreliable"],
+        ["confident", "feels sure about themselves and their abilities", "shy"],
+        ["hard-working", "puts a lot of effort into their work", "lazy"],
+        ["has a good sense of humour", "can laugh and see when something is funny", "serious"],
+        ["patient", "stays calm and does not get angry", "impatient"]
+      ],
+      "note": "A **shy** person is not confident, especially about meeting or talking to new people. A **serious** person is quiet and does not laugh very much."
+    },
+    {
+      "type": "compare",
+      "heading": "Opposites",
+      "left": {
+        "label": "Positive",
+        "examples": [
+          "**generous** - happy to give more money or help than is usual",
+          "**honest** - an honest person tells the truth",
+          "**clever**, **intelligent** - able to learn and understand things quickly",
+          "**calm** - relaxed and not worried or frightened"
+        ]
+      },
+      "right": {
+        "label": "Negative",
+        "examples": [
+          "**mean**",
+          "**dishonest**",
+          "**stupid**",
+          "**nervous**, **anxious**"
+        ]
+      },
+      "note": "Notice the prefixes: *un-* (unreliable, unkind), *im-* (impatient) and *dis-* (dishonest)."
+    },
+    {
+      "type": "explain",
+      "heading": "kind, nice, friendly, pleasant",
+      "text": "We use **kind** for someone who wants to help people a lot. We use **nice**, **friendly** or **pleasant** for someone who is happy to talk to people. The opposites are **unkind**, **unfriendly** and **unpleasant**.",
+      "examples": [
+        { "text": "Aurora helped me bake some cakes last week; she's very **kind**." },
+        { "text": "The people next door are very **friendly**; they always stop and chat." },
+        { "text": "He was quite **unpleasant** to the waiter, and that made me angry." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Describing a friend",
+      "text": "The first thing I would say about my best friend is that she's very **sensible** - practical, and she doesn't do stupid things. I've never known Emilia do anything **silly**, and I know I can always **trust** her.",
+      "examples": [
+        { "text": "She's also very **creative**; she makes things and has lots of new ideas." },
+        { "text": "Emilia is a very **talented** artist.", "note": "= she has a natural ability" },
+        { "text": "I **wish** I had her talent.", "note": "= I would like her talent but I haven't got it" },
+        { "text": "I **trust** her completely.", "note": "= I am sure she is honest" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ask *What is she like?* to learn about someone's character - not ~~How is she like?~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is each word positive or negative?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "nice", "category": 0 },
+        { "text": "mean", "category": 1 },
+        { "text": "sensible", "category": 0 },
+        { "text": "lazy", "category": 1 },
+        { "text": "calm", "category": 0 },
+        { "text": "generous", "category": 0 },
+        { "text": "unpleasant", "category": 1 },
+        { "text": "nervous", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother is in the office from 8 am to 6 pm every day. He is very ___.",
+      "hint": "(one word with a hyphen)",
+      "answers": ["hard-working", "hardworking"],
+      "explanation": "Someone who puts a lot of effort into their work is hard-working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He has never bought me a drink in ten years. He's very ___.",
+      "hint": "(the opposite of generous)",
+      "answers": ["mean"],
+      "explanation": "A mean person does not like giving or spending money. The opposite is generous."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Emma finds it difficult to meet people and talk to strangers. What is she?",
+      "options": ["shy", "confident", "lazy", "generous"],
+      "answer": 0,
+      "explanation": "A shy person is not confident about meeting or talking to new people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My teacher explains things again and never gets angry. She is very ___.",
+      "hint": "(stays calm when things take a long time)",
+      "answers": ["patient"],
+      "explanation": "A patient person stays calm and does not get angry."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "sensible", "right": "practical, and doesn't do stupid things" },
+        { "left": "talented", "right": "has a natural ability" },
+        { "left": "creative", "right": "good at thinking of new ideas" },
+        { "left": "generous", "right": "happy to give money or help" },
+        { "left": "confident", "right": "feels sure about themselves" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She often promises to do things but sometimes she forgets. She's a bit ___.",
+      "hint": "(reliable + a prefix)",
+      "answers": ["unreliable"],
+      "explanation": "The opposite of reliable is unreliable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the correct opposite of honest?",
+      "options": ["dishonest", "unhonest", "imhonest", "inhonest"],
+      "answer": 0,
+      "explanation": "Honest takes the prefix dis-: dishonest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister can't wait for anything; she's so ___.",
+      "hint": "(patient + a prefix)",
+      "answers": ["impatient"],
+      "explanation": "Patient takes the prefix im-: impatient."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I get very ___ before exams; I need to try and relax a bit more.",
+      "hint": "(the opposite of calm)",
+      "answers": ["nervous", "anxious"],
+      "explanation": "Nervous and anxious are the opposites of calm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I always have a laugh with my cousin - he's got a great sense of ___.",
+      "hint": "(one word)",
+      "answers": ["humour"],
+      "explanation": "Someone who makes you laugh has a good sense of humour."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend about her brother's character.",
+      "words": ["What", "is", "your", "brother", "like?"],
+      "answer": "What is your brother like?",
+      "explanation": "What is he/she like? asks about character."
+    },
+    {
+      "type": "true_false",
+      "statement": "He failed his exams, but he isn't stupid. He just didn't do any work.",
+      "answer": true,
+      "explanation": "Correct. Stupid is the opposite of clever or intelligent, and the sentence uses it properly."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "number": 38,
+  "title": "Working in an office",
+  "subtitle": "photocopier, paperwork, run out of",
+  "summary": "Name the things in an office, describe the work people do there, and talk about the problems of a bad day.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Office equipment",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["**photocopier**", "a machine that makes copies of documents"],
+        ["**printer**", "a machine that prints documents from a computer"],
+        ["**keyboard**", "the part of a computer with the letter keys on it"],
+        ["**filing cabinet**", "a tall piece of furniture where you keep **files**"],
+        ["**noticeboard**", "a board on the wall where you put messages and information"],
+        ["**calendar**", "something on the wall that tells you the date"],
+        ["**diary**", "a book where you write down appointments and things you have to do"],
+        ["**calculator**", "a small machine that adds up numbers and does maths"],
+        ["**(rubbish) bin**", "the place where you throw away paper you don't want"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Office work",
+      "text": "Josh works for a company which **produces** furniture. He doesn't work in the factory where the furniture is made, but in the offices across the road. His job **involves** quite a lot of **paperwork**: work that uses paper, e.g. reports and forms.",
+      "examples": [
+        { "text": "The company **produces** furniture.", "note": "produce = make" },
+        { "text": "His job **involves** quite a lot of paperwork.", "note": "involve = include doing" },
+        { "text": "He **types** letters to different companies.", "note": "type = write using a keyboard" },
+        { "text": "He sends out **invoices** to customers.", "note": "an invoice shows how much the customer has to pay" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "arrange, attend and organise",
+      "text": "Josh has to **arrange** (plan and prepare) visits to other companies and **make appointments** for his boss. Sometimes he **shows visitors round** the factory, and occasionally he has to **attend** meetings.",
+      "examples": [
+        { "text": "He has to **arrange** visits to other companies." },
+        { "text": "He **makes appointments** for his boss.", "note": "an appointment is an arranged time when you meet someone" },
+        { "text": "Sometimes he **shows** visitors **round** the factory." },
+        { "text": "Occasionally he has to **attend** meetings.", "note": "attend is formal; in everyday English we say go to" },
+        { "text": "One of his most important tasks is to **organise** the office party every year." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs and nouns",
+      "columns": ["Verb", "Noun"],
+      "rows": [
+        ["arrange", "arrangement"],
+        ["organise", "organisation"],
+        ["attend", "attendance"],
+        ["produce", "production"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Office problems",
+      "text": "Josh is having a bad day. When a machine stops working, it **breaks down**. When there is no more of something, you have **run out of** it. The people you work with are your **colleagues**.",
+      "examples": [
+        { "text": "The photocopier **has broken down**.", "note": "= it has stopped working" },
+        { "text": "The computer **isn't working**." },
+        { "text": "The printer **has run out of** paper.", "note": "= it has no more paper" },
+        { "text": "Two of his **colleagues** are **absent**.", "note": "absent = not in the office; in everyday English we say off" },
+        { "text": "There is **loads of** work to do.", "note": "loads of = lots of; informal" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A machine *breaks down*, but you *run out of* the things it uses - paper, ink, coffee."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I threw all that old paper in the rubbish ___.",
+      "hint": "(one word)",
+      "answers": ["bin"],
+      "explanation": "A rubbish bin is the place where you throw away paper you don't want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He put most of the documents in the filing ___.",
+      "hint": "(one word)",
+      "answers": ["cabinet"],
+      "explanation": "A filing cabinet is where you keep your files."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very boring job and I spend most of my time doing general paper___.",
+      "hint": "(finish the word)",
+      "answers": ["work", "paperwork"],
+      "explanation": "Paperwork is work that uses paper, e.g. reports and forms."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I told him to put the details on the notice___.",
+      "hint": "(finish the word)",
+      "answers": ["board", "noticeboard"],
+      "explanation": "A noticeboard is a board on the wall for messages and information."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the right office word.",
+      "pairs": [
+        { "left": "People you work with", "right": "colleagues" },
+        { "left": "Something on a wall which tells you the date", "right": "calendar" },
+        { "left": "A book where you write down appointments", "right": "diary" },
+        { "left": "A paper showing what a customer must pay", "right": "invoice" },
+        { "left": "A device that helps you do maths", "right": "calculator" },
+        { "left": "An informal word meaning 'lots'", "right": "loads" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What does the company do? *B:* It ___ electronic equipment.",
+      "hint": "(one word, = makes)",
+      "answers": ["produces", "makes"],
+      "explanation": "To produce something means to make it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I can't come on Friday. *B:* OK. Do you want me to make another ___ for you?",
+      "hint": "(an arranged time to meet someone)",
+      "answers": ["appointment"],
+      "explanation": "You make an appointment when you arrange a time to meet someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Why can't we use the printer? *B:* It's run ___ of ink.",
+      "hint": "(one word)",
+      "answers": ["out"],
+      "explanation": "To run out of something means to have no more of it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Do you have to ___ meetings? *B:* Yes, sometimes, if my boss is away.",
+      "options": ["attend", "arrange", "produce", "involve"],
+      "answer": 0,
+      "explanation": "To attend a meeting is the formal way of saying to go to a meeting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* We've got some visitors coming tomorrow. *B:* Would you like me to show them ___ the factory?",
+      "hint": "(one word)",
+      "answers": ["round", "around"],
+      "explanation": "To show someone round means to take them from place to place and explain things."
+    },
+    {
+      "type": "true_false",
+      "statement": "'My boss is off today' means the same as 'My boss is absent today'.",
+      "answer": true,
+      "explanation": "Correct. Off is the everyday word; absent is more formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'The photocopier is broken.' Another way to say this is: The photocopier isn't ___.",
+      "hint": "(one word)",
+      "answers": ["working"],
+      "explanation": "When a machine stops working we say it isn't working or it has broken down."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right group.",
+      "categories": ["Verb", "Noun"],
+      "items": [
+        { "text": "arrange", "category": 0 },
+        { "text": "organise", "category": 0 },
+        { "text": "attend", "category": 0 },
+        { "text": "arrangement", "category": 1 },
+        { "text": "organisation", "category": 1 },
+        { "text": "attendance", "category": 1 },
+        { "text": "production", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that there is a lot of work today, using an informal phrase.",
+      "words": ["We've", "got", "loads", "of", "work", "today."],
+      "answer": "We've got loads of work today.",
+      "explanation": "Loads of is an informal way of saying lots of."
+    }
+  ]
+}

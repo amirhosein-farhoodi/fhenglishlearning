@@ -1,0 +1,308 @@
+{
+  "number": 7,
+  "title": "Following a lecture or talk",
+  "subtitle": "Main points, connections and explanations",
+  "summary": "Separate a talk's main points from its asides, use a summary to keep your place, and predict the technical terms a lecturer will explain.",
+  "media": [
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/vda0emqv",
+      "label": "Track 27",
+      "title": "Paul the palaeontologist, part 1",
+      "caption": "How Paul ended up studying dinosaurs. Some details are the point; some are just colour."
+    },
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/dvw6klmw",
+      "label": "Track 28",
+      "title": "Four academic extracts",
+      "caption": "Methods, effects, reasons, conclusions, findings - which is which?"
+    },
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/er9i1iuz",
+      "label": "Track 29",
+      "title": "Paul the palaeontologist, part 2",
+      "caption": "Short-answer questions: NO MORE THAN TWO WORDS."
+    },
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/2ekfsdoo",
+      "label": "Track 30",
+      "title": "Mice and pigeons",
+      "caption": "Two research extracts full of technical terms - each one explained as it arrives."
+    }
+  ],
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Not everything said is a main point",
+      "text": "At the start of a talk you are told who the speaker is and why they are talking. You are not tested on that, but it tells you the **purpose** of the talk - and the questions only ever ask about points that serve that purpose. Everything else is background.",
+      "examples": [
+        {
+          "text": "**I had to do a compulsory unit on extinction**",
+          "note": "main point - this is how he first became interested in palaeontology"
+        },
+        {
+          "text": "**I immediately changed courses**",
+          "note": "main point - this is when he began to study it"
+        },
+        {
+          "text": "**I found a funny-looking piece of rock**",
+          "note": "main point - this encouraged him to continue"
+        },
+        {
+          "text": "*an old professor studying dried-up dinosaur bones*",
+          "note": "background - just how people picture palaeontologists"
+        },
+        {
+          "text": "*It's an ancestor of the modern Australian wombat*",
+          "note": "background - an explanation of what a Diprotodon is"
+        },
+        {
+          "text": "*the very first field trip I went on*",
+          "note": "background - nothing happened on that trip"
+        }
+      ],
+      "note": "Ask yourself: does this move the story forward, or just decorate it?"
+    },
+    {
+      "type": "explain",
+      "heading": "Turn every gap into a question",
+      "text": "A summary-completion task looks hard until you convert each gap into a question. Then you are listening for an answer rather than scanning for a word.",
+      "examples": [
+        {
+          "text": "*Paul was interested in the ___ so took an ecology course.*",
+          "note": "Why did Paul take an ecology course? Answer: **environment**"
+        },
+        {
+          "text": "*The course included a section on ___*",
+          "note": "What did the course include? Answer: **extinction**"
+        },
+        {
+          "text": "*He describes the conditions as ___*",
+          "note": "What are the conditions usually like? Answer: **extreme**"
+        },
+        {
+          "text": "*the discovery of a ___ from an ancient animal*",
+          "note": "What did Paul find? Answer: **tooth**"
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The script and the summary say the same thing",
+      "left": {
+        "label": "What you hear",
+        "examples": [
+          "*My main interest has been ...*",
+          "*As a part of my degree course, I had to do a compulsory unit on ...*",
+          "*a lecturer ... I was fascinated*",
+          "*I found a ...*"
+        ]
+      },
+      "right": {
+        "label": "What the summary says",
+        "examples": [
+          "Paul was interested in ...",
+          "The course included a section on ...",
+          "an interesting lecture",
+          "the discovery of a ..."
+        ]
+      },
+      "note": "The information appears in the **same order** in the summary as in the recording. That is what makes a summary useful for keeping your place."
+    },
+    {
+      "type": "table",
+      "heading": "What kind of information is this?",
+      "columns": [
+        "Type",
+        "Signals"
+      ],
+      "rows": [
+        [
+          "the methods used in a study",
+          "we looked at, we measured, the sample was, we compared"
+        ],
+        [
+          "the effects of an action",
+          "led to, resulted in, meant that, as a consequence"
+        ],
+        [
+          "the reason an action was carried out",
+          "because, in order to, the aim was, we wanted to find out"
+        ],
+        [
+          "the conclusions drawn from research",
+          "this suggests, we can therefore say, it seems clear that"
+        ],
+        [
+          "the findings of an experiment",
+          "we found, the results showed, what emerged was"
+        ]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Technical terms get explained",
+      "text": "Do not panic at an unfamiliar word in the questions. In an academic talk, a technical term is nearly always defined or paraphrased the moment it appears - and the explanation is often the answer.",
+      "examples": [
+        {
+          "text": "A talk on mice: *cells*, *diet* and *exercise*.",
+          "note": "The finding: a lack of exercise made the cells appear older - not that diet had no effect."
+        },
+        {
+          "text": "A talk on pigeons: how they navigate.",
+          "note": "The new discovery is about the **ears**, not the beak or the magnetic field - those were already known."
+        }
+      ],
+      "note": "An option can be wrong because it is *old news* rather than untrue. Listen for *we've known for decades* and *has been proven to be false*."
+    },
+    {
+      "type": "tip",
+      "text": "Write the question words next to each gap during your reading time - *what? when? why? how many?*. It takes fifteen seconds and it stops you writing a noun where the gap needs a number."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Paul explains how he became a palaeontologist. Which details serve that purpose?",
+      "categories": [
+        "A main point",
+        "Background colour"
+      ],
+      "items": [
+        {
+          "text": "I had to do a compulsory unit on extinction",
+          "category": 0
+        },
+        {
+          "text": "I immediately changed courses",
+          "category": 0
+        },
+        {
+          "text": "I found a funny-looking piece of rock",
+          "category": 0
+        },
+        {
+          "text": "an old professor studying dried-up dinosaur bones",
+          "category": 1
+        },
+        {
+          "text": "It's an ancestor of the modern Australian wombat",
+          "category": 1
+        },
+        {
+          "text": "the very first field trip I went on",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Paul was interested in the ___ so took an ecology course.* (ONE WORD ONLY)",
+      "hint": "(the natural world around us)",
+      "answers": [
+        "environment"
+      ],
+      "explanation": "Turning the gap into a question - *What was Paul interested in?* - is what makes it findable."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each extract with the type of information it gives.",
+      "pairs": [
+        {
+          "left": "We compared two samples over six months.",
+          "right": "the methods used in a study"
+        },
+        {
+          "left": "This led to a sharp fall in numbers.",
+          "right": "the effects of an action"
+        },
+        {
+          "left": "The aim was to find out why they migrate.",
+          "right": "the reason an action was carried out"
+        },
+        {
+          "left": "We can therefore say the theory holds.",
+          "right": "the conclusions drawn from research"
+        },
+        {
+          "left": "The results showed no change at all.",
+          "right": "the findings of an experiment"
+        }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The gaps in a summary-completion task follow the order of the recording.",
+      "answer": true,
+      "explanation": "That is exactly why a summary is useful: it tells you where you are in the talk, even if you miss a gap."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The question is *What new discovery have scientists made about pigeons?* You hear that pigeons use the Earth's magnetic field and that this has been known for decades. Why is that option wrong?",
+      "options": [
+        "Because it is not true",
+        "Because it is not new",
+        "Because pigeons were not mentioned",
+        "Because it uses more than two words"
+      ],
+      "answer": 1,
+      "explanation": "The question asks what is *new*. Something known for decades is a distractor even though it is perfectly true."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*He describes the conditions in the field as ___.* (ONE WORD ONLY)",
+      "hint": "(very difficult; far from normal)",
+      "answers": [
+        "extreme"
+      ],
+      "explanation": "*What are the conditions usually like?* - that is the question the gap is really asking."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why are you told who the speaker is at the start of a talk?",
+      "options": [
+        "Because there is a question about it",
+        "Because it gives you the purpose of the talk, which the questions follow",
+        "Because you must write the speaker's name on the answer sheet",
+        "Because the speaker changes halfway through"
+      ],
+      "answer": 1,
+      "explanation": "You are not tested on it, but it frames everything else - the questions only ask about points serving that purpose."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the question hidden in the gap *Paul says working in palaeontology can be ___.*",
+      "words": [
+        "What",
+        "is",
+        "the",
+        "work",
+        "usually",
+        "like?"
+      ],
+      "answer": "What is the work usually like?",
+      "explanation": "A gap after *can be* needs an adjective, so the question starts *What ... like?*"
+    },
+    {
+      "type": "true_false",
+      "statement": "If you see a technical term you do not know in the questions, you should assume that question is lost.",
+      "answer": false,
+      "explanation": "Technical terms are nearly always explained in the talk itself. The explanation is often exactly what the question is testing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In a study of mice, cells either deteriorated or showed less change, and nothing was said about diet. Which option is a distractor?",
+      "options": [
+        "A lack of exercise made them appear older",
+        "Their cells remained the same as they aged",
+        "Exercise affected the cells",
+        "The study looked at mice"
+      ],
+      "answer": 1,
+      "explanation": "The cells did change in both groups, so *remained the same* is contradicted by the recording."
+    }
+  ]
+}

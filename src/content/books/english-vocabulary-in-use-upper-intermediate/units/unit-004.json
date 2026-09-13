@@ -1,0 +1,200 @@
+{
+  "number": 4,
+  "title": "Guessing and explaining meaning",
+  "subtitle": "context clues, false friends, It's a kind of ...",
+  "summary": "Learn to work out the meaning of an unfamiliar word from its context, its parts and other languages you know, and to explain a word you cannot name.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Clues in the context",
+      "text": "You do not need to look up every new word. Your **background knowledge** of the situation and the **words around** the unfamiliar word usually tell you enough.",
+      "examples": [
+        { "text": "If you already know there has just been an **earthquake** in a big city, you will understand the word the first time you hear it on the news." },
+        { "text": "Tara picked one tall yellow **gladiolus** to put in her new vase.", "note": "You have never seen the word, but the context makes it clear it is a flower." },
+        { "text": "Kate carried in a delicious chicken soup in a large **tureen** and we enjoyed several bowls each.", "note": "a tureen must be a kind of very large bowl used for soup" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grammatical clues",
+      "text": "The position of the word in the sentence tells you its **word class**, and that already narrows the meaning down a great deal.",
+      "examples": [
+        { "text": "Alejandro is very **superstitious** and would never walk under a ladder.", "note": "It comes after is and very, so it must be an adjective." },
+        { "text": "Mike came **gingerly** down the stairs, trying to avoid all the broken glass.", "note": "It describes how he came, so it must be an adverb: carefully and cautiously." },
+        { "text": "We would **clamber** over the farmer's gate and go right to the edge.", "note": "clamber = climb with difficulty" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Clues in the word itself",
+      "text": "A great many English words are built from other words you already know. Split a long word into its parts and the meaning often falls out.",
+      "examples": [
+        { "text": "a **headscarf** = a scarf worn on the head" },
+        { "text": "a **cement-mixer** = the machine used for mixing cement" },
+        { "text": "a **tree-lined** street = a street with trees along both sides" },
+        { "text": "**sugar-free** = it does not contain sugar" },
+        { "text": "a **warm-hearted** person = a kind person" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Prefixes and suffixes as clues",
+      "columns": ["Phrase", "What it means"],
+      "rows": [
+        ["to redirect a letter", "to send it to a different address"],
+        ["uncontrollable anger", "anger that cannot be controlled"],
+        ["pre-dinner drinks", "drinks before dinner"],
+        ["a bi-monthly report", "a report that comes out twice a month, or every two months"],
+        ["my ex-boss", "the person who used to be my boss"],
+        ["anti-tourist feelings", "feelings that are hostile to tourists"],
+        ["to disconnect the telephone", "to break the telephone connection"],
+        ["undelivered letters", "letters that have not been delivered"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other languages and false friends",
+      "text": "If your first language is of Latin or Germanic origin, many English words will resemble words you already know - and English has borrowed from many other languages too. But beware of **false friends**: words that look the same but mean something different.",
+      "examples": [
+        { "text": "**gift** in English means a present, but *Gift* in German means poison." },
+        { "text": "**longevity** contains *long* and *life*: it means living a long life." },
+        { "text": "A tortoise has a **lifespan** of more than 150 years.", "note": "lifespan = the time from birth to death" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Explaining an unknown word",
+      "text": "When you cannot name something, describe it. These four patterns will get you out of almost any gap in your vocabulary.",
+      "examples": [
+        { "text": "**It's probably something (a bit) like** a chair, but with no back." },
+        { "text": "**It's got to be something you use for** cleaning the kitchen floor." },
+        { "text": "**It's a kind of** bird / musical instrument / building." },
+        { "text": "**I think it must mean** bad-tempered." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Guess first, check afterwards. If you reach for a dictionary at every unknown word you will never build the skill of reading through one."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "A tortoise is a shelled reptile famed for its slowness and longevity. Match each word with its meaning.",
+      "pairs": [
+        { "left": "shelled", "right": "with a hard protective cover" },
+        { "left": "reptile", "right": "an animal like a snake or crocodile" },
+        { "left": "famed", "right": "well known" },
+        { "left": "longevity", "right": "living a long life" },
+        { "left": "hibernate", "right": "sleep through the winter" },
+        { "left": "tended", "right": "cared for" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Giant Tortoise may attain over 1.5 metres in length. *Attain* here means ___.",
+      "hint": "(one word)",
+      "answers": ["reach"],
+      "explanation": "Attain = reach. The context is a measurement, so nothing else fits."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They may have a lifespan of more than 150 years. A *lifespan* is the time from birth to ___.",
+      "hint": "(one word)",
+      "answers": ["death"],
+      "explanation": "Life + span: the length of time something lives."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Above the trees a buzzard hangs for a moment on the wind before soaring towards the hills. What is a buzzard?",
+      "options": [
+        "It must be a kind of bird.",
+        "It must be a kind of tool.",
+        "It must be a kind of bowl.",
+        "It must be a kind of flower."
+      ],
+      "answer": 0,
+      "explanation": "Only a bird hangs on the wind and soars."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Using a large chisel and a hammer, Jack knocked down the old garden wall. What is a chisel?",
+      "options": [
+        "A kind of tool used for chipping away at something.",
+        "A kind of small animal.",
+        "A kind of large bowl.",
+        "A kind of protective clothing."
+      ],
+      "answer": 0,
+      "explanation": "It is used together with a hammer, so it has to be a tool."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The water vole is one of the most rapidly declining creatures in Britain. What is a vole?",
+      "options": [
+        "A kind of small animal, something like a mouse.",
+        "A kind of tree.",
+        "A kind of river.",
+        "A kind of illness."
+      ],
+      "answer": 0,
+      "explanation": "The word *creatures* tells you it is an animal."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each compound with a simpler explanation.",
+      "pairs": [
+        { "left": "sugar-free", "right": "it doesn't contain sugar" },
+        { "left": "warm-hearted", "right": "kind" },
+        { "left": "tree-lined", "right": "with trees along both sides" },
+        { "left": "cement-mixer", "right": "a machine for mixing cement" },
+        { "left": "up to my eyes in work", "right": "terribly busy" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the prefix put the event before or after the main word?",
+      "categories": ["Before", "After"],
+      "items": [
+        { "text": "pre-dinner drinks", "category": 0 },
+        { "text": "a pre-departure check", "category": 0 },
+        { "text": "my ex-boss", "category": 1 },
+        { "text": "a post-match interview", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Letters that have not been delivered are ___ letters.",
+      "hint": "(deliver + prefix and suffix)",
+      "answers": ["undelivered"],
+      "explanation": "un- + deliver + -ed: not delivered."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anger that cannot be controlled is ___ anger.",
+      "hint": "(control + prefix and suffix)",
+      "answers": ["uncontrollable"],
+      "explanation": "un- + control + -able: not able to be controlled."
+    },
+    {
+      "type": "true_false",
+      "statement": "*Gift* in English and *Gift* in German are false friends.",
+      "answer": true,
+      "explanation": "Correct: in English a gift is a present, but in German Gift means poison."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you redirect a letter, you open it and read it.",
+      "answer": false,
+      "explanation": "To redirect a letter is to send it on to a different address."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Explain a word you don't know the name of.",
+      "words": ["It's", "got", "to", "be", "something", "you", "use", "for", "cleaning", "the", "kitchen", "floor."],
+      "answer": "It's got to be something you use for cleaning the kitchen floor.",
+      "explanation": "It's got to be something you use for ... is a useful way of describing an object whose name you don't know."
+    }
+  ]
+}

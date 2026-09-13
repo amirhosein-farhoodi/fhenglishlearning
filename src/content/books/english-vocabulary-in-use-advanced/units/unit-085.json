@@ -1,0 +1,231 @@
+{
+  "number": 85,
+  "title": "Abbreviations and acronyms",
+  "subtitle": "e.g., i.e., NB, ASAP, sitcom, et al.",
+  "summary": "Read and use the abbreviations English writing is full of - Latin ones such as e.g., i.e. and NB, acronyms such as NATO and PIN, blended words such as sitcom and wi-fi, and the academic set from fig. to et al.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Abbreviations pronounced as individual letters",
+      "columns": ["Abbreviation", "What it stands for"],
+      "rows": [
+        ["e.g.", "for example, from the Latin exempli gratia"],
+        ["i.e.", "that is, from the Latin id est"],
+        ["AD", "the year of our Lord, from the Latin Anno Domini; many people prefer CE (Common Era)"],
+        ["BC", "before Christ; many people prefer BCE (before the Common Era)"],
+        ["NB", "note well, from the Latin nota bene; a warning, or a way of pointing out something important"],
+        ["RSVP", "please reply, from the French; used on invitations"],
+        ["PTO", "please turn over"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More letter-by-letter abbreviations",
+      "columns": ["Abbreviation", "What it stands for"],
+      "rows": [
+        ["EU", "European Union"],
+        ["ID", "identity document - proof of who you are, such as a passport or driving licence"],
+        ["IQ", "intelligence quotient: a way of measuring intelligence using a system of numbers"],
+        ["USB", "Universal Serial Bus: a type of connection between a computer and an electronic device"],
+        ["FAQ", "frequently asked questions"],
+        ["ASAP", "as soon as possible"],
+        ["VIP", "very important person"],
+        ["UFO", "unidentified flying object; often used to talk about an alien spaceship"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Shortened and blended words",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["bedsit", "a flat with only one room, which is both a bedroom and a sitting room"],
+        ["sitcom", "situational comedy: a kind of humorous TV programme"],
+        ["sci-fi", "science fiction"],
+        ["info", "information"],
+        ["biodata", "biographical data: details about someone's life, job and achievements"],
+        ["biopic", "biographical picture: a film about the life of a real person"],
+        ["wi-fi", "wireless fidelity: wireless connection for computers and electronic communications"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Acronyms",
+      "text": "Some abbreviations are **acronyms**: they are formed from the first letters (or occasionally syllables) of a word or series of words, and they are pronounced as a word rather than letter by letter.",
+      "examples": [
+        { "text": "**AIDS** - acquired immune deficiency syndrome", "note": "said as one word, 'aids'" },
+        { "text": "**NATO** - North Atlantic Treaty Organisation", "note": "said as one word, 'nay-toe'" },
+        { "text": "**PIN** - personal identification number, used on credit and bank cards" },
+        { "text": "**VAT** - value-added tax, a kind of tax on goods", "note": "said either as one word or letter by letter" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Abbreviations used in academic writing and bibliographies",
+      "columns": ["Abbreviation", "Meaning", "Example"],
+      "rows": [
+        ["fig.", "figure: a picture or drawing, often numbered, in a book or document", "See fig. 2."],
+        ["ed. (plural eds.)", "editor/editors - the people who oversaw the contents, not the authors", "Smedley and Jones (eds.)"],
+        ["p. (plural pp.)", "page/pages", "see p. 26; see pp. 58-61 (everything from page 58 to page 61)"],
+        ["cf.", "compare", "Carter (1997) investigated core vocabulary (cf. Lee 1987)."],
+        ["et al.", "and others, for a work with several authors, usually three or more", "O'Keeffe et al. (2010) discuss this problem."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "e.g. introduces examples; i.e. restates the same thing in other words. Mixing them up is one of the commonest mistakes in academic writing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "This helmet dates from 500 ___ . It's over 1,500 years old.",
+      "hint": "(two possible abbreviations for years since the birth of Christ)",
+      "answers": ["AD", "CE"],
+      "explanation": "AD (Anno Domini) counts years since the birth of Christ; many people prefer CE, the Common Era."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The file extension, ___ the letters that follow its name, such as .docx or .jpg, tells you what type of file it is.",
+      "hint": "(Latin abbreviation for 'that is')",
+      "answers": ["i.e.", "ie"],
+      "explanation": "i.e. (id est) means that is - it restates something in other words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Type your message here. ___ , press 'save' before pressing 'send', or you may lose your message.",
+      "hint": "(Latin abbreviation for 'note well')",
+      "answers": ["NB", "N.B."],
+      "explanation": "NB (nota bene) is used as a warning or to point out something important."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fruits, ___ lemons, pears or grapes, are sometimes added when cooking poultry.",
+      "hint": "(Latin abbreviation for 'for example')",
+      "answers": ["e.g.", "eg"],
+      "explanation": "e.g. (exempli gratia) introduces examples."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each abbreviation with what it stands for.",
+      "pairs": [
+        { "left": "NATO", "right": "North Atlantic Treaty Organisation" },
+        { "left": "PIN", "right": "personal identification number" },
+        { "left": "VAT", "right": "value-added tax" },
+        { "left": "USB", "right": "Universal Serial Bus" },
+        { "left": "AIDS", "right": "acquired immune deficiency syndrome" },
+        { "left": "FAQ", "right": "frequently asked questions" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each shortened or blended word with its meaning.",
+      "pairs": [
+        { "left": "sitcom", "right": "a humorous TV programme built on one situation" },
+        { "left": "biopic", "right": "a film about the life of a real person" },
+        { "left": "sci-fi", "right": "science fiction" },
+        { "left": "bedsit", "right": "a flat whose one room is both bedroom and sitting room" },
+        { "left": "wi-fi", "right": "a wireless connection for computers and phones" },
+        { "left": "biodata", "right": "details of someone's life, job and achievements" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "If someone asks you for ID, what do they want?",
+      "options": [
+        "proof of identity, such as a passport or driving licence",
+        "your intelligence score",
+        "an immediate answer",
+        "your bank card number"
+      ],
+      "answer": 0,
+      "explanation": "ID stands for identity document."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If a party invitation says RSVP, what should you do?",
+      "options": ["reply", "turn the page over", "arrive early", "bring a gift"],
+      "answer": 0,
+      "explanation": "RSVP comes from French and means please reply."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you see PTO at the bottom of a document, what should you do next?",
+      "options": ["turn the page over", "print it out", "pay the tax", "phone the office"],
+      "answer": 0,
+      "explanation": "PTO stands for please turn over."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you are watching a sitcom, what are you more likely to want to do?",
+      "options": ["laugh", "cry", "take notes", "sing"],
+      "answer": 0,
+      "explanation": "A sitcom is a situational comedy - a humorous TV programme."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which is likely to be cheaper to rent in the same city street, a two-bedroom flat or a ___ ?",
+      "hint": "(a one-room flat)",
+      "answers": ["bedsit"],
+      "explanation": "A bedsit has only one room, serving as both bedroom and sitting room, so it costs less."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If someone asks you to take an ___ test, they want to find out your level of intelligence.",
+      "hint": "(two letters)",
+      "answers": ["IQ"],
+      "explanation": "IQ stands for intelligence quotient."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He manages to get into the ___ lounge at most airports. I don't know how he does it.",
+      "hint": "(three letters: very important person)",
+      "answers": ["VIP"],
+      "explanation": "VIP stands for very important person."
+    },
+    {
+      "type": "true_false",
+      "statement": "Smedley and Jones (eds.) means that Smedley and Jones wrote the book referred to.",
+      "answer": false,
+      "explanation": "It means they edited it - they oversaw the contents and structure but did not write it."
+    },
+    {
+      "type": "true_false",
+      "statement": "See pp. 33-37 means see the information on page 33 and on page 37 only.",
+      "answer": false,
+      "explanation": "It means all the information from page 33 to page 37 inclusive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Markov et al. means that Markov wrote the work with two or more other people.",
+      "answer": true,
+      "explanation": "Correct - et al. normally refers to three or more co-authors; if there are just two, both names are given."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does 'Cf. Oswald (1987)' ask the reader to do?",
+      "options": [
+        "compare this with Oswald's 1987 work",
+        "read Oswald (1987) instead",
+        "look at figure 1987",
+        "note that Oswald edited the work"
+      ],
+      "answer": 0,
+      "explanation": "cf. means compare."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each abbreviation said letter by letter, or as a whole word?",
+      "categories": ["Said letter by letter", "Said as a word"],
+      "items": [
+        { "text": "FAQ", "category": 0 },
+        { "text": "USB", "category": 0 },
+        { "text": "VIP", "category": 0 },
+        { "text": "ASAP", "category": 0 },
+        { "text": "NATO", "category": 1 },
+        { "text": "AIDS", "category": 1 },
+        { "text": "PIN", "category": 1 }
+      ]
+    }
+  ]
+}

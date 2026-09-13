@@ -1,0 +1,173 @@
+{
+  "number": 2,
+  "title": "Birth, marriage and death",
+  "subtitle": "was born, got married, died",
+  "summary": "Talk about the big moments in a life - being born, getting married and dying - with the right words and prepositions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Birth",
+      "text": "When a woman has a child, we say she **had a baby**. For the child we use **was born** - always with the verb *be*, and usually in the past.",
+      "examples": [
+        { "text": "Anna **had a baby** yesterday.", "wrong": "Anna got a baby" },
+        { "text": "He **was born** at 1.15 yesterday morning.", "wrong": "He born / He is born" },
+        { "text": "He **weighed** 3 kilograms.", "note": "weigh = to be a number of kilograms" },
+        { "text": "They are going to call him John, **after** his grandfather.", "note": "after = with the same name as" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Are you married?",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["single", "You do not have a partner."],
+        ["married", "You have a husband or a wife."],
+        ["widowed", "Your husband or wife has died."],
+        ["separated", "You and your partner do not live together any more."],
+        ["divorced", "Your marriage has legally ended."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The wedding",
+      "text": "On her wedding day a woman is the **bride** and a man is the **groom** (or bridegroom). Two people **get married**, and after the wedding they go on their **honeymoon**.",
+      "examples": [
+        { "text": "Harry and Sarah **got married**." },
+        { "text": "They **married** in 2001.", "note": "married without got is more formal" },
+        { "text": "Sarah **got married to** Harry.", "wrong": "got married with Harry" },
+        { "text": "They went on their **honeymoon** to Italy." },
+        { "text": "They **were married** for 15 years." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Death",
+      "text": "When a person **dies**, the family and friends go to the **funeral**. Be careful: **die** is the verb, **dead** is the adjective and **death** is the noun.",
+      "examples": [
+        { "text": "Then Harry became **ill**. He **died** last year." },
+        { "text": "He **died of** a heart attack." },
+        { "text": "Harry is **dead**.", "wrong": "Harry is died / Harry is death" },
+        { "text": "His **death** made her very sad." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "die, dead, death",
+      "columns": ["Word", "Kind of word", "Example"],
+      "rows": [
+        ["die / died", "verb", "Kelly's grandfather died last year."],
+        ["dead", "adjective", "Her grandmother has been dead for five years now."],
+        ["death", "noun", "His death made her very sad."],
+        ["funeral", "noun", "All the family came to the funeral."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Two little prepositions to remember: you get married **to** somebody, and you die **of** an illness."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Anna ___ a baby yesterday.",
+      "hint": "(have)",
+      "answers": ["had"],
+      "explanation": "We say have a baby, not get a baby."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["He was born in 1986.", "He born in 1986.", "He is born in 1986.", "He has born in 1986."],
+      "answer": 0,
+      "explanation": "We say was born or were born - always the past of be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "On her wedding day a woman is the ___.",
+      "hint": "(one word)",
+      "answers": ["bride"],
+      "explanation": "The bride is the woman who is getting married."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "On his wedding day a man is the ___.",
+      "hint": "(one word)",
+      "answers": ["groom", "bridegroom"],
+      "explanation": "The man who is getting married is the groom or bridegroom."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "single", "right": "you have no partner" },
+        { "left": "divorced", "right": "your marriage has legally ended" },
+        { "left": "widowed", "right": "your husband or wife has died" },
+        { "left": "honeymoon", "right": "a holiday after a wedding" },
+        { "left": "funeral", "right": "a service for a dead person" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In 2003 Anne got married ___ Daniel Smith.",
+      "hint": "(preposition)",
+      "answers": ["to"],
+      "explanation": "You get married to someone, not with someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Daniel's grandmother died ___ old age soon after their wedding.",
+      "hint": "(preposition)",
+      "answers": ["of"],
+      "explanation": "You die of an illness or of old age."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Daniel and Anne were ___ their honeymoon when she died.",
+      "hint": "(preposition)",
+      "answers": ["on"],
+      "explanation": "We go on a honeymoon and we are on our honeymoon."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anne's baby daughter was ___ two years later. They called her Lydia, after Daniel's grandmother.",
+      "hint": "(bear)",
+      "answers": ["born"],
+      "explanation": "A baby is born - we always use be + born."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Christopher Columbus: 1451 - 1506. Write the sentence.",
+      "words": ["Christopher", "Columbus", "was", "born", "in", "1451", "and", "died", "in", "1506."],
+      "answer": "Christopher Columbus was born in 1451 and died in 1506.",
+      "explanation": "was born for the start of a life, died for the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "Harry is died.",
+      "answer": false,
+      "explanation": "Harry is dead. With be we use the adjective dead, not died."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kelly's grandmother has been ___ for five years now.",
+      "hint": "(die)",
+      "answers": ["dead"],
+      "explanation": "After be we use the adjective dead."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word or phrase into the right part of life.",
+      "categories": ["Birth", "Marriage", "Death"],
+      "items": [
+        { "text": "was born", "category": 0 },
+        { "text": "weighed 3 kilograms", "category": 0 },
+        { "text": "bride", "category": 1 },
+        { "text": "honeymoon", "category": 1 },
+        { "text": "groom", "category": 1 },
+        { "text": "funeral", "category": 2 },
+        { "text": "died of a heart attack", "category": 2 }
+      ]
+    }
+  ]
+}

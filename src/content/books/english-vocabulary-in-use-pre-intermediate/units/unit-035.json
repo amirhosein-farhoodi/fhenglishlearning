@@ -1,0 +1,188 @@
+{
+  "number": 35,
+  "title": "Jobs",
+  "subtitle": "plumber, architect, surgeon, firefighter",
+  "summary": "Name common jobs - the trades, the professions, the medical world and the emergency services - and say what each person does.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Working with your hands",
+      "columns": ["Job", "What the person does"],
+      "rows": [
+        ["**builder**", "builds or repairs homes, usually with bricks"],
+        ["**carpenter**", "makes things using wood"],
+        ["**plumber**", "installs and repairs water pipes and taps"],
+        ["**electrician**", "installs and repairs electrical things, e.g. lights and sockets"],
+        ["**mechanic**", "repairs cars when there is a problem"]
+      ],
+      "note": "These five jobs all need tools and practical skill with your hands."
+    },
+    {
+      "type": "explain",
+      "heading": "repair, fix and mend",
+      "text": "When something is damaged or broken, we often say **repair** or **fix**. With small pieces of equipment we can also say **mend**, and with clothes we usually say **mend**.",
+      "examples": [
+        { "text": "Dad **repaired** the window for me.", "note": "= fixed" },
+        { "text": "I need someone to **fix** the computer." },
+        { "text": "Could you **mend** my watch?", "note": "fix and repair are also possible" },
+        { "text": "I have **mended** your trousers for you.", "note": "with clothes we normally say mend" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The professions",
+      "columns": ["Job", "What the person does"],
+      "rows": [
+        ["**architect**", "designs buildings"],
+        ["**lawyer**", "represents people with legal problems"],
+        ["**engineer**", "plans the building of roads, bridges, machines, etc."],
+        ["**accountant**", "controls the financial situation of people and companies"],
+        ["**university lecturer**", "teaches in a university, e.g. gives lectures"]
+      ],
+      "note": "A profession is a job that needs a lot of training and education."
+    },
+    {
+      "type": "explain",
+      "heading": "The medical profession",
+      "text": "These people **treat** people or animals, which means they give medicine or medical help. **GPs** (general practitioners: doctors who do not work in a hospital), **dentists** and **vets** all work in a place called a **surgery**.",
+      "examples": [
+        { "text": "A **GP** is a doctor who does not work in a hospital." },
+        { "text": "A **dentist** looks after your teeth." },
+        { "text": "A **vet** treats animals." },
+        { "text": "In hospital, **nurses** look after people and **surgeons** operate on people.", "note": "to operate = to open the body to remove or repair a part that is damaged" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The armed forces and the emergency services",
+      "columns": ["Person", "Where they work"],
+      "rows": [
+        ["**soldier**", "in the army"],
+        ["**sailor**", "in the navy"],
+        ["**pilot**", "in the air force"],
+        ["**police officer**", "in the police force"],
+        ["**fireman / firefighter**", "in the fire brigade"]
+      ],
+      "note": "The word firefighter is used for both men and women."
+    },
+    {
+      "type": "explain",
+      "heading": "join",
+      "text": "When you become a member of the army, the navy or the police, you **join** it. We use **join** with all of the armed forces and emergency services.",
+      "examples": [
+        { "text": "My son **joined the army** when he was 18.", "note": "= became a member of the army" },
+        { "text": "*A:* She is a police officer. *B:* Really? When did she **join the police force**?" },
+        { "text": "He **joined the fire brigade** two years ago." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *I am a plumber* or *She is an architect* - English always needs *a* or *an* before the name of a job."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each job with something the person uses at work.",
+      "pairs": [
+        { "left": "lecturer", "right": "books" },
+        { "left": "plumber", "right": "pipes" },
+        { "left": "accountant", "right": "numbers" },
+        { "left": "builder", "right": "bricks" },
+        { "left": "soldier", "right": "a gun" },
+        { "left": "carpenter", "right": "wood" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ treats animals when they are ill.",
+      "hint": "(one word)",
+      "answers": ["vet"],
+      "explanation": "A vet is an animal doctor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An ___ designs buildings.",
+      "hint": "(one word)",
+      "answers": ["architect"],
+      "explanation": "An architect designs buildings."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which job would be difficult for someone who is always sick on a boat?",
+      "options": ["sailor", "carpenter", "accountant", "dentist"],
+      "answer": 0,
+      "explanation": "A sailor works in the navy and spends a lot of time at sea."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which job would be difficult for someone who is afraid of heights?",
+      "options": ["pilot", "lawyer", "vet", "mechanic"],
+      "answer": 0,
+      "explanation": "A pilot flies planes in the air force, so heights are part of the job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone who is not interested in cars should not become a ___.",
+      "hint": "(the person who repairs cars)",
+      "answers": ["mechanic"],
+      "explanation": "A mechanic repairs cars when there is a problem."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone who is terrible at numbers and maths should not become an ___.",
+      "hint": "(one word)",
+      "answers": ["accountant"],
+      "explanation": "An accountant controls the financial situation of people and companies."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each person in the right group.",
+      "categories": ["Works with their hands", "A profession", "Emergency services or armed forces"],
+      "items": [
+        { "text": "plumber", "category": 0 },
+        { "text": "carpenter", "category": 0 },
+        { "text": "electrician", "category": 0 },
+        { "text": "lawyer", "category": 1 },
+        { "text": "accountant", "category": 1 },
+        { "text": "architect", "category": 1 },
+        { "text": "firefighter", "category": 2 },
+        { "text": "sailor", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lawyer ___ people with legal problems.",
+      "hint": "(one word)",
+      "answers": ["represents"],
+      "explanation": "A lawyer represents people with legal problems."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend says 'He is a sailor.' Ask when he became a member of the navy.",
+      "words": ["Really?", "When", "did", "he", "join", "the", "navy?"],
+      "answer": "Really? When did he join the navy?",
+      "explanation": "We join the navy, the army, the air force, the police force and the fire brigade."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend says 'He is a firefighter.' Ask when he became a member of the service.",
+      "words": ["Really?", "When", "did", "he", "join", "the", "fire", "brigade?"],
+      "answer": "Really? When did he join the fire brigade?",
+      "explanation": "Firefighters work in the fire brigade."
+    },
+    {
+      "type": "true_false",
+      "statement": "A surgeon operates on people in a hospital.",
+      "answer": true,
+      "explanation": "Correct. To operate means to open the body to remove or repair a damaged part."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have repaired your trousers for you.",
+      "answer": false,
+      "explanation": "With clothes we normally say mend: I have mended your trousers for you."
+    }
+  ]
+}

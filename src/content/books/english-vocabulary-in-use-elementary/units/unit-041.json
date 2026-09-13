@@ -1,0 +1,182 @@
+{
+  "number": 41,
+  "title": "Make / made / made",
+  "subtitle": "make dinner, make a mistake, it makes me feel ...",
+  "summary": "Use make for food and drink, for mistakes, noise and appointments, and to say how something makes you feel.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Make food and drink",
+      "text": "We **make** food and hot drinks. The past form is **made**.",
+      "examples": [
+        { "text": "Mum is **making** dinner." },
+        { "text": "Dad is **making** some coffee." },
+        { "text": "I'll **make** some tea." },
+        { "text": "I **make** breakfast for the family every day." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other things you make",
+      "text": "We also **make** a film, a video or a photocopy - things that did not exist before you started.",
+      "examples": [
+        { "text": "She's **making** a film about her city." },
+        { "text": "They're **making** a video of the wedding." },
+        { "text": "He's **making** a photocopy of the letter." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "It makes me (feel) ...",
+      "text": "Use **make someone (feel) + adjective** to say how a thing changes how you feel. The word *feel* is not necessary.",
+      "examples": [
+        { "text": "Going by train always **makes me (feel) tired**." },
+        { "text": "My friend called me stupid. It **made me (feel) angry**." },
+        { "text": "That film **made me (feel) sad**." },
+        { "text": "That meal was horrible. It **made me feel sick**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Expressions with make",
+      "columns": ["Expression", "Example"],
+      "rows": [
+        ["make a mistake", "I made a mistake in the exercise."],
+        ["make an appointment", "I want to make an appointment with the doctor."],
+        ["make your bed", "When I get up I make my bed."],
+        ["make a noise", "The children are making a noise."],
+        ["make a mess", "They are making a mess in the living room!"],
+        ["make a choice", "I love your new dress - you made a good choice."]
+      ],
+      "note": "Make an appointment means fix a time to see somebody."
+    },
+    {
+      "type": "compare",
+      "heading": "make, do or take?",
+      "left": {
+        "label": "Say make",
+        "examples": [
+          "I **made a mistake** in the exercise.",
+          "The children are **making a noise**.",
+          "We must **make our choice** today."
+        ]
+      },
+      "right": {
+        "label": "Not make - use do or take",
+        "examples": [
+          "You **do** your homework.",
+          "You **take** or **do** an exam.",
+          "You **take** a photo.",
+          "You **do** the washing."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Keep two lists in your notebook, one headed make and one headed do, and add every new expression you meet."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I always ___ a lot of mistakes when I speak English.",
+      "hint": "(make)",
+      "answers": ["make"],
+      "explanation": "We make a mistake, not do a mistake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our neighbours had a party last night. They ___ a lot of noise.",
+      "hint": "(make - past)",
+      "answers": ["made"],
+      "explanation": "The past of make is made. We make a noise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I am ___ dinner for my parents this evening.",
+      "hint": "(make)",
+      "answers": ["making"],
+      "explanation": "We make breakfast, lunch and dinner."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do you think, the silver car or the white one? We must ___ our choice today.",
+      "options": ["make", "do", "take", "have"],
+      "answer": 0,
+      "explanation": "We make a choice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ an appointment with the doctor for you. It's at 5 o'clock.",
+      "hint": "(make - past)",
+      "answers": ["made", "have made", "'ve made"],
+      "explanation": "We make an appointment when we fix a time to see someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That film about the war made me feel ___.",
+      "hint": "(not happy)",
+      "answers": ["sad"],
+      "explanation": "Something makes you feel sad, happy, tired, angry or sick."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the way it makes you feel.",
+      "pairs": [
+        { "left": "Long lessons", "right": "always make me feel tired." },
+        { "left": "She was horrible to me;", "right": "it made me feel angry." },
+        { "left": "It's a lovely song.", "right": "It makes me feel happy." },
+        { "left": "That meal was horrible.", "right": "It made me feel sick." },
+        { "left": "That film about the war", "right": "made me feel sad." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I have to make my homework before dinner.",
+      "answer": false,
+      "explanation": "I have to do my homework before dinner. We do homework."
+    },
+    {
+      "type": "true_false",
+      "statement": "Can I make a photo of you?",
+      "answer": false,
+      "explanation": "Can I take a photo of you? We take a photo."
+    },
+    {
+      "type": "true_false",
+      "statement": "He's 25 but he never makes his own washing.",
+      "answer": false,
+      "explanation": "He's 25 but he never does his own washing. We do the washing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we say make or do with each of these?",
+      "categories": ["make", "do"],
+      "items": [
+        { "text": "a mistake", "category": 0 },
+        { "text": "a noise", "category": 0 },
+        { "text": "a mess", "category": 0 },
+        { "text": "an appointment", "category": 0 },
+        { "text": "your homework", "category": 1 },
+        { "text": "the washing", "category": 1 },
+        { "text": "the gardening", "category": 1 },
+        { "text": "your best", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "The children are very loud this evening. Say it.",
+      "words": ["The", "little", "boys", "are", "making", "a", "noise."],
+      "answer": "The little boys are making a noise.",
+      "explanation": "We make a noise."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Going by train always ___ me feel tired.",
+      "options": ["makes", "does", "takes", "has"],
+      "answer": 0,
+      "explanation": "Something makes you feel tired, happy or sad."
+    }
+  ]
+}

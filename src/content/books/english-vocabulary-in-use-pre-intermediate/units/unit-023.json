@@ -1,0 +1,190 @@
+{
+  "number": 23,
+  "title": "Shopping",
+  "subtitle": "trolley, checkout, special offer, refund",
+  "summary": "Talk about supermarkets, shopping centres and street markets, and say what happens when you take something back.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "In a supermarket",
+      "text": "You carry a few things in a **basket** and a lot of things in a **trolley**. You take them from the **shelves** and pay at the **checkout**. The **entrance** is the place where you go into the shop.",
+      "examples": [
+        { "text": "I only need milk and bread, so I'll take a **basket**." },
+        { "text": "The most expensive **items** are on the middle **shelves**.", "note": "an item is a single thing" },
+        { "text": "There was a long **queue** at the **checkout**.", "note": "a queue is a line of people waiting" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How supermarkets make us spend more",
+      "text": "Supermarkets put **fresh** bread near the **entrance**, because the lovely smell **makes** us feel hungry. They also move things to different places, so we spend more time in the store.",
+      "examples": [
+        { "text": "The bread is **fresh** - it has just been made." },
+        { "text": "The smell **makes** us feel hungry, and hungry shoppers spend more.", "note": "make somebody feel = cause them to feel" },
+        { "text": "Sweets and chocolate are near the **checkout**, so it is easy to add a bar to your **basket**." },
+        { "text": "You are more **likely** to see the expensive items in the middle.", "note": "likely to do something = you will probably do it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Special offers",
+      "text": "A **special offer** is a cheaper price than normal, for example three for the price of two. Be careful: people often buy more than they need and then **throw** half of it **away**.",
+      "examples": [
+        { "text": "There's a **special offer** on melons - buy one, get one free!" },
+        { "text": "I often buy bananas but forget to eat them, so I have to **throw** them **away**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Shopping centres",
+      "text": "A **shopping centre** is a large covered shopping area. Everything is **under one roof**, which is **convenient** (practical and easy to use), and there is a wide **range** of shops.",
+      "examples": [
+        { "text": "I like shopping centres because everything is **under one roof**." },
+        { "text": "There's a wide **range** of shops.", "note": "range = different things of the same type" },
+        { "text": "If there is anything wrong with it, the shop will **replace** it.", "note": "replace = exchange it for another one" },
+        { "text": "They gave me a **refund**.", "note": "a refund = money paid back to you when you return something" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Street markets",
+      "text": "In a street market you buy from **stalls**. Many people like the **atmosphere** - the feeling you get in a place. Food and clothes are usually cheaper, and you can try to agree a lower price. This is called **haggling**.",
+      "examples": [
+        { "text": "I love the **atmosphere** you get from the different **stalls**." },
+        { "text": "Sometimes you can **haggle** for a lower price." },
+        { "text": "If you don't like what you buy in a street market, you can't normally take it back and get a **refund**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words and their meanings",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["a queue", "a line of people who are waiting"],
+        ["an item", "a single thing"],
+        ["fresh", "just made or just cooked"],
+        ["convenient", "practical and easy to use"],
+        ["a range", "different things of the same type"],
+        ["the atmosphere", "the feeling in a place or situation"],
+        ["likely", "probably going to happen"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A shop can **replace** a faulty item (give you a new one) or give you a **refund** (give you your money back)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "If you have a lot of things to buy, you need a basket.",
+      "answer": false,
+      "explanation": "False. If you have a lot of things to buy, you need a trolley."
+    },
+    {
+      "type": "true_false",
+      "statement": "The checkout is where you pay for things.",
+      "answer": true,
+      "explanation": "Correct. You pay at the checkout."
+    },
+    {
+      "type": "true_false",
+      "statement": "Expensive items are on the top shelves.",
+      "answer": false,
+      "explanation": "False. Expensive items are on the middle shelves, where you are more likely to see them."
+    },
+    {
+      "type": "true_false",
+      "statement": "If something is fresh, it has just been made.",
+      "answer": true,
+      "explanation": "Correct. Fresh means just made or just cooked."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's always a good idea to buy things on special offer.",
+      "answer": false,
+      "explanation": "False. Sometimes you buy more than you need and throw some of it away."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Shopping centres or street markets?",
+      "categories": ["Shopping centres", "Street markets"],
+      "items": [
+        { "text": "They are usually quite modern.", "category": 0 },
+        { "text": "Everything is under one roof.", "category": 0 },
+        { "text": "You buy things from stalls.", "category": 1 },
+        { "text": "You can haggle.", "category": 1 },
+        { "text": "You can normally get refunds.", "category": 0 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "a queue", "right": "a line of people waiting" },
+        { "left": "an item", "right": "a single thing" },
+        { "left": "a refund", "right": "money paid back to you" },
+        { "left": "a stall", "right": "a small shop in a street market" },
+        { "left": "the entrance", "right": "the place where you go in" },
+        { "left": "convenient", "right": "practical and easy to use" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I took the shoes back to the shop, but they wouldn't give me a ___ .",
+      "hint": "(my money back)",
+      "answers": ["refund", "a refund"],
+      "explanation": "A refund is money that is paid back to you when you return something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It ___ me angry when shops refuse to give you a refund.",
+      "hint": "(make)",
+      "answers": ["makes"],
+      "explanation": "Make somebody + adjective = cause them to feel something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I got to the checkout, there was a long ___ of people waiting.",
+      "hint": "(one word)",
+      "answers": ["queue"],
+      "explanation": "A queue is a line of people who are waiting for something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's a special ___ on melons - buy one, get one free!",
+      "hint": "(one word)",
+      "answers": ["offer"],
+      "explanation": "A special offer is a cheaper price than normal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like that supermarket because they have a wide ___ of meat and cheese.",
+      "hint": "(one word)",
+      "answers": ["range"],
+      "explanation": "A wide range = many different things of the same type."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In my local street market there's a really nice ___: it's busy, but everyone is friendly and there's lots of colour.",
+      "options": ["atmosphere", "entrance", "item", "shelf"],
+      "answer": 0,
+      "explanation": "The atmosphere is the feeling you get in a place or situation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I am more ___ to buy something if it's a special offer, because it seems cheaper.",
+      "options": ["likely", "fresh", "convenient", "wide"],
+      "answer": 0,
+      "explanation": "If you are likely to do something, you will probably do it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about a street market.",
+      "words": ["You", "can", "try", "to", "agree", "a", "lower", "price", "at", "a", "stall."],
+      "answer": "You can try to agree a lower price at a stall.",
+      "explanation": "Agreeing a lower price in a market is called haggling."
+    }
+  ]
+}

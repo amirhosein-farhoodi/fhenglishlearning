@@ -1,0 +1,200 @@
+{
+  "number": 35,
+  "title": "Authorities: customs and police",
+  "subtitle": "clear customs, claim asylum, search warrant, undercover police",
+  "summary": "Handle the vocabulary of borders and policing - entry regulations, spot checks, claiming asylum, search warrants and the different kinds of police squad.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Arriving in a country",
+      "text": "On arrival you show your passport or national identity card, possibly a **landing card** - a form with your personal details and date of arrival - and often a **customs declaration form**, showing how much money and what goods you are carrying. You may need a visa and a **vaccination certificate**, depending on **entry regulations**.",
+      "examples": [
+        { "text": "Could you give me a **landing card** before we arrive, please?" },
+        { "text": "You may have to fill in a **customs declaration form** before going through customs control." },
+        { "text": "You'll have to show a **vaccination certificate** for infectious diseases when you enter the country." },
+        { "text": "You'll need a visa; the **entry regulations** are very strict." }
+      ],
+      "note": "Entry regulations are the rules about who can enter a country and for how long."
+    },
+    {
+      "type": "explain",
+      "heading": "Checks at the border",
+      "text": "Some passengers use **e-passport gates**, which use **facial recognition technology** - software that identifies a person from a visual image. Customs officers carry out **spot checks** (checks done as a sample, not on everyone) to find **banned or restricted goods** and to see that you have not gone over your **allowance**, the amount permitted by law.",
+      "examples": [
+        { "text": "At the airport they use **facial recognition technology** to check the photo is of the person using the passport." },
+        { "text": "Customs officers carry out **spot checks** on people's baggage." },
+        { "text": "When you come into this country, the tobacco **allowance** is 200 cigarettes per person." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sniffer dogs, customs and asylum",
+      "text": "Officers may use **sniffer dogs** or **detector dogs** to **detect** - find something hidden - drugs, cash or explosives. In most cases you have to **clear customs** at the **port of entry**, the airport or port where you first enter. Some passengers wish to be recognised as **refugees** and **claim asylum**.",
+      "examples": [
+        { "text": "At the airport, the security guards had **sniffer dogs**." },
+        { "text": "You have to **clear customs** even if you are flying on within the country." },
+        { "text": "You have to fill in the **port of entry** in this box here." },
+        { "text": "People entering from war-torn countries often **claim asylum**.", "note": "People who claim asylum this way are called asylum-seekers." }
+      ],
+      "note": "Refugees have escaped from their own country for political reasons; persecution is cruel treatment because of race, religion or political beliefs."
+    },
+    {
+      "type": "explain",
+      "heading": "Policing the streets",
+      "text": "The police **enforce the law** - they make people obey it. An officer can **stop and search** you if there is a **suspicion** that you are carrying drugs, weapons or stolen property. Normally they cannot enter your home against your wishes without a **search warrant**, official permission from a judge or magistrate.",
+      "examples": [
+        { "text": "It is a police officer's duty to do all he or she can to **enforce the law**." },
+        { "text": "There are restrictions on the powers the police have to **stop and search** people." },
+        { "text": "The police have had **suspicions** about the activities at that address for some time." },
+        { "text": "They cannot enter your home without a **search warrant**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Traffic and surveillance",
+      "text": "Many roads have **safety cameras** or **speed cameras** to make sure people are not **exceeding the speed limit**. **Traffic wardens** issue **parking tickets**, with fines for illegal parking. The police also use **surveillance** techniques, including **CCTV** (closed-circuit television), to monitor public areas.",
+      "examples": [
+        { "text": "Ella was fined for **exceeding** the speed limit." },
+        { "text": "**Traffic wardens** issue **parking tickets** for illegal parking." },
+        { "text": "**CCTV** is used to monitor town centres and airports." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other types of policing",
+      "columns": ["Term", "Meaning"],
+      "rows": [
+        ["security forces", "a name for the army and police working together"],
+        ["plain-clothes police", "police who do not wear uniform"],
+        ["undercover police", "police working secretly, using a false identity"],
+        ["drug squad", "police specially trained to fight the illegal drug trade"],
+        ["anti-corruption squad", "police trained to discover and fight bribery and corruption"],
+        ["cybercrime", "computer crime, including cyberterrorism and cyberwarfare"],
+        ["phishing", "tricking people on the internet into giving up personal information, especially bank details"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Police is a plural word: The police **are** trying to combat crime, not ~~the police is~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words to form collocations about customs and policing.",
+      "pairs": [
+        { "left": "detector", "right": "dogs" },
+        { "left": "landing", "right": "card" },
+        { "left": "speed", "right": "camera" },
+        { "left": "search", "right": "warrant" },
+        { "left": "spot", "right": "check" },
+        { "left": "restricted", "right": "goods" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An official stopped the man because a sniffer dog had ___ something in his suitcase.",
+      "hint": "(detect)",
+      "answers": ["detected"],
+      "explanation": "To detect something is to find something hidden."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "During the Civil War many ___ crossed the border into neighbouring countries.",
+      "hint": "(refugee)",
+      "answers": ["refugees"],
+      "explanation": "Refugees are people who have escaped from their own country for political reasons."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Throughout the centuries many people have suffered ___ for their religious beliefs.",
+      "hint": "(persecute)",
+      "answers": ["persecution"],
+      "explanation": "Persecution is cruel treatment because of race, religion or political beliefs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ella was fined for ___ the speed limit.",
+      "hint": "(exceed)",
+      "answers": ["exceeding"],
+      "explanation": "To exceed the speed limit is to go faster than the permitted speed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is a police officer's duty to do all he or she can to ___ the law.",
+      "hint": "(enforce)",
+      "answers": ["enforce"],
+      "explanation": "To enforce the law is to make people obey it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When you come into this country, the tobacco ___ is 200 cigarettes per person.",
+      "hint": "(amount permitted by law)",
+      "answers": ["allowance"],
+      "explanation": "Your allowance is the amount of goods permitted by law."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "People entering from war-torn countries often claim ___ to avoid political oppression at home.",
+      "hint": "(request permission to stay)",
+      "answers": ["asylum"],
+      "explanation": "To claim asylum is to request permission to stay in another country to avoid persecution back home."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call a police officer who might try to infiltrate a group suspected of terrorism?",
+      "options": ["an undercover police officer", "a traffic warden", "a plain-clothes officer", "a customs officer"],
+      "answer": 0,
+      "explanation": "Undercover police work secretly, using a false identity."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call police officers engaged in combating the dishonest use of public funds?",
+      "options": ["the anti-corruption squad", "the drug squad", "the security forces", "the traffic wardens"],
+      "answer": 0,
+      "explanation": "The anti-corruption squad is specially trained to discover and fight bribery and corruption."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call the police and the army considered as a single body?",
+      "options": ["the security forces", "the drug squad", "plain-clothes police", "customs officers"],
+      "answer": 0,
+      "explanation": "Security forces is often a name for the army and police working together."
+    },
+    {
+      "type": "true_false",
+      "statement": "The police is trying to combat cybercrime.",
+      "answer": false,
+      "explanation": "Police is a plural word: The police are trying to combat cybercrime."
+    },
+    {
+      "type": "true_false",
+      "statement": "Phishing means tricking people on the internet into giving up personal information such as bank account details.",
+      "answer": true,
+      "explanation": "Correct - phishing is one of the many kinds of cybercrime."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each item belong to customs and immigration, or to policing?",
+      "categories": ["Customs and immigration", "Policing"],
+      "items": [
+        { "text": "landing card", "category": 0 },
+        { "text": "clear customs", "category": 0 },
+        { "text": "claim asylum", "category": 0 },
+        { "text": "vaccination certificate", "category": 0 },
+        { "text": "search warrant", "category": 1 },
+        { "text": "traffic warden", "category": 1 },
+        { "text": "drug squad", "category": 1 },
+        { "text": "CCTV surveillance", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about police powers in order.",
+      "words": ["A", "police", "officer", "can", "stop", "and", "search", "you", "if", "there", "is", "a", "suspicion"],
+      "answer": "A police officer can stop and search you if there is a suspicion",
+      "explanation": "A suspicion is a belief that something may be the case."
+    }
+  ]
+}

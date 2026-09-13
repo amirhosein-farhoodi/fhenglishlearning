@@ -1,0 +1,225 @@
+{
+  "number": 86,
+  "title": "Prefixes: creating new meanings",
+  "subtitle": "in-, mis-, out-, re-, over-, under-, up-",
+  "summary": "Build and decode advanced vocabulary from its prefixes - in-, mis-, out-, re-, eco- and e-, the three meanings each of over- and under-, and the Latin prefixes con-, pro- and e-.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Common prefixes",
+      "columns": ["Prefix", "Meaning", "Examples"],
+      "rows": [
+        ["in- (also im-, il-, ir-)", "makes a word negative", "inappropriate, incapable, inaccuracy, inability, imperfect"],
+        ["mis-", "wrongly or badly", "misbehave, misuse (use in the wrong way or for the wrong purpose)"],
+        ["out-", "greater or better than something", "outnumber (be larger in number than), outweigh (be greater or more important than)"],
+        ["re-", "do again", "reconsider (think again about a decision), redevelop, rethink"],
+        ["e-", "electronic", "e-commerce (buying and selling goods online), e-reader, e-cigarettes"],
+        ["eco-", "good for the environment", "eco-friendly cleaning products, an eco-city, an eco-warrior"]
+      ],
+      "note": "An eco-city uses energy efficiently and produces very little pollution; an eco-warrior is an informal name for someone who campaigns to protect the environment."
+    },
+    {
+      "type": "table",
+      "heading": "The prefix over-: three meanings",
+      "columns": ["Meaning", "Example", "What it means"],
+      "rows": [
+        ["(a) an excess of something", "That film was overrated in my view.", "people said it was better than it really was"],
+        ["(a) an excess of something", "It was a bad restaurant, with an overpriced menu.", "the prices were too high"],
+        ["(b) being above something", "Several of our neighbour's large trees overhang our garden.", "their branches go over our garden"],
+        ["(b) being above something", "Our garden is overshadowed by the block of flats next door.", "the flats cast a shadow over it; metaphorically, she felt overshadowed by her sister"],
+        ["(c) going across something", "He overstepped the mark when he said that.", "crossed a barrier into unacceptable behaviour"],
+        ["(c) going across something", "Will you be staying overnight?", "crossing from one day to the next"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The prefix under-: three meanings",
+      "columns": ["Meaning", "Example", "What it means"],
+      "rows": [
+        ["(a) less than the desired amount", "Don't underestimate the time it will take.", "think it will be less than it really is"],
+        ["(a) less than the desired amount", "The company is seriously understaffed.", "it is lacking staff"],
+        ["(b) below another thing", "It's quite wet underfoot.", "on the ground, beneath your feet"],
+        ["(b) below another thing", "The underlying question is a very difficult one.", "the deeper question"],
+        ["(c) negative behaviour", "I wish you would not undermine everything I do.", "attack, weaken"],
+        ["(c) negative behaviour", "He did it in a very underhand way.", "secretly and possibly dishonestly"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The prefix up-",
+      "text": "**up-** can suggest a change of some kind, often a positive one.",
+      "examples": [
+        { "text": "The airline **upgraded** me to business class.", "note": "= changed my ticket to a better class" },
+        { "text": "There has been an **upturn** in the economy.", "note": "= a change for the better" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Less frequent prefixes",
+      "columns": ["Prefix", "What it suggests", "Words"],
+      "rows": [
+        ["con- / com-", "mixing things together, often in verbs of communication", "converse (chat; formal), commiserate (sympathise with someone's unhappiness), condolences, congeal (change from liquid to solid), contaminate (make poisonous or less pure)"],
+        ["pro-", "pushing something forward or increasing it", "promote (encourage people to buy or use something), proliferate (suddenly increase a lot in number), procrastinate (keep delaying something), procreate (produce young; formal)"],
+        ["e-", "something coming out of something", "eject (throw out with force; formal), emit (send out a beam, noise, smell or gas; formal)"]
+      ],
+      "note": "They were ejected from the restaurant for bad behaviour. The machine emitted a loud noise and then stopped working."
+    },
+    {
+      "type": "tip",
+      "text": "With over- and under-, ask yourself whether the word is about too much/too little, about position, or about behaviour - the same prefix does all three jobs."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "They are planning to ___ the area around the old bus station.",
+      "hint": "(re- + develop)",
+      "answers": ["redevelop"],
+      "explanation": "The prefix re- means do again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is ___ to use informal language in a formal essay.",
+      "hint": "(in- + appropriate)",
+      "answers": ["inappropriate"],
+      "explanation": "in- (and its variations im-, il-, ir-) makes a word negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The yes votes ___ the no votes by two to one.",
+      "hint": "(out- + number)",
+      "answers": ["outnumber", "outnumbered"],
+      "explanation": "To outnumber a group is to be larger in number than it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ivan's English is excellent but he still tends to ___ idioms occasionally.",
+      "hint": "(mis- + use)",
+      "answers": ["misuse"],
+      "explanation": "mis- means wrongly or badly: to misuse something is to use it in the wrong way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We all hope you will ___ your decision to turn down our offer of a job.",
+      "hint": "(re- + consider)",
+      "answers": ["reconsider"],
+      "explanation": "To reconsider is to think again about a decision or opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An ___ to drive is a serious problem for anyone in this line of business.",
+      "hint": "(in- + ability)",
+      "answers": ["inability"],
+      "explanation": "The negative prefix in- turns ability into inability."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paula lost marks in her science test because of the ___ of her measurements.",
+      "hint": "(in- + accuracy)",
+      "answers": ["inaccuracy"],
+      "explanation": "in- makes accuracy negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "More and more businesses use the internet to sell their products, so ___ is becoming more important to the economy.",
+      "hint": "(e- + commerce)",
+      "answers": ["e-commerce", "ecommerce"],
+      "explanation": "The prefix e- means electronic; e-commerce is buying and selling goods online."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "More farmers are now choosing to use ___ fertilisers that don't harm the environment or wildlife.",
+      "hint": "(eco- + friendly)",
+      "answers": ["eco-friendly", "eco friendly", "ecofriendly"],
+      "explanation": "eco- means good for the environment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite: The hotel gave me a luxury room instead of the ordinary one I'd booked. The hotel ___ me to a luxury room.",
+      "hint": "(up- + grade, past tense)",
+      "answers": ["upgraded"],
+      "explanation": "up- often suggests a positive change: to upgrade someone is to move them to a better class."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite: For me, the advantages of air travel are more significant than the disadvantages. The advantages ___ the disadvantages.",
+      "hint": "(out- + weigh)",
+      "answers": ["outweigh"],
+      "explanation": "To outweigh something is to be greater or more important than it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite: It's slippery walking just here. It's slippery ___ just here.",
+      "hint": "(under- + foot)",
+      "answers": ["underfoot"],
+      "explanation": "Underfoot means on the ground, beneath your feet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite: I felt that what she said was critical of my position and weakened it. I felt that what she said ___ my position.",
+      "hint": "(under- + mine, past tense)",
+      "answers": ["undermined"],
+      "explanation": "To undermine something is to attack or weaken it - a negative use of under-."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence means 'It would be a mistake to think Frances is less intelligent than she really is'?",
+      "options": [
+        "It would be a mistake to underestimate Frances's intelligence.",
+        "It would be a mistake to overrate Frances's intelligence.",
+        "It would be a mistake to undermine Frances's intelligence.",
+        "It would be a mistake to outweigh Frances's intelligence."
+      ],
+      "answer": 0,
+      "explanation": "To underestimate something is to think it is less than it really is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'It was a bad restaurant, with an overpriced menu.' Which meaning of over- is this?",
+      "options": ["an excess of something", "being above something", "going across something", "doing something again"],
+      "answer": 0,
+      "explanation": "Overpriced means the prices were too high - the 'excess' meaning of over-."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with the definition it matches.",
+      "pairs": [
+        { "left": "procrastinate", "right": "keep delaying something that must be done" },
+        { "left": "contaminate", "right": "make something poisonous or less pure" },
+        { "left": "proliferate", "right": "suddenly increase a lot in number" },
+        { "left": "commiserate", "right": "sympathise with someone's unhappiness" },
+        { "left": "congeal", "right": "change from a liquid or soft state to a solid one" },
+        { "left": "emit", "right": "send out a beam, noise, smell or gas" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which pair gives the formal words for 'to throw out with force' and 'to chat'?",
+      "options": ["eject; converse", "emit; commiserate", "promote; procreate", "congeal; proliferate"],
+      "answer": 0,
+      "explanation": "Eject means to throw out with force; converse is the formal word for chat."
+    },
+    {
+      "type": "true_false",
+      "statement": "If someone does something in an underhand way, they do it openly and honestly.",
+      "answer": false,
+      "explanation": "The opposite - underhand means secretly and possibly dishonestly."
+    },
+    {
+      "type": "categorize",
+      "prompt": "In each of these words, which meaning does the prefix carry?",
+      "categories": ["Too much or too little", "Position: above or below"],
+      "items": [
+        { "text": "overstated", "category": 0 },
+        { "text": "underfunded", "category": 0 },
+        { "text": "overrated", "category": 0 },
+        { "text": "underrated", "category": 0 },
+        { "text": "undercarriage", "category": 1 },
+        { "text": "overhang", "category": 1 },
+        { "text": "underling", "category": 1 },
+        { "text": "overbearing", "category": 1 }
+      ]
+    }
+  ]
+}

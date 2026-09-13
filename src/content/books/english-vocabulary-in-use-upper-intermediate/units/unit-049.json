@@ -1,0 +1,230 @@
+{
+  "number": 49,
+  "title": "Emotions and moods",
+  "subtitle": "on cloud nine, down in the dumps, scared stiff",
+  "summary": "Understand the fixed expressions English uses for happiness, bad moods, illness and fear.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Positive feelings and moods",
+      "text": "These are fixed expressions - you cannot change the words in them. They all describe someone who is happy or cheerful.",
+      "examples": [
+        { "text": "Maria seems to be **on cloud nine** these days.", "note": "= extremely pleased and happy" },
+        { "text": "Everyone seemed to be **in high spirits**.", "note": "= lively, enjoying things" },
+        { "text": "She seems to be **keeping her chin up**.", "note": "= staying cheerful despite bad things" },
+        { "text": "Jo's **as happy as Larry**.", "note": "as happy as can be and as happy as the day is long mean the same: extremely content" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Negative feelings and moods",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["have a **long face**", "look depressed or sad"],
+        ["be **down in the dumps**", "look or feel depressed or sad"],
+        ["be **in a bad mood**", "be bad-tempered"],
+        ["be **like a bear with a sore head**", "be extremely irritable"],
+        ["**throw a wobbly**", "become extremely angry and upset"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Negative moods in sentences",
+      "text": "Notice which verb each expression takes: you **have** a long face, you **are** down in the dumps, and you **throw** a wobbly.",
+      "examples": [
+        { "text": "What's the matter? You've got **a long face**." },
+        { "text": "She certainly looked **down in the dumps**." },
+        { "text": "It's been an awful day, so no wonder Zac is **in a bad mood**." },
+        { "text": "Martin was **like a bear with a sore head** all morning." },
+        { "text": "Alice **threw a wobbly** the other day." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Physical feelings and states",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["be **done in**", "exhausted: I'm feeling **done in**."],
+        ["be **under the weather**", "not very well: You're looking a bit **under the weather**."],
+        ["be **on top form**", "in very good physical condition: She looked, and felt, **on top form**."],
+        ["your head is **spinning**", "unable to balance, as if you will fall over: I suddenly felt my head was **spinning**."],
+        ["be **at death's door**", "very ill indeed: I was almost **at death's door** last week!"],
+        ["be **as fit as a fiddle**", "very fit indeed: Old Nora's **as fit as a fiddle**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Fear and fright",
+      "text": "English has many exaggerated ways of saying you were frightened. **Scared stiff** and **scared out of your wits** describe your own fear; **frighten the life out of somebody** describes what another person does to you.",
+      "examples": [
+        { "text": "She was **scared stiff**.", "note": "= very scared" },
+        { "text": "The poor lad was **scared out of his wits**.", "note": "= very scared indeed" },
+        { "text": "She **frightened the life out of** him.", "note": "= frightened him a lot" },
+        { "text": "We were all **shaking in our boots**.", "note": "shaking in our shoes is also possible: trembling with fear" },
+        { "text": "I **jumped out of my skin** when I heard the bang.", "note": "= gave a big jump from shock" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More expressions for reactions",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["**get carried away**", "get too excited"],
+        ["**keep a cool head**", "stay calm"],
+        ["**take everything as it comes**", "deal calmly with events as they happen"],
+        ["things are **looking up**", "things are improving"],
+        ["**swell with pride**", "feel very proud because of something good you did"],
+        ["be **on top of the world**", "be very happy indeed"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using them naturally",
+      "text": "Here they are in context, from a horoscope column - exactly the kind of informal writing where such expressions belong.",
+      "examples": [
+        { "text": "Don't **get carried away** by promises that are not kept." },
+        { "text": "**Keep a cool head** and **take everything as it comes**." },
+        { "text": "On the work front, things are **looking up**." },
+        { "text": "If someone says something that makes you **swell with pride** and feel **on top of the world**, enjoy the moment!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "There is often an element of exaggeration in these expressions - they lighten the tone of what you are saying. Use them only in informal situations."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each fixed expression with its ending.",
+      "pairs": [
+        { "left": "Imogen was on", "right": "cloud nine" },
+        { "left": "Michaela was in", "right": "a bad mood" },
+        { "left": "Anna kept", "right": "her chin up" },
+        { "left": "Lily was as", "right": "happy as the day is long" },
+        { "left": "Kathy was like", "right": "a bear with a sore head" },
+        { "left": "Rosie threw", "right": "a wobbly" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Has something good happened? You all seem in ___.",
+      "hint": "(two words)",
+      "answers": ["high spirits"],
+      "explanation": "Be in high spirits = be lively and enjoying things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the matter? You've got a long ___.",
+      "hint": "(one word)",
+      "answers": ["face"],
+      "explanation": "Have a long face = look depressed or sad."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Has something bad happened? You look down ___.",
+      "hint": "(three words)",
+      "answers": ["in the dumps"],
+      "explanation": "Be down in the dumps = look or feel depressed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As long as he has his car to work on, he's as happy as ___.",
+      "hint": "(one name)",
+      "answers": ["Larry"],
+      "explanation": "As happy as Larry = extremely content. As happy as can be means the same."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match what each person says with the expression that describes them.",
+      "pairs": [
+        { "left": "Lidia: I was just not feeling very well yesterday.", "right": "under the weather" },
+        { "left": "Karen: I've gone to the gym every day this month and I can feel the results.", "right": "as fit as a fiddle" },
+        { "left": "Mark: I've never felt so terrified in my life.", "right": "scared out of his wits" },
+        { "left": "Lars: I was very ill indeed last week.", "right": "at death's door" },
+        { "left": "Andrea: I felt as if I couldn't keep my balance.", "right": "her head was spinning" },
+        { "left": "Krishnan: I've been feeling really well recently.", "right": "on top form" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I gave a sudden jump when he fired the gun. I ___ when he fired the gun.",
+      "hint": "(five words, with skin)",
+      "answers": ["jumped out of my skin"],
+      "explanation": "Jump out of your skin = give a big jump from shock."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think you should not panic and just be patient. I think you should ___ and just be patient.",
+      "hint": "(four words, with cool)",
+      "answers": ["keep a cool head"],
+      "explanation": "Keep a cool head = stay calm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He scared me very much when he came in wearing that ghost mask! He ___ me when he came in wearing that ghost mask!",
+      "hint": "(five words, with life)",
+      "answers": ["frightened the life out of"],
+      "explanation": "Frighten the life out of somebody = frighten them a lot."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Everyone was trembling with fear when they saw the door open all by itself. Everyone was ___.",
+      "options": [
+        "shaking in their boots",
+        "keeping their chin up",
+        "on cloud nine",
+        "like a bear with a sore head"
+      ],
+      "answer": 0,
+      "explanation": "Shake in your boots (or shoes) = tremble with fear."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She felt very proud indeed as her daughter received the gold medal. She ___ as her daughter received the gold medal.",
+      "options": [
+        "swelled with pride",
+        "threw a wobbly",
+        "was done in",
+        "had a long face"
+      ],
+      "answer": 0,
+      "explanation": "Swell with pride = feel very pleased because of something good that happened."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression describe a happy person or an unhappy, bad-tempered one?",
+      "categories": ["Happy", "Unhappy or bad-tempered"],
+      "items": [
+        { "text": "on cloud nine", "category": 0 },
+        { "text": "in high spirits", "category": 0 },
+        { "text": "on top of the world", "category": 0 },
+        { "text": "down in the dumps", "category": 1 },
+        { "text": "like a bear with a sore head", "category": 1 },
+        { "text": "throw a wobbly", "category": 1 },
+        { "text": "have a long face", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I was scared stiff before I did the bungee jump, but it was OK.",
+      "answer": true,
+      "explanation": "Correct. Scared stiff = very scared. Scared out of my wits would also work here."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. You got too excited about joining a rock band.",
+      "words": ["I", "think", "I", "got", "carried", "away", "by the idea"],
+      "answer": "I think I got carried away by the idea",
+      "explanation": "Get carried away = get too excited."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I try to just deal with events in a calm way as they happen. I try to just ___.",
+      "hint": "(five words, with comes)",
+      "answers": ["take everything as it comes"],
+      "explanation": "Take everything as it comes = deal calmly with events as they happen."
+    }
+  ]
+}

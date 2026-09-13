@@ -1,0 +1,205 @@
+{
+  "number": 66,
+  "title": "Requests, permission and suggestions",
+  "subtitle": "Could you ...?, Do you mind if I ...?, How about ...?",
+  "summary": "Ask people to do things, ask for permission, make suggestions, and reply to all three.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Requests: asking someone to do something",
+      "text": "When you ask for something small, a short phrase is fine. As the request gets bigger, it is normal to use a longer phrase, which sounds more polite.",
+      "examples": [
+        { "text": "*A:* **Could you** pass the salt? *B:* Sure. / No problem.", "note": "a small request" },
+        { "text": "*A:* **Could you possibly** help me? *B:* Yes, of course." },
+        { "text": "*A:* Naomi, **I wonder if you could** help me? *B:* Sure." },
+        { "text": "*A:* **I was wondering if you could** lend me some money until tomorrow. *B:* No, **I'm afraid I can't**.", "note": "I'm afraid I can't = I'm sorry but I can't" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking permission: can I do this?",
+      "text": "Here you ask to do something yourself. Notice that after **Do you mind if I ...?** the positive answer is **No** - it means 'No, I don't mind'.",
+      "examples": [
+        { "text": "*A:* **Could I possibly** have a look at your magazine? *B:* Yes, **help yourself**." },
+        { "text": "*A:* **May I** / **Could I** open the window? *B:* Sure, **go ahead**." },
+        { "text": "*A:* **Do you mind if I** watch TV? *B:* **No, go ahead**." }
+      ],
+      "note": "When we answer go ahead or help yourself, we are giving someone permission to do the thing they have asked."
+    },
+    {
+      "type": "table",
+      "heading": "Making suggestions",
+      "columns": ["Phrase", "Example"],
+      "rows": [
+        ["**What shall we do ...?**", "What **shall we** do tonight?"],
+        ["**Let's** + verb", "**Let's** go to the cafe in the square."],
+        ["**We could** + verb", "**We could** try that new restaurant."],
+        ["**How about** + -ing", "**How about going** to a club?"],
+        ["**Why don't we** + verb", "**Why don't we** go and see a film?"],
+        ["**Do you fancy** + -ing", "**Do you fancy listening** to some music?"]
+      ],
+      "note": "Do you fancy ...? is informal and means 'do you want to ...?'"
+    },
+    {
+      "type": "compare",
+      "heading": "Replying to a suggestion",
+      "left": {
+        "label": "Positive",
+        "text": "From very keen to 'OK, why not'.",
+        "examples": [
+          "Yeah, (that's a) **great idea**.",
+          "That **sounds good**.",
+          "Yes, **if you like**.",
+          "Yeah, **I don't mind**."
+        ]
+      },
+      "right": {
+        "label": "Negative",
+        "text": "Softer than just saying no.",
+        "examples": [
+          "No, I **don't fancy** that.",
+          "Mm, **I'd rather** do something else.",
+          "I'm **afraid** I can't."
+        ]
+      },
+      "note": "I'd rather do something else = I would prefer to do something else."
+    },
+    {
+      "type": "explain",
+      "heading": "Grammar that goes with these phrases",
+      "text": "Each phrase takes a fixed form after it. Learn the whole pattern, not just the words.",
+      "examples": [
+        { "text": "**How about going** to see a film?", "wrong": "How about go" },
+        { "text": "I'd **rather stay** in.", "wrong": "I'd rather to stay" },
+        { "text": "**Why don't you** do your homework this afternoon?", "wrong": "Why you don't do" },
+        { "text": "We **could go** tomorrow.", "wrong": "we could to go" },
+        { "text": "**Would you like to** go out this evening?", "wrong": "Do you like to go out" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After *How about* and *Do you fancy* use **-ing**. After *could*, *let's*, *why don't we* and *I'd rather* use the plain verb with no *to*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "What is each sentence doing?",
+      "pairs": [
+        { "left": "Could you close the door?", "right": "a request" },
+        { "left": "May I close the window?", "right": "asking for permission" },
+        { "left": "We could go to the cinema.", "right": "a suggestion" },
+        { "left": "Yeah, great idea.", "right": "a positive reply" },
+        { "left": "I wonder if you could close the door?", "right": "a polite request" },
+        { "left": "I don't fancy that.", "right": "a negative reply" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What would you like to do this weekend? *B:* I don't ___. You decide.",
+      "hint": "(one word)",
+      "answers": ["mind"],
+      "explanation": "I don't mind means 'anything is OK for me'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Could you ___ open that window? It's very hot in here. *B:* Yes, of course.",
+      "hint": "(one word - it makes the request more polite)",
+      "answers": ["possibly"],
+      "explanation": "Could you possibly ...? is a more polite request than Could you ...?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I was ___ if you could give me a lift to Luke's this evening. *B:* Sure, no problem.",
+      "hint": "(one word)",
+      "answers": ["wondering"],
+      "explanation": "I was wondering if you could ... is used for bigger, more polite requests."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What do you ___ doing this evening? *B:* I don't mind. Any ideas?",
+      "hint": "(one word - informal for 'want')",
+      "answers": ["fancy"],
+      "explanation": "Do you fancy + -ing is an informal way of saying 'do you want to'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Why ___ we go to the cinema? We haven't been for ages.",
+      "hint": "(one word - contractions count as one)",
+      "answers": ["don't", "dont"],
+      "explanation": "Why don't we ...? is a common way to make a suggestion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you ___ if I use your phone? *B:* No, go ahead.",
+      "hint": "(one verb)",
+      "answers": ["mind"],
+      "explanation": "Do you mind if I ...? asks for permission. The answer 'No' gives permission."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Could I open the window? *B:* Sure, go ___.",
+      "hint": "(one word)",
+      "answers": ["ahead"],
+      "explanation": "Go ahead and help yourself both give permission."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* OK. Where ___ we go on Saturday? *B:* How about going to the beach?",
+      "hint": "(one word)",
+      "answers": ["shall"],
+      "explanation": "What/Where shall we ...? asks for a suggestion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Or we could try that new sports centre. *B:* Mmm, I think I'd ___ go to the beach.",
+      "hint": "(one word - I would prefer to)",
+      "answers": ["rather"],
+      "explanation": "I'd rather + verb = I would prefer to."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "How about going to see a film?",
+        "How about go to see a film?",
+        "How about to go to see a film?",
+        "How about we going to see a film?"
+      ],
+      "answer": 0,
+      "explanation": "How about is always followed by the -ing form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Why don't you do your homework this afternoon?",
+        "Why you don't do your homework this afternoon?",
+        "Why don't to do your homework this afternoon?",
+        "Why you not do your homework this afternoon?"
+      ],
+      "answer": 0,
+      "explanation": "Why don't you ...? - the question word order is don't + you + verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Invite a friend out for the evening.",
+      "words": ["Would", "you", "like", "to", "go", "out", "this", "evening?"],
+      "answer": "Would you like to go out this evening?",
+      "explanation": "Would you like to ...? - not ~~Do you like to go out ...?~~ for an invitation."
+    },
+    {
+      "type": "true_false",
+      "statement": "You don't want to go out, so you say: 'I think I'd rather to stay in.'",
+      "answer": false,
+      "explanation": "I think I'd rather stay in. There is no to after I'd rather."
+    },
+    {
+      "type": "true_false",
+      "statement": "Someone suggests a film and you like the idea, so you say: 'Yeah, that's a great idea.'",
+      "answer": true,
+      "explanation": "Correct. We say that's a great idea, not ~~it's a great idea~~."
+    }
+  ]
+}

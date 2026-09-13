@@ -1,0 +1,197 @@
+{
+  "number": 87,
+  "title": "Verb constructions 1",
+  "subtitle": "enjoy doing, hope to do, insist on doing",
+  "summary": "Know which verbs take an -ing form, which take a to infinitive, and which need a preposition before the next word.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + -ing form",
+      "text": "A number of verbs are followed by an **-ing** form. Some of the most common are **enjoy**, **mind**, **dislike**, **hate**, **avoid**, **imagine**, **consider**, **recommend** and **suggest**.",
+      "examples": [
+        { "text": "Do you enjoy **studying**?", "wrong": "enjoy to study" },
+        { "text": "Do you mind **getting** up early?", "note": "mind = is it OK for you, or not?" },
+        { "text": "I hate **having** my picture taken." },
+        { "text": "Do you usually avoid **speaking** to strangers at parties?", "note": "avoid = try not to do something" },
+        { "text": "I would suggest **going** in spring or autumn.", "wrong": "suggest to go" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What these verbs mean",
+      "columns": ["Verb", "Meaning"],
+      "rows": [
+        ["mind", "have a problem with something"],
+        ["avoid", "try not to do something"],
+        ["imagine", "think of yourself in a situation"],
+        ["consider", "think about doing something"],
+        ["recommend", "advise"],
+        ["suggest", "say what you think someone should do"]
+      ],
+      "note": "Can you imagine being without a car? Have you ever considered living in another country? Would you recommend having a holiday in the capital city?"
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + to infinitive",
+      "text": "Other common verbs are followed by **to** + infinitive. The bracket after each example tells you what the verb means.",
+      "examples": [
+        { "text": "I **hope to see** them next week.", "note": "= I want to see them and I believe I will" },
+        { "text": "They **agreed to help** me.", "note": "= they said they will help" },
+        { "text": "I **intend to leave** next month.", "note": "= I plan to leave" },
+        { "text": "I **offered to help** them.", "note": "= I said I was happy to help" },
+        { "text": "I **attempted to cook** the dinner, but it was terrible.", "note": "attempt = try" },
+        { "text": "I **promised to bring** her book back.", "note": "= I said I would definitely bring it back" },
+        { "text": "The shop assistant was very rude, so I **demanded to see** the manager.", "note": "demand = say in a firm way" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + (object) + preposition",
+      "text": "Some verbs need a preposition before the next word. After the preposition you use a noun or an **-ing** form.",
+      "examples": [
+        { "text": "Jo asked me **for** advice about Greece." },
+        { "text": "They're **thinking of going** there.", "wrong": "thinking to go", "note": "often in the continuous" },
+        { "text": "They **blamed** you **for** the terrible holiday.", "note": "= said you were responsible for something bad" },
+        { "text": "They **insisted on going** in the summer.", "note": "= said they must go in the summer" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two patterns side by side",
+      "left": {
+        "label": "+ -ing",
+        "examples": [
+          "I enjoy **going** there.",
+          "They suggested **leaving** early.",
+          "He recommended **staying** there.",
+          "I fancy **eating** out tonight."
+        ]
+      },
+      "right": {
+        "label": "+ to infinitive",
+        "examples": [
+          "I hope **to go** there.",
+          "They decided **to leave** early.",
+          "He promised **to stay** there.",
+          "She pretended **to be** ill."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "A good dictionary shows the construction after each verb, for example fancy + -ing, decide + to infinitive, accuse someone of + -ing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I hope ___ them next week.",
+      "options": ["to see", "seeing", "see", "for seeing"],
+      "answer": 0,
+      "explanation": "Hope is followed by a to infinitive: hope to see."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We enjoy ___ by the sea.",
+      "options": ["staying", "to stay", "stay", "for staying"],
+      "answer": 0,
+      "explanation": "Enjoy is followed by an -ing form: enjoy staying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They agreed ___ me with the shopping.",
+      "hint": "(help)",
+      "answers": ["to help"],
+      "explanation": "Agree is followed by a to infinitive: agreed to help."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I suggested ___ on the train.",
+      "hint": "(go)",
+      "answers": ["going"],
+      "explanation": "Suggest is followed by an -ing form, not ~~suggest to go~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She insisted ___ paying for our meal.",
+      "hint": "(preposition)",
+      "answers": ["on"],
+      "explanation": "We insist on doing something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They blamed me ___ the accident.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "We blame someone for something bad."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which form comes after each verb?",
+      "categories": ["+ -ing", "+ to infinitive"],
+      "items": [
+        { "text": "enjoy", "category": 0 },
+        { "text": "avoid", "category": 0 },
+        { "text": "consider", "category": 0 },
+        { "text": "suggest", "category": 0 },
+        { "text": "hope", "category": 1 },
+        { "text": "intend", "category": 1 },
+        { "text": "promise", "category": 1 },
+        { "text": "demand", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its meaning.",
+      "pairs": [
+        { "left": "avoid", "right": "try not to do something" },
+        { "left": "consider", "right": "think about doing something" },
+        { "left": "recommend", "right": "advise" },
+        { "left": "blame", "right": "say someone is responsible for something bad" },
+        { "left": "demand", "right": "ask for something in a firm way" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I try to avoid ___ in the rush hour.",
+      "hint": "(travel)",
+      "answers": ["travelling"],
+      "explanation": "Avoid is followed by an -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you asked the waiter ___ the bill?",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "We ask someone for something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister is ___ of spending the summer in France if she can afford it.",
+      "hint": "(think)",
+      "answers": ["thinking"],
+      "explanation": "Think of is usually in the continuous and is followed by a noun or an -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ella's parents weren't happy with the school, so they ___ to see the head teacher.",
+      "hint": "(asked in a firm way)",
+      "answers": ["demanded"],
+      "explanation": "Demand means to ask for something in a firm way, and it takes a to infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "They suggested to leave early because of the traffic.",
+      "answer": false,
+      "explanation": "They suggested leaving early because of the traffic. Suggest takes an -ing form."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about a possible holiday.",
+      "words": ["They're", "thinking", "of", "going", "to", "Greece", "in", "the", "summer"],
+      "answer": "They're thinking of going to Greece in the summer",
+      "explanation": "Think of is followed by an -ing form: thinking of going."
+    }
+  ]
+}

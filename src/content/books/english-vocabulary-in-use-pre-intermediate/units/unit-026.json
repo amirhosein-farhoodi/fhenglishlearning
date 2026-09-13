@@ -1,0 +1,215 @@
+{
+  "number": 26,
+  "title": "City life",
+  "subtitle": "rush hour, traffic jam, nightlife, crime rate",
+  "summary": "Talk about the good and bad sides of living in a big city, from the rush hour to the nightlife.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The rush hour",
+      "text": "The **rush hour** is the time when people travel to and from work. Everywhere is busy and everyone seems to be **in a hurry** - they want to do things quickly.",
+      "examples": [
+        { "text": "For me, the **rush hour** is the worst time of day." },
+        { "text": "Sometimes I get **stuck** in **traffic jams**.", "note": "a traffic jam is a long line of cars that are not moving; get stuck = become unable to move" },
+        { "text": "There's nowhere to **park** because the **car park** is already full." },
+        { "text": "The journey is very **stressful**, and I feel **exhausted** when I get home.", "note": "stressful = causing a lot of worry; exhausted = very tired" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The situation was **stressful** and I was **stressed** (not ~~I was stressing~~). And say *a car park* or *a parking space*, not ~~a parking~~."
+    },
+    {
+      "type": "explain",
+      "heading": "The nightlife",
+      "text": "**Nightlife** means the places you visit in the evening for social reasons. One of the **advantages of** living in a city is that the town centre is **lively** - full of activity.",
+      "examples": [
+        { "text": "There is a wide **variety of** bars, clubs and restaurants.", "note": "a variety of = many different things" },
+        { "text": "If you are interested in **culture**, you can go to the cinema, the theatre, concerts or art galleries." },
+        { "text": "The town centre is always **lively** in the evening." },
+        { "text": "The **advantages** are the positive things; the opposite is **disadvantages**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Opposites",
+      "left": {
+        "label": "Positive",
+        "examples": [
+          "The streets are **clean**.",
+          "This part of town is **safe**.",
+          "It was very **exciting**.",
+          "The village is nice and **quiet**."
+        ]
+      },
+      "right": {
+        "label": "Negative",
+        "examples": [
+          "The streets are **dirty**.",
+          "This part of town is **dangerous**.",
+          "It was very **dull**.",
+          "The city centre is **crowded**."
+        ]
+      },
+      "note": "**dull** = boring; **crowded** = full of people."
+    },
+    {
+      "type": "explain",
+      "heading": "The disadvantages of city life",
+      "text": "Cities can be **crowded**, **dirty** and **dangerous**. **Pollution** - dirty air and water - is worse in big cities, and so is the **crime rate**, the number of crimes that happen.",
+      "examples": [
+        { "text": "I only walk home **at night** if I'm with a friend." },
+        { "text": "When I'm on my own, I get a taxi." },
+        { "text": "Flats cost a lot, so you get better **value for money** in a smaller town.", "note": "good value for money = you are happy with what you get for the money you pay" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The positive side",
+      "text": "In a big city you **get** a real **mix** of people and nationalities - *get* here means *you find* or *there exists*. There is always something **going on**, so life is never **dull**.",
+      "examples": [
+        { "text": "You **get** a real **mix** of people and nationalities in a big city." },
+        { "text": "There's always something **going on**.", "note": "going on = happening" },
+        { "text": "You don't **get** much poverty here.", "note": "= poverty doesn't exist here" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Compound words for city life",
+      "columns": ["Compound", "Meaning"],
+      "rows": [
+        ["town centre", "the middle of the town"],
+        ["traffic jam", "a long line of cars that are not moving"],
+        ["nightlife", "places to go in the evening"],
+        ["value for money", "what you get for the price you pay"],
+        ["crime rate", "the number of crimes that happen"],
+        ["rush hour", "the time when people travel to and from work"],
+        ["car park", "a place to leave a car"],
+        ["parking space", "one place for one car"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right to make compounds.",
+      "pairs": [
+        { "left": "town", "right": "centre" },
+        { "left": "traffic", "right": "jam" },
+        { "left": "night", "right": "life" },
+        { "left": "value", "right": "for money" },
+        { "left": "crime", "right": "rate" },
+        { "left": "rush", "right": "hour" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its opposite.",
+      "pairs": [
+        { "left": "safe", "right": "dangerous" },
+        { "left": "crowded", "right": "quiet" },
+        { "left": "clean", "right": "dirty" },
+        { "left": "exciting", "right": "dull" },
+        { "left": "advantages", "right": "disadvantages" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is there plenty to do in the evening? *B:* Yes, the ___ is great.",
+      "hint": "(one word)",
+      "answers": ["nightlife", "night life"],
+      "explanation": "Nightlife = the places you visit in the evening for social reasons."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are there lots of ___ activities in the town? *B:* Yes. There's a cinema, theatre and concerts.",
+      "hint": "(adjective from 'culture')",
+      "answers": ["cultural"],
+      "explanation": "Cinema, theatre and concerts are cultural activities."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is it good for shopping? *B:* Yes, there's a ___ of shops.",
+      "hint": "(a ... of = many different)",
+      "answers": ["variety", "wide variety"],
+      "explanation": "A variety of = many different things of the same type."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is the traffic bad? *B:* Yes, I often get ___ in traffic jams.",
+      "hint": "(one word)",
+      "answers": ["stuck"],
+      "explanation": "Get stuck = become unable to move or go anywhere."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is your flat expensive? *B:* It's not cheap, but I think it's quite good ___ for money.",
+      "hint": "(one word)",
+      "answers": ["value"],
+      "explanation": "Good value for money = you are happy with what you get for the price."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Are you worried about walking home late in the evening? Yes, it can be dangerous ___ .",
+      "options": ["at night", "in night", "on night", "by night"],
+      "answer": 0,
+      "explanation": "At night = in the period when it is dark."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'I was very tired.' -> I was ___ .",
+      "hint": "(one word)",
+      "answers": ["exhausted"],
+      "explanation": "Exhausted = very tired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'I was very nervous and worried.' -> I was very ___ .",
+      "hint": "(one word)",
+      "answers": ["stressed"],
+      "explanation": "A stressful situation makes you stressed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'The place is always full of activity.' -> The place is always very ___ .",
+      "hint": "(one word)",
+      "answers": ["lively"],
+      "explanation": "Lively = full of activity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'The air is dirty.' -> There's a lot of ___ .",
+      "hint": "(one word)",
+      "answers": ["pollution"],
+      "explanation": "Pollution = dirty air and water."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'They want to do everything very quickly.' -> They want to do everything in a ___ .",
+      "hint": "(one word)",
+      "answers": ["hurry"],
+      "explanation": "In a hurry = wanting to do something quickly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite without the underlined words: 'There isn't much happening here.' -> There isn't much ___ here.",
+      "hint": "(two words)",
+      "answers": ["going on"],
+      "explanation": "Going on = happening."
+    },
+    {
+      "type": "true_false",
+      "statement": "'There was nowhere to leave the car' means the same as 'There was nowhere to park'.",
+      "answer": true,
+      "explanation": "Correct. Park = leave your car somewhere."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about big cities.",
+      "words": ["You", "get", "a", "real", "mix", "of", "people", "in", "a", "big", "city."],
+      "answer": "You get a real mix of people in a big city.",
+      "explanation": "Here get means 'you find' or 'there exists'; a mix = different types."
+    }
+  ]
+}

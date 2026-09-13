@@ -1,0 +1,234 @@
+{
+  "number": 75,
+  "title": "Compound nouns 1: noun + noun",
+  "subtitle": "credit card, blood pressure, traffic lights",
+  "summary": "Understand and use compound nouns made of two nouns, and learn how they are written, stressed and counted.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are compound nouns?",
+      "text": "A compound noun is a fixed expression made up of more than one word which works as a single noun. Very often it is two nouns together. If you understand both parts, the meaning is usually clear.",
+      "examples": [
+        { "text": "a **car park** - a park for cars" },
+        { "text": "a **human being** - a person" },
+        { "text": "**science fiction** - fiction based on some kind of scientific fantasy" },
+        { "text": "a **tin opener** - an opener for tins; a **bank account** - an account in a bank" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How are they written?",
+      "columns": ["Written as", "Examples"],
+      "rows": [
+        ["two separate words (most common)", "tin opener, bank account, pedestrian crossing, alarm clock"],
+        ["with a hyphen", "self-control, word-processing, multi-storey car park"],
+        ["as one word", "earring, trademark, babysitter, windscreen, soundbite"]
+      ],
+      "note": "There are no strict rules about which way a compound noun is written - even dictionaries disagree. A trademark is the symbol of a product; a babysitter stays with a child while the parents are out."
+    },
+    {
+      "type": "explain",
+      "heading": "Stress in compound nouns",
+      "text": "Usually the main stress falls on the first part of the compound, but sometimes on the second. It is worth marking the stress when you record a new compound noun.",
+      "examples": [
+        { "text": "stress on the first part: an **alarm** clock, a **blood** donor, a **burglar** alarm, a **bus** stop, a **credit** card, a **light** bulb, a **tea** bag" },
+        { "text": "stress on the second part: a heart **attack**, a package **holiday**, a steering **wheel**, a youth **hostel**, mineral **water**" },
+        { "text": "more compounds to learn: a **contact lens**, a **windscreen wiper**, **voice mail**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Uncountable compound nouns",
+      "columns": ["Area", "Compound nouns"],
+      "rows": [
+        ["health", "blood pressure, food poisoning, hay fever, junk food"],
+        ["work and technology", "air traffic control, computer technology, data processing, mail order"],
+        ["money and family", "birth control, income tax, pocket money"],
+        ["everyday things", "cotton wool"]
+      ],
+      "note": "Hay fever is an allergy to pollen. These nouns have no plural: we say *some cotton wool*, not ~~two cotton wools~~."
+    },
+    {
+      "type": "compare",
+      "heading": "Singular only vs plural only",
+      "left": {
+        "label": "Used only in the singular",
+        "examples": [
+          "the **arms race** - two or more countries competing to have the most powerful military",
+          "**climate change**, the **death penalty**, the **generation gap**",
+          "the **labour force**, the **sound barrier**, the **welfare state**"
+        ]
+      },
+      "right": {
+        "label": "Used only in the plural",
+        "examples": [
+          "**grass roots**, **kitchen scissors**, **race relations**",
+          "**headphones**, **luxury goods**, **roadworks**",
+          "**sunglasses**, **traffic lights**"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Working out the meaning",
+      "text": "Ask yourself what the first noun tells you about the second. That usually explains the whole compound.",
+      "examples": [
+        { "text": "a **windscreen** is a screen that protects a driver from the wind" },
+        { "text": "a **burglar alarm** is an alarm in a house which goes off if burglars try to get in" },
+        { "text": "**pocket money** is small amounts of money to spend as you wish, usually given by parents to children" },
+        { "text": "the **welfare state** is the part of the state that provides welfare for the members of society who need it" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "One element can build several compounds. From *blood*: blood pressure, blood donor, blood ties. From *control*: air traffic control, birth control, self-control."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which network does each compound noun belong to?",
+      "categories": ["Money", "Health", "Social issues"],
+      "items": [
+        { "text": "bank account", "category": 0 },
+        { "text": "income tax", "category": 0 },
+        { "text": "pocket money", "category": 0 },
+        { "text": "blood donor", "category": 1 },
+        { "text": "hay fever", "category": 1 },
+        { "text": "food poisoning", "category": 1 },
+        { "text": "arms race", "category": 2 },
+        { "text": "race relations", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each compound noun with its explanation.",
+      "pairs": [
+        { "left": "burglar alarm", "right": "an alarm that goes off if someone breaks into a house" },
+        { "left": "generation gap", "right": "the difficulty parents and children have in understanding each other" },
+        { "left": "luxury goods", "right": "things that are luxuries rather than necessities" },
+        { "left": "welfare state", "right": "the part of the state that supports those in need" },
+        { "left": "voice mail", "right": "an electronic telephone answering system" },
+        { "left": "kitchen scissors", "right": "scissors used for preparing food" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had it taken at the doctor's this morning and he said it was a little high for my age. He was talking about my ___.",
+      "hint": "(two words)",
+      "answers": ["blood pressure"],
+      "explanation": "Blood pressure is an uncountable compound noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's happening through man-made pollution and is causing more extreme weather. This is ___.",
+      "hint": "(two words, singular only)",
+      "answers": ["climate change"],
+      "explanation": "Climate change is used only in the singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She always has terrible sneezing fits in the early summer. She suffers from ___.",
+      "hint": "(two words - an allergy to pollen)",
+      "answers": ["hay fever"],
+      "explanation": "Hay fever is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can't understand why countries spend so much on devising ways of killing people. It's the ___.",
+      "hint": "(two words, singular only)",
+      "answers": ["arms race"],
+      "explanation": "The arms race is countries competing to have the most powerful military."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They say that working there is much more stressful than being a pilot. The job is ___.",
+      "hint": "(three words)",
+      "answers": ["air traffic control"],
+      "explanation": "Air traffic control is an uncountable compound noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The worst time was when one fell out at the theatre and I spent the interval searching on the floor. I can't see a thing without them. They are ___.",
+      "hint": "(two words)",
+      "answers": ["contact lenses", "contact lens"],
+      "explanation": "A contact lens is a countable compound noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think it should ever be used, whatever the crime. This is the ___.",
+      "hint": "(two words, singular only)",
+      "answers": ["death penalty"],
+      "explanation": "The death penalty is used only in the singular."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's much easier not to have to make your own travel arrangements, so we booked a ___.",
+      "hint": "(two words)",
+      "answers": ["package holiday"],
+      "explanation": "On a package holiday, travel and accommodation are arranged for you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You really shouldn't cross the road at any other place. Use the ___.",
+      "hint": "(two words)",
+      "answers": ["pedestrian crossing"],
+      "explanation": "A pedestrian crossing is a place for people to cross a road."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had it very badly once when I ate some chicken that wasn't properly cooked. It was ___.",
+      "hint": "(two words)",
+      "answers": ["food poisoning"],
+      "explanation": "Food poisoning means being made ill by food you have eaten."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'I didn't like the low-energy ones at first because they're so slow to get going.' What are they?",
+      "options": ["light bulbs", "tea bags", "traffic lights", "headphones"],
+      "answer": 0,
+      "explanation": "Low-energy light bulbs take a while to reach full brightness."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Complete the compound noun: junk ___ and junk ___ (unwanted post; unhealthy food).",
+      "options": ["mail / food", "box / meal", "post / eating", "letter / diet"],
+      "answer": 0,
+      "explanation": "Junk mail is unwanted advertising post; junk food is unhealthy processed food."
+    },
+    {
+      "type": "matching",
+      "prompt": "Complete each compound noun with the right second element.",
+      "pairs": [
+        { "left": "sound", "right": "bite" },
+        { "left": "blood", "right": "ties" },
+        { "left": "tea", "right": "pot" },
+        { "left": "mother", "right": "country" },
+        { "left": "inheritance", "right": "tax" },
+        { "left": "rat", "right": "race" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each compound noun used only in the singular or only in the plural?",
+      "categories": ["Singular only", "Plural only"],
+      "items": [
+        { "text": "the labour force", "category": 0 },
+        { "text": "the sound barrier", "category": 0 },
+        { "text": "the generation gap", "category": 0 },
+        { "text": "headphones", "category": 1 },
+        { "text": "roadworks", "category": 1 },
+        { "text": "sunglasses", "category": 1 },
+        { "text": "traffic lights", "category": 1 },
+        { "text": "grass roots", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A windscreen is a screen that protects the driver from the wind.",
+      "answer": true,
+      "explanation": "Correct - the first noun tells you what the second one is for or against."
+    }
+  ]
+}

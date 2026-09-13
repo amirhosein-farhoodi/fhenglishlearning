@@ -1,0 +1,193 @@
+{
+  "number": 52,
+  "title": "Newspapers and television",
+  "subtitle": "daily, headline, documentary, channel",
+  "summary": "Describe newspapers and the things in them, name the main types of TV programme, and report what you read or heard.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Newspapers",
+      "text": "Most **papers** (newspapers) are **daily**, which means they **come out** - appear in the shops - every day. Another way to say this is that they **are published**. Some papers are **national**, for the whole country; others are **regional**, for one part of it. Magazines are usually **weekly** or **monthly**.",
+      "examples": [
+        { "text": "The Times is a **national daily** paper. It **comes out** every morning." },
+        { "text": "We take a **regional** paper for news about the south-west." },
+        { "text": "The magazine is **published monthly**, so there are twelve numbers a year." }
+      ],
+      "note": "Newspapers published on the Internet are called **e-papers**. A **mobile edition** is a newspaper you read on your phone."
+    },
+    {
+      "type": "table",
+      "heading": "What you find in a newspaper",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["a report", "a piece of writing about a news item, written by a reporter or journalist"],
+        ["an article", "a piece of writing about an important subject, e.g. an article on drugs"],
+        ["a headline", "the title in large letters above a report, e.g. GOVERNMENT LOSES VOTE"],
+        ["a review", "a piece of writing giving an opinion, e.g. a review of a new book or film"],
+        ["an advert / advertisement", "words and pictures about a product, to make people buy it"]
+      ],
+      "note": "We say a report **on** or **about** a crime, and an advert **for** shampoo."
+    },
+    {
+      "type": "explain",
+      "heading": "Television",
+      "text": "If you **broadcast** something, you send it out on TV, radio or the Internet. There are many **broadcasting companies** and many **programmes**. Famous people who appear on TV are **celebrities**, and something everybody knows about is **well known**.",
+      "examples": [
+        { "text": "The match will be **broadcast** live on Saturday evening." },
+        { "text": "**Well-known** examples of reality TV are Pop Idol and The X Factor." },
+        { "text": "*A:* Are they mostly famous people? *B:* Yes, they're all **celebrities**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Types of TV programme",
+      "columns": ["Programme", "What it is"],
+      "rows": [
+        ["the news", "information about world events"],
+        ["the weather forecast", "a description of what the weather will be like in the next few days"],
+        ["a documentary", "a programme that gives facts about real situations and real people"],
+        ["a chat show", "a programme where famous people are asked questions about themselves"],
+        ["a series", "a number of programmes with the same characters or the same subject"],
+        ["a soap opera", "a regular series, often two or three times a week, about a group of people who live in the same area"],
+        ["a reality TV show", "a programme which follows ordinary people or celebrities through situations or challenges"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "channel or station?",
+      "left": {
+        "label": "channel - for television",
+        "examples": [
+          "The news is on **Channel** 4.",
+          "How many **channels** do you get on your TV?"
+        ]
+      },
+      "right": {
+        "label": "station - for radio",
+        "examples": [
+          "*A:* What **station** are you listening to? *B:* Radio 1 - it's mostly pop music.",
+          "Rock FM is the name of a radio **station**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting what you read or heard",
+      "text": "When you say where your information came from, use **It says in ...** or **According to ...**. News is also reported online through **podcasts** - radio programmes you download and play on your computer or phone - and many papers have online **forums** where readers leave messages.",
+      "examples": [
+        { "text": "**It said in** The Times that the plane crashed in the sea.", "wrong": "It was written in The Times" },
+        { "text": "**According to** the news on TV last night, the plane crashed in the sea." },
+        { "text": "Have you heard the latest business **podcast** on the CNN website?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say *It says in the paper ...* or *According to the paper ...* - never ~~It's written in the paper~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rock FM is the name of a radio ___.",
+      "hint": "(radio, not TV)",
+      "answers": ["station"],
+      "explanation": "We use station for radio and channel for television."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these is NOT a type of TV programme?",
+      "options": ["a documentary", "a chat show", "a headline", "a soap opera"],
+      "answer": 2,
+      "explanation": "A headline is the title above a report in a newspaper, not a TV programme."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "celebrity", "right": "a famous person" },
+        { "left": "documentary", "right": "a factual programme about real people and situations" },
+        { "left": "chat show", "right": "a programme that interviews famous people" },
+        { "left": "soap opera", "right": "programmes several times a week about the same people" },
+        { "left": "review", "right": "a piece of writing giving an opinion about a film or book" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can we watch the news now? *B:* Yes, it's on ___ Four.",
+      "hint": "(TV, not radio)",
+      "answers": ["channel"],
+      "explanation": "Television broadcasting uses channel; radio uses station."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is it a national paper? *B:* No, it's a ___ paper for the south-west.",
+      "hint": "(for one part of the country)",
+      "answers": ["regional", "local"],
+      "explanation": "A national paper is for the whole country; a regional paper is for one part of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is the magazine published every day? *B:* No, it ___ monthly.",
+      "hint": "(two words: appears in the shops)",
+      "answers": ["comes out", "is published"],
+      "explanation": "A paper or magazine comes out (= is published) daily, weekly or monthly."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a TV programme or something you find in a newspaper?",
+      "categories": ["TV programme", "In a newspaper"],
+      "items": [
+        { "text": "a documentary", "category": 0 },
+        { "text": "a headline", "category": 1 },
+        { "text": "a series", "category": 0 },
+        { "text": "an advert", "category": 1 },
+        { "text": "a reality TV show", "category": 0 },
+        { "text": "a report", "category": 1 },
+        { "text": "the weather forecast", "category": 0 },
+        { "text": "a review", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you understand this ___? '200 WOMEN GIVEN WRONG DIAGNOSIS'",
+      "hint": "(the title in large letters)",
+      "answers": ["headline"],
+      "explanation": "A headline is the title written in large letters above a report."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The manager was interviewed for the paper by one of their well-known ___.",
+      "hint": "(the people who write reports)",
+      "answers": ["reporters", "journalists"],
+      "explanation": "Reports in a paper are written by reporters or journalists."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You often see ___ in the paper which promise that you can learn a language in ten hours. It isn't true.",
+      "hint": "(words and pictures about a product)",
+      "answers": ["adverts", "advertisements"],
+      "explanation": "Adverts (advertisements) try to make people buy a product."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ to the weather forecast last night, it's going to rain today.",
+      "hint": "(say where the information came from)",
+      "answers": ["according"],
+      "explanation": "We use According to ... to say where our information came from."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's written in the paper that the interest rate is likely to go up soon.",
+      "answer": false,
+      "explanation": "It says in the paper that the interest rate is likely to go up soon. We do not say 'It's written in the paper'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Report the news you read in the newspaper.",
+      "words": ["It", "says", "in", "the", "paper", "that", "the", "plane", "crashed"],
+      "answer": "It says in the paper that the plane crashed",
+      "explanation": "It says in the paper that ... is the normal way to report what you have read."
+    }
+  ]
+}

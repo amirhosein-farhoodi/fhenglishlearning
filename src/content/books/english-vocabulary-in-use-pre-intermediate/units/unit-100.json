@@ -1,0 +1,224 @@
+{
+  "number": 100,
+  "title": "Abbreviations",
+  "subtitle": "MP, e.g., Dr, fridge, bike",
+  "summary": "Understand the common abbreviations of written and spoken English, and the short forms of everyday words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Abbreviations you say as letters",
+      "columns": ["Abbreviation", "Full form"],
+      "rows": [
+        ["**EU**", "European Union"],
+        ["**UN**", "United Nations"],
+        ["**PM**", "Prime Minister"],
+        ["**MP**", "Member of Parliament"],
+        ["**BBC**", "British Broadcasting Corporation"],
+        ["**ID**", "identification, e.g. an ID card"],
+        ["**PC**", "personal computer"],
+        ["**CV**", "curriculum vitae (a history of your job experience)"],
+        ["**ISP**", "Internet Service Provider"]
+      ],
+      "note": "A few abbreviations are said as a word, not as letters, for example **AIDS** and **PIN** (personal identification number, used with a bank or credit card)."
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about an abbreviation",
+      "text": "To ask what an abbreviation means, use the phrasal verb **stand for**.",
+      "examples": [
+        { "text": "*A:* What does *EU* **stand for**? *B:* European Union." },
+        { "text": "*A:* What does *MP* **stand for**? *B:* Member of Parliament." },
+        { "text": "*A:* What does *CV* **stand for**? *B:* Curriculum vitae." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Written only: you say the full word",
+      "columns": ["Written", "Spoken"],
+      "rows": [
+        ["**Mr** Scott", "mister Scott"],
+        ["**Mrs** Bryant", "misses Bryant"],
+        ["**Dr** Chapman", "doctor Chapman"],
+        ["**St** Mark's Church", "Saint Mark's Church"],
+        ["Dean **St**", "Dean Street"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Latin abbreviations in everyday English",
+      "columns": ["Abbreviation", "Meaning"],
+      "rows": [
+        ["**etc.**", "and so on"],
+        ["**e.g.**", "for example"],
+        ["**i.e.**", "that's to say, in other words"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Shortened words",
+      "text": "Many common words have a short form, especially in speech. Sometimes the short form is the normal one, and the full word sounds formal: *refrigerator*, *influenza*, *gymnasium* and *veterinary surgeon* are rare in conversation.",
+      "examples": [
+        { "text": "It was warm, so I put the milk in the **fridge**.", "note": "refrigerator" },
+        { "text": "He went on his **bike**.", "note": "bicycle" },
+        { "text": "The dog was sick, so we took her to the **vet**.", "note": "veterinary surgeon" },
+        { "text": "I was in bed all week with **flu**.", "note": "influenza: an illness like a cold but more serious" },
+        { "text": "We did some experiments in the chemistry **lab**.", "note": "laboratory: a special room where scientists work" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More short forms",
+      "columns": ["Short form", "Full word"],
+      "rows": [
+        ["phone", "telephone"],
+        ["maths", "mathematics"],
+        ["exam", "examination"],
+        ["plane", "aeroplane"],
+        ["case", "suitcase"],
+        ["photo", "photograph"],
+        ["ad / advert", "advertisement"],
+        ["gym", "gymnasium"],
+        ["TV / telly", "television"],
+        ["paper", "newspaper"],
+        ["sales rep", "sales representative"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Abbreviations in letters, forms and messages",
+      "columns": ["Abbreviation", "Meaning", "Where you see it"],
+      "rows": [
+        ["**PTO**", "please turn over", "at the bottom of a page"],
+        ["**RSVP**", "please reply", "on an invitation"],
+        ["**asap**", "as soon as possible", "in emails and text messages"],
+        ["**IMO**", "in my opinion", "in emails and text messages"],
+        ["**DOB**", "date of birth", "on forms"],
+        ["**PS**", "postscript (extra information)", "at the end of a letter, after your name"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use e.g. before an example and i.e. before an explanation: 'Bring warm clothes, e.g. a coat' but 'Bring warm clothes, i.e. not shorts'."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each abbreviation with its full form.",
+      "pairs": [
+        { "left": "BBC", "right": "British Broadcasting Corporation" },
+        { "left": "MP", "right": "Member of Parliament" },
+        { "left": "UN", "right": "United Nations" },
+        { "left": "CV", "right": "curriculum vitae" },
+        { "left": "ISP", "right": "Internet Service Provider" },
+        { "left": "PC", "right": "personal computer" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "ISP stands for Internet Service Player.",
+      "answer": false,
+      "explanation": "ISP stands for Internet Service Provider."
+    },
+    {
+      "type": "true_false",
+      "statement": "ID stands for identification.",
+      "answer": true,
+      "explanation": "Correct. You may be asked for an ID card."
+    },
+    {
+      "type": "true_false",
+      "statement": "MP stands for Minister of Parliament.",
+      "answer": false,
+      "explanation": "MP stands for Member of Parliament."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the written abbreviation with what it means.",
+      "pairs": [
+        { "left": "e.g.", "right": "for example" },
+        { "left": "etc.", "right": "and so on" },
+        { "left": "i.e.", "right": "in other words" },
+        { "left": "Dr", "right": "Doctor" },
+        { "left": "St", "right": "Street or Saint" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it shorter: 'Olly had a mathematics examination this afternoon.' -> 'Olly had a maths ___ this afternoon.'",
+      "hint": "(one word)",
+      "answers": ["exam"],
+      "explanation": "Exam is the short form of examination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it shorter: 'Please help yourself to anything in the refrigerator.' -> '... anything in the ___.'",
+      "hint": "(one word)",
+      "answers": ["fridge"],
+      "explanation": "Fridge is the normal word; refrigerator sounds formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it shorter: 'My telephone number is next to the photographs.' -> 'My ___ number is next to the photos.'",
+      "hint": "(one word)",
+      "answers": ["phone"],
+      "explanation": "Phone is the short form of telephone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He didn't want to walk, so he went on his ___.",
+      "hint": "(short form of bicycle)",
+      "answers": ["bike"],
+      "explanation": "Bike is the short form of bicycle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The dog was sick, so we had to take her to the ___.",
+      "hint": "(short form of veterinary surgeon)",
+      "answers": ["vet"],
+      "explanation": "A vet is a veterinary surgeon, an animal doctor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I sold my CDs, I put an ___ in the paper and had three replies the same day.",
+      "hint": "(short form of advertisement)",
+      "answers": ["ad", "advert"],
+      "explanation": "Ad and advert are both short for advertisement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you use the cashpoint, remember you'll need your ___ number.",
+      "hint": "(three letters)",
+      "answers": ["PIN"],
+      "explanation": "PIN = personal identification number. It is said as a word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What does MP ___ for?",
+      "hint": "(one word)",
+      "answers": ["stand"],
+      "explanation": "We ask about an abbreviation with What does ... stand for?"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where would you normally see each abbreviation?",
+      "categories": ["On a form or a letter", "In an email or text message"],
+      "items": [
+        { "text": "DOB", "category": 0 },
+        { "text": "PTO", "category": 0 },
+        { "text": "RSVP", "category": 0 },
+        { "text": "PS", "category": 0 },
+        { "text": "asap", "category": 1 },
+        { "text": "IMO", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In that shop you can get books, pens, writing paper, ___",
+      "options": ["etc.", "e.g.", "i.e.", "PS"],
+      "answer": 0,
+      "explanation": "Etc. means and so on, at the end of a list."
+    }
+  ]
+}

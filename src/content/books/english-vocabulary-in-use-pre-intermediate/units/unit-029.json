@@ -1,0 +1,238 @@
+{
+  "number": 29,
+  "title": "On the road",
+  "subtitle": "traffic lights, get lost, brake, crash",
+  "summary": "Talk about roads and road signs, describe how you found your way, and tell the story of an accident.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parts of a road",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["**traffic lights**", "the red, amber and green lights that stop and start the traffic"],
+        ["a (road) **junction**", "the place where two roads meet"],
+        ["a **bend**", "a curve in the road; *this road bends to the right*"],
+        ["a **pedestrian crossing**", "the place where people can cross the road"],
+        ["a **bridge**", "it carries the road over a river or another road"],
+        ["a **motorway**", "a big fast road between cities"],
+        ["a **lane**", "part of a road separated from other parts by a line"],
+        ["the **pavement**", "the place at the side of the road where people walk"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Road signs",
+      "text": "A **road sign** is a message or symbol beside the road that gives information. Common ones are the **speed limit** (for example 50 mph) and **no overtaking**, which means you can't pass another car.",
+      "examples": [
+        { "text": "He was driving over the **speed limit**." },
+        { "text": "There's a **no overtaking** sign before the bend.", "note": "overtake = pass another car" },
+        { "text": "On a motorway, the **inside** or **slow lane** is for slower cars and the **outside** or **fast lane** is for faster ones." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Finding your way",
+      "text": "If you **get lost**, you don't know where you are. You can **ask someone the way** and they will **direct** you - tell you how to get to a place.",
+      "examples": [
+        { "text": "Yesterday I **got lost** on my way to the airport." },
+        { "text": "I decided to go **via** the village of Pensford.", "note": "via = through a place to get to a destination" },
+        { "text": "I took the wrong **turning** just before I got there.", "note": "a turning = a corner where one road meets another" },
+        { "text": "I **ended up** in a supermarket car park.", "note": "end up = find yourself in a place you didn't expect" },
+        { "text": "A kind woman **directed** me to the A38." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Phrases for journeys",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["get lost", "not know where you are"],
+        ["on my way to", "while I was going to"],
+        ["go via", "go through one place to get to another"],
+        ["take the wrong turning", "turn into the wrong road"],
+        ["end up", "find yourself somewhere you didn't expect"],
+        ["ask someone the way", "ask how to get to a place"],
+        ["direct someone", "tell them how to get to a place"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "An accident",
+      "text": "A **pedestrian** is a person walking. If a car is **approaching**, it is coming closer. The driver **brakes** to stop, but the car may **swerve** - change direction suddenly and without control - and **crash into** something.",
+      "examples": [
+        { "text": "I saw an **accident** this morning on the **main road** into town." },
+        { "text": "A **pedestrian** stepped off the **pavement** just as a car was **approaching**." },
+        { "text": "The driver **braked**, but the car **swerved** and **crashed into** a **parked car**." },
+        { "text": "The driver wasn't **injured**, but both cars were badly **damaged**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "damage and injure",
+      "left": {
+        "label": "damage a thing",
+        "text": "You **damage** a thing: you harm or break it. The noun is **damage**.",
+        "examples": [
+          "The car was badly **damaged**.",
+          "There was a lot of **damage** to the bike."
+        ]
+      },
+      "right": {
+        "label": "injure a person",
+        "text": "You **injure** a person: you hurt them. The noun is **injury**.",
+        "examples": [
+          "Nobody was **injured**.",
+          "The cyclist only had minor **injuries**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Cars are **damaged**; people are **injured**. Never say ~~the driver was damaged~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? People who are walking: ___ .",
+      "hint": "(plural)",
+      "answers": ["pedestrians"],
+      "explanation": "A pedestrian is a person walking."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? The place where people usually walk, beside the road: the ___ .",
+      "hint": "(one word)",
+      "answers": ["pavement", "the pavement"],
+      "explanation": "The pavement is where pedestrians walk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? The place where two roads meet: a road ___ .",
+      "hint": "(one word)",
+      "answers": ["junction"],
+      "explanation": "A road junction is where two roads meet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? The thing you put your foot on to stop a car: the ___ .",
+      "hint": "(one word)",
+      "answers": ["brake", "the brake"],
+      "explanation": "You press the brake to stop; the verb is also brake."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each road word with its meaning.",
+      "pairs": [
+        { "left": "a lane", "right": "part of a road between two lines" },
+        { "left": "a bend", "right": "a curve in the road" },
+        { "left": "a bridge", "right": "it carries the road over a river" },
+        { "left": "a motorway", "right": "a big fast road between cities" },
+        { "left": "a road sign", "right": "a message beside the road" },
+        { "left": "a pedestrian crossing", "right": "the place where people cross the road" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does a sign saying '50 mph' tell you?",
+      "options": ["The speed limit.", "The distance to town.", "The number of lanes.", "The height of the bridge."],
+      "answer": 0,
+      "explanation": "50 mph is the speed limit - the fastest you may legally drive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A sign says 'no overtaking'. What does it mean?",
+      "options": [
+        "You can't pass another car.",
+        "You can't park here.",
+        "You can't turn right.",
+        "You can't drive at night."
+      ],
+      "answer": 0,
+      "explanation": "Overtake = pass another car."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't know where I was in the town centre. -> I got ___ in the town centre.",
+      "hint": "(one word)",
+      "answers": ["lost"],
+      "explanation": "Get lost = not know where you are."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can ask someone to tell you how to get here. -> You can ask someone to ___ you.",
+      "hint": "(one word)",
+      "answers": ["direct"],
+      "explanation": "Direct someone = tell them how to get to a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went through Ledbury to get to Malvern. -> I went to Malvern ___ Ledbury.",
+      "hint": "(one short word)",
+      "answers": ["via"],
+      "explanation": "Go via a place = go through it to get to your destination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We arrived unexpectedly by the river. -> We ___ up by the river.",
+      "hint": "(past tense)",
+      "answers": ["ended"],
+      "explanation": "End up = find yourself somewhere you didn't expect to be."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I turned left instead of right. -> I took the wrong ___ .",
+      "hint": "(one word)",
+      "answers": ["turning"],
+      "explanation": "A turning is a corner where one road meets another."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was driving too fast - over the ___ limit - and he lost control of the car.",
+      "hint": "(one word)",
+      "answers": ["speed"],
+      "explanation": "The speed limit is the fastest you may legally drive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He had to ___ to avoid a car on the other side of the road.",
+      "hint": "(change direction suddenly)",
+      "answers": ["swerve"],
+      "explanation": "Swerve = change direction suddenly and without control."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the end he ___ into a tree.",
+      "hint": "(past tense)",
+      "answers": ["crashed"],
+      "explanation": "Crash into something = hit it hard with a vehicle."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we use damage or injure?",
+      "categories": ["damage", "injure"],
+      "items": [
+        { "text": "a parked car", "category": 0 },
+        { "text": "a bicycle", "category": 0 },
+        { "text": "the bridge", "category": 0 },
+        { "text": "a pedestrian", "category": 1 },
+        { "text": "the driver", "category": 1 },
+        { "text": "a cyclist", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe the accident.",
+      "words": ["The", "car", "was", "badly", "damaged,", "but", "the", "driver", "wasn't", "injured."],
+      "answer": "The car was badly damaged, but the driver wasn't injured.",
+      "explanation": "We damage things and injure people."
+    },
+    {
+      "type": "true_false",
+      "statement": "A car was approaching means the car was coming closer.",
+      "answer": true,
+      "explanation": "Correct. Approach = come closer."
+    }
+  ]
+}

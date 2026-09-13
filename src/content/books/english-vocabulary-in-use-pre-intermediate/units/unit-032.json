@@ -1,0 +1,190 @@
+{
+  "number": 32,
+  "title": "School education",
+  "subtitle": "primary school, terms, break the rules",
+  "summary": "Talk about the school system, the school timetable and the rules pupils have to follow.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "State schools and private schools",
+      "text": "In most parts of England and Wales, **state schools** are free and operated by the country. Parents pay to send their children to **private schools**. Students at school are called **pupils**.",
+      "examples": [
+        { "text": "Both my children go to the local **state school**, so we pay nothing." },
+        { "text": "My parents sent me to a **private school**.", "note": "= they paid for it" },
+        { "text": "There are 900 **pupils** in the school.", "note": "pupil = a student at school" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The school system, age by age",
+      "columns": ["Age", "What happens"],
+      "rows": [
+        ["3", "Almost all children **attend** nursery school for up to 15 hours a week. (attend = go to; formal)"],
+        ["5", "Everyone starts **primary school**."],
+        ["11", "Pupils go to **secondary school**."],
+        ["16", "Pupils **take** GCSE exams in up to ten subjects. Then they can go to a college for **vocational training**, e.g. hotel management, or stay at school for two more years."],
+        ["18", "Pupils take 'A' level exams in three or four subjects. Then they can leave school and **get a job**, **go on to university** or go to a college for **further education**."]
+      ],
+      "note": "Vocational training is training for a particular job."
+    },
+    {
+      "type": "explain",
+      "heading": "The school timetable",
+      "text": "The school day is **divided into** about five to seven **lessons**, and over a week most pupils **do** or **study** about ten **subjects**, including English, maths, history and science. There is usually a one-hour lunch **break**, and a break in the morning and afternoon too.",
+      "examples": [
+        { "text": "The school **timetable** is more or less the same every day." },
+        { "text": "The day is **divided into** seven lessons." },
+        { "text": "There is a **break** three times a day.", "note": "a break = a period of rest between work" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The school year",
+      "text": "The school year is usually divided into three **terms** of about 13 weeks. At the end of the year, pupils take exams before they **break up**; after the summer holidays they **go back** for the new school year.",
+      "examples": [
+        { "text": "There were three **terms** in the school year.", "note": "a term = a period of study" },
+        { "text": "Schools often **break up** after they finish exams.", "note": "= end classes for the term" },
+        { "text": "We **go back** in September for the new school year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "School rules",
+      "text": "**Rules** tell you what you must or must not do. If you **break the rules**, you are **punished**: you may have to **stay behind** after the other pupils leave. If you do something wrong and are punished, you **get into trouble**.",
+      "examples": [
+        { "text": "If you **broke the rules**, you were **punished**." },
+        { "text": "Pupils sometimes had to **stay behind** and write an essay." },
+        { "text": "I used to **get into trouble** for wearing lipstick." },
+        { "text": "The teachers are not as **strict** now.", "note": "a strict teacher punishes pupils who do something wrong" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Uniform and atmosphere",
+      "text": "We had to call the **male** teachers 'sir' and the **female** teachers 'miss', and we had to **wear** a horrible **uniform**. Nowadays the **atmosphere** is more **relaxed**: older pupils can often **dress** the way they want, as long as they are reasonably **smart**.",
+      "examples": [
+        { "text": "I had to **wear** a school **uniform**.", "note": "a uniform = special clothes for a school or a job" },
+        { "text": "My school had a really nice, **relaxed atmosphere**.", "note": "atmosphere = the feeling in a place" },
+        { "text": "Pupils can **dress** the way they want.", "note": "= wear what they want" },
+        { "text": "You must look reasonably **smart**.", "note": "= well dressed and not too casual" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In British English the subject is **maths**; in American English it is *math*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the words that follow it.",
+      "pairs": [
+        { "left": "go", "right": "to school" },
+        { "left": "leave", "right": "school" },
+        { "left": "take", "right": "an exam" },
+        { "left": "wear", "right": "a uniform" },
+        { "left": "get", "right": "into trouble" },
+        { "left": "break", "right": "the rules" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the age of five, children in England go to ___ school.",
+      "hint": "(one word)",
+      "answers": ["primary"],
+      "explanation": "Children start primary school at five and stay there until they are eleven."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the age of eleven, pupils go to ___ school.",
+      "hint": "(one word)",
+      "answers": ["secondary"],
+      "explanation": "Secondary school comes after primary school."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When they are sixteen, pupils ___ GCSE exams in up to ten subjects.",
+      "hint": "(one word)",
+      "answers": ["take", "do"],
+      "explanation": "You take or do an exam - never make an exam."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The school ___ is more or less the same every day.",
+      "options": ["timetable", "term", "break", "uniform"],
+      "answer": 0,
+      "explanation": "The timetable says which lessons you have and when."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After their GCSEs, some pupils go to a college for ___ training, e.g. travel and tourism.",
+      "hint": "(one word - training for a job)",
+      "answers": ["vocational"],
+      "explanation": "Vocational training prepares you for a particular job."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Nowadays a lot of pupils ___ to university after they leave school.",
+      "options": ["go on", "break up", "stay behind", "get into"],
+      "answer": 0,
+      "explanation": "Go on to university = continue your education at university."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The school day is divided ___ seven lessons.",
+      "hint": "(one word)",
+      "answers": ["into"],
+      "explanation": "Something is divided into parts, not divided out of them."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Schools often break ___ after the pupils finish their exams.",
+      "options": ["up", "out", "down", "in"],
+      "answer": 0,
+      "explanation": "Break up = end classes for the term."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There were three ___ in the school year, each about 13 weeks long.",
+      "hint": "(one word, plural)",
+      "answers": ["terms"],
+      "explanation": "A term is one period of study in the school year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I occasionally got into ___ at school for doing things I shouldn't do.",
+      "hint": "(one word)",
+      "answers": ["trouble"],
+      "explanation": "Get into trouble = do something wrong and be punished."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the word about the school system or about school rules?",
+      "categories": ["The school system", "School rules"],
+      "items": [
+        { "text": "nursery school", "category": 0 },
+        { "text": "secondary school", "category": 0 },
+        { "text": "term", "category": 0 },
+        { "text": "vocational training", "category": 0 },
+        { "text": "uniform", "category": 1 },
+        { "text": "strict", "category": 1 },
+        { "text": "punish", "category": 1 },
+        { "text": "stay behind", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what teachers do when pupils do something wrong.",
+      "words": ["The", "teachers", "punished", "pupils", "who", "broke", "the", "rules."],
+      "answer": "The teachers punished pupils who broke the rules.",
+      "explanation": "You break a rule, and then you are punished."
+    },
+    {
+      "type": "true_false",
+      "statement": "In England pupils take their 'A' level exams when they are sixteen.",
+      "answer": false,
+      "explanation": "In England pupils take their 'A' level exams when they are eighteen. GCSE exams are at sixteen."
+    }
+  ]
+}

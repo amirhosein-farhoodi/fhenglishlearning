@@ -1,0 +1,206 @@
+{
+  "number": 5,
+  "title": "Country, nationality and language",
+  "subtitle": "Poland - Polish - Polish; the Far East; the British",
+  "summary": "Say where people come from, what nationality they are and what language they speak.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Who speaks what where?",
+      "columns": ["Country", "Nationality", "Language"],
+      "rows": [
+        ["Australia", "Australian", "English"],
+        ["Brazil", "Brazilian", "Portuguese"],
+        ["China", "Chinese", "Mandarin (and Cantonese)"],
+        ["Egypt", "Egyptian", "Arabic"],
+        ["France", "French", "French"],
+        ["Germany", "German", "German"],
+        ["Greece", "Greek", "Greek"],
+        ["Israel", "Israeli", "Hebrew"],
+        ["Italy", "Italian", "Italian"],
+        ["Japan", "Japanese", "Japanese"]
+      ],
+      "note": "The nationality word and the language word are often the same, but not always: people from Brazil are Brazilian and they speak Portuguese."
+    },
+    {
+      "type": "table",
+      "heading": "More countries",
+      "columns": ["Country", "Nationality", "Language"],
+      "rows": [
+        ["(South) Korea", "Korean", "Korean"],
+        ["Poland", "Polish", "Polish"],
+        ["Russia", "Russian", "Russian"],
+        ["Saudi Arabia", "Saudi Arabian", "Arabic"],
+        ["Spain", "Spanish", "Spanish"],
+        ["Switzerland", "Swiss", "Swiss-German, French, Italian"],
+        ["Thailand", "Thai", "Thai"],
+        ["Turkey", "Turkish", "Turkish"],
+        ["the UK (United Kingdom)", "British", "English"],
+        ["the USA (United States of America)", "American", "English"]
+      ],
+      "note": "The UK is England, Scotland, Wales and Northern Ireland."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about your country",
+      "text": "Use **come from** for your country, a **nationality** word for you, and **first language** for the language you grew up with. The **capital** is the main city, and the **population** is the number of people who live there.",
+      "examples": [
+        { "text": "I **come from** Argentina, so I'm **Argentinian**." },
+        { "text": "My **first language** is Spanish." },
+        { "text": "The **capital** is Buenos Aires, which has a **population** of more than 10 million people." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Common mistakes",
+      "text": "Countries, nationalities and languages always start with a **capital letter**. Use the nationality word, not the country word, in front of a noun. And do not forget **the** in front of the UK and the USA.",
+      "examples": [
+        { "text": "He's **English**.", "wrong": "He's english." },
+        { "text": "We ate **French** food.", "wrong": "We ate France food." },
+        { "text": "I went to **the USA**.", "wrong": "I went to USA." },
+        { "text": "I also visited **the UK**.", "wrong": "I also visited UK." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Parts of the world",
+      "text": "The **continents** in the world are **Europe**, **Africa**, **Asia**, **North America**, **South America**, **Australia** (Australia and New Zealand) and **Antarctica**.",
+      "examples": [
+        { "text": "Germany and Italy are in **Europe**." },
+        { "text": "Argentina is in **South America**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Areas of the world",
+      "columns": ["Area", "Countries in it"],
+      "rows": [
+        ["the Middle East", "United Arab Emirates, Saudi Arabia"],
+        ["the Far East", "Thailand, Japan"],
+        ["the Caribbean", "Jamaica, Barbados"],
+        ["Scandinavia", "Sweden, Norway, Denmark, Finland"]
+      ],
+      "note": "These names all take the except Scandinavia."
+    },
+    {
+      "type": "explain",
+      "heading": "The people",
+      "text": "To talk about all the people of a country, add **-s** to nationalities that end in **-i** or **-(i)an**. For most other nationalities we need **the** and no -s.",
+      "examples": [
+        { "text": "**Brazilians** and **Russians** are ..." },
+        { "text": "**Thais** and **Israelis** are ..." },
+        { "text": "**The British** and **The French** are ..." },
+        { "text": "**The Swiss** and **The Japanese** are ..." }
+      ],
+      "note": "With both groups you can also add the word people: Brazilian people, British people."
+    },
+    {
+      "type": "tip",
+      "text": "If the nationality word ends in -ese, -ss, -sh or -ch (Japanese, Swiss, British, French), say the + the word with no -s."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the country with the nationality.",
+      "pairs": [
+        { "left": "Poland", "right": "Polish" },
+        { "left": "Thailand", "right": "Thai" },
+        { "left": "Germany", "right": "German" },
+        { "left": "Switzerland", "right": "Swiss" },
+        { "left": "Israel", "right": "Israeli" },
+        { "left": "the UK", "right": "British" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What nationality are people from Thailand? They are ___.",
+      "hint": "(one word)",
+      "answers": ["Thai"],
+      "explanation": "Thailand - Thai. The nationality and the language are the same word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What language is spoken in Spain? ___.",
+      "hint": "(one word)",
+      "answers": ["Spanish"],
+      "explanation": "People in Spain speak Spanish."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What language is spoken in Brazil?",
+      "options": ["Portuguese", "Brazilian", "Spanish", "Arabic"],
+      "answer": 0,
+      "explanation": "People from Brazil are Brazilian, but the language is Portuguese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where do people speak Hebrew? In ___.",
+      "hint": "(a country)",
+      "answers": ["Israel"],
+      "explanation": "Hebrew is the language of Israel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where do people speak Mandarin?",
+      "options": ["China", "Japan", "(South) Korea", "Thailand"],
+      "answer": 0,
+      "explanation": "Mandarin (and Cantonese) is spoken in China."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What language is spoken in Egypt? ___.",
+      "hint": "(one word - also spoken in Saudi Arabia)",
+      "answers": ["Arabic"],
+      "explanation": "Egypt and Saudi Arabia both use Arabic."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What part of the world is each country in?",
+      "categories": ["Europe", "the Far East", "the Middle East"],
+      "items": [
+        { "text": "Germany", "category": 0 },
+        { "text": "Italy", "category": 0 },
+        { "text": "Japan", "category": 1 },
+        { "text": "Thailand", "category": 1 },
+        { "text": "Saudi Arabia", "category": 2 },
+        { "text": "United Arab Emirates", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bangkok is the capital of ___.",
+      "hint": "(a country in the Far East)",
+      "answers": ["Thailand"],
+      "explanation": "Bangkok is the capital city of Thailand."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Athens is the capital of ___.",
+      "hint": "(a country in Europe)",
+      "answers": ["Greece"],
+      "explanation": "Athens is the capital of Greece; the people are Greek."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Complete the sentence: 'We do a lot of business with ___.' (JAPAN)",
+      "options": ["the Japanese", "Japaneses", "Japans", "a Japanese"],
+      "answer": 0,
+      "explanation": "Nationalities ending in -ese take the and no -s: the Japanese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the sentence: 'I know lots of ___.' (GERMANY)",
+      "hint": "(the people of Germany)",
+      "answers": ["Germans"],
+      "explanation": "German ends in -an, so we add -s: Germans."
+    },
+    {
+      "type": "true_false",
+      "statement": "I met a lot of Russians on my trip to Moscow.",
+      "answer": true,
+      "explanation": "Correct. Russian ends in -an, so the plural is Russians, with no the."
+    }
+  ]
+}

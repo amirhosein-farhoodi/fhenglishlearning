@@ -1,0 +1,199 @@
+{
+  "number": 63,
+  "title": "Cause, reason, purpose and result",
+  "subtitle": "due to, spark off, with the aim of, as a consequence",
+  "summary": "Say why something happened and what it led to, using the formal cause-and-result vocabulary of written English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Cause and reason",
+      "text": "Besides *because*, *since* and *as*, there are several noun and verb patterns for causes. Notice which word takes which structure.",
+      "examples": [
+        { "text": "The collision was **due to** the icy conditions." },
+        { "text": "The collision was **caused by** ice on the road." },
+        { "text": "The **cause of** the collision was ice on the road." },
+        { "text": "The heavy rain **caused** the river **to** flood." },
+        { "text": "**Owing to** the icy conditions, the two cars collided." }
+      ],
+      "note": "With a clause, owing to must be followed by the fact that: Owing to the fact that the conditions were icy, the two cars collided."
+    },
+    {
+      "type": "table",
+      "heading": "Formal 'cause' verbs and their typical contexts",
+      "columns": ["Verb", "Used for", "Example"],
+      "rows": [
+        ["**spark (off)**", "very strong, perhaps violent reactions", "The rise in prices **sparked off** a lot of political protest."],
+        ["**give rise to / provoke / generate**", "slightly less strong reactions", "The President's statement **provoked** a lot of criticism."],
+        ["**bring about / lead to**", "political or social change", "The new law has **brought about** great changes in education."],
+        ["**stem from**", "the direct origins of events and states", "This problem **stems from** the inflation of recent years."],
+        ["**arise from / out of**", "what started the process", "The court case **arose from** allegations made in a newspaper."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reasons for doing things",
+      "text": "To give the reason behind an action, use **reason for** + -ing or **the reason (why) ... was that**. **On the grounds that** introduces a stated justification and is quite formal.",
+      "examples": [
+        { "text": "Her **reason for** not going with us was that she had no money." },
+        { "text": "The **reason why** she didn't go with us was that she had no money.", "note": "less formal" },
+        { "text": "He refused to answer **on the grounds that** his lawyer wasn't there." },
+        { "text": "I wonder what **prompted** her to send that message?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Purposes",
+      "text": "These are fairly formal and mostly written. **With a view to** sounds a little more indirect than **with the aim of**. Both are followed by -ing.",
+      "examples": [
+        { "text": "She wrote to the press **with the aim of** exposing the scandal." },
+        { "text": "I've invited you here **with a view to** resolving our differences." },
+        { "text": "The **purpose of** her visit was to inspect the equipment." },
+        { "text": "I wonder what his **motives** were **in** sending that email?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Results",
+      "text": "**As a result** and **consequently** link a cause to what followed; the *consequence* words sound more formal. Note the verb pattern **result in** + -ing.",
+      "examples": [
+        { "text": "He did no work. **As a result**, he failed his exams." },
+        { "text": "He did no work. **Consequently**, he failed his exams.", "note": "more formal than as a result" },
+        { "text": "The **result of** all these changes is that no one is happy any more." },
+        { "text": "His remarks **resulted in** everyone getting angry." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Result nouns and one very formal verb",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**outcome**", "the result of a process, or of meetings and discussions"],
+        ["**upshot**", "the same idea, but less formal than outcome"],
+        ["**consequence**", "the result, seen as what follows on from a cause (formal)"],
+        ["**ensue** (verb)", "follow as a result; very formal: When the results were announced, chaos **ensued**."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch the prepositions: result in, arise from, stem from, give rise to, the purpose of, with the aim of, reasons for."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each expression with the idea it carries.",
+      "pairs": [
+        { "left": "spark off", "right": "cause a very strong, perhaps violent reaction" },
+        { "left": "bring about", "right": "produce political or social change" },
+        { "left": "stem from", "right": "have its direct origins in" },
+        { "left": "outcome", "right": "the result of a process or discussion" },
+        { "left": "ensue", "right": "follow as a result (very formal)" },
+        { "left": "on the grounds that", "right": "giving this as the stated reason" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My reasons ___ not joining the club are personal.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "reason for + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The purpose ___ this pedal is to control the speed.",
+      "hint": "(preposition)",
+      "answers": ["of"],
+      "explanation": "the purpose of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His stupidity has resulted ___ everyone having to do more work.",
+      "hint": "(preposition)",
+      "answers": ["in"],
+      "explanation": "result in + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "All this arose ___ one small mistake we made.",
+      "hint": "(preposition)",
+      "answers": ["from", "out of"],
+      "explanation": "arise from / arise out of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That press article has given rise ___ a lot of criticism.",
+      "hint": "(preposition)",
+      "answers": ["to"],
+      "explanation": "give rise to something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I came here with the aim ___ resolving our dispute.",
+      "hint": "(preposition)",
+      "answers": ["of"],
+      "explanation": "with the aim of + -ing; compare with a view to + -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The train crash was ___ the failure of the electrical system.",
+      "hint": "(d... t... - two words)",
+      "answers": ["due to", "caused by"],
+      "explanation": "was due to / was caused by + the cause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The food shortages ___ bad economic policies.",
+      "hint": "(s... f... - had their direct origins in)",
+      "answers": ["stemmed from", "arose from", "stem from"],
+      "explanation": "Stem from and arise from explain the direct origins of a state of affairs."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The closure of 20 mines ___ strikes in the coal industry. Which verb suits a strong, angry reaction best?",
+      "options": ["sparked off", "stemmed from", "arose out of", "was due to"],
+      "answer": 0,
+      "explanation": "Spark off is used for very strong, perhaps violent reactions to events."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Join the two ideas: 'The service was terribly slow.' + 'All the customers got angry.'",
+      "options": [
+        "The service was terribly slow. As a result, all the customers got angry.",
+        "The service was terribly slow. With the aim of all the customers got angry.",
+        "The service was terribly slow. On the grounds that all the customers got angry.",
+        "The service was terribly slow. Owing to all the customers got angry."
+      ],
+      "answer": 0,
+      "explanation": "As a result (or the more formal Consequently) introduces the result."
+    },
+    {
+      "type": "true_false",
+      "statement": "Owing to the conditions were icy, the two cars collided.",
+      "answer": false,
+      "explanation": "Owing to the fact that the conditions were icy, the two cars collided. Owing to needs the fact that before a clause."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join with 'prompt': 'There was a controversial decision. She wrote to the local newspaper to protest.'",
+      "words": ["The controversial decision", "prompted her", "to write", "to the local newspaper", "to protest."],
+      "answer": "The controversial decision prompted her to write to the local newspaper to protest.",
+      "explanation": "prompt someone to do something = be the reason that makes them do it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word introduce a cause, a purpose, or a result?",
+      "categories": ["Cause / reason", "Purpose", "Result"],
+      "items": [
+        { "text": "owing to", "category": 0 },
+        { "text": "stem from", "category": 0 },
+        { "text": "on the grounds that", "category": 0 },
+        { "text": "with a view to", "category": 1 },
+        { "text": "with the aim of", "category": 1 },
+        { "text": "consequently", "category": 2 },
+        { "text": "the upshot", "category": 2 },
+        { "text": "ensue", "category": 2 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "number": 51,
+  "title": "Healthcare",
+  "subtitle": "GP, locum, primary care, prescription charge",
+  "summary": "Name the people and parts of a healthcare system - GPs, locums and specialists, primary and secondary care, prescriptions and insurance schemes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Primary care",
+      "text": "**Primary care** is provided by the doctors (also called **physicians**) or nurses a patient goes to first. This may happen at the doctor's **surgery** or during a **home visit**. A **locum** is a doctor who does the job of another doctor who is ill or on holiday. Most care is provided through the primary care system, whether the problem is an **acute condition** - one that is severe and sudden in onset - or a **chronic** one, which keeps coming back.",
+      "examples": [
+        { "text": "I need to phone the **surgery** to make an appointment for a blood test." },
+        { "text": "I saw a very nice **locum** today because our normal GP was on leave." },
+        { "text": "He suffers from **chronic** bronchitis - it comes back year after year." },
+        { "text": "Lydia had her appendix removed after an **acute** attack of appendicitis." }
+      ],
+      "note": "Do doctors often do home visits in your country? Not ~~home visitors~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Secondary care and referral",
+      "text": "**Secondary care** is provided by **specialists** in special clinics or hospitals. Patients are **referred to** a specialist by their own doctor. Specialists may concentrate on one **organ** - a part of the body such as the stomach or liver - or on a specific age group.",
+      "examples": [
+        { "text": "The GP decided to **refer** Alex to a specialist." },
+        { "text": "The heart is the **organ** which pumps blood around our bodies." },
+        { "text": "Chris has a skin **condition** which is taking a long time to clear up." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Specialists and what they specialise in",
+      "columns": ["Specialist", "Field"],
+      "rows": [
+        ["ophthalmologist", "eyes"],
+        ["cardiologist", "the heart"],
+        ["psychiatrist", "the mind"],
+        ["dermatologist", "skin"],
+        ["gynaecologist", "women's reproductive systems"],
+        ["obstetrician", "pregnancy and childbirth"],
+        ["paediatrician", "children"],
+        ["anaesthetist", "anaesthesia - stopping people feeling pain during surgery"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Alternative or complementary medicine",
+      "columns": ["Practitioner", "What they do"],
+      "rows": [
+        ["acupuncturist", "treats patients using needles at special points around the skin"],
+        ["chiropractor", "treats patients by pressing joints, for example in the spine or backbone"],
+        ["homeopathic doctor", "uses tiny amounts of natural substances to treat an illness"],
+        ["aromatherapist", "uses aromatic oils and massage"]
+      ],
+      "note": "These approaches differ from conventional western medicine. The correct adjectives are alternative medicine and complementary medicine - not ~~alternating~~ or ~~complimentary~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Paying for healthcare in Britain",
+      "text": "**Healthcare** is the general expression for all the services offered by hospitals, clinics, dentists and opticians. In Britain it is paid for through taxes and **national insurance** payments taken directly from wages. The government decides how much will be spent on the **National Health Service** (the **NHS**), though many people feel it does not spend enough.",
+      "examples": [
+        { "text": "**National insurance** is paid by most working adults and covers the cost of healthcare for everyone." },
+        { "text": "Hospital treatment and visits to a **family doctor** are free." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "GPs, prescriptions and going private",
+      "text": "A **GP** - general practitioner - is a doctor who looks after people's general health. A **surgery** is a small centre offering primary care run by one GP or a group of them; a **clinic** specialises in a particular condition. Treatment is free, but there is often a **prescription charge**, which you pay at a pharmacy. Private healthcare is available and many **insurance schemes** exist to enable people to **go private**.",
+      "examples": [
+        { "text": "The doctor wrote me a **prescription** for some painkillers." },
+        { "text": "Is there a **prescription charge** in your country?", "wrong": "prescription price" },
+        { "text": "Are there **insurance schemes** for private healthcare in your country?", "wrong": "insurance societies" },
+        { "text": "When it comes to healthcare, do many people in your country **go private**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Acute and chronic are opposites of a kind: acute means severe and sudden, chronic means long-lasting and recurring."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each specialist with what they specialise in.",
+      "pairs": [
+        { "left": "ophthalmologist", "right": "eyes" },
+        { "left": "cardiologist", "right": "the heart" },
+        { "left": "dermatologist", "right": "skin" },
+        { "left": "paediatrician", "right": "children" },
+        { "left": "obstetrician", "right": "pregnancy and childbirth" },
+        { "left": "anaesthetist", "right": "stopping people feeling pain during surgery" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I need to phone the ___ to make an appointment for a blood test.",
+      "hint": "(where your GP works)",
+      "answers": ["surgery"],
+      "explanation": "A surgery is a small centre offering primary care, run by one GP or a group of GPs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He suffers from ___ bronchitis - it comes back year after year.",
+      "hint": "(long-lasting, recurring)",
+      "answers": ["chronic"],
+      "explanation": "A chronic condition lasts a long time and keeps returning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lydia had her appendix removed after an ___ attack of appendicitis.",
+      "hint": "(severe and sudden)",
+      "answers": ["acute"],
+      "explanation": "An acute condition is severe and sudden in onset."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The doctor wrote me a ___ for some painkillers.",
+      "hint": "(the paper you take to the pharmacy)",
+      "answers": ["prescription"],
+      "explanation": "You take a prescription to a pharmacy, where you may have to pay a prescription charge."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The GP decided to ___ Alex to a specialist.",
+      "hint": "(verb: send on for secondary care)",
+      "answers": ["refer"],
+      "explanation": "Patients are referred to a specialist by their own doctor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw a very nice ___ today because our normal GP was on leave.",
+      "hint": "(a stand-in doctor)",
+      "answers": ["locum"],
+      "explanation": "A locum does the job of another doctor who is ill or on holiday."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The heart is the ___ which pumps blood around our bodies.",
+      "hint": "(a part of the body such as the liver)",
+      "answers": ["organ"],
+      "explanation": "An organ is a part of the body, for example the stomach or the liver."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Chris has a skin ___ which is taking a long time to clear up.",
+      "hint": "(a medical problem)",
+      "answers": ["condition"],
+      "explanation": "A condition is a medical problem; it may be acute or chronic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does GP stand for?",
+      "options": [
+        "general practitioner",
+        "general physician",
+        "government practice",
+        "general paediatrician"
+      ],
+      "answer": 0,
+      "explanation": "A GP, or general practitioner, is the doctor who looks after your general health."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'When it comes to healthcare, do many people in your country ___ ?' Which phrase is correct?",
+      "options": ["go private", "make private", "do private", "take private"],
+      "answer": 0,
+      "explanation": "To go private is to choose private healthcare rather than the state system."
+    },
+    {
+      "type": "true_false",
+      "statement": "Acupuncture and aromatherapy are examples of complimentary medicine.",
+      "answer": false,
+      "explanation": "The word is complementary medicine (also called alternative medicine); complimentary means free of charge or full of praise."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each practitioner part of conventional western medicine or of alternative medicine?",
+      "categories": ["Conventional medicine", "Alternative medicine"],
+      "items": [
+        { "text": "cardiologist", "category": 0 },
+        { "text": "dermatologist", "category": 0 },
+        { "text": "anaesthetist", "category": 0 },
+        { "text": "gynaecologist", "category": 0 },
+        { "text": "acupuncturist", "category": 1 },
+        { "text": "chiropractor", "category": 1 },
+        { "text": "homeopathic doctor", "category": 1 },
+        { "text": "aromatherapist", "category": 1 }
+      ]
+    }
+  ]
+}

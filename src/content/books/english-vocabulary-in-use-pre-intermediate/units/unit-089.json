@@ -1,0 +1,196 @@
+{
+  "number": 89,
+  "title": "Adjectives",
+  "subtitle": "absolutely marvellous, bored and boring",
+  "summary": "Use extreme adjectives such as huge, tiny and exhausted with absolutely or really, and choose correctly between -ing and -ed adjectives.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Extreme adjectives",
+      "text": "Many adjectives already mean *very*. We call them **extreme adjectives**. For example, **huge** means very big and **tiny** means very small.",
+      "examples": [
+        { "text": "We were lucky - the weather was **marvellous**.", "note": "= very good; also terrific, wonderful, amazing" },
+        { "text": "Don't go and see that film - it's **awful**.", "note": "= very bad; also dreadful" },
+        { "text": "I was **delighted** she passed her exam.", "note": "= very pleased" },
+        { "text": "It's a nice modern flat, but it's absolutely **tiny**.", "note": "= very small" },
+        { "text": "I wasn't very hungry, but they gave us a **huge** meal.", "note": "= very big; also enormous" },
+        { "text": "The food was **delicious**.", "note": "= very good, but usually only for food" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Gradable and extreme adjectives",
+      "columns": ["Gradable", "Extreme"],
+      "rows": [
+        ["big", "huge, enormous"],
+        ["small", "tiny"],
+        ["good", "marvellous, wonderful, terrific"],
+        ["bad", "awful, dreadful"],
+        ["tired", "exhausted"],
+        ["interesting", "fascinating"],
+        ["frightening", "terrifying"],
+        ["important", "essential"],
+        ["pleased", "delighted"],
+        ["surprised", "amazed"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "very or absolutely?",
+      "left": {
+        "label": "Gradable adjectives: very / really",
+        "text": "Adjectives without an extreme meaning take **very** or **really**.",
+        "examples": [
+          "The bag was **very big**.",
+          "I was **really tired** after the journey.",
+          "It was a **very nice** meal."
+        ]
+      },
+      "right": {
+        "label": "Extreme adjectives: absolutely / really",
+        "text": "Extreme adjectives take **absolutely** or **really**, never ~~very~~.",
+        "examples": [
+          "The food was **absolutely marvellous**.",
+          "Everyone was **absolutely exhausted**.",
+          "It was **really terrific**."
+        ]
+      },
+      "note": "We do not say very marvellous or absolutely big."
+    },
+    {
+      "type": "explain",
+      "heading": "Adjectives ending in -ing and -ed",
+      "text": "The **-ing** ending describes the person, thing or situation. The **-ed** ending describes how someone feels because of it.",
+      "examples": [
+        { "text": "I don't know if other people were **bored**, but I thought it was a very **boring** lesson." },
+        { "text": "The weather is so **depressing** at the moment; it's making everyone feel **depressed**." },
+        { "text": "I was **bored** by that film.", "wrong": "I was boring by that film" },
+        { "text": "We're very **interested** in the new designs.", "wrong": "We're very interesting in the new designs" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More -ing / -ed adjectives",
+      "text": "These adjectives all have both endings. Choose the ending that matches the meaning.",
+      "examples": [
+        { "text": "It was really **tiring** going up that hill.", "note": "tiring = making you feel tired" },
+        { "text": "I was **amazed** she could climb that wall.", "note": "= very surprised" },
+        { "text": "My exam results were very **disappointing**.", "note": "= not as good as I expected" },
+        { "text": "She was **annoyed** that I forgot to tell her.", "note": "= a little angry" },
+        { "text": "I kept calling her Emma, so I was **embarrassed** when Ben told me her name was Angela.", "note": "= feeling a bit stupid about something you said or did" },
+        { "text": "The map he gave us was very **confusing**.", "note": "= difficult to understand" },
+        { "text": "We were **shocked** by the violence in the film.", "note": "= very surprised in an unpleasant way" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you feel something, use -ed: I am interested. If something makes you feel it, use -ing: the book is interesting."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is the adjective gradable or extreme?",
+      "categories": ["Gradable", "Extreme"],
+      "items": [
+        { "text": "bad", "category": 0 },
+        { "text": "important", "category": 0 },
+        { "text": "small", "category": 0 },
+        { "text": "tired", "category": 0 },
+        { "text": "dreadful", "category": 1 },
+        { "text": "essential", "category": 1 },
+        { "text": "tiny", "category": 1 },
+        { "text": "exhausted", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each gradable adjective with its extreme partner.",
+      "pairs": [
+        { "left": "big", "right": "huge" },
+        { "left": "small", "right": "tiny" },
+        { "left": "tired", "right": "exhausted" },
+        { "left": "bad", "right": "awful" },
+        { "left": "interesting", "right": "fascinating" },
+        { "left": "frightening", "right": "terrifying" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The food at the hotel was ___ delicious.",
+      "options": ["absolutely", "very", "much", "too"],
+      "answer": 0,
+      "explanation": "Delicious is an extreme adjective, so we use absolutely or really, not very."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We're very ___ in the new designs.",
+      "options": ["interested", "interesting", "interest", "interests"],
+      "answer": 0,
+      "explanation": "Use the -ed form for how a person feels: we are interested."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was boring by that film.",
+      "answer": false,
+      "explanation": "I was bored by that film. The -ed form describes how you feel; the -ing form describes the film."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I was very interested in her talk. *B:* Yes, it was ___.",
+      "hint": "(very interesting)",
+      "answers": ["fascinating"],
+      "explanation": "Fascinating is the extreme form of interesting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Were you very frightened? *B:* Yes, it was absolutely ___.",
+      "hint": "(very frightening)",
+      "answers": ["terrifying"],
+      "explanation": "Terrifying is the extreme form of frightening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I expect you were very pleased with your score. *B:* Yes, I was absolutely ___.",
+      "hint": "(very pleased)",
+      "answers": ["delighted"],
+      "explanation": "Delighted is the extreme form of pleased."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It was surprising to see the children behave so badly. *B:* I know. We were ___.",
+      "hint": "(very surprised in an unpleasant way)",
+      "answers": ["shocked"],
+      "explanation": "Shocked means very surprised in an unpleasant way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I expect you were a bit angry when they arrived an hour late? *B:* Yes, I was very ___.",
+      "hint": "(a little angry)",
+      "answers": ["annoyed"],
+      "explanation": "Annoyed means a little angry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I arrived in jeans, but everyone else was wearing very formal clothes. I felt ___.",
+      "hint": "(a bit stupid)",
+      "answers": ["embarrassed"],
+      "explanation": "Embarrassed means feeling a bit stupid because of something you have said or done."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One person said the street was on the left, another said turn right, and a third said go back to the station. We were completely ___.",
+      "hint": "(we didn't understand)",
+      "answers": ["confused"],
+      "explanation": "Confusing information makes you feel confused."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They expected a beautiful big villa by the sea, but it was small and miles from the beach. They were very ___.",
+      "hint": "(it wasn't as good as they expected)",
+      "answers": ["disappointed", "annoyed"],
+      "explanation": "Something that is not as good as you expected is disappointing, and it leaves you disappointed."
+    }
+  ]
+}

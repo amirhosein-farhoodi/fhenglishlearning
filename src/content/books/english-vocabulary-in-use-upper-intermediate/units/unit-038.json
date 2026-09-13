@@ -1,0 +1,208 @@
+{
+  "number": 38,
+  "title": "Politics and public institutions",
+  "subtitle": "monarchy, constituency, cast a vote, coalition",
+  "summary": "Name types of government, describe how presidential and parliamentary systems work, and talk about elections - candidates, constituencies, ballot papers and majorities.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of government",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**republic**", "a state governed by representatives and, usually, a president (e.g. USA, France)"],
+        ["**monarchy**", "a state ruled by a king or queen (e.g. UK, Sweden)"],
+        ["**federation**", "a union of political units such as provinces under a central government (e.g. USA)"],
+        ["**democracy**", "government of, by and for the people"],
+        ["**dictatorship**", "a system of government run by a dictator"],
+        ["**independence**", "freedom from outside control; self-governing"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Presidential government",
+      "text": "In the United States the powers of the **President** and the **legislature** (Congress) are separate, and the two branches are **elected** separately. The President is elected for a four-year **term**.",
+      "examples": [
+        { "text": "The President can **appoint** or **nominate** high officials, including **cabinet members** and federal judges.", "note": "appoint = decide who to give a position of authority to" },
+        { "text": "The President leads a major party, usually the **majority party** in Congress.", "note": "the majority party = the political party which won the most votes" },
+        { "text": "Congress consists of two houses, the **House of Representatives** and the **Senate**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Parliamentary government",
+      "text": "In the United Kingdom the government consists of a **legislature** (Parliament) and a **Cabinet of Ministers** from the majority party. The **Prime Minister** is the head of the government and **heads** the Cabinet.",
+      "examples": [
+        { "text": "If no party has an overall **majority**, there may be a **coalition government** formed from more than one party." },
+        { "text": "Parliament consists of two **chambers**, the House of Commons and the House of Lords." },
+        { "text": "**MPs** are members of parliament elected from each **constituency** to the House of Commons.", "note": "a constituency is a geographical voting area" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Parliamentary elections",
+      "text": "During a **general election** each constituency chooses which politician it wants as its representative. There are usually several **candidates**, who are all **standing** (or **running**) for Parliament and present their party's **policies**, i.e. its plans.",
+      "examples": [
+        { "text": "On **polling day** every adult goes to the **polling station**." },
+        { "text": "You **cast a vote** by marking a cross on your **ballot paper**." },
+        { "text": "The candidate who gets the **majority** of votes **wins the seat**." },
+        { "text": "If the vote is very close, the constituency may be called a **marginal seat**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Verb", "Person noun", "Abstract noun"],
+      "rows": [
+        ["rule", "ruler", "rule"],
+        ["govern", "governor", "government"],
+        ["preside (over)", "president", "presidency"],
+        ["represent", "representative", "representation"],
+        ["elect", "elector; electorate (the group of people entitled to vote)", "election"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Politics is the activity and politician is the person, but a party's plans are its policy - never ~~its politics~~ when you mean its plans."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "A member of parliament ___ his or her constituency.",
+      "options": ["represents", "governs", "rules", "presides"],
+      "answer": 0,
+      "explanation": "An MP acts officially for the people of a constituency, so he or she represents it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "India gained ___ from the UK in 1948.",
+      "options": ["independence", "republic", "democracy", "federation"],
+      "answer": 0,
+      "explanation": "Independence is freedom from outside control."
+    },
+    {
+      "type": "mcq",
+      "prompt": "On ___ day electors cast their votes.",
+      "options": ["polling", "electing", "voting", "ballot"],
+      "answer": 0,
+      "explanation": "Polling day is the day of the election; you vote at a polling station."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's ___ for Parliament in the next election.",
+      "options": ["running", "sitting", "walking", "going"],
+      "answer": 0,
+      "explanation": "Candidates stand or run for Parliament."
+    },
+    {
+      "type": "mcq",
+      "prompt": "His father was ___ MP for Cambridge City.",
+      "options": ["elected", "voted", "stood", "appointed"],
+      "answer": 0,
+      "explanation": "People are elected to a seat by vote."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is your country's economic ___?",
+      "options": ["policy", "politics", "politician", "poll"],
+      "answer": 0,
+      "explanation": "A policy is a plan of action; politics is the activity in general."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The USA is a ___ of 50 states.",
+      "options": ["federation", "legislature", "congress", "constituency"],
+      "answer": 0,
+      "explanation": "A federation is a union of political units under a central government."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Although modern monarchs are said to ___ over their countries, they have little real power.",
+      "options": ["rule", "govern", "preside", "represent"],
+      "answer": 0,
+      "explanation": "A king or queen rules; the elected government governs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Parliament in the UK consists of two ___: the House of Commons and the House of Lords.",
+      "hint": "(plural noun)",
+      "answers": ["chambers", "houses"],
+      "explanation": "The two chambers of Parliament are the Commons and the Lords."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The country is divided into ___, each of which elects an MP to the House of Commons.",
+      "hint": "(plural noun)",
+      "answers": ["constituencies"],
+      "explanation": "A constituency is a geographical voting area."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ruling party in the Commons is the one which gains a ___ of seats.",
+      "hint": "(noun)",
+      "answers": ["majority"],
+      "explanation": "The majority party is the one that won the most votes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sometimes more than one party may share power in a ___ government.",
+      "hint": "(adjective/noun beginning with c)",
+      "answers": ["coalition"],
+      "explanation": "A coalition government is formed from more than one party."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Prime Minister may call a general ___ at any time within the five-year period.",
+      "hint": "(noun)",
+      "answers": ["election"],
+      "explanation": "A general election is when the whole country votes for a new Parliament."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the sentence beginnings with their endings.",
+      "pairs": [
+        { "left": "The President appointed his uncle", "right": "as a judge." },
+        { "left": "The Prime Minister presides", "right": "over a Cabinet of Ministers." },
+        { "left": "In last year's election I voted", "right": "for the Green Party candidate." },
+        { "left": "Lee says he would never want to stand", "right": "for political office." },
+        { "left": "Put a cross beside the name you want", "right": "on the ballot paper." },
+        { "left": "I haven't decided yet how to cast", "right": "my vote." }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the right word.",
+      "pairs": [
+        { "left": "the person with the highest political position in a republic", "right": "the President" },
+        { "left": "someone who acts officially on behalf of a group of people", "right": "a representative" },
+        { "left": "the leader of a country, e.g. a monarch or dictator", "right": "the ruler" },
+        { "left": "the period of office of a president", "right": "the presidency" },
+        { "left": "the system used for controlling a country", "right": "the government" },
+        { "left": "the group of people who are entitled to vote", "right": "the electorate" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these into types of government and things connected with elections.",
+      "categories": ["Type of government", "Elections"],
+      "items": [
+        { "text": "monarchy", "category": 0 },
+        { "text": "dictatorship", "category": 0 },
+        { "text": "republic", "category": 0 },
+        { "text": "federation", "category": 0 },
+        { "text": "ballot paper", "category": 1 },
+        { "text": "polling station", "category": 1 },
+        { "text": "candidate", "category": 1 },
+        { "text": "marginal seat", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["The", "candidate", "who", "gets", "the", "majority", "of", "votes", "wins", "the seat."],
+      "answer": "The candidate who gets the majority of votes wins the seat.",
+      "explanation": "In a constituency, a majority of votes wins the seat."
+    }
+  ]
+}

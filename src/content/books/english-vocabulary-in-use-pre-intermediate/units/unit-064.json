@@ -1,0 +1,215 @@
+{
+  "number": 64,
+  "title": "Containers and quantities",
+  "subtitle": "a jar of jam, a slice of bread, plenty of time",
+  "summary": "Say what things come in - a jar, a packet, a tube - and talk about amounts with words like slice, bunch and dozen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Containers and contents",
+      "text": "A **container** is the thing outside; the **contents** are the things inside. In English we name both: *a bottle of water*, *a packet of biscuits*. Learn each container with the food or thing that usually goes in it.",
+      "examples": [
+        { "text": "I bought a **bag of** shopping." },
+        { "text": "There's a **jar of** jam in the cupboard." },
+        { "text": "Could you get a **carton of** milk?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Containers and what goes in them",
+      "columns": ["Container", "Typical contents"],
+      "rows": [
+        ["a **bag** of", "shopping, apples"],
+        ["a **bottle** of", "apple juice, water"],
+        ["a **jar** of", "jam, coffee"],
+        ["a **bowl** of", "sugar, fruit"],
+        ["a **jug** of", "water"],
+        ["a **box** of", "chocolates, matches"],
+        ["a **packet** of", "biscuits, crisps, spaghetti, cigarettes"],
+        ["a **can** of", "cola"],
+        ["a **carton** of", "orange juice, milk"],
+        ["a **tube** of", "toothpaste"],
+        ["a **vase** of", "flowers"],
+        ["a **tin** of", "fruit"],
+        ["a **bar** of", "chocolate, soap"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A **tin** usually has something we eat inside it; a **can** has something we drink. So: a tin of fruit, but a can of cola."
+    },
+    {
+      "type": "explain",
+      "heading": "Quantities: how much or how many",
+      "text": "A **quantity** is the amount or number of something. These words tell you how much there is. A **drop** is a very small amount of liquid, and a **spoonful** is the amount a spoon holds.",
+      "examples": [
+        { "text": "Just a **drop of** milk and no sugar in my coffee, please.", "note": "= a very small amount" },
+        { "text": "Could I have a **spoonful of** sugar in my tea?" },
+        { "text": "I need a **sheet of** paper.", "note": "You can also say a piece of paper or a bit of paper." },
+        { "text": "The company is now making the toys in large **quantities**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Numbers and amounts",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["a **pair of** shoes / trousers", "two things that go together, or one thing with two legs"],
+        ["a **couple of** books", "two, perhaps three"],
+        ["**several** churches", "some but not a lot, e.g. between three and eight"],
+        ["**half a dozen** eggs", "six"],
+        ["a **dozen** students", "twelve"],
+        ["**plenty of** time", "a lot of time"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "slice and bunch",
+      "left": {
+        "label": "a slice of",
+        "text": "Use **slice** for bread, cake and meat. You can also say *a piece of*.",
+        "examples": [
+          "I've cut three **slices of** beef for the sandwiches.",
+          "Would you like a **slice of** cake?",
+          "I cut about six **slices of** bread."
+        ]
+      },
+      "right": {
+        "label": "a bunch of",
+        "text": "Use **bunch** for flowers, grapes, bananas and keys.",
+        "examples": [
+          "I took my boss a **bunch of** flowers.",
+          "I bought a **bunch of** grapes.",
+          "She put a **bunch of** keys on the table."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Don't say ~~a packet of chocolate bar~~. The container comes first: a **bar of** chocolate."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the container with the thing that usually goes inside it.",
+      "pairs": [
+        { "left": "a tube of", "right": "toothpaste" },
+        { "left": "a jar of", "right": "coffee" },
+        { "left": "a box of", "right": "matches" },
+        { "left": "a bar of", "right": "soap" },
+        { "left": "a vase of", "right": "flowers" },
+        { "left": "a packet of", "right": "spaghetti" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Milk usually comes in a plastic bottle or in a ___ of milk.",
+      "hint": "(a paper container)",
+      "answers": ["carton"],
+      "explanation": "A carton of milk (or of orange juice) is a paper container."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I put the water on the table in a ___ of water.",
+      "hint": "(it has a handle and you pour from it)",
+      "answers": ["jug"],
+      "explanation": "A jug of water - you pour the water out of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I gave her a big ___ of flowers from my garden.",
+      "hint": "(one word)",
+      "answers": ["bunch"],
+      "explanation": "We use bunch for flowers, grapes, bananas and keys."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I cut about six ___ of bread and put them on a plate.",
+      "hint": "(one word)",
+      "answers": ["slices", "pieces", "bits"],
+      "explanation": "We use slice for bread, cake and meat. Piece and bit are also possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Could you get half a ___ more chairs? We need six.",
+      "hint": "(half of it is six)",
+      "answers": ["dozen"],
+      "explanation": "A dozen is twelve, so half a dozen is six."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The teacher told us to take out a blank ___ of paper.",
+      "hint": "(one word)",
+      "answers": ["sheet", "piece", "bit"],
+      "explanation": "A sheet of paper. A piece of paper and a bit of paper are also correct."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's no need to hurry - we've got ___ of time.",
+      "hint": "(= a lot)",
+      "answers": ["plenty", "lots"],
+      "explanation": "Plenty of time means a lot of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I met a ___ of friends - Stefan and Julia - on the way to the station.",
+      "hint": "(= two, perhaps three)",
+      "answers": ["couple"],
+      "explanation": "A couple of means two, perhaps three."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tennis is quite popular in our office. I know ___ people who play.",
+      "hint": "(= some but not a lot)",
+      "answers": ["several"],
+      "explanation": "Several means some but not a lot, e.g. between three and eight."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go here? 'Could you get a carton of ___?'",
+      "options": ["coffee", "milk", "juice"],
+      "answer": 0,
+      "explanation": "We say a jar of coffee. Milk and juice come in cartons."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go here? 'I bought a bunch of ___.'",
+      "options": ["apples", "grapes", "bananas"],
+      "answer": 0,
+      "explanation": "We say a bag of apples. Bunch goes with grapes, bananas, flowers and keys."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go here? 'Would you like a slice of ___?'",
+      "options": ["biscuit", "cake", "bread"],
+      "answer": 0,
+      "explanation": "A biscuit is already small - you eat a whole one. Slice goes with bread, cake and meat."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does it come in a tin or in a can?",
+      "categories": ["a tin of (food)", "a can of (drink)"],
+      "items": [
+        { "text": "fruit", "category": 0 },
+        { "text": "tomatoes", "category": 0 },
+        { "text": "soup", "category": 0 },
+        { "text": "cola", "category": 1 },
+        { "text": "lemonade", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You want some chocolate, so you ask for a packet of chocolate bar.",
+      "answer": false,
+      "explanation": "A bar of chocolate. The container word comes first: a bar of chocolate, a bar of soap."
+    },
+    {
+      "type": "true_false",
+      "statement": "You put flowers in a vase, so you can say 'a vase of flowers'.",
+      "answer": true,
+      "explanation": "Correct. Flowers go in a vase; jam goes in a jar."
+    }
+  ]
+}

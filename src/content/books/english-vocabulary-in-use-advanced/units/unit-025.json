@@ -1,0 +1,216 @@
+{
+  "number": 25,
+  "title": "On the road: traffic and driving",
+  "subtitle": "give way, tailback, roadworthy",
+  "summary": "Talk about traffic rules, offences and jams with precision - from breathalyser tests and penalty points to tailbacks, pile-ups and road rage.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Junctions and crossings",
+      "text": "In the UK you must **give way** - stop at a junction before entering a bigger road - at a **give-way sign** and at a roundabout, where traffic coming from the right has the **right of way**, that is, is allowed to go before other traffic. You must give way to pedestrians at a **pedestrian crossing**, often called a **zebra crossing** when it has black and white stripes.",
+      "examples": [
+        { "text": "If it's a **give-way** sign you don't have to stop when the road is clear, but at a stop sign you always must." },
+        { "text": "Who has the **right of way** at a pedestrian crossing in your country - cars or pedestrians?" },
+        { "text": "In some countries, **sounding** or **beeping** your horn is prohibited except in emergencies.", "note": "beeping is less formal than sounding" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Driving offences",
+      "columns": ["Offence", "What it is"],
+      "rows": [
+        ["jumping a red light", "not stopping at a red light"],
+        ["reckless driving", "very dangerous driving, without any care for others"],
+        ["drink-driving", "driving after consuming alcohol above the official limit"],
+        ["drug-driving", "driving after taking illegal drugs"],
+        ["a hit-and-run accident", "running into someone and not stopping"],
+        ["a breathalyser test", "a test with an instrument you breathe into to measure your alcohol level"],
+        ["a ban", "removal of your driving licence"],
+        ["penalty points", "negative points added up over time, which can result in the loss of your licence"],
+        ["an on-the-spot fine", "a fine given at the scene of the offence"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Is the car legal?",
+      "text": "In the European Union, **exhaust emissions** - the waste gases produced by the vehicle - must meet certain standards, and the car must be **roadworthy**, that is, in a condition in which it can be driven safely. That includes a minimum depth of **tyre tread**; driving with a **bald** tyre, one that has lost its tread, is against the law.",
+      "examples": [
+        { "text": "The permitted level of **emissions** is to be lowered in an attempt to reduce air pollution in big cities." },
+        { "text": "The man at the garage said my car wasn't **roadworthy**." },
+        { "text": "The police officer looked at two of my tyres and said they were **bald**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Traffic jams",
+      "text": "A **tailback** is a line of slow or stopped traffic. **Congestion** is a situation in which there is a lot of traffic that cannot move - in some cities drivers pay a **congestion charge** to enter the centre. A **toll** is a charge you pay to use a road or bridge.",
+      "examples": [
+        { "text": "It was the rush hour, and there was a long **tailback**." },
+        { "text": "There's always **congestion** in the city centre." },
+        { "text": "You have to pay a **toll** on the new motorway." },
+        { "text": "Overnight snow caused **disruption** this morning on many roads.", "note": "disruption = when things are prevented from continuing as usual" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Accidents",
+      "text": "A **pile-up** is a crash between several or many cars; a **head-on collision** is two vehicles hitting each other directly in the front. If you **skid**, you lose control of the steering and the car slides across the road. Traffic may be **diverted** - directed away from its usual road.",
+      "examples": [
+        { "text": "There was a **pile-up** involving ten cars because of the fog, so we were **diverted** onto a narrow country lane." },
+        { "text": "The road was wet and I **skidded** on a bend and almost crashed." },
+        { "text": "There was a **head-on collision** on the main road last night." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Parking and tempers",
+      "text": "A **tow-away zone** is an area where your car may be taken away if you park illegally, and a car that is **clamped** has a metal device fitted to a wheel to stop it moving. **Road rage** is anger or violence between drivers caused by difficult driving conditions.",
+      "examples": [
+        { "text": "I had stupidly parked in a **tow-away zone** and came back to find my car had gone!" },
+        { "text": "I only parked for a few minutes, but when I came out my car had been **clamped**." },
+        { "text": "I saw two men fighting next to their cars. I think it was a case of **road rage**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Informal driving expressions",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["gridlock", "all the traffic in all directions is unable to move"],
+        ["pull over", "stop at the side of the road"],
+        ["a bump", "a small accident without serious damage (informal for collision)"],
+        ["conk out", "break down (very informal)"],
+        ["a back-seat driver", "an irritating passenger who tells the driver how to drive"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A tailback is the queue of traffic; congestion is the condition that causes it; gridlock is when nothing can move at all."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We can't park here; it's a ___ zone.",
+      "hint": "(they take your car away)",
+      "answers": ["tow-away", "tow away"],
+      "explanation": "A tow-away zone is an area where your car may be removed if you park illegally."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a five-mile ___ on the motorway because of road works.",
+      "hint": "(line of stopped traffic)",
+      "answers": ["tailback"],
+      "explanation": "A tailback is a line of slow or stopped traffic."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fog caused a number of ___, one of which involved 15 cars.",
+      "hint": "(multi-car crashes, plural)",
+      "answers": ["pile-ups", "pileups", "pile ups"],
+      "explanation": "A pile-up is a crash between several or many cars."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a ___ accident, but the police have a description of the car.",
+      "hint": "(the driver did not stop)",
+      "answers": ["hit-and-run", "hit and run"],
+      "explanation": "In a hit-and-run accident the driver runs into someone and does not stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The permitted level of ___ is to be lowered in an attempt to reduce air pollution in big cities.",
+      "hint": "(waste gases from vehicles)",
+      "answers": ["emissions", "exhaust emissions"],
+      "explanation": "Exhaust emissions are the waste gases produced by a vehicle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was given a ___ test and it was discovered he had consumed a huge amount of alcohol.",
+      "hint": "(you breathe into it)",
+      "answers": ["breathalyser"],
+      "explanation": "A breathalyser is an instrument you breathe into to measure your alcohol level."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was charged with drink-driving, fined and given three ___ points on his licence.",
+      "hint": "(they add up to a ban)",
+      "answers": ["penalty"],
+      "explanation": "Penalty points are negative points added up over time, which can result in the loss of your licence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "People are being encouraged to leave their cars at home in an effort to reduce ___ in the city centre.",
+      "hint": "(too much traffic to move)",
+      "answers": ["congestion"],
+      "explanation": "Congestion is a situation in which there is so much traffic that it cannot move."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'As I drove round the corner, there was some ice on the road and I lost control of the steering.' - 'Oh, so you ___.'",
+      "options": ["skidded", "were clamped", "pulled over", "gave way"],
+      "answer": 0,
+      "explanation": "To skid is to lose control of the steering so that the car slides across the road."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The road was closed. Two lorries had come straight at each other and crashed.' - 'Oh, so it was a ___.'",
+      "options": ["head-on collision", "tailback", "tow-away zone", "toll"],
+      "answer": 0,
+      "explanation": "A head-on collision is two vehicles hitting each other directly in the front."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The police officer fined me there and then. I have to pay within seven days.' - 'I didn't know they could give ___.'",
+      "options": ["on-the-spot fines", "penalty points", "breathalyser tests", "congestion charges"],
+      "answer": 0,
+      "explanation": "An on-the-spot fine is given at the scene of the offence."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each informal expression with its meaning.",
+      "pairs": [
+        { "left": "gridlock", "right": "traffic in all directions unable to move" },
+        { "left": "pull over", "right": "stop at the side of the road" },
+        { "left": "a bump", "right": "a small accident without serious damage" },
+        { "left": "conk out", "right": "break down" },
+        { "left": "a back-seat driver", "right": "a passenger who tells the driver how to drive" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A car that is roadworthy is in a condition in which it can be driven safely.",
+      "answer": true,
+      "explanation": "Correct - and that includes a minimum depth of tyre tread."
+    },
+    {
+      "type": "true_false",
+      "statement": "If your car has been clamped, it has been taken away by the police.",
+      "answer": false,
+      "explanation": "A clamped car has a metal device fitted to a wheel to prevent it from moving; a car taken away has been towed away."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each item a driving offence, or a traffic problem?",
+      "categories": ["Driving offence", "Traffic problem"],
+      "items": [
+        { "text": "jumping a red light", "category": 0 },
+        { "text": "reckless driving", "category": 0 },
+        { "text": "drink-driving", "category": 0 },
+        { "text": "driving with a bald tyre", "category": 0 },
+        { "text": "a tailback", "category": 1 },
+        { "text": "congestion", "category": 1 },
+        { "text": "a pile-up", "category": 1 },
+        { "text": "road rage", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this rule of the road in order.",
+      "words": ["You", "must", "give", "way", "to", "pedestrians", "at", "a", "pedestrian", "crossing"],
+      "answer": "You must give way to pedestrians at a pedestrian crossing",
+      "explanation": "To give way is to let other traffic or pedestrians go first."
+    }
+  ]
+}

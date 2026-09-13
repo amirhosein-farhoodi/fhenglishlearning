@@ -1,0 +1,212 @@
+{
+  "number": 95,
+  "title": "Formal and informal English",
+  "subtitle": "depart / leave, mate, I bet, stuff",
+  "summary": "Recognise formal words from notices and announcements, and the informal words people use with friends.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Where you meet formal English",
+      "text": "Formal English is most common in writing, but you also hear it in announcements, speeches and the television news. Notices, business letters and station announcements are full of it.",
+      "examples": [
+        { "text": "Only food **purchased** here may be eaten on the **premises**.", "note": "notice in a cafe: purchased = bought, premises = here" },
+        { "text": "I **regret to inform** you that we are unable to ...", "note": "business letter: = I am sorry to say" },
+        { "text": "If you **require** further **assistance**, please contact the above address.", "note": "= if you need more help" },
+        { "text": "We are not in a position to **grant** you a visa.", "note": "grant = give or allow" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Formal English in announcements",
+      "text": "Public announcements at theatres, stations and airports use formal verbs where we would normally say *start*, *leave* or *go to*.",
+      "examples": [
+        { "text": "The play will **commence** in two minutes.", "note": "= start" },
+        { "text": "The next train to **depart** from platform 7 will be the 7:22 to Reading.", "note": "= leave" },
+        { "text": "Will passengers for Miami please **proceed to** gate 36.", "note": "= go to" },
+        { "text": "The man is being questioned **regarding** the robbery last night.", "note": "= about" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Formal word, everyday word",
+      "columns": ["Formal", "Everyday meaning"],
+      "rows": [
+        ["**depart**", "leave"],
+        ["**commence**", "start"],
+        ["**purchase**", "buy"],
+        ["**proceed to**", "go to"],
+        ["**regarding**", "about"],
+        ["**require**", "need"],
+        ["**assistance**", "help"],
+        ["**grant**", "give or allow"],
+        ["**permit**", "allow"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Informal English with friends",
+      "text": "Informal language is normal in speech and in emails to friends. A **mate** is a friend, a **bloke** is a man, and the **kids** are the children.",
+      "examples": [
+        { "text": "*A:* Who's Callum? *B:* A **mate** of mine. He's a nice **bloke**." },
+        { "text": "I see him **quite a bit**.", "note": "= often" },
+        { "text": "Ella's not well, so I'll have to look after the **kids**." },
+        { "text": "There will still be twelve **or so** at the meeting.", "note": "= about twelve" },
+        { "text": "**Cheers**. That would be great.", "note": "= thanks" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Informal phrases",
+      "text": "These useful phrases sound friendly and natural in speech. **I can't make it** means I can't come, and **the thing is** introduces a problem.",
+      "examples": [
+        { "text": "I'm afraid I **can't make it** this evening.", "note": "= I can't come" },
+        { "text": "I'm sorry, but **the thing is**, Ella's not well.", "note": "= the problem is" },
+        { "text": "What are you **up to** this evening?", "note": "= what are you doing?" },
+        { "text": "I've heard the film is **great**.", "note": "syn terrific = fantastic" },
+        { "text": "My brother said it was **a load of rubbish**.", "note": "= terrible" },
+        { "text": "**I bet** you're hungry. - Yes, I'm **dying for** something to eat.", "note": "I bet = I'm sure; be dying for = want very much" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "stuff",
+      "text": "**Stuff** is an uncountable noun. We use it in speech for an uncountable noun, or a group of things, when the other person knows what we mean or we do not need to be exact.",
+      "examples": [
+        { "text": "Put this **stuff** in the cupboard.", "note": "e.g. plates, food, toys" },
+        { "text": "We carried our camping **stuff**.", "note": "= equipment" },
+        { "text": "What's this **stuff** in the blue bottle?", "note": "= liquid" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A good dictionary marks words fml (formal) or infml (informal/spoken). Check the label before you use a new word in a letter."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is the word formal or informal?",
+      "categories": ["Formal", "Informal"],
+      "items": [
+        { "text": "depart", "category": 0 },
+        { "text": "regarding", "category": 0 },
+        { "text": "purchase", "category": 0 },
+        { "text": "commence", "category": 0 },
+        { "text": "cheers", "category": 1 },
+        { "text": "mate", "category": 1 },
+        { "text": "bloke", "category": 1 },
+        { "text": "kids", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each formal word with its everyday meaning.",
+      "pairs": [
+        { "left": "depart", "right": "leave" },
+        { "left": "commence", "right": "start" },
+        { "left": "purchase", "right": "buy" },
+        { "left": "proceed to", "right": "go to" },
+        { "left": "regarding", "right": "about" },
+        { "left": "grant", "right": "give or allow" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each informal word with its meaning.",
+      "pairs": [
+        { "left": "mate", "right": "friend" },
+        { "left": "bloke", "right": "man" },
+        { "left": "kids", "right": "children" },
+        { "left": "terrific", "right": "fantastic" },
+        { "left": "cheers", "right": "thanks" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'I'm sure your parents are pleased.' -> '___ your parents are pleased.'",
+      "hint": "(two words)",
+      "answers": ["I bet"],
+      "explanation": "I bet = I'm sure."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'I'd love to come, but the problem is, my mother wants to see us.' -> 'I'd love to come, but the ___ is, my mother wants to see us.'",
+      "hint": "(one word)",
+      "answers": ["thing"],
+      "explanation": "The thing is = the problem is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'What are you doing this weekend?' -> 'What are you ___ this weekend?'",
+      "hint": "(two words)",
+      "answers": ["up to"],
+      "explanation": "What are you up to? = What are you doing?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'I really want something to drink.' -> '___ something to drink.'",
+      "hint": "(I'm d... for)",
+      "answers": ["I'm dying for", "I am dying for"],
+      "explanation": "Be dying for something = want it very much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'None of them can come on Monday.' -> 'None of them can ___ on Monday.'",
+      "hint": "(two words)",
+      "answers": ["make it"],
+      "explanation": "Can't make it = can't come."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'We go there often.' -> 'We go there ___.'",
+      "hint": "(three words)",
+      "answers": ["quite a bit"],
+      "explanation": "Quite a bit = often."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it informal: 'We should be able to get approximately 40 on the coach.' -> 'We should be able to get 40 ___ on the coach.'",
+      "hint": "(two words)",
+      "answers": ["or so"],
+      "explanation": "Forty or so = about forty."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Make it informal: 'You can leave all those books, files and papers on the desk.'",
+      "options": [
+        "You can leave all that stuff on the desk.",
+        "You can leave all that assistance on the desk.",
+        "You can leave all those blokes on the desk.",
+        "You can leave all those premises on the desk."
+      ],
+      "answer": 0,
+      "explanation": "Stuff is an uncountable noun for a group of things."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Make it formal: 'We're sorry to say that we are unable to help.'",
+      "options": [
+        "We regret to inform you that we are unable to help.",
+        "We bet that we are unable to help.",
+        "The thing is, we are unable to help.",
+        "Cheers, we are unable to help."
+      ],
+      "answer": 0,
+      "explanation": "We regret to inform you is the formal phrase for 'we're sorry to say'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it formal: 'If you need more help, contact them.' -> 'If you ___, please contact them.'",
+      "hint": "(three words: require ...)",
+      "answers": ["require further assistance"],
+      "explanation": "Require = need; further assistance = more help."
+    },
+    {
+      "type": "true_false",
+      "statement": "Smoking isn't permitted here means smoking isn't allowed here.",
+      "answer": true,
+      "explanation": "Correct. Permit is the formal word for allow."
+    }
+  ]
+}

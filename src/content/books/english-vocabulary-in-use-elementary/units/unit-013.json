@@ -1,0 +1,182 @@
+{
+  "number": 13,
+  "title": "In the living room",
+  "subtitle": "sofa, armchair, remote control",
+  "summary": "Name the furniture and the other things in a living room, and say what people do there in the evening.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Furniture in the living room",
+      "text": "You sit on a **sofa** with other people, or in an **armchair** on your own. In front of the sofa there is often a **coffee table**, and your books are on a **bookshelf**. The plural of bookshelf is **bookshelves**.",
+      "examples": [
+        { "text": "Come and sit on the **sofa** with me." },
+        { "text": "Dad always sits in the same **armchair**." },
+        { "text": "Put your cup on the **coffee table**." },
+        { "text": "We need some more **bookshelves** in this room.", "wrong": "bookshelfs" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other things in the room",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["carpet", "it covers all the floor"],
+        ["rug", "a small carpet"],
+        ["curtains", "you close them over the window at night"],
+        ["light switch", "you press it to turn the light on or off"],
+        ["socket", "you put the plug in it"],
+        ["lamp", "a small light on a table or on the floor"],
+        ["picture", "you look at it on the wall"],
+        ["TV", "you watch programmes on it"],
+        ["remote control", "you change TV channels with it"],
+        ["hi-fi", "you listen to music on it"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Useful verbs",
+      "text": "In the evening people **watch** television, **listen to** the radio or **listen to** music, **read** a book, or just **relax**. To relax means to rest and do nothing.",
+      "examples": [
+        { "text": "Every evening I **watch** television.", "wrong": "watch at television" },
+        { "text": "Sometimes I **listen to** the radio.", "wrong": "listen the radio" },
+        { "text": "This evening let's just **relax** at home.", "wrong": "relax us" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions",
+      "text": "We **switch** or **turn** things **on** and **off**, and we **close** the curtains when it gets dark. Ask someone to **pass** you the remote control when you want to change channels.",
+      "examples": [
+        { "text": "*A:* It's getting dark. Can you **close the curtains**, please?" },
+        { "text": "*B:* OK. And I'll **switch the light on**." },
+        { "text": "*A:* Thanks. Now can you **turn the radio off**? And **pass me the remote control**." },
+        { "text": "I want to **turn on** the TV. There's a good programme on." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Furniture** is uncountable: *The furniture in my room is white* - not ~~are white~~ and not ~~furnitures~~."
+    },
+    {
+      "type": "tip",
+      "text": "You **listen to** music or the radio, but you **watch** TV. There is no *to* and no *at* with watch."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Somewhere you can put books: a ___.",
+      "hint": "(one word)",
+      "answers": ["bookshelf", "book shelf"],
+      "explanation": "Books go on a bookshelf. Two or more are bookshelves."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somewhere two or three people can sit: a ___.",
+      "hint": "(one word)",
+      "answers": ["sofa"],
+      "explanation": "A sofa is for two or three people; an armchair is for one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somewhere you can put down your cup: a ___.",
+      "hint": "(two words)",
+      "answers": ["coffee table"],
+      "explanation": "The low table in front of the sofa is a coffee table."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Something for changing channels on the TV: a ___.",
+      "hint": "(two words)",
+      "answers": ["remote control", "remote"],
+      "explanation": "You change channels with the remote control."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings on the left with the right endings.",
+      "pairs": [
+        { "left": "switch on the", "right": "lamp" },
+        { "left": "relax in an", "right": "armchair" },
+        { "left": "close the", "right": "curtains" },
+        { "left": "pass the", "right": "remote control" },
+        { "left": "listen to the", "right": "radio" },
+        { "left": "watch", "right": "TV" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's dark now. Please ___ the curtains.",
+      "options": ["close", "make", "do", "put"],
+      "answer": 0,
+      "explanation": "We close the curtains and open the curtains."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Something you can look at on the wall is a ___.",
+      "options": ["picture", "socket", "rug", "hi-fi"],
+      "answer": 0,
+      "explanation": "Pictures go on the wall."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Something under your feet is a ___.",
+      "options": ["carpet", "curtain", "light switch", "bookshelf"],
+      "answer": 0,
+      "explanation": "A carpet covers the floor. A small carpet is a rug."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each thing in the right group.",
+      "categories": ["You sit on it", "You look at it", "You listen to it"],
+      "items": [
+        { "text": "sofa", "category": 0 },
+        { "text": "armchair", "category": 0 },
+        { "text": "chair", "category": 0 },
+        { "text": "TV", "category": 1 },
+        { "text": "picture", "category": 1 },
+        { "text": "radio", "category": 2 },
+        { "text": "hi-fi", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I don't often listen the radio in the evening.",
+      "answer": false,
+      "explanation": "I don't often listen to the radio in the evening. We always say listen to something."
+    },
+    {
+      "type": "true_false",
+      "statement": "I watched television all evening yesterday.",
+      "answer": true,
+      "explanation": "Correct. We watch television - there is no at."
+    },
+    {
+      "type": "true_false",
+      "statement": "Liam has some very nice furnitures in his house.",
+      "answer": false,
+      "explanation": "Liam has some very nice furniture in his house. Furniture has no plural."
+    },
+    {
+      "type": "true_false",
+      "statement": "This evening let's just relax us at home.",
+      "answer": false,
+      "explanation": "This evening let's just relax at home. Relax does not take us or ourselves."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask someone to close the curtains.",
+      "words": ["Can", "you", "close", "the", "curtains,", "please?"],
+      "answer": "Can you close the curtains, please?",
+      "explanation": "It's getting dark - so we close the curtains."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that you are going to put the light on.",
+      "words": ["I'll", "switch", "the", "light", "on."],
+      "answer": "I'll switch the light on.",
+      "alternatives": ["I'll switch on the light."],
+      "explanation": "You can say switch the light on or switch on the light."
+    }
+  ]
+}

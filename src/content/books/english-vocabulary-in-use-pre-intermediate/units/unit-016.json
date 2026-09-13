@@ -1,0 +1,201 @@
+{
+  "number": 16,
+  "title": "Daily routines",
+  "subtitle": "wake up, have a snack, do the ironing, eat out, come round",
+  "summary": "Describe your day from waking up to going out, using the right verbs with sleep, food, the bathroom and housework.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Sleep",
+      "text": "You **wake up** (= stop sleeping) and then **get up** (= get out of bed) a few minutes later. In the evening you **go to bed**, and then **go to sleep** (also **fall asleep**). **Straight away** means immediately.",
+      "examples": [
+        { "text": "During the week I usually **wake up** about 7.30 am. If I don't, my mum **wakes** me **up**." },
+        { "text": "I **go to bed** about 10.30 pm, and usually **go to sleep straight away**." },
+        { "text": "If I have a **late night**, I try to **have a sleep** in the afternoon.", "note": "a late night = you go to bed very late; the opposite is an early night. Have a sleep = sleep for a short time, e.g. half an hour" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Food",
+      "text": "A **light lunch** is a small meal. A **snack** is a small amount of food between meals. Your **main meal** is the biggest one of the day. If you don't **bother** to do something, you don't do it because there is no reason or it is too much work. A **takeaway** is a meal you buy in a restaurant but eat at home.",
+      "examples": [
+        { "text": "I have coffee and **cereal** for breakfast, then a **light lunch** and a **snack** in the afternoon." },
+        { "text": "We have our **main meal** in the evening." },
+        { "text": "If Mum's late home from work, she doesn't **bother** to cook; we just get a **takeaway** instead." },
+        { "text": "One of us has to **feed** the cat as well.", "note": "feed = give food to" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Bathroom routines",
+      "text": "You **have a shower**, **have a bath** or just **have a wash**. You **clean your teeth** (also **brush your teeth**). Men **have a shave**, and some people **put on make-up**. **Instead of** means in place of.",
+      "examples": [
+        { "text": "I only have time to **have a wash** and **clean my teeth**." },
+        { "text": "Rosie comes in to **put on** a bit of **make-up**." },
+        { "text": "In the winter I sometimes **have a bath instead of** a shower." },
+        { "text": "Marcus is **having a shave** in the bathroom." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Housework",
+      "text": "**Housework** is the work of keeping a home clean and tidy. A **cleaner** is a person you pay to clean. **Fortunately** (also **luckily**) means something happens because of good luck.",
+      "examples": [
+        { "text": "**Fortunately** we've got a **cleaner** who does a lot of the **housework**." },
+        { "text": "That includes **doing my washing**.", "note": "= washing my clothes" },
+        { "text": "I still have to **make my bed** and do some of my **ironing**." },
+        { "text": "I sometimes **do the shopping** with Mum." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "do the shopping and go shopping",
+      "left": {
+        "label": "do the shopping",
+        "text": "You buy food, usually at the supermarket. It is a job you have to do.",
+        "examples": [
+          "I **do the shopping** on Saturday morning.",
+          "Could you **do the shopping** for me today?"
+        ]
+      },
+      "right": {
+        "label": "go shopping",
+        "text": "It is a leisure activity. You perhaps buy clothes, DVDs or books.",
+        "examples": [
+          "We **went shopping** and I bought two new jackets.",
+          "I love **going shopping** with my sister."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Spare time",
+      "text": "**Spare time** is time when you are not working. You can **stay in** (= stay at home) or **go out**. **Eat out** means eat in a restaurant; the opposite is **eat in**. If friends **come round**, they visit you in your home, and you **chat** (= have an informal conversation).",
+      "examples": [
+        { "text": "On weekdays I usually **stay in** and watch TV in the evening." },
+        { "text": "At the weekend I **go out** quite a lot with my friends, and I **eat out** once a week." },
+        { "text": "Sometimes friends **come round** and we **chat** about clothes, music and college." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "have + noun and do + noun",
+      "columns": ["have ...", "do ..."],
+      "rows": [
+        ["have a shower", "do the washing"],
+        ["have a bath", "do the ironing"],
+        ["have a wash", "do the housework"],
+        ["have a snack", "do the shopping"],
+        ["have a late night / an early night", "do my homework"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Go to bed is the moment you get into bed; go to sleep is the moment you start sleeping. You can go to bed at ten and not go to sleep until midnight."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right.",
+      "pairs": [
+        { "left": "fall", "right": "asleep" },
+        { "left": "make", "right": "the bed" },
+        { "left": "put on", "right": "make-up" },
+        { "left": "clean", "right": "my teeth" },
+        { "left": "feed", "right": "the dog" },
+        { "left": "once", "right": "a week" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we use have or do with each of these?",
+      "categories": ["have ...", "do ..."],
+      "items": [
+        { "text": "a shower", "category": 0 },
+        { "text": "a snack", "category": 0 },
+        { "text": "an early night", "category": 0 },
+        { "text": "the ironing", "category": 1 },
+        { "text": "the housework", "category": 1 },
+        { "text": "the shopping", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My mother usually ___ me up around 7.30, then I get up about 7.45.",
+      "hint": "(wake)",
+      "answers": ["wakes"],
+      "explanation": "Wake somebody up = make them stop sleeping."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If I have a ___ in the afternoon, I usually eat fruit instead of chocolate.",
+      "hint": "(a small amount of food between meals)",
+      "answers": ["snack"],
+      "explanation": "A snack is a small amount of food you eat between meals."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Does it cost much to have a cleaner to ___ the housework?",
+      "hint": "(one word)",
+      "answers": ["do"],
+      "explanation": "We say do the housework, do the washing, do the ironing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sometimes friends ___ round to the flat and we play computer games.",
+      "hint": "(come / go)",
+      "answers": ["come"],
+      "explanation": "If friends come round, they visit you in your home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I eat ___ at the weekend, usually in a local Italian or French restaurant.",
+      "hint": "(one word)",
+      "answers": ["out"],
+      "explanation": "Eat out = eat in a restaurant. The opposite is eat in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't ___ with a full meal at lunchtime; I usually just have a light lunch, like a salad.",
+      "hint": "(one word)",
+      "answers": ["bother"],
+      "explanation": "Not bother with something = not do it, because it is too much work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I often have ___ for breakfast - usually cornflakes or something like that.",
+      "hint": "(one word)",
+      "answers": ["cereal"],
+      "explanation": "Cornflakes are a kind of cereal, a common breakfast food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I get emails, I try to reply to them straight ___.",
+      "hint": "(immediately)",
+      "answers": ["away"],
+      "explanation": "Straight away = immediately."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Don't bother to cook tonight. We could go out ___ of eating here.",
+      "options": ["instead", "spare", "round", "away"],
+      "answer": 0,
+      "explanation": "Instead of = in place of."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*B:* I'm tired, so I'd rather stay in. You don't have to cook - we can order a ___.",
+      "options": ["takeaway", "cleaner", "snack bar", "late night"],
+      "answer": 0,
+      "explanation": "A takeaway is a meal you buy in a restaurant but eat at home."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you have a late night, you go to bed very early.",
+      "answer": false,
+      "explanation": "If you have a late night, you go to bed very late. The opposite is have an early night."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "number": 4,
+  "title": "English language words",
+  "subtitle": "noun, prefix, syllable, full stop",
+  "summary": "Learn the words we use to talk about English itself: parts of speech, prefixes and suffixes, syllables and stress, and punctuation.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Parts of speech",
+      "text": "Every word in a sentence has a **part of speech**. Look at this sentence: *I have a brown leather chair by the window, and I often sit there in the morning to listen to music.* Each word in it has a name.",
+      "examples": [
+        { "text": "*I* is a **pronoun**; *chair*, *window*, *morning* and *music* are **nouns**." },
+        { "text": "*have*, *sit* and *listen* are **verbs**; *brown* and *leather* are **adjectives**." },
+        { "text": "*often* is an **adverb**; *by* and *to* are **prepositions**." },
+        { "text": "*the* is the **definite article**, *a* is an **indefinite article**, and *and* is a **conjunction** or **link word**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Two more sentences",
+      "columns": ["Sentence", "Parts of speech"],
+      "rows": [
+        ["We saw an elephant at the zoo yesterday.", "elephant, zoo = nouns; saw = verb; at = preposition; an = indefinite article; the = definite article"],
+        ["It was a cold night, so I walked quickly.", "was, walked = verbs; cold = adjective; night = noun; quickly = adverb; so = link word"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grammar you need to know",
+      "text": "When you learn a word, you also need certain grammar facts. Are nouns **countable** or **uncountable**? Are verbs **regular** or **irregular**? Some verbs are **phrasal verbs**, and some groups of words are learnt as **phrases**.",
+      "examples": [
+        { "text": "*books*, *apples* and *chairs* are **countable** nouns." },
+        { "text": "*information* and *advice* are **uncountable** nouns.", "wrong": "informations, advices" },
+        { "text": "*work* and *live* are **regular** verbs; *go/went* and *take/took* are **irregular** verbs." },
+        { "text": "*take something off* and *wake up* are **phrasal verbs**." },
+        { "text": "*at the moment*, *never mind* and *see you later* are **phrases**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Word building",
+      "text": "In the word *uncomfortable*, **un-** is a **prefix** and **-able** is a **suffix**. A prefix goes at the beginning of a word; a suffix goes at the end. They change the meaning or the part of speech.",
+      "examples": [
+        { "text": "Common prefixes: **un-**, **in-** and **dis-**, as in *unlucky*, *incorrect* and *dislike*." },
+        { "text": "Common suffixes: **-ment** and **-ive**, as in *improvement* and *attractive*." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Syllables and stress",
+      "text": "Dictionaries show the pronunciation of a word with **phonemic symbols**. Every word has one or more **syllables**: *book* has one, *before* has two, *cinema* has three. It is important to know which syllable to **stress**.",
+      "examples": [
+        { "text": "In *before* we stress the second syllable: be'**fore**." },
+        { "text": "In *cinema* we stress the first syllable: '**cin**ema." }
+      ],
+      "note": "In a dictionary the mark ' comes just before the stressed syllable."
+    },
+    {
+      "type": "table",
+      "heading": "Counting syllables and marking stress",
+      "columns": ["Word", "Syllables", "Stress"],
+      "rows": [
+        ["English", "2", "'English"],
+        ["decide", "2", "de'cide"],
+        ["informal", "3", "in'formal"],
+        ["opposite", "3", "'opposite"],
+        ["syllable", "3", "'syllable"],
+        ["adjective", "3", "'adjective"],
+        ["education", "4", "edu'cation"],
+        ["pronunciation", "5", "pronunci'ation"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Punctuation",
+      "text": "Every sentence must begin with a **capital letter** and end with a **full stop**. Some sentences have a **comma**, which often shows a **pause** in a long sentence. A question must end with a **question mark**.",
+      "examples": [
+        { "text": "A **capital letter** starts a sentence: *We saw an elephant at the zoo.*" },
+        { "text": "A **comma** shows a **pause**: *It was a cold night, so I walked quickly.*", "note": "a pause = when you stop reading or speaking for a short time" },
+        { "text": "Did you also know that a question must end with a **question mark**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Full stop, comma and question mark are all examples of **punctuation** - a useful word to know when a teacher corrects your writing."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right group.",
+      "categories": ["Parts of speech", "Punctuation", "Pronunciation"],
+      "items": [
+        { "text": "noun", "category": 0 },
+        { "text": "comma", "category": 1 },
+        { "text": "stress", "category": 2 },
+        { "text": "adverb", "category": 0 },
+        { "text": "question mark", "category": 1 },
+        { "text": "syllable", "category": 2 },
+        { "text": "preposition", "category": 0 },
+        { "text": "full stop", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What type of verb is *break*?",
+      "options": ["an irregular verb", "a regular verb", "a phrasal verb", "a link word"],
+      "answer": 0,
+      "explanation": "Break/broke does not end in -ed, so it is an irregular verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Every sentence must begin with a ___.",
+      "hint": "(two words)",
+      "answers": ["capital letter", "capital"],
+      "explanation": "A sentence begins with a capital letter and ends with a full stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Every sentence must end with a ___.",
+      "hint": "(two words)",
+      "answers": ["full stop", "full-stop"],
+      "explanation": "The full stop is the small dot at the end of a sentence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What's missing here.' This is a question, so it needs a ___.",
+      "hint": "(two words)",
+      "answers": ["question mark", "question-mark"],
+      "explanation": "A question must end with a question mark, not a full stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ shows you there is a pause in the middle of a long sentence.",
+      "hint": "(one word)",
+      "answers": ["comma"],
+      "explanation": "A comma often shows a pause - a short stop when you read or speak."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What type of noun is *butter*?",
+      "options": ["an uncountable noun", "a countable noun", "a plural noun", "a phrasal noun"],
+      "answer": 0,
+      "explanation": "Butter is uncountable, like information and advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Pick somebody up* and *grow up* are both ___.",
+      "hint": "(two words)",
+      "answers": ["phrasal verbs"],
+      "explanation": "A verb plus a small word like up or off is a phrasal verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "How many syllables does each word have?",
+      "pairs": [
+        { "left": "decide", "right": "2 syllables" },
+        { "left": "adjective", "right": "3 syllables" },
+        { "left": "education", "right": "4 syllables" },
+        { "left": "pronunciation", "right": "5 syllables" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which syllable do we stress in *education* (e-du-ca-tion)?",
+      "options": ["the first (e-)", "the second (-du-)", "the third (-ca-)", "the fourth (-tion)"],
+      "answer": 2,
+      "explanation": "We say edu'cation, with the stress on the third syllable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They sell the tickets cheap. In fact, you can travel very ___ if you book early.",
+      "hint": "(the adverb from cheap)",
+      "answers": ["cheaply"],
+      "explanation": "Many adverbs are made from an adjective plus the suffix -ly: cheap - cheaply."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The road is dangerous, so please don't drive ___.",
+      "hint": "(the adverb from dangerous)",
+      "answers": ["dangerously"],
+      "explanation": "Dangerous is the adjective; dangerously is the adverb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was lucky in the first game but ___ in the second one.",
+      "hint": "(the opposite of lucky)",
+      "answers": ["unlucky"],
+      "explanation": "The prefix un- makes the opposite: lucky - unlucky, kind - unkind."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the word *uncomfortable*, un- is a suffix and -able is a prefix.",
+      "answer": false,
+      "explanation": "In uncomfortable, un- is a prefix and -able is a suffix. A prefix comes first."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order, then find the adjectives in it.",
+      "words": ["I", "have", "a", "brown", "leather", "chair", "by", "the", "window."],
+      "answer": "I have a brown leather chair by the window.",
+      "explanation": "Brown and leather are adjectives; by is a preposition; the is the definite article."
+    }
+  ]
+}

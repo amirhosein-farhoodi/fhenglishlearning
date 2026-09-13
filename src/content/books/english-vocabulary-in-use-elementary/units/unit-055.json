@@ -1,0 +1,180 @@
+{
+  "number": 55,
+  "title": "Common uncountable nouns",
+  "subtitle": "money, advice, news, furniture",
+  "summary": "Learn the everyday nouns you cannot count - money, advice, news, luggage, weather - and use them correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Countable and uncountable",
+      "left": {
+        "label": "Countable",
+        "text": "You can count them: one, two, three. They have a plural.",
+        "examples": ["four **apples**", "two **shoes**", "six **plates**", "Can I have three **apples**, please?", "Are these **shoes** yours?"]
+      },
+      "right": {
+        "label": "Uncountable",
+        "text": "You cannot count it. There is no plural and no *a / an*.",
+        "examples": ["some **sugar**", "some **money**", "some **luggage**", "Can I have some **sugar**, please?", "Is this **luggage** yours?"]
+      },
+      "note": "We say *three suitcases*, but not ~~three luggages~~."
+    },
+    {
+      "type": "table",
+      "heading": "Everyday uncountable nouns",
+      "columns": ["Noun", "Example"],
+      "rows": [
+        ["**traffic**", "The **traffic** is bad today."],
+        ["**furniture**", "This **furniture** is modern."],
+        ["**information**", "He can give some useful **information** about Bangkok."],
+        ["**news**", "There is some bad **news** today."],
+        ["**advice**", "I'll give you some **advice** about your future."],
+        ["**weather**", "It's terrible **weather** today."],
+        ["**accommodation**", "**Accommodation** here is expensive."],
+        ["**air**", "I need some fresh **air**."],
+        ["**work**", "Studying is hard **work**."],
+        ["**travel**", "Air **travel** is faster than rail **travel**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Food and drink",
+      "text": "A lot of uncountable nouns are kinds of food and drink. We use *some* with them, not *a* or *an*.",
+      "examples": [
+        { "text": "**rice**, **spaghetti**, **butter**, **bread**" },
+        { "text": "**milk**, **water**, **tea**, **coffee**" },
+        { "text": "Can I have some **bread**, please?", "wrong": "a bread" },
+        { "text": "Cook this **spaghetti** for ten minutes.", "wrong": "these spaghetti" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How much do you want?",
+      "text": "To say how much we want, we put a countable word in front: *two loaves of ...*, *three litres of ...*, *a kilo of ...*",
+      "examples": [
+        { "text": "two loaves of **bread**" },
+        { "text": "three litres of **milk**" },
+        { "text": "a kilo of **rice**" },
+        { "text": "a piece of **advice**", "note": "one single advice" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grammar: a singular verb",
+      "text": "An uncountable noun always takes a **singular** verb: *is*, *was*, *has*. This is true even when the word ends in *-s*, like **news**.",
+      "examples": [
+        { "text": "The **news is** not very good today.", "wrong": "The news are" },
+        { "text": "Their furniture **is** very old and very beautiful.", "wrong": "furnitures are" },
+        { "text": "The east of the country usually **has** better weather than the west.", "wrong": "a better weather" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you learn a new noun, write it down in a phrase that shows if it is countable or uncountable: *an apple* / *some advice*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like to buy a car but I haven't got enough ___.",
+      "hint": "(you pay with it)",
+      "answers": ["money"],
+      "explanation": "Money is uncountable: some money, not ~~a money~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you don't know what to do, ask your parents for some ___.",
+      "hint": "(they tell you what to do)",
+      "answers": ["advice"],
+      "explanation": "Advice is uncountable: some advice, not ~~an advice~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ at the seaside is very good for you.",
+      "hint": "(you breathe it)",
+      "answers": ["air", "fresh air"],
+      "explanation": "Air is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is always a lot of ___ in central London.",
+      "hint": "(cars and buses)",
+      "answers": ["traffic"],
+      "explanation": "Traffic is uncountable: a lot of traffic."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rob left school last month and is now looking for ___.",
+      "hint": "(a job)",
+      "answers": ["work"],
+      "explanation": "Work is uncountable. A job is countable."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with the uncountable noun it goes with.",
+      "pairs": [
+        { "left": "heavy", "right": "luggage" },
+        { "left": "useful", "right": "information" },
+        { "left": "bad", "right": "news" },
+        { "left": "modern", "right": "furniture" },
+        { "left": "brown", "right": "bread" },
+        { "left": "space", "right": "travel" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each noun countable or uncountable?",
+      "categories": ["Countable", "Uncountable"],
+      "items": [
+        { "text": "apple", "category": 0 },
+        { "text": "shoe", "category": 0 },
+        { "text": "plate", "category": 0 },
+        { "text": "sugar", "category": 1 },
+        { "text": "luggage", "category": 1 },
+        { "text": "money", "category": 1 },
+        { "text": "information", "category": 1 },
+        { "text": "advice", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Accommodation in the city centre ___ expensive.",
+      "options": ["is", "are", "have", "were"],
+      "answer": 0,
+      "explanation": "Uncountable nouns take a singular verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather in Scotland ___ best in the autumn.",
+      "hint": "(the verb be)",
+      "answers": ["is"],
+      "explanation": "Weather is uncountable, so the verb is singular: is."
+    },
+    {
+      "type": "true_false",
+      "statement": "The news are not very good today.",
+      "answer": false,
+      "explanation": "The news is not very good today. News is uncountable and takes a singular verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Cook ___ spaghetti for ten minutes.",
+      "options": ["this", "these", "a", "many"],
+      "answer": 0,
+      "explanation": "Spaghetti is uncountable, so we say this spaghetti, not these spaghetti."
+    },
+    {
+      "type": "true_false",
+      "statement": "I must find some new accommodation soon.",
+      "answer": true,
+      "explanation": "Correct. Accommodation is uncountable, so we say some new accommodation."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Offer to help a friend with a problem.",
+      "words": ["Let", "me", "give", "you", "some", "advice."],
+      "answer": "Let me give you some advice."
+    }
+  ]
+}

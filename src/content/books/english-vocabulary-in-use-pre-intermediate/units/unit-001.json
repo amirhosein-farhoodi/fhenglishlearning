@@ -1,0 +1,198 @@
+{
+  "number": 1,
+  "title": "Learning vocabulary",
+  "subtitle": "routine, revise, synonym, opposite",
+  "summary": "Learn how to study and revise new words, and use synonyms, opposites and word families to expand your vocabulary.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Have a routine",
+      "text": "A **routine** is something you do often and usually in the same way. A good study routine has two parts: a weekly one, when you study a new unit for **at least** 30-45 minutes, and a daily one, when you **revise** it.",
+      "examples": [
+        { "text": "I study a new unit for **at least** half an hour.", "note": "at least = not less than" },
+        { "text": "I **revise** the unit one or two days later.", "note": "revise = study it again" },
+        { "text": "Five or ten minutes is enough for a daily **routine**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Studying a new unit",
+      "text": "Be active when you learn. Say a new word **aloud** so that you can hear it, then repeat it **silently**, in your head. **Highlight** the words you think are important or difficult, and **write down** new words and phrases in your notebook.",
+      "examples": [
+        { "text": "Say the word **aloud**, then repeat it **silently**." },
+        { "text": "I always **write down** new phrases in my notebook." },
+        { "text": "Do the exercises in pencil, so you can **rub them out** and do them again later.", "note": "You rub out pencil with a rubber. This is a good way to revise." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Write an example sentence",
+      "text": "Always try to write an **example sentence** for a new word. You can take one from this book or from a dictionary, but an example from your own life will often help you to remember the word.",
+      "examples": [
+        { "text": "I **shared a flat** with an Australian girl when I was in London last year." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Revising a unit",
+      "text": "One or two days later, **test yourself**. Look at a word and try to remember the meaning. If you can't, check it, wait five minutes and test yourself again. Then look at your notebook: is there new information you want to **add**?",
+      "note": "Diagrams and tables organise vocabulary in a different way, and that often helps you to remember it."
+    },
+    {
+      "type": "explain",
+      "heading": "Expanding your vocabulary",
+      "text": "To **expand** something is to make it bigger. When you learn a word, think of **synonyms** - words with a similar meaning - and **opposites**. A **bilingual dictionary** uses two languages; an English dictionary gives you more examples.",
+      "examples": [
+        { "text": "The opposite of **dirty** is **clean**." },
+        { "text": "A synonym of **dirty** is **filthy**.", "note": "filthy = very dirty" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Some useful opposites",
+      "columns": ["Word", "Opposite"],
+      "rows": [
+        ["clean", "dirty"],
+        ["permanent", "temporary"],
+        ["kind", "cruel / unkind"],
+        ["smooth", "rough"],
+        ["entrance", "exit / way out"],
+        ["dead", "alive"],
+        ["accept", "refuse"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Word families",
+      "text": "From one noun, verb or adjective you can often find related words in the dictionary. This way you learn two or three words and not just one. The related words are different **parts of speech**: a noun, a verb or an adjective.",
+      "examples": [
+        { "text": "We mustn't **argue**.", "note": "argue (verb) = have an angry discussion; the noun is argument" },
+        { "text": "She gave me some **advice**.", "note": "advice (noun); the verb is advise" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Building word families",
+      "columns": ["Word", "Related words"],
+      "rows": [
+        ["advice (noun)", "advise (verb)"],
+        ["argue (verb)", "argument (noun)"],
+        ["revise (verb)", "revision (noun)"],
+        ["choice (noun)", "choose (verb)"],
+        ["expand (verb)", "expansion (noun)"],
+        ["different (adjective)", "difference (noun), differ (verb)"],
+        ["communicate (verb)", "communication (noun), communicative (adjective)"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I study at the same time every week. It's my ___.",
+      "hint": "(something you do often and usually in the same way)",
+      "answers": ["routine"],
+      "explanation": "A routine is something you do often and usually in the same way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I study a unit on Monday, and then I ___ it on Wednesday.",
+      "hint": "(= study it again)",
+      "answers": ["revise"],
+      "explanation": "To revise something is to study it again."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you say a word **aloud**, what do you do?",
+      "options": [
+        "You speak it so that you can hear it.",
+        "You say it in your head and nobody hears it.",
+        "You write it in your notebook.",
+        "You look it up in a dictionary."
+      ],
+      "answer": 0,
+      "explanation": "Aloud = so you can hear it. The opposite is silently, in your head."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its opposite.",
+      "pairs": [
+        { "left": "clean", "right": "dirty" },
+        { "left": "permanent", "right": "temporary" },
+        { "left": "kind", "right": "cruel" },
+        { "left": "smooth", "right": "rough" },
+        { "left": "dead", "right": "alive" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where's the entrance? - It's over there, but the ___ is at the back of the building.",
+      "hint": "(the opposite of entrance)",
+      "answers": ["exit", "way out"],
+      "explanation": "The opposite of entrance is exit, or way out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They didn't accept the invitation. In fact, they decided to ___ it.",
+      "hint": "(the opposite of accept)",
+      "answers": ["refuse"],
+      "explanation": "The opposite of accept is refuse."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a noun or a verb?",
+      "categories": ["Noun", "Verb"],
+      "items": [
+        { "text": "advice", "category": 0 },
+        { "text": "advise", "category": 1 },
+        { "text": "argument", "category": 0 },
+        { "text": "choose", "category": 1 },
+        { "text": "revision", "category": 0 },
+        { "text": "expand", "category": 1 },
+        { "text": "communication", "category": 0 },
+        { "text": "difference", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She gave me some good advice. She always tries to ___ me well.",
+      "hint": "(the verb from advice)",
+      "answers": ["advise"],
+      "explanation": "Advice is the noun; advise is the verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We mustn't argue. I hate it when we have an ___.",
+      "hint": "(the noun from argue)",
+      "answers": ["argument"],
+      "explanation": "The noun from the verb argue is argument."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I will have to revise this unit. I'll do the ___ at the weekend.",
+      "hint": "(the noun from revise)",
+      "answers": ["revision"],
+      "explanation": "The noun from the verb revise is revision."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The kitchen was **filthy**. What does that mean?",
+      "options": ["very dirty", "very clean", "quite tidy", "completely new"],
+      "answer": 0,
+      "explanation": "Filthy means very dirty - a stronger word than dirty."
+    },
+    {
+      "type": "true_false",
+      "statement": "A synonym is a word with a similar meaning to another word.",
+      "answer": true,
+      "explanation": "Correct. Filthy is a synonym of dirty, and dreadful is a synonym of awful."
+    },
+    {
+      "type": "word_order",
+      "prompt": "What should you do with a new word?",
+      "words": ["Say", "the", "new", "word", "aloud", "and", "repeat", "it", "silently."],
+      "answer": "Say the new word aloud and repeat it silently.",
+      "explanation": "Be active: say the word aloud, then repeat it silently in your head."
+    }
+  ]
+}

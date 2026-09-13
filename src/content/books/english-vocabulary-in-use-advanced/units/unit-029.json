@@ -1,0 +1,237 @@
+{
+  "number": 29,
+  "title": "Weather and climate",
+  "subtitle": "sweltering, muggy, a climate of distrust",
+  "summary": "Hold a real English weather conversation with the full range of informal words, and use the weather metaphors that fill written English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Agreeing about the weather",
+      "text": "English weather talk works by agreement: one speaker offers a word, and the other agrees using a near-synonym, usually a more informal one. If someone says it is cold, you can agree with **chilly**, **freezing** or **nippy**; if they say it is hot, you can offer **boiling**, **sweltering** or **roasting**.",
+      "examples": [
+        { "text": "*A:* Bit cold today, isn't it? *B:* Yes, it's **nippy**, isn't it?" },
+        { "text": "*A:* It's hot, isn't it? *B:* Yes, it's **sweltering**!" },
+        { "text": "*A:* It's a bit windy today! *B:* Yes, really **blowy**, isn't it?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Weather words by type",
+      "columns": ["Kind of weather", "More formal", "More informal"],
+      "rows": [
+        ["cold", "chilly", "freezing, nippy"],
+        ["hot", "boiling", "sweltering, roasting"],
+        ["windy", "breezy", "blowy"],
+        ["hot and uncomfortable", "oppressive, sultry", "stifling, heavy, close"],
+        ["very heavy rain", "a downpour, a deluge", "it's chucking it down, it's pouring"],
+        ["damp and warm", "humid", "muggy, clammy, sticky"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More weather exchanges",
+      "text": "Two exchanges worth learning whole: the sticky-hot one and the very wet one. Note that **close** here is pronounced with an s sound and means airless and uncomfortable.",
+      "examples": [
+        { "text": "*A:* What **oppressive** weather! *B:* Yes, isn't it **close**?" },
+        { "text": "*A:* Isn't it **humid** today? *B:* Yes, horrible **muggy** weather!" },
+        { "text": "*A:* What a **downpour**! *B:* Yes, it's **chucking it down**!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Climate as a metaphor",
+      "text": "**Climate** also means the general atmosphere or situation in society. It collocates strongly with **cultural**, **current**, **economic**, **financial**, **moral**, **political**, **social** and **prevailing**.",
+      "examples": [
+        { "text": "His secrecy and dishonesty created a **climate of distrust**." },
+        { "text": "The government reforms have contributed to a **climate of change**." },
+        { "text": "In the current **economic climate**, few firms are hiring." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Weather metaphors",
+      "columns": ["Expression", "Figurative meaning"],
+      "rows": [
+        ["a sunny disposition", "pleasant and positive"],
+        ["a frosty reception", "an unfriendly, unwelcoming one"],
+        ["snowed under", "having far too much of something, usually work"],
+        ["to cloud your judgement", "to confuse it"],
+        ["leave under a cloud", "leave in disgrace or under suspicion"],
+        ["a hail of bullets / a storm of abuse", "lots of hard, unpleasant things you cannot stop or escape"],
+        ["a hazy memory", "an unclear one"],
+        ["the mists of history", "the distant past, no longer clearly visible"],
+        ["a whirlwind romance", "a very rapid one"],
+        ["to thunder", "to move, making a loud, deep noise"],
+        ["the winds of change", "forces bringing change across a whole society"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Metaphors in use",
+      "text": "These metaphors are especially common in written English, and several of them are near-fixed phrases. Note that **thundery** describes stormy weather, while **thunderous** describes a loud, deep noise.",
+      "examples": [
+        { "text": "She has a very **sunny disposition** - she's hardly ever miserable." },
+        { "text": "Unfortunately, our plans met with a **frosty reception**." },
+        { "text": "I'm **snowed under** with work - I'll never get through it all in time." },
+        { "text": "The article sparked a **whirlwind** of speculation." },
+        { "text": "**Thunderous** applause followed his speech." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The formal language of climate science",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["mean", "average"],
+        ["precipitation", "rain and snow"],
+        ["seasonality", "differing weather conditions at different times of the year"],
+        ["latitude", "distance from the equator"],
+        ["solar radiation", "rays from the sun"],
+        ["elevation", "height above sea level"],
+        ["to moderate", "to make less extreme"],
+        ["continental", "situated very far from the sea"],
+        ["arid", "dry"]
+      ],
+      "note": "Mountainous areas are generally cooler and wetter; being close to the sea moderates temperature, while continental areas are more arid and more affected by extremes."
+    },
+    {
+      "type": "tip",
+      "text": "Thundery weather brings storms; thunderous applause brings noise. Do not swap them."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'It's a bit nippy outside, isn't it?' Agree using slightly more formal language.",
+      "options": ["Yes, extremely chilly.", "Yes, really sweltering.", "Yes, terribly humid.", "Yes, what a deluge."],
+      "answer": 0,
+      "explanation": "Nippy and chilly both mean cold; chilly is the slightly more formal of the two."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'What a sweltering day!' Agree using more formal language.",
+      "options": ["Mm, isn't it hot!", "Yes, very nippy!", "Yes, quite breezy!", "Yes, terribly clammy!"],
+      "answer": 0,
+      "explanation": "Sweltering, boiling and roasting are the informal words for very hot."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'It's chucking it down!' Agree using more formal language.",
+      "options": ["Yes, what a downpour!", "Yes, how oppressive!", "Yes, very nippy!", "Yes, terribly blowy!"],
+      "answer": 0,
+      "explanation": "A downpour or a deluge is the more formal way of describing very heavy rain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Isn't it ___ today? All this damp warm air makes my shirt stick to me.",
+      "hint": "(the formal word for muggy)",
+      "answers": ["humid"],
+      "explanation": "Humid is the more formal word; muggy, clammy and sticky are the informal equivalents."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What ___ weather - you can hardly breathe in here.",
+      "hint": "(formal word for close or stifling)",
+      "answers": ["oppressive", "sultry"],
+      "explanation": "Oppressive or sultry weather is hot and heavy; informally, close or stifling."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each metaphor with its figurative meaning.",
+      "pairs": [
+        { "left": "frosty", "right": "unfriendly, unwelcoming" },
+        { "left": "to cloud", "right": "to confuse" },
+        { "left": "snowed under", "right": "having far too much of something" },
+        { "left": "whirlwind", "right": "rapid, moving very quickly" },
+        { "left": "hazy", "right": "unclear" },
+        { "left": "to thunder", "right": "to move, making a loud, deep noise" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His secrecy and dishonesty created a ___ of distrust in the office.",
+      "hint": "(general atmosphere in society)",
+      "answers": ["climate"],
+      "explanation": "Climate can mean the general atmosphere or situation in society."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm ___ under with work - I'll never get through it all in time.",
+      "hint": "(buried by too much)",
+      "answers": ["snowed"],
+      "explanation": "To be snowed under is to have far too much of something, usually work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The soldiers were hit with a ___ of bullets.",
+      "hint": "(hard things falling from the sky)",
+      "answers": ["hail"],
+      "explanation": "A hail of bullets or a storm of abuse is a mass of hard, unpleasant things you cannot escape."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ of change are blowing across the country.",
+      "hint": "(they blow)",
+      "answers": ["winds"],
+      "explanation": "The winds of change, of discontent or of democracy are the forces bringing change across a society."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which collocation is right?",
+      "options": [
+        "Thunderous applause followed his speech.",
+        "Thundery applause followed his speech.",
+        "Frosty applause followed his speech.",
+        "Hazy applause followed his speech."
+      ],
+      "answer": 0,
+      "explanation": "Thunderous describes a loud, deep noise; thundery describes stormy weather."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a manager leaves under a cloud, they leave with everyone's good wishes.",
+      "answer": false,
+      "explanation": "To leave under a cloud is to leave in disgrace or under suspicion - as after the company accounts were examined."
+    },
+    {
+      "type": "true_false",
+      "statement": "In climate science, precipitation means rain and snow.",
+      "answer": true,
+      "explanation": "Correct - annual precipitation totals are one of the indices used to define climatic regions."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each scientific term with its everyday meaning.",
+      "pairs": [
+        { "left": "mean", "right": "average" },
+        { "left": "elevation", "right": "height above sea level" },
+        { "left": "latitude", "right": "distance from the equator" },
+        { "left": "to moderate", "right": "to make less extreme" },
+        { "left": "continental", "right": "situated very far from the sea" },
+        { "left": "seasonality", "right": "differing conditions at different times of year" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word about cold, hot or wet weather?",
+      "categories": ["Cold", "Hot", "Wet"],
+      "items": [
+        { "text": "nippy", "category": 0 },
+        { "text": "chilly", "category": 0 },
+        { "text": "sweltering", "category": 1 },
+        { "text": "roasting", "category": 1 },
+        { "text": "sultry", "category": 1 },
+        { "text": "a deluge", "category": 2 },
+        { "text": "chucking it down", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order.",
+      "words": ["Don't", "let", "your", "love", "for", "him", "cloud", "your", "judgement"],
+      "answer": "Don't let your love for him cloud your judgement",
+      "explanation": "To cloud something is to confuse it - the metaphor is of mist hiding a clear view."
+    }
+  ]
+}

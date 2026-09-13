@@ -1,0 +1,182 @@
+{
+  "number": 45,
+  "title": "Special events",
+  "subtitle": "a festival is held, takes place, lasts, consists of",
+  "summary": "Describe festivals and celebrations: when they are held, how long they last, and what they consist of.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A fireworks display",
+      "text": "The Sydney **fireworks display** (a show for people to watch) is **held** (organised) every year. More than a million people **gather** (come together) at the **harbour** on New Year's Eve to **celebrate** the new year.",
+      "examples": [
+        { "text": "The display is **held** every year on New Year's Eve." },
+        { "text": "People **gather** at the harbour to **celebrate**.", "note": "gather = come together" },
+        { "text": "A **harbour** is an area of water where ships are safe from the sea." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words for describing an event",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["a display", "a show for people to watch"],
+        ["be held", "be organised"],
+        ["gather", "come together"],
+        ["celebrate", "do something enjoyable on a special day"],
+        ["be involved in", "be included in an event or activity"],
+        ["parade", "move around as part of a group, often to celebrate (also a noun)"],
+        ["spectacular", "looking extremely good or exciting"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "An arts festival",
+      "text": "The Edinburgh Festival is an **annual** event (it happens once a year). It **consists of** at least six different festivals which **take place** in the city and **last** for almost six weeks. The most **popular** one has **up to** 500 performances a day.",
+      "examples": [
+        { "text": "It is an **annual** event.", "note": "= it happens once a year" },
+        { "text": "It **consists of** six different festivals.", "note": "= it is made of" },
+        { "text": "The festivals **take place** across the city.", "note": "= they happen" },
+        { "text": "They **last** for almost six weeks.", "note": "= they continue" },
+        { "text": "There are **up to** 500 daily performances.", "note": "500 is the maximum" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The Chinese Spring Festival",
+      "text": "The Spring Festival is the biggest traditional festival in China. The day before it starts, people from **all over** China return to their family homes. The next day many people **dress up**, and children receive money in red envelopes.",
+      "examples": [
+        { "text": "People come from **all over** China.", "note": "= from everywhere in China" },
+        { "text": "Many people **dress up** for the festival.", "note": "= wear special clothes" },
+        { "text": "Another popular **custom** is to put poems on the gates." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "custom and tradition",
+      "left": {
+        "label": "a custom",
+        "text": "Something that people usually do. The adjective is **customary**.",
+        "examples": [
+          "Giving red envelopes is a **custom**.",
+          "It is **customary** to take your shoes off before you enter a mosque."
+        ]
+      },
+      "right": {
+        "label": "a tradition",
+        "text": "A very old custom that has continued for a long time. The adjective is **traditional**.",
+        "examples": [
+          "It is **traditional** to give each other presents.",
+          "We went to a **traditional Greek wedding**."
+        ]
+      },
+      "note": "Word order: a traditional Greek wedding, not a Greek traditional wedding."
+    },
+    {
+      "type": "tip",
+      "text": "An event *takes place*, but people *hold* it: The festival takes place in August. The festival is held in August."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "a display", "right": "a show for people to watch" },
+        { "left": "gather", "right": "come together" },
+        { "left": "a harbour", "right": "an area of water where ships are safe" },
+        { "left": "spectacular", "right": "looking extremely good or exciting" },
+        { "left": "annual", "right": "happening once a year" },
+        { "left": "parade", "right": "move round the streets in a group" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you are involved in an activity, you are ___ in it.",
+      "hint": "(one word)",
+      "answers": ["included"],
+      "explanation": "To be involved in an event means to be included in it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The theatre can hold up to 25 people. What does this mean?",
+      "options": [
+        "25 people is the maximum.",
+        "25 people is the minimum.",
+        "Exactly 25 people always come.",
+        "More than 25 people can come."
+      ],
+      "answer": 0,
+      "explanation": "up to 25 = 25 is the maximum number."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A harbour is a place where ___ are kept.",
+      "hint": "(they travel on water)",
+      "answers": ["ships", "boats", "ships and boats"],
+      "explanation": "A harbour is an area of water where ships are kept safe from the sea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The children wear special clothes for the festival. = The children ___ for the festival.",
+      "hint": "(two words)",
+      "answers": ["dress up"],
+      "explanation": "dress up = wear special clothes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "People come from everywhere in Japan. = People come from ___ Japan.",
+      "hint": "(two words)",
+      "answers": ["all over"],
+      "explanation": "all over Japan = everywhere in Japan."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They hold the event every year. = The event ___ every year.",
+      "hint": "(hold - passive)",
+      "answers": ["is held"],
+      "explanation": "An event that people organise every year is held every year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The festival happens every year. = The festival is an ___ event.",
+      "hint": "(one word)",
+      "answers": ["annual"],
+      "explanation": "annual = happening once a year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Fallas ___ for five days and finishes on March 19th.",
+      "hint": "(last)",
+      "answers": ["lasts"],
+      "explanation": "last = continue for a period of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The festival ___ of music, dancing, cooking and parades.",
+      "hint": "(consist)",
+      "answers": ["consists"],
+      "explanation": "consist of = be made of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Every day crowds ___ in different parts of the city at 2 pm.",
+      "hint": "(come together)",
+      "answers": ["gather", "gathered"],
+      "explanation": "gather = come together in one place."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order. (The festival happens in the summer.)",
+      "words": ["The festival", "takes", "place", "in", "the summer"],
+      "answer": "The festival takes place in the summer",
+      "explanation": "take place = happen."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went to a Greek traditional wedding last year.",
+      "answer": false,
+      "explanation": "We went to a traditional Greek wedding last year. The adjective traditional comes before the nationality."
+    }
+  ]
+}

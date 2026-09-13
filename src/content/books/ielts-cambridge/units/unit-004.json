@@ -1,0 +1,303 @@
+{
+  "number": 4,
+  "title": "Places and directions",
+  "subtitle": "Maps, plans and landmarks",
+  "summary": "Read a map before the recording starts, follow spoken directions, and use landmarks to place an answer on a plan.",
+  "media": [
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/4868osoo",
+      "label": "Track 16",
+      "title": "Four locations, four maps",
+      "caption": "A gift shop, a stamp counter, a bridge and a frog's habitat. Listen for the landmark in each."
+    },
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/ibmwail8",
+      "label": "Track 17",
+      "title": "Directions to the supermarket",
+      "caption": "Three street plans, one set of directions. Trace the route as you listen."
+    },
+    {
+      "kind": "audio",
+      "src": "https://ok26.org/i/9hlsdkzu",
+      "label": "Track 18",
+      "title": "Brookside Market",
+      "caption": "A map-labelling task with six options and only four answers."
+    }
+  ],
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Study the map before you listen",
+      "text": "You get reading time for a reason. Look at the map or plan and build a picture of it in your head: what is it a map of, what is already labelled, where is the entrance, what is in the centre. A clear image makes the spoken directions easy to follow.",
+      "examples": [
+        {
+          "text": "What is it a map of? **A market.**"
+        },
+        {
+          "text": "Name three landmarks. **A tree, a fountain, a play area.**"
+        },
+        {
+          "text": "Where is the entrance? **At the bottom, on the left.**"
+        },
+        {
+          "text": "What is in the centre? **A tree.**"
+        }
+      ],
+      "note": "Features already printed on the map are the landmarks the speaker will use to guide you."
+    },
+    {
+      "type": "explain",
+      "heading": "Listen for the landmark, then the relation",
+      "text": "A location is almost always given as a **landmark** plus a **relation** to it. Catch the landmark first - it is usually a word printed on your map - then listen for the little phrase that places the answer against it.",
+      "examples": [
+        {
+          "text": "The entrance is over there on your left. Then go straight ahead. The shop you want is **opposite the toilets**, next to the lifts.",
+          "note": "Landmarks: lifts, entrance, toilets."
+        },
+        {
+          "text": "In the middle of the resort you'll see a **circular courtyard**. To the right of the courtyard, you'll find a ... It's just behind the tree.",
+          "note": "Landmarks: courtyard, entrance, tree."
+        },
+        {
+          "text": "I was thinking of putting it right in the middle, but I think it would be better if it's at the **eastern end of the motorway**.",
+          "note": "Landmarks: river, motorway."
+        },
+        {
+          "text": "It is unable to live in the area of a pond ... it does need to live in fairly close proximity to water ... in a tiny burrow **surrounded by bushes**.",
+          "note": "Landmarks: bushes, pond, tree."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The phrases that place things",
+      "columns": [
+        "Type",
+        "Phrases you will hear"
+      ],
+      "rows": [
+        [
+          "Next to",
+          "beside, alongside, adjacent to, right by"
+        ],
+        [
+          "Opposite",
+          "across from, facing, on the other side of"
+        ],
+        [
+          "Behind / in front of",
+          "at the back of, just behind, in front of"
+        ],
+        [
+          "Between",
+          "in the middle of, halfway along, in between"
+        ],
+        [
+          "Compass",
+          "at the northern end, on the eastern side, to the south of"
+        ],
+        [
+          "Near",
+          "close to, in close proximity to, not far from"
+        ]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two ways the task is set",
+      "left": {
+        "label": "Following directions",
+        "text": "You are walked through a route step by step.",
+        "examples": [
+          "*We're in Bridge Street now and it's in Queens Road.*",
+          "*You need to go up Bridge Street as far as the traffic lights, then turn right.*",
+          "*Then you walk along there to the next set of traffic lights and you'll be at Queens Road. You turn left there and it's the second shop on your left.*"
+        ]
+      },
+      "right": {
+        "label": "Labelling a map",
+        "text": "You match a list of options to numbered points.",
+        "examples": [
+          "Read the option list several times before you start.",
+          "The options come in random order.",
+          "Do not cross an option out unless you are sure it is wrong."
+        ]
+      },
+      "note": "Marking the route directly on the map as you listen is allowed, and it stops you losing your place."
+    },
+    {
+      "type": "explain",
+      "heading": "Distractors on a map",
+      "text": "The extra options are not random. They are things that *are* at the market or on the plan, but not where the question asks - or things that have changed.",
+      "examples": [
+        {
+          "text": "**ticket booth** is wrong",
+          "note": "Entry is complimentary now, so there is no need to pay - *complimentary* means free."
+        },
+        {
+          "text": "**second-hand book stall** is wrong",
+          "note": "There are no books or second-hand goods for sale."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you cannot decide between two answers, write both and move on. You can choose between them in the 10 minutes you get at the end - but only if you are still with the recording."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You hear *The shop you want is opposite the toilets, next to the lifts.* Which two words on the map are the landmarks?",
+      "options": [
+        "shop and want",
+        "toilets and lifts",
+        "opposite and next",
+        "shop and lifts"
+      ],
+      "answer": 1,
+      "explanation": "The landmarks are the features already printed on your map. *Opposite* and *next to* are the relations that place the answer against them."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with what it means on a map.",
+      "pairs": [
+        {
+          "left": "across from the fountain",
+          "right": "opposite it"
+        },
+        {
+          "left": "in close proximity to water",
+          "right": "near it"
+        },
+        {
+          "left": "at the eastern end",
+          "right": "on the right, if north is up"
+        },
+        {
+          "left": "just behind the tree",
+          "right": "further from you than the tree"
+        },
+        {
+          "left": "halfway along the path",
+          "right": "between the two ends"
+        }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You should cross out options on a map-labelling task as soon as you think they might be wrong.",
+      "answer": false,
+      "explanation": "Only cross out an option when you are sure. An early guess can remove the answer you need two questions later."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Entry is ___ now, so there's no need to pay.* The word means *free*.",
+      "hint": "(begins with c)",
+      "answers": [
+        "complimentary"
+      ],
+      "explanation": "This is exactly why *ticket booth* was a distractor - the booth exists, but nobody buys a ticket."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the direction that gets you to Queens Road.",
+      "words": [
+        "You",
+        "need",
+        "to",
+        "go",
+        "up",
+        "Bridge",
+        "Street",
+        "as",
+        "far",
+        "as",
+        "the",
+        "traffic",
+        "lights,",
+        "then",
+        "turn",
+        "right."
+      ],
+      "answer": "You need to go up Bridge Street as far as the traffic lights, then turn right.",
+      "explanation": "*As far as* gives you the stopping point; *then turn* gives you the change of direction."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these into what they tell you.",
+      "categories": [
+        "A landmark",
+        "A relation to a landmark"
+      ],
+      "items": [
+        {
+          "text": "the roundabout",
+          "category": 0
+        },
+        {
+          "text": "the fountain",
+          "category": 0
+        },
+        {
+          "text": "opposite",
+          "category": 1
+        },
+        {
+          "text": "just behind",
+          "category": 1
+        },
+        {
+          "text": "the traffic lights",
+          "category": 0
+        },
+        {
+          "text": "at the northern end of",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Before the recording starts, what is the most useful thing to do with a map?",
+      "options": [
+        "Copy it onto your answer sheet",
+        "Find the entrance and the printed landmarks, and picture the layout",
+        "Guess the answers so you can check them later",
+        "Count how many options there are and choose the middle one"
+      ],
+      "answer": 1,
+      "explanation": "Having a clear image in your mind is what lets you follow the directions in real time. You only hear them once."
+    },
+    {
+      "type": "true_false",
+      "statement": "In a map task with options A-F and four questions, every option is used.",
+      "answer": false,
+      "explanation": "There are more options than questions, so some are never the answer - two of them at Brookside Market."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*I was thinking of putting it right in the middle, but I think it would be better if it's at the ___ end of the motorway.*",
+      "hint": "(a compass direction + -ern)",
+      "answers": [
+        "eastern",
+        "east"
+      ],
+      "explanation": "*I was thinking of* introduces the idea the speaker then changes - the middle is the distractor."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*It does need to live in fairly close proximity to water, but it is unable to live in the area of a pond.* Where does the animal live?",
+      "options": [
+        "In the pond",
+        "Far away from any water",
+        "Near water, but not in the pond",
+        "It does not matter"
+      ],
+      "answer": 2,
+      "explanation": "*Close proximity to water* places it near; *unable to live in the area of a pond* rules the pond out. Both halves are needed."
+    }
+  ]
+}

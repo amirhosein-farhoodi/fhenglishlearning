@@ -1,0 +1,200 @@
+{
+  "number": 18,
+  "title": "Sport",
+  "subtitle": "hang-gliding, a tennis racket, get knocked out",
+  "summary": "Name less common sports and their equipment, describe athletics events, and talk about winning, losing and records.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Some sports you may not know the names of",
+      "columns": ["Sport", "What happens"],
+      "rows": [
+        ["**hang-gliding**", "you run off a hill under a large wing and glide through the air"],
+        ["**(ten-pin) bowling**", "you roll a heavy ball along a lane at ten pins; the ball curves, so you aim away from the centre"],
+        ["**fencing**", "two people fight with thin swords"],
+        ["**showjumping**", "a horse has to get over a series of jumps without knocking the posts off"],
+        ["**windsurfing**", "you stand on a board with a sail; it is all a matter of balance"],
+        ["**snowboarding**", "you come down a mountain standing sideways on one wide board"],
+        ["**scuba diving**", "you swim under water with a tank of air on your back"],
+        ["**snooker** / **pool** / **billiards**", "you hit coloured balls into pockets on a table; the colours are worth different points"],
+        ["**motor racing**", "noisy, fast and dangerous, but exciting to watch"],
+        ["**archery**", "you shoot arrows at a target"],
+        ["**darts**", "you throw small pointed darts at a board; you need a good eye and concentration"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Equipment - what you hold in your hand",
+      "columns": ["Sport", "You hold a ..."],
+      "rows": [
+        ["golf", "**club**"],
+        ["tennis, squash, badminton", "**racket**"],
+        ["cricket, table tennis, baseball", "**bat**"],
+        ["ice hockey, field hockey", "**stick**"],
+        ["snooker, pool, billiards", "**cue**"],
+        ["darts", "**dart**"],
+        ["archery", "**bow**"],
+        ["canoeing", "**paddle**"],
+        ["rowing", "**oar**"],
+        ["fishing", "**rod** or **line**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Athletics",
+      "text": "The track and field events are the **discus (throw)**, the **javelin**, the **high jump**, the **long jump**, the **pole vault** and **gymnastics**. In the discus you throw a heavy disc a long way; in the javelin you throw a long pole with a sharp point.",
+      "examples": [
+        { "text": "She's a great **sprinter**.", "note": "= fast over short distances, e.g. 100 metres" },
+        { "text": "He's a great **long-distance runner**.", "note": "e.g. 5,000 metres" },
+        { "text": "He's doing a **marathon** next month - 42 kilometres, or 26 miles." },
+        { "text": "The **long jump** covers a long distance in one jump; the **high jump** goes over a bar." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Competition in sport",
+      "text": "You **set** a record when you make a new best time; you **hold** the record while nobody has beaten it. If you **qualify** you reach the necessary standard; if you are **knocked out** in a **round**, you lose at that stage and leave the competition.",
+      "examples": [
+        { "text": "She **set** a new Olympic record last year." },
+        { "text": "He **holds** the record for the 100 metres breaststroke." },
+        { "text": "England **qualified** for the World Cup but got **knocked out** in the third **round**." },
+        { "text": "Our team **made it to** the semi-final but then we were beaten.", "note": "also: reached the semi-final" },
+        { "text": "Most sports are very **competitive** these days.", "note": "= they involve a strong desire to win" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Trophies, referees and spectators",
+      "text": "A **trophy** is the cup or other object that shows you have won. The **referee** controls the match; the **spectators** are the people present to watch it, and the team's **fans** support it everywhere.",
+      "examples": [
+        { "text": "She felt proud as she held the **trophy** in her hands." },
+        { "text": "Thousands of **spectators** protested loudly at the decision of the **referee**." },
+        { "text": "Players who disagree with the **referee** set a bad example to their **fans**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "People who do particular sports",
+      "columns": ["How the word is made", "Examples"],
+      "rows": [
+        ["add **-er / -r**", "footballer, swimmer, golfer, runner, sprinter"],
+        ["add **player**", "tennis player, squash player, basketball player"],
+        ["a word you must learn separately", "canoeist, mountaineer, jockey, archer, gymnast"]
+      ],
+      "note": "Say archer, not ~~archerer~~; tennis player, not ~~tenniser~~; golfer, not ~~golfist~~."
+    },
+    {
+      "type": "tip",
+      "text": "In British English the noun *sport* goes into the plural in front of another noun: *sports equipment*, *sports facilities*, *sports club* - not ~~sport equipment~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which sport is each person talking about?",
+      "pairs": [
+        { "left": "'Provided it's not too windy at the top of the hill, there's no problem.'", "right": "hang-gliding" },
+        { "left": "'It is incredibly noisy, fast and dangerous, but it's exciting to watch.'", "right": "motor racing" },
+        { "left": "'The horse has to get over the jumps without knocking the posts off.'", "right": "showjumping" },
+        { "left": "'It's all a matter of balance. Sometimes you can't help falling in the water.'", "right": "windsurfing" },
+        { "left": "'The different ball colours are worth different numbers of points.'", "right": "snooker" },
+        { "left": "'It's a fantastic feeling when the snow flies up into the air around you.'", "right": "snowboarding" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Name the piece of equipment you hold for each sport.",
+      "pairs": [
+        { "left": "archery", "right": "a bow" },
+        { "left": "field hockey", "right": "a stick" },
+        { "left": "canoeing", "right": "a paddle" },
+        { "left": "snooker", "right": "a cue" },
+        { "left": "rowing", "right": "an oar" },
+        { "left": "baseball", "right": "a bat" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's won a lot of ___ in the last five years and has them all in a glass cabinet at her house.",
+      "hint": "(one word, plural)",
+      "answers": ["trophies"],
+      "explanation": "A trophy is the cup or other object you get for winning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's doing a ___ next week - running 42 kilometres! That's 26 miles!",
+      "hint": "(one word)",
+      "answers": ["marathon"],
+      "explanation": "A marathon is a 42-kilometre race for long-distance runners."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who ___ the world record for the 1,000 metres these days? Is it a Russian?",
+      "hint": "(one word)",
+      "answers": ["holds"],
+      "explanation": "You set a record once; you hold it until somebody beats it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His national team failed to ___ for the World Cup, so he's supporting Brazil instead.",
+      "hint": "(one word)",
+      "answers": ["qualify"],
+      "explanation": "Qualify = reach the standard needed to enter the competition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My team got knocked out in the second ___ of the competition. We were disappointed it happened so early.",
+      "hint": "(one word)",
+      "answers": ["round"],
+      "explanation": "A competition is played in rounds; if you are knocked out you leave it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "All Olympic sports are highly ___; everyone has one ambition - to win gold.",
+      "options": ["competitive", "competition", "competing", "competitor"],
+      "answer": 0,
+      "explanation": "Competitive is the adjective: it describes a strong desire to win."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In which athletics event do you throw a heavy disc a long way?",
+      "options": ["the discus", "the javelin", "the pole vault", "the long jump"],
+      "answer": 0,
+      "explanation": "The discus (throw). In the javelin you throw a pole with a sharp point."
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do we name the person who does each sport?",
+      "categories": ["add -er or -r", "add player", "a word of its own"],
+      "items": [
+        { "text": "football", "category": 0 },
+        { "text": "swimming", "category": 0 },
+        { "text": "golf", "category": 0 },
+        { "text": "tennis", "category": 1 },
+        { "text": "squash", "category": 1 },
+        { "text": "gymnastics", "category": 2 },
+        { "text": "canoeing", "category": 2 },
+        { "text": "archery", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "She was a champion gymnastic when she was a teenager.",
+      "answer": false,
+      "explanation": "She was a champion gymnast when she was a teenager. Gymnastics is the sport; a gymnast is the person."
+    },
+    {
+      "type": "true_false",
+      "statement": "My brother is an expert canoeist. He's won medals.",
+      "answer": true,
+      "explanation": "Correct. The person who goes canoeing is a canoeist."
+    },
+    {
+      "type": "true_false",
+      "statement": "Is there a shop near here that sells sport equipment? I need a fishing rod.",
+      "answer": false,
+      "explanation": "Is there a shop near here that sells sports equipment? In British English sport takes -s before another noun."
+    }
+  ]
+}

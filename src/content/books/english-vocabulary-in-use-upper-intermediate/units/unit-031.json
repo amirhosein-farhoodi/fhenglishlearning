@@ -1,0 +1,222 @@
+{
+  "number": 31,
+  "title": "Travel",
+  "subtitle": "journey, trip, voyage, turbulence, jetlag",
+  "summary": "Talk about travel by road, rail, sea and air, and use the right word for a journey, a trip or a voyage.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Vehicles and the people who work on them",
+      "columns": ["Transport", "Kinds of vehicle", "People working with it"],
+      "rows": [
+        ["road", "car, bus, coach, tram, van, lorry", "driver, motorist, mechanic, chauffeur"],
+        ["rail", "high-speed train, express", "ticket collector, conductor"],
+        ["sea", "liner, ferry, yacht", "captain, steward, stewardess"],
+        ["air", "aircraft, jumbo jet, helicopter", "ground staff, cabin crew, air traffic controller"]
+      ],
+      "note": "A **chauffeur** is someone paid to drive a car for another person. A **motorist** is simply a person driving a car."
+    },
+    {
+      "type": "table",
+      "heading": "Parts of a vehicle and the words that go with each kind of travel",
+      "columns": ["Transport", "Parts of the vehicle", "Associated words"],
+      "rows": [
+        ["road", "boot, steering wheel", "petrol station, break down, breakdown service"],
+        ["rail", "sleeping car, buffet, coach", "platform, seat reservation"],
+        ["sea", "deck, bridge, gangway", "port, cabin, cruise"],
+        ["air", "cockpit, wings, aisle", "duty-free shop, terminal, runway, security"]
+      ],
+      "note": "**Coach** has two meanings: a long-distance bus, and one of the carriages of a train."
+    },
+    {
+      "type": "compare",
+      "heading": "journey and trip",
+      "left": {
+        "label": "journey",
+        "text": "A **journey** is the act of getting from one place to another. It is usually longer than a trip.",
+        "examples": [
+          "We had a long **journey** by coach from the north to the south of the country.",
+          "Getting from London to the north of Scotland involves a long overnight train **journey**."
+        ]
+      },
+      "right": {
+        "label": "trip",
+        "text": "A **trip** is a short visit somewhere, usually there and back again. We always say **business trip**.",
+        "examples": [
+          "We **took a trip** to the beach last weekend.",
+          "She's away on a **business trip** until Friday.",
+          "They **went on a trip** to see the Pyramids."
+        ]
+      },
+      "note": "Go on a trip suggests an organised excursion; take a trip or have a trip is something you arrange yourself."
+    },
+    {
+      "type": "explain",
+      "heading": "travel and voyage",
+      "text": "**Travel** is a general, uncountable word, used as a noun and as a verb. A **voyage** is a long journey, usually by sea; this use is quite formal, and it also appears in the fixed phrase a **voyage of discovery**.",
+      "examples": [
+        { "text": "**Travel** broadens the mind." },
+        { "text": "How did you **travel** round Australia? We hitch-hiked." },
+        { "text": "The liner Titanic sank on its very first **voyage**." },
+        { "text": "Learning English is a **voyage of discovery**!" }
+      ],
+      "note": "Travel is uncountable: we never say a travel."
+    },
+    {
+      "type": "explain",
+      "heading": "Things that go wrong in the air",
+      "text": "Elena's flight did not go well: it was **severely delayed**, then **cancelled**, and she was **stuck at** the airport, unable to move on. The airline **put her up** in a hotel (paid for her to stay) and **put her on standby** (promised her a seat if one became free).",
+      "examples": [
+        { "text": "My flight was severely **delayed** because of bad weather, then it was **cancelled**." },
+        { "text": "I was **stuck at** the airport all night." },
+        { "text": "The airline **put me up** in a hotel overnight." },
+        { "text": "They **put me on standby** for the early morning flight." },
+        { "text": "The flight left **on time** at 7.00 am.", "note": "on time = punctually" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the air and on the ground",
+      "text": "**Turbulence** is the strong, sudden movement of a plane in the air; a flight like that is **bumpy**. A **bumpy landing** is not smooth. If the movement makes you feel ill you **get airsick** (formally, you **suffer from airsickness**), and **jetlag** is the tiredness you feel after crossing time zones.",
+      "examples": [
+        { "text": "There was quite a lot of **turbulence** during the flight, which was scary at times." },
+        { "text": "The flight was so **bumpy** that I got **airsick**." },
+        { "text": "We had a **bumpy landing** in Tokyo." },
+        { "text": "I had terrible **jetlag** for days afterwards." },
+        { "text": "Soon we were at the **terminal** collecting our baggage." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "At sea",
+      "text": "Pieter sailed across the Mediterranean as a **crew member on board** a yacht. When the sea is **rough** it moves violently; the opposite is a **calm** sea. If things go well, everything **runs smoothly**.",
+      "examples": [
+        { "text": "I volunteered to work as a **crew member on board** a yacht." },
+        { "text": "Everything **ran** very **smoothly**, even when the sea was **rough**." },
+        { "text": "I never **suffered from seasickness**.", "note": "less formal = I never got seasick" },
+        { "text": "I hope the sea is **calm**. I hate **rough** seas." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say the train arrived **on time** when you mean punctually, not ~~in time~~ - in time means early enough to do something."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with its ending.",
+      "pairs": [
+        { "left": "The customs officer stopped the car", "right": "and the driver had to open the boot." },
+        { "left": "The car broke down", "right": "and a mechanic came to help them." },
+        { "left": "The air traffic controllers went on strike", "right": "and their flight was cancelled." },
+        { "left": "The buffet was closed", "right": "and they had nothing to eat." },
+        { "left": "The ferry was full", "right": "and they couldn't get a cabin." },
+        { "left": "The liner was very modern", "right": "and they had a wonderful cruise." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words belong to air travel and which to sea travel?",
+      "categories": ["Air", "Sea"],
+      "items": [
+        { "text": "jumbo jet", "category": 0 },
+        { "text": "runway", "category": 0 },
+        { "text": "cockpit", "category": 0 },
+        { "text": "ground staff", "category": 0 },
+        { "text": "port", "category": 1 },
+        { "text": "gangway", "category": 1 },
+        { "text": "liner", "category": 1 },
+        { "text": "deck", "category": 1 }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which words belong to road travel and which to rail travel?",
+      "categories": ["Road", "Rail"],
+      "items": [
+        { "text": "steering wheel", "category": 0 },
+        { "text": "chauffeur", "category": 0 },
+        { "text": "van", "category": 0 },
+        { "text": "lorry", "category": 0 },
+        { "text": "express", "category": 1 },
+        { "text": "platform", "category": 1 },
+        { "text": "sleeping car", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The liner Titanic sank on its very first ___.",
+      "hint": "(flight / journey / trip / travel / voyage)",
+      "answers": ["voyage"],
+      "explanation": "A voyage is a long journey by sea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How long does the ___ from New York to Rio take?",
+      "hint": "(flight / journey / trip / travel / voyage)",
+      "answers": ["flight"],
+      "explanation": "We use flight for a journey by plane."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When they were in Cairo they took a ___ to see the Pyramids.",
+      "hint": "(flight / journey / trip / travel / voyage)",
+      "answers": ["trip"],
+      "explanation": "A trip is a short visit somewhere and back again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Getting from London to the north of Scotland involves a long overnight train ___.",
+      "hint": "(flight / journey / trip / travel / voyage)",
+      "answers": ["journey"],
+      "explanation": "A journey is the act of getting from one place to another."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't have a reservation, but they put me on ___ and I got a seat on a later train.",
+      "hint": "(one word)",
+      "answers": ["standby", "stand-by"],
+      "explanation": "Put someone on standby = promise them a seat if one becomes available."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather was awful and we experienced a lot of ___ during the flight.",
+      "hint": "(one word - sudden movements in the air)",
+      "answers": ["turbulence"],
+      "explanation": "Turbulence is strong, sudden movement while the plane is in the air."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence describes jetlag?",
+      "options": [
+        "I felt tired for days after flying across several time zones.",
+        "My plane sat on the runway for four hours.",
+        "I felt ill because the plane was moving so much.",
+        "The airline paid for my hotel room."
+      ],
+      "answer": 0,
+      "explanation": "Jetlag is tiredness caused by moving quickly from one time zone to another."
+    },
+    {
+      "type": "true_false",
+      "statement": "After we left the airport, we had a long travel by car.",
+      "answer": false,
+      "explanation": "After we left the airport, we had a long journey by car. Travel is uncountable, so we never say a travel."
+    },
+    {
+      "type": "true_false",
+      "statement": "The train arrived in time and I picked her up at the station.",
+      "answer": false,
+      "explanation": "The train arrived on time and I picked her up at the station. On time means punctually."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe a good sea crossing.",
+      "words": ["Everything", "ran", "very", "smoothly", "even", "when", "the sea", "was rough."],
+      "answer": "Everything ran very smoothly even when the sea was rough.",
+      "explanation": "If something runs smoothly, it happens without problems."
+    }
+  ]
+}

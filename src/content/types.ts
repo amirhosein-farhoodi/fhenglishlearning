@@ -150,6 +150,24 @@ export type Exercise =
 
 export type ExerciseType = Exercise['type']
 
+/**
+ * A recording that belongs to a unit - an audio track or a video from the book's own
+ * media, played inline in the lesson (and available again during the quiz).
+ * `src` is a direct file URL; the host must send CORS headers and honour range requests
+ * so the browser can stream and seek.
+ */
+export interface MediaClip {
+  kind: 'audio' | 'video'
+  /** Direct URL of the .mp3 / .mp4 file. */
+  src: string
+  /** What the clip is, e.g. "Spelling names and addresses". */
+  title: string
+  /** The book's own reference for it, e.g. "Track 4" or "Video 12". */
+  label?: string
+  /** One line telling the learner what to listen or watch for. */
+  caption?: string
+}
+
 export interface Unit {
   number: number
   title: string
@@ -157,6 +175,8 @@ export interface Unit {
   subtitle?: string
   /** One sentence: what the learner will be able to do after this unit. */
   summary: string
+  /** Recordings for this unit, in the order the book uses them. */
+  media?: MediaClip[]
   lesson: LessonBlock[]
   exercises: Exercise[]
   /** Percentage needed to pass. Default 70. */

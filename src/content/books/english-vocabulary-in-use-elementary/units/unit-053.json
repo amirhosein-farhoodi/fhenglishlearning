@@ -1,0 +1,168 @@
+{
+  "number": 53,
+  "title": "Places",
+  "subtitle": "here, there, at, on, in, abroad",
+  "summary": "Say where things and people are - here, there, everywhere, at the top, on the left, out, away or abroad.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "General place words",
+      "text": "**Here** means 'in this place, where I am'. **There** means 'in another place, not here'. **Back** means 'to this place again'. **Everywhere** means 'in all places'.",
+      "examples": [
+        { "text": "Come **here**, please.", "note": "= to me, to where I am" },
+        { "text": "Have you been to Lima? I'm going **there** in April.", "note": "= not here, another place" },
+        { "text": "Max is coming **back** from Portugal in May.", "note": "= to here again" },
+        { "text": "There are books and papers **everywhere** in my room.", "note": "= in all parts, all places" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "in, at and on",
+      "columns": ["Preposition", "We use it for", "Example"],
+      "rows": [
+        ["**in**", "a room, a town, a country, a continent", "Luke is **in** the kitchen. Samantha lives **in** Seoul."],
+        ["**at**", "a place you go to, or a part of a group", "I'll meet you **at** the station. I sit **at** the front of the class."],
+        ["**on**", "a surface: a wall, a table, a chair", "I like that photo **on** the wall. Don't put your books **on** the chair."]
+      ],
+      "note": "There are two restaurants **in** the village."
+    },
+    {
+      "type": "explain",
+      "heading": "Positions",
+      "text": "We use *the ... of ...* to talk about a part of something: **the top**, **the middle**, **the bottom**; **the front**, **the side**, **the back**; **the beginning** and **the end**.",
+      "examples": [
+        { "text": "There is snow on **the top of the mountain**." },
+        { "text": "A cat was sitting in **the middle of the road**." },
+        { "text": "There is a little water in **the bottom of the glass**." },
+        { "text": "The driver sits at **the front of the bus**, and the engine is at **the back**." },
+        { "text": "We joined the motorway at **the beginning** and left it at **the end**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Left and right",
+      "text": "Most people write with their **right** hand. The other hand is the **left** hand. We use *on the left* and *on the right* to give directions.",
+      "examples": [
+        { "text": "This is his **left** hand and this is his **right** hand." },
+        { "text": "In York Street there is a cinema **on the left** and a restaurant **on the right**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Home and away",
+      "text": "*Is Eleanor at home?* Here are four answers. **At home** means in her house or flat. **Out** means not here for a short time. **Away** means not here for a longer time. **Abroad** means in another country.",
+      "examples": [
+        { "text": "Yes, she's **at home**. I'll call her." },
+        { "text": "No, sorry, she's **out**.", "note": "= at the shops or at work, back soon" },
+        { "text": "No, sorry, she's **away**.", "note": "= on holiday, back in a week" },
+        { "text": "No, sorry, she's **abroad**.", "note": "= in another country" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say *at the beginning* and *at the end* of a book, but *in the middle* of a book."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Come ___, Emma! Don't go near the road!",
+      "hint": "(to where I am)",
+      "answers": ["here"],
+      "explanation": "Here means 'to this place, where I am'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This letter is for a teacher at the university. Can you take it ___?",
+      "hint": "(to another place)",
+      "answers": ["there"],
+      "explanation": "There means 'to that place, not here'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I opened the washing machine too soon. Now there's water ___!",
+      "hint": "(in all places)",
+      "answers": ["everywhere"],
+      "explanation": "Everywhere means 'in all parts, all places'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to Italy tomorrow, but I'm coming ___ on Friday.",
+      "hint": "(to here again)",
+      "answers": ["back"],
+      "explanation": "Come back means 'return to this place'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why do you always sit ___ the back of the class?",
+      "options": ["at", "in", "on", "to"],
+      "answer": 0,
+      "explanation": "We say at the front / at the back of a class or a room."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let's go and sit ___ the sofa.",
+      "hint": "(one word)",
+      "answers": ["on"],
+      "explanation": "We sit on a chair or a sofa - on is for a surface."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What time do you arrive? I'll meet you ___ the bus station.",
+      "hint": "(one word)",
+      "answers": ["at"],
+      "explanation": "We meet people at a station, at a bus stop, at the airport."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition goes with each place?",
+      "categories": ["in", "at", "on"],
+      "items": [
+        { "text": "Paris", "category": 0 },
+        { "text": "the living room", "category": 0 },
+        { "text": "the station", "category": 1 },
+        { "text": "the front of the class", "category": 1 },
+        { "text": "the wall", "category": 2 },
+        { "text": "the chair", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the right position phrase.",
+      "pairs": [
+        { "left": "the highest part of a mountain", "right": "the top of the mountain" },
+        { "left": "the lowest part of a glass", "right": "the bottom of the glass" },
+        { "left": "the part of a road between the two sides", "right": "the middle of the road" },
+        { "left": "where the motorway starts", "right": "the beginning of the motorway" },
+        { "left": "where the motorway stops", "right": "the end of the motorway" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is Lily here? No, she's ___, but she'll be back in about five minutes.",
+      "hint": "(not here for a short time)",
+      "answers": ["out"],
+      "explanation": "Out means 'not here for a short time', for example at the shops."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going ___ tomorrow. I'm going to stay with my sister for a few days.",
+      "hint": "(not here for a longer time)",
+      "answers": ["away"],
+      "explanation": "Go away means 'leave home for a few days or weeks'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tell your friend where you will meet them.",
+      "words": ["I'll", "meet", "you", "at", "the", "station."],
+      "answer": "I'll meet you at the station."
+    },
+    {
+      "type": "true_false",
+      "statement": "Eleanor is abroad this week, so she is at home in her flat.",
+      "answer": false,
+      "explanation": "Eleanor is abroad this week, so she is in another country. Abroad is not the same as at home."
+    }
+  ]
+}

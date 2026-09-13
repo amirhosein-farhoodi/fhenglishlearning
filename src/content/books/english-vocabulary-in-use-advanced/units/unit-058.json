@@ -1,0 +1,194 @@
+{
+  "number": 58,
+  "title": "Energy: from fossil fuels to windmills",
+  "subtitle": "oil wells, wind farms, carbon footprint",
+  "summary": "Name the world's energy sources, from coal mines and offshore drilling platforms to wind farms and geothermal power, and talk about using less energy at home.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Fossil fuels",
+      "text": "**Fossil fuels** are sources of energy which were formed underground from plant and animal remains millions of years ago. An **oil well** is a hole made in the ground for the removal of oil. **Offshore** means away from the coast, so **offshore drilling platforms** explore the ocean bed for oil and gas.",
+      "examples": [
+        { "text": "Several new **oil wells** were constructed in the desert last year." },
+        { "text": "Fire has broken out on an **offshore drilling platform**." },
+        { "text": "A new gas **pipeline** was built to bring cheaper energy to the capital city.", "note": "pipeline = a very large tube through which liquid or gas flows long distances" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Coal",
+      "text": "A **coal mine** is a deep hole, or system of holes, under the ground from which coal is removed. A power station that burns coal is **coal-fired**.",
+      "examples": [
+        { "text": "Older, **coal-fired** power stations generally cause high levels of pollution." },
+        { "text": "The **coal mines** in the north of the country are no longer profitable." },
+        { "text": "The power station is **coal-fired**, but it will soon be replaced by a **nuclear** plant." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Renewable energy",
+      "columns": ["Source", "What it is"],
+      "rows": [
+        ["wind farm", "a group of wind turbines used for producing electricity; onshore means on the land"],
+        ["solar panels", "devices that change energy from the sun into electricity"],
+        ["hydroelectric power", "electricity produced by the force of fast-moving water such as rivers or waterfalls"],
+        ["biomass", "dead plant and animal material suitable for using as fuel"],
+        ["tidal power", "energy produced by the force of the sea tide"],
+        ["wave power", "energy produced by the force of waves in the sea"],
+        ["geothermal energy", "energy from the heat inside the earth"],
+        ["nuclear power", "power produced when the nucleus of an atom is divided or joined to another"]
+      ],
+      "note": "Renewable energy can be produced again as quickly as it is used. Renewable is also a countable noun: the government will focus on renewables."
+    },
+    {
+      "type": "explain",
+      "heading": "The words in the news",
+      "text": "These are the phrases you meet in headlines and reports about energy policy. Note **onshore** for wind farms on land, and its opposite **offshore**.",
+      "examples": [
+        { "text": "**Onshore wind farms** to get new government subsidies." },
+        { "text": "**Solar panels** to be installed on all government buildings." },
+        { "text": "**Tidal power** and **wave power** may meet future energy needs." },
+        { "text": "**Geothermal** energy will last 1,000 years, says scientist." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using less energy at home",
+      "text": "**Consumption** is how much of something is used, and to **consume** is to use, especially in large amounts. **Power-hungry** **appliances** - electrical equipment such as washing machines and fridges - use a great deal of energy. You can **monitor** your use of electricity, which means regularly watching and checking it, and choose **energy-efficient** models that use only a little electricity.",
+      "examples": [
+        { "text": "We're **monitoring** our energy use at home and trying to **consume** less power." },
+        { "text": "Most recent washing machines and other domestic **appliances** are quite **energy-efficient**." },
+        { "text": "Switch off entertainment systems that use power while on **standby**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Gas-guzzlers, food miles and carbon footprints",
+      "text": "A **gas-guzzler** is an informal word for a car that uses a lot of fuel. **Food miles** are the distance food travels from where it is produced to the consumer. Your **carbon footprint** is a measurement of the amount of carbon dioxide your activities create.",
+      "examples": [
+        { "text": "This car is a real **gas-guzzler**. It has a very high fuel **consumption**." },
+        { "text": "Think about **food miles** and buy local products." },
+        { "text": "We can reduce our **carbon footprint** by cutting out unnecessary journeys." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Finite resources",
+      "text": "The world's coal, oil and gas **deposits** - layers formed under the ground over a very long period - are **finite**: they have an end, and one day they will **run out**.",
+      "examples": [
+        { "text": "The planet only contains a **finite** amount of oil and coal." },
+        { "text": "One day the **deposits** will **run out**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Take care with the spelling of energy - not ~~energie~~ or ~~energi~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each energy word with its description.",
+      "pairs": [
+        { "left": "pipeline", "right": "a very large tube carrying gas or oil long distances" },
+        { "left": "offshore drilling platform", "right": "a structure out at sea exploring the ocean bed for oil" },
+        { "left": "solar panels", "right": "devices that turn the heat of the sun into electricity" },
+        { "left": "coal mine", "right": "a deep hole under the ground from which coal is removed" },
+        { "left": "wind farm", "right": "a group of turbines producing electricity" },
+        { "left": "biomass", "right": "dead plant and animal material used as fuel" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A new 100-kilometre ___ has been built to bring oil from the wells to a refinery on the coast.",
+      "hint": "(a huge tube)",
+      "answers": ["pipeline"],
+      "explanation": "A pipeline is a very large tube through which liquid or gas can flow for long distances."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The power station is ___ , but it will soon be replaced by a nuclear plant.",
+      "hint": "(hyphenated: burning coal)",
+      "answers": ["coal-fired", "coal fired"],
+      "explanation": "A coal-fired power station uses coal as a fuel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Fire has broken out on an ___ drilling platform.",
+      "hint": "(out at sea; opposite of onshore)",
+      "answers": ["offshore"],
+      "explanation": "Offshore means away from or at a distance from the coast; onshore means on the land."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some parts of the world may be able to use ___ energy, which comes from the heat inside the earth.",
+      "hint": "(one word)",
+      "answers": ["geothermal"],
+      "explanation": "Geothermal energy uses the heat inside the earth."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We should consider the issue of ___ when shopping for fruit and vegetables and try to buy local produce.",
+      "hint": "(two words: how far food has travelled)",
+      "answers": ["food miles"],
+      "explanation": "Food miles are the distance food is transported from where it is produced to the consumer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most recent models of washing machines use less power than older ones and are quite ___ .",
+      "hint": "(hyphenated: using only a little electricity)",
+      "answers": ["energy-efficient", "energy efficient"],
+      "explanation": "An energy-efficient appliance uses only a little electricity or gas."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The company is trying to reduce its ___ by allowing fewer foreign trips and using video-conferencing.",
+      "hint": "(two words: the carbon dioxide your activities create)",
+      "answers": ["carbon footprint"],
+      "explanation": "Your carbon footprint measures the amount of carbon dioxide your activities create."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This car is a real ___ . It has a very high fuel consumption.",
+      "hint": "(informal, hyphenated: uses a lot of fuel)",
+      "answers": ["gas-guzzler", "gas guzzler"],
+      "explanation": "A gas-guzzler is an informal word for a car that uses a lot of fuel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The planet only contains a ___ amount of oil and coal. One day the deposits will run out.",
+      "hint": "(having an end)",
+      "answers": ["finite"],
+      "explanation": "Finite means having an end or lasting a limited time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The country is developing two main energy sources: ___ and hydroelectric power stations.' Which word fits?",
+      "options": ["biomass", "offshore", "consumption", "standby"],
+      "answer": 0,
+      "explanation": "Biomass is dead plant and animal material used as fuel."
+    },
+    {
+      "type": "true_false",
+      "statement": "An onshore wind farm is built out at sea.",
+      "answer": false,
+      "explanation": "Onshore means on the land; a wind farm out at sea is an offshore wind farm."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each one a fossil fuel source or a renewable one?",
+      "categories": ["Fossil fuels", "Renewables"],
+      "items": [
+        { "text": "coal mines", "category": 0 },
+        { "text": "oil wells", "category": 0 },
+        { "text": "gas pipelines", "category": 0 },
+        { "text": "coal-fired power stations", "category": 0 },
+        { "text": "wind farms", "category": 1 },
+        { "text": "solar panels", "category": 1 },
+        { "text": "tidal power", "category": 1 },
+        { "text": "geothermal energy", "category": 1 }
+      ]
+    }
+  ]
+}

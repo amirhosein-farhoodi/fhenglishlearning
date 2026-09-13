@@ -1,0 +1,174 @@
+{
+  "number": 26,
+  "title": "Music and musical instruments",
+  "subtitle": "play the guitar, a musician, classical music",
+  "summary": "Use music, musical and musician correctly, name musical instruments and say what kind of music you like.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "music, musical and musician",
+      "text": "**Music** is an uncountable noun, so it has no plural. **Musical** is an adjective. A **musician** is a person who plays music.",
+      "examples": [
+        { "text": "The band played fantastic **music** for more than two hours.", "wrong": "fantastic musics" },
+        { "text": "There is a shop on King Street that sells **musical instruments**.", "wrong": "music instruments" },
+        { "text": "My brother is a very good **musician**. He plays three instruments." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Musical instruments",
+      "columns": ["Instrument", "How you play it"],
+      "rows": [
+        ["the piano", "you press the black and white keys"],
+        ["the guitar", "you hold it and play the strings with your fingers"],
+        ["the violin", "a small instrument with strings, played under your chin"],
+        ["the cello", "a big instrument with strings, played sitting down"],
+        ["the flute", "a metal instrument you hold across your mouth and blow"],
+        ["the clarinet", "a long black instrument you blow"],
+        ["the trumpet", "a gold instrument you blow, with three buttons"],
+        ["the drums", "you hit them with sticks"]
+      ],
+      "note": "We always say play the piano, play the guitar - with the."
+    },
+    {
+      "type": "explain",
+      "heading": "Playing an instrument",
+      "text": "You **play the** guitar, you are **learning the** guitar, or you **have** guitar **lessons**. A person who plays the flute is a **flute-player**; a person who plays the violin is a **violinist** and a person who plays the piano is a **pianist**.",
+      "examples": [
+        { "text": "Ava **plays the clarinet**. Her brother **plays the drums**." },
+        { "text": "Krishnan is **learning the guitar**. His friend Isabella **has piano lessons**." },
+        { "text": "Mia is a very good **flute-player**. She plays in an **orchestra**." },
+        { "text": "Lucas is an excellent **violinist**. His sister is a good **pianist**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Kinds of music",
+      "text": "**Classical** music means Beethoven and Mozart. Other kinds are **pop**, **folk**, **jazz**, **rock** and **opera**. If you really dislike something, you **can't stand** it.",
+      "examples": [
+        { "text": "Charlotte loves **classical music**.", "wrong": "classic music" },
+        { "text": "Harper **can't stand opera**. She prefers **pop music**.", "note": "can't stand = dislikes very much" },
+        { "text": "I like **folk music**, **jazz** and **rock**." },
+        { "text": "I **downloaded** some new **songs** yesterday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "band and concert",
+      "text": "A **band** is a group of musicians. A **concert** is an event with music. Do not add the word *music* to either of them.",
+      "examples": [
+        { "text": "Nuala had a really good **band** at her 21st birthday party.", "wrong": "a really good music band" },
+        { "text": "We're going to a **concert** tonight.", "wrong": "a music concert" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say I listen to music, never ~~I listen music~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "What are your favourite types of ___?",
+      "hint": "(music / musical / musician)",
+      "answers": ["music"],
+      "explanation": "Music is the noun for the sound itself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother thinks he's a good ___, but he's very bad!",
+      "hint": "(music / musical / musician)",
+      "answers": ["musician"],
+      "explanation": "A musician is a person who plays music."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you play a ___ instrument?",
+      "hint": "(music / musical / musician)",
+      "answers": ["musical"],
+      "explanation": "Musical is the adjective: a musical instrument."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I love ___ music. Beethoven is my favourite.",
+      "options": ["classical", "classic", "classist", "class"],
+      "answer": 0,
+      "explanation": "The word is classical music, not classic music."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My brother ___ folk music, but I love it.",
+      "options": ["can't stand", "can stand", "can't stay", "doesn't stand"],
+      "answer": 0,
+      "explanation": "Can't stand means dislike something very much."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I have some tickets for a ___ at the Town Hall. Would you like one?",
+      "options": ["concert", "music concert", "concert music", "musical concert"],
+      "answer": 0,
+      "explanation": "A concert already means an event with music."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I always ___ music when I'm studying.",
+      "options": ["listen to", "listen in", "listen", "hear to"],
+      "answer": 0,
+      "explanation": "Listen always takes to before the thing you hear."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My sister plays in a ___ with three other girls from her school.",
+      "options": ["band", "music band", "band music", "musician"],
+      "answer": 0,
+      "explanation": "A band is a group of musicians."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the description with the word.",
+      "pairs": [
+        { "left": "a person who plays the violin", "right": "a violinist" },
+        { "left": "a person who plays the piano", "right": "a pianist" },
+        { "left": "a person who plays the flute", "right": "a flute-player" },
+        { "left": "a group of musicians", "right": "a band" },
+        { "left": "an event with music", "right": "a concert" },
+        { "left": "a big group of classical musicians", "right": "an orchestra" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Noah loves playing the ___. He hits them with two sticks.",
+      "hint": "(plural)",
+      "answers": ["drums"],
+      "explanation": "You play the drums with sticks."
+    },
+    {
+      "type": "true_false",
+      "statement": "The band played fantastic musics for more than two hours.",
+      "answer": false,
+      "explanation": "The band played fantastic music for more than two hours. Music is uncountable and has no plural."
+    },
+    {
+      "type": "categorize",
+      "prompt": "How do you play these instruments?",
+      "categories": ["You blow it", "It has strings", "You hit it"],
+      "items": [
+        { "text": "the flute", "category": 0 },
+        { "text": "the trumpet", "category": 0 },
+        { "text": "the clarinet", "category": 0 },
+        { "text": "the guitar", "category": 1 },
+        { "text": "the violin", "category": 1 },
+        { "text": "the cello", "category": 1 },
+        { "text": "the drums", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend if they can play an instrument.",
+      "words": ["Can", "you", "play", "a", "musical", "instrument?"],
+      "answer": "Can you play a musical instrument?",
+      "explanation": "Musical is the adjective: a musical instrument."
+    }
+  ]
+}

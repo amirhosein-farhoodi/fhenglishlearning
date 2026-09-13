@@ -1,0 +1,176 @@
+{
+  "number": 90,
+  "title": "Prepositions: place and movement",
+  "subtitle": "at the bus stop, on the desk, into the room",
+  "summary": "Choose between at, on and in for places, and use prepositions such as beyond, against, among, towards and past to describe position and movement.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "at, on and in",
+      "columns": ["Preposition", "Use it for", "Example"],
+      "rows": [
+        ["at", "a point or a place", "I met her at the bus stop. He's at work at the moment."],
+        ["on", "a surface", "The book's on the desk. They sat on the floor. I put the picture on the wall."],
+        ["in", "an area, a space, or inside something", "He's in the kitchen. She lives in Warsaw. The knife's in the top drawer."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Common mistakes",
+      "text": "Learners often mix these three up. Towns and cities take **in**, buildings where you arrive or meet take **at**, and a flat surface takes **on**.",
+      "examples": [
+        { "text": "I met them **at** the airport.", "wrong": "on the airport" },
+        { "text": "There's a computer **on** my desk.", "wrong": "in my desk" },
+        { "text": "The conference is being held **in** Delhi.", "wrong": "at Delhi" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where exactly?",
+      "text": "These prepositions say exactly where something is. The meaning is given after each example.",
+      "examples": [
+        { "text": "I know they live **in** Danvers Street, and I think they're **at** number twenty-three." },
+        { "text": "Their house is **beyond** the farm, **by** the old church.", "note": "beyond = on the other side of; by = near" },
+        { "text": "They've just bought a house right **beside** the river.", "note": "right = exactly; beside = next to" },
+        { "text": "Their office is **above** the shop.", "note": "opposite: below" },
+        { "text": "I'm sure there's a chemist on the left **before** the bank.", "note": "opposite: after" },
+        { "text": "I saw your bike in the back garden **against** the wall.", "note": "= touching the wall" },
+        { "text": "I found your phone on the sofa **underneath** a pile of cushions.", "note": "underneath = beneath = under" },
+        { "text": "You can just see the top of the building **among** the trees.", "note": "= somewhere in the middle of the trees" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Movement",
+      "text": "Other prepositions describe how something moves from one place to another.",
+      "examples": [
+        { "text": "The mouse ran **out of** the back door, **towards** the gate, then disappeared **down** a hole.", "note": "opposite of out of: into" },
+        { "text": "We came **over** the bridge, then **through** the tunnel and **round** the lake.", "note": "opposite of over: under" },
+        { "text": "The woman came **after** us, but we managed to climb **into** the back of my dad's van.", "note": "come after = follow in order to catch" },
+        { "text": "Fortunately she went **past** the van and didn't see us." },
+        { "text": "We walked **up** the hill and then **down** the other side." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Opposites",
+      "columns": ["Preposition", "Opposite"],
+      "rows": [
+        ["into", "out of"],
+        ["over", "under"],
+        ["up", "down"],
+        ["above", "below"],
+        ["before", "after"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use at with the place where something happens: at a party, at school, at work, at the bus stop."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I put the milk ___ the fridge.",
+      "hint": "(inside something)",
+      "answers": ["in"],
+      "explanation": "We use in for inside a space or container."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your clothes are ___ the floor.",
+      "hint": "(a surface)",
+      "answers": ["on"],
+      "explanation": "We use on for a surface."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I met her ___ a party last night.",
+      "hint": "(a place where something happens)",
+      "answers": ["at"],
+      "explanation": "We use at for a point or a place, including events like a party."
+    },
+    {
+      "type": "true_false",
+      "statement": "I met them on the airport at six o'clock.",
+      "answer": false,
+      "explanation": "I met them at the airport at six o'clock. We meet people at a place, not on it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She works ___ Moscow.",
+      "hint": "(a city)",
+      "answers": ["in"],
+      "explanation": "Towns and cities take in: in Moscow, in Warsaw, in Delhi."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They live ___ 34 Lawrence Street.",
+      "options": ["at", "in", "on", "by"],
+      "answer": 0,
+      "explanation": "We use in with a street name but at with a house number."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was snow ___ the ground when I arrived.",
+      "hint": "(a surface)",
+      "answers": ["on"],
+      "explanation": "Snow lies on a surface, so we use on."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each preposition with its meaning.",
+      "pairs": [
+        { "left": "beyond", "right": "on the other side of" },
+        { "left": "against", "right": "touching" },
+        { "left": "among", "right": "in the middle of" },
+        { "left": "beneath", "right": "under" },
+        { "left": "by", "right": "near" },
+        { "left": "towards", "right": "in the direction of" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the preposition describe a position or a movement?",
+      "categories": ["Position", "Movement"],
+      "items": [
+        { "text": "beside", "category": 0 },
+        { "text": "above", "category": 0 },
+        { "text": "underneath", "category": 0 },
+        { "text": "into", "category": 1 },
+        { "text": "out of", "category": 1 },
+        { "text": "towards", "category": 1 },
+        { "text": "past", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Did you climb over the fence? *B:* No, we went ___ it.",
+      "options": ["under", "above", "beyond", "along"],
+      "answer": 0,
+      "explanation": "The opposite of over is under."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you see her get into the car? *B:* No, but I saw her get ___ the car.",
+      "hint": "(the opposite of into)",
+      "answers": ["out of"],
+      "explanation": "The opposite of into is out of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you say we had to turn left before the bridge? *B:* No, turn left ___ the bridge.",
+      "hint": "(the opposite of before)",
+      "answers": ["after"],
+      "explanation": "The opposite of before is after."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe how the mouse escaped.",
+      "words": ["The mouse", "ran", "out of", "the back door", "towards", "the gate"],
+      "answer": "The mouse ran out of the back door towards the gate",
+      "explanation": "Out of shows it left the room; towards shows the direction it went."
+    }
+  ]
+}

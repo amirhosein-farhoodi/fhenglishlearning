@@ -7,7 +7,7 @@
  * drop the first book into it and the grid appears on its own.
  */
 
-export const CATEGORY_IDS = ['grammar', 'vocabulary', 'listening'] as const
+export const CATEGORY_IDS = ['grammar', 'vocabulary', 'ielts'] as const
 
 export type CategoryId = (typeof CATEGORY_IDS)[number]
 
@@ -36,11 +36,11 @@ export const CATEGORIES: Category[] = [
     teaser: 'Word sets by topic and level, with the same quiz types you already know.',
   },
   {
-    id: 'listening',
-    title: 'Listening',
-    blurb: 'Train your ear on real speech - short clips, then questions on what you heard.',
-    emoji: '🎧',
-    teaser: 'Short audio clips with comprehension questions, gap-fills and dictation.',
+    id: 'ielts',
+    title: 'IELTS',
+    blurb: 'Exam skills for all four papers, with the official audio tracks and Speaking test videos built in.',
+    emoji: '🎓',
+    teaser: 'Listening, Reading, Writing and Speaking strategies, each lesson paired with its recording.',
   },
 ]
 

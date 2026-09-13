@@ -1,0 +1,189 @@
+{
+  "number": 4,
+  "title": "Clothes",
+  "subtitle": "a shirt, a pair of jeans, put your coat on",
+  "summary": "Name the clothes people wear every day, use the plural words like trousers and jeans, and say what someone is wearing or carrying.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Clothes",
+      "text": "These are the words for everyday **clothes**. Some are for work, some are for the weekend, and some keep you warm. A **sweater** and a **jumper** are the same thing.",
+      "examples": [
+        { "text": "Joe has a job interview, so he is wearing a **suit**, a white **shirt** and a **tie**." },
+        { "text": "It's the weekend, so Julia is wearing a **T-shirt** and **shorts**." },
+        { "text": "It's cold today. I'll wear my **jacket** and take my **coat** too." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Clothes words",
+      "columns": ["Group", "Words"],
+      "rows": [
+        ["Clothes for work or a party", "a suit, a shirt, a tie, a dress, a skirt"],
+        ["Everyday clothes", "a T-shirt, a sweater (or jumper), jeans, shorts"],
+        ["Warm clothes", "a coat, a jacket, a scarf, gloves, boots"],
+        ["On your feet", "socks, shoes, trainers, boots"],
+        ["Small things you wear", "a watch, a ring, a belt, a hat"],
+        ["Clothes for bed", "pyjamas"]
+      ],
+      "note": "**Trainers** are sports shoes. You wear them to run or to play tennis."
+    },
+    {
+      "type": "explain",
+      "heading": "Plural words",
+      "text": "Some clothes words are always plural in English. They need a plural verb: **trousers**, **jeans**, **shorts**, **tights**, **glasses**, **sunglasses** and **pyjamas**. You cannot say *a trouser*.",
+      "examples": [
+        { "text": "My suit is new but these **trousers are** old.", "wrong": "this trouser is old" },
+        { "text": "Her **jeans are** blue." },
+        { "text": "My favourite **pyjamas are** dark green." }
+      ],
+      "note": "To talk about one, say **a pair of**: a pair of trousers, a pair of shorts, a pair of glasses."
+    },
+    {
+      "type": "compare",
+      "heading": "wear or carry?",
+      "left": {
+        "label": "wear (on your body)",
+        "text": "Clothes and glasses are on your body, so you **wear** them.",
+        "examples": [
+          "Naomi is **wearing** a long blue coat.",
+          "You **wear** glasses.",
+          "Lucy is **wearing** white socks and trainers."
+        ]
+      },
+      "right": {
+        "label": "carry (in your hand)",
+        "text": "Bags and other things are in your hand, so you **carry** them.",
+        "examples": [
+          "She's **carrying** a suitcase and a handbag.",
+          "Gianni is **carrying** a bag with his papers and laptop.",
+          "You **carry** a bag and an umbrella."
+        ]
+      },
+      "note": "You can also say **has got ... on**: Naomi has got a blue coat on."
+    },
+    {
+      "type": "explain",
+      "heading": "Getting dressed",
+      "text": "In the morning you **get dressed** or you **put your clothes on**. At night you **get undressed** or you **take your clothes off**.",
+      "examples": [
+        { "text": "I **put on** my socks, and then I **put on** my shoes." },
+        { "text": "He came home and **took off** his tie." },
+        { "text": "The children **get dressed** before breakfast." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You **put** clothes **on** but you **take** them **off** - not ~~put your clothes off~~."
+    },
+    {
+      "type": "tip",
+      "text": "Say the words to yourself while you dress: *Now I'm putting on my socks. Now I'm putting on my shoes.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Joe has a job interview today, so he's wearing a smart suit, a white shirt and a ___.",
+      "hint": "(you wear it round your neck with a shirt)",
+      "answers": ["tie"],
+      "explanation": "A tie goes with a shirt when you dress smartly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julia's not working today, so she's wearing a T-shirt and ___.",
+      "hint": "(short trousers for hot days)",
+      "answers": ["shorts"],
+      "explanation": "Shorts is always plural: a pair of shorts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lucy is going to play tennis. She's wearing white socks and ___.",
+      "hint": "(sports shoes)",
+      "answers": ["trainers"],
+      "explanation": "Trainers are the shoes you wear for sport."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My trousers are too big. I have to wear a ___.",
+      "options": ["belt", "tie", "scarf", "ring"],
+      "answer": 0,
+      "explanation": "A belt holds your trousers up."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the thing you wear with the part of the body.",
+      "pairs": [
+        { "left": "a belt", "right": "your waist" },
+        { "left": "glasses", "right": "your eyes" },
+        { "left": "gloves", "right": "your hands" },
+        { "left": "tights", "right": "your legs" },
+        { "left": "a scarf", "right": "your neck" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Gianni is going to a business meeting. He's ___ a bag with his papers and laptop.",
+      "hint": "(carry)",
+      "answers": ["carrying"],
+      "explanation": "You wear clothes but you carry things in your hand."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Meena has got a red coat on and she ___ some flowers.",
+      "options": ["is carrying", "is wearing", "carries on", "is putting off"],
+      "answer": 0,
+      "explanation": "Flowers are in her hand, so she is carrying them."
+    },
+    {
+      "type": "true_false",
+      "statement": "My favourite pyjamas is dark green.",
+      "answer": false,
+      "explanation": "My favourite pyjamas are dark green. Pyjamas is a plural word and needs a plural verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Last year Harry's trousers were white. Now they ___ grey.",
+      "hint": "(be)",
+      "answers": ["are"],
+      "explanation": "Trousers is plural, so the verb is are."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which clothes words are always plural?",
+      "categories": ["Always plural", "One thing"],
+      "items": [
+        { "text": "jeans", "category": 0 },
+        { "text": "tights", "category": 0 },
+        { "text": "sunglasses", "category": 0 },
+        { "text": "shorts", "category": 0 },
+        { "text": "shirt", "category": 1 },
+        { "text": "skirt", "category": 1 },
+        { "text": "coat", "category": 1 },
+        { "text": "watch", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are in a shop. Ask about some jeans.",
+      "words": ["Is", "this", "a", "new", "pair", "of", "jeans?"],
+      "answer": "Is this a new pair of jeans?",
+      "explanation": "Use a pair of with plural clothes words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the morning you get dressed, or you ___ your clothes on.",
+      "hint": "(one word)",
+      "answers": ["put"],
+      "explanation": "put your clothes on = get dressed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "At night you get undressed, or you ___ your clothes off.",
+      "options": ["take", "put", "carry", "wear"],
+      "answer": 0,
+      "explanation": "You put clothes on but you take them off."
+    }
+  ]
+}

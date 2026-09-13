@@ -1,0 +1,177 @@
+{
+  "number": 13,
+  "title": "Family and friends",
+  "subtitle": "widow, stepfather, twins, mate",
+  "summary": "Talk about your relatives and your friends - a widow, a stepfather, twins, in-laws, mates and ex-girlfriends.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Relatives",
+      "text": "Your **relatives** are the members of your family. **Relations** means exactly the same thing. Here a young man from Germany describes his family.",
+      "examples": [
+        { "text": "My father died when I was nine, so my mother was a **widow** with four young children.", "note": "a widow = a woman whose husband has died" },
+        { "text": "She **remarried** five years later, so now I have a **stepfather**.", "note": "remarry = get married again; a stepfather is the man married to your mother who is not your real father" },
+        { "text": "I've got an **elder** brother called Thomas.", "note": "elder = older" },
+        { "text": "My two younger sisters, Anya and Claudia, are **twins**.", "note": "twins = two children born to one mother at the same time" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Close families and only children",
+      "text": "A **close family** is a family whose members like each other and spend a lot of time together. A person with no brothers or sisters is an **only child**. If you have a good relationship with someone, you **get on well with** them.",
+      "examples": [
+        { "text": "We're a very **close family**." },
+        { "text": "My mother is an **only child**, but I've got two uncles on my father's side." },
+        { "text": "**Altogether** I have five cousins.", "note": "altogether = in total" },
+        { "text": "I **get on well with** Uncle Rolf, and he always tells me I'm his favourite nephew." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Family words you may not know",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["relatives / relations", "the members of your family"],
+        ["a widow", "a woman whose husband has died"],
+        ["a stepfather", "the man married to your mother who is not your real father"],
+        ["twins", "two children born to one mother at the same time"],
+        ["an only child", "a person with no brothers or sisters"],
+        ["a sister-in-law", "your brother's wife, or your husband's or wife's sister"],
+        ["a brother-in-law", "your sister's husband, or your husband's or wife's brother"]
+      ],
+      "note": "We also say mother-in-law, father-in-law, son-in-law and daughter-in-law."
+    },
+    {
+      "type": "tip",
+      "text": "It is more common and more natural to say *Thomas's wife* and *Anna's younger sister*, not ~~the wife of Thomas~~ or ~~the younger sister of Anna~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Friends",
+      "text": "A person you were at school with is an **old school friend**. When you meet someone and slowly become friends, you **get to know** each other. **Mate** is an informal word for a friend, and the noun for two people being friends is **friendship**.",
+      "examples": [
+        { "text": "My best friend is Florian, an old **school friend**." },
+        { "text": "We **got to know** each other when we were in the same class at school." },
+        { "text": "We've been **mates** ever **since**.", "note": "ever since = from that time until now" },
+        { "text": "Our **friendship** is very important to both of us." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "current and ex-",
+      "text": "Your **current** girlfriend or boyfriend is the one you have now. We use the prefix **ex-** for a relationship we had in the past but do not have now.",
+      "examples": [
+        { "text": "His **current** girlfriend is actually one of Thomas's **ex-girlfriends**." },
+        { "text": "The children stay with my **ex-husband** at the weekend." },
+        { "text": "I saw an **ex-girlfriend** of mine yesterday." }
+      ],
+      "note": "It is nice if you can still get on well with an ex-boyfriend or ex-girlfriend."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Cath's husband Simon died two years ago, so Cath is a ___.",
+      "hint": "(one word)",
+      "answers": ["widow"],
+      "explanation": "A woman whose husband has died is a widow."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emily has no brothers or sisters, so she is an ___ child.",
+      "hint": "(one word)",
+      "answers": ["only"],
+      "explanation": "A child with no brothers or sisters is an only child."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Cath and Brian are brother and sister. Brian's daughter is Leyla. What is Leyla to Cath?",
+      "options": ["her niece", "her nephew", "her cousin", "her sister-in-law"],
+      "answer": 0,
+      "explanation": "Your brother's daughter is your niece."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brian's son Tom is Cath's ___.",
+      "hint": "(Cath is Brian's sister)",
+      "answers": ["nephew"],
+      "explanation": "Your brother's son is your nephew."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emily is Cath's daughter and Leyla is Brian's daughter, so Emily is Leyla's ___.",
+      "hint": "(the same word for a boy or a girl)",
+      "answers": ["cousin"],
+      "explanation": "The children of your aunt or uncle are your cousins."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tom is 16 and his sister Leyla is 14, so Tom is Leyla's ___ brother.",
+      "hint": "(another word for older)",
+      "answers": ["elder", "older"],
+      "explanation": "Elder means older."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Brian is married to Meg, and Cath is Brian's sister. What is Cath to Meg?",
+      "options": ["her sister-in-law", "her stepmother", "her niece", "her mate"],
+      "answer": 0,
+      "explanation": "Your husband's sister is your sister-in-law."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each explanation with the word it defines.",
+      "pairs": [
+        { "left": "get married again", "right": "remarry" },
+        { "left": "all the members of your family", "right": "relatives" },
+        { "left": "the friend you like more than any other", "right": "your best friend" },
+        { "left": "someone you have known for a long time", "right": "an old friend" },
+        { "left": "two children born to one mother at the same time", "right": "twins" },
+        { "left": "an informal word for a friend", "right": "a mate" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's nice if you can still ___ with an ex-boyfriend or ex-girlfriend.",
+      "hint": "(two or three words: have a good relationship)",
+      "answers": ["get on", "get on well", "get on really well"],
+      "explanation": "get on (well) with someone = have a good relationship with them."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the word about family or about friends?",
+      "categories": ["Family", "Friends"],
+      "items": [
+        { "text": "widow", "category": 0 },
+        { "text": "stepfather", "category": 0 },
+        { "text": "sister-in-law", "category": 0 },
+        { "text": "twins", "category": 0 },
+        { "text": "mate", "category": 1 },
+        { "text": "friendship", "category": 1 },
+        { "text": "best friend", "category": 1 },
+        { "text": "school friend", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We got married three years ago, and we've been going to the same gym ever ___ we got married.",
+      "hint": "(one word)",
+      "answers": ["since"],
+      "explanation": "ever since = from that time until now."
+    },
+    {
+      "type": "true_false",
+      "statement": "In natural English we normally say 'the wife of Thomas' rather than 'Thomas's wife'.",
+      "answer": false,
+      "explanation": "It is more common and more natural to say 'Thomas's wife'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say how two friends became friends.",
+      "words": ["We", "got", "to", "know", "each", "other", "at", "school."],
+      "answer": "We got to know each other at school.",
+      "explanation": "get to know someone = slowly become friends with them."
+    }
+  ]
+}

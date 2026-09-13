@@ -1,0 +1,210 @@
+{
+  "number": 8,
+  "title": "Describing people: personality",
+  "subtitle": "thrifty or stingy? frank or blunt?",
+  "summary": "Describe intelligence, attitudes to life and attitudes to other people - and see how the same characteristic can sound positive or negative depending on the word you choose.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Intellectual ability",
+      "columns": ["Meaning", "Words"],
+      "rows": [
+        ["lots of ability", "intelligent, bright, clever, sharp, shrewd, able, gifted, talented, brainy (informal)"],
+        ["lacking ability", "stupid, foolish, simple, silly, brainless, daft, dumb, dim, thick"],
+        ["clever in a negative way, using brains to trick or deceive", "cunning, crafty, sly"]
+      ],
+      "note": "Brainless, daft, dumb, dim and thick are mainly informal, and they can all be offensive."
+    },
+    {
+      "type": "compare",
+      "heading": "Attitudes towards life",
+      "left": {
+        "label": "Looking outwards",
+        "text": "Some people expect the best and enjoy attention.",
+        "examples": [
+          "Nia is **optimistic** - she looks on the bright side.",
+          "Ben is **extroverted** - he loves being the focus of attention."
+        ]
+      },
+      "right": {
+        "label": "Looking inwards",
+        "text": "Others expect the worst and prefer their own company.",
+        "examples": [
+          "Amal is **pessimistic** - he always expects the worst to happen.",
+          "Jake is **introverted** - he prefers to be alone with his thoughts."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Sensible and sensitive - two different words",
+      "text": "A **sensible** person is practical and **down-to-earth**; a **sensitive** person is easily hurt. Note also **tense** (or **wound up**, **stressed out**) and its opposite **relaxed**.",
+      "examples": [
+        { "text": "Eva is very **sensible** - she'd never do anything stupid." },
+        { "text": "Roberto is very **sensitive** - he gets very **upset** if he feels people are criticising him.", "note": "worked-up is a more informal alternative to upset" },
+        { "text": "I feel very **tense** after a busy day at work but, after a hot bath, I'll soon feel **relaxed**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Attitude towards other people",
+      "columns": ["Attitude", "Adjectives"],
+      "rows": [
+        ["enjoying others' company", "sociable, gregarious"],
+        ["disagreeing with others", "quarrelsome, argumentative"],
+        ["taking pleasure in others' pain", "cruel, sadistic"],
+        ["relaxed about self and others", "easy-going, even-tempered, laid-back"],
+        ["not polite to others", "impolite, rude, ill-mannered, discourteous"],
+        ["telling the truth to others", "honest, trustworthy, reliable, sincere"],
+        ["unhappy if others have what you don't", "jealous, envious"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "One person's meat is another person's poison",
+      "text": "Some characteristics can be positive or negative depending on your point of view. The pairs below mean roughly the same thing, but the second word in each pair carries a **negative connotation**.",
+      "examples": [
+        { "text": "Carmen's very **thrifty**.", "note": "positive - the speaker approves" },
+        { "text": "Carmen's very **stingy**.", "note": "negative - the same behaviour, disapproved of" },
+        { "text": "Molly's usually **frank**. / Molly's usually **blunt**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Positive and negative versions of the same quality",
+      "columns": ["Positive associations", "Negative associations"],
+      "rows": [
+        ["determined", "obstinate, stubborn, pig-headed"],
+        ["thrifty, economical", "stingy, mean, tight-fisted, miserly"],
+        ["self-assured, confident", "self-important, arrogant, full of yourself"],
+        ["unconventional, original", "eccentric, odd, peculiar, weird"],
+        ["frank, direct, open", "blunt, abrupt, brusque, curt"],
+        ["broad-minded", "unprincipled, permissive"],
+        ["enquiring", "inquisitive, nosy"],
+        ["generous", "extravagant"],
+        ["innocent", "naive"],
+        ["ambitious", "pushy"],
+        ["assertive", "aggressive, bossy"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Before you use a personality adjective, ask yourself whether you want to praise or criticise - *determined* and *pig-headed* describe exactly the same behaviour."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its opposite.",
+      "pairs": [
+        { "left": "clever", "right": "dim" },
+        { "left": "extroverted", "right": "introverted" },
+        { "left": "rude", "right": "courteous" },
+        { "left": "cruel", "right": "kind-hearted" },
+        { "left": "generous", "right": "tight-fisted" },
+        { "left": "unsociable", "right": "gregarious" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Pair the words that have similar meanings.",
+      "pairs": [
+        { "left": "brusque", "right": "curt" },
+        { "left": "crafty", "right": "cunning" },
+        { "left": "down-to-earth", "right": "sensible" },
+        { "left": "gifted", "right": "talented" },
+        { "left": "honest", "right": "trustworthy" },
+        { "left": "tense", "right": "wound up" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Molly's usually frank.* How would you say this to give a negative impression?",
+      "options": ["Molly's usually blunt.", "Molly's usually broad-minded.", "Molly's usually sincere.", "Molly's usually laid-back."],
+      "answer": 0,
+      "explanation": "Frank, direct and open are positive; blunt, abrupt, brusque and curt are the negative versions."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Grace is quite broad-minded.* How would you say this to give a negative impression?",
+      "options": ["Grace is quite unprincipled.", "Grace is quite enquiring.", "Grace is quite thrifty.", "Grace is quite even-tempered."],
+      "answer": 0,
+      "explanation": "Broad-minded is positive; unprincipled and permissive are the negative versions."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Sam can be aggressive.* How would you say this more kindly?",
+      "options": ["Sam can be assertive.", "Sam can be pushy.", "Sam can be bossy.", "Sam can be arrogant."],
+      "answer": 0,
+      "explanation": "Assertive is the positive version of aggressive and bossy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*I find Marcus self-important.* A speaker who admired him would say Marcus was ___.",
+      "hint": "(positive adjective, hyphenated)",
+      "answers": ["self-assured", "confident", "self assured"],
+      "explanation": "Self-assured and confident are the positive versions of self-important and arrogant."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Don't you think James is nosy?* A speaker who approved would call him ___.",
+      "hint": "(positive adjective)",
+      "answers": ["enquiring", "inquiring"],
+      "explanation": "Enquiring is the positive version of inquisitive and nosy. (It is more common in writing than in speech.)"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Freya is very original.* A speaker who disapproved would call her ___.",
+      "hint": "(negative adjective)",
+      "answers": ["peculiar", "odd", "eccentric", "weird"],
+      "explanation": "Unconventional and original are positive; eccentric, odd, peculiar and weird are negative."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each questionnaire question with the personality adjective it tests.",
+      "pairs": [
+        { "left": "If you arrange to meet at 7 pm, do you arrive at 7 pm?", "right": "reliable" },
+        { "left": "When you have a problem, do you think the worst will happen?", "right": "pessimistic" },
+        { "left": "Do you find it easy to tell your boss he or she has treated you badly?", "right": "assertive" },
+        { "left": "Do you always look out of the window if you hear a car draw up?", "right": "inquisitive" },
+        { "left": "Do you often buy your friends presents for no particular reason?", "right": "extravagant" },
+        { "left": "Do you frequently disagree with what other people say?", "right": "argumentative" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each adjective praise or criticise?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "determined", "category": 0 },
+        { "text": "thrifty", "category": 0 },
+        { "text": "ambitious", "category": 0 },
+        { "text": "innocent", "category": 0 },
+        { "text": "pig-headed", "category": 1 },
+        { "text": "miserly", "category": 1 },
+        { "text": "pushy", "category": 1 },
+        { "text": "naive", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A *sensible* person is one who gets upset easily when people criticise them.",
+      "answer": false,
+      "explanation": "That describes a sensitive person. A sensible person is practical and down-to-earth."
+    },
+    {
+      "type": "true_false",
+      "statement": "*Crafty* and *cunning* both describe someone who uses their brains to trick or deceive.",
+      "answer": true,
+      "explanation": "Cunning, crafty and sly all mean clever in a negative way."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["Roberto", "is", "very", "sensitive", "-", "he", "gets", "upset", "if", "people", "criticise", "him."],
+      "answer": "Roberto is very sensitive - he gets upset if people criticise him.",
+      "explanation": "Sensitive people are easily hurt by criticism."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "number": 22,
+  "title": "Food",
+  "subtitle": "spicy, bland, moreish; starters and side dishes",
+  "summary": "Describe how food tastes and how well it is cooked, and handle a restaurant meal or a dinner at home with the right words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Flavours and tastes",
+      "columns": ["Adjective", "What it means"],
+      "rows": [
+        ["hot, spicy", "full of strong flavours, like a curry (opposite: mild)"],
+        ["bland", "with very little flavour - rather negative"],
+        ["salty / sugary", "with a lot of salt / a lot of sugar"],
+        ["sickly", "with too much sugar"],
+        ["savoury", "pleasant, slightly salty or with herbs"],
+        ["sour", "sharp and not sweet, like a lemon; often unpleasant"],
+        ["bitter", "with an unpleasantly sharp taste"],
+        ["tasty / tasteless", "with a good taste / with no flavour at all"],
+        ["moreish", "so pleasant that you want to eat more"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Flavours in action",
+      "text": "Notice how these adjectives behave: food *is* **bland**, but coffee *tastes* **bitter**. *Moreish* and *sickly* are especially common in speech.",
+      "examples": [
+        { "text": "I love **spicy** food, especially curries - the hotter the better! My sister prefers **mild** curries." },
+        { "text": "Those cakes are too **sugary** for me. They have a **sickly** taste." },
+        { "text": "They had some delicious **savoury** snacks at the party. They were very **moreish**." },
+        { "text": "The coffee tasted **bitter** and the fruit juice was **sour**." },
+        { "text": "The food on the plane was **bland** and **tasteless** - it was like eating cardboard!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Appearance, presentation and quality",
+      "text": "These words let you complain politely - or praise - in a restaurant, and talk about eating well in general.",
+      "examples": [
+        { "text": "This meat is **overcooked** (or **overdone**) / **undercooked** (or **underdone**)." },
+        { "text": "I'm afraid this mango is a bit **unripe**. They're not really **in season** at the moment.", "note": "unripe = not ready to eat (opposite: ripe); in season = being produced and available now" },
+        { "text": "This butter has **gone off**. I think we should throw it out.", "note": "gone off = too old to be good to eat" },
+        { "text": "I don't feel like anything **heavy**. I just want something **light**; a salad would be fine." },
+        { "text": "British cooking can be very **stodgy**.", "note": "stodgy = heavy and hard to digest" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Eating well - and badly",
+      "text": "Talking about diet needs a small set of very frequent words.",
+      "examples": [
+        { "text": "Zoe will only buy **organic** fruit and vegetables.", "note": "organic = grown without artificial chemicals" },
+        { "text": "We should try to have a **balanced diet**, without too much or too little of any particular thing." },
+        { "text": "A diet of **junk food** can cause long-term health problems.", "note": "junk food = unhealthy but easy and quick to eat" },
+        { "text": "**Processed food** in general is not good for you.", "note": "processed = treated with chemicals to preserve it or give it extra colour or taste" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Eating out",
+      "text": "At most good restaurants you have to **book a table** (or **make a reservation**) beforehand, and if you are ill you may need to **cancel the booking** (or **the reservation**). A meal in the UK is typically three courses.",
+      "examples": [
+        { "text": "First a **starter**, then a **main course**, then a **dessert**.", "note": "a starter is a light snack or appetiser" },
+        { "text": "You can often order **side dishes**, for example an extra bowl of chips.", "note": "a side dish is a smaller dish served alongside the main course" },
+        { "text": "Some restaurants have a **set menu**, a selection of dishes at a fixed price; or you can order individual dishes, which is called ordering **à la carte**." },
+        { "text": "Restaurants often have **specials** advertised on a board.", "note": "specials = dishes only available that day" },
+        { "text": "They often cater for **vegetarians**, **non-meat-eaters** and **vegans**.", "note": "a non-meat-eater does not eat meat but is not a vegetarian; a vegan uses no animal products at all, such as eggs, cheese or leather" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "On the table",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["cutlery", "knives, forks and spoons"],
+        ["napkin", "the cloth or paper square you put on your lap"],
+        ["course", "one part of a meal, e.g. the starter or the main course"],
+        ["seconds", "a second serving of something"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Eating at home",
+      "text": "A host offers food; the guest accepts. Learn these phrases as whole units - they are almost fixed.",
+      "examples": [
+        { "text": "*Host:* Right, there's more soup. Who wants **seconds**? *Guest:* Oh, yes, please. It was absolutely delicious." },
+        { "text": "*Host:* There's bread here. Just **help yourself**." },
+        { "text": "*Host:* Be sure to keep a bit of room for some **pudding**.", "note": "at home, dessert is often called pudding (uncountable), a sweet (countable) or afters (plural)" },
+        { "text": "*Host:* Can I re-fill your glass? **Say when**. *Guest:* **When!** That's fine. Thanks." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Gone off* means food is too old to eat - it has nothing to do with leaving. Say *this milk has gone off*, not ~~this milk is old~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which taste or flavour word describes each thing?",
+      "pairs": [
+        { "left": "a strong Indian curry", "right": "spicy" },
+        { "left": "a pizza with cheese and herbs", "right": "savoury" },
+        { "left": "sea water", "right": "salty" },
+        { "left": "an unripe apple", "right": "sour" },
+        { "left": "a cup of tea with five spoonfuls of sugar", "right": "sugary" },
+        { "left": "extremely strong black coffee with no sugar", "right": "bitter" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The fish you ordered has obviously been cooked for far too long. You say: This fish is ___.",
+      "hint": "(over-)",
+      "answers": ["overcooked", "overdone"],
+      "explanation": "Food cooked too long is overcooked or overdone; food cooked too little is undercooked or underdone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You ordered melon and it is very hard. You say: This melon is ___.",
+      "hint": "(the opposite of ripe)",
+      "answers": ["unripe", "not ripe"],
+      "explanation": "Unripe fruit is not yet ready to eat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This piece of chicken is still pink in the middle. It's ___.",
+      "hint": "(under-)",
+      "answers": ["undercooked", "underdone"],
+      "explanation": "Undercooked or underdone food has not been cooked enough."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That pie was so heavy that I could hardly move afterwards. It was very ___.",
+      "hint": "(hard to digest)",
+      "answers": ["stodgy"],
+      "explanation": "Stodgy food is heavy and hard to digest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to know whether the vegetables have been grown without artificial chemicals. You ask: Are these vegetables ___?",
+      "hint": "(one word)",
+      "answers": ["organic"],
+      "explanation": "Organic food is grown without artificial chemicals."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone at your table recommends a big steak, but you just want a salad. What do you say?",
+      "options": [
+        "I don't feel like anything heavy. I just want something light.",
+        "I don't feel like anything bland. I just want something sickly.",
+        "That steak has gone off. I just want something in season.",
+        "I don't feel like anything moreish. I just want something stodgy."
+      ],
+      "answer": 0,
+      "explanation": "Heavy food fills you up; light food, like a salad, does not."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The peanuts were free and I just couldn't stop eating them - they were so ___.",
+      "hint": "(so nice you want more)",
+      "answers": ["moreish"],
+      "explanation": "Moreish food has such a pleasant taste that you want to go on eating it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each restaurant word with its meaning.",
+      "pairs": [
+        { "left": "starter", "right": "a light dish before the main course" },
+        { "left": "side dish", "right": "a smaller dish served alongside the main course" },
+        { "left": "set menu", "right": "a selection of dishes at a fixed price" },
+        { "left": "specials", "right": "dishes only available on that day" },
+        { "left": "vegan", "right": "someone who uses no animal products at all" },
+        { "left": "non-meat-eater", "right": "someone who avoids meat but is not a vegetarian" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a big student restaurant - you don't need to phone beforehand, so you don't need to ___ a table.",
+      "hint": "(one word)",
+      "answers": ["book", "reserve"],
+      "explanation": "You book a table or make a reservation; if your plans change, you cancel the booking or the reservation."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each adjective a compliment about food or a complaint?",
+      "categories": ["A compliment", "A complaint"],
+      "items": [
+        { "text": "tasty", "category": 0 },
+        { "text": "moreish", "category": 0 },
+        { "text": "savoury", "category": 0 },
+        { "text": "bland", "category": 1 },
+        { "text": "tasteless", "category": 1 },
+        { "text": "sickly", "category": 1 },
+        { "text": "stodgy", "category": 1 },
+        { "text": "overdone", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If the butter has gone off, it means it has been taken off the menu.",
+      "answer": false,
+      "explanation": "Gone off means the food is too old to be good to eat: This butter has gone off - throw it out."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are the host and you want your guests to serve themselves. Put the words in order.",
+      "words": ["There's", "bread", "here.", "Just", "help", "yourselves."],
+      "answer": "There's bread here. Just help yourselves.",
+      "explanation": "*Help yourself* (or *yourselves* to more than one guest) invites people to take food without waiting."
+    }
+  ]
+}

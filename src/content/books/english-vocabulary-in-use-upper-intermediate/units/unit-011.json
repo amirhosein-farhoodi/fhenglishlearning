@@ -1,0 +1,183 @@
+{
+  "number": 11,
+  "title": "At home",
+  "subtitle": "a semi-detached house, the loft, a corkscrew",
+  "summary": "Name the different kinds of home people live in, the less obvious rooms and spaces inside them, and the everyday objects you use around the house.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of house",
+      "columns": ["Type", "What it is"],
+      "rows": [
+        ["detached house", "not joined to any other house"],
+        ["semi-detached house (semi, informal)", "joined to one other house"],
+        ["terraced house", "joined to several houses to form a row"],
+        ["bungalow", "a house with only one storey - no upstairs"],
+        ["cottage", "a small house in the country or in a village"],
+        ["villa", "a large house with big gardens, or a rented house in a holiday resort"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Flats",
+      "text": "A **flat** is what British English calls an apartment. Two useful kinds:",
+      "examples": [
+        { "text": "a **self-contained flat**", "note": "it does not share facilities with any other flat" },
+        { "text": "a **studio flat**", "note": "a small flat for one or two people, usually one large room for sleeping and living in, a bathroom and sometimes a separate kitchen" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Rooms and spaces inside the home",
+      "columns": ["Place", "What it is for"],
+      "rows": [
+        ["master/main bedroom", "the largest, most important bedroom"],
+        ["utility room", "usually just for the washing machine, freezer, etc."],
+        ["attic / loft", "space in the roof used for storing things"],
+        ["cellar", "a room below ground level with no windows, used for storing things"],
+        ["basement", "a room below ground level, with windows, for living or working in"],
+        ["studio", "a room in which a painter or photographer works"],
+        ["landing", "the flat area at the top of a staircase"]
+      ],
+      "note": "A loft can be turned into extra living space with stairs leading up to it - a loft conversion or attic conversion."
+    },
+    {
+      "type": "table",
+      "heading": "Outside and around the house",
+      "columns": ["Place", "What it is"],
+      "rows": [
+        ["shed", "a small building separate from the house, usually for garden tools"],
+        ["hall / hallway", "the open area as you come into a house"],
+        ["porch", "a covered area before an entrance door"],
+        ["terrace / patio", "a paved area between house and garden for sitting and eating"],
+        ["drive (driveway)", "a short road from the street to the house or garage, where you can park"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Everyday objects in the home",
+      "text": "Small household objects are easy to forget until you need them. Note these in particular.",
+      "examples": [
+        { "text": "a **remote (control)** for the TV, a **phone charger**, a **socket** to plug things into" },
+        { "text": "in the kitchen: a **corkscrew**, a **peeler**, a **grater**, a **chopping board**, a **table mat**" },
+        { "text": "for cleaning and tidying: a **dustpan and brush**, an **ironing board**, a **(coat) hanger**, a **toilet roll**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You **do** housework: *do the ironing*, *do the hoovering*, *do the washing-up* - never ~~make housework~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The old house had a big ___ underneath it, with no windows, where the family used to keep wine.",
+      "hint": "(one word)",
+      "answers": ["cellar"],
+      "explanation": "A cellar is a room below ground level with no windows, used for storing things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll prepare the potatoes and then you can do the cooking. Where's the ___?",
+      "hint": "(kitchen object)",
+      "answers": ["peeler", "potato peeler"],
+      "explanation": "A peeler takes the skin off vegetables and fruit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put a ___ under the coffee pot in case you mark that table. It's an antique.",
+      "hint": "(two words)",
+      "answers": ["table mat", "mat"],
+      "explanation": "A table mat protects the surface of a table from heat and marks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let's open this bottle of wine. Do you know where the ___ is?",
+      "hint": "(one word)",
+      "answers": ["corkscrew"],
+      "explanation": "A corkscrew pulls the cork out of a wine bottle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The light switch for the stairs is on the ___, just by your bedroom door.",
+      "hint": "(one word)",
+      "answers": ["landing"],
+      "explanation": "The landing is the flat area at the top of a staircase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Grandma's moved to a ___ now that she can't manage the stairs any more.",
+      "hint": "(type of house)",
+      "answers": ["bungalow"],
+      "explanation": "A bungalow has only one storey, so there are no stairs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Leave your car in the ___, just in front of the garage. It'll be safe there.",
+      "hint": "(one word)",
+      "answers": ["drive", "driveway"],
+      "explanation": "The drive is the short road from the street to the house or garage."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each object with what you use it for.",
+      "pairs": [
+        { "left": "a grater", "right": "making very small pieces of cheese" },
+        { "left": "a dustpan and brush", "right": "clearing up a broken cup from the floor" },
+        { "left": "a phone charger", "right": "a battery that is flat" },
+        { "left": "a remote control", "right": "switching off the TV from your chair" },
+        { "left": "a chopping board", "right": "cutting vegetables without marking the work surface" },
+        { "left": "a coat hanger", "right": "a visitor who wants to take off their jacket" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where would you normally look for garden tools?",
+      "options": ["in the shed", "on the landing", "in the utility room", "in the porch"],
+      "answer": 0,
+      "explanation": "A shed is a small building separate from the house, usually for storing garden tools."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where would you most likely keep old empty boxes?",
+      "options": ["in the loft", "on the patio", "in the hall", "on the drive"],
+      "answer": 0,
+      "explanation": "The loft (or attic) is the space in the roof used for storing things. A cellar or shed would also work."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each one a type of house, a place inside or outside a home, or an object?",
+      "categories": ["Type of house", "Place in or around the home", "Everyday object"],
+      "items": [
+        { "text": "bungalow", "category": 0 },
+        { "text": "terraced house", "category": 0 },
+        { "text": "cottage", "category": 0 },
+        { "text": "landing", "category": 1 },
+        { "text": "patio", "category": 1 },
+        { "text": "utility room", "category": 1 },
+        { "text": "corkscrew", "category": 2 },
+        { "text": "ironing board", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A basement has windows, but a cellar does not.",
+      "answer": true,
+      "explanation": "Both are below ground level, but a basement has windows and is used for living or working in."
+    },
+    {
+      "type": "true_false",
+      "statement": "*I hate making housework, especially making the washing-up.*",
+      "answer": false,
+      "explanation": "You do housework: I hate doing housework, especially doing the washing-up."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["You'll", "find", "the", "garden", "chairs", "in", "the", "shed", "at", "the", "bottom", "of", "the", "garden."],
+      "answer": "You'll find the garden chairs in the shed at the bottom of the garden.",
+      "explanation": "A shed is a small building separate from the house."
+    }
+  ]
+}

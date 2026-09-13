@@ -1,0 +1,218 @@
+{
+  "number": 21,
+  "title": "The visual arts",
+  "subtitle": "Cubism, evocative, subject matter",
+  "summary": "Name the great schools of art, judge a work with precise adjectives from exquisite to pedestrian, and borrow the language of painting to talk about writing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Changing tastes",
+      "text": "Throughout the centuries, people have tended to be **suspicious of** the new **art movements** of their period. At the end of the 19th century, the public were shocked by the Impressionists; later, Cubist and Surrealist works puzzled them in the same way. Nowadays those same images are **perfectly acceptable** everywhere, from posters to advertising campaigns.",
+      "examples": [
+        { "text": "The artist's work was **deemed** morally dangerous.", "note": "deemed = considered; a formal word" },
+        { "text": "Critics said the paintings **consisted of nothing of significance**." },
+        { "text": "Perhaps today's new movements in art will meet with less hostility in future." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Schools of art",
+      "columns": ["School of art", "What it does"],
+      "rows": [
+        ["Impressionism", "late 19th century; aimed to represent the effects of light on people or scenes"],
+        ["Cubism", "early 20th century; depicts people or objects as a set of geometric shapes"],
+        ["Surrealism", "early 20th century; shows unusual or impossible things happening"],
+        ["Op-art", "mid 20th century; has its origins in optical illusions"]
+      ],
+      "note": "A school of art is an art movement. An art school is the place where students go to study art - the two are not the same."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about artists and their work",
+      "text": "The **subject matter** of a work is its content - what it is about. Someone who is **visually literate** is educated with regard to art. A **dauber** is someone who paints quickly and carelessly, so calling an artist a dauber is clearly disapproving. If you are **inured to** criticism, it no longer affects you at all - you have developed a hard skin.",
+      "examples": [
+        { "text": "Finn enjoys painting but he's a **dauber**, not an artist." },
+        { "text": "The **subject matter** of the painting is a street market at dawn." },
+        { "text": "The sculptor is now **inured to** criticism." },
+        { "text": "Constant advertising has made us more **visually literate** than our grandparents." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words for commenting on art, and their opposites",
+      "columns": ["Word", "Meaning", "Opposite"],
+      "rows": [
+        ["original", "new in a special and interesting way", "predictable"],
+        ["highbrow", "intended for educated, intelligent people (often disapproving)", "lowbrow"],
+        ["impenetrable", "extremely difficult to understand", "transparent"],
+        ["sophisticated", "showing advanced skills and understanding", "primitive"],
+        ["challenging", "demanding considerable effort to be understood", "undemanding"],
+        ["dazzling", "inspiring great admiration because it is brilliant in some way", "pedestrian"],
+        ["evocative", "calling up images and memories", "uninspiring"],
+        ["thought-provoking", "making people think", "unstimulating"],
+        ["exquisite", "having rare beauty or delicacy", "clumsy"],
+        ["intriguing", "interesting because it is strange or mysterious", "dreary"],
+        ["peerless", "better than any other", "run-of-the-mill"],
+        ["tongue-in-cheek", "not intended to be taken seriously, despite appearing serious", "earnest"],
+        ["priceless", "extremely valuable", "worthless"],
+        ["skilful", "clever, masterly, done well", "poorly done"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Art and metaphor",
+      "text": "Words connected with painting are regularly used to talk about literature. A writer **paints** a character **in a certain light**; minor figures may be **shadowy** or **sketchy**; the central characters are **depicted** or **portrayed** with great sensitivity; and the whole book **illuminates** a theme.",
+      "examples": [
+        { "text": "The writer **paints** his hero **in a fascinating light**." },
+        { "text": "Minor characters are more **shadowy** or **sketchy**, but they are also **depicted** quite powerfully." },
+        { "text": "The heroine is particularly **colourful**, and we see how her character is **shaped** and **moulded** by events." },
+        { "text": "The **image** he creates to **illuminate** the evils of slavery will remain with me for ever." }
+      ],
+      "note": "To treat something in a black-and-white fashion is to present it as a simple choice between good and bad."
+    },
+    {
+      "type": "table",
+      "heading": "Word formation from the art verbs",
+      "columns": ["Verb", "Noun", "Adjective"],
+      "rows": [
+        ["paint", "painting, painter", "painted"],
+        ["sketch", "sketch", "sketchy"],
+        ["depict", "depiction", "depicted"],
+        ["portray", "portrayal, portrait", "portrayed"],
+        ["colour", "colour", "colourful, colourless"],
+        ["shape", "shape", "shapely"],
+        ["illustrate", "illustration, illustrator", "illustrative"],
+        ["illuminate", "illumination", "illuminating"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Highbrow and lowbrow are about the intended audience, not about quality - and both can sound disapproving."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each school of art with its description.",
+      "pairs": [
+        { "left": "Impressionism", "right": "late 19th century; the effects of light on people and scenes" },
+        { "left": "Cubism", "right": "early 20th century; objects as sets of geometric shapes" },
+        { "left": "Surrealism", "right": "early 20th century; unusual or impossible things happening" },
+        { "left": "Op-art", "right": "mid 20th century; based on optical illusions" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ matter of his early paintings was almost always the sea.",
+      "hint": "(= the content of a work of art)",
+      "answers": ["subject"],
+      "explanation": "Subject matter is the content of a painting or other work of art."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Constant exposure to advertising has made young people far more visually ___ than their grandparents were.",
+      "hint": "(educated with regard to art)",
+      "answers": ["literate"],
+      "explanation": "Someone visually literate is educated with regard to art and images."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Finn enjoys painting but he's a dauber, not an artist.' What does the speaker think of Finn's work?",
+      "options": [
+        "A low opinion - dauber suggests speed and lack of care.",
+        "A high opinion - dauber suggests bold use of colour.",
+        "A neutral opinion - dauber simply means a painter.",
+        "A high opinion - dauber suggests a professional."
+      ],
+      "answer": 0,
+      "explanation": "A dauber is someone who paints quickly and carelessly; the word is disapproving."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Curious as it now seems, the artist's work was deemed morally dangerous.' Where would you expect to read this?",
+      "options": ["In a formal source", "In a text message", "In a casual chat", "In a shop sign"],
+      "answer": 0,
+      "explanation": "Deem is typical of more formal speech or writing; in conversation you would say considered or thought."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a sculptor is inured to criticism, it upsets them badly.",
+      "answer": false,
+      "explanation": "Wrong - inured to means not affected by it at all; the sculptor has developed a hard skin."
+    },
+    {
+      "type": "true_false",
+      "statement": "Matilda studied at an art school, where she became interested in the Cubist school of art.",
+      "answer": true,
+      "explanation": "Correct - an art school is a place where students study art, while a school of art is an artistic movement."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I think that the artist's cartoons are usually rather ___ as they are intended to appeal to a mass audience.",
+      "options": ["lowbrow", "highbrow", "dreary", "peerless"],
+      "answer": 0,
+      "explanation": "Lowbrow work is aimed at a wide, non-specialist audience; highbrow is its opposite."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When an artist sent in an ordinary red brick to an exhibition, no one was sure whether it was ___ or intended as a serious statement.",
+      "options": ["tongue-in-cheek", "impenetrable", "run-of-the-mill", "exquisite"],
+      "answer": 0,
+      "explanation": "Something tongue-in-cheek is not meant to be taken seriously, despite appearing serious."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Although the artist's early work is very sophisticated, some of his later pieces are surprisingly ___ in style.",
+      "options": ["primitive", "thought-provoking", "original", "evocative"],
+      "answer": 0,
+      "explanation": "Primitive is the opposite of sophisticated - it lacks advanced skill and understanding."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The design on that china plate is ___ - however did they manage to paint such fine detail?",
+      "hint": "(of rare beauty or delicacy)",
+      "answers": ["exquisite"],
+      "explanation": "Exquisite means having rare beauty or delicacy; its opposite is clumsy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Although his photographs are quite ___, it is worth making the effort to understand them.",
+      "hint": "(demanding real effort)",
+      "answers": ["challenging"],
+      "explanation": "Challenging work demands considerable effort to be understood; its opposite is undemanding."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word usually carry positive associations, usually negative ones, or either?",
+      "categories": ["Usually positive", "Usually negative", "Either"],
+      "items": [
+        { "text": "dazzling", "category": 0 },
+        { "text": "peerless", "category": 0 },
+        { "text": "thought-provoking", "category": 0 },
+        { "text": "impenetrable", "category": 1 },
+        { "text": "run-of-the-mill", "category": 1 },
+        { "text": "pedestrian", "category": 1 },
+        { "text": "sophisticated", "category": 2 },
+        { "text": "tongue-in-cheek", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the noun formed from it.",
+      "pairs": [
+        { "left": "depict", "right": "depiction" },
+        { "left": "portray", "right": "portrayal" },
+        { "left": "illustrate", "right": "illustration" },
+        { "left": "illuminate", "right": "illumination" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence of literary criticism in order.",
+      "words": ["The", "writer", "paints", "his", "hero", "in", "a", "fascinating", "light"],
+      "answer": "The writer paints his hero in a fascinating light",
+      "explanation": "Painting words are regularly used as metaphors for writing."
+    }
+  ]
+}

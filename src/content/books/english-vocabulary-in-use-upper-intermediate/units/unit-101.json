@@ -1,0 +1,242 @@
+{
+  "number": 101,
+  "title": "US English",
+  "subtitle": "gas / petrol, elevator / lift",
+  "summary": "Recognise the main differences between US and British English in spelling and vocabulary, and avoid the words that mean different things on each side of the Atlantic.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "English in the USA",
+      "text": "English in the USA differs from British English. Pronunciation is the most striking difference, but there are also differences in vocabulary, spelling and even grammar. Generally, though, British and American speakers have little difficulty understanding each other.",
+      "examples": [
+        { "text": "Americans say **the fall**; British speakers say **autumn**." },
+        { "text": "Americans say **on the weekend**; British English prefers **at the weekend**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "American spelling",
+      "text": "American spelling is usually simpler. British words ending in **-our** and **-re** end in **-or** and **-er** in American English, and many verbs ending in **-ise** in British English end in **-ize**. Some individual words are simply spelt differently.",
+      "examples": [
+        { "text": "colour (BrE) - **color** (AmE); favour - **favor**" },
+        { "text": "centre (BrE) - **center** (AmE); theatre - **theater**" },
+        { "text": "realise (BrE) - **realize** (AmE); hospitalised - **hospitalized**" },
+        { "text": "jewellery (BrE) - **jewelry** (AmE)" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Travel and on the street",
+      "columns": ["American English", "British English"],
+      "rows": [
+        ["gas, gasoline", "petrol"],
+        ["truck", "lorry"],
+        ["baggage", "luggage"],
+        ["sidewalk", "pavement"],
+        ["crosswalk", "zebra crossing"],
+        ["line", "queue"],
+        ["vacation", "holiday"],
+        ["parking lot", "car park"],
+        ["trunk (of a car)", "boot"],
+        ["hood (of a car)", "bonnet"],
+        ["freeway, interstate", "motorway"],
+        ["one-way trip / round trip", "single / return"],
+        ["railway car", "railway carriage"],
+        ["subway", "underground"]
+      ],
+      "note": "Baggage is also common in British English, especially when talking about air travel."
+    },
+    {
+      "type": "table",
+      "heading": "In the home",
+      "columns": ["American English", "British English"],
+      "rows": [
+        ["garbage, trash", "rubbish"],
+        ["elevator", "lift"],
+        ["eraser", "rubber"],
+        ["apartment", "flat"],
+        ["closet", "wardrobe"],
+        ["yard", "garden"],
+        ["drapes", "curtains"],
+        ["flashlight", "torch"],
+        ["French fries", "chips"],
+        ["Scotch tape", "Sellotape"],
+        ["cookie", "biscuit"],
+        ["candy", "sweets"],
+        ["bathroom, rest room", "toilet, WC"],
+        ["diaper", "nappy"],
+        ["pantyhose", "tights"]
+      ],
+      "note": "In Canada, wash room is the usual word for a public toilet."
+    },
+    {
+      "type": "table",
+      "heading": "Same word, different meaning",
+      "columns": ["Word", "In British English", "In American English"],
+      "rows": [
+        ["vest", "an undershirt, worn under a shirt", "a waistcoat, worn over a shirt"],
+        ["pants", "underpants", "trousers"],
+        ["bill", "what you pay in a restaurant", "a banknote"],
+        ["check", "-", "what you pay in a restaurant (a bill in BrE)"],
+        ["wash up", "wash the dishes", "wash your hands"]
+      ],
+      "note": "So if an American visitor says they want to wash up, show them the bathroom; a British visitor means the kitchen."
+    },
+    {
+      "type": "compare",
+      "heading": "Counting the floors",
+      "left": {
+        "label": "British English",
+        "text": "The floor at street level is the ground floor.",
+        "examples": [
+          "ground floor - at street level",
+          "first floor - one flight up",
+          "second floor - two flights up"
+        ]
+      },
+      "right": {
+        "label": "American English",
+        "text": "The floor at street level is the first floor.",
+        "examples": [
+          "first floor (or ground floor) - at street level",
+          "second floor - one flight up",
+          "third floor - two flights up"
+        ]
+      },
+      "note": "If an American tells you the office is on the second floor, climb one flight; if a Brit says it, climb two."
+    },
+    {
+      "type": "tip",
+      "text": "Pick one variety and stay with it in your own writing. Mixing *color* with *centre* in the same text looks careless."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Would you expect the writer of each spelling to be British or American?",
+      "categories": ["American", "British"],
+      "items": [
+        { "text": "favor", "category": 0 },
+        { "text": "hospitalized", "category": 0 },
+        { "text": "a movie theater", "category": 0 },
+        { "text": "jewelry", "category": 0 },
+        { "text": "centre", "category": 1 },
+        { "text": "colour", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each American word with its British equivalent.",
+      "pairs": [
+        { "left": "closet", "right": "wardrobe" },
+        { "left": "elevator", "right": "lift" },
+        { "left": "flashlight", "right": "torch" },
+        { "left": "diaper", "right": "nappy" },
+        { "left": "drapes", "right": "curtains" },
+        { "left": "Scotch tape", "right": "Sellotape" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each American word with its British equivalent.",
+      "pairs": [
+        { "left": "truck", "right": "lorry" },
+        { "left": "sidewalk", "right": "pavement" },
+        { "left": "parking lot", "right": "car park" },
+        { "left": "crosswalk", "right": "zebra crossing" },
+        { "left": "subway", "right": "underground" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Translate into British English: *Pass me the cookies.* - Pass me the ___.",
+      "hint": "(plural)",
+      "answers": ["biscuits"],
+      "explanation": "American cookie = British biscuit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Translate into British English: *We've run out of gas.* - We've run out of ___.",
+      "hint": "(one word)",
+      "answers": ["petrol"],
+      "explanation": "American gas or gasoline = British petrol."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Translate into British English: *Our bags are in the trunk.* - Our bags are in the ___.",
+      "hint": "(one word)",
+      "answers": ["boot"],
+      "explanation": "The trunk of a car is the boot in British English."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Translate into British English: *We've been working in the yard.* - We've been working in the ___.",
+      "hint": "(one word)",
+      "answers": ["garden"],
+      "explanation": "An American yard is a British garden."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Translate into British English: *I hate waiting in line.* - I hate waiting in ___.",
+      "hint": "(a queue / queues)",
+      "answers": ["queues", "a queue"],
+      "explanation": "Americans wait in line; the British wait in a queue."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Translate into British English: *One-way or round trip?*",
+      "options": ["Single or return?", "One-way or two-way?", "Outward or homeward?", "Solo or group?"],
+      "answer": 0,
+      "explanation": "American one-way trip / round trip = British single / return."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An American visitor says they want to wash up. Where do you take them?",
+      "options": ["the bathroom", "the kitchen", "the garden", "the laundry"],
+      "answer": 0,
+      "explanation": "In American English wash up means wash your hands; in British English it means wash the dishes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An American tells you the office is on the second floor. How many flights of stairs must you climb?",
+      "options": ["one", "two", "three", "none"],
+      "answer": 0,
+      "explanation": "In the USA the street-level floor is the first floor, so the second floor is one flight up."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If an American asks for a *bill*, where is he or she more likely to be?",
+      "options": ["in a bank", "in a cafe", "at a bus stop", "in a car park"],
+      "answer": 0,
+      "explanation": "In American English a bill is a banknote; the restaurant bill is a check."
+    },
+    {
+      "type": "true_false",
+      "statement": "A British man wears a vest under his shirt; an American man wears a vest over his shirt.",
+      "answer": true,
+      "explanation": "Correct - a British vest is an undershirt, an American vest is a waistcoat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've written the wrong number here. Can I borrow your ___? I'll correct it. (British English)",
+      "hint": "(AmE: eraser)",
+      "answers": ["rubber"],
+      "explanation": "American eraser = British rubber."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "All that food is no good any more - we'd better throw it in the ___. (American English)",
+      "hint": "(BrE: rubbish)",
+      "answers": ["trash", "garbage"],
+      "explanation": "American trash or garbage = British rubbish."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the American sentence in order. (British: We can take the lift up to the fifth floor.)",
+      "words": ["We", "can", "take", "the", "elevator", "up to", "the fifth floor."],
+      "answer": "We can take the elevator up to the fifth floor.",
+      "explanation": "American elevator = British lift."
+    }
+  ]
+}

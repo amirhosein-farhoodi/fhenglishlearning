@@ -1,0 +1,246 @@
+{
+  "number": 79,
+  "title": "Academic writing: making sense",
+  "subtitle": "advocate, infer, empirical, denote, notwithstanding",
+  "summary": "Present arguments and comment on research the way academic writing does - advocate, deduce, infer, complement - and swap everyday verbs for their academic equivalents.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Presenting arguments and commenting on others' work",
+      "columns": ["Verb", "Meaning", "Example"],
+      "rows": [
+        ["advocate", "argue in favour of something", "He advocated capital punishment."],
+        ["deduce", "reach a conclusion by thinking carefully about the known facts", "Look at these sentences and see if you can deduce how the imperfect tense is used."],
+        ["infer", "reach a conclusion indirectly", "From contemporary accounts of his research, we can infer that results were slower to come than he had anticipated."],
+        ["complement", "combine well with another piece of work so each becomes more effective", "Elswick's (2016) research complements that of Johnson (2012)."],
+        ["overlap with", "partially cover the same material", "Their research, fortunately, does not overlap."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives for describing academic work",
+      "columns": ["Adjective", "Meaning", "Typically describes"],
+      "rows": [
+        ["empirical", "based on what is observed rather than on theory", "research based on a survey of the population"],
+        ["ambiguous", "open to different interpretations", "a poem which can be understood in two quite different ways"],
+        ["coherent", "logically structured", "an argument which is well-expressed and easy to follow"],
+        ["comprehensive", "covering all that is relevant", "a textbook which gives a broad overview of an entire discipline"],
+        ["authoritative", "thorough and expert", "a textbook written by the most highly regarded expert in the field"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about figures",
+      "text": "Figures described as **arbitrary** are based on chance or personal choice rather than on a system or supporting data. Figures that **deviate from** the norm are different from what is typical, and statistics that **distort** the picture give a false impression.",
+      "examples": [
+        { "text": "The sociologists chose their subjects in an **arbitrary** fashion, not a balanced one." },
+        { "text": "Ulla's mark **deviated** noticeably **from** the average of 68%.", "note": "= it was much higher or much lower" },
+        { "text": "These statistics **distort** the picture badly.", "note": "= present the facts in a misleading fashion" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about processes and frequency",
+      "text": "The **incidence** of something such as a disease is how often it occurs. Something **predominant** is the largest in number. Things that happen **in sequence** happen in a particular order, and something **widespread** happens in many places or affects many people.",
+      "examples": [
+        { "text": "The **incidence** of asthma in children is increasing.", "note": "= the number of asthmatic children is going up" },
+        { "text": "Brown eyes are **predominant** in this population." },
+        { "text": "The stages of the process occur **in sequence**." },
+        { "text": "There were **widespread** outbreaks of the illness, and **widespread** alarm." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Academic verbs and their everyday equivalents",
+      "columns": ["Academic verb", "Everyday verb"],
+      "rows": [
+        ["append", "add (at the end)"],
+        ["conceive", "think up"],
+        ["contradict", "go against"],
+        ["demonstrate / indicate", "show"],
+        ["denote", "be a sign of, stand for"],
+        ["negate", "make useless, wipe out"],
+        ["perceive", "see"],
+        ["reflect upon", "think about"],
+        ["reside", "lie, live"],
+        ["trigger", "cause"],
+        ["utilise", "use"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Academic expressions and their everyday equivalents",
+      "columns": ["Academic expression", "Everyday expression"],
+      "rows": [
+        ["an instance of something", "an example of something"],
+        ["the converse", "the opposite"],
+        ["crucial", "very important"],
+        ["notwithstanding", "despite this"],
+        ["somewhat", "rather"],
+        ["thereby", "in this way"],
+        ["whereby", "by which (method)"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You deduce from the facts in front of you; you infer indirectly, from what is only implied."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The French and Swedish teams work in similar areas, but their research, fortunately, does not ___ .",
+      "hint": "(partially cover the same material)",
+      "answers": ["overlap"],
+      "explanation": "If work overlaps with other work, it partially covers the same material."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The French data ___ the Swedish data very well - each set makes the other more effective.",
+      "hint": "(third person singular)",
+      "answers": ["complements", "complement"],
+      "explanation": "If one piece of work complements another, they combine well and each becomes more effective."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Look at the complete set of graphs and see if you can ___ the rules governing the data from them.",
+      "hint": "(work it out from the known facts)",
+      "answers": ["deduce"],
+      "explanation": "To deduce something is to reach a conclusion by thinking carefully about the known facts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This article ___ a different approach to the problem.",
+      "hint": "(third person singular: argues in favour of)",
+      "answers": ["advocates"],
+      "explanation": "To advocate something is to argue in favour of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A great deal can be ___ about the artist's state of mind from his later works.",
+      "hint": "(past participle: concluded indirectly)",
+      "answers": ["inferred"],
+      "explanation": "To infer something is to reach a conclusion indirectly."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with the kind of work it best describes.",
+      "pairs": [
+        { "left": "authoritative", "right": "a textbook written by the most highly regarded expert in the field" },
+        { "left": "empirical", "right": "research based on a survey of the population" },
+        { "left": "ambiguous", "right": "a poem which can be understood in two quite different ways" },
+        { "left": "coherent", "right": "an argument which is well-expressed and easy to follow" },
+        { "left": "comprehensive", "right": "a textbook which gives a broad overview of an entire discipline" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "If the incidence of asthma in children is increasing, what is going up?",
+      "options": [
+        "the number of asthmatic children",
+        "the seriousness of asthma attacks",
+        "the cost of asthma treatment",
+        "the length of each attack"
+      ],
+      "answer": 0,
+      "explanation": "The incidence of something is how often it occurs."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If facts are distorted, how are they presented?",
+      "options": ["in a misleading fashion", "accurately", "clearly", "in sequence"],
+      "answer": 0,
+      "explanation": "Statistics that distort the picture give a false impression."
+    },
+    {
+      "type": "true_false",
+      "statement": "If sociologists choose their research subjects in an arbitrary fashion, they take care to get an appropriate balance of backgrounds.",
+      "answer": false,
+      "explanation": "No - arbitrary means based on chance or personal choice rather than on a system, so the selection is random."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: The information ___ in archives that must not be opened until 2050.",
+      "hint": "(academic verb for 'lies')",
+      "answers": ["resides"],
+      "explanation": "Reside is the academic equivalent of lie or live."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: He ___ his theory while still a young man.",
+      "hint": "(academic verb for 'thought up')",
+      "answers": ["conceived"],
+      "explanation": "To conceive an idea is the academic way of saying to think it up."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: Each of the symbols in the phonetic alphabet ___ a sound.",
+      "hint": "(academic verb for 'stands for')",
+      "answers": ["denotes"],
+      "explanation": "Denote means be a sign of, or stand for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: This study contradicted what was previously held to be true, and so ___ a great deal of discussion amongst specialists.",
+      "hint": "(academic verb for 'started/caused')",
+      "answers": ["triggered"],
+      "explanation": "Trigger is the academic equivalent of cause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: Details of the experiment have been ___ to the report.",
+      "hint": "(academic verb for 'added at the end')",
+      "answers": ["appended"],
+      "explanation": "To append something is to add it at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: Jelowski's book ___ the rise and fall of great Empires over two millennia.",
+      "hint": "(two words: academic verb for 'thinks about')",
+      "answers": ["reflects upon", "reflects on"],
+      "explanation": "To reflect upon something is the academic way of saying to think about it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it academic: She perceives the Roman Empire as an ___ of a pattern that has repeated itself elsewhere.",
+      "hint": "(academic word for 'example')",
+      "answers": ["instance"],
+      "explanation": "An instance of something is the academic equivalent of an example of something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Academic rewrite: 'It would appear to show the opposite of what he claimed' becomes ...",
+      "options": [
+        "It would appear to demonstrate the converse of what he claimed.",
+        "It would appear to append the converse of what he claimed.",
+        "It would appear to negate the instance of what he claimed.",
+        "It would appear to reside somewhat of what he claimed."
+      ],
+      "answer": 0,
+      "explanation": "Demonstrate/indicate = show; the converse = the opposite."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word in each pair is the academic one?",
+      "categories": ["Academic", "Everyday"],
+      "items": [
+        { "text": "utilise", "category": 0 },
+        { "text": "notwithstanding", "category": 0 },
+        { "text": "thereby", "category": 0 },
+        { "text": "negate", "category": 0 },
+        { "text": "use", "category": 1 },
+        { "text": "despite this", "category": 1 },
+        { "text": "in this way", "category": 1 },
+        { "text": "wipe out", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this academic sentence in order.",
+      "words": ["The", "study", "was", "conceived", "in", "order", "to", "validate", "a", "new", "method", "whereby", "genetic", "information", "could", "be", "utilised"],
+      "answer": "The study was conceived in order to validate a new method whereby genetic information could be utilised",
+      "explanation": "Whereby means by which method; conceive and utilise are the academic forms of think up and use."
+    }
+  ]
+}

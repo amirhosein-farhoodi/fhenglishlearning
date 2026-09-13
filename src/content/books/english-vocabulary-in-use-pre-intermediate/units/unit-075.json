@@ -1,0 +1,192 @@
+{
+  "number": 75,
+  "title": "Fixed phrases",
+  "subtitle": "out of the blue, so far, if I were you",
+  "summary": "Learn groups of words that go together as one item - ring a bell, get rid of, now and again, to be honest.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are fixed phrases?",
+      "text": "Some groups of words have to be learnt as complete phrases, because their meaning is different from the words on their own. Many of them are called **idioms**.",
+      "examples": [
+        { "text": "They arrived **out of the blue**.", "note": "I didn't know they were coming; it was unexpected." },
+        { "text": "Does the name Merchant **ring a bell**?", "note": "= sound familiar" },
+        { "text": "You'll have to **make up your mind** soon.", "note": "= make a decision" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Easier fixed phrases",
+      "text": "Other fixed phrases are easier to understand, but your own language may express the same idea in a different way.",
+      "examples": [
+        { "text": "I think we'll have to **get rid of** some of this furniture.", "note": "= sell it, throw it away, give it away" },
+        { "text": "I can't talk to you now; I'm just **about to** leave.", "note": "= I am going to leave very soon" },
+        { "text": "Natalie **burst into tears**. She was very upset.", "note": "= suddenly started crying" },
+        { "text": "Everyone was there **apart from** Yasmine.", "note": "= not including Yasmine; also except for" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Time phrases",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["in four days' time", "four days from now", "He's leaving in four days' time."],
+        ["the week before last", "the week before the previous one", "I got here the week before last."],
+        ["so far", "up until now", "The course is fine so far."],
+        ["at once", "now, immediately (also right away, straight away)", "She was able to come at once."],
+        ["night after night", "every night (also day after day)", "He comes home late night after night."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pairs of words",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["now and again", "occasionally (also now and then)"],
+        ["one or two", "a few"],
+        ["peace and quiet", "a calm situation without noise"],
+        ["up and down", "first in one direction, then the other"],
+        ["once or twice", "a few times"],
+        ["sooner or later", "I don't know when, but it will happen"]
+      ],
+      "note": "A number of fixed phrases are two words joined by and, and sometimes or.",
+      "heading2": ""
+    },
+    {
+      "type": "explain",
+      "heading": "Introducing advice, opinions and examples",
+      "text": "Many fixed phrases introduce what you are going to say next.",
+      "examples": [
+        { "text": "**If I were you**, I'd accept the job they offered you.", "note": "= in your situation" },
+        { "text": "**In general** the summers are quite warm here.", "note": "= usually, in most situations; also on the whole" },
+        { "text": "There were lots of questions. **For instance**, how much will it cost?", "note": "= for example" },
+        { "text": "I'm sure you'll have a great holiday. **By the way**, what time does the train leave?", "note": "used to introduce a new subject" },
+        { "text": "**To be honest**, I didn't like her boyfriend very much.", "note": "used to say what you really think" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Six more useful idioms",
+      "columns": ["Idiom", "Meaning"],
+      "rows": [
+        ["feel at home", "feel comfortable and relaxed"],
+        ["cost a fortune", "cost a lot of money"],
+        ["keep an eye on something", "watch it and make sure it is safe"],
+        ["on the tip of my tongue", "I know it but I can't remember it right now"],
+        ["a night on the town", "a night out"],
+        ["could do with something", "need it"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Write a fixed phrase in your notebook as one whole item, with an example sentence - never word by word."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She's been working on that essay night ___ night.",
+      "hint": "(every night)",
+      "answers": ["after"],
+      "explanation": "Night after night means every night; we also say day after day."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My parents always turn up at my flat out of the ___.",
+      "hint": "(a colour)",
+      "answers": ["blue"],
+      "explanation": "Out of the blue means completely unexpectedly."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each fixed phrase with its meaning.",
+      "pairs": [
+        { "left": "ring a bell", "right": "sound familiar" },
+        { "left": "make up your mind", "right": "make a decision" },
+        { "left": "get rid of", "right": "remove or throw away" },
+        { "left": "burst into tears", "right": "suddenly start crying" },
+        { "left": "apart from", "right": "not including" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like to get ___ of these CDs because I don't listen to them any more.",
+      "hint": "(three letters)",
+      "answers": ["rid"],
+      "explanation": "Get rid of something means remove it, sell it or throw it away."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Some people enjoyed the book, but ___, I thought it was boring.",
+      "options": ["to be honest", "by the way", "for instance", "so far"],
+      "answer": 0,
+      "explanation": "To be honest introduces what you really think."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In ___, people are much happier when they have jobs that they enjoy.",
+      "hint": "(usually, in most situations)",
+      "answers": ["general"],
+      "explanation": "In general means usually or on the whole."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know what to do at the moment, but I'll have to make up my ___ soon.",
+      "hint": "(one word)",
+      "answers": ["mind"],
+      "explanation": "Make up your mind means make a decision."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the missing word in these pairs and or or?",
+      "categories": ["and", "or"],
+      "items": [
+        { "text": "peace ... quiet", "category": 0 },
+        { "text": "up ... down", "category": 0 },
+        { "text": "now ... again", "category": 0 },
+        { "text": "sooner ... later", "category": 1 },
+        { "text": "one ... two", "category": 1 },
+        { "text": "once ... twice", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* When are you going back? *B:* In two weeks' ___.",
+      "hint": "(one word)",
+      "answers": ["time"],
+      "explanation": "In two weeks' time means two weeks from now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I spoke to Chris Myler. Do you know him? *B:* No, the name doesn't ring ___.",
+      "hint": "(two words)",
+      "answers": ["a bell"],
+      "explanation": "If a name rings a bell, it sounds familiar."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you say 'The course is fine so far', you mean it has been fine up until now.",
+      "answer": true,
+      "explanation": "Correct. So far means up until now."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match these idioms with their meanings.",
+      "pairs": [
+        { "left": "cost a fortune", "right": "cost a lot of money" },
+        { "left": "keep an eye on", "right": "watch and keep safe" },
+        { "left": "on the tip of my tongue", "right": "I know it but can't remember it now" },
+        { "left": "feel at home", "right": "feel comfortable and relaxed" },
+        { "left": "could do with", "right": "need" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to give your friend some advice.",
+      "words": ["If", "I", "were", "you,", "I'd", "accept", "the", "job", "they", "offered", "you."],
+      "answer": "If I were you, I'd accept the job they offered you.",
+      "explanation": "If I were you introduces advice; it means 'in your situation'."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "number": 83,
+  "title": "Get: uses, phrases and phrasal verbs",
+  "subtitle": "get a ticket, get dark, get in touch",
+  "summary": "Understand the many meanings of get and use the most common phrases and phrasal verbs built from it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The main uses of get",
+      "columns": ["Meaning", "Examples"],
+      "rows": [
+        ["obtain", "I got a ticket from my brother. I need to get some help."],
+        ["receive", "I got a new phone for my birthday. Did you get my email?"],
+        ["buy", "Where did you get that watch? I went to get a magazine."],
+        ["arrive", "What time did you get here? I'll phone when I get home."],
+        ["become", "It gets dark very early in winter. My hands are getting cold."],
+        ["fetch", "Could you get my glasses from the kitchen for me?"],
+        ["answer the door or phone", "*A:* Is that the door? *B:* Yes, I'll get it."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get + past participle",
+      "text": "We use **get** + past participle when we do a task, or when we arrange for someone else to do it for us.",
+      "examples": [
+        { "text": "I need to **get** my hair **cut**.", "note": "= the hairdresser cuts it for me" },
+        { "text": "I **got** my watch **repaired** today." },
+        { "text": "I'll never **get** this essay **finished**; it's too difficult." },
+        { "text": "The window is broken. We need to **get** it **repaired**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common phrases with get",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["get in touch with", "make contact by email, phone or letter", "You can get in touch with me via email."],
+        ["get to sleep", "start sleeping", "A bedtime story helps children get to sleep."],
+        ["get together", "meet and spend time together", "The salsa classes are a chance for us to get together."],
+        ["get something wrong", "say or write something that is not correct", "I'm sorry I got the number wrong."],
+        ["get worse / get better", "become more / less unpleasant", "My cold is getting worse."],
+        ["get rid of", "throw away, give away or sell", "I'd like to get rid of my old CDs."],
+        ["get to know", "meet and become friends with", "I got to know lots of Americans in San Francisco."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phrasal verbs with get",
+      "text": "Several very common phrasal verbs use **get**. Note that **get in** has two different meanings.",
+      "examples": [
+        { "text": "He stopped the car and I **got out**.", "note": "= left the car; also leave a building" },
+        { "text": "I gave her £25, but I'll **get** it **back** tomorrow.", "note": "= have it returned to me" },
+        { "text": "The door was locked so we couldn't **get in**.", "note": "= enter a place, especially when it is difficult" },
+        { "text": "Our train should **get in** around midnight.", "note": "= arrive" },
+        { "text": "What time did you **get up** this morning?", "note": "= get out of bed" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "getting + adjective",
+      "text": "**Get** + adjective means become. It is very common when we talk about the weather, the time and how we feel.",
+      "examples": [
+        { "text": "It's **getting cold** in here. I'll turn on the heating." },
+        { "text": "I'm **getting hungry**. Let's have something to eat." },
+        { "text": "It's **getting late**. I think I'll go to bed." },
+        { "text": "My English isn't **getting worse** - it's much better now." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Get is informal and very common in spoken English. In formal writing, use receive, obtain, arrive or become instead."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "What does get mean in each sentence?",
+      "categories": ["get = obtain / receive / buy", "get = arrive", "get = become"],
+      "items": [
+        { "text": "I got a new phone for my birthday.", "category": 0 },
+        { "text": "Where did you get that watch?", "category": 0 },
+        { "text": "I need to get some help.", "category": 0 },
+        { "text": "What time did you get here last night?", "category": 1 },
+        { "text": "I'll phone when I get home.", "category": 1 },
+        { "text": "It gets dark very early in winter.", "category": 2 },
+        { "text": "My hands are getting cold.", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with get to its meaning.",
+      "pairs": [
+        { "left": "get in touch with someone", "right": "contact them" },
+        { "left": "get to sleep", "right": "start sleeping" },
+        { "left": "get together", "right": "meet and spend time together" },
+        { "left": "get rid of something", "right": "throw it away or give it away" },
+        { "left": "get to know someone", "right": "meet them and become friends" },
+        { "left": "get something wrong", "right": "say or write something that is not correct" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The phone's ringing. Could you get it for me? Here, get means:",
+      "options": ["answer it", "buy it", "fetch it", "throw it away"],
+      "answer": 0,
+      "explanation": "We use get for answering the door or the phone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I couldn't get a room; all the hotels were full. Here, get means:",
+      "options": ["obtain", "arrive", "become", "answer"],
+      "answer": 0,
+      "explanation": "Get = obtain or find."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's ___ in here. *B:* Yes, it is. I'll turn on the heating.",
+      "hint": "(getting + adjective)",
+      "answers": ["getting cold"],
+      "explanation": "Get + adjective = become."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm ___. *B:* Me too. Let's have something to eat.",
+      "hint": "(getting + adjective)",
+      "answers": ["getting hungry"],
+      "explanation": "Get + adjective = become."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's ___. *B:* Yes, it is. I'll put the lights on.",
+      "hint": "(getting + adjective)",
+      "answers": ["getting dark"],
+      "explanation": "It gets dark early in winter."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* My English is ___. *B:* No, it isn't - it's much better now.",
+      "hint": "(getting + adjective)",
+      "answers": ["getting worse"],
+      "explanation": "Get worse = become more unpleasant. The opposite is get better."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We haven't seen each other for ages. We must ___ and have a meal.",
+      "hint": "(two words)",
+      "answers": ["get together"],
+      "explanation": "Get together = meet and spend time together."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like to ___ these old magazines.",
+      "hint": "(= throw them away: three words)",
+      "answers": ["get rid of"],
+      "explanation": "Get rid of something = throw it away, give it away or sell it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The doors were locked; we couldn't ___.",
+      "hint": "(two words = leave)",
+      "answers": ["get out"],
+      "explanation": "Get out = leave a car or a building."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was awake for hours last night. I couldn't ___.",
+      "hint": "(three words)",
+      "answers": ["get to sleep"],
+      "explanation": "Get to sleep = start sleeping."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your hair is getting long. Put the sentence in order.",
+      "words": ["I", "need", "to", "get", "it", "cut."],
+      "answer": "I need to get it cut.",
+      "explanation": "Get + object + past participle = arrange for someone to do it for you."
+    }
+  ]
+}

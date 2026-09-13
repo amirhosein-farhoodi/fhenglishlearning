@@ -1,0 +1,190 @@
+{
+  "number": 19,
+  "title": "Art and literature",
+  "subtitle": "the arts, a still life, a bestseller with a good plot",
+  "summary": "Talk about the branches of the arts, name types of painting and artist, and review a novel like a critic.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The branches of the arts",
+      "columns": ["Branch", "What it includes"],
+      "rows": [
+        ["**literature**", "novels, short stories, biographies, drama, poetry"],
+        ["the **performing arts**", "theatre, dance, cinema, ballet, opera, concerts (classical, rock, country and western)"],
+        ["**fine art(s)**", "painting, sculpture, architecture, ceramics (making pots, bowls and so on)"]
+      ],
+      "note": "**The arts** (plural) covers all of these. **Art** (singular, uncountable) usually means fine art."
+    },
+    {
+      "type": "explain",
+      "heading": "art, the arts, artistic",
+      "text": "**Art** can also mean creative ability or technique. A **work of art** (plural **works of art**) is an object made by a skilled artist - a painting, a drawing or a statue. **Arts and crafts** are objects such as decorations, jewellery and furniture made by hand.",
+      "examples": [
+        { "text": "Have you read the **arts** page in the paper today?", "note": "the part of the paper dealing with books, films, music, galleries" },
+        { "text": "She's a great **art** lover.", "note": "= she loves painting and sculpture" },
+        { "text": "Shakespeare was skilled in **the art of** poetry.", "note": "= creative ability" },
+        { "text": "Ask Sara to help you decorate your room - she's very **artistic**.", "note": "= shows skill and imagination in creating things" },
+        { "text": "I saw some interesting abstract **works of art** at the City Gallery.", "wrong": "work of arts" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The artist, the action and the art form",
+      "columns": ["The person", "What they do", "The art form"],
+      "rows": [
+        ["a **sculptor**", "creates a **statue**", "**sculpture**"],
+        ["a **potter**", "throws a **pot**", "**pottery**"],
+        ["an **architect**", "designs a **building**", "**architecture**"],
+        ["a **novelist**", "writes a **novel**", "**literature**"],
+        ["a **painter**", "paints a **picture**", "**painting**"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Types of painting",
+      "columns": ["Type", "What it shows"],
+      "rows": [
+        ["a **portrait**", "a painting of a person"],
+        ["a **landscape**", "a painting of a scene in the countryside"],
+        ["a **still life**", "a painting of objects that do not move, usually fruit or flowers"],
+        ["an **abstract** painting", "shapes and colours rather than images of real people or things"],
+        ["an **original**", "the painting the artist made, not a copy"],
+        ["a **reproduction**", "a copy of a famous painting, cheap enough to hang at home"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Writing and publishing",
+      "text": "Lisa O'Donnell is a popular **novelist**. She has written a **series** of romantic novels with a historical **setting**. They have all been **bestsellers**, although the **critics** complain that her **plots** are predictable and her **characters** are not very realistic.",
+      "examples": [
+        { "text": "A **novel** is typically at least 150 pages long; anything shorter is a **short story**." },
+        { "text": "Her cousin is a more **literary** writer and gets better **reviews**.", "note": "literary = serious rather than popular" },
+        { "text": "Both novels will be ready for **publication** later this year." },
+        { "text": "They will also be available to download as **ebooks**." },
+        { "text": "The author read a short **extract** from the first chapter.", "note": "an extract is a part chosen for an article or for discussion" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about a book",
+      "text": "The **plot** is the story; the **characters** are the people in it; the **setting** is the background it takes place in; the **opening passage** is the first short piece of text.",
+      "examples": [
+        { "text": "The novel has a very interesting **plot** with some unexpected twists in it." },
+        { "text": "You know from the first page that the two main **characters** are going to fall in love." },
+        { "text": "I prefer books with a modern **setting** rather than ones about some unfamiliar period." },
+        { "text": "Max hopes his first novel will become a **bestseller**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Keep the pairs straight: *sculptor* makes *sculpture*, *potter* makes *pottery*, *architect* makes *architecture*. The person ends in *-or*, *-er* or *-ect*; the art form does not."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which branch of the arts is each person talking about?",
+      "pairs": [
+        { "left": "'He's created some beautiful vases, but I'm not so keen on his other pieces.'", "right": "pottery" },
+        { "left": "'It doesn't have to rhyme to be good.'", "right": "poetry" },
+        { "left": "'Oils to me don't have the delicacy of watercolours.'", "right": "painting" },
+        { "left": "'Her design for the new city hall won an award.'", "right": "architecture" },
+        { "left": "'The first chapter was boring but it got better later.'", "right": "literature" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "What type of painting is each of these?",
+      "pairs": [
+        { "left": "a painting of the artist's mother", "right": "a portrait" },
+        { "left": "a bowl of fruit and some flowers on a table", "right": "a still life" },
+        { "left": "coloured squares and lines, with nothing you can recognise", "right": "an abstract painting" },
+        { "left": "green hills, a river and a distant farm", "right": "a landscape" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone who makes statues is a ___.",
+      "options": ["sculptor", "sculpture", "sculpting", "sculptural"],
+      "answer": 0,
+      "explanation": "The person is a sculptor; sculpture is the art form."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The Dutch artist Rembrandt was a master of ___ of portrait painting.",
+      "options": ["the art", "art", "the arts", "arts"],
+      "answer": 0,
+      "explanation": "The art of + noun means the creative ability or technique of doing something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "On Saturdays there's a market in the city square where they sell all sorts of ___.",
+      "options": ["arts and crafts", "art and craft", "arts and craft", "art and crafts"],
+      "answer": 0,
+      "explanation": "Arts and crafts is a fixed phrase: both words are plural."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word the person or the art form?",
+      "categories": ["The person", "The art form"],
+      "items": [
+        { "text": "sculptor", "category": 0 },
+        { "text": "sculpture", "category": 1 },
+        { "text": "potter", "category": 0 },
+        { "text": "pottery", "category": 1 },
+        { "text": "architect", "category": 0 },
+        { "text": "architecture", "category": 1 },
+        { "text": "novelist", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ have generally been very positive about Kelly's latest novel.",
+      "hint": "(one word, plural - people who give their opinion of books)",
+      "answers": ["critics"],
+      "explanation": "Critics review books, films and music for a living. What they write are reviews."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you like this picture? It's only a ___. I could never afford an original.",
+      "hint": "(one word)",
+      "answers": ["reproduction", "copy"],
+      "explanation": "A reproduction is a copy; the original is the painting the artist actually made."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The author began his talk by reading a short ___ from his latest book.",
+      "hint": "(one word)",
+      "answers": ["extract", "passage"],
+      "explanation": "An extract is a part of a book chosen to be read out or discussed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I usually prefer to read books with a modern ___ rather than ones about some unfamiliar period.",
+      "hint": "(one word)",
+      "answers": ["setting"],
+      "explanation": "The setting is the background - the time and place - of a story."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Max is, of course, hoping that his first novel will become a ___.",
+      "hint": "(one word - a book that sells in huge numbers)",
+      "answers": ["bestseller", "best-seller"],
+      "explanation": "A bestseller is a very popular book that sells in large numbers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The novel has a very interesting ___ with some unexpected twists in it.",
+      "hint": "(one word - the story)",
+      "answers": ["plot"],
+      "explanation": "The plot is the story; the characters are the people in it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Maria's first novel is due for publication this summer, and it will also be available as an ebook.",
+      "answer": true,
+      "explanation": "Correct. Publication is making a book available in printed form; an ebook is the electronic version."
+    }
+  ]
+}

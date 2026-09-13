@@ -1,0 +1,209 @@
+{
+  "number": 89,
+  "title": "Expressions with do and make",
+  "subtitle": "do the housework, make a profit, do away with, make up for",
+  "summary": "Use the phrasal verbs and collocations built on do and make, and know which of the two verbs each expression takes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Phrasal verbs with do and make",
+      "columns": ["Phrasal verb", "Meaning"],
+      "rows": [
+        ["**do without**", "manage without something"],
+        ["**do away with**", "abolish, get rid of"],
+        ["**make for**", "move in the direction of; lead to"],
+        ["**make of**", "think about, have an opinion of"],
+        ["**make off**", "leave hurriedly"],
+        ["**make up for**", "compensate for"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The phrasal verbs in use",
+      "text": "Notice that **make of** is almost always used in a question (*What do you make of ... ?*), and that **make off** often comes with **with** when someone leaves taking something that is not theirs.",
+      "examples": [
+        { "text": "We'll have to **do without** a holiday this year as money is so short." },
+        { "text": "It should be our ambition to **do away with** poverty in the world." },
+        { "text": "Let's **make for** the city centre and look for a restaurant there." },
+        { "text": "What do you **make of** the new software?", "note": "= what is your opinion of it?" },
+        { "text": "He **made off** as soon as he heard their car turn into the drive." },
+        { "text": "The superb food at the hotel **made up for** the uncomfortable rooms." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "One phrasal verb, several meanings",
+      "columns": ["Phrasal verb", "Meanings"],
+      "rows": [
+        ["**do up**", "fasten; renovate; tie into a bundle or wrap"],
+        ["**make out**", "claim or pretend; manage to see; understand"],
+        ["**make up**", "compose or invent; constitute or form; put cosmetics on; prepare by mixing ingredients; make something more numerous or complete"]
+      ],
+      "note": "With the meaning 'understand', make out is normally used with can or could and a negative: I can't make him out."
+    },
+    {
+      "type": "explain",
+      "heading": "Those meanings in sentences",
+      "text": "The context tells you which meaning is intended. Compare these examples of the same three phrasal verbs.",
+      "examples": [
+        { "text": "Your shoelaces are untied. **Do** them **up** or you'll trip over.", "note": "= fasten" },
+        { "text": "We're planning to **do up** our bathroom at the weekend.", "note": "= renovate" },
+        { "text": "Can you **make out** the little white house on the mountain side?", "note": "= manage to see" },
+        { "text": "He **made out** that he had never loved anyone else.", "note": "= claimed, and it may well not be true" },
+        { "text": "A human being is **made up of** many, often conflicting, desires.", "note": "= consists of" },
+        { "text": "Take this prescription to the chemist and she'll **make** it **up** for you.", "note": "= prepare it by mixing ingredients" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Which verb: do or make?",
+      "left": {
+        "label": "do = activity, work, duty",
+        "text": "Use **do** for jobs and activities, especially ones that repeat.",
+        "examples": [
+          "I have to **do my homework** before I go out.",
+          "Someone has to **do the housework**.",
+          "Her company **does a lot of business** in East Asia.",
+          "I go to the gym, so I **do** plenty of **exercise**.",
+          "It doesn't matter if you pass, as long as you **do your best**."
+        ]
+      },
+      "right": {
+        "label": "make = an end product",
+        "text": "Use **make** when something new comes out of it: tea, a cake, a noise, a decision, a profit.",
+        "examples": [
+          "Shall I **make a cup of tea**?",
+          "Companies that once **made a huge profit** are now going bankrupt.",
+          "We need to **make a decision** today.",
+          "I try not to **make too many mistakes**.",
+          "Dressing smartly helps you to **make a good impression**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "More collocations to learn as whole phrases",
+      "columns": ["do", "make"],
+      "rows": [
+        ["do the washing-up", "make arrangements"],
+        ["do the shopping", "make an agreement"],
+        ["do the cooking", "make a suggestion"],
+        ["do some gardening", "make an attempt"],
+        ["do business with someone", "make a phone call"],
+        ["do your best", "make an effort / an excuse"],
+        ["do exercise", "make allowances for someone"],
+        ["do the housework", "make fun of someone"]
+      ],
+      "note": "Make allowances for someone = consider their situation and not judge them harshly. Make a fuss of someone = give them a lot of attention and treat them well."
+    },
+    {
+      "type": "tip",
+      "text": "Remember the sentence that contains both: *When I do my homework, I try not to make too many mistakes.* Not ~~make my homework~~ or ~~do mistakes~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        { "left": "do away with", "right": "abolish" },
+        { "left": "do without", "right": "manage without" },
+        { "left": "make off", "right": "leave hurriedly" },
+        { "left": "make up for", "right": "compensate for" },
+        { "left": "make for", "right": "move in the direction of" },
+        { "left": "make of", "right": "have an opinion of" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression take do or make?",
+      "categories": ["do", "make"],
+      "items": [
+        { "text": "the washing-up", "category": 0 },
+        { "text": "your best", "category": 0 },
+        { "text": "some gardening", "category": 0 },
+        { "text": "business with someone", "category": 0 },
+        { "text": "a suggestion", "category": 1 },
+        { "text": "a profit", "category": 1 },
+        { "text": "an excuse", "category": 1 },
+        { "text": "a phone call", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Can you make out the little white house on the mountain side? Here make out means ...",
+      "options": ["manage to see", "claim or pretend", "invent a story", "put cosmetics on"],
+      "answer": 0,
+      "explanation": "With can/could, make out often means manage to see something that is hard to see."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A human being is made up of many, often conflicting, desires. Here made up of means ...",
+      "options": ["consists of", "invented by", "renovated by", "compensated by"],
+      "answer": 0,
+      "explanation": "Make up = constitute or form; with this meaning it is usually passive: X is made up of Y."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He made out that he had never loved anyone else. She believed him. Here made out means ...",
+      "options": ["claimed or pretended", "managed to see", "understood", "wrote down"],
+      "answer": 0,
+      "explanation": "Make out = claim, and it implies that what is claimed may well not be true."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The present was beautifully done ___ in gold paper.",
+      "hint": "(one particle)",
+      "answers": ["up"],
+      "explanation": "Do up here means tie or wrap into a bundle or parcel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We agreed that we could do ___ the old fireplace in the corner.",
+      "hint": "(two words - get rid of)",
+      "answers": ["away with"],
+      "explanation": "Do away with = abolish, get rid of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At first we could not make ___ what the photographs were, but we wiped them clean.",
+      "hint": "(one particle)",
+      "answers": ["out"],
+      "explanation": "Can't make something out = can't manage to see or understand it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We spent an enjoyable evening making ___ stories to explain why the pictures had been hidden.",
+      "hint": "(one particle)",
+      "answers": ["up"],
+      "explanation": "Make up a story = invent it."
+    },
+    {
+      "type": "true_false",
+      "statement": "Vast amounts of money do not always make of happiness.",
+      "answer": false,
+      "explanation": "Vast amounts of money do not always make for happiness. Make for = lead to."
+    },
+    {
+      "type": "true_false",
+      "statement": "Thieves robbed the bank and made off with £1,000,000.",
+      "answer": true,
+      "explanation": "Correct. Make off with something = leave hurriedly taking it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must make ___ the fact that he's only seven years old.",
+      "hint": "(two words)",
+      "answers": ["allowances for"],
+      "explanation": "Make allowances for = consider someone's situation and not judge them harshly."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a famous 1960s slogan.",
+      "words": ["MAKE", "LOVE", "NOT", "WAR"],
+      "answer": "MAKE LOVE NOT WAR",
+      "explanation": "Both love and war go with make, never with do."
+    }
+  ]
+}

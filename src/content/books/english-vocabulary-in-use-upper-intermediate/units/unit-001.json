@@ -1,0 +1,223 @@
+{
+  "number": 1,
+  "title": "Learning vocabulary",
+  "subtitle": "collocation, register, word family",
+  "summary": "Learn what it really means to know a word - its collocations, grammar, pronunciation and register - and how to store new words so that you remember them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What do you need to learn?",
+      "text": "There are over half a million words in English, but the average native speaker uses only about 5,000 of them in everyday speech. You already know many of those 5,000. The job now is to learn the rest, and to use them **appropriately** and **accurately**.",
+      "examples": [
+        { "text": "She has a remarkably **rich vocabulary** for a ten-year-old." },
+        { "text": "He used the word **accurately** but not very **appropriately** - it was far too formal for a chat with friends." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What does knowing a word mean?",
+      "text": "Knowing the meaning is not enough. For every new word you also need to know which words it is usually used with, its grammatical characteristics, how it is pronounced, and whether it is formal, informal or neutral.",
+      "examples": [
+        { "text": "Learn new words in **phrases**, not in **isolation**.", "note": "in isolation = on their own, with no context" },
+        { "text": "Notice any special **pronunciation** problems, e.g. the silent b in *subtle*." },
+        { "text": "Check whether a word has a particular **register**.", "note": "register = how formal or informal a word is" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Collocations",
+      "text": "Words that commonly go together are called **collocations**. If you learn them as a unit, you will sound far more natural than if you build every phrase word by word.",
+      "examples": [
+        { "text": "adjective + noun: a **rich vocabulary**, **classical music**, **common sense**" },
+        { "text": "verb + noun: to **express an opinion**, to **take sides**" },
+        { "text": "noun in a phrase: **in touch with**, a **train set**, a **sense of humour**" },
+        { "text": "word + preposition: **at a loss for words**, **in particular**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Grammatical characteristics worth noting",
+      "columns": ["Note this", "Examples"],
+      "rows": [
+        ["irregular verbs", "undertake, undertook, undertaken; teach, taught, taught"],
+        ["uncountable nouns", "luggage, furniture, information, advice"],
+        ["nouns only used in the plural", "scissors, trousers, clothes, tights"],
+        ["nouns with an irregular plural", "tooth / teeth, foot / feet, mouse / mice, goose / geese"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How can you memorise words?",
+      "text": "Research suggests that many learners find words easier to remember if they learn them in **groups** and if they attach a **picture** or a little drawing to them. You can group words any way you like.",
+      "examples": [
+        { "text": "by **topic**: king, queen, prince, princess, duke - all **royalty**" },
+        { "text": "by **word family**: shade, shady, shadow, shadowy, sunshade, lampshade" },
+        { "text": "by **part of speech**: noun, verb, adjective, adverb, preposition, conjunction" },
+        { "text": "by a shared **spelling or sound**: subtle, comb, lamb, crumb, debt, plumber - all have a silent b" },
+        { "text": "by **synonym**: articulate, communicate, convey, express, put across" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Collocation forks",
+      "columns": ["Adjective or verb", "Nouns it goes with"],
+      "rows": [
+        ["a remarkable ...", "likeness, range, coincidence"],
+        ["to coin ...", "a phrase, new words, a term"],
+        ["a royal ...", "family, palace, welcome"],
+        ["a subtle ...", "suggestion, shade, difference"]
+      ],
+      "note": "To coin a word or phrase means to invent it. English has coined many new words out of old elements."
+    },
+    {
+      "type": "explain",
+      "heading": "Reading and listening more",
+      "text": "This book teaches vocabulary systematically, but you will learn far more if you also read and listen to as much English as you can. Choose things you would enjoy in your own language.",
+      "examples": [
+        { "text": "Read: websites, blogs, magazines, newspapers, fiction, poetry, recipes, tweets, reference material such as dictionaries and encyclopedias." },
+        { "text": "Listen and watch: podcasts, audio books, songs, films, TV, YouTube, sports reports, radio such as the BBC World Service, and conversations with native speakers." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "English often has two or three words for one idea because of contact with other languages - *kingly* (Anglo-Saxon), *royal* (French) and *regal* (Latin) - which lets you express subtle shades of meaning."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which grammatical point should you note about each word?",
+      "categories": ["Only used in the plural", "Uncountable", "Irregular plural"],
+      "items": [
+        { "text": "scissors", "category": 0 },
+        { "text": "trousers", "category": 0 },
+        { "text": "tights", "category": 0 },
+        { "text": "luggage", "category": 1 },
+        { "text": "furniture", "category": 1 },
+        { "text": "advice", "category": 1 },
+        { "text": "tooth", "category": 2 },
+        { "text": "goose", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective or verb with the noun it collocates with.",
+      "pairs": [
+        { "left": "a remarkable", "right": "coincidence" },
+        { "left": "to coin", "right": "a phrase" },
+        { "left": "a royal", "right": "palace" },
+        { "left": "a subtle", "right": "difference" },
+        { "left": "to express", "right": "an opinion" },
+        { "left": "a sense of", "right": "humour" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Words that commonly go together, like *classical music* or *common sense*, are called ___.",
+      "hint": "(one word, plural)",
+      "answers": ["collocations"],
+      "explanation": "A collocation is a combination of words that native speakers habitually use together."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Whether a word is formal, informal or neutral is a question of its ___.",
+      "hint": "(one word)",
+      "answers": ["register"],
+      "explanation": "Register describes the level of formality of a word or expression."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each expression informal or formal?",
+      "categories": ["Informal", "Formal"],
+      "items": [
+        { "text": "guys", "category": 0 },
+        { "text": "Awesome!", "category": 0 },
+        { "text": "to feel gutted", "category": 0 },
+        { "text": "to bug someone", "category": 0 },
+        { "text": "to zone out", "category": 0 },
+        { "text": "a minor", "category": 1 },
+        { "text": "to alight", "category": 1 },
+        { "text": "a felon", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What should you notice about the pronunciation of *subtle*?",
+      "options": [
+        "The b is silent.",
+        "The final e is pronounced as an extra syllable.",
+        "The t is pronounced like a k.",
+        "The stress falls on the second syllable."
+      ],
+      "answer": 0,
+      "explanation": "Subtle, comb, lamb, crumb, debt and plumber all contain a silent b."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What should you notice about the pronunciation of *catastrophe*?",
+      "options": [
+        "The final e is pronounced as a separate syllable.",
+        "The final e is silent.",
+        "The c is silent.",
+        "The word has only two syllables."
+      ],
+      "answer": 0,
+      "explanation": "Unlike most English words ending in -e, catastrophe ends in a pronounced syllable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What should you notice about the pronunciation of *chemistry*?",
+      "options": [
+        "The ch is pronounced like a k, not like the ch in *church*.",
+        "The ch is silent.",
+        "The final y is pronounced like an i in *bite*.",
+        "The stress falls on the last syllable."
+      ],
+      "answer": 0,
+      "explanation": "In chemistry the ch sounds like a k."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is special about *a record* and *to record*?",
+      "options": [
+        "The stress is on the first syllable in the noun and on the second in the verb.",
+        "The c is silent in the verb.",
+        "The two words have completely different meanings.",
+        "The noun has three syllables and the verb has two."
+      ],
+      "answer": 0,
+      "explanation": "Many noun/verb pairs in English shift the stress: a REcord, to reCORD."
+    },
+    {
+      "type": "true_false",
+      "statement": "In *photograph*, *photographer* and *photographic* the stress stays on the same syllable.",
+      "answer": false,
+      "explanation": "The stress moves: the first syllable in photograph, the second in photographer and the third in photographic."
+    },
+    {
+      "type": "true_false",
+      "statement": "The w in *answer* is not pronounced.",
+      "answer": true,
+      "explanation": "Correct - the w in answer is silent, like the b in subtle."
+    },
+    {
+      "type": "matching",
+      "prompt": "A student learnt each set of words as a group. What is the unifying factor?",
+      "pairs": [
+        { "left": "king, queen, prince, princess", "right": "royalty" },
+        { "left": "sunshade, shady, shadow, shadowy", "right": "the shade word family" },
+        { "left": "articulate, communicate, convey, express", "right": "synonyms of express" },
+        { "left": "noun, verb, adjective, adverb", "right": "parts of speech" },
+        { "left": "comb, lamb, crumb, debt, plumber", "right": "words with a silent b" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the advice in order.",
+      "words": ["Learn", "new", "words", "in", "phrases", "not", "in", "isolation."],
+      "answer": "Learn new words in phrases not in isolation.",
+      "explanation": "A word learnt inside a phrase brings its collocations with it."
+    }
+  ]
+}

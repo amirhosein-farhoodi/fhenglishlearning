@@ -1,0 +1,238 @@
+{
+  "number": 98,
+  "title": "Divided by a common language",
+  "subtitle": "gas station or petrol station, faucet or tap",
+  "summary": "Recognise the everyday words that differ between American and British English - on the road, at university and around the home - and switch between them confidently.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two varieties, one language",
+      "text": "Very few words and expressions are used exclusively in either British or American English, and you are likely to hear and read words from both varieties. Some differences are small: **street** has a wider range of meaning in American English, so an American may say *Let's cross the street here*, where a British speaker in a busy city would normally say *cross the **road***.",
+      "examples": [
+        { "text": "*American:* Let's cross the **street** here; there's more traffic further down." },
+        { "text": "*British:* Let's cross the **road** here." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Streets and roads",
+      "columns": ["American English", "British English", "Meaning"],
+      "rows": [
+        ["**kitty-corner** to", "diagonally opposite", "informal in American English"],
+        ["**gas station**", "petrol station", "where you buy fuel"],
+        ["**crosswalk**", "pedestrian crossing / zebra crossing", "where you cross on foot"],
+        ["**trail**", "path", "a walking route"],
+        ["**creek**", "stream, small river", "a small waterway"],
+        ["**take a left**", "turn left", "change direction"],
+        ["**Interstate**", "motorway", "in the US, a major road connecting different states"],
+        ["**intersection**", "junction", "where two roads meet"],
+        ["**shopping cart**", "trolley", "what you push round a supermarket"],
+        ["**parking lot**", "car park", "where you leave your car"],
+        ["**back up**", "reverse", "drive backwards"],
+        ["**overpass**", "flyover", "a bridge carrying one road over another"],
+        ["**downtown**", "the city centre", "the central business area"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Road numbers",
+      "left": {
+        "label": "British English uses the",
+        "examples": [
+          "Take **the M4** as far as Newbury, then turn off on to **the A34** for Oxford."
+        ]
+      },
+      "right": {
+        "label": "American English uses no article",
+        "examples": [
+          "Take **I-45** north for about 20 miles, then take **25** west."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Educational terminology",
+      "columns": ["American English", "British English"],
+      "rows": [
+        ["My older brother never went to **college**.", "My older brother never went to **university**. (a British college is usually a place of specialised education for people over 16)"],
+        ["What **courses** are you taking next **semester**?", "What **modules** are you taking next **semester** or **term**?"],
+        ["Are you a **freshman**?", "Are you a **fresher** or **first year**?"],
+        ["No, I'm a **sophomore**.", "No, I'm a **second year**."],
+        ["Most of my friends are **juniors**.", "Most of my friends are **third years**."],
+        ["She's **majoring in** French.", "She's **doing honours in** French."],
+        ["My **professors** are all very friendly. (a general term for university teachers)", "My **lecturers** are all very friendly. (a professor holds the highest academic rank)"],
+        ["I want to be an **elementary school** teacher.", "I want to be a **primary school** teacher."],
+        ["My years in **high school** were not very happy.", "My years in **secondary school** were not very happy."]
+      ],
+      "note": "A sophomore is in the second year of study; a junior in the third."
+    },
+    {
+      "type": "table",
+      "heading": "Around the home",
+      "columns": ["American English", "British English", "What it is"],
+      "rows": [
+        ["**ground**", "earth", "the cable that takes electricity safely into the ground"],
+        ["**dumpster**", "skip", "a large metal container for rubbish"],
+        ["**faucet**", "tap", "what water comes out of"],
+        ["**stove**", "cooker", "the kitchen equipment you cook food on"],
+        ["**skillet**", "frying pan", "a shallow pan for frying"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Same word, different world",
+      "text": "Some words exist in both varieties but point to different things. If an American says they are going to **college** next year, they usually mean university; a British speaker probably means an institution for students over 16 learning a particular skill, such as a teacher-training college. **Professor** is an appropriate way to address any university teacher in the US, but in Britain it is a title given only to those of the highest academic rank.",
+      "examples": [
+        { "text": "A **primary school** teacher in Britain teaches more or less the same age group as an **elementary school** teacher in the US." },
+        { "text": "You register for a **module** in Britain and for a **course** in the US." },
+        { "text": "If someone says they are **majoring in** psychology, they mean psychology is their main subject of study." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Choose one variety and stay in it inside a single piece of writing - mixing gas station with flyover sounds odd to both audiences."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "'I lost my way at the big intersection just south of the city.' Who is speaking?",
+      "options": ["an American - a British speaker would say junction", "a British speaker - an American would say junction", "an American - a British speaker would say overpass", "a British speaker - an American would say crosswalk"],
+      "answer": 0,
+      "explanation": "Intersection is American; the British word is junction."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Why are there always so many shopping trolleys left in the car park?' Who is speaking?",
+      "options": ["a British speaker - an American would say shopping carts in the parking lot", "an American - a British speaker would say shopping carts in the parking lot", "a British speaker - an American would say trolleys in the lot", "an American - a British speaker would say trolleys in the car park"],
+      "answer": 0,
+      "explanation": "Trolley and car park are British; cart and parking lot are American."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'Cross the road at the pedestrian crossing, then turn left.' How would an American say it?",
+      "options": ["Cross the street at the crosswalk, then take a left.", "Cross the road at the crosswalk, then turn left.", "Cross the street at the pedestrian crossing, then take a left.", "Cross the trail at the crosswalk, then back up."],
+      "answer": 0,
+      "explanation": "Street, crosswalk and take a left are all American."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "American: You can't drive any further; you'll have to back up, the street is very narrow. British: You can't drive any further; you'll have to ___, the road is very narrow.",
+      "hint": "(British for back up)",
+      "answers": ["reverse"],
+      "explanation": "Americans back up; British speakers reverse."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "British: You'll see the petrol station just after the flyover. American: You'll see the ___ station just after the overpass.",
+      "hint": "(American for petrol)",
+      "answers": ["gas"],
+      "explanation": "American English has gas station and overpass for petrol station and flyover."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "American: Once you get on to the Interstate, it will only take two hours. British: Once you get on to the ___, it will only take two hours.",
+      "hint": "(British for Interstate)",
+      "answers": ["motorway"],
+      "explanation": "An Interstate is the US equivalent of a British motorway."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "American: The office is kitty-corner to the Chinese restaurant. British: The office is ___ opposite the Chinese restaurant.",
+      "hint": "(British for kitty-corner)",
+      "answers": ["diagonally"],
+      "explanation": "Kitty-corner is informal American English for diagonally opposite."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "American: There's a creek at the end of the trail. British: There's a stream at the end of the ___.",
+      "hint": "(British for trail)",
+      "answers": ["path", "footpath"],
+      "explanation": "A trail is a path and a creek is a stream or small river."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each American word with its British equivalent.",
+      "pairs": [
+        { "left": "dumpster", "right": "skip" },
+        { "left": "ground", "right": "earth" },
+        { "left": "skillet", "right": "frying pan" },
+        { "left": "stove", "right": "cooker" },
+        { "left": "faucet", "right": "tap" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each American education word with its British equivalent.",
+      "pairs": [
+        { "left": "freshman", "right": "fresher" },
+        { "left": "elementary school", "right": "primary school" },
+        { "left": "high school", "right": "secondary school" },
+        { "left": "course", "right": "module" },
+        { "left": "professor (any university teacher)", "right": "lecturer" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word American English or British English?",
+      "categories": ["American English", "British English"],
+      "items": [
+        { "text": "parking lot", "category": 0 },
+        { "text": "crosswalk", "category": 0 },
+        { "text": "sophomore", "category": 0 },
+        { "text": "faucet", "category": 0 },
+        { "text": "flyover", "category": 1 },
+        { "text": "petrol station", "category": 1 },
+        { "text": "trolley", "category": 1 },
+        { "text": "skip", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What year of study are you in if you are a sophomore?",
+      "options": ["the second year", "the first year", "the third year", "the final year"],
+      "answer": 0,
+      "explanation": "Freshman, sophomore and junior are the first, second and third years."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If someone says they are majoring in psychology, what do they mean?",
+      "options": ["psychology is their main subject of study", "they teach psychology", "they are in their final year", "they take psychology as an extra option"],
+      "answer": 0,
+      "explanation": "Major in is the American equivalent of doing honours in a subject."
+    },
+    {
+      "type": "true_false",
+      "statement": "A primary school teacher teaches at more or less the same level as an elementary school teacher.",
+      "answer": true,
+      "explanation": "Correct - elementary school is the American equivalent of British primary school."
+    },
+    {
+      "type": "true_false",
+      "statement": "If an American says they're going to college next year, it means the same as when a British person says it.",
+      "answer": false,
+      "explanation": "In the US it usually means going to university; in Britain it is likely to mean an institution for students over 16 learning a special skill."
+    },
+    {
+      "type": "true_false",
+      "statement": "Someone who says they are a secondary school teacher is more likely to be British than American.",
+      "answer": true,
+      "explanation": "Correct - Americans say high school."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Calling a university teacher 'Professor' in Britain is different from in the US because ___.",
+      "options": ["in Britain it is a title only for those of the highest academic rank", "in Britain it is used only for primary teachers", "in the US it is considered rude", "in Britain it means a research student"],
+      "answer": 0,
+      "explanation": "In the US Professor is an appropriate form of address for any university teacher."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this British set of directions in order.",
+      "words": ["Take", "the", "M4", "as", "far", "as", "Newbury,", "then", "turn", "off", "on", "to", "the", "A34"],
+      "answer": "Take the M4 as far as Newbury, then turn off on to the A34",
+      "explanation": "British road numbers take the; American ones do not."
+    }
+  ]
+}

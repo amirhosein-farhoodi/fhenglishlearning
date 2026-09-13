@@ -1,0 +1,199 @@
+{
+  "number": 86,
+  "title": "Making uncountable nouns countable",
+  "subtitle": "a piece of advice, a flash of lightning",
+  "summary": "Learn the counting words - piece, bit, and the specific ones like flash, gust and blade - that let you put a number in front of an uncountable noun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "piece and bit",
+      "text": "You can make many uncountable nouns countable by adding **a piece of** or **a (little) bit of**, and plural with **pieces of** or **bits of**. Bit is less formal than piece and suggests a smaller amount; piece tends to be used more with uncountable nouns.",
+      "examples": [
+        { "text": "How many **pieces of luggage** have you got with you?" },
+        { "text": "The police collected **bits of information** from different sources." },
+        { "text": "Chopin wrote some wonderful **pieces of music**." },
+        { "text": "Before you go to England I should give you two **bits of advice** ..." },
+        { "text": "What an attractive **piece of furniture**!", "wrong": "What an attractive furniture!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Weather words",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["a heavy shower of rain", "a short period of heavy rain"],
+        ["a few spots of rain", "a very small amount of rain"],
+        ["a sunny spell (of weather)", "a period of sunshine"],
+        ["a rumble of thunder", "a low, rolling noise"],
+        ["a loud clap of thunder", "one sudden crash of thunder"],
+        ["a flash of lightning", "one instant of lightning"],
+        ["a gust of wind", "one sudden strong movement of air"]
+      ],
+      "note": "Today's weather will be variable. In the north there are likely to be heavy showers; the sunny spell in the south will continue, although there may be occasional rumbles of thunder."
+    },
+    {
+      "type": "table",
+      "heading": "Groceries and nature",
+      "columns": ["Phrase", "Goes with"],
+      "rows": [
+        ["a loaf of ...", "bread"],
+        ["a slice of ...", "ham, toast, bread, meat, cheese"],
+        ["a bar of ...", "chocolate, soap"],
+        ["a tube of ...", "toothpaste"],
+        ["a carton of ...", "milk"],
+        ["a blade of ...", "grass"],
+        ["a lump of ...", "coal, sugar"],
+        ["a cloud of / a puff of ...", "smoke"],
+        ["a breath of ...", "fresh air"]
+      ],
+      "note": "Look at the ladybird on that blade of grass! We could see little puffs of smoke coming out of the volcano."
+    },
+    {
+      "type": "explain",
+      "heading": "Other fixed counting words",
+      "text": "Some counting words go with one particular noun and have to be learnt as a fixed phrase. **A stroke of work** is only used in negative sentences and is more emphatic than *a bit of work*.",
+      "examples": [
+        { "text": "I had an amazing **stroke of luck** this morning." },
+        { "text": "I've never seen him do a **stroke of work**." },
+        { "text": "I've never seen him in such a **fit of temper** before." },
+        { "text": "The donkey is the basic **means of transport** on the island." },
+        { "text": "Jeans must be the most useful **article of clothing** ever invented.", "note": "item of clothing means the same" },
+        { "text": "There was an interesting **item of news** about France on TV last night." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "a state of",
+      "text": "Nouns used with **a state of** are usually abstract. This is a very useful pattern for describing a situation that has gone wrong, or a condition somebody or something is in.",
+      "examples": [
+        { "text": "The transport system is in a **state of chaos**." },
+        { "text": "We are still in a **state of uncertainty** as to who has won the election." },
+        { "text": "The country's infrastructure is in a **state of disorder** after the earthquake." },
+        { "text": "We fell in love with the house although it was in a dreadful **state of disrepair**." },
+        { "text": "The education system is in a **state of flux** at the moment.", "note": "flux = continuous change" }
+      ],
+      "note": "Other nouns used this way: health, tension, confusion, poverty, agitation."
+    },
+    {
+      "type": "tip",
+      "text": "Learn the counting word together with its noun, as one chunk: *a flash of lightning*, *a gust of wind*, *a blade of grass*. Swapping them sounds immediately wrong to a native speaker."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each counting word with the noun it goes with.",
+      "pairs": [
+        { "left": "a stroke of", "right": "luck" },
+        { "left": "a shower of", "right": "rain" },
+        { "left": "an article of", "right": "clothing" },
+        { "left": "a lump of", "right": "coal" },
+        { "left": "a flash of", "right": "lightning" },
+        { "left": "a blade of", "right": "grass" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match these counting words with their nouns.",
+      "pairs": [
+        { "left": "an item of", "right": "news" },
+        { "left": "a rumble of", "right": "thunder" },
+        { "left": "a loaf of", "right": "bread" },
+        { "left": "a tube of", "right": "toothpaste" },
+        { "left": "a bar of", "right": "chocolate" },
+        { "left": "a breath of", "right": "fresh air" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Could you buy me a ___ of bread, please?",
+      "hint": "(the whole thing, before it is sliced)",
+      "answers": ["loaf"],
+      "explanation": "Bread is uncountable, so we count it in loaves or slices."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My mother gave me a ___ of advice that I have always remembered.",
+      "hint": "(piece or bit)",
+      "answers": ["piece", "bit"],
+      "explanation": "Advice is uncountable: a piece of advice, two bits of advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Suddenly a ___ of wind almost blew him off his feet.",
+      "hint": "(one sudden strong movement of air)",
+      "answers": ["gust"],
+      "explanation": "A gust of wind is one sudden burst of strong wind."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had a ___ of terribly windy weather last winter.",
+      "hint": "(a period of one kind of weather)",
+      "answers": ["spell"],
+      "explanation": "A spell of weather is a period during which the same weather continues."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Would you like another ___ of toast?",
+      "hint": "(one piece cut from a loaf)",
+      "answers": ["slice"],
+      "explanation": "Slice goes with toast, bread, ham, meat and cheese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We could see a ___ of smoke hovering over the city from a long way away.",
+      "hint": "(a large amount of smoke in the air)",
+      "answers": ["cloud"],
+      "explanation": "A cloud of smoke is a big one; a puff of smoke is small."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He never does a ___ of work in the house.",
+      "options": ["stroke", "piece", "lump", "blade"],
+      "answer": 0,
+      "explanation": "A stroke of work is used only in negative sentences and is very emphatic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can give you an important ___ of information about that.",
+      "options": ["piece", "slice", "spell", "clap"],
+      "answer": 0,
+      "explanation": "Information is uncountable, counted with piece or bit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "I need to get some pieces of furniture for my flat.",
+        "I need to get some furnitures for my flat.",
+        "I need to get a furniture for my flat.",
+        "I need to get some slices of furniture for my flat."
+      ],
+      "answer": 0,
+      "explanation": "Furniture is uncountable, so use piece of or pieces of."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which nouns follow *a state of* and which follow *a piece of*?",
+      "categories": ["a state of ...", "a piece of ..."],
+      "items": [
+        { "text": "chaos", "category": 0 },
+        { "text": "uncertainty", "category": 0 },
+        { "text": "disrepair", "category": 0 },
+        { "text": "poverty", "category": 0 },
+        { "text": "advice", "category": 1 },
+        { "text": "furniture", "category": 1 },
+        { "text": "music", "category": 1 },
+        { "text": "luggage", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["My", "granny", "wouldn't", "be", "in", "such", "a", "bad", "state", "of", "health", "now", "if", "she", "hadn't", "smoked."],
+      "answer": "My granny wouldn't be in such a bad state of health now if she hadn't smoked.",
+      "explanation": "A state of + abstract noun describes the condition something or someone is in."
+    }
+  ]
+}

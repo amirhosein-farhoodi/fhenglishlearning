@@ -1,0 +1,193 @@
+{
+  "number": 79,
+  "title": "Phrasal verbs 1: form and meaning",
+  "subtitle": "find out, give up, pick up",
+  "summary": "Understand how a verb plus an adverb or preposition makes a phrasal verb, and learn the most common ones.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What a phrasal verb is",
+      "text": "A phrasal verb is a verb + an adverb or a preposition, and sometimes a verb + an adverb **and** a preposition. The whole group works as one verb.",
+      "examples": [
+        { "text": "He **fell over** and hurt his knee.", "note": "= fell to the ground" },
+        { "text": "I'll try to **find out** the quickest way to get there.", "note": "= learn, discover" },
+        { "text": "He didn't like his coat, so he **gave** it **away**.", "note": "= gave it to someone for no money" },
+        { "text": "Who's going to **sort out** the problem?", "note": "= deal with it successfully, solve it" },
+        { "text": "He doesn't **get on with** his parents.", "note": "= have a good relationship with. Verb + adverb + preposition." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When the adverb adds almost nothing",
+      "text": "With some verbs the adverb does not really change the meaning, and you can leave it out.",
+      "examples": [
+        { "text": "I didn't **wake (up)** until 7 o'clock." },
+        { "text": "She's **saving (up)** for a new computer." },
+        { "text": "**Hurry (up)** or we'll be late." },
+        { "text": "I went to **lie (down)** on the bed." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "back = return",
+      "text": "Sometimes the adverb adds one particular meaning to the verb. **Back** usually means return.",
+      "examples": [
+        { "text": "I bought this jacket yesterday, but I'm going to **take** it **back** to the shop; it's too small." },
+        { "text": "You can look at the books, but remember to **put** them **back** on the shelf." },
+        { "text": "They liked Greece so much they want to **go back** next year." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "When the adverb changes the meaning",
+      "columns": ["Phrasal verb", "Meaning", "Example"],
+      "rows": [
+        ["give up", "stop", "My wife has decided to give up smoking."],
+        ["carry on", "continue", "We'll take a short break and then carry on with the meeting."],
+        ["put up", "increase", "The shops are going to put up the price of bread."],
+        ["take on", "employ", "When the hotel gets busy, we have to take on more staff."],
+        ["find out", "learn, discover", "I'll find out the quickest way to get there."],
+        ["sort out", "solve", "Don't worry, I'll sort it out."]
+      ],
+      "note": "Give up does not mean the same as give, and carry on does not mean the same as carry."
+    },
+    {
+      "type": "explain",
+      "heading": "One phrasal verb, several meanings",
+      "text": "Many phrasal verbs have more than one meaning. The situation tells you which meaning it is.",
+      "examples": [
+        { "text": "I was busy, so I told him to **go away**.", "note": "= leave" },
+        { "text": "We try to **go away** in August.", "note": "= go on holiday" },
+        { "text": "I **picked up** most of the rubbish.", "note": "= lifted it from the floor" },
+        { "text": "I'm going to **pick** Jane **up** at the station.", "note": "= collect someone, usually in a car" },
+        { "text": "Could you **put** the light **on**? Then I **put on** my best suit.", "note": "put a machine on = switch it on; put clothes on = wear them" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Five meanings of go off",
+      "columns": ["Meaning", "Example"],
+      "rows": [
+        ["leave a place and go somewhere else", "Beatriz went off early; she had to meet a friend."],
+        ["food is too old to eat", "I think this meat has gone off."],
+        ["a light or machine stops working", "When the light goes off, the machine has finished."],
+        ["a bomb or gun explodes", "The bomb went off without any warning."],
+        ["something suddenly starts making a noise", "My alarm clock went off early this morning."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Do not learn phrasal verbs in long lists. Learn two or three at a time inside a short example sentence you can remember."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I can't see. Could you put the light ___?",
+      "options": ["on", "in", "out"],
+      "answer": 0,
+      "explanation": "Put a light on = switch it on."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was broken, so I had to take it ___ to the shop.",
+      "options": ["back", "over", "on"],
+      "answer": 0,
+      "explanation": "Take something back = return it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I went to the airport to pick her ___.",
+      "options": ["up", "down", "over"],
+      "answer": 0,
+      "explanation": "Pick someone up = collect them, usually in a car."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I get married next year. I need to start saving ___.",
+      "options": ["up", "on", "for"],
+      "answer": 0,
+      "explanation": "Save up = keep money for something you want to buy."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each ordinary verb with a phrasal verb of similar meaning.",
+      "pairs": [
+        { "left": "discover", "right": "find out" },
+        { "left": "return", "right": "go back" },
+        { "left": "increase", "right": "put up" },
+        { "left": "stop doing something", "right": "give up" },
+        { "left": "continue", "right": "carry on" },
+        { "left": "employ", "right": "take on" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We'll have to ___ the price this year.",
+      "hint": "(= increase)",
+      "answers": ["put up"],
+      "explanation": "Put up a price = increase it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We are planning to ___ ten new drivers next year.",
+      "hint": "(= employ)",
+      "answers": ["take on"],
+      "explanation": "Take on staff = employ them."
+    },
+    {
+      "type": "matching",
+      "prompt": "Go off has several meanings. Match each sentence with the right one.",
+      "pairs": [
+        { "left": "Beatriz went off early; she had to meet a friend.", "right": "leave a place" },
+        { "left": "I think this meat has gone off.", "right": "food is too old to eat" },
+        { "left": "When the light goes off, the machine has finished.", "right": "a light or machine stops working" },
+        { "left": "The bomb went off without any warning.", "right": "explode" },
+        { "left": "My alarm clock went off early this morning.", "right": "suddenly make a noise" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is there still a problem? *B:* Don't worry. I'll ___ it out.",
+      "hint": "(one word = solve)",
+      "answers": ["sort"],
+      "explanation": "Sort something out = deal with it successfully."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can we look at some books? *B:* Yes, but ___ them back afterwards.",
+      "hint": "(one word)",
+      "answers": ["put"],
+      "explanation": "Put something back = return it to its place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's the matter? *B:* I ___ and cut my knee.",
+      "hint": "(two words, past = fall to the ground)",
+      "answers": ["fell over"],
+      "explanation": "Fall over = fall to the ground."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* ___ or we'll be late. *B:* OK, I'm coming.",
+      "hint": "(two words = be quick)",
+      "answers": ["hurry up", "hurry"],
+      "explanation": "Hurry up = be quick. The up can be left out."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order. You are collecting Jane from the station in your car.",
+      "words": ["I'm", "going", "to", "pick", "Jane", "up", "at the station."],
+      "answer": "I'm going to pick Jane up at the station.",
+      "alternatives": ["I'm going to pick up Jane at the station."],
+      "explanation": "Pick someone up = collect them. The name can go before or after up."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you give up chocolate, it means you give your chocolate to another person.",
+      "answer": false,
+      "explanation": "Give up something = stop doing or eating it. Give something away = give it to someone for no money."
+    }
+  ]
+}

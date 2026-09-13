@@ -1,0 +1,167 @@
+{
+  "number": 21,
+  "title": "Clothes",
+  "subtitle": "put on, take off, do up",
+  "summary": "Name the clothes and jewellery people wear, and use the verbs that go with them - put on, take off, do up and change into.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Smart, stylish and casual",
+      "text": "We use three common adjectives to describe the way people dress. Someone who is **stylish** wears nice clothes and looks attractive; we can also say **well-dressed**. Someone who is **smartly dressed** looks clean and tidy in clothes that are right for a formal situation. **Casual** clothes are comfortable and right for informal situations.",
+      "examples": [
+        { "text": "The woman looks very **stylish** in her new coat.", "note": "= she looks attractive and well-dressed" },
+        { "text": "He was very **smartly dressed** this morning. He had his best suit on." },
+        { "text": "Jeans and a T-shirt are **casual** clothes.", "note": "= comfortable and informal" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words for clothes",
+      "columns": ["Group", "Words"],
+      "rows": [
+        ["Items of clothing", "top, skirt, tights, boots, suit, tie, jeans, T-shirt, jumper (also sweater), jacket, scarf, cap, trainers"],
+        ["Jewellery", "earrings, necklace, bracelet, ring"],
+        ["Parts of clothing", "collar, sleeve, button, pocket, zip"],
+        ["Bags", "rucksack (a bag you carry on your back)"]
+      ],
+      "note": "A **jumper** and a **sweater** are the same thing. **Trainers** are soft shoes for sport and for everyday wear."
+    },
+    {
+      "type": "explain",
+      "heading": "Getting dressed",
+      "text": "When you **put on** your clothes, you **get dressed**. The opposite of **put on** is **take off**. We use these verbs for single items of clothing too.",
+      "examples": [
+        { "text": "As soon as I get up, I have a shower and **get dressed**.", "note": "= put on my clothes" },
+        { "text": "I had a quick shower, **got dressed**, then joined the others for breakfast." },
+        { "text": "It took me ages to **put on** these boots." },
+        { "text": "Why don't you **take off** your coat?", "note": "opp put on" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Do up and undo",
+      "text": "You **do up** a zip or a button to close it, and you **undo** it to open it. The past form of undo is **undid**.",
+      "examples": [
+        { "text": "Julia couldn't **do up** the zip on her jacket." },
+        { "text": "I prefer jackets with a zip; it's easier to **undo** a zip and much quicker to do it up." },
+        { "text": "I took my tie off and **undid** the top button of my shirt." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Colours that suit you and changing your clothes",
+      "text": "If a colour **suits** you, you look good in it. The opposite of **dark** colours is **bright** colours. When you get home you often **change into** something more comfortable.",
+      "examples": [
+        { "text": "I think I look good in black because dark colours **suit** me." },
+        { "text": "You should wear bright colours more often; they **suit** you." },
+        { "text": "Madison looks really nice **in** purple." },
+        { "text": "I **changed into** a pair of jeans as soon as I got home." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say *I like clothes* (not ~~cloth~~ or ~~cloths~~), and *I like your new trousers* (not ~~trouser~~) - trousers, jeans and tights are always plural."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Which one of these is jewellery?",
+      "options": ["a necklace", "a jumper", "a collar", "a rucksack"],
+      "answer": 0,
+      "explanation": "Earrings, a necklace, a bracelet and a ring are all jewellery."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Madison looks really nice ___ purple.",
+      "hint": "(one preposition)",
+      "answers": ["in"],
+      "explanation": "We look good in a colour: she looks nice in purple."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He was very smartly ___ this morning. He had his best suit on.",
+      "hint": "(dress)",
+      "answers": ["dressed"],
+      "explanation": "Smartly dressed = clean and tidy, and right for a formal situation."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right group.",
+      "categories": ["Items of clothing", "Jewellery", "Parts of clothing"],
+      "items": [
+        { "text": "boots", "category": 0 },
+        { "text": "earrings", "category": 1 },
+        { "text": "button", "category": 2 },
+        { "text": "jumper", "category": 0 },
+        { "text": "necklace", "category": 1 },
+        { "text": "collar", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb phrase with its meaning.",
+      "pairs": [
+        { "left": "put on", "right": "start wearing something" },
+        { "left": "take off", "right": "remove something you are wearing" },
+        { "left": "do up", "right": "close a zip or a button" },
+        { "left": "undo", "right": "open a zip or a button" },
+        { "left": "change into", "right": "take off one thing and put on another" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You should wear bright colours more often; they ___ you.",
+      "hint": "(you look good in them)",
+      "answers": ["suit"],
+      "explanation": "If a colour suits you, you look good in it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Julia couldn't do ___ the zip on her jacket.",
+      "hint": "(close it)",
+      "answers": ["up"],
+      "explanation": "You do up a zip or a button to close it."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like your new trouser.",
+      "answer": false,
+      "explanation": "I like your new trousers. Trousers is always plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I changed ___ a pair of jeans as soon as I got home.",
+      "hint": "(one preposition)",
+      "answers": ["into"],
+      "explanation": "You change into other clothes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother takes his books to school in a ___. He says it's easier to carry them on his back.",
+      "hint": "(a kind of bag)",
+      "answers": ["rucksack"],
+      "explanation": "A rucksack is a bag you carry on your back."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to describe a morning routine.",
+      "words": ["As", "soon", "as", "I", "get", "up,", "I", "have", "a", "shower", "and", "get", "dressed."],
+      "answer": "As soon as I get up, I have a shower and get dressed."
+    },
+    {
+      "type": "true_false",
+      "statement": "A man who wears a suit and tie to a formal meeting is smartly dressed.",
+      "answer": true,
+      "explanation": "Correct. Smartly dressed means clean, tidy and suitable for a formal situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I took my tie off and ___ the top button of my shirt.",
+      "hint": "(undo - past simple)",
+      "answers": ["undid"],
+      "explanation": "The past simple of undo is undid."
+    }
+  ]
+}

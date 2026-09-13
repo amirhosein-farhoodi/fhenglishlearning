@@ -1,0 +1,185 @@
+{
+  "number": 16,
+  "title": "Communications",
+  "subtitle": "letters, email and phone calls",
+  "summary": "Talk about letters, email and phone calls, and take part in a simple telephone conversation.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Letters",
+      "text": "You write a **letter** and put it in an **envelope**. On the envelope you write the **address**, and you put a **stamp** in the corner. Then you **post** the letter in a **letter box**. At the top of a letter you write the **date**.",
+      "examples": [
+        { "text": "Don't forget to put a **stamp** on the **envelope**." },
+        { "text": "Don't forget to **post** the letters." },
+        { "text": "Is this the right **address**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Email and the Internet",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["computer", "the machine you work on"],
+        ["screen", "it shows words and pictures"],
+        ["keyboard", "you type on it"],
+        ["mouse", "you move it and click"],
+        ["laptop", "a small computer you can carry"],
+        ["memory stick", "you save your files on it and take it with you"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Email addresses",
+      "text": "You **get** and **send emails**. We say @ as **at** and . as **dot**. So Moll@cup.com is *Moll at C-U-P dot com*. Be careful **online**: think about the information you give people.",
+      "examples": [
+        { "text": "Olivia **gets a lot of emails** from New York." },
+        { "text": "*A:* What's your **email address**? *B:* Moll at C-U-P dot com." },
+        { "text": "You have to be careful what information you give people **online**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phones",
+      "text": "Juan **makes a lot of phone calls**. He **phones** his girlfriend every day. If someone is not **answering** their phone, you can **leave a voicemail**, or you can **text** them (= **send** them a **text message**).",
+      "examples": [
+        { "text": "I always take my **smartphone** with me. I never **turn it off**." },
+        { "text": "*A:* What's your **phone number**? *B:* 066530718.", "note": "= oh six six five three oh seven one eight" },
+        { "text": "He's not answering his phone. I'll **leave a voicemail**." },
+        { "text": "I'll **text him** later.", "note": "= send him a text message" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A phone conversation",
+      "text": "These are the words we use on the phone. When you say who you are, use **It's ... here**.",
+      "examples": [
+        { "text": "*Nick:* Hello. **It's Nick here**. **Can I speak to** Ahmed, please?" },
+        { "text": "*Sue:* **I'm sorry**, he's not here **at the moment**. **Can I take a message**?" },
+        { "text": "*Nick:* Thanks. Could you just tell him I called. **I'll call back later**." },
+        { "text": "*Sue:* OK. I'll tell him. Goodbye." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "On the phone we say *It's Nick here* - not ~~I am Nick~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You put a ___ on the envelope before you post a letter.",
+      "hint": "(one word)",
+      "answers": ["stamp"],
+      "explanation": "A stamp goes in the corner of the envelope."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You put your letter in an ___ and write the address on it.",
+      "hint": "(one word)",
+      "answers": ["envelope"],
+      "explanation": "The letter goes inside the envelope."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where do you post a letter?",
+      "options": ["in a letter box", "in a phone box", "on a memory stick", "on a keyboard"],
+      "answer": 0,
+      "explanation": "You post letters in a letter box."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each part of a computer with what it does.",
+      "pairs": [
+        { "left": "keyboard", "right": "you type on it" },
+        { "left": "mouse", "right": "you move it and click" },
+        { "left": "screen", "right": "it shows words and pictures" },
+        { "left": "laptop", "right": "a small computer you can carry" },
+        { "left": "memory stick", "right": "you save files on it and take it with you" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "He's not answering his phone, so I'll leave a ___.",
+      "options": ["voicemail", "postcard", "stamp", "letter box"],
+      "answer": 0,
+      "explanation": "A voicemail is a spoken message you leave on someone's phone."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right group.",
+      "categories": ["For a letter", "For a computer", "For a phone"],
+      "items": [
+        { "text": "stamp", "category": 0 },
+        { "text": "envelope", "category": 0 },
+        { "text": "letter box", "category": 0 },
+        { "text": "keyboard", "category": 1 },
+        { "text": "mouse", "category": 1 },
+        { "text": "memory stick", "category": 1 },
+        { "text": "voicemail", "category": 2 },
+        { "text": "text message", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Meena:* Hello. ___ Meena here.",
+      "hint": "(two words, with an apostrophe)",
+      "answers": ["It's", "It is"],
+      "explanation": "On the phone we say It's ... here to give our name."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Meena:* Can I ___ to Amal, please?",
+      "hint": "(one word)",
+      "answers": ["speak", "talk"],
+      "explanation": "Can I speak to ...? is the usual question on the phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Amelia:* I'm ___, he's at work at the moment.",
+      "hint": "(one word)",
+      "answers": ["sorry"],
+      "explanation": "I'm sorry, he's not here is a polite way to answer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Amelia:* Can I ___ a message?",
+      "hint": "(one word)",
+      "answers": ["take"],
+      "explanation": "The person who answers the phone takes a message."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Meena:* It's all right. I'll ___ back later.",
+      "hint": "(one word)",
+      "answers": ["call", "phone", "ring"],
+      "explanation": "call back = phone again later."
+    },
+    {
+      "type": "true_false",
+      "statement": "We read the email address Moll@cup.com as Moll at C-U-P dot com.",
+      "answer": true,
+      "explanation": "Correct. @ is at and . is dot."
+    },
+    {
+      "type": "true_false",
+      "statement": "Juan texts his girlfriend every day. This means he sends her a text message.",
+      "answer": true,
+      "explanation": "Correct. text someone = send someone a text message."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask to speak to Ahmed on the phone.",
+      "words": ["Can", "I", "speak", "to", "Ahmed,", "please?"],
+      "answer": "Can I speak to Ahmed, please?",
+      "explanation": "Can I speak to ...? is the question we use on the phone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend for their mobile number.",
+      "words": ["What's", "your", "mobile", "number?"],
+      "answer": "What's your mobile number?",
+      "explanation": "We ask What's your phone number? or What's your mobile number?"
+    }
+  ]
+}

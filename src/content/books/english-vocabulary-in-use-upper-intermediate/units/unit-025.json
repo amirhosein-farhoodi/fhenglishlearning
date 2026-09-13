@@ -1,0 +1,194 @@
+{
+  "number": 25,
+  "title": "Towns",
+  "subtitle": "suburbs, outskirts, facilities, bustling",
+  "summary": "Describe a town or city - its layout, its facilities, its problems - and choose the adjective that captures what it feels like.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "City or town?",
+      "text": "The words **city** and **town** are sometimes used interchangeably, but a city is generally large with a wider range of **facilities**. Here is how a guidebook describes Cork, one of Ireland's main cities.",
+      "examples": [
+        { "text": "Cork city is the major **metropolis** of the south; with a **population** of about 119,500, it is the second largest city in the Republic.", "note": "a metropolis is a very large or important city" },
+        { "text": "The main business and shopping centre lies on the island created by two channels of the River Lee, with many of the **suburbs within walking distance** of the centre." },
+        { "text": "The buses tend to be **overcrowded** and the **one-way traffic system** is extremely complicated." },
+        { "text": "The fashionable **residential districts** of Cork **overlook** the picturesque harbour. There are other residential areas on the **outskirts**.", "note": "the outskirts = the outer parts of a town, away from the centre" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Phrases a guidebook uses",
+      "text": "These phrases come up again and again when someone describes a place. Learn them whole.",
+      "examples": [
+        { "text": "St Anne's Church was built on the **site** of a church destroyed when the city was besieged in 1690.", "note": "site = the piece of ground where something was or will be built" },
+        { "text": "The cathedral is an **imposing** 19th-century building in the French Gothic style." },
+        { "text": "Neither market **caters specifically for** tourists, but anyone who enjoys a real working market will appreciate their charm." },
+        { "text": "The Crawford Art Gallery is **well worth a visit**. It regularly **puts on** adventurous **exhibitions** by contemporary artists." },
+        { "text": "The town centre **tends to be** very crowded on Saturdays." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Facilities",
+      "columns": ["Area", "Facilities"],
+      "rows": [
+        ["Sports", "swimming pool, sports centre, golf course, tennis courts, football pitch, skating rink"],
+        ["Culture", "theatre, opera house, concert hall, radio station, art gallery"],
+        ["Education", "school, college, university, library, adult education centre, museum"],
+        ["Food and night-life", "restaurant, take-away, hotel, B&B (bed and breakfast), youth hostel, club"],
+        ["Transport", "bus service, taxi rank, car hire, car park, parking meters"],
+        ["Services", "health centre, law courts, registry office, citizens' advice bureau, job centre, department store, chemist's, garden centre, police station, Town/City Hall"],
+        ["Property", "estate agent, housing estate, industrial estate"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Problems in cities",
+      "columns": ["Problem", "Effect", "Cause"],
+      "rows": [
+        ["traffic jams", "traffic very slow; commuters get very stressed", "too much traffic, especially in the rush hour"],
+        ["slums", "housing in a bad condition", "poverty - people have no money to spend on housing"],
+        ["vandalism", "pointless destruction of property", "poverty; lack of hope"],
+        ["overcrowding", "difficult living conditions", "too many people living in one place"],
+        ["pollution", "deterioration in health", "traffic and industry"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives to describe a city",
+      "columns": ["Adjective", "What it means"],
+      "rows": [
+        ["picturesque", "very pretty and attractive"],
+        ["historic", "important in history, with old buildings"],
+        ["spacious", "with plenty of space"],
+        ["elegant", "attractive and stylish"],
+        ["magnificent", "very impressive"],
+        ["lively", "full of energy and activity"],
+        ["bustling", "with lots of movement"],
+        ["deserted", "with no one on the streets, e.g. at night"],
+        ["packed", "very crowded"],
+        ["filthy", "very dirty"],
+        ["run-down", "in a very bad condition"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say **open spaces**, not ~~open places~~: *There are a lot of open spaces in the centre of London.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Where would you go in order to do each of these things?",
+      "pairs": [
+        { "left": "dance", "right": "a club" },
+        { "left": "find a taxi", "right": "a taxi rank" },
+        { "left": "get married", "right": "a registry office" },
+        { "left": "buy a house", "right": "an estate agent" },
+        { "left": "borrow a book", "right": "a library" },
+        { "left": "see an exhibition", "right": "an art gallery" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't feel like cooking, so we bought a meal to eat at home from the Chinese ___.",
+      "hint": "(one word with a hyphen)",
+      "answers": ["take-away", "takeaway"],
+      "explanation": "A take-away sells cooked food to eat somewhere else."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the main hotels are within walking ___ of the centre.",
+      "hint": "(one word)",
+      "answers": ["distance"],
+      "explanation": "*Within walking distance* means close enough to walk to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An interesting new Science Park has been built on the ___ of the town, about two kilometres from the city centre.",
+      "hint": "(plural)",
+      "answers": ["outskirts"],
+      "explanation": "The outskirts are the outer parts of a town, away from the centre."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cambridge has a ___ of around 108,900, many of whom are students.",
+      "hint": "(the number of people living there)",
+      "answers": ["population"],
+      "explanation": "A town's population is the number of people who live in it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A number of the old university buildings are built on the ___ of former monasteries.",
+      "hint": "(the ground where something stood)",
+      "answers": ["site", "sites"],
+      "explanation": "A site is the piece of ground where a building stands or once stood."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the more picturesque colleges ___ the River Cam.",
+      "hint": "(have a view over)",
+      "answers": ["overlook"],
+      "explanation": "If a building overlooks something, it has a view over it from above."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The Fitzwilliam Museum is well ___ visiting.",
+      "hint": "(one word)",
+      "answers": ["worth"],
+      "explanation": "*Well worth + -ing* means it is definitely a good idea."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which city problem does each suggested solution deal with?",
+      "pairs": [
+        { "left": "They should provide good-quality state housing.", "right": "slums" },
+        { "left": "There should be stricter laws about traffic emissions.", "right": "pollution" },
+        { "left": "They should restrict the number of people living in any one area.", "right": "overcrowding" },
+        { "left": "People who destroy public property should do community service.", "right": "vandalism" },
+        { "left": "We need a much better public transport system.", "right": "traffic jams" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would each adjective please a tourist or put them off?",
+      "categories": ["Attractive", "Off-putting"],
+      "items": [
+        { "text": "picturesque", "category": 0 },
+        { "text": "elegant", "category": 0 },
+        { "text": "magnificent", "category": 0 },
+        { "text": "bustling", "category": 0 },
+        { "text": "filthy", "category": 1 },
+        { "text": "run-down", "category": 1 },
+        { "text": "packed", "category": 1 },
+        { "text": "deserted", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "There are a lot of open spaces in the centre of London.",
+        "There are a lot of open places in the centre of London.",
+        "There are a lot of opened spaces in the centre of London.",
+        "There are a lot of open sites in the centre of London."
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is *open spaces*, never *open places*."
+    },
+    {
+      "type": "true_false",
+      "statement": "A city is generally larger than a town and has a wider range of facilities.",
+      "answer": true,
+      "explanation": "Correct - the words overlap, but *city* suggests size and a fuller range of facilities."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe an art gallery.",
+      "words": ["It", "regularly", "puts on", "adventurous", "exhibitions", "by", "contemporary", "artists."],
+      "answer": "It regularly puts on adventurous exhibitions by contemporary artists.",
+      "explanation": "A gallery or theatre *puts on* an exhibition or a show."
+    }
+  ]
+}

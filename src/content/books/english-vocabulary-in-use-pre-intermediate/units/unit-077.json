@@ -1,0 +1,202 @@
+{
+  "number": 77,
+  "title": "Verb or adjective + preposition",
+  "subtitle": "worry about, good at, afraid of",
+  "summary": "Learn which preposition follows common verbs and adjectives, and how the preposition can change the meaning.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Verb + preposition",
+      "text": "Many verbs are always followed by the same preposition. Pay special attention to the ones that are different in your language: learn the verb and the preposition together, as one item.",
+      "examples": [
+        { "text": "I **agree with** him about the manager's decision.", "note": "= have the same opinion as" },
+        { "text": "Don't **worry about** your exam.", "note": "= be nervous about" },
+        { "text": "Many people **spend** a lot of money **on** clothes." },
+        { "text": "This land **belongs to** the company.", "note": "= it is the company's land" },
+        { "text": "I **translated** the letter **into** French." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More verbs + prepositions",
+      "columns": ["Verb + preposition", "Meaning", "Example"],
+      "rows": [
+        ["complain to / about", "say you are not happy", "She complained to the manager about the food."],
+        ["concentrate on", "think about only one thing", "I can't concentrate on my work when the radio is playing."],
+        ["rely on", "trust it; it will not go wrong", "We can rely on this photocopier."],
+        ["think of", "it's my plan (continuous form)", "I'm thinking of going to China."],
+        ["depend on", "be decided by something else", "I may go, but it depends on the weather."],
+        ["be satisfied with", "be pleased with", "His teachers were satisfied with his progress."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "depend on",
+      "text": "**Depend on** has more than one meaning. It can mean that something decides the answer, or that you need someone, or that you can trust someone.",
+      "examples": [
+        { "text": "Martha **depends on** her son for money.", "note": "= she needs his money" },
+        { "text": "We can **depend on** the others for support.", "note": "= we can trust them to support us" },
+        { "text": "It **depends on** the time.", "wrong": "It depends of the time" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "to or at?",
+      "left": {
+        "label": "to",
+        "text": "**to** = the words or the ball go towards the person in a normal, friendly way.",
+        "examples": [
+          "She **shouted to** me. (= spoke in a loud voice so I could hear)",
+          "He **threw** the ball **to** me. (= for me to catch it)"
+        ]
+      },
+      "right": {
+        "label": "at",
+        "text": "**at** = the person is angry, or wants to hit you.",
+        "examples": [
+          "He **shouted at** me. (= spoke in a loud voice because he was angry)",
+          "He **threw** the ball **at** me. (= in order to hit me)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Adjective + preposition",
+      "text": "Adjectives take prepositions too. Note **similar to** but **different from**, and **good at** but **interested in**.",
+      "examples": [
+        { "text": "I've never been very **good at** maths.", "note": "The opposite is bad at." },
+        { "text": "She's **afraid of** flying.", "note": "= frightened of" },
+        { "text": "She's **similar to** her sister, but very **different from** her brother." },
+        { "text": "He's very **interested in** photography." },
+        { "text": "I think she's **aware of** the problem.", "note": "= knows about" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More adjectives + prepositions",
+      "columns": ["Adjective + preposition", "Meaning", "Example"],
+      "rows": [
+        ["fond of", "like", "The neighbours are fond of the children."],
+        ["tired of", "bored or a bit angry about", "I'm tired of people telling me what to do."],
+        ["mad about", "like very much (informal)", "Katya is mad about Brad Pitt."],
+        ["short of", "not have much", "We're short of coffee at the moment."],
+        ["wrong with", "not working correctly", "There's something wrong with this TV."],
+        ["keen on / apply for / apologise for", "other useful partners", "He's keen on tennis. She applied for the job."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you write down a new verb or adjective in your notebook, always write the preposition with it, plus a short example: *satisfied with (my results)*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with the best ending.",
+      "pairs": [
+        { "left": "He's tired", "right": "of working at weekends." },
+        { "left": "She wasn't aware", "right": "of her mistakes." },
+        { "left": "She complained", "right": "to the manager." },
+        { "left": "He shouted at us", "right": "to get out of his garden." },
+        { "left": "He shouted to", "right": "his friend on the other side of the lake." },
+        { "left": "I don't agree", "right": "with them." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What is she worried ___? *B:* Her exams.",
+      "hint": "(preposition)",
+      "answers": ["about"],
+      "explanation": "Worry about something = be nervous about it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Who does this bag belong ___? *B:* It's mine.",
+      "hint": "(preposition)",
+      "answers": ["to"],
+      "explanation": "Something belongs to a person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What does he spend all his money ___? *B:* Clothes.",
+      "hint": "(preposition)",
+      "answers": ["on"],
+      "explanation": "We spend money on something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He was very angry, so he shouted ___ me.",
+      "options": ["at", "to", "with", "on"],
+      "answer": 0,
+      "explanation": "Shout at someone = shout because you are angry. Shout to someone = shout so that they can hear you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He threw the ball ___ me, but I dropped it.",
+      "options": ["to", "at", "for", "on"],
+      "answer": 0,
+      "explanation": "Throw something to someone = for them to catch it. Throw it at someone = in order to hit them."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition follows each adjective?",
+      "categories": ["+ of", "+ at", "+ in"],
+      "items": [
+        { "text": "afraid", "category": 0 },
+        { "text": "fond", "category": 0 },
+        { "text": "short", "category": 0 },
+        { "text": "aware", "category": 0 },
+        { "text": "good", "category": 1 },
+        { "text": "bad", "category": 1 },
+        { "text": "interested", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is she ___ to her sister? *B:* No, they're completely different.",
+      "hint": "(adjective = the same in some ways)",
+      "answers": ["similar"],
+      "explanation": "Similar to, but different from."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's ___ with the radio? *B:* I don't know, but it's not working.",
+      "hint": "(one word)",
+      "answers": ["wrong"],
+      "explanation": "There's something wrong with it = it is not working correctly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What's the matter? *B:* I can't ___ on this with the TV on.",
+      "hint": "(verb = think about one thing)",
+      "answers": ["concentrate"],
+      "explanation": "Concentrate on something = give all your attention to it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* We're a bit ___ of milk. *B:* OK. I'll buy some when I go out.",
+      "hint": "(adjective = we haven't got much)",
+      "answers": ["short"],
+      "explanation": "Short of something = you don't have much of it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which preposition follows each of these words?",
+      "pairs": [
+        { "left": "keen", "right": "on" },
+        { "left": "suffer", "right": "from" },
+        { "left": "succeed", "right": "in" },
+        { "left": "get married", "right": "to" },
+        { "left": "apply", "right": "for" },
+        { "left": "translate", "right": "into" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Max's children still depend of their parents for money.",
+      "answer": false,
+      "explanation": "Max's children still depend on their parents for money. We always say depend on."
+    }
+  ]
+}

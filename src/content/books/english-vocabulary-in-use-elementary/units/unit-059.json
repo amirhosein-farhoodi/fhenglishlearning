@@ -1,0 +1,198 @@
+{
+  "number": 59,
+  "title": "Suffixes",
+  "subtitle": "-er, -or, -ful, -less, -ly, -ness, -y",
+  "summary": "Use common suffixes like -er, -ful, -less and -ness to understand and build new words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a suffix?",
+      "text": "A **suffix** comes at the end of a word. It often changes the word from one kind of word to another - from a verb to a noun, or from an adjective to an adverb.",
+      "examples": [
+        { "text": "work - a work**er**", "note": "verb to noun" },
+        { "text": "happy - happi**ly**", "note": "adjective to adverb" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common suffixes",
+      "columns": ["Suffix", "Meaning", "Examples"],
+      "rows": [
+        ["**-er**, **-or** (noun)", "person", "worker, swimmer, instructor"],
+        ["**-er**, **-or** (noun)", "machine, thing", "cooker, calculator, opener"],
+        ["**-ful** (adjective)", "full of", "useful, beautiful"],
+        ["**-less** (adjective)", "without", "useless, endless"],
+        ["**-ly**", "makes an adverb from an adjective", "quickly, happily"],
+        ["**-ness**", "makes an abstract noun from an adjective", "happiness, sadness"],
+        ["**-y**", "makes an adjective from a noun", "sandy, sunny"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-er and -or: people",
+      "text": "We add **-er** or **-or** to a verb to make the person who does it. A **worker** works, a **swimmer** swims, a **builder** builds.",
+      "examples": [
+        { "text": "He's a hard **worker**. He works 12 hours a day." },
+        { "text": "She's a very good **swimmer**. She was in the Olympic team." },
+        { "text": "Her tennis is much better now that she has a new **instructor**." },
+        { "text": "A **footballer** is a person who plays football." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-er and -or: machines and things",
+      "text": "The same two suffixes also make the name of a machine or a thing that does the job.",
+      "examples": [
+        { "text": "We've got a new gas **cooker**, so the food should be delicious!" },
+        { "text": "Can we use our **calculators** in the maths test?" },
+        { "text": "A tin **opener** is a thing for opening tins." },
+        { "text": "A hair **dryer** is a thing you use to dry your hair." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "-ful and -less",
+      "left": {
+        "label": "-ful = full of",
+        "text": "The thing has a lot of it.",
+        "examples": ["Thanks for the information. It was very **useful**.", "What a **beautiful** photo. I think it will win the competition.", "The waiter was very **helpful**."]
+      },
+      "right": {
+        "label": "-less = without",
+        "text": "The thing has none of it.",
+        "examples": ["This book is no help at all - it's **useless**.", "I can't finish this book - it's **endless**.", "If something is **painless**, it doesn't hurt."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "-ly and -ness",
+      "text": "**-ly** turns an adjective into an adverb (how you do something). **-ness** turns an adjective into a noun for the feeling or quality.",
+      "examples": [
+        { "text": "He was late for work, so he went **quickly** to the station." },
+        { "text": "They are **happily** married with two young children." },
+        { "text": "The mother was smiling with **happiness** as she held her baby." },
+        { "text": "They said goodbye with great **sadness**." },
+        { "text": "Thank you very much for all your **kindness**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-y: from noun to adjective",
+      "text": "Add **-y** to a noun and you get an adjective, often about the weather or what something is made of.",
+      "examples": [
+        { "text": "That beach is very popular with tourists because it is long and **sandy**." },
+        { "text": "It's a lovely **sunny** day - let's go to the beach." },
+        { "text": "It was wet and **windy** most of last week." },
+        { "text": "**Rainy** and **snowy** describe the weather too." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Some words change their spelling before the suffix: *happy* becomes *happily* and *happiness*; *easy* becomes *easily*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "It's a lovely ___ day - let's go to the beach.",
+      "hint": "(sun)",
+      "answers": ["sunny"],
+      "explanation": "-y makes an adjective from a noun: sun - sunny."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her tennis is much better now that she has a new ___.",
+      "hint": "(a person who teaches you a sport)",
+      "answers": ["instructor"],
+      "explanation": "-or makes the person who does the job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They are ___ married with two young children.",
+      "hint": "(happy)",
+      "answers": ["happily"],
+      "explanation": "-ly makes an adverb from an adjective; happy becomes happily."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Thanks for the information. It was very ___.",
+      "options": ["useful", "useless", "endless", "painless"],
+      "answer": 0,
+      "explanation": "-ful means 'full of', so useful means 'full of use'."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with the noun it goes with.",
+      "pairs": [
+        { "left": "electric", "right": "cooker" },
+        { "left": "sandy", "right": "beach" },
+        { "left": "endless", "right": "fun" },
+        { "left": "hard", "right": "worker" },
+        { "left": "sunny", "right": "weather" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm tired because I slept very ___ last night.",
+      "hint": "(bad)",
+      "answers": ["badly"],
+      "explanation": "-ly makes the adverb: bad becomes badly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The waiter was very ___ and explained everything on the menu.",
+      "hint": "(help)",
+      "answers": ["helpful"],
+      "explanation": "-ful means 'full of', so helpful means 'full of help'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thank you very much for all your ___.",
+      "hint": "(kind)",
+      "answers": ["kindness"],
+      "explanation": "-ness makes a noun from an adjective: kind becomes kindness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's important not to make ___ mistakes in your writing.",
+      "hint": "(care)",
+      "answers": ["careless"],
+      "explanation": "-less means 'without', so careless means 'without care'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you know a good ___ who could do some work on our house?",
+      "hint": "(build)",
+      "answers": ["builder"],
+      "explanation": "-er makes the person who does the job: build becomes builder."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each -er / -or word mean a person or a thing?",
+      "categories": ["A person", "A machine or thing"],
+      "items": [
+        { "text": "worker", "category": 0 },
+        { "text": "swimmer", "category": 0 },
+        { "text": "instructor", "category": 0 },
+        { "text": "footballer", "category": 0 },
+        { "text": "cooker", "category": 1 },
+        { "text": "calculator", "category": 1 },
+        { "text": "tin opener", "category": 1 },
+        { "text": "hair dryer", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If something is painless, it hurts a lot.",
+      "answer": false,
+      "explanation": "If something is painless, it does not hurt. -less means 'without'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Describe the beach the tourists love.",
+      "words": ["That", "beach", "is", "long", "and", "sandy."],
+      "answer": "That beach is long and sandy."
+    }
+  ]
+}

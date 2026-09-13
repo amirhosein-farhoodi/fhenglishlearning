@@ -1,0 +1,169 @@
+{
+  "number": 22,
+  "title": "Eating out",
+  "subtitle": "café, restaurant, take-away",
+  "summary": "Name the places where you can eat, read a menu, and order a meal in a restaurant.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Places where you can eat",
+      "text": "There are lots of different places to eat. A **café** is for a cup of tea or coffee and a snack. A **restaurant** is for a meal and is more expensive. A **take-away** is for food you eat at home.",
+      "examples": [
+        { "text": "We had a cake and a coffee in a small **café**." },
+        { "text": "It was her birthday, so we took her to a **restaurant**." },
+        { "text": "I'm tired tonight. Let's get a **take-away**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where to eat",
+      "columns": ["Place", "What you can get there"],
+      "rows": [
+        ["café", "a cup of tea or coffee and a snack (a sandwich, a cake); sometimes meals too"],
+        ["restaurant", "a meal; more expensive than a café"],
+        ["bar / pub", "alcohol and soft drinks (non-alcoholic drinks, e.g. fruit juice); usually a meal or a snack too"],
+        ["fast food restaurant", "a quick hot meal, for example burger and chips"],
+        ["take-away", "a snack or a meal that you take home to eat"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A restaurant menu",
+      "columns": ["Course", "Dishes"],
+      "rows": [
+        ["Starters", "soup of the day (v), mixed salad (v)"],
+        ["Main courses", "steak with chips or new potatoes, fish and chips, vegetable curry (v), salmon fillet with green beans, burger with chips and mushrooms"],
+        ["Desserts", "chocolate ice cream, apple pie, fruit salad"]
+      ],
+      "note": "(v) means the dish is **vegetarian** - there is no meat or fish in it."
+    },
+    {
+      "type": "explain",
+      "heading": "Ordering your food",
+      "text": "The **waiter** brings your food. First the waiter asks if you are ready, then you say what you want with **I'd like ...** or **I'll have ...**",
+      "examples": [
+        { "text": "*Waiter:* Are you ready to **order**? *Customer:* Yes, **I'd like** the steak, please." },
+        { "text": "*Waiter:* Would you like it with chips or new potatoes? *Customer:* With chips, please." },
+        { "text": "*Waiter:* **How would you like** your steak - **rare**, **medium** or **well-done**?" },
+        { "text": "*Waiter:* And what would you like to drink? *Customer:* **I'll have** a coke, please." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "During and after the meal",
+      "text": "In the middle of the meal the waiter asks if everything is all right. At the end you ask for the **bill** - the piece of paper that says how much the meal costs.",
+      "examples": [
+        { "text": "*Waiter:* Is everything all right? *Customer:* Thank you, it's **delicious**.", "note": "delicious = very good" },
+        { "text": "*Customer:* Could I have the **bill**, please? *Waiter:* Yes, of course." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say *Are you ready to order?* - not ~~Are you ready for order?~~ - and *An orange juice, please*, because *orange* begins with a vowel sound."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Where would you go to do these things?",
+      "pairs": [
+        { "left": "buy a meal and take it home to eat", "right": "a take-away" },
+        { "left": "have a romantic dinner for two", "right": "a restaurant" },
+        { "left": "eat a quick lunch", "right": "a fast food restaurant" },
+        { "left": "have a cake and a cup of coffee", "right": "a café" },
+        { "left": "drink a glass of wine with friends", "right": "a bar" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can have tomato, vegetable or chicken ___ as a starter.",
+      "hint": "(steak / curry / pie / soup / salad)",
+      "answers": ["soup"],
+      "explanation": "Soup of the day is a starter on the menu."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like the beef, chicken or vegetable ___ as a main course.",
+      "hint": "(steak / curry / pie / soup / salad)",
+      "answers": ["curry"],
+      "explanation": "Vegetable curry is a main course on the menu."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll have the mixed, tomato or fruit ___.",
+      "hint": "(steak / curry / pie / soup / salad)",
+      "answers": ["salad"],
+      "explanation": "Mixed salad is a starter and fruit salad is a dessert."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can I have the apple ___, please?",
+      "hint": "(steak / curry / pie / soup / salad)",
+      "answers": ["pie"],
+      "explanation": "Apple pie is a dessert on the menu."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Do you like your ___ well-done, medium or rare?",
+      "options": ["steak", "soup", "salad", "ice cream"],
+      "answer": 0,
+      "explanation": "We use rare, medium and well-done to say how we want our steak cooked."
+    },
+    {
+      "type": "word_order",
+      "prompt": "What does the waiter say when you sit down?",
+      "words": ["Are", "you", "ready", "to", "order?"],
+      "answer": "Are you ready to order?",
+      "explanation": "We say ready to order, not ready for order."
+    },
+    {
+      "type": "true_false",
+      "statement": "Waiter: What would you like your steak? Rare, medium or well-done?",
+      "answer": false,
+      "explanation": "How would you like your steak? Rare, medium or well-done?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Customer: Yes, I'd like vegetable soup and steak, please.",
+      "answer": true,
+      "explanation": "Correct. We order with I'd like ... or I'll have ..."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Waiter: What would you like to ___? Customer: An orange juice, please.",
+      "hint": "(one verb)",
+      "answers": ["drink"],
+      "explanation": "The waiter asks What would you like to drink? after the food order."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which dish on the menu can a vegetarian eat?",
+      "options": ["vegetable curry", "fish and chips", "burger with chips", "salmon fillet"],
+      "answer": 0,
+      "explanation": "The (v) dishes are soup of the day, mixed salad and vegetable curry."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each dish on the right part of the menu.",
+      "categories": ["Starters", "Main courses", "Desserts"],
+      "items": [
+        { "text": "soup of the day", "category": 0 },
+        { "text": "mixed salad", "category": 0 },
+        { "text": "fish and chips", "category": 1 },
+        { "text": "vegetable curry", "category": 1 },
+        { "text": "steak with chips", "category": 1 },
+        { "text": "chocolate ice cream", "category": 2 },
+        { "text": "apple pie", "category": 2 },
+        { "text": "fruit salad", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The meal is finished. Could I have the ___, please?",
+      "hint": "(you pay it)",
+      "answers": ["bill", "the bill"],
+      "explanation": "The bill tells you how much your meal costs."
+    }
+  ]
+}

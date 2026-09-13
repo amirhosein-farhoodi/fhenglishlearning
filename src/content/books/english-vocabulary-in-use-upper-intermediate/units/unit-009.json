@@ -1,0 +1,197 @@
+{
+  "number": 9,
+  "title": "Idioms describing people",
+  "subtitle": "a heart of gold, a head like a sieve",
+  "summary": "Use English idioms to describe what people are like - their kindness, their common sense, how odd they are, and who is who in the classroom.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Positive and negative qualities",
+      "left": {
+        "label": "Positive",
+        "examples": [
+          "She has a **heart of gold**. [very kind, generous]",
+          "He's **as good as gold**. [helpful, well-behaved - used generally for children]",
+          "Her **heart's in the right place**. [she is a good and kind person even if she doesn't always seem so]"
+        ]
+      },
+      "right": {
+        "label": "Negative",
+        "examples": [
+          "She's **as hard as nails**. [no sympathy for others]",
+          "He's **a nasty piece of work**. [unpleasant]",
+          "He's such an **awkward customer**. [a difficult person to deal with]"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Difficult people",
+      "text": "Two very common idioms describe someone who annoys everyone. Note that **a pain in the neck** always takes *the*, while **get on someone's nerves** always takes a possessive.",
+      "examples": [
+        { "text": "She's **a pain in the neck**. Nobody likes her.", "note": "a nuisance, difficult" },
+        { "text": "He **gets on everyone's nerves**.", "note": "he irritates everybody" },
+        { "text": "My little brother really **gets on my nerves** when I'm trying to work." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Idioms based on 'head'",
+      "columns": ["Idiom", "Meaning"],
+      "rows": [
+        ["to have your head screwed on", "be sensible (informal)"],
+        ["to have a head for heights", "not suffer from vertigo"],
+        ["to have a head like a sieve", "have a bad memory"],
+        ["to have a good head for figures", "be good at maths"],
+        ["to have your head in the clouds", "be unaware of reality"],
+        ["to be head and shoulders above someone", "be much better than them"],
+        ["to bury your head in the sand", "refuse to think about a difficult situation"],
+        ["to keep your head", "stay calm in a difficult situation"]
+      ],
+      "note": "Learning idioms in groups round a key word - gold, heart, head - makes them much easier to remember."
+    },
+    {
+      "type": "explain",
+      "heading": "How people relate to the social norm",
+      "text": "These idioms place someone on a scale from completely normal to completely mad.",
+      "examples": [
+        { "text": "She's a bit of an **odd-ball**.", "note": "peculiar, strange" },
+        { "text": "He's really **over the top**.", "note": "very exaggerated in behaviour" },
+        { "text": "He's **gone round the bend**, if you ask me.", "note": "absolutely crazy" },
+        { "text": "My politics are very **middle-of-the-road**.", "note": "very normal, neither left- nor right-wing" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Who's who in the class",
+      "columns": ["Idiom", "Meaning"],
+      "rows": [
+        ["the teacher's pet", "the teacher's favourite"],
+        ["top of the class", "the one who gets the best marks"],
+        ["a know-all", "someone who thinks they know everything"],
+        ["a big-head", "someone with a high opinion of themselves"],
+        ["a lazy-bones", "a very lazy person"]
+      ],
+      "note": "Know-all, big-head and lazy-bones are used about people outside the classroom too."
+    },
+    {
+      "type": "tip",
+      "text": "*As good as gold* is used mainly about children; *a heart of gold* is used about anyone who is very kind."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "She does a lot of voluntary work; she has a heart ___.",
+      "hint": "(two words)",
+      "answers": ["of gold"],
+      "explanation": "To have a heart of gold = to be very kind and generous."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't expect any sympathy from the boss; she's as hard ___.",
+      "hint": "(two words)",
+      "answers": ["as nails"],
+      "explanation": "As hard as nails = having no sympathy for other people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sure Ahmed will help you; he's as good ___.",
+      "hint": "(two words)",
+      "answers": ["as gold"],
+      "explanation": "As good as gold = helpful and well-behaved."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Although Florian sometimes seems bad-tempered, his heart is ___.",
+      "hint": "(four words)",
+      "answers": ["in the right place"],
+      "explanation": "If someone's heart is in the right place, they are kind even though they may not seem so."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't think you'll like him; he's a nasty ___.",
+      "hint": "(three words)",
+      "answers": ["piece of work"],
+      "explanation": "A nasty piece of work = a thoroughly unpleasant person."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each classroom character with the description.",
+      "pairs": [
+        { "left": "an irritating person who thinks they know everything", "right": "a know-all" },
+        { "left": "the teacher's favourite", "right": "the teacher's pet" },
+        { "left": "someone who thinks they are the best and says so", "right": "a big-head" },
+        { "left": "the one who gets the best marks", "right": "top of the class" },
+        { "left": "a person who is very lazy", "right": "a lazy-bones" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd better write it in my notebook. I have a head like ___.",
+      "hint": "(two words)",
+      "answers": ["a sieve"],
+      "explanation": "To have a head like a sieve = to have a very bad memory."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ask Martha to check those sums. She has a good head for ___.",
+      "hint": "(one word)",
+      "answers": ["figures"],
+      "explanation": "A good head for figures = being good at maths."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't ask me to go up that tower. I'm afraid I don't have a head for ___.",
+      "hint": "(one word)",
+      "answers": ["heights"],
+      "explanation": "To have a head for heights = not to suffer from vertigo."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The problem won't go away, so there's no point ___.",
+      "options": [
+        "burying your head in the sand",
+        "keeping your head",
+        "having your head screwed on",
+        "being head and shoulders above the rest"
+      ],
+      "answer": 0,
+      "explanation": "To bury your head in the sand = to refuse to think about a difficult situation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Even when everyone around him is panicking, Raul always ___.",
+      "options": ["keeps his head", "has his head in the clouds", "has a head like a sieve", "goes round the bend"],
+      "answer": 0,
+      "explanation": "To keep your head = to stay calm in a difficult situation."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which part of the body completes each idiom?",
+      "categories": ["... your nerves", "... the neck", "... head"],
+      "items": [
+        { "text": "He gets on everyone's ___", "category": 0 },
+        { "text": "My brother really gets on my ___", "category": 0 },
+        { "text": "She's a pain in ___", "category": 1 },
+        { "text": "That noise is a pain in ___", "category": 1 },
+        { "text": "She has her ___ screwed on", "category": 2 },
+        { "text": "He has his ___ in the clouds", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If your politics are *middle-of-the-road*, you have very radical, left-wing ideas.",
+      "answer": false,
+      "explanation": "Middle-of-the-road means very normal, with no radical ideas - neither left- nor right-wing."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["Max", "is", "head", "and", "shoulders", "above", "everyone", "else", "in", "the", "class."],
+      "answer": "Max is head and shoulders above everyone else in the class.",
+      "explanation": "To be head and shoulders above someone = to be much better than them."
+    }
+  ]
+}

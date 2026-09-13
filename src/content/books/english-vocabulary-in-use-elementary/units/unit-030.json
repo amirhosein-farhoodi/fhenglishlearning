@@ -1,0 +1,172 @@
+{
+  "number": 30,
+  "title": "In the countryside",
+  "subtitle": "a village, a cottage, wildlife",
+  "summary": "Describe the countryside - hills, fields, villages and wildlife - and say what people do there.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The countryside and the country",
+      "text": "**The countryside** and **the country** both mean 'not the city'. Be careful: **country** can also mean a nation, for example France or China.",
+      "examples": [
+        { "text": "My parents live in **the countryside**." },
+        { "text": "She wants to live in **the country**, not in a big city." },
+        { "text": "China is a very big **country**.", "note": "here country = nation" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Things we can see in the countryside",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["mountains", "very high land, often with snow at the top"],
+        ["hills", "high land, but lower than mountains"],
+        ["a forest", "a very big area of trees"],
+        ["a wood", "a small area of trees"],
+        ["a lake", "water with land all around it"],
+        ["a river", "water that runs to the sea"],
+        ["fields", "flat land where a farmer grows food or keeps animals"],
+        ["a path", "a narrow way for walking"],
+        ["a country road", "a small quiet road between the fields"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Living and working in the countryside",
+      "text": "People in the countryside usually live in a small **town** (about 6,000 people) or a **village** (about 700 people). A **farmer** lives on a **farm** and works in the **fields**. A **cottage** is a small house in a village or in the countryside.",
+      "examples": [
+        { "text": "My brother is a **farmer**. He lives on a **farm**." },
+        { "text": "It's not a big house; it's just a **cottage**." },
+        { "text": "The farm is near a **village** which has 800 people." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Nature and conservation",
+      "text": "**Nature** means everything in the natural world - animals, birds and plants. **Wildlife** means the animals, birds, fish and insects of a place. In a **conservation area** or a **national park**, wildlife and nature are protected.",
+      "examples": [
+        { "text": "I love **nature**.", "wrong": "I love the nature" },
+        { "text": "I like walking in the **countryside**.", "wrong": "walking in the nature" },
+        { "text": "There is wonderful **wildlife** in the north of the country." },
+        { "text": "In the south there is a **national park**." }
+      ],
+      "note": "Nature is not a place, so we never say 'in the nature'."
+    },
+    {
+      "type": "explain",
+      "heading": "Things to do in the countryside",
+      "text": "You can take food and drink and **have a picnic**. You can **go walking** or **go skiing** in the mountains.",
+      "examples": [
+        { "text": "We **had a picnic** sitting by the river." },
+        { "text": "We **went walking** along a five-kilometre path." },
+        { "text": "We **went skiing** down the mountain." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A wood is small and a forest is big. Both are full of trees."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "My brother is a farmer. He lives on a ___.",
+      "hint": "(four letters)",
+      "answers": ["farm"],
+      "explanation": "A farmer lives on a farm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not a big house; it's just a ___.",
+      "hint": "(a small house in the countryside)",
+      "answers": ["cottage"],
+      "explanation": "A cottage is a small house in a village or the countryside."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The farm is near a ___ which has 800 people.",
+      "hint": "(seven letters)",
+      "answers": ["village"],
+      "explanation": "A village is a very small place, smaller than a town."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Twenty kilometres from the village there is a small ___. It has 9,000 people.",
+      "hint": "(four letters)",
+      "answers": ["town"],
+      "explanation": "A town is bigger than a village."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the description with the word.",
+      "pairs": [
+        { "left": "a very big area of trees", "right": "a forest" },
+        { "left": "a small area of trees", "right": "a wood" },
+        { "left": "water with land all around it", "right": "a lake" },
+        { "left": "a narrow way for walking", "right": "a path" },
+        { "left": "flat land where a farmer grows food", "right": "fields" },
+        { "left": "high land, but lower than mountains", "right": "hills" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the beginning of each sentence with its end.",
+      "pairs": [
+        { "left": "We went swimming", "right": "in the lake. The water was warm." },
+        { "left": "We went walking", "right": "along a five-kilometre path." },
+        { "left": "We went skiing", "right": "down the mountain." },
+        { "left": "We saw some wonderful wildlife", "right": "in the national park." },
+        { "left": "We had a picnic", "right": "sitting by the river." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "He loves ___ - birds, plants and animals.",
+      "options": ["nature", "the nature", "a nature", "natures"],
+      "answer": 0,
+      "explanation": "Nature never takes the."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She doesn't like cities. She wants to live in ___.",
+      "options": ["the country", "country", "a nature", "the nature"],
+      "answer": 0,
+      "explanation": "The country (or the countryside) means 'not the city'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word means the animals, birds, fish and insects of a place?",
+      "options": ["wildlife", "countryside", "conservation", "fields"],
+      "answer": 0,
+      "explanation": "Wildlife means all the wild animals, birds, fish and insects."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Near the village there is a conservation ___, where wildlife and nature are protected.",
+      "hint": "(four letters)",
+      "answers": ["area"],
+      "explanation": "In a conservation area, wildlife and nature are protected."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the south of the country there is a national ___ - a very big conservation area.",
+      "hint": "(four letters)",
+      "answers": ["park"],
+      "explanation": "A national park is a very big national conservation area."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like walking in the nature at the weekend.",
+      "answer": false,
+      "explanation": "I like walking in the countryside at the weekend. Nature is not a place, so we do not say 'in the nature'."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what a farmer does.",
+      "words": ["A farmer", "lives", "on a farm", "and", "works", "in the fields."],
+      "answer": "A farmer lives on a farm and works in the fields.",
+      "explanation": "We live on a farm and work in the fields."
+    }
+  ]
+}

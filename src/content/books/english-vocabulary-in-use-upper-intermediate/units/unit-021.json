@@ -1,0 +1,184 @@
+{
+  "number": 21,
+  "title": "Music",
+  "subtitle": "tracks, playlists, play by ear",
+  "summary": "Talk about the music you listen to and the way you listen to it - tracks and playlists, the people in a band, kinds of music, and the collocations musicians use.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Downloading and managing your music",
+      "text": "Downloading music as **MP3** files is easy. An MP3 is a popular type of audio file that you can listen to on a computer or mobile device.",
+      "examples": [
+        { "text": "You can download a whole **album** or individual **tracks** onto your phone or computer.", "note": "a track = one song or piece of music from an album" },
+        { "text": "You can save your favourite albums and tracks in **playlists** so you can find them easily." },
+        { "text": "You can **sync** the music files on your computer with your phone.", "note": "sync (more formal: synchronise) = have exactly the same files and data on more than one device" },
+        { "text": "You can also **stream** music from the Internet to other rooms in your home.", "note": "stream = play music in real time from one source to another" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A typical rock band",
+      "columns": ["Instrument", "The person"],
+      "rows": [
+        ["voice", "the lead singer - sings the songs"],
+        ["lead guitar", "the lead guitarist - plays the highest notes on the guitar"],
+        ["bass", "the bass guitarist, or just *the bass* - plays the lowest notes"],
+        ["keyboard", "the keyboard player - plays an electric piano or organ"],
+        ["drums", "the drummer - keeps the rhythm with two sticks"]
+      ],
+      "note": "If it is obvious you are talking about a band, you can say *the bass* rather than *the bass player*."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about the band",
+      "text": "Notice that we say someone **plays** an instrument, and that many band roles have both a noun for the instrument and a noun for the person.",
+      "examples": [
+        { "text": "She's **lead singer** in a rock band. One of her brothers plays **lead guitar** and her other brother is a **keyboard player**, so it's a real family band." },
+        { "text": "What would you rather play in a band, **drums** or **bass**?" },
+        { "text": "I could never be a **drummer** but I think I could become a fairly good **bass guitarist**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Types of music",
+      "text": "One family, many different tastes. If you are **into** a kind of music, you are interested in it and enthusiastic about it.",
+      "examples": [
+        { "text": "My sister Niki loves **classical music**, my uncle Ben's a **folk** fan and my father loves **jazz**." },
+        { "text": "I like **R&B** and **hip-hop**. I even compose a bit of **rap** myself!", "note": "R&B = Rhythm and Blues, originally a black American form of blues with a strong rhythm; hip-hop = a style of popular music where the words are spoken rather than sung; rap = the words spoken in hip-hop" },
+        { "text": "My older brother is **into** The Beatles and other **60s music**.", "note": "60s music = music from the 1960s" },
+        { "text": "My mother loves film **soundtracks** but I just find them uninteresting.", "note": "a soundtrack = the music from a film or TV show" },
+        { "text": "One type of music I can't stand is the **canned music** you get in supermarkets and airports.", "note": "canned music = artificial or recorded music played in the background" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Collocations for musical activities",
+      "text": "These phrases come up whenever people talk about musical ability. *A good ear* and *pick out* are informal.",
+      "examples": [
+        { "text": "She plays the guitar but she doesn't **read music**. She plays **by ear**." },
+        { "text": "She's got a **good ear**. She can **pick out** a tune on almost any instrument." },
+        { "text": "She's a very **talented musician**." },
+        { "text": "You can **make music** in lots of ways. You don't need to be a **trained musician** to enjoy music **to the full**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say **classical music**, never ~~classic music~~ - and remember that *music* is uncountable, so *they played fantastic music*, not ~~fantastic musics~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "In a typical rock band, who does what?",
+      "pairs": [
+        { "left": "sings the songs", "right": "the lead singer" },
+        { "left": "keeps the rhythm using two sticks", "right": "the drummer" },
+        { "left": "plays the lowest musical notes", "right": "the bass player" },
+        { "left": "plays an electric piano or organ", "right": "the keyboard player" },
+        { "left": "plays the highest notes on the guitar", "right": "the lead guitarist" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I downloaded the songs to a ___ on my phone, so I can find them easily.",
+      "hint": "(a saved list of tracks)",
+      "answers": ["playlist"],
+      "explanation": "You save favourite albums and tracks in playlists."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I just got six ___ from the new album, not the whole thing.",
+      "hint": "(individual songs)",
+      "answers": ["tracks"],
+      "explanation": "A track is one song or piece of music from an album."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I download music files but then forget to ___ them with my phone, so I don't have them when I travel.",
+      "hint": "(informal, 4 letters)",
+      "answers": ["sync", "synchronise"],
+      "explanation": "To sync (formally, synchronise) is to have exactly the same files on more than one device."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I can ___ music from the computer in my study to the audio system in the living room.",
+      "hint": "(play it in real time from one source to another)",
+      "answers": ["stream"],
+      "explanation": "You stream music when it plays in real time from one source to another."
+    },
+    {
+      "type": "matching",
+      "prompt": "Six people describe what they listen to. Match each comment with the kind of music.",
+      "pairs": [
+        { "left": "I love the film and I'm going to buy the music from it.", "right": "soundtracks" },
+        { "left": "I just love the way they can speak the words so fast.", "right": "hip-hop" },
+        { "left": "I love the old original tracks by The Beatles and the Rolling Stones.", "right": "60s music" },
+        { "left": "I listen to the traditional songs of my country.", "right": "folk" },
+        { "left": "I've always loved the blues and I like music with a strong rhythm.", "right": "R&B" },
+        { "left": "I must be the only person who actually likes the music in supermarkets.", "right": "canned music" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you have a good ___ for music?",
+      "hint": "(3 letters - a body part)",
+      "answers": ["ear"],
+      "explanation": "To have a good ear is to be able to hear and reproduce music accurately."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She never looks at the printed notes - she plays entirely ___ ear.",
+      "hint": "(one short word)",
+      "answers": ["by"],
+      "explanation": "To play by ear is to play from memory or by listening, not from written music."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you ___ out a tune on an instrument you've never played before?",
+      "hint": "(informal phrasal verb)",
+      "answers": ["pick"],
+      "explanation": "To pick out a tune is to work it out and play it, often slowly, without music."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to complete the advertisement.",
+      "words": ["You", "don't", "need", "to", "be", "a", "trained", "musician", "to enjoy music", "to the full."],
+      "answer": "You don't need to be a trained musician to enjoy music to the full.",
+      "explanation": "A trained musician is someone who has studied music formally; *to the full* means completely."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a kind of music or a person in a band?",
+      "categories": ["A kind of music", "A person in a band"],
+      "items": [
+        { "text": "hip-hop", "category": 0 },
+        { "text": "folk", "category": 0 },
+        { "text": "jazz", "category": 0 },
+        { "text": "R&B", "category": 0 },
+        { "text": "drummer", "category": 1 },
+        { "text": "bass guitarist", "category": 1 },
+        { "text": "lead singer", "category": 1 },
+        { "text": "keyboard player", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "She loves classical music.",
+        "She loves classic music.",
+        "She loves classical musics.",
+        "She loves the classic music."
+      ],
+      "answer": 0,
+      "explanation": "We say *classical music*, never *classic music*, and *music* is uncountable."
+    },
+    {
+      "type": "true_false",
+      "statement": "They played fantastic musics for an hour.",
+      "answer": false,
+      "explanation": "*Music* is uncountable: They played fantastic music for an hour."
+    }
+  ]
+}

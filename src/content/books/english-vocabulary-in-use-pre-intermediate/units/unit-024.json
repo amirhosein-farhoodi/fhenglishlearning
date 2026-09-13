@@ -1,0 +1,201 @@
+{
+  "number": 24,
+  "title": "Food",
+  "subtitle": "fruit, vegetables, salad, meat and seafood",
+  "summary": "Name common fruit, vegetables, meat and seafood in English, and talk about what goes into a salad.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Fruit",
+      "columns": ["Fruit", "What it is like"],
+      "rows": [
+        ["a **peach**", "soft, orange-yellow, with a big stone inside"],
+        ["a **strawberry**", "small, red and sweet"],
+        ["**grapes**", "small green or purple fruit; they grow in a **bunch**"],
+        ["**olives**", "small green or black fruit, usually eaten with salad"],
+        ["a **pineapple**", "large, with a hard skin and yellow fruit inside"],
+        ["a **pear**", "green or yellow, wider at the bottom"],
+        ["a **melon**", "large and round, with a thick skin you do not eat"],
+        ["a **lemon**", "yellow and very sour"],
+        ["a **coconut**", "big and brown, with a very hard shell"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Vegetables",
+      "columns": ["Vegetable", "Vegetable"],
+      "rows": [
+        ["**beans**", "**peas**"],
+        ["an **onion**", "**garlic**"],
+        ["a **carrot**", "**mushrooms**"],
+        ["an **aubergine**", "a **courgette**"],
+        ["a **pepper**", "a **cabbage**"],
+        ["**broccoli**", "**spinach**"]
+      ],
+      "note": "Notice the spelling of **aubergine** and **courgette** - both words come from French."
+    },
+    {
+      "type": "explain",
+      "heading": "Salad",
+      "text": "A **salad** is usually a mixture of uncooked **ingredients**. In Britain it mainly has **lettuce**, as well as **tomato**, **cucumber**, **onion** and other things.",
+      "examples": [
+        { "text": "The main ingredient in a green salad is **lettuce**." },
+        { "text": "We often put **salad dressing** on a salad.", "note": "usually oil and vinegar, or perhaps oil and lemon" },
+        { "text": "A mixed salad usually has lettuce, **tomato** and **cucumber**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Animals and their meat",
+      "columns": ["Animal", "Meat"],
+      "rows": [
+        ["a cow", "**beef**"],
+        ["a calf (a young cow)", "**veal**"],
+        ["a lamb (a young sheep)", "**lamb**"],
+        ["a pig", "**pork**"],
+        ["a chicken / a hen", "**chicken**"]
+      ],
+      "note": "A person who does not eat meat is a **vegetarian**."
+    },
+    {
+      "type": "explain",
+      "heading": "Fish and seafood",
+      "text": "**Salmon** is a popular pink fish. **Prawns**, **mussels** and **crab** are **seafood** - animals from the sea with a shell.",
+      "examples": [
+        { "text": "We had grilled **salmon** and a green salad." },
+        { "text": "**Prawns**, **mussels** and **crab** are all types of seafood." },
+        { "text": "My sister is a **vegetarian**, so she doesn't eat meat or fish." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The skin of fruit",
+      "text": "The **skin** is the outside of a fruit. You usually eat the skin of **grapes**, and often the skin of **peaches** and **pears**. You never eat the skin of a **pineapple**, a **melon** or a **lemon**.",
+      "examples": [
+        { "text": "I always wash **grapes**, but I eat the **skin**." },
+        { "text": "You have to take the **skin** off a **melon** before you eat it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn a new food word with a partner word: *a bunch of grapes*, *a clove of garlic*, *salad dressing*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A vegetable beginning with the letter g: ___ .",
+      "hint": "(it is small, white and very strong in taste)",
+      "answers": ["garlic"],
+      "explanation": "Garlic is a strong-tasting vegetable used in cooking."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A vegetable beginning with the letter s: ___ .",
+      "hint": "(dark green leaves)",
+      "answers": ["spinach"],
+      "explanation": "Spinach is a green leaf vegetable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A fruit beginning with the letter s: a ___ .",
+      "hint": "(small and red)",
+      "answers": ["strawberry", "strawberries"],
+      "explanation": "A strawberry is a small red fruit."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Fruit or vegetable?",
+      "categories": ["Fruit", "Vegetable"],
+      "items": [
+        { "text": "peach", "category": 0 },
+        { "text": "melon", "category": 0 },
+        { "text": "olive", "category": 0 },
+        { "text": "mushroom", "category": 1 },
+        { "text": "onion", "category": 1 },
+        { "text": "spinach", "category": 1 },
+        { "text": "courgette", "category": 1 },
+        { "text": "pear", "category": 0 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out? pork - veal - salmon - beef",
+      "options": ["salmon", "pork", "veal", "beef"],
+      "answer": 0,
+      "explanation": "Salmon is a fish; the others are all meat."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out? lettuce - cabbage - tomato - cucumber",
+      "options": ["cabbage", "lettuce", "tomato", "cucumber"],
+      "answer": 0,
+      "explanation": "The others are all used in salad."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out? crab - broccoli - mussels - prawn",
+      "options": ["broccoli", "crab", "mussels", "prawn"],
+      "answer": 0,
+      "explanation": "The others are all types of seafood."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out? peach - onion - pepper - courgette",
+      "options": ["peach", "onion", "pepper", "courgette"],
+      "answer": 0,
+      "explanation": "A peach is a fruit; the others are all vegetables."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each animal with the name of its meat.",
+      "pairs": [
+        { "left": "cow", "right": "beef" },
+        { "left": "calf", "right": "veal" },
+        { "left": "pig", "right": "pork" },
+        { "left": "hen", "right": "chicken" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you usually eat the skin of these fruits?",
+      "categories": ["Yes", "No"],
+      "items": [
+        { "text": "pineapple", "category": 1 },
+        { "text": "melon", "category": 1 },
+        { "text": "lemon", "category": 1 },
+        { "text": "grapes", "category": 0 },
+        { "text": "peaches", "category": 0 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the main ingredient in a green salad? ___ .",
+      "hint": "(green leaves)",
+      "answers": ["lettuce"],
+      "explanation": "In Britain a green salad is mainly lettuce."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What do we usually call someone who doesn't eat meat? A ___ .",
+      "hint": "(one word)",
+      "answers": ["vegetarian", "a vegetarian"],
+      "explanation": "A vegetarian does not eat meat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What do we call a number of grapes that grow together? A ___ of grapes.",
+      "hint": "(one word)",
+      "answers": ["bunch"],
+      "explanation": "Grapes grow in a bunch."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order. What are the two most common things in salad dressing?",
+      "words": ["Salad", "dressing", "is", "usually", "oil", "and", "vinegar."],
+      "answer": "Salad dressing is usually oil and vinegar.",
+      "explanation": "Oil and vinegar (or oil and lemon) are the usual ingredients."
+    }
+  ]
+}

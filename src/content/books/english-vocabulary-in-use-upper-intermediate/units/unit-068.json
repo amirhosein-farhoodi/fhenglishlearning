@@ -1,0 +1,202 @@
+{
+  "number": 68,
+  "title": "Linking words in writing",
+  "subtitle": "firstly, in other words, to sum up",
+  "summary": "Organise a formal text with linking words that list points, explain and exemplify, and refer backwards and forwards in your writing.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Listing your points",
+      "text": "A formal text usually moves through a list of points. Start with **first**, **firstly** or **first of all**, continue with **secondly**, **thirdly** and **next**, and close the list with **finally** or **lastly**.",
+      "examples": [
+        { "text": "**First of all**, we must consider ..." },
+        { "text": "**Next**, it is important to remember that ..." },
+        { "text": "**Finally**, we should recall that ..." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Changing and limiting the topic",
+      "text": "These phrases tell the reader what you are about to do with the topic: move to a new one, set one aside, or add a side point that is not part of the main argument.",
+      "examples": [
+        { "text": "**Turning to** the question of foreign policy, ...", "note": "changing to a new topic" },
+        { "text": "**Leaving aside** the question of pollution, there are also other reasons ...", "note": "the writer will not deal with that question here" },
+        { "text": "**In parenthesis**, let us not forget that ...", "note": "a side issue, not part of the main argument" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Summing up and finishing",
+      "columns": ["Phrase", "Register", "What it signals"],
+      "rows": [
+        ["in summary, to sum up", "neutral to formal", "listing or summing up the main points"],
+        ["in sum", "much more formal", "summing up the main points"],
+        ["in conclusion, to conclude", "formal", "this is the end of the text"],
+        ["finally, lastly", "neutral", "the final point on a list"]
+      ],
+      "note": "In conclusion just means the text is ending; in summary means you are gathering up the arguments."
+    },
+    {
+      "type": "compare",
+      "heading": "lastly or at last?",
+      "left": {
+        "label": "lastly - making a final point",
+        "examples": [
+          "**Lastly**, let us consider what the future holds.",
+          "**Lastly**, how can we help victims of crime?"
+        ]
+      },
+      "right": {
+        "label": "at last - finally, after a long time",
+        "examples": [
+          "**At last** I've finished my essay - what a relief!",
+          "It took three hours, but **at last** the train arrived."
+        ]
+      },
+      "note": "Do not write ~~At last let us consider ...~~ when you mean Lastly."
+    },
+    {
+      "type": "explain",
+      "heading": "Explaining, exemplifying and rephrasing",
+      "text": "Use these when you want to say the same thing differently, or to give an example. **That is to say** is much more formal than **in other words**; **as it were** is more formal than **so to speak**.",
+      "examples": [
+        { "text": "A lot of recycling is needed; **in other words**, you have to study the same words over and over again." },
+        { "text": "Some English words are hard to pronounce, **for example**, 'eighth'." },
+        { "text": "It might be possible, **say**, to include the parents in the discussion.", "note": "say is similar to for example; note the commas before and after" },
+        { "text": "The Parliament has different committees. **Briefly**, these consist of two main types.", "note": "the explanation will be short and not comprehensive" },
+        { "text": "She is, **so to speak**, living in a world of her own.", "note": "makes what you say sound less definite" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Referring backwards and forwards",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["the following points", "introduces a list that comes next"],
+        ["it was stated above / earlier", "earlier in the text"],
+        ["see below", "examples will be given later in the text"],
+        ["overleaf", "turn the page and you will find it"],
+        ["for further details / discussion", "more discussion or details"],
+        ["may I refer you to ...", "may I ask you to look at ... (formal)"],
+        ["with reference to ...", "links a letter or email to an earlier text (formal)"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Open a formal letter or email with *With reference to your email of 12th March, ...* - it connects your message to the earlier one in one short phrase."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each linking phrase with its function.",
+      "pairs": [
+        { "left": "Leaving aside ...", "right": "this will not be discussed" },
+        { "left": "In parenthesis, ...", "right": "as an aside, a secondary issue" },
+        { "left": "Turning to ...", "right": "change the topic" },
+        { "left": "In conclusion, ...", "right": "to finish off" },
+        { "left": "With reference to ...", "right": "this document is about another one" },
+        { "left": "See above ...", "right": "read something earlier in the text" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___, it is important to understand why people commit crimes.",
+      "hint": "(the first point on a list)",
+      "answers": ["Firstly", "First", "First of all"],
+      "explanation": "Firstly, first and first of all all open a list of points."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What are the motives which make people do things they would never normally do? ___, why do they act out of character?",
+      "hint": "(three words beginning with 'i' - rephrasing)",
+      "answers": ["In other words"],
+      "explanation": "In other words rephrases the point you have just made."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___, a young man steals clothes from a shop - does he do it because it is an exciting risk?",
+      "hint": "(giving an example)",
+      "answers": ["For example", "For instance"],
+      "explanation": "For example and for instance both introduce an illustration."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___, it is essential to consider whether punishment makes any difference.",
+      "hint": "(one word - the next point on a list)",
+      "answers": ["Next"],
+      "explanation": "Next moves the reader on to the following point."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is punishment just, ___, a kind of revenge?",
+      "hint": "(three words: as it ...)",
+      "answers": ["as it were"],
+      "explanation": "As it were makes what you say sound less definite; it is more formal than so to speak."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___, how can we help victims of crime?",
+      "hint": "(the final point - NOT 'at last')",
+      "answers": ["Lastly", "Finally"],
+      "explanation": "Lastly introduces a final point; at last means finally after a long time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___, how can we get to the roots of the problem, rather than just attacking the symptoms?",
+      "hint": "(two words - gathering up the arguments)",
+      "answers": ["In summary", "In sum"],
+      "explanation": "In summary or, more formally, in sum sums up the arguments; in conclusion would only mean the text is ending."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which linking word is based on the verb 'to follow'?",
+      "options": ["the following", "finally", "for instance", "furthermore"],
+      "answer": 0,
+      "explanation": "The following points will be covered in this essay - it introduces a list."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word means 'turn the page and you will find it'?",
+      "options": ["overleaf", "above", "below", "briefly"],
+      "answer": 0,
+      "explanation": "A full list is given overleaf - leaf means a page of a book."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word is a form of the word 'far', used in 'for ___ details, see Chapter 4'?",
+      "options": ["further", "farther", "firstly", "finally"],
+      "answer": 0,
+      "explanation": "For further details or further discussion, see Chapter 4."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these phrases by what they do in a text.",
+      "categories": ["Sum up", "Exemplify or rephrase", "Refer to another part of the text"],
+      "items": [
+        { "text": "to sum up", "category": 0 },
+        { "text": "in sum", "category": 0 },
+        { "text": "in summary", "category": 0 },
+        { "text": "for instance", "category": 1 },
+        { "text": "that is to say", "category": 1 },
+        { "text": "say", "category": 1 },
+        { "text": "see below", "category": 2 },
+        { "text": "overleaf", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "At last let us consider what the future holds.",
+      "answer": false,
+      "explanation": "Lastly, let us consider what the future holds. At last means finally after a long time."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this opening of a formal letter in order.",
+      "words": ["With reference", "to", "the article", "in your newspaper", "about the closure", "of Newton Hospital,", "I would like", "to express", "my strong opposition."],
+      "answer": "With reference to the article in your newspaper about the closure of Newton Hospital, I would like to express my strong opposition.",
+      "explanation": "With reference to links your letter to an earlier text."
+    }
+  ]
+}

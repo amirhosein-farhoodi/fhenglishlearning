@@ -1,0 +1,179 @@
+{
+  "number": 10,
+  "title": "Descriptive passages",
+  "subtitle": "Scanning, paraphrase and completion tasks",
+  "summary": "Scan a passage for a specific detail, recognise the paraphrase that hides it, and fill notes, flow-charts and diagrams with words copied from the text.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Skim first, then scan",
+      "text": "The two reading speeds do different jobs. **Skimming** is reading quickly for the overall meaning. **Scanning** is searching a text quickly for one specific piece of information - a number, a name, a date - without reading the sentences around it.",
+      "examples": [
+        { "text": "Skim: *What is this passage mainly about?*", "note": "Ochre at Blombos Cave - the discovery of ancient objects." },
+        { "text": "Scan: *75,000 ... 100,000 ... 200,000 ... artefacts ... ochre*", "note": "Your eye hunts for the shape of the word, not the meaning." }
+      ],
+      "note": "Numbers and capitalised names are the easiest things to scan for, which is why so many questions hang on them."
+    },
+    {
+      "type": "explain",
+      "heading": "The question shows you where to look and what to find",
+      "text": "In a short-answer question, some words help you **locate** the right part of the passage and others tell you the **detail** to write down. Separating the two before you read saves a great deal of time.",
+      "examples": [
+        { "text": "Which of the **artefacts** mentioned are *the oldest*?", "note": "Locate: artefacts. Find: the oldest - beads, tools, engravings." },
+        { "text": "*When* was the material **Henshilwood** found *originally made*?", "note": "Locate: Henshilwood. Find: a date - 100,000 years ago." },
+        { "text": "What *two common materials* did ancient humans use to obtain their **ochre**?", "note": "Locate: ochre. Find: two materials - earth, rock." }
+      ],
+      "note": "Because of the word limit, *bone tools* or *ochre engravings* would be marked wrong where *tools* and *engravings* are right."
+    },
+    {
+      "type": "table",
+      "heading": "What NO MORE THAN TWO WORDS AND/OR A NUMBER allows",
+      "columns": ["Allowed", "Example"],
+      "rows": [
+        ["one word", "*ochre*"],
+        ["one word + a number", "*1992 shells*"],
+        ["two words", "*skin protection*"],
+        ["two words + a number", "*two abalone shells*"]
+      ],
+      "note": "A number written as a word still counts as a number - *twenty five trees* is one word and a number. Never join words together or write full sentences."
+    },
+    {
+      "type": "compare",
+      "heading": "The question and the passage never match word for word",
+      "left": {
+        "label": "In the question",
+        "examples": [
+          "keep ... in",
+          "nowadays",
+          "used for",
+          "ingredients",
+          "tools ... make ... paint",
+          "the scientists ... work out how"
+        ]
+      },
+      "right": {
+        "label": "In the passage",
+        "examples": [
+          "stored in",
+          "modern",
+          "functioned as",
+          "(raw) materials",
+          "equipment ... produce ... pigment",
+          "Henshilwood and his team ... deduce"
+        ]
+      },
+      "note": "This is **paraphrase** - different words with the same meaning. It is how the paper checks that you understood rather than pattern-matched."
+    },
+    {
+      "type": "explain",
+      "heading": "Predict the kind of word each gap needs",
+      "text": "Before you go back to the passage, decide what **type** of word belongs in each gap - a noun, a verb, a number - and what it must mean. Then you are looking for one thing rather than scanning blindly.",
+      "examples": [
+        { "text": "*A colourful ___ was created by rubbing the ochre against quartzite.*", "note": "a noun - something colourful. Answer: **powder**." },
+        { "text": "*Animal bones were ___ and then crushed.*", "note": "a verb - something done before crushing. Answer: **heated**." },
+        { "text": "*The researchers believe ___ was then added.*", "note": "a noun - something added to the mixture. Answer: **liquid** / **water**." },
+        { "text": "*The mixture was poured into ___.*", "note": "a noun - a container. Answer: **shells**." },
+        { "text": "*ready to use for either ___ of walls or as an early type of ___ for the body*", "note": "**decoration** and **sunscreen**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Flow-charts and diagrams",
+      "text": "A **flow chart** shows the sequence of events in a process, and its boxes may **not** follow the order of the passage. A **diagram** task gives you a picture: study how the parts connect before you read, so the description makes sense as you go.",
+      "examples": [
+        { "text": "*Most hydropower plants rely on a **dam** that holds back water, creating a large **reservoir** ... also known as the **intake**.*" },
+        { "text": "*The water strikes and turns the large blades of a **turbine**, which is attached to a **generator** above it by way of a **shaft**.*" },
+        { "text": "*a series of **magnets** inside the generator ... The **transformer**, located inside the **powerhouse**, takes the AC and converts it to higher-voltage current.*" }
+      ],
+      "note": "Paraphrases again: *helps contain* = holds back; *moves* = flows; *rotates* = turns; *connected* = attached; *changes into* = converts to."
+    },
+    {
+      "type": "tip",
+      "text": "Take highlighter pens into the exam and use a different colour for each task. When you check your answers you can see at a glance which part of the passage each one came from."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words in the question with their paraphrase in the passage.",
+      "pairs": [
+        { "left": "keep ... in", "right": "stored in" },
+        { "left": "nowadays", "right": "modern" },
+        { "left": "used for", "right": "functioned as" },
+        { "left": "ingredients", "right": "raw materials" },
+        { "left": "work out how", "right": "deduce" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Which of the artefacts mentioned are the oldest?* The passage lists beads, bone tools and ochre engravings, and the limit is TWO WORDS AND/OR A NUMBER. Which answer is safe?",
+      "options": ["bone tools", "ochre engravings", "beads, tools, engravings", "artefacts from the Middle Stone Age"],
+      "answer": 2,
+      "explanation": "The three items are the answer. Adding *bone* or *ochre* pushes the answer over the word limit, so it would be marked wrong."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these into what they do in a short-answer question.",
+      "categories": ["Helps you locate the place", "Tells you the detail to find"],
+      "items": [
+        { "text": "artefacts", "category": 0 },
+        { "text": "Henshilwood", "category": 0 },
+        { "text": "ochre", "category": 0 },
+        { "text": "the oldest", "category": 1 },
+        { "text": "When ...?", "category": 1 },
+        { "text": "two common materials", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A colourful ___ was created by rubbing the ochre against quartzite.* (ONE WORD ONLY)",
+      "hint": "(a noun - what rubbing produces)",
+      "answers": ["powder"],
+      "explanation": "Deciding the gap needs *a noun, something colourful* is half the work done before you go back to the text."
+    },
+    {
+      "type": "true_false",
+      "statement": "A flow chart always presents the information in the same order as the passage.",
+      "answer": false,
+      "explanation": "It shows the sequence of the *process*, which may be described in a different order in the text. Read the whole passage so you can find each step."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Reading quickly to find one specific number in a passage is called:",
+      "options": ["skimming", "scanning", "paraphrasing", "deducing"],
+      "answer": 1,
+      "explanation": "Skimming gets the general meaning; scanning hunts for one specific piece of information."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each part of a hydropower plant with what the passage says it does.",
+      "pairs": [
+        { "left": "dam", "right": "holds back the water" },
+        { "left": "turbine", "right": "its blades are turned by the water" },
+        { "left": "generator", "right": "produces alternating current" },
+        { "left": "transformer", "right": "converts AC to higher-voltage current" },
+        { "left": "penstock", "right": "the pipe leading to the turbine" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Animal bones were ___ and then crushed and added to the ochre.* (ONE WORD ONLY)",
+      "hint": "(a verb - the traces show signs of it)",
+      "answers": ["heated"],
+      "explanation": "The passage says the traces *show signs that it was heated before being ground*. The gap needs a verb in the same form."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a number is written as a word, such as *twenty five*, it still counts as a number rather than two words.",
+      "answer": true,
+      "explanation": "*Twenty five trees* counts as one word and a number, so it fits TWO WORDS AND/OR A NUMBER."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence that describes what happens after the water reaches the turbine.",
+      "words": ["The", "turbine", "is", "attached", "to", "a", "generator", "by", "way", "of", "a", "shaft."],
+      "answer": "The turbine is attached to a generator by way of a shaft.",
+      "explanation": "*Attached* is the passage's word for the question's *connected* - the paraphrase you need to spot."
+    }
+  ]
+}

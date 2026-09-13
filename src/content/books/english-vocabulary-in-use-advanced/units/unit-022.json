@@ -1,0 +1,220 @@
+{
+  "number": 22,
+  "title": "Talking about books",
+  "subtitle": "poignant, a page-turner, heavy going",
+  "summary": "Read a blurb like a critic and describe any book precisely - from poignant and enigmatic to lightweight, heavy going or compulsive reading.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What a blurb is",
+      "text": "A **blurb** is the short text, usually printed on the back cover of a book, describing what the book is about and sometimes quoting critics. Blurbs use a small, very rich set of adjectives, and knowing them tells you at once what kind of book you are holding.",
+      "examples": [
+        { "text": "Woman of Snow is a **poignant chronicle** of childhood in a small American town.", "note": "poignant = moving and sad; a chronicle = a description of a sequence of events" },
+        { "text": "The third novel by this **acclaimed** writer, this is a **compelling** tale of mystery, love and betrayal.", "note": "acclaimed = praised by the public; compelling = very interesting and engaging" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Blurb adjectives",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["poignant", "moving and sad"],
+        ["lugubrious", "rather dark, mournful and gloomy (often used of people too)"],
+        ["macabre", "often cruel or disgusting, concerned with death"],
+        ["chilling", "causing great fear"],
+        ["gripping", "so interesting or exciting that it holds your attention totally"],
+        ["enigmatic", "mysterious, puzzling"],
+        ["breathtaking", "amazing"],
+        ["wry", "humorous in the face of a bad situation"],
+        ["evocative", "arousing memories or images"],
+        ["engaging", "pleasant and interesting"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More blurb words",
+      "text": "A **page-turner** is a powerful story that keeps you interested. A moment of **insight** shows the ability to understand what something is really like. The **protagonist** is the main character, and a character is **eponymous** when they have the same name as the title of the book.",
+      "examples": [
+        { "text": "A **page-turner** full of brilliant moments of **insight** and an unparalleled depth of feeling." },
+        { "text": "Jim Lawless, the **eponymous protagonist** of Arkrow's latest novel, is a confused young man seeking a meaning in life." },
+        { "text": "A **macabre** and **chilling** account of an unsolved murder that tears a village apart." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Some other types of book",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["a journal", "a written record of what you have done each day; also an academic publication of articles, issued at regular intervals"],
+        ["memoirs", "a written record of a person's own life, typically by a politician or military figure"],
+        ["an encyclopedia", "a book or set of books of articles in alphabetical order, covering the whole of human knowledge or part of it"],
+        ["an anthology", "a collection of, for example, poems or short stories by different authors"],
+        ["a manual", "a technical book with instructions, for example a car manual"],
+        ["a logbook", "a book recording events and times, for example all the journeys made by a lorry or ship"]
+      ],
+      "note": "An academic publication of articles issued periodically is a journal, never a magazine."
+    },
+    {
+      "type": "compare",
+      "heading": "Easy reading or hard work?",
+      "left": {
+        "label": "You can't stop",
+        "text": "**Compulsive reading** is difficult to stop once you have started (formal); informally, it is a book you **just can't put down**. A book that is **informative** gives a lot of useful information.",
+        "examples": [
+          "It's **compulsive reading** - I finished it in a night.",
+          "It's one of those books you just **can't put down**.",
+          "It's very **informative** about the history of Ireland."
+        ]
+      },
+      "right": {
+        "label": "You can't start",
+        "text": "A book that is **lightweight** is not complex - slightly negative, though it makes good **bedtime reading**. One that is **heavy going** is difficult to read, and you may simply not **get into** it.",
+        "examples": [
+          "Bertram's latest novel is rather **lightweight**.",
+          "It's good **bedtime reading**.",
+          "His last one was **heavy going** and I just couldn't **get into** it."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Books and their times",
+      "text": "A book **ahead of its time** contains ideas that no one else had yet thought of or discussed when it appeared. A book that is **a product of its time** simply reflects the period it came from - which is often why its ideas now seem tame, old-fashioned or **gender-biased**. The **readership** is the number of people who read an author's work.",
+      "examples": [
+        { "text": "Nancy Riley's 1950 novel about mental breakdown was **ahead of its time**." },
+        { "text": "Her 1955 book Exciting Careers for Women was **a product of its time**." },
+        { "text": "Nonetheless, his books always attract a wide **readership**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Lightweight is mildly negative, heavy going is plainly negative - neither is a compliment, but only one of them takes effort."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which type of book is each person talking about?",
+      "pairs": [
+        { "left": "It's by General Rogers, who led the allied forces during the recent war.", "right": "memoirs" },
+        { "left": "It's so badly written I don't know how anyone could learn to use the machine from it.", "right": "a manual" },
+        { "left": "If you want to read a typical selection of modern poets, it's excellent.", "right": "an anthology" },
+        { "left": "The latest issue contains a paper presenting a new theory of the human mind.", "right": "a journal" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match what you would find with the kind of book it comes from.",
+      "pairs": [
+        { "left": "a section on 'troubleshooting'", "right": "a manual" },
+        { "left": "an article about waterfalls, with pictures", "right": "an encyclopedia" },
+        { "left": "a record of a recent test of a lorry", "right": "a logbook" },
+        { "left": "an academic paper published three times a year", "right": "a journal" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I just could not ___ the story, so I stopped reading it.",
+      "hint": "(become involved with)",
+      "answers": ["get into"],
+      "explanation": "To get into a book is to become involved or engaged with it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's dense and very difficult to read - in fact it's ___ going.",
+      "hint": "(hard work)",
+      "answers": ["heavy"],
+      "explanation": "A book that is heavy going is difficult to read."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not very serious, and it's easy to read - rather ___, in fact.",
+      "hint": "(not complex; slightly negative)",
+      "answers": ["lightweight"],
+      "explanation": "Lightweight means not complex; it carries a slightly negative connotation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You find yourself wanting to read more - it's ___ reading, it's so fascinating.",
+      "hint": "(difficult to stop; formal)",
+      "answers": ["compulsive"],
+      "explanation": "Compulsive reading is difficult to stop once you have started."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her second novel did not attract a large ___.",
+      "hint": "(the people who read it)",
+      "answers": ["readership"],
+      "explanation": "A readership is the number of people who read a writer's books."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The story takes place against a rather ___ background in 18th-century London.",
+      "hint": "(mournful and gloomy)",
+      "answers": ["lugubrious"],
+      "explanation": "Lugubrious means rather dark, mournful and gloomy; it is often used of people too."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's full of ___ comedy and satire.",
+      "hint": "(humour despite a bad situation)",
+      "answers": ["wry"],
+      "explanation": "Wry humour is humour in the face of a bad situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The novel is a ___ portrayal of life in a coal-mining community during the last recession.",
+      "hint": "(moving and very sad)",
+      "answers": ["poignant"],
+      "explanation": "Poignant means moving and sad."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The novel's ___ heroine, Maria Selune, leaves home at the age of 18 and travels through Asia.",
+      "hint": "(named in the title)",
+      "answers": ["eponymous"],
+      "explanation": "An eponymous character has the same name as the title of the book."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's a very ___ novel; you never really know what is happening until right at the end.",
+      "options": ["enigmatic", "informative", "lightweight", "acclaimed"],
+      "answer": 0,
+      "explanation": "Enigmatic means mysterious and puzzling."
+    },
+    {
+      "type": "mcq",
+      "prompt": "House of the Dead is a ___ story of torture and death in a medieval castle.",
+      "options": ["macabre", "wry", "engaging", "poignant"],
+      "answer": 0,
+      "explanation": "Macabre means cruel or disgusting and concerned with death."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mena Harrap's self-help book was ahead of its time, but what was true in the 1980s doesn't necessarily apply nowadays.",
+      "answer": false,
+      "explanation": "It was a product of its time - a reflection of the period. Ahead of its time means it contained ideas nobody had yet discussed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would each word appear in a blurb for a dark thriller or for a warm family story?",
+      "categories": ["Dark thriller", "Warm family story"],
+      "items": [
+        { "text": "chilling", "category": 0 },
+        { "text": "macabre", "category": 0 },
+        { "text": "lugubrious", "category": 0 },
+        { "text": "engaging", "category": 1 },
+        { "text": "poignant", "category": 1 },
+        { "text": "evocative", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this line from a blurb in order.",
+      "words": ["A", "page-turner", "full", "of", "brilliant", "moments", "of", "insight"],
+      "answer": "A page-turner full of brilliant moments of insight",
+      "explanation": "A page-turner is a powerful story that keeps you interested; insight is the ability to understand what something is really like."
+    }
+  ]
+}

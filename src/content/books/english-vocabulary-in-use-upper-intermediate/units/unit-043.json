@@ -1,0 +1,219 @@
+{
+  "number": 43,
+  "title": "Pleasant and unpleasant feelings",
+  "subtitle": "content, thrilled, fed up, furious",
+  "summary": "Describe how you feel with precision - content, grateful, delighted, miserable, fed up, frustrated, thrilled or furious - and grade those adjectives correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Happy feelings",
+      "text": "You feel **content(ed)** when you are satisfied with what you have, **grateful** when someone has done something thoughtful for you, and **delighted** when something happens that gives you great pleasure.",
+      "examples": [
+        { "text": "He's very **content** with his life. He's always been a **contented** person.", "note": "Content is not used before a noun: a contented person, not ~~a content person~~." },
+        { "text": "I'm really **grateful** to you for helping me with my project." },
+        { "text": "I was **delighted** to hear you're getting married." },
+        { "text": "I felt so **thankful** that nothing bad had happened.", "note": "You feel thankful when something bad that could have happened did not happen." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Unhappy feelings",
+      "text": "You feel **miserable** when everything seems wrong, **discontented** when your life is not giving you satisfaction, and **depressed** when you are miserable over a long period of time.",
+      "examples": [
+        { "text": "I felt **miserable** all day yesterday - maybe it was just the grey, cold weather." },
+        { "text": "She's very **discontented** with her job and is going to look for a new one." },
+        { "text": "I felt **depressed** after having ten job interviews and not getting a job.", "note": "Depression is considered an illness in some severe cases." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Had enough, or lost the thread",
+      "text": "You feel **fed up** or **sick and tired** when you have had enough of something disagreeable, and **confused** when you cannot make sense of conflicting feelings or ideas.",
+      "examples": [
+        { "text": "I'm **fed up** with Olivia's rudeness, and **sick and tired** of her bad behaviour." },
+        { "text": "I feel so **confused** - last week she said she loved me passionately; this week she said we were just good friends." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Excitement, upset, anger and anxiety",
+      "columns": ["Adjective", "Meaning", "Example"],
+      "rows": [
+        ["**inspired**", "stimulated to do something positive or creative", "I felt **inspired** after the concert. I've decided to take piano lessons."],
+        ["**thrilled**", "how you feel when something extremely exciting and pleasing happens", "She was **thrilled** when she got a job with a TV company."],
+        ["**upset**", "made to feel unhappy", "The argument I had with Eva really **upset** me."],
+        ["**enthusiastic**", "having very positive feelings", "I was quite **enthusiastic** about my tennis lessons at first."],
+        ["**frustrated**", "feeling unable to do something you really want to do", "The teacher isn't very good and now I just feel **frustrated**."],
+        ["**nervous**", "a bit like excited, but a negative feeling", "I was so **nervous** before the exam."],
+        ["**anxious**", "afraid and uncertain", "I felt **anxious** before the results came out."],
+        ["**furious**", "extremely angry", "I was **furious** with the waiter - he spilt coffee over my shirt."]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "How to grade these adjectives",
+      "left": {
+        "label": "Extreme adjectives",
+        "text": "Use absolutely (and quite, meaning absolutely).",
+        "examples": [
+          "**absolutely delighted**",
+          "**absolutely fed up** / **sick and tired**",
+          "**absolutely thrilled**",
+          "**absolutely furious**"
+        ]
+      },
+      "right": {
+        "label": "Less extreme adjectives",
+        "text": "Use a bit or quite, where quite means rather.",
+        "examples": [
+          "**quite anxious**",
+          "**a bit confused**",
+          "**quite frustrated**",
+          "**a bit miserable**"
+        ]
+      },
+      "note": "Really can be used with all the adjectives on this page."
+    },
+    {
+      "type": "tip",
+      "text": "Watch the prepositions: grateful to someone for something, fed up with something, sick and tired of something, furious with someone."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Who feels what? Match each remark with the feeling.",
+      "pairs": [
+        { "left": "I've had enough of all the arguments at work.", "right": "fed up" },
+        { "left": "I've been so unhappy for a long time. I've been seeing a psychiatrist.", "right": "depressed" },
+        { "left": "I like my life and I have nothing to complain about.", "right": "content" },
+        { "left": "Thank you for helping me today.", "right": "grateful" },
+        { "left": "I'm just not feeling very happy today. Everything seems to have gone wrong.", "right": "miserable" },
+        { "left": "I felt so good that nothing bad had happened. It could have been a disaster.", "right": "thankful" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the feeling.",
+      "pairs": [
+        { "left": "I just don't understand. Was that his wife or his daughter?", "right": "confused" },
+        { "left": "I felt very happy when I heard she had an interview for the job.", "right": "delighted" },
+        { "left": "The service was slow and he spilt coffee over my shirt.", "right": "furious" },
+        { "left": "After six weeks of lessons I still can't play a single song.", "right": "frustrated" },
+        { "left": "After the concert I decided to take piano lessons.", "right": "inspired" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After watching the nature programme, I felt ___ to become a zoologist.",
+      "hint": "(= stimulated to do something creative)",
+      "answers": ["inspired"],
+      "explanation": "Inspired means stimulated to do something positive or creative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I always get ___ just before an exam.",
+      "hint": "(adjective beginning with n)",
+      "answers": ["nervous"],
+      "explanation": "Nervous is a bit like excited, but it is a negative feeling."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was ___ when they refused to give me my money back.",
+      "hint": "(= extremely angry)",
+      "answers": ["furious"],
+      "explanation": "Furious is the extreme form of angry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was ___ to see my old school friend again after so long.",
+      "hint": "(= very excited and pleased)",
+      "answers": ["thrilled"],
+      "explanation": "You feel thrilled when something extremely exciting and pleasing happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The news about Rory's illness really ___ me.",
+      "hint": "(verb, past tense)",
+      "answers": ["upset"],
+      "explanation": "To upset someone is to make them feel unhappy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At first, I was ___ about the course, but it's just not very good.",
+      "hint": "(adjective beginning with e)",
+      "answers": ["enthusiastic"],
+      "explanation": "Enthusiastic means having very positive feelings about something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Are these positive or negative feelings?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "contented", "category": 0 },
+        { "text": "thrilled", "category": 0 },
+        { "text": "delighted", "category": 0 },
+        { "text": "sick and tired", "category": 1 },
+        { "text": "anxious", "category": 1 },
+        { "text": "frustrated", "category": 1 },
+        { "text": "confused", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was feeling quite ___ because she had not phoned to say she had arrived safely.",
+      "hint": "(= afraid and uncertain)",
+      "answers": ["anxious"],
+      "explanation": "Anxious describes being afraid and uncertain about what will happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I am absolutely sick and ___ of her selfish behaviour. I've had enough!",
+      "hint": "(one word)",
+      "answers": ["tired"],
+      "explanation": "Sick and tired of is an extreme phrase, so it takes absolutely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's all so complicated. I feel a bit ___. Can you help me?",
+      "hint": "(adjective beginning with c)",
+      "answers": ["confused"],
+      "explanation": "Confused is not an extreme adjective, so a bit or quite fits."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was absolutely ___ when I heard the wonderful news!",
+      "hint": "(adjective beginning with t)",
+      "answers": ["thrilled"],
+      "explanation": "Thrilled is an extreme adjective, so absolutely is the right adverb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It made me feel quite ___ that I still couldn't play any songs after six weeks of guitar lessons.",
+      "hint": "(adjective beginning with f)",
+      "answers": ["frustrated"],
+      "explanation": "Frustrated is feeling unable to do something you really want to do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You always seem so ___ with life. How lucky you are!",
+      "hint": "(adjective beginning with c, used before with)",
+      "answers": ["contented", "content"],
+      "explanation": "Content or contented means satisfied with what you have."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which adverb goes naturally with furious?",
+      "options": ["absolutely", "a bit", "slightly", "fairly"],
+      "answer": 0,
+      "explanation": "Furious is an extreme adjective, so it takes absolutely, not a bit."
+    },
+    {
+      "type": "true_false",
+      "statement": "She is a very content person and never complains.",
+      "answer": false,
+      "explanation": "False - content is not used before a noun: She is a very contented person."
+    }
+  ]
+}

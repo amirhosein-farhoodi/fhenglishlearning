@@ -1,0 +1,243 @@
+{
+  "number": 92,
+  "title": "Collocation: which words go together",
+  "subtitle": "the real thing, the genuine article, utterly ridiculous",
+  "summary": "Learn which words habitually go together in English - the real thing but the genuine article, a broad summary, a formidable opponent, utterly ridiculous - and record collocations as you meet them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What collocation is",
+      "text": "**Collocation** is the way words regularly occur together, often in unpredictable ways. There is no rule that explains why we say *a broad summary* and not *a wide summary*, or *in great detail* and not *in big detail* - we simply learn the partnership. When you meet a new word, learn the words that typically go with it.",
+      "examples": [
+        { "text": "You can give a **broad summary** of something.", "wrong": "a wide summary" },
+        { "text": "You can describe something **in great detail**.", "wrong": "in big detail" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "real or genuine?",
+      "left": {
+        "label": "the real thing",
+        "text": "Thing collocates with real.",
+        "examples": [
+          "I don't like five-a-side football; I prefer **the real thing**.",
+          "He just doesn't live in **the real world**.",
+          "not ~~the genuine thing~~"
+        ]
+      },
+      "right": {
+        "label": "the genuine article",
+        "text": "Article collocates with genuine.",
+        "examples": [
+          "These trainers are **the genuine article**. Those others are just cheap imported copies.",
+          "She is a very **genuine person** - if she promises something, she'll do it.",
+          "not ~~the real article~~"
+        ]
+      },
+      "note": "Some things take either: real leather and genuine leather are both normal."
+    },
+    {
+      "type": "table",
+      "heading": "Adjective + noun collocations",
+      "columns": ["Collocation", "Meaning or use"],
+      "rows": [
+        ["a **formidable** opponent / reputation / task / challenge", "one that impresses you and makes you slightly afraid"],
+        ["a **broad** summary", "general, not detailed"],
+        ["**personal effects**", "the personal possessions someone carries with them"],
+        ["a **feeble** attempt", "weak and unconvincing"],
+        ["a **powerful** car", "we do not say a strong car"],
+        ["**strong** tea", "we do not say powerful tea"],
+        ["**auburn** hair", "reddish-brown - used of hair, not of carpets"],
+        ["a **doleful** expression", "very sad - used of a face or voice, not of a party"],
+        ["a **lengthy** meeting", "long and tiring - used of events, not of rooms"],
+        ["the death **toll**", "the number or total of people killed in a disaster"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb + adverb collocations",
+      "text": "Verbs also have their habitual adverbs. You **walk fast** or **walk quickly**, but you **move swiftly on** to the next point. Notice which adverb the verb prefers and store the two words together.",
+      "examples": [
+        { "text": "Let's **move swiftly on** to the next point." },
+        { "text": "It's something I **feel strongly** about.", "wrong": "I feel powerfully about" },
+        { "text": "**If I remember rightly**, it happened at about 6.30.", "wrong": "If I remember perfectly" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adverb + adjective collocations",
+      "text": "It is useful to learn which adverbs typically modify which kind of adjective. The adverb **utterly**, which means totally or completely, very frequently occurs before adjectives with negative connotations, though it can also be used with neutral or positive words.",
+      "examples": [
+        { "text": "**utterly** appalling, dismal, depressed, disgusting, distasteful, exhausted" },
+        { "text": "**utterly** false, fatuous, impossible, lost, ludicrous, naive, pointless" },
+        { "text": "**utterly** ridiculous, unacceptable, useless, wrong" },
+        { "text": "She seemed to be **utterly bewildered** by the answer they gave her." }
+      ],
+      "note": "Try to notice this kind of regularity when you learn new words."
+    },
+    {
+      "type": "table",
+      "heading": "Verb + object collocations",
+      "columns": ["Normal collocation", "Not"],
+      "rows": [
+        ["**raise** your hand to ask a question", "lift your hand"],
+        ["**raise** a family (bring up children)", "lift a family"],
+        ["**sharpen** the appetite (make it stronger)", "enforce the appetite"],
+        ["**spoil** your appetite (destroy or decrease it)", "attack your appetite"],
+        ["**bequeath** money in your will", "bequest money"],
+        ["**visit** / go to / click on / check out a website", "accede a website"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Never store a new word alone in your notebook - write it inside a phrase, so you record the collocation as well as the word."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "The photos of the pyramids are wonderful. One day I'd love to see the ___ thing.",
+      "options": ["real", "genuine", "formidable", "broad"],
+      "answer": 0,
+      "explanation": "Thing collocates with real: the real thing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He just doesn't live in the ___ world. He lives in a fantasy world all the time.",
+      "options": ["real", "genuine", "utter", "powerful"],
+      "answer": 0,
+      "explanation": "We say the real world, not the genuine world."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She is a very ___ person. If she promises something, she'll do it.",
+      "options": ["genuine", "real", "lengthy", "feeble"],
+      "answer": 0,
+      "explanation": "A genuine person is honest and sincere."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This home-made champagne is nice, but it's not as good as the ___ article.",
+      "options": ["genuine", "real", "strong", "broad"],
+      "answer": 0,
+      "explanation": "Article collocates with genuine: the genuine article."
+    },
+    {
+      "type": "mcq",
+      "prompt": "After his death, she went to the hospital to collect his personal ___.",
+      "options": ["effects", "objects", "affairs", "extras"],
+      "answer": 0,
+      "explanation": "Personal effects is the fixed collocation for someone's personal possessions."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He made a rather ___ attempt at an apology, but it didn't convince anyone.",
+      "options": ["feeble", "faint", "frail", "fragile"],
+      "answer": 0,
+      "explanation": "A feeble attempt is a weak, unconvincing one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "George was a ___ opponent, and I respected him for that.",
+      "options": ["formidable", "dreadful", "forbidding", "threatening"],
+      "answer": 0,
+      "explanation": "Formidable collocates with opponent, reputation, task and challenge."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I began to feel ___ anxious when she didn't arrive.",
+      "options": ["pretty", "totally", "utterly", "blatantly"],
+      "answer": 0,
+      "explanation": "Anxious takes a softening adverb here: pretty anxious. Utterly goes with stronger adjectives such as bewildered."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She seemed to be ___ bewildered by the answer they gave her.",
+      "options": ["utterly", "vividly", "strongly", "heavily"],
+      "answer": 0,
+      "explanation": "Utterly means totally and often precedes negative adjectives such as bewildered."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ walk before breakfast helps to sharpen the appetite.",
+      "hint": "(quick and energetic)",
+      "answers": ["brisk"],
+      "explanation": "A brisk walk is a quick, energetic one; you sharpen an appetite, not enforce it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The death ___ in the earthquake has now risen to 20,000.",
+      "hint": "(number or total)",
+      "answers": ["toll"],
+      "explanation": "Death toll is the fixed collocation for the number killed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Let's take a ___ stroll along the beach, shall we?",
+      "hint": "(slow and not energetic)",
+      "answers": ["leisurely"],
+      "explanation": "A leisurely stroll is unhurried; sluggish and plodding are negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you want to stay at home tonight, that's ___ OK with me.",
+      "hint": "(completely, 100%)",
+      "answers": ["perfectly"],
+      "explanation": "OK collocates with perfectly, not with utterly or blatantly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My aunt ___ 20,000 pounds in her will to cancer research.",
+      "hint": "(gave after her death)",
+      "answers": ["bequeathed"],
+      "explanation": "You bequeath money in a will; bequest is the noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Eating all those peanuts has ___ my appetite. I don't feel like dinner now.",
+      "hint": "(destroyed, decreased)",
+      "answers": ["spoilt", "spoiled"],
+      "explanation": "You spoil your appetite; you sharpen it if you want to eat more."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which collocation is the normal one in English?",
+      "categories": ["Normal collocation", "Not normal"],
+      "items": [
+        { "text": "a powerful car", "category": 0 },
+        { "text": "strong tea", "category": 0 },
+        { "text": "auburn hair", "category": 0 },
+        { "text": "a doleful expression", "category": 0 },
+        { "text": "a lengthy meeting", "category": 0 },
+        { "text": "powerful tea", "category": 1 },
+        { "text": "an auburn carpet", "category": 1 },
+        { "text": "a lengthy room", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the object or adverb it collocates with.",
+      "pairs": [
+        { "left": "raise", "right": "a family" },
+        { "left": "feel", "right": "strongly about something" },
+        { "left": "move", "right": "swiftly on to the next point" },
+        { "left": "remember", "right": "rightly" },
+        { "left": "visit", "right": "a website" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "You can say 'He described the accident in big detail.'",
+      "answer": false,
+      "explanation": "The collocation is in great detail: He described the accident in great detail."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order.",
+      "words": ["It's", "something", "I", "feel", "strongly", "about"],
+      "answer": "It's something I feel strongly about",
+      "explanation": "Feel collocates with strongly, not with powerfully."
+    }
+  ]
+}

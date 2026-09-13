@@ -1,0 +1,197 @@
+{
+  "number": 32,
+  "title": "Holidays",
+  "subtitle": "campsite, package holiday, breathtaking, picturesque",
+  "summary": "Describe where you stay on holiday and use the strong adjectives that holiday brochures and postcards love.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Places to stay",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["campsite", "a place where you can pitch a tent or park a caravan"],
+        ["self-catering flat", "a flat which you rent, where you cook for yourself"],
+        ["guesthouse", "accommodation like a hotel but cheaper and with fewer services"],
+        ["youth hostel", "cheap accommodation, mainly for young people, often with ten or more people sleeping in bunk beds in one room"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Types of holiday",
+      "text": "On a **package holiday** you pay for travel, accommodation and food (sometimes even excursions) in advance. A **cruise** is a holiday spent touring on a boat and stopping off to go sightseeing at different ports. An **adventure holiday** involves unusual, exciting and possibly dangerous activities, and suits **adventurous** people.",
+      "examples": [
+        { "text": "It's often cheaper to go on a **package holiday**, where everything is paid for in advance." },
+        { "text": "I'd love to hire a boat and spend a month **cruising** round the Mediterranean." },
+        { "text": "As soon as we got to the campsite we **pitched** our tent." },
+        { "text": "At the youth hostel Anya insisted on sleeping in the top **bunk**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Writing home from a campsite",
+      "text": "Sami is camping in the mountains. It is good to **get away** (go somewhere different for a break); the campsite is **remote** (far from other places) and the road is **winding** (full of bends, not at all straight). The **surrounding** countryside made the **terrifying** drive worthwhile.",
+      "examples": [
+        { "text": "It's so nice to **get away**." },
+        { "text": "It's very **remote** and we had to drive up an unbelievably **winding** road to get here." },
+        { "text": "The views over the **surrounding** countryside made the **terrifying** drive worthwhile." },
+        { "text": "A narrow **winding** road led up the mountain to the cottage we'd rented." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Writing home from a city",
+      "text": "Francesca is enjoying a city break. A **memorable** holiday is one you will always remember (a strong collocation). Something **fascinating** is extremely interesting; an **impressive** building is grand and makes an impact; a **delightful** hotel is charming; an **inconvenient** one is hard to get to; **exceptional** food is unusually good.",
+      "examples": [
+        { "text": "This is probably the most **memorable** holiday I've ever had." },
+        { "text": "The town is absolutely **fascinating**, with lots of very **impressive** buildings." },
+        { "text": "Our hotel is **delightful** - if a little **inconvenient** from the transport point of view." },
+        { "text": "The food in this area is **exceptional**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Brochure adjectives and what they go with",
+      "columns": ["Adjective", "Meaning", "Typical collocations"],
+      "rows": [
+        ["breathtaking", "so magnificent it takes your breath away (= stunning)", "views, scenery, pistes"],
+        ["exclusive", "only the most special people can use it", "access, club, shops"],
+        ["exhilarating", "makes you feel excited and full of energy", "feeling, ride, walk"],
+        ["exotic", "unusual and more exciting than everyday reality", "beauty, charm, location"],
+        ["glamorous", "especially exciting and attractive", "surroundings, film star, hotel"],
+        ["luxurious", "provides great comfort", "cruise ship, accommodation, lifestyle"],
+        ["picturesque", "very pretty, as pretty as a picture", "streets, villages, cottage"],
+        ["unspoilt", "still in a beautiful and natural state", "charm, village, woodland"],
+        ["unique", "so special it does not exist anywhere else", "opportunity, charm, facilities"]
+      ],
+      "note": "A **piste** is a ski slope."
+    },
+    {
+      "type": "table",
+      "heading": "Adjective, noun and verb",
+      "columns": ["Adjective", "Noun", "Verb"],
+      "rows": [
+        ["fascinating", "fascination", "fascinate"],
+        ["delightful", "delight", "delight"],
+        ["exhilarating", "exhilaration", "exhilarate"],
+        ["glamorous", "glamour", "glamorise"],
+        ["luxurious", "luxury", "luxuriate"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Holiday brochures exaggerate: *breathtaking*, *exclusive* and *unique* all promise far more than *nice* or *good*, so save them for things that really deserve them."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each place to stay with its description.",
+      "pairs": [
+        { "left": "campsite", "right": "somewhere to pitch a tent or park a caravan" },
+        { "left": "self-catering flat", "right": "a rented flat where you cook for yourself" },
+        { "left": "guesthouse", "right": "like a hotel but cheaper, with fewer services" },
+        { "left": "youth hostel", "right": "cheap rooms with bunk beds, mainly for young people" },
+        { "left": "cruise", "right": "a holiday touring on a boat, stopping at ports" },
+        { "left": "package holiday", "right": "travel, accommodation and food paid for in advance" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the youth hostel Anya insisted on sleeping in the top ___.",
+      "hint": "(one word - youth hostels have these beds)",
+      "answers": ["bunk", "bunk bed"],
+      "explanation": "Bunk beds are two beds, one above the other; you sleep in the top bunk or the bottom bunk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As soon as we got to the campsite we ___ our tent.",
+      "hint": "(past tense of the verb that goes with tent)",
+      "answers": ["pitched", "put up"],
+      "explanation": "You pitch a tent at a campsite."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Visitors to our hotel have ___ access to our own private beach.",
+      "hint": "(adjective - only special guests can use it)",
+      "answers": ["exclusive"],
+      "explanation": "Exclusive access means only the most special people can use the facilities."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's often cheaper to go on a ___ holiday, where everything is paid for in advance.",
+      "hint": "(one word)",
+      "answers": ["package"],
+      "explanation": "On a package holiday travel, accommodation and food are paid for in advance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our trip to South Africa was undoubtedly the most ___ holiday I've ever had.",
+      "hint": "(adjective - I'll always remember it)",
+      "answers": ["memorable"],
+      "explanation": "A memorable holiday is one you will always remember - a strong collocation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A narrow ___ road led up the mountain to the cottage we'd rented.",
+      "hint": "(adjective - full of bends)",
+      "answers": ["winding"],
+      "explanation": "A winding road has lots of bends and is not at all straight."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which adjective describes a village with very pretty buildings and lots of flowers?",
+      "options": ["picturesque", "inconvenient", "remote", "exceptional"],
+      "answer": 0,
+      "explanation": "Picturesque = very pretty, as pretty as a picture."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which adjective describes a view from the top of a mountain over a magnificent landscape?",
+      "options": ["breathtaking", "glamorous", "unspoilt", "exclusive"],
+      "answer": 0,
+      "explanation": "Breathtaking (like stunning) means so magnificent that it takes your breath away."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which adjective describes a hotel with very expensive facilities and very attentive staff?",
+      "options": ["luxurious", "adventurous", "winding", "memorable"],
+      "answer": 0,
+      "explanation": "Luxurious means it provides great comfort."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a once-in-a-lifetime chance: a truly ___ opportunity.",
+      "hint": "(adjective - so special it exists nowhere else)",
+      "answers": ["unique"],
+      "explanation": "Unique = so special it does not exist anywhere else."
+    },
+    {
+      "type": "true_false",
+      "statement": "I wouldn't recommend that hotel. It's extremely remote; it's seven miles to the nearest beach and ten miles to the town.",
+      "answer": true,
+      "explanation": "Correct. Remote means far from other places, so everything is a long way away."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe an energetic walk.",
+      "words": ["We", "went", "for", "an", "exhilarating", "walk", "along", "a windswept beach."],
+      "answer": "We went for an exhilarating walk along a windswept beach.",
+      "explanation": "Exhilarating means it makes you feel excited and full of energy."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word the adjective or the noun?",
+      "categories": ["Adjective", "Noun"],
+      "items": [
+        { "text": "fascinating", "category": 0 },
+        { "text": "glamorous", "category": 0 },
+        { "text": "luxurious", "category": 0 },
+        { "text": "exhilaration", "category": 1 },
+        { "text": "glamour", "category": 1 },
+        { "text": "luxury", "category": 1 },
+        { "text": "fascination", "category": 1 }
+      ]
+    }
+  ]
+}

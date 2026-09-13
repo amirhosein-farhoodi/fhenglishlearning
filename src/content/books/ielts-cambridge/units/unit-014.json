@@ -1,0 +1,171 @@
+{
+  "number": 14,
+  "title": "Multiple-choice questions",
+  "subtitle": "Longer text, two answers, and the writer's purpose",
+  "summary": "Read across several connected sentences to answer a multiple-choice question, pick two answers from five, and work out why the writer wrote a paragraph at all.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The answer is spread over several sentences",
+      "text": "A multiple-choice question rarely sits on one line. You usually have to read **two or more connected sentences** and put them together. Read the extract quickly for the main point, then go back and read it carefully.",
+      "examples": [
+        { "text": "*Linguists agree that language is needed during reading, **but at which stage** language becomes a necessity **has come under debate**.*", "note": "This is the disagreement - so the answer is *when our language ability begins to affect reading ability*." },
+        { "text": "*Past research has shown that animals have the ability to discriminate letters ...*", "note": "True, but it is not what linguists disagree about." },
+        { "text": "*Findings recently published in the journal Science challenge this long-held notion ...*", "note": "Also true, and also not the disagreement." }
+      ],
+      "note": "Look for the words that name a disagreement - *debate*, *challenge*, *dispute*, *contrary to* - when the question asks what people differ on."
+    },
+    {
+      "type": "compare",
+      "heading": "Two shapes of multiple-choice question",
+      "left": {
+        "label": "A direct question",
+        "examples": [
+          "*According to the paragraph, what point do linguists have different views on?*",
+          "Four possible answers, A-D.",
+          "Each option is a complete idea."
+        ]
+      },
+      "right": {
+        "label": "An incomplete sentence",
+        "examples": [
+          "*According to the second paragraph, the Garden City Movement ...*",
+          "Four possible endings, A-D.",
+          "The grammar must fit as well as the meaning."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Choosing TWO answers from five",
+      "text": "Some questions ask for **two** correct answers out of five. You have to read and weigh even more text, so highlight the parts of the passage that introduce a first and a second idea, then test each option against them.",
+      "examples": [
+        { "text": "*there were probably **several related phenomena** ... **Firstly**, ... Something else was going on. That something was distinctively **human**.*", "note": "Those three signals mark the two issues." },
+        { "text": "**B** *Female dolphins were able to breed earlier than usual.* - correct", "note": "*After a female dolphin loses her calf, she can give birth again much sooner.*" },
+        { "text": "**E** *The dolphins had less contact with humans after the hurricane.* - correct", "note": "Fewer boats meant more time eating and less time avoiding them." },
+        { "text": "**A** *More female dolphins survived than males.* - wrong", "note": "Never stated." },
+        { "text": "**C** *The dolphins had access to greater numbers of shrimp and fish.* - wrong", "note": "The catch brought to shore fell; the passage credits the change to fewer boats, not to more fish." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions about the writer's purpose",
+      "text": "Some questions ask why the writer made a particular reference, what the purpose of a part of the text is, or what the writer's opinion is. For these you must look past the surface meaning of the words to the writer's **tone**.",
+      "examples": [
+        { "text": "**blockbuster** - positive", "note": "It describes a film that is very popular." },
+        { "text": "**hopelessly flawed** - negative", "note": "It criticises the science portrayed in the film." },
+        { "text": "**revel in** - positive", "note": "It gives a positive image of people enjoying the film." }
+      ],
+      "note": "A writer who uses two warm words and one cold one is usually saying *this was wrong, and it did not matter*."
+    },
+    {
+      "type": "table",
+      "heading": "Purpose and opinion on the same paragraph",
+      "columns": ["Question", "Answer", "Why"],
+      "rows": [
+        ["What is the writer's purpose?", "To argue that people may choose to believe the improbable in order to be entertained", "The writer says we are happy to *suspend our disbelief*"],
+        ["What is the writer's opinion of *Jurassic Park*?", "In spite of its inaccuracies, it was a successful novel and film", "The science is *hopelessly flawed*, but the book was *successful* and the film a *blockbuster*"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Try covering the options and answering the question in your own words first. Then look for the option that says what you said - it is much harder for a well-written distractor to pull you off an answer you have already formed."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "*Linguists agree that language is needed during reading, but at which stage language becomes a necessity has come under debate.* What do linguists have different views on?",
+      "options": [
+        "Whether animals are intelligent enough to learn to read",
+        "Whether reading ability is linked to writing ability",
+        "When our language ability begins to affect reading ability",
+        "When early humans developed the ability to read and write"
+      ],
+      "answer": 2,
+      "explanation": "*At which stage ... has come under debate* is the disagreement. The other options describe things the paragraph mentions but nobody argues about."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word give the writer's tone a positive or a negative colour?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "blockbuster", "category": 0 },
+        { "text": "revel in", "category": 0 },
+        { "text": "hopelessly flawed", "category": 1 },
+        { "text": "unappealing", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A multiple-choice question can usually be answered from a single sentence of the passage.",
+      "answer": false,
+      "explanation": "You normally need two or more connected sentences - which is why the distractors so often match one sentence each."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The passage says the science in *Jurassic Park* is *hopelessly flawed* but the book was *successful* and the film a *blockbuster*. What is the writer's opinion of it?",
+      "options": [
+        "The film was not a faithful rendition of the original book",
+        "It shows how important thorough research is for successful writers",
+        "In spite of its inaccuracies, it was a successful novel and film",
+        "It is a good example of the importance of science fact in science fiction"
+      ],
+      "answer": 2,
+      "explanation": "The criticism and the praise both have to be carried by the answer. The other options keep only one half."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The writer says the premise was science-ish enough to let us ___ our disbelief and enjoy the dinosaurs.",
+      "hint": "(a verb meaning to hold something back)",
+      "answers": ["suspend"],
+      "explanation": "*Suspend our disbelief* is the phrase that gives the purpose: people choose to believe the improbable to be entertained."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*In Mississippi, 87% of commercial fishing vessels were damaged, so the seafood brought into shore fell by nearly 15%.* Why is *The dolphins had access to greater numbers of shrimp and fish* a distractor?",
+      "options": [
+        "Because no fish are mentioned in the passage",
+        "Because the passage credits the change to fewer boats, not to more fish",
+        "Because the percentages are the wrong way round",
+        "Because Miller did not study dolphins"
+      ],
+      "answer": 1,
+      "explanation": "The deduction the passage actually makes is that dolphins spent more time eating and less time avoiding boats."
+    },
+    {
+      "type": "true_false",
+      "statement": "When a question asks you to choose TWO answers from five, you should expect to read more of the passage than for an ordinary multiple-choice question.",
+      "answer": true,
+      "explanation": "Two separate ideas have to be located and five options weighed, so budget the time accordingly."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each type of purpose question with what it asks you to find.",
+      "pairs": [
+        { "left": "Why did the writer mention Miletus?", "right": "the reason for a particular reference" },
+        { "left": "What is the purpose of the final paragraph?", "right": "the job a part of the text does" },
+        { "left": "What is the writer's view of the film?", "right": "the writer's opinion or attitude" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the phrase in the passage that marks the first of two related causes.",
+      "words": ["there", "were", "probably", "several", "related", "phenomena", "that,", "combined,", "could", "explain", "the", "increase."],
+      "answer": "there were probably several related phenomena that, combined, could explain the increase.",
+      "explanation": "*Several ... combined* warns you that one cause on its own is not the answer."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the most useful thing to do before you read the four options?",
+      "options": [
+        "Count how many words each option has",
+        "Answer the question in your own words first",
+        "Choose the longest option",
+        "Look for the option that repeats the most words from the passage"
+      ],
+      "answer": 1,
+      "explanation": "An answer you have already formed is much harder for a distractor to dislodge - and repeated words are usually the distractor's trick."
+    }
+  ]
+}

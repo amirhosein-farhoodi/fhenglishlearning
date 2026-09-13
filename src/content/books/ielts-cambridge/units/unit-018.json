@@ -1,0 +1,185 @@
+{
+  "number": 18,
+  "title": "Academic Task 1 - Comparing and contrasting graphs and tables",
+  "subtitle": "Lexical Resource and Grammatical Accuracy",
+  "summary": "Paraphrase the question instead of copying it, choose the right tense for each change, and write numbers, plurals and prepositions accurately.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Repetition costs you Lexical Resource",
+      "text": "**Lexical Resource** assesses the accuracy and **range** of your vocabulary. Repeating your own words - or the words of the question - is the quickest way to keep that score down. Synonyms are the cheapest fix.",
+      "examples": [
+        { "text": "a sharp **decrease** - a sharp **reduction**" },
+        { "text": "the figures **fell** - the figures **dropped**" },
+        { "text": "numbers will **increase** - numbers will **rise**" },
+        { "text": "numbers will **remain** the same - numbers will **stay** the same" },
+        { "text": "the charts **show** - the charts **indicate**" },
+        { "text": "the **data** in the table - the **information** in the table" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Never copy the question's introductory sentence",
+      "text": "Your opening statement must be in **your own words**. Two techniques do all the work: use a synonym, and change the **form** of a word - a verb into a noun, a noun into a phrase.",
+      "examples": [
+        { "text": "*The graph shows traffic growth in the Netherlands.*", "note": "The graph **indicates the changes in the number of vehicles on the road** in the Netherlands." },
+        { "text": "*The bar chart shows the sporting preferences of 100 adults, boys and girls.*", "note": "The bar chart tells us the **different sports preferred by a group of people of a range of ages**." },
+        { "text": "*The graphs show the number of students that have attended the college and their nationalities.*", "note": "From the graphs we can see **how many** students **have taken courses at** the college and **the countries they come from**." },
+        { "text": "*The two pie charts show the average household expenditure in the US.*", "note": "The pie charts reveal **how much people spent** in the US in 1900 and in 2000." }
+      ],
+      "note": "*Shows* becomes *indicates*, *tells us*, *reveals*, *we can see*. Four questions, four different verbs."
+    },
+    {
+      "type": "table",
+      "heading": "Tense follows the time in the figure",
+      "columns": ["The data covers", "Tense", "Example"],
+      "rows": [
+        ["a finished period", "past simple", "*The figures for UK households **remained** fairly steady between 2000 and 2002.*"],
+        ["a period running to now", "present perfect", "*Wealth **has risen** from £4,500 billion to just under £7,000 billion.*"],
+        ["one change inside another", "past continuous / past perfect", "*this trend **did not last** long and **began to worsen** again a year later*"],
+        ["the future", "will / passive prediction", "*It **is predicted that** the numbers will begin to increase from 2025.*"]
+      ],
+      "note": "Grammatical Range and Accuracy is a separate criterion. A description in one tense throughout will not score well even if every fact is right."
+    },
+    {
+      "type": "compare",
+      "heading": "Three things a sentence can do",
+      "left": {
+        "label": "Describe one sector",
+        "examples": [
+          "*The figures for UK households remained fairly steady between 2000 and 2002.*",
+          "*From 2005 to 2007 the rest of the country experienced continued growth.*"
+        ]
+      },
+      "right": {
+        "label": "Compare or contrast two",
+        "examples": [
+          "*Both the government and household wealth showed figures that gradually increased.* (similarity)",
+          "*While both dropped significantly in 2008, the government's net worth fell so much that it went into negative figures.* (contrast)",
+          "*At the same time that the wealth of households grew, the wealth of businesses declined.* (contrast)"
+        ]
+      },
+      "note": "*Both*, *similar*, *at the same time* signal similarity; *while*, *although*, *whereas*, *the opposite trend* signal contrast."
+    },
+    {
+      "type": "explain",
+      "heading": "Numbers: figures or words?",
+      "text": "Write **exact amounts, percentages and years** as numerals. Write **fractions and approximate quantities** as words. Mixing the two carelessly reads as an error.",
+      "examples": [
+        { "text": "Numerals: *£7000 billion*, *5% to 10%*, *2002 to 2004*" },
+        { "text": "Words: *six of the ten years*, *just under a third*" },
+        { "text": "*½ of the people* - **half** of the people" },
+        { "text": "*They reduced the budget by $1m* - by **one million dollars**" },
+        { "text": "*¼ of those* - **a quarter** of those" },
+        { "text": "*rose by 3½ billion* - by **three and a half billion**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The two mistakes that cost the most",
+      "text": "Candidates lose marks on the same two points again and again: the final **-s**, and the **preposition**.",
+      "examples": [
+        { "text": "*There were approximately three **hundred** **thousand** **cars** on the roads in 1970.*", "note": "*hundred* and *thousand* stay singular after a number; *cars* takes the -s." },
+        { "text": "***Millions** of people travel by plane every year.*", "note": "But: *risen to over twelve **million***." },
+        { "text": "*four **hundred** **beds** were manufactured*" },
+        { "text": "The increase **in** car use; the number **of** students; 70% **of** women" },
+        { "text": "The figures **for** train and bicycle use; increased **from** 35% **to** over 60%" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you practise, read your answer aloud. If your sentences all sound the same, the problem is structure, not vocabulary - and Grammatical Range is marked on exactly that."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with a synonym that would avoid repeating it.",
+      "pairs": [
+        { "left": "decrease", "right": "reduction" },
+        { "left": "fell", "right": "dropped" },
+        { "left": "increase", "right": "rise" },
+        { "left": "remain", "right": "stay" },
+        { "left": "show", "right": "indicate" },
+        { "left": "data", "right": "information" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The question reads *The graph shows traffic growth in the Netherlands between 1960 and 2010.* Which opening sentence is best?",
+      "options": [
+        "The graph shows traffic growth in the Netherlands between 1960 and 2010.",
+        "The graph indicates the changes in the number of vehicles on the road in the Netherlands from 1960 to 2010.",
+        "This is a graph about traffic.",
+        "The graph shows that traffic in the Netherlands grew a lot."
+      ],
+      "answer": 1,
+      "explanation": "It replaces *shows* with *indicates* and turns *traffic growth* into *the changes in the number of vehicles on the road* - synonym plus a change of word form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*The figures for UK households ___ fairly steady between 2000 and 2002.* (remain)",
+      "hint": "(a finished period)",
+      "answers": ["remained"],
+      "explanation": "A closed period with both dates given takes the past simple."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each sentence describe one sector, or compare two?",
+      "categories": ["Describes one sector", "Compares or contrasts two"],
+      "items": [
+        { "text": "The figures for UK households remained fairly steady.", "category": 0 },
+        { "text": "From 2005 to 2007 the rest of the country experienced continued growth.", "category": 0 },
+        { "text": "Both the government and household wealth showed gradual increases.", "category": 1 },
+        { "text": "While both dropped in 2008, the government's net worth went negative.", "category": 1 },
+        { "text": "At the same time that household wealth grew, business wealth declined.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*There were approximately three hundred ___ cars on the roads in 1970.* (thousand)",
+      "hint": "(does it take -s after a number?)",
+      "answers": ["thousand"],
+      "explanation": "*Hundred*, *thousand* and *million* stay singular directly after a number. *Millions of people* takes the -s because no number precedes it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence writes its numbers the way IELTS expects?",
+      "options": [
+        "½ of the people who attended in 1961 had never attended a concert before.",
+        "Half of the people who attended in 1961 had never attended a concert before.",
+        "Half of the people who attended in nineteen sixty-one had never attended a concert before.",
+        "0.5 of the people who attended in 1961 had never attended a concert before."
+      ],
+      "answer": 1,
+      "explanation": "Fractions and approximations go in words; exact years stay as numerals."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*The increase ___ car use was accompanied by a decline in the use of public transport.*",
+      "hint": "(a preposition)",
+      "answers": ["in"],
+      "explanation": "*An increase in* something; *the number of* something; *a percentage of* something. These collocations are worth learning as fixed pairs."
+    },
+    {
+      "type": "true_false",
+      "statement": "Copying the question's own introductory sentence is safe, because it is guaranteed to be accurate.",
+      "answer": false,
+      "explanation": "Copied words do not count towards your own vocabulary range, and they may not count towards your word total either."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a sentence that contrasts two sectors.",
+      "words": ["At", "the", "same", "time", "that", "household", "wealth", "grew,", "business", "wealth", "declined."],
+      "answer": "At the same time that household wealth grew, business wealth declined.",
+      "explanation": "One clause for each sector, joined by a phrase that makes the contrast explicit - exactly what *make comparisons where relevant* asks for."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*The figures had increased ___ 35% ___ over 60% within five years.* Which pair of prepositions is correct?",
+      "options": ["in ... to", "from ... to", "of ... for", "to ... from"],
+      "answer": 1,
+      "explanation": "*From X to Y* gives a starting and finishing value. Missing or wrong prepositions are one of the two most common number errors."
+    }
+  ]
+}

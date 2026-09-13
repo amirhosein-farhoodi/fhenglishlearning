@@ -1,0 +1,197 @@
+{
+  "number": 24,
+  "title": "Environmental problems",
+  "subtitle": "global warming, hazardous waste, carbon footprint",
+  "summary": "Name the environmental problems the world faces and the things people are doing about them, and build the word families that go with them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A worldwide problem",
+      "text": "As **globalisation** continues, local issues become international ones, so there are few places that do not suffer from environmental problems.",
+      "examples": [
+        { "text": "**Globalisation** means increasing business, cultural and other contacts between countries." },
+        { "text": "Some of the major problems are **acid rain**, **air pollution**, **global warming**, **hazardous waste**, **ozone depletion**, **smog**, **water pollution**, **overpopulation** and **rainforest destruction**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The problems and what they mean",
+      "columns": ["Problem", "What it means"],
+      "rows": [
+        ["acid rain", "rain containing harmful chemicals, from burning oil and coal"],
+        ["air pollution", "damage caused to the air by harmful substances or waste"],
+        ["global warming", "a rise in the world's temperature"],
+        ["hazardous waste", "dangerous waste that is hard to dispose of safely"],
+        ["ozone depletion", "a reduction in the ozone layer, the layer of air that keeps harmful ultraviolet light from reaching Earth"],
+        ["smog", "air pollution in cities, from smoke, gases and chemicals (from *smoke* + *fog*)"],
+        ["rainforest destruction", "cutting down forest in a tropical area that receives a lot of rain"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The greenhouse effect and climate change",
+      "text": "People worry about the **greenhouse effect**, where more carbon dioxide (CO2) and other **gases** in the Earth's **atmosphere** cause a gradual warming of the Earth's surface.",
+      "examples": [
+        { "text": "This **global warming** is leading to the thawing of the **polar ice caps**.", "note": "the polar ice caps = the ice covering the areas at the North and South Poles" },
+        { "text": "All this is causing concern about **climate change**." },
+        { "text": "Many animal and plant **species** are becoming **endangered** or even **extinct**.", "note": "endangered = very few in number, at risk; extinct = not existing any longer" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The prefix over-",
+      "text": "The prefix **over-** means *too much*. It turns up all over this topic.",
+      "examples": [
+        { "text": "**Overfishing** means people have fished so much that it is having a serious effect on fish populations." },
+        { "text": "An area is **overpopulated** when so many people live there that life is difficult." },
+        { "text": "The buses are **overcrowded** at rush hour." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Dealing with the problems",
+      "text": "Worldwide efforts are being made to improve the situation. Notice the useful collocations here - a company can be **environmentally friendly** or **ecologically sound**.",
+      "examples": [
+        { "text": "**Green parties** and **green** or **ecological policies** are mainly concerned with protecting the environment." },
+        { "text": "Conservation organisations are developing **nature reserves** where plants and animals are protected." },
+        { "text": "Some farmers produce **organic food**, which avoids the use of harmful chemicals." },
+        { "text": "Societies attempt to **dispose of** waste more responsibly, for example by **recycling** as much as possible." },
+        { "text": "People aim to reduce their **carbon footprint** by cutting down on their use of **fossil fuels**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Noun", "Verb", "Adjective", "Adverb"],
+      "rows": [
+        ["globalisation", "globalise", "global", "globally"],
+        ["environment, environmentalist", "-", "environmental", "environmentally"],
+        ["pollution, pollutant", "pollute", "polluting", "-"],
+        ["destruction", "destroy", "destructive", "destructively"],
+        ["disposal", "dispose (of)", "disposable", "-"],
+        ["reduction", "reduce", "reduced", "-"],
+        ["danger", "endanger", "endangered", "dangerously"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the compounds as single items: *acid rain*, *carbon footprint*, *climate change*, *fossil fuel*, *greenhouse effect*, *nature reserve*, *ozone depletion*, *waste disposal*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each environmental term with its definition.",
+      "pairs": [
+        { "left": "smog", "right": "air pollution in cities, from smoke, gases and chemicals" },
+        { "left": "acid rain", "right": "rain containing harmful chemicals from burning oil and coal" },
+        { "left": "the ozone layer", "right": "the layer of air that blocks harmful ultraviolet light" },
+        { "left": "hazardous waste", "right": "dangerous waste that is difficult to dispose of safely" },
+        { "left": "the polar ice caps", "right": "the ice covering the North and South Poles" },
+        { "left": "an endangered species", "right": "a type of animal or plant that is very few in number" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What happened to the dinosaurs about 65 million years ago? They became ___.",
+      "hint": "(they no longer exist)",
+      "answers": ["extinct"],
+      "explanation": "Extinct means not existing any longer; endangered means at risk of becoming extinct."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The increasing business and cultural contact between countries is known as ___.",
+      "hint": "(one word, noun)",
+      "answers": ["globalisation", "globalization"],
+      "explanation": "Globalisation turns local issues into international ones."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The rise in the Earth's average temperature is called global ___.",
+      "hint": "(one word)",
+      "answers": ["warming"],
+      "explanation": "Global warming is leading to the thawing of the polar ice caps."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves to make compound nouns.",
+      "pairs": [
+        { "left": "carbon", "right": "footprint" },
+        { "left": "climate", "right": "change" },
+        { "left": "fossil", "right": "fuel" },
+        { "left": "greenhouse", "right": "effect" },
+        { "left": "nature", "right": "reserve" },
+        { "left": "ozone", "right": "depletion" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ items like plastic cups and paper plates are labour-saving but have a harmful effect on the environment.",
+      "hint": "(dispose)",
+      "answers": ["disposable"],
+      "explanation": "Disposable things are designed to be used once and thrown away."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The government is aiming for a significant ___ in this country's use of fossil fuels over the next ten years.",
+      "hint": "(reduce)",
+      "answers": ["reduction"],
+      "explanation": "The noun from *reduce* is *reduction*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Carbon monoxide (CO) is an example of an air ___.",
+      "hint": "(pollute)",
+      "answers": ["pollutant"],
+      "explanation": "A pollutant is a single substance that causes pollution."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This company is proud of its ___ friendly policies.",
+      "hint": "(environment)",
+      "answers": ["environmentally"],
+      "explanation": "The adverb *environmentally* goes before the adjective *friendly*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about recycling.",
+      "words": ["Staff", "can", "dispose", "of", "all", "recyclable items", "in", "these green bins."],
+      "answer": "Staff can dispose of all recyclable items in these green bins.",
+      "explanation": "*Dispose of* always takes *of*; the noun is *disposal*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does *overfishing* mean?",
+      "options": [
+        "People have fished so much that fish populations are seriously affected.",
+        "People fish in areas where fishing is not allowed.",
+        "Fish have moved into waters where they do not belong.",
+        "Fishermen have stopped fishing because there are no fish left."
+      ],
+      "answer": 0,
+      "explanation": "The prefix *over-* means *too much*: overfishing, overpopulated, overcrowded."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each item an environmental problem or part of the response to one?",
+      "categories": ["A problem", "A response"],
+      "items": [
+        { "text": "smog", "category": 0 },
+        { "text": "ozone depletion", "category": 0 },
+        { "text": "hazardous waste", "category": 0 },
+        { "text": "overpopulation", "category": 0 },
+        { "text": "nature reserves", "category": 1 },
+        { "text": "recycling", "category": 1 },
+        { "text": "organic food", "category": 1 },
+        { "text": "green parties", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The Siberian tiger is an example of an extinct species.",
+      "answer": false,
+      "explanation": "The Siberian tiger is an endangered species - very few in number, but not yet extinct."
+    }
+  ]
+}

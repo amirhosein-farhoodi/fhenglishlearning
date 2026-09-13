@@ -1,0 +1,180 @@
+{
+  "number": 55,
+  "title": "Email and the Internet",
+  "subtitle": "check your email, go online, download",
+  "summary": "Talk about sending email, going online and what people do on the Internet - searching, downloading, shopping and social networking.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Using email",
+      "text": "You **check your email** to see if you have any messages. You **reply to** the emails you **receive**, and you **delete** the ones you do not need. Emails that you do not want, usually adverts, are called **spam** or **junk mail**.",
+      "examples": [
+        { "text": "I **check my email** about five times a day." },
+        { "text": "I try to **reply to** every message **immediately**.", "note": "immediately = without waiting" },
+        { "text": "I **delete** old emails **regularly**, because I get so many." },
+        { "text": "Most of my **spam** is advertising for things I never buy." },
+        { "text": "I sent you an email with an **attachment**.", "note": "an attachment = a file sent with an email" }
+      ],
+      "note": "Something **essential** is important or necessary."
+    },
+    {
+      "type": "tip",
+      "text": "We write an email address as pd@freeserve.co.uk but we say it: pd **at** freeserve **dot** co **dot** uk."
+    },
+    {
+      "type": "explain",
+      "heading": "Getting started on the Internet",
+      "text": "To go on the Internet you need an **ISP** (Internet service provider). It will **connect** your computer to the Internet and give you **access to** email and other services. When you **go online** you can send and receive emails, or **browse** the Internet with a **browser** such as Internet Explorer, Firefox or Safari.",
+      "examples": [
+        { "text": "My **ISP** will **connect** my computer tomorrow.", "note": "connect = join or link" },
+        { "text": "Do you have Internet **access** at your school?", "note": "access = the ability to use something" },
+        { "text": "When I **go online**, I usually read the news first." },
+        { "text": "If you **click** on a **link**, it takes you to a different website." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Searching and downloading",
+      "text": "Students **search the Internet** for information; we also say **do an Internet search**. People **download** information, pictures, music and **video clips** onto their computer. The opposite of download is **upload**.",
+      "examples": [
+        { "text": "I **searched the Internet** for cheap flights to Rome." },
+        { "text": "Do you **download** much stuff from the Internet?" },
+        { "text": "I watch **video clips** of football matches.", "note": "a video clip = a small part of a video recording" },
+        { "text": "She **uploaded** her holiday photos to the website." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Shopping online",
+      "text": "People buy books, clothes and food **online**. They go to a website, **select the item** they want and click *add to basket*. When they have finished shopping, they go to **checkout** and pay for their items, usually with a **credit card**.",
+      "examples": [
+        { "text": "We booked our holiday **online**." },
+        { "text": "**Select the item** you want and add it to your basket.", "note": "item = product, e.g. a book" },
+        { "text": "At the **checkout** I paid with my **credit card**." },
+        { "text": "You can also take out insurance **online**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other things people do online",
+      "columns": ["Word or phrase", "What it means"],
+      "rows": [
+        ["a **blog**", "a personal website with news about a subject, or about events in your life"],
+        ["a **blogger**", "a person who writes a blog"],
+        ["**surf the web**", "spend time looking at different websites"],
+        ["**social networking sites**", "places on the Internet where you discuss things with other people, e.g. Facebook"],
+        ["**post comments**", "leave messages for your friends on a website"],
+        ["**instant messaging**", "sending and receiving messages in real time"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the verb on the left with the words on the right.",
+      "pairs": [
+        { "left": "go", "right": "online" },
+        { "left": "do", "right": "an Internet search" },
+        { "left": "surf", "right": "the web" },
+        { "left": "delete", "right": "emails" },
+        { "left": "download", "right": "music" },
+        { "left": "click", "right": "on a link" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does ISP stand for?",
+      "options": [
+        "Internet Service Provider",
+        "Internet Search Program",
+        "Instant Sending Post",
+        "Internet Software Page"
+      ],
+      "answer": 0,
+      "explanation": "An ISP connects your computer to the Internet and gives you access to email and other services."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What are Safari, Internet Explorer and Firefox?",
+      "options": ["browsers", "blogs", "attachments", "credit cards"],
+      "answer": 0,
+      "explanation": "You browse the Internet using a browser."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emails that you do not want, usually advertisements, are called ___.",
+      "hint": "(one word)",
+      "answers": ["spam", "junk mail"],
+      "explanation": "Spam is also called junk mail."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How do you say Zac@hotmail.com? Zac ___ hotmail dot com.",
+      "hint": "(one word for @)",
+      "answers": ["at"],
+      "explanation": "We say at for @ and dot for the full stop."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* A friend of mine has got his own ___. *B:* Oh yeah. What does he write about?",
+      "hint": "(b___)",
+      "answers": ["blog"],
+      "explanation": "A blog is a personal website about a subject or about your own life."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you always reply to emails ___? *B:* Yes. I think it's rude if you don't reply as soon as you receive one.",
+      "hint": "(i___ = without waiting)",
+      "answers": ["immediately"],
+      "explanation": "Immediately = without waiting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How can I view information about the computers they sell? *B:* Just click on that ___, and it will take you to the website with the details.",
+      "hint": "(l___)",
+      "answers": ["link"],
+      "explanation": "You click on a link to move to another website or another part of a website."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you have Internet ___ at your school? *B:* We do in school hours, but not before or after school.",
+      "hint": "(a___)",
+      "answers": ["access"],
+      "explanation": "Access = the ability to use something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I sent you an email earlier with an attachment. Did you get it? *B:* Oh, I'm afraid I haven't ___ my email today yet.",
+      "hint": "(c___)",
+      "answers": ["checked"],
+      "explanation": "Check your email = look to see if you have any messages."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you delete emails ___? *B:* Yes, every day. I receive so many, and most of them aren't important.",
+      "hint": "(r___ = often)",
+      "answers": ["regularly"],
+      "explanation": "Regularly = often."
+    },
+    {
+      "type": "true_false",
+      "statement": "When you upload music, you copy it from the Internet onto your computer.",
+      "answer": false,
+      "explanation": "When you download music, you copy it from the Internet onto your computer. Upload is the opposite."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where do these words belong?",
+      "categories": ["Email", "Shopping online"],
+      "items": [
+        { "text": "attachment", "category": 0 },
+        { "text": "spam", "category": 0 },
+        { "text": "reply to", "category": 0 },
+        { "text": "checkout", "category": 1 },
+        { "text": "add to basket", "category": 1 },
+        { "text": "credit card", "category": 1 }
+      ]
+    }
+  ]
+}

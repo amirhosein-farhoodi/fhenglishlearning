@@ -1,0 +1,174 @@
+{
+  "number": 29,
+  "title": "In the town",
+  "subtitle": "the town hall, a cash machine, turn left",
+  "summary": "Name the places in a town, read the notices you see there, and ask for and give simple directions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Places in the town",
+      "columns": ["Place", "What you do there"],
+      "rows": [
+        ["train station / railway station", "you can get a train here"],
+        ["bus station", "you can get a bus here"],
+        ["shopping centre", "an area of town with a lot of shops"],
+        ["tourist information office", "tourists can get information here"],
+        ["museum", "you can see interesting old things here"],
+        ["bank", "you can change money here or get money from a cash machine"],
+        ["post office", "you can post letters and parcels here"],
+        ["library", "you can read books and newspapers here"],
+        ["town hall", "local government officers work here"],
+        ["car park", "you can park your car here"],
+        ["pedestrian area", "you can only walk here - you can't come by car"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Notices in towns",
+      "columns": ["Notice", "What it means"],
+      "rows": [
+        ["Entrance", "you go in here"],
+        ["Exit", "you go out here"],
+        ["Out of order", "this machine is not working"],
+        ["No smoking", "you can't smoke here"],
+        ["Please do not walk on the grass", "keep off the grass"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking for directions",
+      "text": "To ask the way, say **Where is ...?**, **How do I get to ...?** or **Can you tell me the way to ...?** Start with **Excuse me** when you stop somebody in the street.",
+      "examples": [
+        { "text": "*A:* **Where is** the bus station? *B:* Go left here and it's at the **end of the road**." },
+        { "text": "*A:* **How do I get to** Market Street? *B:* Take the **first right** and then the **second left**." },
+        { "text": "**Excuse me**, I'm **looking for** the museum." },
+        { "text": "**Can you tell me the way to** the nearest bank, please? I need a **cash machine**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Giving directions",
+      "text": "We say **turn right**, **turn left**, **go left here**, **on the left**, **on the other side of the road**. On a bus you **get off** at a **stop**.",
+      "examples": [
+        { "text": "Yes, **turn right** here. The entrance is on Market Street **on the left**." },
+        { "text": "Take the number 31 bus and **get off** at the second **stop**." },
+        { "text": "Go left here and there's one **on the other side of the road**." },
+        { "text": "*A:* Can I park here? *B:* No, but there's a **car park** on Park Street." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We look for something - not ~~I'm looking the museum~~, but I'm looking for the museum."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Where do you need to go?",
+      "pairs": [
+        { "left": "Where can I get a bus to London?", "right": "at the bus station" },
+        { "left": "Where can I get information about hotels?", "right": "at the tourist information office" },
+        { "left": "Where can I change money?", "right": "at the bank" },
+        { "left": "Where can I see old and interesting things?", "right": "at the museum" },
+        { "left": "Where can I park my car?", "right": "in the car park" },
+        { "left": "Where can I post a parcel?", "right": "at the post office" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where can I go to a lot of different shops in one place?",
+      "options": ["the shopping centre", "the town hall", "the library", "the car park"],
+      "answer": 0,
+      "explanation": "A shopping centre is an area of town with a lot of shops."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can read books and newspapers at the ___.",
+      "hint": "(seven letters)",
+      "answers": ["library"],
+      "explanation": "A library keeps books for everyone to read."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Local government officers work at the ___.",
+      "hint": "(two words)",
+      "answers": ["town hall"],
+      "explanation": "The town hall is the building of the local government."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can only walk in a ___ area - you can't come here by car.",
+      "hint": "(ten letters)",
+      "answers": ["pedestrian"],
+      "explanation": "A pedestrian is a person who walks."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which notice helps you?",
+      "pairs": [
+        { "left": "The cash machine doesn't give you any money.", "right": "Out of order" },
+        { "left": "You are in the shopping centre and you want to leave.", "right": "Exit" },
+        { "left": "You want to sit in a place where there are no cigarettes.", "right": "No smoking" },
+        { "left": "You want to know if people can go on the grass.", "right": "Please do not walk on the grass" },
+        { "left": "You want to go into the museum.", "right": "Entrance" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Turn right at the ___ of the road.",
+      "hint": "(three letters)",
+      "answers": ["end"],
+      "explanation": "At the end of the road = where the road stops."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can find a cash ___ at the bank in High Street.",
+      "hint": "(you get money from it)",
+      "answers": ["machine"],
+      "explanation": "A cash machine gives you money from your bank."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Can you tell me the ___ to the railway station, please?",
+      "hint": "(three letters)",
+      "answers": ["way"],
+      "explanation": "Can you tell me the way to ...? is a polite way to ask for directions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ me. I'm looking for a car park.",
+      "hint": "(you say it before you ask a stranger)",
+      "answers": ["Excuse"],
+      "explanation": "We start with Excuse me when we stop somebody in the street."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Take the number 31 bus and get ___ at the second stop.",
+      "options": ["off", "down", "out", "away"],
+      "answer": 0,
+      "explanation": "We get on and get off a bus."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Why do you go to these places?",
+      "categories": ["To travel", "For money", "To read or learn"],
+      "items": [
+        { "text": "the bus station", "category": 0 },
+        { "text": "the railway station", "category": 0 },
+        { "text": "the bank", "category": 1 },
+        { "text": "the cash machine", "category": 1 },
+        { "text": "the library", "category": 2 },
+        { "text": "the museum", "category": 2 },
+        { "text": "the tourist information office", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a stranger if there are shops near where you are.",
+      "words": ["Is", "there", "a", "shopping", "centre", "near", "here?"],
+      "answer": "Is there a shopping centre near here?",
+      "explanation": "Is there a ... near here? is a simple way to ask."
+    }
+  ]
+}

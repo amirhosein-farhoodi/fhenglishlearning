@@ -1,0 +1,238 @@
+{
+  "number": 70,
+  "title": "Modality: expressing facts, opinions, desires",
+  "subtitle": "You must be joking! the odds are, bound to, eager to",
+  "summary": "Use the fixed expressions built on modal verbs, and the vocabulary of probability, obligation and desire - the odds are, bound to, obligatory, yearn to.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Fixed expressions with must",
+      "text": "**I must admit/confess/say** softens an opinion you are about to give. **You must be joking!** rejects a suggestion as ridiculous. **You must have been ...** guesses confidently at how someone felt.",
+      "examples": [
+        { "text": "**I must admit** that I didn't enjoy the film." },
+        { "text": "You want me to lend you a thousand pounds! **You must be joking!**" },
+        { "text": "**You must have been** frightened when you heard the news!" },
+        { "text": "Erica and Matt have just had twins - they **must be overjoyed**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions with may, might, will and should",
+      "text": "**It may/might (well) never happen!** comforts someone who looks miserable. **What, may I ask, ...?** is a rather formal, often irritated question. **Who should I see but ...** introduces a surprise meeting. **Accidents will happen** says they are inevitable, and **I should be so lucky!** means 'That is not likely!'",
+      "examples": [
+        { "text": "Don't look so miserable - it **may/might (well) never happen!**" },
+        { "text": "**What, may I ask,** was the point of throwing your pen on the floor like that?" },
+        { "text": "I was just strolling through the park when **who should I see but** my boss." },
+        { "text": "Don't worry about spilling the wine. **Accidents will happen!**" },
+        { "text": "*A:* You might well be offered the job. *B:* **I should be so lucky!** All the other candidates were better qualified." }
+      ],
+      "note": "Will also expresses a confident guess about the present: That'll be Sean making that noise - he always plays his music very loudly."
+    },
+    {
+      "type": "tip",
+      "text": "Remember the apostrophe in **won't**: The window **won't** open - never ~~wont~~."
+    },
+    {
+      "type": "table",
+      "heading": "Ways of expressing probability",
+      "columns": ["Expression", "Meaning", "Example"],
+      "rows": [
+        ["the odds are (that)", "it is likely that", "The odds are he'll get the job."],
+        ["the odds are against", "it is unlikely that", "The odds are against her passing the exam."],
+        ["be bound to", "almost certain to", "They are bound to get married in the end."],
+        ["unquestionably", "there is no doubt at all", "She's unquestionably the best student in the class."],
+        ["apparent", "obvious", "It was apparent that the negotiations were going badly."],
+        ["for sure", "I am sure (usually at the end)", "She'll be here by five o'clock, for sure."],
+        ["in all probability / in all likelihood", "it is very likely", "In all probability we'll get the job finished on time."],
+        ["the chances are", "it is probable that", "If you are not disciplined, the chances are you won't succeed."],
+        ["there's every likelihood that", "it is very probable", "There's every likelihood that the price of petrol will rise soon."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Obligation and lack of obligation",
+      "text": "**It is essential that you (should) do** something and **obligatory** both express a strong requirement. **To have no option but to** do something means you have no choice. You can **have an obligation to** do something. Subjects are either **compulsory** or **optional**.",
+      "examples": [
+        { "text": "**It is essential that** you take strong footwear with you." },
+        { "text": "Wearing a safety helmet is **obligatory** in this area." },
+        { "text": "The road was blocked. We **had no option but to** turn back." },
+        { "text": "We have an **obligation to** preserve the school's good name." },
+        { "text": "Some courses are **optional** but Maths and English are **compulsory**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressing a desire to do something",
+      "text": "**Determined**, **anxious**, **eager**, **keen** and **resolved** all take *to* + verb. **Wish**, **desire**, **yearn** and **long** are the more emotional verbs - all rather formal except **long**. For a life goal, use **ambitions** or **aspirations to**.",
+      "examples": [
+        { "text": "I am **determined**/**anxious**/**eager**/**keen**/**resolved to** do whatever I can to help." },
+        { "text": "He **wishes**/**desires**/**yearns**/**longs to** return home." },
+        { "text": "She has **ambitions**/**aspirations to** become Prime Minister." },
+        { "text": "It was a hard day. I was just **longing to** get home and go to bed early.", "note": "less formal than yearning to" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families for desire",
+      "columns": ["Verb / adjective", "Noun"],
+      "rows": [
+        ["determine, determined", "determination"],
+        ["yearn", "a yearning (for)"],
+        ["resolve, resolved", "a resolution"],
+        ["desire", "desirous (of/that)"],
+        ["eager", "eagerness"],
+        ["long", "a longing (for)"],
+        ["ambitious", "ambition"],
+        ["aspire", "aspirations"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the response that fits it.",
+      "pairs": [
+        { "left": "Are you going clubbing tonight?", "right": "You must be joking! I'm much too old." },
+        { "left": "I painted my house bright green last week.", "right": "What, may I ask, was the point of that?" },
+        { "left": "I'm afraid I've broken a cup.", "right": "Don't worry. Accidents will happen!" },
+        { "left": "Erica and Matt have just had twins.", "right": "They must be overjoyed." },
+        { "left": "Someone's at the door.", "right": "It'll be the Patels." },
+        { "left": "I only just managed to escape.", "right": "You must have been terrified." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You might win the lottery. - I should be so ___! Do you know what the odds are?",
+      "hint": "(the phrase means: that is not likely!)",
+      "answers": ["lucky"],
+      "explanation": "I should be so lucky! is an ironic way of saying that something is very unlikely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The car ___ start. What can I do?",
+      "hint": "(negative of will, with an apostrophe)",
+      "answers": ["won't", "will not"],
+      "explanation": "Won't always has an apostrophe - never wont."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I expect that Karl will take over his father's job. The ___ are that he will.",
+      "hint": "(it is likely that)",
+      "answers": ["odds"],
+      "explanation": "The odds are (that) means it is likely that; the odds are against means it is unlikely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sure they'll settle down eventually. They're ___ to settle down in the end.",
+      "hint": "(almost certain to)",
+      "answers": ["bound"],
+      "explanation": "To be bound to do something is to be almost certain to do it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's likely we'll meet someone we know at the party - the ___ are we will.",
+      "hint": "(it is probable that)",
+      "answers": ["chances"],
+      "explanation": "The chances are means it is probable that."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We could see that there was going to be trouble. It was ___ that there was going to be trouble.",
+      "hint": "(obvious)",
+      "answers": ["apparent"],
+      "explanation": "Apparent means obvious."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's no doubt that this is the most serious problem we've encountered. This is ___ the most serious problem we've encountered.",
+      "hint": "(adverb: without any doubt)",
+      "answers": ["unquestionably"],
+      "explanation": "Unquestionably means there is no doubt at all."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must put on a life jacket. It is ___ to put on a life jacket.",
+      "hint": "(required by the rules)",
+      "answers": ["obligatory"],
+      "explanation": "Obligatory expresses a strong requirement; its opposite for school subjects is optional."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must do what the police officer says. You have no ___ but to do what the police officer says.",
+      "hint": "(no choice)",
+      "answers": ["option"],
+      "explanation": "To have no option but to do something is to have no choice."
+    },
+    {
+      "type": "mcq",
+      "prompt": "With his qualifications, he's bound to get a good job in the oil industry. This means that ...",
+      "options": ["he's almost certain to work in the oil industry.", "he may work in the oil industry.", "he has no choice but to work in the oil industry.", "he is obliged to work in the oil industry."],
+      "answer": 0,
+      "explanation": "Bound to means almost certain to - it expresses probability, not obligation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word in this list is the odd one out: resolved, eager, desire, likelihood, determined, obligation, keen, wish, probability?",
+      "options": ["obligation", "likelihood", "keen", "resolved"],
+      "answer": 0,
+      "explanation": "The others form pairs of synonyms - resolved/determined, eager/keen, desire/wish, likelihood/probability - leaving obligation on its own."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The town council expressed their ___ to do what they could to ease the traffic problems.",
+      "hint": "(determine)",
+      "answers": ["determination"],
+      "explanation": "The noun from determined is determination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The poem is about the poet's ___ for his lost innocence.",
+      "hint": "(yearn)",
+      "answers": ["yearning"],
+      "explanation": "A yearning for something is a strong, rather formal longing for it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you make any New Year's ___ this year?",
+      "hint": "(resolve, plural)",
+      "answers": ["resolutions"],
+      "explanation": "A resolution is a firm decision to do something; the adjective is resolved."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liam has ___ to be a great athlete.",
+      "hint": "(aspire, plural noun)",
+      "answers": ["aspirations"],
+      "explanation": "You have aspirations, or ambitions, to become something."
+    },
+    {
+      "type": "true_false",
+      "statement": "'Yearning to get home' is less formal than 'longing to get home'.",
+      "answer": false,
+      "explanation": "The other way round - long is the least formal of wish, desire, yearn and long."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression mainly express probability, obligation or desire?",
+      "categories": ["Probability", "Obligation", "Desire"],
+      "items": [
+        { "text": "the odds are against", "category": 0 },
+        { "text": "in all likelihood", "category": 0 },
+        { "text": "bound to", "category": 0 },
+        { "text": "obligatory", "category": 1 },
+        { "text": "have no option but to", "category": 1 },
+        { "text": "compulsory", "category": 1 },
+        { "text": "eager to", "category": 2 },
+        { "text": "aspirations to", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about a surprise meeting in order.",
+      "words": ["I", "was", "in", "the", "park", "today,", "and", "who", "should", "I", "see", "but", "Beth"],
+      "answer": "I was in the park today, and who should I see but Beth",
+      "explanation": "Who should I see / meet / bump into but ... introduces an unexpected encounter."
+    }
+  ]
+}

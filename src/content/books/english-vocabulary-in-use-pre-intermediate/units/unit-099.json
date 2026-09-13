@@ -1,0 +1,179 @@
+{
+  "number": 99,
+  "title": "Informal emails and messages",
+  "subtitle": "be in touch, fancy, get together, all the best",
+  "summary": "Write a friendly email or message with the phrases English speakers really use to friends and family.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A model email to a friend",
+      "text": "Read this short thank-you email and learn the phrases in bold. Informal emails start with **Hi**, **Hello** or **Dear** + first name.",
+      "examples": [
+        { "text": "**Hi** Beth" },
+        { "text": "**Just a quick message to** thank you for dinner last night." },
+        { "text": "I really enjoyed meeting your friend Alice. She's **a laugh**, isn't she?", "note": "a laugh = a funny person" },
+        { "text": "I'm **hoping to** get tickets for the film festival next week.", "note": "= planning or intending to" },
+        { "text": "I'll **be in touch** to see if there's anything you **fancy** seeing.", "note": "be in touch = make contact; fancy = want (to see)" },
+        { "text": "**Give my regards to** Conrad, and **once again**, thanks for last night.", "note": "give my regards to = say hello to ... from me; once again = again, as before" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How to begin and end an informal email",
+      "columns": ["Beginning", "Ending", "Who to"],
+      "rows": [
+        ["Hi Beth / Hello Beth", "Love / Lots of love", "a close friend or family member"],
+        ["Dear Beth", "Best wishes / All the best", "a friend"],
+        ["Hi Mark", "See you soon!", "a friend you will meet"]
+      ],
+      "note": "With family and very close friends we say **give my love to**; with other people, **give my regards to**."
+    },
+    {
+      "type": "explain",
+      "heading": "A model message conversation",
+      "text": "Short messages use the same phrases. **It's ages since ...** means a long time has passed; **in two weeks' time** means two weeks from now.",
+      "examples": [
+        { "text": "Sorry it's been **ages since** I last got in touch.", "note": "ages = a long time; since = from a time in the past until now" },
+        { "text": "I just wanted to **let you know** that I'm coming to Birmingham.", "note": "let you know = tell you" },
+        { "text": "I'm coming **in two weeks' time** - **actually** just before your birthday." },
+        { "text": "Could we **get together** and go out for a meal?", "note": "get together = meet for a social reason" },
+        { "text": "Maybe Mark could **join us** as well?", "note": "join us = come with us" },
+        { "text": "**Anyway**, better get back to work. See you soon!", "note": "anyway = used to change the subject or end a conversation" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "actually",
+      "text": "**Actually** gives more exact information, or says something surprising. It means the same as **in fact**. It does *not* mean *at the moment*.",
+      "examples": [
+        { "text": "He looks Italian, but **actually** he's not." },
+        { "text": "It looks new, but **in fact** it isn't." },
+        { "text": "The land is **currently** for sale.", "wrong": "The land is actually for sale", "note": "for 'at the moment', use currently" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Useful informal phrases",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["**be in touch** / **get in touch**", "make contact by phone, email or text"],
+        ["**let you know**", "tell you"],
+        ["**get together**", "meet for a social reason"],
+        ["**join us**", "come with us"],
+        ["**fancy** (doing something)", "want to do something"],
+        ["**a laugh**", "a funny person"],
+        ["**it's ages since ...**", "a long time has passed since ..."],
+        ["**in three weeks' time**", "three weeks from now"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Note the apostrophe in in two weeks' time and in a week's time - the time word is possessive."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with its meaning.",
+      "pairs": [
+        { "left": "be in touch", "right": "make contact" },
+        { "left": "get together", "right": "meet for a social reason" },
+        { "left": "join us", "right": "come with us" },
+        { "left": "a laugh", "right": "a funny person" },
+        { "left": "let you know", "right": "tell you" },
+        { "left": "ages", "right": "a long time" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which ending is right for an email to your sister?",
+      "options": ["Lots of love, Evelyn", "Yours faithfully, Evelyn", "Dear Evelyn", "I regret to inform you"],
+      "answer": 0,
+      "explanation": "Love or Lots of love is for a close friend or family member."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which ending is right for an email to a friend you do not know very well?",
+      "options": ["All the best, Sam", "Lots of love, Sam", "Yours sincerely, Sam", "Give my love, Sam"],
+      "answer": 0,
+      "explanation": "Best wishes and All the best are friendly but not too close."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with FANCY: 'Do you want to go?' -> 'Do you ___ going?'",
+      "hint": "(one word)",
+      "answers": ["fancy"],
+      "explanation": "Fancy + -ing = want to do something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with TOUCH: 'I'll write soon.' -> 'I'll ___ soon.'",
+      "hint": "(three words)",
+      "answers": ["be in touch", "get in touch"],
+      "explanation": "Be in touch / get in touch = make contact."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with FACT: 'It looks new, but actually it isn't.' -> 'It looks new, but ___ it isn't.'",
+      "hint": "(two words)",
+      "answers": ["in fact"],
+      "explanation": "In fact means the same as actually."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with LET: 'I'll tell you as soon as possible.' -> 'I'll ___ as soon as possible.'",
+      "hint": "(three words)",
+      "answers": ["let you know"],
+      "explanation": "Let someone know = tell them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with IN: 'I'm going three weeks from now.' -> 'I'm going ___.'",
+      "hint": "(four words, mind the apostrophe)",
+      "answers": ["in three weeks' time", "in three weeks time"],
+      "explanation": "In three weeks' time = three weeks from now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with LAUGH: 'Jamie is very funny.' -> 'Jamie is ___.'",
+      "hint": "(two words)",
+      "answers": ["a laugh"],
+      "explanation": "A laugh = a funny person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite with SINCE: 'I haven't written for ages.' -> 'It's ___ I wrote.'",
+      "hint": "(two words)",
+      "answers": ["ages since"],
+      "explanation": "It's ages since I wrote = a long time has passed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Email: 'I've been really busy ___ I last wrote.'",
+      "hint": "(one word)",
+      "answers": ["since"],
+      "explanation": "Since = from a time in the past until now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Email: 'It would be great if we could get ___, and maybe Filipe could join us.'",
+      "hint": "(one word)",
+      "answers": ["together"],
+      "explanation": "Get together = meet for a social reason."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Email: '___, I'll write again soon. I hope things are going well with you.'",
+      "hint": "(one word that changes the subject)",
+      "answers": ["anyway"],
+      "explanation": "Anyway changes the subject or closes a message."
+    },
+    {
+      "type": "true_false",
+      "statement": "'The house is actually for sale' means the house is for sale at the moment.",
+      "answer": false,
+      "explanation": "Actually means in fact, not at the moment. Say: The house is currently for sale."
+    }
+  ]
+}

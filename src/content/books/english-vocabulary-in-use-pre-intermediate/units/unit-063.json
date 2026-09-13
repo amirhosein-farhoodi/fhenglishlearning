@@ -1,0 +1,188 @@
+{
+  "number": 63,
+  "title": "Objects, materials, shapes and colour",
+  "subtitle": "a leather sofa, a wooden chair, a navy blue circle",
+  "summary": "Name everyday objects, say what they are made of, and describe their shape and colour.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Objects and materials",
+      "text": "An **object** is a thing you can see or touch. A **material** is what something is made of or made from. Common materials are **metal**, **wood**, **fur**, **rubber**, **cloth**, **cotton**, **silk**, **leather**, **paper** and **plastic**.",
+      "examples": [
+        { "text": "It's a **cotton** shirt.", "note": "= a shirt made of cotton" },
+        { "text": "They've got a **leather** sofa.", "note": "= a sofa made of leather" },
+        { "text": "The dog has a **rubber** bone to play with." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Objects, materials and what they are",
+      "columns": ["Object", "Material", "Description"],
+      "rows": [
+        ["a **bell**", "metal", "used in hotel receptions"],
+        ["a **chair**", "wood", "an antique - an object that is old and often rare or beautiful"],
+        ["a **hat**", "fur", "made from a real animal"],
+        ["a **bone**", "rubber", "a toy for dogs"],
+        ["a **flag**", "cloth", "the Italian national flag"],
+        ["a **shirt**", "cotton", "it has red stripes"],
+        ["a **top**", "silk", "beautifully soft and stylish"],
+        ["a **sofa**", "leather", "stylish - fashionable and attractive"],
+        ["a **ladder**", "metal", "light and easy to carry; you climb up it"],
+        ["a **tissue**", "paper", "a soft piece of paper that you use for cleaning your nose"],
+        ["a **bucket**", "plastic", "used to clean floors; you put water in it"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Material as adjective or noun",
+      "text": "Most materials can be an adjective before the noun, or a noun after **made of**. Both are correct and mean the same.",
+      "examples": [
+        { "text": "a **cotton** shirt = a shirt **made of cotton**" },
+        { "text": "a **leather** sofa = a sofa **made of leather**" },
+        { "text": "a **silk** scarf = a scarf **made of silk**" }
+      ],
+      "note": "Wood is the exception: a chair made of wood is a wooden chair, not a ~~wood chair~~."
+    },
+    {
+      "type": "table",
+      "heading": "Shapes and colours",
+      "columns": ["Phrase", "What it means"],
+      "rows": [
+        ["a grey **square**", "a shape with four equal sides, the colour between black and white"],
+        ["a pink **star**", "a shape with points, like a star in the sky"],
+        ["a navy blue **circle**", "a round shape, in very dark blue"],
+        ["a green **semi-circle**", "half a circle"],
+        ["a purple **heart**", "a heart shape, in a colour between red and blue"],
+        ["a **round** ball", "the ball has the shape of a circle"],
+        ["a **square** box", "the box has the shape of a square"],
+        ["shoes with **pointed** toes", "the toes end in a point"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Almost that shape or colour: -ish",
+      "text": "When a shape is 'almost round' or a colour is 'a sort of green', add the suffix **-ish** to the word.",
+      "examples": [
+        { "text": "She had a **roundish** face.", "note": "= almost round" },
+        { "text": "He wore a **greenish** tie.", "note": "= a sort of green" },
+        { "text": "The room was painted a **pinkish** colour." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the material with the object it usually goes with: a plastic toy, a silk scarf, a rubber tyre, a fur hat, a cotton T-shirt, a leather belt."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the correct group.",
+      "categories": ["objects", "materials", "colours"],
+      "items": [
+        { "text": "bell", "category": 0 },
+        { "text": "ladder", "category": 0 },
+        { "text": "bucket", "category": 0 },
+        { "text": "silk", "category": 1 },
+        { "text": "cotton", "category": 1 },
+        { "text": "plastic", "category": 1 },
+        { "text": "purple", "category": 2 },
+        { "text": "navy blue", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the material with the object it usually goes with.",
+      "pairs": [
+        { "left": "a plastic", "right": "toy" },
+        { "left": "a silk", "right": "scarf" },
+        { "left": "a rubber", "right": "tyre" },
+        { "left": "a fur", "right": "hat" },
+        { "left": "a cotton", "right": "T-shirt" },
+        { "left": "a leather", "right": "belt" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A chair made of wood is a ___ chair.",
+      "hint": "(one word)",
+      "answers": ["wooden"],
+      "explanation": "Wood is the exception: we say a wooden chair, not ~~a wood chair~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's got a point at one end and that's the end you write with. What is it? It's a ___.",
+      "hint": "(you use it to write)",
+      "answers": ["pencil", "a pencil"],
+      "explanation": "A pencil has a pointed end that you write with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It can be metal or plastic and you often put water in it to wash floors. It's a ___.",
+      "hint": "(one word)",
+      "answers": ["bucket", "a bucket"],
+      "explanation": "A bucket holds water, for example when you clean the floor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is usually made of wood or metal, and you climb up it. It's a ___.",
+      "hint": "(one word)",
+      "answers": ["ladder", "a ladder"],
+      "explanation": "You climb up a ladder. A metal one is light and easy to carry."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's a shellfish. It is usually grey, but it goes pink when you cook it. What is it?",
+      "options": ["a prawn", "a bone", "a flag", "a tissue"],
+      "answer": 0,
+      "explanation": "A prawn is a grey shellfish that turns pink when you cook it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "At certain times of the month it's round; at others, it's closer to a semi-circle. What is it?",
+      "options": ["the moon", "a star", "a heart", "a ball"],
+      "answer": 0,
+      "explanation": "The moon changes shape: sometimes round, sometimes like a semi-circle."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An adult human body has 206 of these.",
+      "options": ["bones", "buckets", "circles", "tissues"],
+      "answer": 0,
+      "explanation": "Bones. A rubber bone is also a toy for dogs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The mirror has the shape of a circle. It's a ___ mirror.",
+      "hint": "(one adjective)",
+      "answers": ["round"],
+      "explanation": "Something with the shape of a circle is round."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The table has four equal sides. It's a ___ table.",
+      "hint": "(one adjective)",
+      "answers": ["square"],
+      "explanation": "A square has four equal sides."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His face wasn't exactly round, but nearly. He had a ___ face.",
+      "hint": "(round + a suffix)",
+      "answers": ["roundish"],
+      "explanation": "The suffix -ish means 'almost' or 'a sort of': roundish, greenish, pinkish."
+    },
+    {
+      "type": "true_false",
+      "statement": "An antique is an object that is old and often rare or beautiful.",
+      "answer": true,
+      "explanation": "Correct. The wooden chair in the lesson is an antique."
+    },
+    {
+      "type": "true_false",
+      "statement": "A tissue is a hard piece of metal that you use to clean floors.",
+      "answer": false,
+      "explanation": "A tissue is a soft piece of paper that you use for cleaning your nose."
+    }
+  ]
+}

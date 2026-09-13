@@ -1,0 +1,176 @@
+{
+  "number": 39,
+  "title": "Go / went / gone",
+  "subtitle": "go to work, go swimming, be going to",
+  "summary": "Use go to talk about moving from place to place, about future plans, and about activities like go swimming and go shopping.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Go = move from one place to another",
+      "text": "**Go** means to move from one place to another. We use it with places, with forms of transport and in questions about direction.",
+      "examples": [
+        { "text": "I **go** to work by bike. My brother **goes** by car." },
+        { "text": "We **went** to Paris last summer." },
+        { "text": "Is this train **going** to Granada?" },
+        { "text": "Shall we **go** to the swimming pool today?" },
+        { "text": "Where does this road **go**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Go + prepositions",
+      "text": "We often use **go** with a small word that shows the direction: **in(to)**, **out of**, **up** and **down**.",
+      "examples": [
+        { "text": "Ethan **went into** his room and shut the door." },
+        { "text": "Yuko **went out of** the house and into the garden.", "wrong": "went out off the house" },
+        { "text": "Jacob was tired. He **went up** the stairs slowly." },
+        { "text": "The phone was ringing. She **went down** the stairs quickly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Future plans: be going to",
+      "text": "We often use **be going to** to talk about our plans for the future.",
+      "examples": [
+        { "text": "Jan **is going to** study maths at university." },
+        { "text": "We're **going to** visit my aunt in New York soon." },
+        { "text": "I'm **going to** learn five new words every day." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "go + -ing for activities",
+      "columns": ["Expression", "Example"],
+      "rows": [
+        ["go shopping", "I hate going shopping on Saturdays."],
+        ["go swimming", "I usually go swimming in the morning."],
+        ["go dancing", "Let's go dancing tonight."],
+        ["go sightseeing", "Do you like going sightseeing on holiday?"],
+        ["go skiing", "Hans goes skiing every winter."],
+        ["go fishing", "Carter is going fishing today."]
+      ],
+      "note": "Never put to or for before the -ing word."
+    },
+    {
+      "type": "explain",
+      "heading": "Common mistakes",
+      "text": "Three things to remember. We do not use *to* before an -ing activity, before **there**, **somewhere** or **anywhere**, or before **home**.",
+      "examples": [
+        { "text": "Let's **go swimming** and then **go shopping**.", "wrong": "go to swimming ... go for shopping" },
+        { "text": "I **go there** every week. I don't want to **go anywhere** else.", "wrong": "go to there ... go to anywhere" },
+        { "text": "I must **go home** at 10 o'clock.", "wrong": "go to home" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn go home, go there and go swimming as whole phrases - then you will never add an extra to."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "I'm going to London by car tomorrow.",
+      "answer": true,
+      "explanation": "Correct. We go to a city, and we travel by car."
+    },
+    {
+      "type": "true_false",
+      "statement": "It's time to go at home now.",
+      "answer": false,
+      "explanation": "It's time to go home now. We never say go at home or go to home."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mum is going for shopping this afternoon.",
+      "answer": false,
+      "explanation": "Mum is going shopping this afternoon. There is no for before shopping."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love Paris. Did you go ___ last year?",
+      "hint": "(one word)",
+      "answers": ["there"],
+      "explanation": "We say go there, not go to there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We always go to the same cafe. Let's go ___ different today.",
+      "hint": "(one word)",
+      "answers": ["somewhere"],
+      "explanation": "We say go somewhere, not go to somewhere."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She went out ___ the shop with her shopping bag.",
+      "hint": "(one word)",
+      "answers": ["of"],
+      "explanation": "We say go out of a place, not go out off."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jo walked all the way to the top of the hill. Which sentence is correct?",
+      "options": [
+        "Jo went up to the top of the hill.",
+        "Jo went down to the top of the hill.",
+        "Jo went out of the top of the hill.",
+        "Jo went into the top of the hill."
+      ],
+      "answer": 0,
+      "explanation": "We go up to the top and down to the bottom."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We want to buy some new clothes this afternoon. What do we say?",
+      "options": ["Let's go shopping.", "Let's go to shopping.", "Let's go for shopping.", "Let's go the shopping."],
+      "answer": 0,
+      "explanation": "Go + -ing for activities: go shopping, go swimming, go fishing."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word come after go on its own, or after go to?",
+      "categories": ["go + -ing", "go to + place"],
+      "items": [
+        { "text": "swimming", "category": 0 },
+        { "text": "dancing", "category": 0 },
+        { "text": "skiing", "category": 0 },
+        { "text": "sightseeing", "category": 0 },
+        { "text": "work", "category": 1 },
+        { "text": "the zoo", "category": 1 },
+        { "text": "Cairo", "category": 1 },
+        { "text": "the beach", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Victoria wrote her New Year resolutions. Match each plan with the right ending.",
+      "pairs": [
+        { "left": "This year Victoria is going to stop", "right": "eating chocolate." },
+        { "left": "This year Victoria is going to pass", "right": "her driving test." },
+        { "left": "This year Victoria is going to learn", "right": "Spanish." },
+        { "left": "This year Victoria is going to watch", "right": "less TV." },
+        { "left": "This year Victoria is going to keep", "right": "her room tidy." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Victoria has a plan for this year. She ___ learn Spanish.",
+      "hint": "(be going to)",
+      "answers": ["is going to", "'s going to"],
+      "explanation": "We use be going to for future plans."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Write Victoria's plan about her driving test.",
+      "words": ["This", "year", "Victoria", "is", "going", "to", "pass", "her", "driving", "test."],
+      "answer": "This year Victoria is going to pass her driving test.",
+      "explanation": "be going to + verb talks about a plan."
+    },
+    {
+      "type": "true_false",
+      "statement": "Would you like to go to home now?",
+      "answer": false,
+      "explanation": "Would you like to go home now? We never put to before home."
+    }
+  ]
+}

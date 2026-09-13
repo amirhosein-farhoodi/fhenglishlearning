@@ -1,0 +1,216 @@
+{
+  "number": 39,
+  "title": "Crime",
+  "subtitle": "burglary, evidence, trial, sentence",
+  "summary": "Name crimes and the people who commit them, and follow a case through arrest, investigation, trial, verdict and sentence.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Crimes and criminals",
+      "columns": ["Crime", "Definition", "Criminal", "Verb"],
+      "rows": [
+        ["**murder**", "killing someone", "murderer", "murder"],
+        ["**shoplifting**", "stealing something from a shop", "shoplifter", "shoplift"],
+        ["**burglary**", "stealing something from someone's home", "burglar", "burgle"],
+        ["**smuggling**", "taking something illegally into another country", "smuggler", "smuggle"],
+        ["**kidnapping**", "taking a person hostage in exchange for money or other favours", "kidnapper", "kidnap"],
+        ["**terrorism**", "violent action for political purposes", "terrorist", "(terrorise)"],
+        ["**fraud**", "deceiving people in order to take money from them", "fraudster", "defraud"],
+        ["**abduction**", "taking someone, especially a child, usually in order to harm them", "abductor", "abduct"]
+      ],
+      "note": "All these verbs are regular. Terrorise is mainly used generally, meaning to make others very frightened, rather than just for the crime."
+    },
+    {
+      "type": "explain",
+      "heading": "Investigating crime",
+      "text": "Ross **committed a crime** when he **robbed** a bank. Someone **witnessed** the crime and told the police. The police **arrested** Ross and **charged him with** bank robbery. They also **accused** his twin brother Ben **of** being his **accomplice**.",
+      "examples": [
+        { "text": "The police **investigated the case** and collected **evidence** at the **crime scene**.", "note": "evidence = information used in court to decide whether the accused is guilty; a case = a crime that is being investigated" },
+        { "text": "They found Ross's **fingerprints** and **DNA evidence** that linked him to the crime.", "note": "DNA evidence comes from hair or skin and can be shown scientifically to come from a particular person" },
+        { "text": "They were confident they had **proof** that the two men were **guilty**.", "note": "proof = evidence that shows conclusively whether something is a fact" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The trial",
+      "text": "The case **came to court** and the two men were **tried**. The **trial** did not last long. Both **pleaded not guilty**. Their lawyer did her best to **defend** them, but the **prosecuting lawyer** produced a very strong case against them.",
+      "examples": [
+        { "text": "After brief deliberations, the **jury passed verdict** on them.", "note": "deliberations = discussions" },
+        { "text": "Ross was **convicted of** robbery, but Ben was **innocent**.", "note": "be convicted of = be found guilty of a crime" },
+        { "text": "The judge **acquitted** Ben of any involvement in the robbery." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Punishment",
+      "text": "The judge **sentenced** Ross **to** three years in **prison**. As well as a **prison sentence**, he also had to pay a large **fine**.",
+      "examples": [
+        { "text": "Ross **served** two years in prison, but was **released from prison** a year early." },
+        { "text": "He got **time off** for good behaviour." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "People in the legal process",
+      "columns": ["Person", "Who they are"],
+      "rows": [
+        ["**offender**", "someone who commits an illegal act (an **offence**)"],
+        ["**judge**", "the person who leads a trial and decides on the **sentence**, i.e. the punishment"],
+        ["**jury**", "a group of citizens (12 in the UK) who decide on the **verdict**, i.e. whether the accused is guilty"],
+        ["**victim**", "a person who suffers as the result of a crime"],
+        ["**suspect**", "a person who is suspected of committing an offence"],
+        ["**witness**", "a person who sees a crime being committed"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch the prepositions: charge someone with a crime, accuse someone of a crime, suspect someone of a crime, convict someone of a crime, but sentence someone to a punishment."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which crime is each person accused of?",
+      "pairs": [
+        { "left": "Zoe stole a chocolate bar from a shop.", "right": "shoplifting" },
+        { "left": "Harry took a film star's son and demanded a large sum of money.", "right": "kidnapping" },
+        { "left": "Ophelia shot her husband in the heart.", "right": "murder" },
+        { "left": "Noah tried to take cigarettes into his country without paying tax.", "right": "smuggling" },
+        { "left": "Tom broke into someone's house and stole a TV.", "right": "burglary" },
+        { "left": "Mike sold people holiday homes that didn't really exist.", "right": "fraud" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each person with the description.",
+      "pairs": [
+        { "left": "judge", "right": "leads the trial and decides on the sentence" },
+        { "left": "jury", "right": "decides whether the accused is guilty" },
+        { "left": "victim", "right": "suffers as the result of a crime" },
+        { "left": "witness", "right": "sees a crime being committed" },
+        { "left": "accomplice", "right": "helps someone commit a crime" },
+        { "left": "suspect", "right": "is thought to have committed an offence" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A man has been ___ by police after a house in the city centre was broken into last night.",
+      "hint": "(verb, past participle)",
+      "answers": ["arrested"],
+      "explanation": "The police arrest someone before charging them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The man has been charged ___ burglary.",
+      "hint": "(preposition)",
+      "answers": ["with"],
+      "explanation": "You charge someone with a crime."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Experts have searched the crime ___ and taken several items away.",
+      "hint": "(one word)",
+      "answers": ["scene"],
+      "explanation": "Police collect evidence at the crime scene."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The items will be used as ___ in court.",
+      "hint": "(uncountable noun)",
+      "answers": ["evidence"],
+      "explanation": "Evidence is the information used in court to decide guilt."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police believe the burglar may have had an ___, so they are looking for a second man.",
+      "hint": "(noun beginning with a)",
+      "answers": ["accomplice"],
+      "explanation": "An accomplice helps someone commit a crime."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They are calling for anyone who ___ the crime to come forward.",
+      "hint": "(verb, past tense)",
+      "answers": ["witnessed", "saw"],
+      "explanation": "To witness a crime is to see it being committed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Many prisoners end up getting time ___ for good behaviour.",
+      "options": ["off", "out", "away", "over"],
+      "answer": 0,
+      "explanation": "Time off means part of the sentence is not served."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The two girls are suspected ___ taking sweets from the shop without paying.",
+      "options": ["of", "with", "for", "in"],
+      "answer": 0,
+      "explanation": "You suspect someone of doing something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The jury passed a verdict of guilty ___ the accused.",
+      "options": ["on", "to", "at", "for"],
+      "answer": 0,
+      "explanation": "A jury passes verdict on someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The judge ___ the accused to six months in prison.",
+      "hint": "(sentence)",
+      "answers": ["sentenced"],
+      "explanation": "Sentence someone to a punishment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police think Bert is guilty but they have no ___.",
+      "hint": "(uncountable noun)",
+      "answers": ["proof"],
+      "explanation": "Proof shows conclusively that something is a fact."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In court the accused ___ not guilty.",
+      "hint": "(plead)",
+      "answers": ["pleaded"],
+      "explanation": "To plead not guilty is to say in court that you did not commit the crime."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The murder case is still under ___ by the police.",
+      "hint": "(noun from investigate)",
+      "answers": ["investigation"],
+      "explanation": "A case that is being looked into is under investigation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bank robbers are currently on ___ at a court in London.",
+      "hint": "(noun)",
+      "answers": ["trial"],
+      "explanation": "Someone being tried in court is on trial."
+    },
+    {
+      "type": "true_false",
+      "statement": "Nathan is hoping to be released from prison soon.",
+      "answer": true,
+      "explanation": "Correct - you are released from prison when you are let out."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word the crime, the criminal, or something used in court?",
+      "categories": ["Crime", "Criminal", "Used in court"],
+      "items": [
+        { "text": "smuggling", "category": 0 },
+        { "text": "abduction", "category": 0 },
+        { "text": "fraudster", "category": 1 },
+        { "text": "shoplifter", "category": 1 },
+        { "text": "burglar", "category": 1 },
+        { "text": "evidence", "category": 2 },
+        { "text": "verdict", "category": 2 },
+        { "text": "fingerprints", "category": 2 }
+      ]
+    }
+  ]
+}

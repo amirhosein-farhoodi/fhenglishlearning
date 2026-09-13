@@ -1,0 +1,212 @@
+{
+  "number": 85,
+  "title": "The senses",
+  "subtitle": "look tired, sound like an alarm, feel as if",
+  "summary": "Talk about what you see, hear, taste, smell and feel, and tell apart pairs like look and watch or hear and listen.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The five basic senses",
+      "columns": ["Sense", "Verb", "What it means"],
+      "rows": [
+        ["sight", "see", "the ability to see"],
+        ["hearing", "hear", "the ability to hear"],
+        ["taste", "taste", "the ability to know if food is sweet, salty, and so on"],
+        ["smell", "smell", "the ability to know from the air that bread is fresh"],
+        ["touch", "feel", "the ability to feel something with your hand or skin"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sense verb + adjective",
+      "text": "We use the sense verbs with an adjective to say what our eyes, ears, mouth, nose or hands tell us.",
+      "examples": [
+        { "text": "You **look tired** this evening.", "note": "= from what I can see" },
+        { "text": "That man **sounded foreign**.", "note": "= from another country, from what I could hear" },
+        { "text": "This cake **tastes** a bit **strange**." },
+        { "text": "Fresh bread **smells wonderful**." },
+        { "text": "This shirt **feels damp**.", "note": "damp = slightly wet, often in an unpleasant way" }
+      ],
+      "note": "These verbs are also nouns: I like the look of this hotel. I love the sound of his voice."
+    },
+    {
+      "type": "explain",
+      "heading": "Sense verb + like + noun",
+      "text": "Use **like** + a noun to say that two things are similar. You cannot use *like* before an adjective.",
+      "examples": [
+        { "text": "Have you ever had a nectarine? They **look like** peaches." },
+        { "text": "Did you hear that noise? It **sounded like** an alarm." },
+        { "text": "That shampoo **smells like** coconut.", "note": "You can also say smells of coconut." },
+        { "text": "Don't you think this material **feels like** silk?" },
+        { "text": "She **looks nice**.", "wrong": "She looks like nice" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sense verb + as if / as though + clause",
+      "text": "Use **as if** or **as though** and then a whole clause (subject + verb) to describe what you think is happening.",
+      "examples": [
+        { "text": "That boy **looks as if** he's trying to get over the wall." },
+        { "text": "It **sounded as though** they had a good time on holiday." },
+        { "text": "Put your hand on the radiator. Does it **feel as if** it's getting warm?" },
+        { "text": "Have you tried the soup? It **tastes as if** it needs a bit more salt." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "seem and appear",
+      "text": "We also use **seem** and **appear** to describe a feeling about someone or something after we have seen them or talked to them. Before *like* + noun, we usually use **seem**.",
+      "examples": [
+        { "text": "I saw Will and he **seemed** quite happy." },
+        { "text": "The shop **appears** to be very busy." },
+        { "text": "Amelia wants to travel a bit, which **seems like** a good idea." },
+        { "text": "Alina didn't ask any questions. She **seemed as though** she wasn't interested." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "see, look and watch",
+      "left": {
+        "label": "see = you are able to see",
+        "text": "**See** is about your eyes working; **watch** means pay attention to something for a long time.",
+        "examples": [
+          "If you look at the map, you can **see** the church on the left.",
+          "I **saw** a film at the cinema.",
+          "They've been **watching** that man for weeks."
+        ]
+      },
+      "right": {
+        "label": "look = you look carefully",
+        "text": "**Look (at)** means turn your eyes to something on purpose. It can also mean pay attention.",
+        "examples": [
+          "Quick. Come and **look at** this man walking by.",
+          "He ran into me because he wasn't **looking**.",
+          "If you **look** carefully, you can see how the trick is done."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "hear and listen; touch and feel",
+      "left": {
+        "label": "hear / touch",
+        "text": "**Hear** = your ears work. **Touch** = put your hand on something.",
+        "examples": [
+          "I **heard** what she said, but I wasn't listening.",
+          "She turned up the volume but I still couldn't **hear** it.",
+          "Don't **touch** the oven. It's hot!"
+        ]
+      },
+      "right": {
+        "label": "listen / feel",
+        "text": "**Listen (to)** = pay attention with your ears. **Feel** = put your hand on something to discover what it is like.",
+        "examples": [
+          "I was **listening to** the radio when I heard a terrible noise.",
+          "Tom wasn't **listening to** what I was saying.",
+          "Just **feel** my feet. Aren't they cold?"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "We say *I saw a film at the cinema*, but *I watched a film on TV*. You cannot ~~watch a film at the cinema~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each sense with what it means.",
+      "pairs": [
+        { "left": "sight", "right": "the ability to see" },
+        { "left": "hearing", "right": "the ability to hear" },
+        { "left": "taste", "right": "the ability to know if food is sweet or salty" },
+        { "left": "smell", "right": "the ability to know from the air that bread is fresh" },
+        { "left": "touch", "right": "the ability to feel something with your hand" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I was very angry with Tom - he just wasn't ___ to what I was saying.",
+      "options": ["listening", "hearing", "sounding", "seeming"],
+      "answer": 0,
+      "explanation": "Listen to = pay attention with your ears. Hear = your ears work."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She turned up the volume but I still couldn't ___ it.",
+      "options": ["hear", "listen", "listen to", "sound"],
+      "answer": 0,
+      "explanation": "Hear = be able to hear. We do not say couldn't listen it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There's a good film on at the cinema. Have you ___ it?",
+      "options": ["seen", "watched", "looked", "looked at"],
+      "answer": 0,
+      "explanation": "We see a film at the cinema; we watch a film on TV."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quick. Come and ___ this man walking by.",
+      "hint": "(two words)",
+      "answers": ["look at"],
+      "explanation": "Look at = turn your eyes to something on purpose."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ the birds while they were eating food from the bird table.",
+      "hint": "(one word, past)",
+      "answers": ["watched"],
+      "explanation": "Watch = pay attention to something for some time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You mustn't ___ the paintings in the museum.",
+      "hint": "(one word)",
+      "answers": ["touch"],
+      "explanation": "Touch = put your hand on something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Abigail has just taken the cakes out of the oven and they ___.",
+      "hint": "(sense verb + delicious)",
+      "answers": ["smell delicious"],
+      "explanation": "Sense verb + adjective: smell delicious."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sheets on her bed looked expensive, and when I touched them, they ___.",
+      "hint": "(felt + like + silk)",
+      "answers": ["felt like silk"],
+      "explanation": "Sense verb + like + noun says that two things are similar."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I could see something quite tall in the distance. It ___.",
+      "hint": "(looked + like + a church)",
+      "answers": ["looked like a church"],
+      "explanation": "Look like + noun = it has the appearance of that thing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I heard the noise I jumped out of bed because it ___.",
+      "hint": "(sounded + like + an alarm)",
+      "answers": ["sounded like an alarm"],
+      "explanation": "Sound like + noun describes what a noise is similar to."
+    },
+    {
+      "type": "true_false",
+      "statement": "I've just met my new class. They look like nice.",
+      "answer": false,
+      "explanation": "They seem very nice. / They look nice. We cannot use like before an adjective."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Alexei said that Lola was doing well. Put your reply in order.",
+      "words": ["It", "sounds", "as if", "she'll", "pass", "the exam."],
+      "answer": "It sounds as if she'll pass the exam.",
+      "explanation": "Sense verb + as if / as though + clause."
+    }
+  ]
+}

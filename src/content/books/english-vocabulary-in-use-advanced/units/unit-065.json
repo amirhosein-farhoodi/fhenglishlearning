@@ -1,0 +1,224 @@
+{
+  "number": 65,
+  "title": "All the colours of the rainbow",
+  "subtitle": "scarlet, auburn, pastel, to see red",
+  "summary": "Name colours precisely - jet black hair, navy coats, auburn hair - and use the colour metaphors that fill everyday English, from feeling blue to a red-letter day.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Precise colour words and what they describe",
+      "columns": ["Word", "Colour", "What it is used about"],
+      "rows": [
+        ["pitch black", "intensely black", "darkness, night (pitch is an old word for tar)"],
+        ["jet black", "intensely black", "hair, eyes (jet is a black semi-precious stone)"],
+        ["scarlet", "very bright red", "clothes, lips, flowers"],
+        ["crimson", "strong, deep red", "fabrics, a face flushed with embarrassment"],
+        ["shocking pink", "an extremely bright pink", "clothes, accessories"],
+        ["ginger", "orangey red", "hair and animal fur"],
+        ["navy", "dark blue", "clothes - not eyes"],
+        ["turquoise", "greenish blue", "fabrics, paint, the sea - not usually eyes"],
+        ["lime", "a bright yellowish green", "paint, fabrics"],
+        ["beige", "a light creamy brown", "carpets, clothes, walls"],
+        ["mousy", "a light, not very interesting brown", "hair only"],
+        ["chestnut", "a deep reddish brown", "hair and horses"],
+        ["auburn", "a red-brown colour", "usually hair"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Gemstones as colours",
+      "text": "A number of words for gemstones double as colour adjectives, and they always sound rather literary or admiring. **Ruby** is deep red, **emerald** bright green, **amber** yellowy orange, **coral** orangey pink, **sapphire** deep blue and **jade** dark green.",
+      "examples": [
+        { "text": "She wore a long **emerald** green dress." },
+        { "text": "The sea was a perfect **sapphire** blue that morning." },
+        { "text": "The traffic lights turned **amber** and then red." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about colour",
+      "text": "Red, blue and yellow are the **primary colours**; mixing them makes the others. **Pastel** colours are pale shades - pink, **mauve** (pale purple), pale yellow. **Strong** colours are their opposite, **harsh** colours are unpleasantly strong, and **vivid** colours are strong and bright, like scarlet or turquoise.",
+      "examples": [
+        { "text": "The nursery was painted in gentle **pastel** colours." },
+        { "text": "That's rather a **harsh** red for a lipstick.", "note": "the speaker does not like it" },
+        { "text": "The market stalls were piled with **vivid** silks." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Shades, tinges and monochrome",
+      "text": "**Fluorescent** colours are very bright and seem to glow in the dark, and **electric** blue or green is extremely bright. If white has a **tinge** of green, there is a very slight shade of green in it. Something **monochrome** uses only one colour or shades of it. The suffixes **-y** and **-ish** show that a colour is only partly present.",
+      "examples": [
+        { "text": "Cyclists should wear **fluorescent** jackets at night." },
+        { "text": "He turned up in an **electric** blue suit." },
+        { "text": "The paint is white with a **tinge** of green." },
+        { "text": "She favours **monochrome** photography - black, white and grey." },
+        { "text": "a **bluey** green sea; a **reddish** brown coat" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Colour metaphors: blue, red and green",
+      "columns": ["Colour", "Meaning", "Example"],
+      "rows": [
+        ["blue", "depression; physical or unskilled work", "to feel blue; blue-collar workers"],
+        ["red", "anger; danger; special importance; left-wing politics", "to see red (be very angry); a red alert, a red flag; the red-carpet treatment, a red-letter day; views become less red with age"],
+        ["green", "nausea; envy; care for the environment", "People who are seasick often turn green. She turned green with envy. green tourism; the Green Party"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Colour metaphors: black, grey and white",
+      "columns": ["Colour", "Meaning", "Example"],
+      "rows": [
+        ["black", "depressing; angry; illegal or wrong", "a black future; to look as black as thunder; the black market, the black sheep of the family, another black mark against my name"],
+        ["grey", "lack of clarity; brains", "It's a bit of a grey area. Use your grey matter / grey cells."],
+        ["white", "purity; being pale; terror; office work", "white as snow, whiter than white; She went white as a sheet. a white-knuckle ride; white-collar workers"]
+      ],
+      "note": "To blacken someone's name is to damage their reputation."
+    },
+    {
+      "type": "tip",
+      "text": "Remember which noun each colour belongs to: hair can be **jet black**, **ginger**, **mousy**, **chestnut** or **auburn**, but a coat is **navy** and the sea is **turquoise**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each colour word with what it describes.",
+      "pairs": [
+        { "left": "ginger", "right": "orangey red hair or a cat's fur" },
+        { "left": "pitch black", "right": "a night with no light at all" },
+        { "left": "chestnut", "right": "a horse of a deep reddish brown" },
+        { "left": "navy", "right": "a dark blue school uniform" },
+        { "left": "turquoise", "right": "a greenish blue tropical sea" },
+        { "left": "mousy", "right": "dull light brown hair" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each colour word a kind of red, a kind of blue or a kind of green?",
+      "categories": ["Red", "Blue", "Green"],
+      "items": [
+        { "text": "ruby", "category": 0 },
+        { "text": "coral", "category": 0 },
+        { "text": "scarlet", "category": 0 },
+        { "text": "crimson", "category": 0 },
+        { "text": "sapphire", "category": 1 },
+        { "text": "navy", "category": 1 },
+        { "text": "turquoise", "category": 1 },
+        { "text": "emerald", "category": 2 },
+        { "text": "lime", "category": 2 },
+        { "text": "jade", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these is not a pastel colour?",
+      "options": ["scarlet", "mauve", "pink", "pale yellow"],
+      "answer": 0,
+      "explanation": "Pastel colours are pale shades; scarlet is a very bright red, the opposite of a pastel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which colour cannot be described as electric?",
+      "options": ["black", "green", "blue", "none of them can"],
+      "answer": 0,
+      "explanation": "Electric means extremely bright, so we say electric blue or electric green - never electric black."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these is a primary colour?",
+      "options": ["yellow", "green", "orange", "mauve"],
+      "answer": 0,
+      "explanation": "Red, blue and yellow are the primary colours; mixing them makes the others."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A speaker says a lipstick is 'rather a harsh red'. What does the speaker think?",
+      "options": ["She doesn't like it.", "She likes it.", "She is simply stating a fact.", "She thinks it is too pale."],
+      "answer": 0,
+      "explanation": "Harsh colours are unpleasantly strong, so the comment is negative."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the closest synonym of 'a bright pink material'?",
+      "options": ["a vivid pink material", "a material with a tinge of pink", "a pinkish material", "a pastel pink material"],
+      "answer": 0,
+      "explanation": "Vivid colours are strong, bright colours; a tinge and the -ish suffix both mean only slightly coloured."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the reply that fits it.",
+      "pairs": [
+        { "left": "That child looks a bit green.", "right": "I think he's going to be sick." },
+        { "left": "He seems to have the blues most days.", "right": "Yes, ever since his wife left him." },
+        { "left": "That TV programme always makes him see red.", "right": "Yes, he can't stand the presenter." },
+        { "left": "It's a bit of a grey area, isn't it?", "right": "Yes, it's not at all clear what we should do." },
+        { "left": "They seem to be trying to blacken his name.", "right": "I wonder what they've got against him?" },
+        { "left": "They're going to vote for the Green Party.", "right": "Yes, they want to do their bit for the environment." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She turned ___ with envy when she saw her friend's new car.",
+      "hint": "(a colour metaphor for envy)",
+      "answers": ["green"],
+      "explanation": "Green is the colour of envy as well as of nausea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The day we met will always be a red-___ day for me.",
+      "hint": "(specially important)",
+      "answers": ["letter"],
+      "explanation": "A red-letter day is a day of special importance; red also gives us the red-carpet treatment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother was the black ___ of the family, leaving school and home at the earliest opportunity.",
+      "hint": "(a farm animal)",
+      "answers": ["sheep"],
+      "explanation": "The black sheep of the family is the member who behaves badly or differently."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "During the war people bought many goods illegally on the black ___.",
+      "hint": "(where illegal trading happens)",
+      "answers": ["market"],
+      "explanation": "Black carries the idea of illegality - the black market, a black mark against your name."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was so shocked that she went white as a ___.",
+      "hint": "(something on a bed)",
+      "answers": ["sheet"],
+      "explanation": "To go white as a sheet is to turn completely pale with shock."
+    },
+    {
+      "type": "true_false",
+      "statement": "Blue-collar workers do office jobs and white-collar workers do physical or unskilled jobs.",
+      "answer": false,
+      "explanation": "It is the other way round - blue-collar workers do physical or unskilled work, white-collar workers do office work."
+    },
+    {
+      "type": "true_false",
+      "statement": "A white-knuckle ride at an amusement park is a gentle, relaxing one.",
+      "answer": false,
+      "explanation": "No - a white-knuckle ride is terrifying; you grip so hard that your knuckles go white."
+    },
+    {
+      "type": "true_false",
+      "statement": "If someone looks as black as thunder, they are extremely angry.",
+      "answer": true,
+      "explanation": "Correct - black is used metaphorically for anger as well as for hopelessness and illegality."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about brains in order.",
+      "words": ["You'll", "have", "to", "use", "your", "grey", "matter", "to", "solve", "this", "one"],
+      "answer": "You'll have to use your grey matter to solve this one",
+      "explanation": "Grey matter, or grey cells, means the brain."
+    }
+  ]
+}

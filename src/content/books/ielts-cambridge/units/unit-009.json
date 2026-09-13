@@ -1,0 +1,178 @@
+{
+  "number": 9,
+  "title": "Reading strategies",
+  "subtitle": "Features, skimming and the whole passage",
+  "summary": "Read a passage the way the paper expects: use its headings and footnotes, skim it fast, and answer questions about it as a whole.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "60 minutes, 40 questions, no extra time",
+      "text": "The Reading paper lasts **60 minutes** and contains three sections with 40 questions in total. You must also copy your answers onto the answer sheet, and - unlike the Listening paper - **no extra time is given for that**. Each section is a little harder than the one before.",
+      "examples": [
+        { "text": "**Academic:** three long texts of an academic nature." },
+        { "text": "**General Training:** a mixture of long and short general texts, plus work-related texts." }
+      ],
+      "note": "Decide which module you need *before* you enrol - they are two separate tests."
+    },
+    {
+      "type": "table",
+      "heading": "How to spend 20 minutes on a section",
+      "columns": ["Minutes", "What you are doing"],
+      "rows": [
+        ["up to 3", "Read the passage as quickly as possible"],
+        ["up to 1", "Look at the questions to see what information you need to find"],
+        ["12-13", "Read in detail and answer the questions"],
+        ["3-4", "Transfer your answers, checking and filling any gaps"]
+      ],
+      "note": "If a question is taking too long, move on. A question you leave blank costs the same as a question you get wrong, but the minutes you spend on it cost you other marks too."
+    },
+    {
+      "type": "explain",
+      "heading": "The passage tells you about itself",
+      "text": "Before you read a word of the body text, use the passage's own features. The **heading** names the topic, the **subheading** gives you the context, and **footnotes** explain technical terms so you do not have to guess them.",
+      "examples": [
+        { "text": "**heading** - *Health-Tea*", "note": "The topic in two words." },
+        { "text": "**subheading** - *Sid Cowans looks at the health properties of a favourite drink*", "note": "The context: who is writing, and about what." },
+        { "text": "**footnote** - *In chemistry, an alkali is the opposite of an acid.*", "note": "A definition handed to you for free." },
+        { "text": "**caption** - *Tannins exist in all types of tea*", "note": "The point the picture is making." },
+        { "text": "**paragraph**, **column**, **figure / illustration**", "note": "The rest of the furniture - know the names, they appear in instructions." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Predicting from the subheading",
+      "left": {
+        "label": "*Climatologists are assessing the impact of climate change on high-altitude bodies of water.*",
+        "text": "Heading: **Alpine Glacial Lakes**.",
+        "examples": ["Expect research linked to trends in weather patterns.", "Expect a description of a project in mountainous areas."]
+      },
+      "right": {
+        "label": "*Researchers disagree about whether social media is making us more isolated.*",
+        "text": "Heading: **Virtual Connections**.",
+        "examples": ["Expect arguments put forward by several different experts.", "Expect a discussion about the impact of technology on society."]
+      },
+      "note": "*Researchers disagree* promises several voices; *Alan Parker outlines* promises one. That difference decides what kind of questions can be asked."
+    },
+    {
+      "type": "explain",
+      "heading": "Skimming is not reading",
+      "text": "Skimming means going through the passage quickly, concentrating on **content words - nouns and verbs** - to get the main points. You are not reading for detail. It also shows you how the passage is organised, which makes finding things later much faster. Aim for **100 words in 30 seconds**.",
+      "examples": [
+        { "text": "Paragraph A - a list of factors that brought about changes in our diet" },
+        { "text": "Paragraph B - a comparison of children now and in the past" },
+        { "text": "Paragraph D - different hypotheses for the changes in weight" }
+      ],
+      "note": "After skimming you should be able to say roughly *where* something was - near the beginning, in the middle, near the end - even if you cannot quote it."
+    },
+    {
+      "type": "explain",
+      "heading": "Some questions are about the whole passage",
+      "text": "A **global** question asks about the passage as a whole: choose the best title, or describe the writer's tone. The right answer covers the *main* idea of the whole text - not one striking detail from a single paragraph.",
+      "examples": [
+        { "text": "A good title covers every paragraph.", "note": "*The rapid transformation occurring in children's body size* covers the diet, the comparison and the theories." },
+        { "text": "A wrong title is usually true but too narrow.", "note": "*The impact of modern technology on today's food production* is only part of paragraph A." },
+        { "text": "Tone: *He is giving a neutral account of recent scientific research.*", "note": "The writer reports the two theories without taking sides - so *shocked*, *enthusiastic* and *doubtful* are all too strong." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Spelling is marked in Reading too - and here the correct spelling is printed in front of you. Copy it exactly from the passage."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each feature of a Reading passage with what it does.",
+      "pairs": [
+        { "left": "heading", "right": "names the topic" },
+        { "left": "subheading", "right": "gives the context" },
+        { "left": "footnote", "right": "explains a technical term" },
+        { "left": "caption", "right": "says what a picture shows" },
+        { "left": "paragraph", "right": "one block of related sentences" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "How long does the Reading paper last, and how much extra time do you get to transfer your answers?",
+      "options": [
+        "60 minutes, plus 10 minutes to transfer",
+        "60 minutes, with no extra transfer time",
+        "30 minutes, plus 10 minutes to transfer",
+        "90 minutes, with no extra transfer time"
+      ],
+      "answer": 1,
+      "explanation": "Unlike Listening, Reading gives you no extra time - budget 3-4 minutes per section for transferring."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the exam you should aim to skim read 100 words in ___ seconds.",
+      "hint": "(a number)",
+      "answers": ["30", "thirty"],
+      "explanation": "In your own language 100 words takes about 20 seconds. Thirty is the realistic target in English."
+    },
+    {
+      "type": "true_false",
+      "statement": "Skimming means reading every word of the passage carefully before you look at the questions.",
+      "answer": false,
+      "explanation": "Skimming means going through it quickly, concentrating on nouns and verbs, to get the main points and see how it is organised."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each subheading with the type of information the passage will contain.",
+      "pairs": [
+        { "left": "Researchers disagree about social media", "right": "arguments put forward by several experts" },
+        { "left": "Climatologists are assessing high-altitude lakes", "right": "research linked to trends in weather patterns" },
+        { "left": "Alan Parker outlines a recent breakthrough", "right": "an argument presented from one expert's point of view" },
+        { "left": "A schoolgirl helped turn soap into an $18 billion industry", "right": "a historical look at a successful business venture" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A passage compares children's diets and activity in 1970 and 2010, then sets out two competing theories. Which title fits best?",
+      "options": [
+        "Children's eating patterns mimic those of their parents",
+        "The rapid transformation occurring in children's body size",
+        "A demonstrated positive link between diet and health in children",
+        "The impact of modern technology on today's food production"
+      ],
+      "answer": 1,
+      "explanation": "A global question needs the idea that covers every paragraph. The other three are each true of one part of the text at most."
+    },
+    {
+      "type": "categorize",
+      "prompt": "You have 20 minutes for one section. Sort these tasks by when they belong.",
+      "categories": ["First 4 minutes", "The middle 12-13 minutes", "Last 3-4 minutes"],
+      "items": [
+        { "text": "Skim the passage", "category": 0 },
+        { "text": "Look at the questions to see what to find", "category": 0 },
+        { "text": "Read in detail and answer", "category": 1 },
+        { "text": "Transfer your answers and fill any gaps", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The writer reports two competing theories about childhood obesity without supporting either. What is the tone?",
+      "options": [
+        "A neutral account of recent scientific research",
+        "Shock that so many children are overweight",
+        "Enthusiasm about the progress being made",
+        "Doubt that the situation will change"
+      ],
+      "answer": 0,
+      "explanation": "Reporting both sides without taking one is neutral. Strong feeling words need strong evidence in the text."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A note at the bottom of the passage explaining a technical term is called a ___.",
+      "hint": "(one word)",
+      "answers": ["footnote", "foot note"],
+      "explanation": "Footnotes are there to help. Check for them before you spend a minute guessing a word from context."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a question is taking too long, you should stay with it until you solve it.",
+      "answer": false,
+      "explanation": "Move on. Every minute spent on one stubborn question is a minute taken from questions you could answer easily."
+    }
+  ]
+}

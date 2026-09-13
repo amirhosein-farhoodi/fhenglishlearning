@@ -1,0 +1,193 @@
+{
+  "number": 65,
+  "title": "Addition",
+  "subtitle": "in addition, as well as, what's more",
+  "summary": "Add one point to another in speech and writing using expressions such as in addition, furthermore, as well as, apart from and on top of that.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Linking two sentences or clauses",
+      "text": "These expressions come at the start of the second sentence or clause and simply add another point to the first. **Furthermore** and **moreover** are interchangeable and rather formal; **what's more** is informal (write **what is more** if you want it more formal).",
+      "examples": [
+        { "text": "For this job you need a degree. **In addition**, you need at least two years' experience." },
+        { "text": "Smartphones are becoming more sophisticated. **Furthermore**, they are becoming cheaper." },
+        { "text": "Children should respect their parents. **What's more**, they should respect their teachers." },
+        { "text": "He's a very good singer. **What is more**, he has a degree in music." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adding a point of equal value",
+      "text": "**Equally** and **likewise** do not just add a point - they suggest the new point has the same weight as the first. **Equally** is best when you are arguing a case or presenting opinions. **On top of (all) that** is emphatic and mostly used in informal speech.",
+      "examples": [
+        { "text": "Physical labour can exhaust the body very quickly. **Equally**, excessive study can rapidly reduce mental powers." },
+        { "text": "My father won't agree. **Likewise**, my mother's sure to find something to object to." },
+        { "text": "It was raining and getting dark. **On top of all that**, we had very little petrol left in the tank." },
+        { "text": "To keep fit you need a good diet **plus** regular exercise.", "note": "plus normally connects noun phrases, but can connect clauses in informal speech" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions at the end of a sentence",
+      "text": "Some addition expressions come at the very end. **And so on** is more informal than **etc.**; **and so on and so forth** suggests a long continuation. **Into the bargain** and **to boot** emphasise the combination of items and are both informal.",
+      "examples": [
+        { "text": "They sell chairs, tables, beds, **and so on**." },
+        { "text": "It'll go to the committee, then to the board, then to another committee, **and so on and so forth**." },
+        { "text": "He was a good sportsman and an excellent musician **into the bargain**." },
+        { "text": "She's a good footballer and a good athlete **to boot**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions before a noun or -ing form",
+      "text": "These expressions begin or come in the middle of a sentence. They are all followed by a noun, a noun phrase, or a verb plus **-ing** - never by a full clause.",
+      "examples": [
+        { "text": "**In addition to** winning the gold medal, she also broke the world record." },
+        { "text": "**As well as** speaking Japanese, she also speaks French.", "wrong": "As well as she speaks Japanese" },
+        { "text": "**Besides** having a salary, he also has a private income." },
+        { "text": "**Apart from** her many other hobbies, she restores old racing cars." },
+        { "text": "**Alongside** her full-time job as a dentist, she does voluntary conservation work at weekends." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which addition word goes where?",
+      "columns": ["Expression", "Register", "Followed by"],
+      "rows": [
+        ["in addition, additionally", "neutral / fairly formal", "a new sentence or clause"],
+        ["furthermore, moreover", "formal", "a new sentence or clause"],
+        ["what's more", "informal", "a new sentence or clause"],
+        ["equally, likewise", "neutral", "a new sentence or clause of equal value"],
+        ["on top of (all) that", "informal, emphatic", "a new sentence or clause"],
+        ["in addition to, as well as, besides, apart from, alongside", "neutral to fairly formal", "a noun, noun phrase or -ing form"],
+        ["along with, together with", "neutral", "a noun or noun phrase"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adding people and things to a list",
+      "text": "**Along with** and **together with** add extra people or things to the ones you have just named. **Further to** is a formal way of opening a letter or an email that follows an earlier one.",
+      "examples": [
+        { "text": "Jo Evans was there, **along with** a few other people who I didn't know." },
+        { "text": "My cousin turned up **along with** some schoolmates of his." },
+        { "text": "**Further to** my telephone call to you yesterday, I am now writing to ..." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In a formal letter, vary your addition words - if you have already written *in addition to*, choose *as well as* or *apart from* the next time so you do not repeat yourself."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is each expression informal, or formal / neutral?",
+      "categories": ["Informal", "Formal or neutral"],
+      "items": [
+        { "text": "what's more", "category": 0 },
+        { "text": "on top of all that", "category": 0 },
+        { "text": "to boot", "category": 0 },
+        { "text": "and so on", "category": 0 },
+        { "text": "furthermore", "category": 1 },
+        { "text": "moreover", "category": 1 },
+        { "text": "in addition to", "category": 1 },
+        { "text": "further to", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each addition expression with what it does.",
+      "pairs": [
+        { "left": "equally", "right": "adds a point of the same value" },
+        { "left": "into the bargain", "right": "emphasises a combination of qualities" },
+        { "left": "and so on and so forth", "right": "suggests a long continuation of a list" },
+        { "left": "further to", "right": "opens a formal letter about an earlier one" },
+        { "left": "plus", "right": "joins two noun phrases" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ holding a Diploma in Catering, I also have an Advanced Certificate in Hotel Management.",
+      "hint": "(followed by an -ing form)",
+      "answers": ["In addition to", "As well as", "Apart from", "Besides"],
+      "explanation": "These expressions are all followed by a noun, noun phrase or -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The course covered the usual areas: finance, front services, publicity, space allocation, ___.",
+      "hint": "(an end-of-list expression, slightly formal)",
+      "answers": ["etc.", "etc", "and so on"],
+      "explanation": "etc. is slightly more formal than and so on, so it suits a job application letter."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have been working in the hotel trade for five years. ___, my experience prior to that was also connected with tourism.",
+      "hint": "(formal, starts a new sentence)",
+      "answers": ["Furthermore", "Moreover", "Likewise"],
+      "explanation": "Furthermore and moreover add the previous experience on; likewise suggests it is of equal value."
+    },
+    {
+      "type": "true_false",
+      "statement": "I work part-time as well as I am a student, so I have a busy life.",
+      "answer": false,
+      "explanation": "As well as is followed by an -ing form: I work part-time as well as being a student, so I have a busy life."
+    },
+    {
+      "type": "true_false",
+      "statement": "Alongside my many other responsibilities, I now have to be in charge of staff training.",
+      "answer": true,
+      "explanation": "Correct - alongside is followed by a noun phrase."
+    },
+    {
+      "type": "true_false",
+      "statement": "In addition has a degree, she also has a diploma.",
+      "answer": false,
+      "explanation": "In addition to a degree, she also has a diploma. (Or: In addition to having a degree ...)"
+    },
+    {
+      "type": "true_false",
+      "statement": "Besides to have a good job, my ambition is to meet someone nice to share my life with.",
+      "answer": false,
+      "explanation": "Besides having a good job, my ambition is to meet someone nice to share my life with."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct rewrite: 'He owns a big chemical factory and he runs a massive oil business in the USA.' (as well as)",
+      "options": [
+        "He owns a big chemical factory as well as running a massive oil business in the USA.",
+        "He owns a big chemical factory as well as he runs a massive oil business in the USA.",
+        "He owns a big chemical factory as well as run a massive oil business in the USA.",
+        "As well as he owns a big chemical factory, he runs a massive oil business in the USA."
+      ],
+      "answer": 0,
+      "explanation": "As well as takes an -ing form, not a finite clause."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct rewrite: 'I'm their scientific adviser and act as a consultant to the Managing Director.' (addition)",
+      "options": [
+        "In addition to being their scientific adviser, I act as a consultant to the Managing Director.",
+        "In addition I am their scientific adviser, I act as a consultant to the Managing Director.",
+        "In addition to be their scientific adviser, I act as a consultant to the Managing Director.",
+        "In addition of their scientific adviser, I act as a consultant to the Managing Director."
+      ],
+      "answer": 0,
+      "explanation": "In addition to is followed by a noun phrase or an -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He said he'd have to consider the organisation, then the system, then the finance, and so on and so ___.",
+      "hint": "(one word)",
+      "answers": ["forth"],
+      "explanation": "The fixed informal phrase is and so on and so forth."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order.",
+      "words": ["My", "cousin", "turned", "up", "along", "with", "some", "schoolmates", "of", "his."],
+      "answer": "My cousin turned up along with some schoolmates of his.",
+      "explanation": "Along with adds extra people to the one already mentioned."
+    }
+  ]
+}

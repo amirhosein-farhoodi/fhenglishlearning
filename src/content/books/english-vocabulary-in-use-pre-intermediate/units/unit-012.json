@@ -1,0 +1,211 @@
+{
+  "number": 12,
+  "title": "Feelings",
+  "subtitle": "proud, anxious, cheerful, stress",
+  "summary": "Describe how you and other people feel - proud, anxious, jealous, cheerful, depressed - and form the nouns that go with these adjectives.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Emotions and feelings",
+      "text": "We use **emotion** and **feeling** for something a person feels strongly about, such as love, hate or anger. Emotions are part of our character. The word **feeling** is often plural.",
+      "examples": [
+        { "text": "Timo is a very **emotional** person.", "note": "= he shows his feelings easily" },
+        { "text": "She doesn't like talking about her **feelings**." },
+        { "text": "Love, hate and anger are strong **emotions**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How do you feel?",
+      "text": "A father is talking about his son, who has done something very well. A journalist is talking about the government. Notice the four adjectives in **bold** and what each one means.",
+      "examples": [
+        {
+          "text": "I'm very **proud** of my son's success.",
+          "note": "proud = feeling good because you, or someone you know, has done something well"
+        },
+        {
+          "text": "I'm a bit **disappointed** that the local paper hasn't shown more interest in the story.",
+          "note": "disappointed = unhappy because someone or something was not as good as you hoped"
+        },
+        {
+          "text": "The politicians seem **confused** about what to do.",
+          "note": "confused = not able to think clearly or understand something"
+        },
+        {
+          "text": "I'm not **hopeful** that things will improve.",
+          "note": "hopeful = feeling positive about a future situation"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Worried, afraid and unhappy",
+      "text": "Two people saw a fight in the street. Later, a friend talked about Harry and his girlfriend. These five adjectives describe stronger, more difficult feelings.",
+      "examples": [
+        { "text": "We were **curious** to see what all the noise was about.", "note": "curious = wanting to know or learn about something" },
+        { "text": "I felt **anxious** when I saw how angry the men were.", "note": "anxious = worried" },
+        { "text": "I was really **scared** when they started coming towards us.", "note": "scared = afraid; a synonym is frightened" },
+        {
+          "text": "Harry ended the relationship because his girlfriend was getting **jealous**.",
+          "note": "jealous = unhappy and angry because someone you love seems too interested in another person"
+        },
+        { "text": "Now he's quite **upset**.", "note": "upset = unhappy because something unpleasant has happened" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjective and noun",
+      "columns": ["Adjective", "Noun"],
+      "rows": [
+        ["proud", "pride"],
+        ["jealous", "jealousy"],
+        ["curious", "curiosity"],
+        ["angry", "anger"],
+        ["disappointed", "disappointment"],
+        ["confused", "confusion"],
+        ["anxious", "anxiety"],
+        ["emotional", "emotion"]
+      ],
+      "note": "Learn the two words together. The noun is often quite different from the adjective."
+    },
+    {
+      "type": "explain",
+      "heading": "The weather and our feelings",
+      "text": "Many people say the weather changes how they feel. Some people even suffer from SAD (seasonal affective disorder), which makes them feel bad during long dark winters. Can the weather really change our **mood**, or is it just in our imaginations?",
+      "examples": [
+        { "text": "People feel more **cheerful** when the sun shines.", "note": "cheerful = happy" },
+        { "text": "Rainy days make me **miserable**.", "note": "miserable = unhappy" },
+        {
+          "text": "Long dark winters make some people **depressed**.",
+          "note": "depressed = unhappy, often for a long time, and without hope for the future"
+        },
+        { "text": "The weather has a big effect on my **mood**.", "note": "mood = the way you feel at a particular time" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The effect of colour on our emotions",
+      "text": "Colour can also have an effect on our mood. Red is the colour of energy and of anger; pink is softer; green is calming; blue helps us think of new ideas.",
+      "examples": [
+        { "text": "Red can make us feel **energetic**, but it can also indicate anger.", "note": "energetic = wanting to be busy and doing a lot of things" },
+        { "text": "Pink is more about maternal love and **caring for** people.", "note": "care for someone = look after them, especially someone young or old" },
+        { "text": "Green is good for people suffering from **stress**.", "note": "stress = feelings of worry caused by difficult situations, such as problems at work" },
+        { "text": "Blue is relaxing and helps us to be **creative**.", "note": "creative = good at thinking of new ideas" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Scared** and **frightened** mean the same thing, so *I get very scared in the dark* and *I get very frightened in the dark* are both correct."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "My aunt had to care ___ her elderly mother for years.",
+      "hint": "(one small word)",
+      "answers": ["for"],
+      "explanation": "care for someone = look after them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's been under a lot of ___ recently because of the amount of work he has to do.",
+      "hint": "(worry caused by a difficult situation)",
+      "answers": ["stress"],
+      "explanation": "Too much work gives people stress."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sara's daughter won the school prize. Sara says: 'I'm very ___ of her.'",
+      "options": ["proud", "jealous", "confused", "curious"],
+      "answer": 0,
+      "explanation": "You are proud when someone you know has done something well."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its noun.",
+      "pairs": [
+        { "left": "proud", "right": "pride" },
+        { "left": "jealous", "right": "jealousy" },
+        { "left": "curious", "right": "curiosity" },
+        { "left": "anxious", "right": "anxiety" },
+        { "left": "confused", "right": "confusion" },
+        { "left": "disappointed", "right": "disappointment" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Oliver's cheerful one minute and miserable the next; his ___ changes all the time.",
+      "hint": "(the way you feel at a particular time)",
+      "answers": ["mood"],
+      "explanation": "Your mood is how you feel at a particular time."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is this a good feeling or a bad feeling?",
+      "categories": ["A good feeling", "A bad feeling"],
+      "items": [
+        { "text": "proud", "category": 0 },
+        { "text": "cheerful", "category": 0 },
+        { "text": "hopeful", "category": 0 },
+        { "text": "energetic", "category": 0 },
+        { "text": "miserable", "category": 1 },
+        { "text": "depressed", "category": 1 },
+        { "text": "upset", "category": 1 },
+        { "text": "anxious", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm much more ___ in the mornings. By the afternoon I feel tired.",
+      "hint": "(wanting to be busy and do a lot)",
+      "answers": ["energetic"],
+      "explanation": "An energetic person wants to be busy and do a lot of things."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you are curious about something, you want to know or learn about it.",
+      "answer": true,
+      "explanation": "Correct. Curious means wanting to know or learn about something."
+    },
+    {
+      "type": "matching",
+      "prompt": "Find the best ending for each sentence beginning.",
+      "pairs": [
+        { "left": "He was very anxious when", "right": "his 14-year-old daughter didn't get home until 2 am." },
+        { "left": "He was very jealous when", "right": "his best friend went out with the girl he really liked." },
+        { "left": "He was very scared when", "right": "he saw the man coming towards him with a knife." },
+        { "left": "He was very proud when", "right": "his father appeared on TV with the Prime Minister." },
+        { "left": "He was very upset when", "right": "he heard his aunt had died." },
+        { "left": "He was very miserable when", "right": "he was ill for three weeks." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Weather has a big ___ on the way I feel.",
+      "hint": "(a noun; it means a change caused by something)",
+      "answers": ["effect"],
+      "explanation": "Something has an effect on the way you feel."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about a private person.",
+      "words": ["She", "doesn't", "like", "talking", "about", "her", "feelings."],
+      "answer": "She doesn't like talking about her feelings.",
+      "explanation": "We usually use feelings in the plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's been a depressing month, but I'm ___ things will get better next month.",
+      "hint": "(feeling positive about the future)",
+      "answers": ["hopeful"],
+      "explanation": "Hopeful means feeling positive about a future situation."
+    },
+    {
+      "type": "true_false",
+      "statement": "A person who is confused can think about a problem very clearly.",
+      "answer": false,
+      "explanation": "A person who is confused is not able to think clearly or understand something."
+    }
+  ]
+}

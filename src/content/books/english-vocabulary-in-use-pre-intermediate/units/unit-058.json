@@ -1,0 +1,185 @@
+{
+  "number": 58,
+  "title": "Climate change",
+  "subtitle": "global warming, recycle, save energy",
+  "summary": "Explain the greenhouse effect and global warming, and describe what people can do to reduce it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The greenhouse effect",
+      "text": "**Greenhouse gases** such as carbon dioxide, methane and ozone **exist** naturally, and they are needed to **create** the **greenhouse effect** that keeps the Earth warm enough to **support** human life.",
+      "examples": [
+        { "text": "We don't have to make these gases; they **exist** naturally.", "note": "exist = be real or present" },
+        { "text": "Greenhouse gases **create** the greenhouse effect.", "note": "create = make something happen or exist" },
+        { "text": "The Earth is warm enough to **support** human life.", "note": "support = help something to continue" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Global warming",
+      "text": "The use of **fossil fuels** - oil, natural gas and coal - has produced **excessive** amounts of greenhouse gases. The **result** is **global warming**: an increase in the average temperature on Earth.",
+      "examples": [
+        { "text": "**Fossil fuels** produce **excessive** amounts of carbon dioxide.", "note": "excessive = more than you want or need" },
+        { "text": "Global warming is the **result** of more greenhouse gases.", "note": "a result = something that happens because of something else" },
+        { "text": "Of the 15 warmest years **on record**, 14 have **occurred** since 2000.", "note": "on record = written down or kept on a computer; occur = happen (formal)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The effects of climate change",
+      "text": "The **effects** of **climate change** can already be seen. Summers are getting hotter and winters wetter, so **drought** and **floods** are becoming more common. Animal and plant life is **suffering**, and some species will **disappear** altogether.",
+      "examples": [
+        { "text": "Two **effects** of climate change are hotter summers and wetter winters.", "note": "an effect = a change caused by something" },
+        { "text": "A **flood** is often the result of too much rain when the rivers are full." },
+        { "text": "A **drought** is a long period without rain, and droughts are occurring more often." },
+        { "text": "Plants and animals are **suffering**.", "note": "suffer = experience something unpleasant" },
+        { "text": "Illnesses such as hay fever, asthma and skin cancer are becoming more common." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Destroying the environment",
+      "text": "The **environment** is the air, land and water around us. If you **destroy** something, you damage it so badly that it does not exist or cannot be used. To stop global warming destroying our environment, we need to **act** now.",
+      "examples": [
+        { "text": "The fire **destroyed** the whole forest." },
+        { "text": "We must protect the **environment**." },
+        { "text": "The nations of the world will have to **act** together.", "note": "act = do something to solve a problem; syn take action" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Six ways to reduce global warming",
+      "columns": ["Action", "What the key words mean"],
+      "rows": [
+        ["Don't throw things away - **recycle** paper, glass and plastic.", "recycle = treat something so that it can be used again"],
+        ["**Save energy**, e.g. switch off lights when you leave a room.", "save = don't waste; energy = gas and electricity"],
+        ["Don't **waste** water, e.g. turn off the **tap** when you brush your teeth.", "waste = use something badly; the tap is where the water comes out"],
+        ["Change light bulbs for more **energy-efficient** ones.", "efficient = working well and not wasting energy"],
+        ["Drive less and walk more.", "this reduces the fossil fuels you burn"],
+        ["**Plant** trees, because trees **reduce** the carbon dioxide in the atmosphere.", "plant a tree = put a new tree in the ground; reduce = make less"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs and nouns",
+      "columns": ["Verb", "Noun", "Verb", "Noun"],
+      "rows": [
+        ["recycle", "recycling", "solve", "solution"],
+        ["waste", "waste", "reduce", "reduction"],
+        ["destroy", "destruction", "support", "support"],
+        ["exist", "existence", "suffer", "suffering"]
+      ],
+      "note": "A **solution** is the answer to a problem."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right.",
+      "pairs": [
+        { "left": "the greenhouse", "right": "effect" },
+        { "left": "global", "right": "warming" },
+        { "left": "fossil", "right": "fuels" },
+        { "left": "greenhouse", "right": "gases" },
+        { "left": "climate", "right": "change" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't throw away paper, glass and plastic; ___ it.",
+      "hint": "(one word)",
+      "answers": ["recycle"],
+      "explanation": "Recycle = treat something so that it can be used again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't waste water: turn off the ___ when you brush your teeth.",
+      "hint": "(one word)",
+      "answers": ["tap"],
+      "explanation": "The tap is where the water comes out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ energy by switching off lights when you leave a room.",
+      "hint": "(one word = don't waste)",
+      "answers": ["save"],
+      "explanation": "Save energy = don't waste gas and electricity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ trees in order to reduce the amount of carbon dioxide.",
+      "hint": "(one word)",
+      "answers": ["plant"],
+      "explanation": "Plant a tree = put a new tree in the ground."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We must take ___ now, before it's too late.",
+      "hint": "(one word)",
+      "answers": ["action"],
+      "explanation": "Take action (syn act) = do something to solve a problem."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A long period without rain, when people do not have enough water, is a ___.",
+      "options": ["drought", "flood", "fuel", "solution"],
+      "answer": 0,
+      "explanation": "A drought is a long time without rain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ is often the result of too much rain when the rivers are full.",
+      "hint": "(one word)",
+      "answers": ["flood"],
+      "explanation": "A flood is when water covers an area that is usually dry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ is the air, land and water around us.",
+      "hint": "(one word)",
+      "answers": ["environment"],
+      "explanation": "We must protect the environment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you ___ something, you damage it so badly that it cannot be used again.",
+      "hint": "(one word, verb)",
+      "answers": ["destroy"],
+      "explanation": "Destroy = damage something completely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If something is energy-___, it works well and doesn't waste energy.",
+      "hint": "(one word)",
+      "answers": ["efficient"],
+      "explanation": "Efficient = working well and not wasting energy."
+    },
+    {
+      "type": "true_false",
+      "statement": "Global warming means an increase in the average temperature on Earth.",
+      "answer": true,
+      "explanation": "Correct. Global warming is the result of excessive greenhouse gases."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a verb or a noun?",
+      "categories": ["Verb", "Noun"],
+      "items": [
+        { "text": "destroy", "category": 0 },
+        { "text": "reduce", "category": 0 },
+        { "text": "suffer", "category": 0 },
+        { "text": "destruction", "category": 1 },
+        { "text": "reduction", "category": 1 },
+        { "text": "solution", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word means 'the answer to a problem'?",
+      "options": ["solution", "result", "effect", "existence"],
+      "answer": 0,
+      "explanation": "A solution is the answer to a problem; the verb is solve."
+    }
+  ]
+}

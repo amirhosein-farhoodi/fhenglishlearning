@@ -1,0 +1,181 @@
+{
+  "number": 19,
+  "title": "Academic Task 1 - Describing diagrams",
+  "subtitle": "Processes, the passive, coherence and cohesion",
+  "summary": "Describe a process stage by stage in the passive voice, link the stages so the answer reads as prose, and avoid the spellings candidates lose marks on.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Plan a diagram with verbs",
+      "text": "A diagram shows a process. Spend a minute studying it, then write the **verb** you will use for each stage directly on the diagram. That plan takes seconds and it stops you leaving a stage out - and you must include **all** the relevant information.",
+      "examples": [
+        { "text": "Useful process verbs: **tear, place, put, add, leave, soak, mix, beat, pour, slide, lift, drain, press, dry**" },
+        { "text": "*tear* some newspaper into small pieces, then *put* them in a bowl" },
+        { "text": "*add* 250 ml of water and *leave* the paper to *soak*" },
+        { "text": "*beat* the mixture until it forms a pulp" },
+        { "text": "*lift* the pulp out of the tray, *allowing* the water to *drain*" },
+        { "text": "*press* the paper down and *force out* any excess water" }
+      ],
+      "note": "You have only 20 minutes, so you must identify the most important information in one or two minutes."
+    },
+    {
+      "type": "explain",
+      "heading": "Use the labels you are given",
+      "text": "A diagram often labels objects you would not be expected to name. Those labels are there for you to **use** in your description - copying them is not cheating, it is the point.",
+      "examples": [
+        { "text": "*You need old newspapers, a **bowl** to hold the mixture and a **jug** containing 250 ml of water.*" },
+        { "text": "*An **electric mixer** is used to form the mixture into a pulp.*" },
+        { "text": "*The pulp is poured into a **tray**.*" },
+        { "text": "*Some **mesh** is used to lift the pulp out of the water.*" },
+        { "text": "*A **rolling pin** is used to flatten the pulp and press the water out.*" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The passive is the voice of a process",
+      "left": {
+        "label": "Active",
+        "examples": [
+          "*First, tear some newspaper into small pieces.*",
+          "*Then, add 250 ml of water.*",
+          "*Finally, leave your new paper to dry.*"
+        ]
+      },
+      "right": {
+        "label": "Passive - use this",
+        "examples": [
+          "*First, some newspaper **is torn** into small pieces and **put** into a bowl.*",
+          "*Then, 250 ml of water **is added**.*",
+          "*Finally, the new paper **is left** to dry in a warm place for at least 24 hours.*"
+        ]
+      },
+      "note": "The active voice reads as an instruction to the reader. The passive keeps the focus on the process, which is what you were asked to describe."
+    },
+    {
+      "type": "explain",
+      "heading": "Coherence and cohesion",
+      "text": "Your answer is assessed on its **coherence** - is it easy to understand? - and its **cohesion** - are the ideas connected well? It must not read as a list of separate sentences. Sequencers do most of this work in a process description.",
+      "examples": [
+        { "text": "**First, ...** some newspaper is torn into small pieces." },
+        { "text": "**Then, ...** 250 ml of water is added and the paper is left to soak for up to an hour." },
+        { "text": "**Next, ...** using an electric mixer, the mixture is beaten for about 45 seconds until it forms a pulp." },
+        { "text": "**When it is ready, ...** the pulp is poured into a shallow tray and a further 100 ml of water is added." },
+        { "text": "**Finally, ...** the new paper is left to dry in a warm place for at least 24 hours." }
+      ],
+      "note": "Organise the stages into paragraphs as well. A 150-word wall of text scores badly on coherence however accurate it is."
+    },
+    {
+      "type": "table",
+      "heading": "The spellings that cost marks",
+      "columns": ["Wrong", "Right"],
+      "rows": [
+        ["goverment", "government"],
+        ["persentage", "percentage"],
+        ["diffrent", "different"],
+        ["untill", "until"],
+        ["contries", "countries"],
+        ["betwen", "between"],
+        ["dicreased", "decreased"],
+        ["incresed", "increased"]
+      ],
+      "note": "Lexical Resource marks accuracy as well as range, so a wide vocabulary spelt badly does not score well."
+    },
+    {
+      "type": "tip",
+      "text": "Practise by drawing your own diagram of an everyday machine - a washing machine, a kettle, a coffee maker. Divide it into stages, name each stage with a verb, then write it up in the passive. It is the whole task in miniature."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite in the passive: *First, tear some newspaper into small pieces.* - First, some newspaper ___ into small pieces.",
+      "hint": "(is + past participle of tear)",
+      "answers": ["is torn"],
+      "explanation": "The passive keeps the process, not the reader, as the subject of the sentence."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each labelled object with what it is used for.",
+      "pairs": [
+        { "left": "an electric mixer", "right": "to form the mixture into a pulp" },
+        { "left": "a tray", "right": "to hold the pulp once it is poured" },
+        { "left": "some mesh", "right": "to lift the pulp out of the water" },
+        { "left": "a rolling pin", "right": "to flatten the pulp and press the water out" },
+        { "left": "a jug", "right": "to hold the 250 ml of water" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the opening sentence of a process description.",
+      "words": ["The", "diagram", "explains", "how", "recycled", "paper", "is", "made", "from", "old", "newspapers."],
+      "answer": "The diagram explains how recycled paper is made from old newspapers.",
+      "explanation": "*Explains how* paraphrases the question's *shows*, and the passive *is made* sets the voice for the rest of the answer."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort each word by whether it is spelt correctly.",
+      "categories": ["Correct", "Misspelt"],
+      "items": [
+        { "text": "government", "category": 0 },
+        { "text": "percentage", "category": 0 },
+        { "text": "until", "category": 0 },
+        { "text": "diffrent", "category": 1 },
+        { "text": "contries", "category": 1 },
+        { "text": "betwen", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does the criterion *cohesion* assess?",
+      "options": [
+        "Whether your handwriting is legible",
+        "Whether your ideas are connected together well",
+        "Whether you used at least 150 words",
+        "Whether your facts match the diagram"
+      ],
+      "answer": 1,
+      "explanation": "Coherence asks whether the answer is easy to understand; cohesion asks whether the ideas link. A list of unconnected sentences fails both."
+    },
+    {
+      "type": "true_false",
+      "statement": "You should avoid using the labels printed on the diagram, because copying them shows a limited vocabulary.",
+      "answer": false,
+      "explanation": "Labels name objects you are not expected to know. You are meant to use them in your description."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*___ , using an electric mixer, the mixture is beaten for about 45 seconds.* Which sequencer follows *Then*?",
+      "hint": "(one word + comma)",
+      "answers": ["Next", "next"],
+      "explanation": "*First, Then, Next, When it is ready, Finally* - the sequence carries the cohesion of the whole answer."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the most useful way to plan a diagram description in the minute before you write?",
+      "options": [
+        "Count the stages and divide 150 words between them",
+        "Write the verb you will use for each stage on the diagram itself",
+        "Copy out the labels in a list",
+        "Decide which stage to leave out to save time"
+      ],
+      "answer": 1,
+      "explanation": "Verbs on the diagram give you both the sequence and the language, and they stop you missing a stage."
+    },
+    {
+      "type": "true_false",
+      "statement": "A process description should be written mainly in the active voice, as a set of instructions.",
+      "answer": false,
+      "explanation": "Instructions address the reader. Task 1 asks you to describe, so the passive is the natural voice."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sequencer with the stage it introduces.",
+      "pairs": [
+        { "left": "First,", "right": "newspaper is torn up and put in a bowl" },
+        { "left": "Then,", "right": "water is added and the paper soaks for an hour" },
+        { "left": "When it is ready,", "right": "the pulp is poured into a shallow tray" },
+        { "left": "Finally,", "right": "the paper is left to dry for at least 24 hours" }
+      ]
+    }
+  ]
+}

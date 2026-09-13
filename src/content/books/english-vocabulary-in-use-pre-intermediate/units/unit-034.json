@@ -1,0 +1,190 @@
+{
+  "number": 34,
+  "title": "University education",
+  "subtitle": "do a degree, lectures, postgraduate",
+  "summary": "Talk about university subjects, getting a degree and going on to a Master's or a PhD.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Subjects and the jobs they lead to",
+      "columns": ["You study ...", "... to become"],
+      "rows": [
+        ["**medicine**", "a doctor"],
+        ["**law**", "a lawyer"],
+        ["**engineering**", "an engineer"],
+        ["**architecture**", "an architect"],
+        ["**economics**", "an economist"],
+        ["**psychology**", "a psychologist"],
+        ["**business studies**", "a businessman or businesswoman (you go into business)"]
+      ],
+      "note": "You do or study a subject at university."
+    },
+    {
+      "type": "explain",
+      "heading": "Getting a place and getting a degree",
+      "text": "Some students go to university because they enjoy studying; others just want a **qualification**. First you have to get good **grades** in your final school exams to **get a place** at university. Then you **study for** (or **do**) **a degree**.",
+      "examples": [
+        { "text": "I got very good **grades** in my final school exams." },
+        { "text": "I **got a place** at university to do economics." },
+        { "text": "If you complete the course successfully, you **get your degree** and receive a **certificate**." },
+        { "text": "Most degree courses **last** three years, although some take longer, e.g. medicine or law.", "note": "last = continue for" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Lecturers and lectures",
+      "text": "Teachers at university are usually called **lecturers**, and most of the teaching is done through **lectures**: the lecturer talks and the students listen. The most senior lecturers have the title **Professor**.",
+      "examples": [
+        { "text": "Our **lecturer** is very good; I never miss her **lectures**." },
+        { "text": "Students go to **lectures** at university." },
+        { "text": "She's now **Professor** Kirby.", "note": "= a very senior lecturer" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Arts students and science students",
+      "left": {
+        "label": "Arts subjects",
+        "text": "e.g. English or history.",
+        "examples": [
+          "They spend time working in the **library**.",
+          "They write a lot of **essays**."
+        ]
+      },
+      "right": {
+        "label": "Science subjects",
+        "text": "e.g. physics or chemistry.",
+        "examples": [
+          "They spend a lot of time working in a **laboratory**.",
+          "*Lab* is the informal word for a laboratory."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Undergraduates, graduates and postgraduates",
+      "text": "While students are doing their first degree, they are **undergraduates**. When they complete it, they are **graduates**. Some graduates **go on to do** a **Master's**, e.g. an MA (Master of Arts) or MSc (Master of Science). These are **postgraduate degrees**.",
+      "examples": [
+        { "text": "She's an **undergraduate** at Leeds." },
+        { "text": "He **went on to do** an MSc." },
+        { "text": "The longest postgraduate degree is a **PhD**, where students do **research** for at least three years.", "note": "research = a detailed study of one particular subject" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word formation",
+      "columns": ["Noun", "Verb", "Adjective"],
+      "rows": [
+        ["qualification", "qualify", "qualified"],
+        ["success", "succeed", "successful / unsuccessful"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We **do** a degree and **get** a degree, but we **go to** university - not ~~go to the university~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the subject with the job it leads to.",
+      "pairs": [
+        { "left": "psychology", "right": "psychologist" },
+        { "left": "engineering", "right": "engineer" },
+        { "left": "economics", "right": "economist" },
+        { "left": "law", "right": "lawyer" },
+        { "left": "architecture", "right": "architect" },
+        { "left": "medicine", "right": "doctor" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "To become a doctor you need to study ___.",
+      "hint": "(one word)",
+      "answers": ["medicine"],
+      "explanation": "Medicine is the university subject for future doctors."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Students who are still studying for their first degree are called ___.",
+      "options": ["undergraduates", "graduates", "lecturers", "professors"],
+      "answer": 0,
+      "explanation": "You are an undergraduate until you complete your first degree; then you are a graduate."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you study arts subjects such as English or history, where do you spend a lot of your time?",
+      "options": ["in the library", "in a laboratory", "in a factory", "in a surgery"],
+      "answer": 0,
+      "explanation": "Arts students work in the library and write essays; science students work in a laboratory."
+    },
+    {
+      "type": "true_false",
+      "statement": "At an English university, the teachers are all called professors.",
+      "answer": false,
+      "explanation": "Most teachers at university are called lecturers. Only the most senior ones have the title Professor."
+    },
+    {
+      "type": "true_false",
+      "statement": "Most university degree courses in the UK last two years.",
+      "answer": false,
+      "explanation": "Most degree courses last three years, and some, such as medicine or law, take longer."
+    },
+    {
+      "type": "true_false",
+      "statement": "A PhD is a postgraduate degree.",
+      "answer": true,
+      "explanation": "Correct. You do a PhD after your first degree, and it takes at least three years of research."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Stephen got very good ___ in his final school exams, so he got a place at university.",
+      "hint": "(one word, plural)",
+      "answers": ["grades", "marks"],
+      "explanation": "You need good grades in your school exams to get a place at university."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He went to university and got a ___ in economics.",
+      "hint": "(one word)",
+      "answers": ["degree"],
+      "explanation": "A degree is the qualification you get when you complete a university course."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The MSc course ___ a year, and at the end of it he had a job offer.",
+      "hint": "(one word, past tense of last)",
+      "answers": ["lasted", "took"],
+      "explanation": "A course lasts a year = it continues for a year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He went back to university to do ___ for a PhD.",
+      "hint": "(one word)",
+      "answers": ["research"],
+      "explanation": "Research is a detailed study of one particular subject."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the word about the first degree or about study after it?",
+      "categories": ["First degree", "After the first degree"],
+      "items": [
+        { "text": "undergraduate", "category": 0 },
+        { "text": "degree course", "category": 0 },
+        { "text": "graduate", "category": 1 },
+        { "text": "Master's", "category": 1 },
+        { "text": "MSc", "category": 1 },
+        { "text": "PhD", "category": 1 },
+        { "text": "research", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what some students do after their first degree.",
+      "words": ["Some", "graduates", "go", "on", "to", "do", "a", "Master's."],
+      "answer": "Some graduates go on to do a Master's.",
+      "explanation": "Go on to do something = do it next, after what you have just finished."
+    }
+  ]
+}

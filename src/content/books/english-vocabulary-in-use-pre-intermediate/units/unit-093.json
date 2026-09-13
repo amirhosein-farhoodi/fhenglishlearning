@@ -1,0 +1,185 @@
+{
+  "number": 93,
+  "title": "Addition and contrast",
+  "subtitle": "as well as, what's more, although, whereas",
+  "summary": "Add extra information to a sentence, and join two ideas when the second one is surprising.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adding information: also, as well, too",
+      "text": "The simplest link word is *and*, but we can add more information with **also**, **as well** and **too**. **Also** goes before the main verb or after *be*; **as well** and **too** go at the end.",
+      "examples": [
+        { "text": "The restaurant has excellent food; it's **also** very good value." },
+        { "text": "You always get a good view, and the seats are comfortable **as well**.", "note": "too means the same here" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "as well as, what's more, in addition, besides",
+      "text": "These phrases add a second, often stronger, piece of information. **As well as**, **in addition to** and **besides** are followed by a noun or an *-ing* form.",
+      "examples": [
+        { "text": "**As well as** getting cheaper tickets, I also got the chance to buy them in advance." },
+        { "text": "The clothes are nice, and **what's more**, the shop is open every day of the week." },
+        { "text": "The scheme gives young people experience. **In addition**, companies can afford to employ them." },
+        { "text": "**In addition to** the new food department, they're also planning to open a cafe." },
+        { "text": "**Besides** being a mum with four children, she's also a successful designer." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "although, despite, in spite of",
+      "text": "Use these when the second idea is surprising. **Although** and **even though** are followed by a clause (subject + verb). **Despite** and **in spite of** are followed by a noun, an *-ing* form, or *the fact that*.",
+      "examples": [
+        { "text": "**Although** the sun was shining, it wasn't very warm." },
+        { "text": "We found the place quite easily, **even though** we didn't know where it was." },
+        { "text": "They went for a walk **despite the fact that** it was raining." },
+        { "text": "**Despite** having no money, he still seemed very happy." },
+        { "text": "They got there on time **in spite of** the delay." },
+        { "text": "**In spite of** all the problems, we still enjoyed the trip." }
+      ],
+      "note": "We often add **still** to show that we did not expect this: He didn't do any work but he still passed the exam."
+    },
+    {
+      "type": "table",
+      "heading": "What comes after the link word",
+      "columns": ["Link word", "Followed by"],
+      "rows": [
+        ["**although** / **even though**", "a clause: although we left late"],
+        ["**despite** / **in spite of**", "a noun or -ing: despite the rain, in spite of losing"],
+        ["**despite the fact that**", "a clause: despite the fact that they were busy"],
+        ["**however** / **though**", "a new sentence or the end of one"],
+        ["**whereas** / **while**", "a contrasting fact: whereas the others are slow"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "however, yet, though",
+      "text": "**However** usually links two separate sentences and takes commas. **Yet** joins two parts of one sentence. **Though** is common in speech and usually comes at the end.",
+      "examples": [
+        { "text": "I don't agree with a lot of his methods. **However**, he is a very good teacher." },
+        { "text": "We didn't particularly like the house. The garden, **however**, was wonderful." },
+        { "text": "We went in the autumn, **yet** it was still quite warm." },
+        { "text": "I didn't like the film much. I'm glad I went to see it, **though**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "while and whereas",
+      "text": "Use **while** and **whereas** to compare two different facts or situations. Both parts of the sentence are true; they are simply different.",
+      "examples": [
+        { "text": "Alex is very quick to understand, **whereas** the others are quite slow." },
+        { "text": "I get 20 pounds an hour, **while** Josh only gets 12." },
+        { "text": "I was very keen on the film, **whereas** Christoph didn't like it at all." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Although + subject and verb; despite / in spite of + noun or -ing. Although it rained = Despite the rain."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does the word add more information, or introduce something surprising?",
+      "categories": ["Adds more information", "Introduces surprising information"],
+      "items": [
+        { "text": "in addition", "category": 0 },
+        { "text": "as well", "category": 0 },
+        { "text": "also", "category": 0 },
+        { "text": "what's more", "category": 0 },
+        { "text": "although", "category": 1 },
+        { "text": "in spite of", "category": 1 },
+        { "text": "however", "category": 1 },
+        { "text": "despite", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "They enjoyed the course, ___ it was very difficult.",
+      "options": ["even though", "as well", "in addition", "despite"],
+      "answer": 0,
+      "explanation": "Even though is followed by a clause (it was very difficult)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was a fantastic evening, ___ the terrible food.",
+      "options": ["despite", "although", "however", "whereas"],
+      "answer": 0,
+      "explanation": "Despite is followed by a noun phrase (the terrible food)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I told John the car was too expensive. ___, he still bought it.",
+      "options": ["However", "Although", "As well", "Whereas"],
+      "answer": 0,
+      "explanation": "However links two separate sentences and takes a comma."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's going on holiday with friends. Her parents, ___, are not very happy about it.",
+      "options": ["however", "whereas", "as well", "in addition to"],
+      "answer": 0,
+      "explanation": "However can go in the middle of a sentence, between commas."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each beginning with its ending.",
+      "pairs": [
+        { "left": "She went to school today although", "right": "she didn't feel very well." },
+        { "left": "She always worked hard in class, whereas", "right": "most of her classmates were lazy." },
+        { "left": "She has the ability to do the job. What's more,", "right": "she is very experienced." },
+        { "left": "She didn't pass the exam in spite of", "right": "the help I gave her." },
+        { "left": "She worked there for ten years. However,", "right": "she was never happy in the job." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the fact that they were busy, they still helped us.",
+      "hint": "(two or three words)",
+      "answers": ["in spite of", "despite"],
+      "explanation": "In spite of / Despite + the fact that + a clause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not the best dictionary you can buy. ___, it's better than nothing.",
+      "hint": "(one word + comma)",
+      "answers": ["however"],
+      "explanation": "However starts a new sentence with a surprising idea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She managed to get there, ___ she didn't have a map like the others.",
+      "hint": "(followed by a clause)",
+      "answers": ["although", "even though"],
+      "explanation": "Although / even though is followed by a subject and verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ heavy rain, they've also had very strong winds.",
+      "hint": "(adds information, + noun)",
+      "answers": ["in addition to", "as well as", "besides"],
+      "explanation": "In addition to / As well as / Besides + noun adds information."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's the youngest in the group, and she's better than most of them ___.",
+      "hint": "(at the end of the sentence)",
+      "answers": ["as well", "too"],
+      "explanation": "As well and too go at the end of the sentence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think you can do it. It won't be easy, ___.",
+      "hint": "(one word, spoken English)",
+      "answers": ["though"],
+      "explanation": "Though usually comes at the end of a spoken sentence."
+    },
+    {
+      "type": "true_false",
+      "statement": "Despite we were on holiday, we decided to work.",
+      "answer": false,
+      "explanation": "Despite the fact that we were on holiday, we decided to work. Despite cannot be followed by a clause on its own."
+    }
+  ]
+}

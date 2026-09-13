@@ -1,0 +1,185 @@
+{
+  "number": 84,
+  "title": "Go: meanings and expressions",
+  "subtitle": "go swimming, go grey, go wrong",
+  "summary": "Use go to talk about activities, about things that change for the worse, and in common expressions like go on and go wrong.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "go + -ing and go (out) for a + noun",
+      "text": "When we leave a place in order to do an activity, especially for enjoyment, we often use **go** + *-ing*, or **go (out) for a** + noun.",
+      "examples": [
+        { "text": "We could **go shopping** / **sightseeing** / **swimming** tomorrow." },
+        { "text": "Why don't we **go clubbing** tonight?", "note": "= go to a nightclub" },
+        { "text": "Why don't we **go (out) for a walk** at lunchtime?" },
+        { "text": "It was my father's birthday, so we decided to **go out for a meal**." },
+        { "text": "It was a lovely day, so we made some sandwiches and went **out for a picnic**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Two patterns, many activities",
+      "columns": ["go + -ing", "go (out) for a + noun"],
+      "rows": [
+        ["go shopping", "go (out) for a walk"],
+        ["go sightseeing", "go (out) for a drive"],
+        ["go swimming", "go (out) for a drink"],
+        ["go clubbing", "go (out) for a meal"],
+        ["go riding", "go (out) for a picnic"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go + adjective = a changing state",
+      "text": "With certain adjectives, **go** describes a change of state, usually to a bad one.",
+      "examples": [
+        { "text": "My dad's **going grey** and my uncle is **going bald**.", "note": "going bald = losing his hair" },
+        { "text": "My grandmother is **going deaf**.", "note": "deaf = cannot hear" },
+        { "text": "Our 12-year-old dog is **going blind**.", "note": "blind = cannot see" },
+        { "text": "He'll **go mad** if you wear his jacket.", "note": "= become very angry (informal)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three more uses of go",
+      "text": "**Go** also asks or says if a road or a form of transport takes you somewhere. It can mean disappear. And **go and get** means fetch.",
+      "examples": [
+        { "text": "Does this bus **go to** the National Gallery?", "note": "= will this bus take me there?" },
+        { "text": "I think this road **goes through** the village." },
+        { "text": "When I looked in the drawer, my watch had **gone**.", "note": "= it was there before, but not now" },
+        { "text": "You stay here, and I'll **go and get** the bags from the car.", "note": "= fetch them" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Phrasal verbs and expressions with go",
+      "columns": ["Expression", "Meaning", "Example"],
+      "rows": [
+        ["go on", "happen", "What's going on in here?"],
+        ["go on (to)", "continue, or move to another thing", "Shall we wait for George or go on to the theatre?"],
+        ["go out", "stop working (a light or fire)", "I touched this switch and the lights went out."],
+        ["go well / go badly", "be successful / not successful", "The business was going well up until the summer."],
+        ["go wrong", "there are problems", "A few things have gone wrong and we've lost customers."],
+        ["go away", "go on holiday", "Are you going away this year?"],
+        ["go back", "return", "We had a lovely time in Italy, so we've decided to go back in June."],
+        ["go for", "choose", "I'm going for the roast beef."],
+        ["How's it going?", "How are you? (informal)", "*A:* How's it going? *B:* Not bad. And you?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Be careful: *go on* has two meanings. *What's going on?* = what's happening. *Let's go on.* = let's continue."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which pattern does each activity use?",
+      "categories": ["go + -ing", "go (out) for a ..."],
+      "items": [
+        { "text": "shopping", "category": 0 },
+        { "text": "sightseeing", "category": 0 },
+        { "text": "swimming", "category": 0 },
+        { "text": "clubbing", "category": 0 },
+        { "text": "a walk", "category": 1 },
+        { "text": "a drive", "category": 1 },
+        { "text": "a meal", "category": 1 },
+        { "text": "a picnic", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I went ___ this morning and bought some new clothes.",
+      "hint": "(-ing form)",
+      "answers": ["shopping"],
+      "explanation": "Go shopping = go out to buy things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a lovely day, so we made some sandwiches and decided to go ___.",
+      "hint": "(out for a + noun)",
+      "answers": ["for a picnic", "out for a picnic"],
+      "explanation": "Go (out) for a picnic = eat outside for enjoyment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wanted to go ___ because it was my first time in Rome.",
+      "hint": "(-ing form)",
+      "answers": ["sightseeing"],
+      "explanation": "Go sightseeing = visit the interesting places in a city."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each expression with go to its meaning.",
+      "pairs": [
+        { "left": "He went mad.", "right": "He got angry." },
+        { "left": "How's it going?", "right": "How are you?" },
+        { "left": "Go and get my handbag.", "right": "Fetch my handbag." },
+        { "left": "Shall we go on?", "right": "Shall we continue?" },
+        { "left": "What's going on?", "right": "What's happening?" },
+        { "left": "The others had gone.", "right": "The others had disappeared." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I can't stay for the weekend; I have to go back on Friday. Go back means:",
+      "options": ["return", "continue", "choose", "get angry"],
+      "answer": 0,
+      "explanation": "Go back = return."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Excuse me. Does this road go to the bus station? The speaker is asking:",
+      "options": [
+        "Will this road take me there?",
+        "Is the bus station open?",
+        "Is this road closed?",
+        "Shall we continue?"
+      ],
+      "answer": 0,
+      "explanation": "We use go to ask if a road or form of transport takes you somewhere."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My girlfriend had fish but I went ___ the chicken dish.",
+      "hint": "(one word = chose)",
+      "answers": ["for"],
+      "explanation": "Go for something = choose it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can't he see very well? *B:* No, I'm afraid he's ___.",
+      "hint": "(going + adjective)",
+      "answers": ["going blind"],
+      "explanation": "Go blind = slowly lose the ability to see."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Simon isn't losing his hair already, is he? *B:* Yes, I'm afraid he's ___.",
+      "hint": "(going + adjective)",
+      "answers": ["going bald"],
+      "explanation": "Go bald = lose your hair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I hear you had problems with your exam? *B:* Yes, everything ___. I couldn't answer any of the questions.",
+      "hint": "(two words, past)",
+      "answers": ["went wrong"],
+      "explanation": "Go wrong = there are problems."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How's your uncle's new restaurant doing? *B:* Great. It's ___.",
+      "hint": "(going + adverb)",
+      "answers": ["going well", "going very well"],
+      "explanation": "Go well = be successful. The opposite is go badly."
+    },
+    {
+      "type": "true_false",
+      "statement": "'I touched this switch and the lights went out.' This means the lights stopped working.",
+      "answer": true,
+      "explanation": "Correct. When a light or a fire goes out, it stops working or burning."
+    }
+  ]
+}

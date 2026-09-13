@@ -1,0 +1,163 @@
+{
+  "number": 24,
+  "title": "Cinema",
+  "subtitle": "a thriller, a film star, What's on?",
+  "summary": "Name the different types of film, talk about film stars and directors, and say what is on at the cinema.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of films",
+      "columns": ["Type of film", "What happens in it"],
+      "rows": [
+        ["a western", "cowboys, horses and trains in the old American west"],
+        ["a cartoon", "drawings that move, like Mickey Mouse"],
+        ["a horror film", "frightening things, e.g. a dead person comes back to life"],
+        ["a comedy", "a funny film that makes you laugh"],
+        ["a romantic comedy", "a funny film about people falling in love"],
+        ["a thriller", "an exciting story, often about a crime"],
+        ["an action film", "car chases and fighting, e.g. James Bond"],
+        ["a science fiction film", "the future, space and other planets"],
+        ["a musical", "lots of songs and dancing"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "People in films",
+      "text": "A very famous actor is a **film star**. An actor **is in** a film or **plays** a person in a film. The **director** is the person who makes the film.",
+      "examples": [
+        { "text": "Monica Bellucci is a **film star**. She **was in** the new James Bond film." },
+        { "text": "Daniel Radcliffe **played** Harry Potter in the Harry Potter films." },
+        { "text": "I like films by Italian **directors**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about a film",
+      "text": "We **see** or **watch** a film. To say you liked it, use **I loved it** or **I enjoyed it**. If you did not like it, say **it was boring**.",
+      "examples": [
+        { "text": "*A:* Have you **seen** the latest James Bond film? *B:* Yes, I **saw** it on TV." },
+        { "text": "*A:* Did you like the new Batman film? *B:* Yes, I **loved** it." },
+        { "text": "*A:* Did you like it? *B:* No, it was **boring**." },
+        { "text": "If I see a **horror film**, I can't sleep." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What's on at the cinema?",
+      "text": "To ask about the films this week, say **What's on at the cinema?** Remember the little words **at** and **the**.",
+      "examples": [
+        { "text": "What's on **at the** cinema this week?", "wrong": "What's on the cinema this week?" },
+        { "text": "There's a **comedy with** Jennifer Aniston." },
+        { "text": "Do you go **to the** cinema often?", "wrong": "Do you go to cinema often?" },
+        { "text": "*A:* Do you go to the cinema often? *B:* No, I **watch DVDs** at home." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "An actor plays a person, but a film star is in a film. We never say ~~he played in the film~~ when we mean he was in it."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "What type of film is each one?",
+      "pairs": [
+        { "left": "Some cowboys rob a train.", "right": "a western" },
+        { "left": "A flying saucer lands from Mars.", "right": "a science fiction film" },
+        { "left": "A dead person comes back to life.", "right": "a horror film" },
+        { "left": "Mickey Mouse goes on a picnic.", "right": "a cartoon" },
+        { "left": "A dead body is found in the river.", "right": "a thriller" },
+        { "left": "There are lots of songs and dancing.", "right": "a musical" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "James Bond saves the world. What type of film is it?",
+      "options": ["an action film", "a cartoon", "a musical", "a western"],
+      "answer": 0,
+      "explanation": "An action film is full of chases and fighting."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A man falls in love with his teacher, and the film is very funny. It is a ___.",
+      "options": ["romantic comedy", "horror film", "thriller", "western"],
+      "answer": 0,
+      "explanation": "A romantic comedy is a funny film about love."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you prefer going to the ___ or watching TV at home?",
+      "hint": "(six letters)",
+      "answers": ["cinema"],
+      "explanation": "We go to the cinema - always with the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ a DVD last night.",
+      "hint": "(watch - past)",
+      "answers": ["watched"],
+      "explanation": "We watch a DVD at home."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who ___ James Bond in Skyfall?",
+      "hint": "(play - past)",
+      "answers": ["played"],
+      "explanation": "An actor plays a person in a film."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Was Rachel Weisz ___ The Constant Gardener?",
+      "hint": "(one small word)",
+      "answers": ["in"],
+      "explanation": "An actor is in a film."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lots of big film ___ live in Hollywood.",
+      "hint": "(plural)",
+      "answers": ["stars"],
+      "explanation": "A very famous actor is a film star."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Steven Spielberg is a famous American film ___.",
+      "hint": "(the person who makes the film)",
+      "answers": ["director"],
+      "explanation": "The director makes the film."
+    },
+    {
+      "type": "true_false",
+      "statement": "What's on the cinema this week?",
+      "answer": false,
+      "explanation": "What's on at the cinema this week? We need at the."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do you go to cinema often?",
+      "answer": false,
+      "explanation": "Do you go to the cinema often? We always say the cinema."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a type of film or a person?",
+      "categories": ["A type of film", "A person"],
+      "items": [
+        { "text": "a western", "category": 0 },
+        { "text": "a thriller", "category": 0 },
+        { "text": "a musical", "category": 0 },
+        { "text": "a cartoon", "category": 0 },
+        { "text": "a film star", "category": 1 },
+        { "text": "a director", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask your friend about the newest James Bond film.",
+      "words": ["Have", "you", "seen", "the", "latest", "James", "Bond", "film?"],
+      "answer": "Have you seen the latest James Bond film?",
+      "explanation": "We see or watch a film."
+    }
+  ]
+}

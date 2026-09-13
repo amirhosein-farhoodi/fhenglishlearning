@@ -1,0 +1,177 @@
+{
+  "number": 52,
+  "title": "Time words",
+  "subtitle": "now, then, ago, always, twice a week",
+  "summary": "Say when something happens - now, then or two hours ago - and how often it happens.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Now, then and ago",
+      "text": "**Now** means at this moment. **Then** means at another moment, usually in the past. We use **ago** to say how long before now something happened.",
+      "examples": [
+        { "text": "I was born in Edinburgh. **Then** we moved to London. **Now** I live in Cambridge." },
+        { "text": "It is 10 o'clock **now**. I got up four hours **ago**, at 6 o'clock." },
+        { "text": "An hour **ago** it was 9 o'clock." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "for, from ... to, last and next",
+      "text": "Use **for** with a period of time, and **from ... to** with the start and the end. **Last** is the one before now; **next** is the one after now.",
+      "examples": [
+        { "text": "I lived in Rome **for two years**." },
+        { "text": "I worked there **from 2014 to 2016**." },
+        { "text": "It is July now. **Last month** it was June. **Next month** it will be August." },
+        { "text": "I saw Ana **last week** and I will see her again **next summer**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The past, the present and the future",
+      "text": "When we talk about time in general, we talk about **the past**, **the present** and **the future**.",
+      "examples": [
+        { "text": "**In the past** people didn't have television." },
+        { "text": "People may travel to Mars **in the future**." },
+        { "text": "We live in **the present**, in the 21st century." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Frequency adverbs: how often?",
+      "columns": ["Adverb", "How often"],
+      "rows": [
+        ["**always**", "every time, 100%"],
+        ["**usually**", "nearly every time"],
+        ["**often**", "many times"],
+        ["**sometimes**", "some times, not many"],
+        ["**occasionally** / **now and then**", "not often"],
+        ["**rarely**", "almost never"],
+        ["**never**", "not one time, 0%"]
+      ],
+      "note": "It **always** snows in Russia in winter. It **often** rains in the UK. The Ancient Romans **never** went to America or Australia."
+    },
+    {
+      "type": "explain",
+      "heading": "once a week, twice a day",
+      "text": "To say how often something happens, use a number + **a** + a time word. We say **once** for one time and **twice** for two times.",
+      "examples": [
+        { "text": "I go swimming **once a week**, every Saturday." },
+        { "text": "I clean my teeth **twice a day**." },
+        { "text": "I see my uncle **three times a year**." },
+        { "text": "I play football **four or five times a month**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short time expressions",
+      "text": "These four expressions all talk about a short time near now. Learn them together.",
+      "examples": [
+        { "text": "I'll be with you **in a moment**.", "note": "= in a very short time" },
+        { "text": "Nora's in Paris **at the moment**.", "note": "= now" },
+        { "text": "See you **soon**!", "note": "= in a short time" },
+        { "text": "We met **recently**.", "note": "= not long ago" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say **once** and **twice**, not ~~one time~~ or ~~two times~~. From three we use *times*: three times a year."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Rosa worked in Hong Kong ___ three years.",
+      "hint": "(a period of time)",
+      "answers": ["for"],
+      "explanation": "We use for with a period of time: for three years."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the moment Rosa is working in Tokyo.",
+      "hint": "(= now)",
+      "answers": ["at"],
+      "explanation": "At the moment means now."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was in Hong Kong ___ 2008 to 2011.",
+      "hint": "(the start)",
+      "answers": ["from"],
+      "explanation": "from 2008 to 2011 gives the start and the end of the time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was in Hong Kong from 2008 ___ 2011.",
+      "hint": "(the end)",
+      "answers": ["to"],
+      "explanation": "from 2008 to 2011 gives the start and the end of the time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It is 10 o'clock now. I got up four hours ago. What time did I get up?",
+      "options": ["at 6 o'clock", "at 2 o'clock", "at 10 o'clock", "at 4 o'clock"],
+      "answer": 0,
+      "explanation": "Four hours ago means four hours before now: 10 - 4 = 6 o'clock."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Matthew will get his exam results very soon. When will he probably get them?",
+      "options": ["tomorrow", "next month", "next year"],
+      "answer": 0,
+      "explanation": "Soon means in a short time from now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Alice and Adam met for the first time recently. When did they first meet?",
+      "options": ["a week ago", "six months ago", "ten years ago"],
+      "answer": 0,
+      "explanation": "Recently means not long ago."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'll help you in a moment. When will I help you?",
+      "options": ["in a few minutes", "in two hours", "next week"],
+      "answer": 0,
+      "explanation": "In a moment means in a very short time."
+    },
+    {
+      "type": "true_false",
+      "statement": "It always snows in Russia in winter, and it often rains in the UK.",
+      "answer": true,
+      "explanation": "Correct. Always means every time; often means many times."
+    },
+    {
+      "type": "categorize",
+      "prompt": "We are living in the 21st century. Is each century in the past, the present or the future?",
+      "categories": ["The past", "The present", "The future"],
+      "items": [
+        { "text": "the 18th century", "category": 0 },
+        { "text": "the 19th century", "category": 0 },
+        { "text": "the 20th century", "category": 0 },
+        { "text": "the 21st century", "category": 1 },
+        { "text": "the 22nd century", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "John plays tennis on Mondays and Thursdays. He plays tennis ___.",
+      "hint": "(how often?)",
+      "answers": ["twice a week"],
+      "explanation": "Two times in a week = twice a week."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say how often you see your uncle.",
+      "words": ["I", "see", "my", "uncle", "three", "times", "a", "year."],
+      "answer": "I see my uncle three times a year.",
+      "explanation": "From three we say three times, four times, five times a year."
+    },
+    {
+      "type": "true_false",
+      "statement": "The Ancient Romans often went to America and Australia.",
+      "answer": false,
+      "explanation": "The Ancient Romans never went to America or Australia. Never means not one time."
+    }
+  ]
+}

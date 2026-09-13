@@ -1,0 +1,190 @@
+{
+  "number": 37,
+  "title": "Global problems",
+  "subtitle": "hurricane, flood, pollution, war",
+  "summary": "Name the big problems in the world - natural disasters like floods and earthquakes, and man-made problems like pollution, war and traffic jams.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Natural disasters",
+      "text": "Some problems come from nature. A **hurricane** is a very strong wind. A **snowstorm** is a lot of snow and wind at the same time. A **forest fire** happens when it is very dry and the trees catch fire.",
+      "examples": [
+        { "text": "There was a **hurricane** there last year. It broke a lot of windows." },
+        { "text": "Siberia often has **snowstorms** in the winter." },
+        { "text": "It was very dry in August and there was a big **forest fire**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Nature words and what they mean",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["a hurricane", "a very strong wind"],
+        ["a snowstorm", "a lot of snow and wind at the same time"],
+        ["a forest fire", "when it is very dry and trees catch fire"],
+        ["an earthquake", "when the earth moves"],
+        ["a flood", "too much water"]
+      ],
+      "note": "Flood is also a verb: the river often floods after heavy rain."
+    },
+    {
+      "type": "explain",
+      "heading": "Earthquakes and floods",
+      "text": "An **earthquake** happens when the earth moves. A **flood** happens when there is too much water and it goes over the river banks.",
+      "examples": [
+        { "text": "San Francisco has had a lot of **earthquakes**." },
+        { "text": "There were serious **floods** in the north yesterday." },
+        { "text": "The river often **floods** after heavy rain." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Too many people",
+      "text": "There are too many people in some places, and the cities are too **crowded**. Many people are **poor** (they do not have enough money), **hungry** (they do not have enough food), **homeless** (they do not have a place to live) or **unemployed** (they do not have a job).",
+      "examples": [
+        { "text": "The city centre is very **crowded** on Saturday afternoon." },
+        { "text": "When people are **homeless**, they sometimes sleep on the streets." },
+        { "text": "He lost his job last year and he is still **unemployed**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Pollution",
+      "text": "**Pollution** is when the air, the water or the earth is dirty and bad for people, plants and animals. A river or a city can be **polluted**.",
+      "examples": [
+        { "text": "Cars make air **pollution** worse in towns." },
+        { "text": "The river is **polluted** and a lot of fish have died." },
+        { "text": "The water is so **polluted** that people cannot drink it." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "War and strikes",
+      "text": "A **war** is fighting between two or more countries or nationalities. A **strike** is when people refuse to work because, for example, they want more money. We say people are *on strike*.",
+      "examples": [
+        { "text": "The American **War** of Independence started in 1775 and ended in 1783. It lasted for eight years." },
+        { "text": "The teachers are **on strike** today, so the school is closed." },
+        { "text": "Their wages were very low, so the workers went **on strike**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Problems on the roads",
+      "text": "A **car crash** is when two cars hit one another. A **traffic jam** is when there are so many cars on the road that they cannot easily move. The **rush hour** is the time of day when everyone is going to work or coming home.",
+      "examples": [
+        { "text": "He had a **car crash** on the way to work." },
+        { "text": "The **traffic jams** in the city are terrible in the **rush hour**." },
+        { "text": "I hate driving in the city in the **rush hour**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Try to listen to or watch the news in English every day and write down new words about world problems."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A very strong wind is a ___.",
+      "hint": "(one word)",
+      "answers": ["hurricane", "a hurricane"],
+      "explanation": "A hurricane is a very strong wind."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The buildings shook and the ground moved. There was an ___.",
+      "hint": "(one word)",
+      "answers": ["earthquake"],
+      "explanation": "An earthquake is when the earth moves."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the word on the left with the word on the right to make a phrase from this unit.",
+      "pairs": [
+        { "left": "air", "right": "pollution" },
+        { "left": "traffic", "right": "jam" },
+        { "left": "rush", "right": "hour" },
+        { "left": "forest", "right": "fire" },
+        { "left": "car", "right": "crash" },
+        { "left": "earth", "right": "quake" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "There was too much water in the north yesterday and the houses were under water. What were there?",
+      "options": ["serious floods", "forest fires", "traffic jams", "snowstorms"],
+      "answer": 0,
+      "explanation": "A flood is too much water; the water goes over the river banks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cars make air ___ worse in towns.",
+      "hint": "(one word)",
+      "answers": ["pollution"],
+      "explanation": "Pollution is when the air, water or earth is dirty and bad for us."
+    },
+    {
+      "type": "true_false",
+      "statement": "People who do not have a job are unemployed.",
+      "answer": true,
+      "explanation": "Correct. Unemployed means you do not have a job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Their wages were very low, so the workers went on ___.",
+      "hint": "(one word)",
+      "answers": ["strike"],
+      "explanation": "A strike is when people refuse to work, for example because they want more money."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which problems come from nature and which ones do people make?",
+      "categories": ["Nature", "People"],
+      "items": [
+        { "text": "hurricane", "category": 0 },
+        { "text": "flood", "category": 0 },
+        { "text": "earthquake", "category": 0 },
+        { "text": "snowstorm", "category": 0 },
+        { "text": "war", "category": 1 },
+        { "text": "strike", "category": 1 },
+        { "text": "traffic jam", "category": 1 },
+        { "text": "pollution", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When people are ___, they sometimes sleep on the streets.",
+      "hint": "(one word)",
+      "answers": ["homeless"],
+      "explanation": "Homeless people do not have a place to live."
+    },
+    {
+      "type": "true_false",
+      "statement": "When it is very dry and the trees catch fire, we call it a snowstorm.",
+      "answer": false,
+      "explanation": "When it is very dry and the trees catch fire, we call it a forest fire."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There are so many cars on the road that they cannot easily move. What is this?",
+      "options": ["a traffic jam", "a forest fire", "a snowstorm", "a strike"],
+      "answer": 0,
+      "explanation": "A traffic jam is when the cars on the road cannot move easily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hate driving in the city in the ___, when everyone is going to work.",
+      "hint": "(two words)",
+      "answers": ["rush hour"],
+      "explanation": "The rush hour is the time of day when there is most traffic."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say what happened in the south last year.",
+      "words": ["There", "was", "a", "hurricane", "in", "the", "south", "last", "year."],
+      "answer": "There was a hurricane in the south last year.",
+      "explanation": "We say there was a hurricane / a flood / an earthquake."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "number": 3,
+  "title": "Applying for a job",
+  "subtitle": "openings, prospects, cover letter, hands-on",
+  "summary": "Read job ads and write a cover letter in natural business English, using collocations like career prospects, benefits package, hands-on experience and team player.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Reading a job ad",
+      "text": "A job ad describes the ideal candidate. It may ask whether you have a **genuine passion for** the work - whether you like it very much - and whether you want a **challenging** role, a positive word for something exciting and difficult, in a **fast-paced** environment, one where things happen quickly.",
+      "examples": [
+        { "text": "Do you have excellent communication skills and a genuine **passion for** customer service?" },
+        { "text": "Are you looking for a **challenging** role within a **fast-paced** working environment?" },
+        { "text": "FDR Bank has several new **openings** for Customer Service Assistants.", "note": "openings = available jobs" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Four other words for 'job' in an ad",
+      "columns": ["Word", "Example from the ad"],
+      "rows": [
+        ["post", "The **post** offers excellent career prospects."],
+        ["opening", "FDR Bank has several new **openings**."],
+        ["role", "Are you looking for a challenging **role**?"],
+        ["position", "my application for the **position** of Customer Service Assistant"]
+      ],
+      "note": "All four are more formal than job and are very common in advertisements."
+    },
+    {
+      "type": "explain",
+      "heading": "Who you work for, and what you get",
+      "text": "If you **report to** someone, he or she is your boss. A good ad promises **full training** (all the training you need), a **competitive salary** (as good as, or better than, other salaries for similar jobs) and an **attractive benefits package** - all the extra benefits a company offers as well as a salary.",
+      "examples": [
+        { "text": "**Reporting to** the Customer Service Manager, you will deal with customer enquiries." },
+        { "text": "No previous **experience** is necessary as **full training** will be given." },
+        { "text": "We offer a **competitive salary** and an attractive **benefits package** including pension, healthcare plan and **subsidised** meals.", "note": "subsidised = partly paid for by the company" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Getting on in the company",
+      "text": "A good **post** offers excellent **career prospects** - opportunities for promotion and career development - to candidates who **demonstrate leadership qualities**, the ability to lead a group. You then **fill in an online application form**, giving details of your **salary expectations**.",
+      "examples": [
+        { "text": "The post offers excellent **career prospects** to candidates who demonstrate **leadership qualities**." },
+        { "text": "We are keen to **promote and develop talent** within the company." },
+        { "text": "Click here to **fill in the online application form**, including details of your **salary expectations**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The cover letter",
+      "text": "You want your application to **stand out** - to be better than the others - so include a clear **cover letter** (also called a **covering letter**) which highlights key points from your CV. If you do not know the name of the reader, begin **Dear Sir or Madam** and end **Yours faithfully**.",
+      "examples": [
+        { "text": "Please find attached my CV **in support of** my application for the **position of** Customer Service Assistant." },
+        { "text": "Specify the job you are applying for at the beginning of the letter." },
+        { "text": "Thank you for taking the time to consider this application and I look forward to hearing from you." }
+      ],
+      "note": "Mention any studies or training courses that are relevant to the role, and any relevant experience, to show your suitability for the role."
+    },
+    {
+      "type": "explain",
+      "heading": "Describing your own experience",
+      "text": "Say you are keen to gain **hands-on experience** - practical, direct experience rather than theoretical knowledge - in this **field**, meaning this area of business or activity. **Customer-facing** work means dealing directly with customers. A **team player** is a person who is good at working with others.",
+      "examples": [
+        { "text": "I have just completed my degree in Business Studies and am keen to gain **hands-on** experience in this area." },
+        { "text": "I have always been interested in working in this **field**." },
+        { "text": "This has given me valuable **customer-facing** experience, as well as developing good communication skills." },
+        { "text": "I am a **team player** and I am keen to develop my career and gain **managerial experience** in the future.", "note": "managerial experience = experience of managing other people" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Useful collocations from the ad and the letter",
+      "columns": ["Collocation", "Meaning"],
+      "rows": [
+        ["healthcare plan", "company scheme that pays for medical treatment"],
+        ["competitive salary", "as good as or better than salaries for similar jobs"],
+        ["career prospects", "opportunities for promotion and development"],
+        ["communication skills", "ability to explain and listen well"],
+        ["online application", "the form you fill in on a website"],
+        ["lead a team", "be in charge of a group of people"],
+        ["carry out a project", "do a piece of work from start to finish"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you do not know the reader's name, Dear Sir or Madam goes with Yours faithfully - never with Yours sincerely."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the two parts of these business collocations.",
+      "pairs": [
+        { "left": "healthcare", "right": "plan" },
+        { "left": "team", "right": "player" },
+        { "left": "competitive", "right": "salary" },
+        { "left": "career", "right": "prospects" },
+        { "left": "cover", "right": "letter" },
+        { "left": "communication", "right": "skills" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match these words to complete four more collocations from the unit.",
+      "pairs": [
+        { "left": "Yours", "right": "faithfully" },
+        { "left": "challenging", "right": "role" },
+        { "left": "online", "right": "application" },
+        { "left": "lead", "right": "a team" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You don't need to have done this job before - no ___ is necessary.",
+      "hint": "(two words: experience of this type of job from before)",
+      "answers": ["previous experience"],
+      "explanation": "Ads often say no previous experience is necessary when full training will be given."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As part of my new job, I get ___ meals - the company pays part of the cost.",
+      "hint": "(partly paid for by the company)",
+      "answers": ["subsidised", "subsidized"],
+      "explanation": "Something subsidised is partly paid for by the company."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's really important to make your application ___ from all the others.",
+      "hint": "(two words: be better than others)",
+      "answers": ["stand out"],
+      "explanation": "To stand out is to be noticeably better than the rest."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Working in the factory over the summer gave me some ___ experience of manufacturing.",
+      "hint": "(practical and direct, not theoretical)",
+      "answers": ["hands-on", "hands on"],
+      "explanation": "Hands-on experience is practical, direct experience."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm hoping to work in the ___ of automotive manufacturing.",
+      "hint": "(area of business or activity)",
+      "answers": ["field"],
+      "explanation": "A field is an area of business or activity."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ad said the company will provide all the training you need, so ___ will be given.",
+      "hint": "(two words)",
+      "answers": ["full training"],
+      "explanation": "Full training means all the training you need to do the job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You should only apply for the job if you have ___ experience.",
+      "hint": "(of managing other people)",
+      "answers": ["managerial"],
+      "explanation": "Managerial experience is experience of managing other people, for example leading a team."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The salary isn't great, but they offer an attractive ___.",
+      "hint": "(two words: all the extra benefits)",
+      "answers": ["benefits package"],
+      "explanation": "A benefits package is all the extras a company offers as well as a salary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I am sending my CV in ___ of my application for the position of sales team leader.",
+      "hint": "(support / ?)",
+      "answers": ["support"],
+      "explanation": "The fixed phrase is in support of my application."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have a passion ___ sales.",
+      "hint": "(which preposition?)",
+      "answers": ["for"],
+      "explanation": "You have a passion for something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jakob's experience is more relevant ___ the job than Sylvana's.",
+      "hint": "(which preposition?)",
+      "answers": ["to"],
+      "explanation": "Something is relevant to a job or a role."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In my previous role ___ Sales Representative, I reported to the Sales Manager.",
+      "hint": "(which preposition?)",
+      "answers": ["as"],
+      "explanation": "In my previous role as (job title) - and you report to your boss."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He only has 6 months' experience as a trainee. I don't think that makes him ___ for the job of quality manager.",
+      "hint": "(right for the job)",
+      "answers": ["suitable"],
+      "explanation": "Someone is suitable for a job; the noun is suitability."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call a job which deals directly with the customers?",
+      "options": ["customer-facing", "fast-paced", "subsidised", "competitive"],
+      "answer": 0,
+      "explanation": "Customer-facing work means dealing directly with customers."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How can we describe a working environment which is busy and rapidly changing?",
+      "options": ["fast-paced", "hands-on", "customer-facing", "well-qualified"],
+      "answer": 0,
+      "explanation": "In a fast-paced environment, things happen quickly."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you report to the Customer Service Manager, that person is your boss.",
+      "answer": true,
+      "explanation": "Correct - to report to someone means that he or she is your boss."
+    },
+    {
+      "type": "true_false",
+      "statement": "A letter that begins Dear Sir or Madam should end Yours sincerely.",
+      "answer": false,
+      "explanation": "It should end Yours faithfully. Yours sincerely goes with a named person."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each item describe what the company offers, or what the candidate offers?",
+      "categories": ["What the company offers", "What the candidate offers"],
+      "items": [
+        { "text": "a benefits package", "category": 0 },
+        { "text": "full training", "category": 0 },
+        { "text": "career prospects", "category": 0 },
+        { "text": "subsidised meals", "category": 0 },
+        { "text": "leadership qualities", "category": 1 },
+        { "text": "hands-on experience", "category": 1 },
+        { "text": "communication skills", "category": 1 },
+        { "text": "a passion for customer service", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this opening line of a cover letter in order.",
+      "words": ["Please", "find", "attached", "my", "CV", "in", "support", "of", "my", "application"],
+      "answer": "Please find attached my CV in support of my application",
+      "explanation": "Specify the job you are applying for right at the beginning of the letter."
+    }
+  ]
+}

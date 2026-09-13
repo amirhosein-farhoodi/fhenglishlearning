@@ -1,0 +1,213 @@
+{
+  "number": 88,
+  "title": "Word-building and word-blending",
+  "subtitle": "auto-, bio-, retro-, -ology; brunch, smog, webinar",
+  "summary": "Recognise the Latin and Greek word parts that build academic English, and work out the meaning of blends like smog, motel and webinar.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Why word parts help",
+      "text": "Many literary and academic words in English are built from Latin and ancient Greek prefixes and roots. Most native speakers could not explain these parts, but if you can, you will often work out a new word without a dictionary.",
+      "examples": [
+        { "text": "**biography** = writing about a life (**bio-** life + **-graph-** writing)" },
+        { "text": "**criminology** = the study of crime and criminals (**-ology** study)" },
+        { "text": "**telephone** = sound carried over a distance (**tele-** distance + **-phon-** sound)" }
+      ],
+      "note": "These parts help you understand words, but you cannot invent new words with them as freely as with ordinary prefixes and suffixes."
+    },
+    {
+      "type": "table",
+      "heading": "Common word parts",
+      "columns": ["Word part", "Meaning", "Example"],
+      "rows": [
+        ["auto-", "self", "an **autonomous** region (self-ruling)"],
+        ["bio-", "life, living things", "**biodegradable** packaging (able to decay naturally)"],
+        ["cyber-", "relating to computers and robots", "a **cybercafe** (a cafe where customers can use the internet)"],
+        ["de-", "opposite action", "to **demotivate** someone (make them less enthusiastic)"],
+        ["mono-", "single, one", "a **monocycle** (a cycle with just one wheel)"],
+        ["-graph-", "writing", "a **monograph** (a short book on a single subject)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More word parts",
+      "columns": ["Word part", "Meaning", "Example"],
+      "rows": [
+        ["-gress-", "step, walk, go", "a **congress** (a meeting where people come together)"],
+        ["-ics", "an area of study or knowledge", "**obstetrics** (the study of pregnancy and childbirth)"],
+        ["-phon-", "sound", "**phonetics** (the study of human speech sounds)"],
+        ["-ology", "study", "**criminology** (the study of crime and criminals)"],
+        ["pre- (opposite: post-)", "before (after)", "**prepaid** tickets (paid for in advance)"],
+        ["retro-", "back, backwards", "a **retroactive** law (taking effect from a date in the past)"],
+        ["techno-", "relating to advanced machines", "**technophobia** (fear of using computers and similar technology)"],
+        ["tele-", "over a distance", "a **telepathic** experience (feeling something from a distance)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Word parts at work",
+      "text": "Once you know the parts, long words become transparent. Notice how the same root turns up in several words, and how **pre-** and **post-** work as a pair.",
+      "examples": [
+        { "text": "I had to **postpone** my trip to Japan.", "note": "postpone = put off until later" },
+        { "text": "He's giving a paper at a **pre-conference** event in Spain.", "note": "a special event just before the conference begins" },
+        { "text": "Some 19th-century English philosophers believed in **de-industrialisation**.", "note": "the abolition of industry - de- reverses the action" },
+        { "text": "To **retrogress** is to go back to an earlier, worse state." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Blends",
+      "text": "An interesting, if much less common, way of forming words is **blending** - squashing two well-established words together so that the new word carries both meanings. A **brunch** is a meal that is a combination of breakfast and lunch.",
+      "examples": [
+        { "text": "a **heliport** = a place where helicopters land and take off", "note": "helicopter + airport" },
+        { "text": "**smog** = polluted fog", "note": "smoke + fog" },
+        { "text": "a **motel** = a roadside hotel for people travelling by car", "note": "motor + hotel" },
+        { "text": "a **webinar** = a seminar delivered over the internet", "note": "web + seminar" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More blends",
+      "columns": ["Blend", "Made from", "Meaning"],
+      "rows": [
+        ["**guesstimate**", "guess + estimate", "an approximate calculation (also a verb: to guesstimate)"],
+        ["**docudrama**", "documentary + drama", "a TV programme that dramatises real historical events"],
+        ["**breathalyser**", "breath + analyse", "a device to find out how much alcohol a person has drunk"],
+        ["**camcorder**", "camera + recorder", "a small, portable video camera"],
+        ["**infomercial**", "information + commercial", "a TV advert that gives information rather than selling"],
+        ["**podcast**", "iPod + broadcast", "a programme you download and listen to on a personal device"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Check before you assume: **postman** has nothing to do with the prefix **post-** meaning *after* - always test your guess against the meaning of the whole word."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word part with its meaning.",
+      "pairs": [
+        { "left": "auto-", "right": "self" },
+        { "left": "bio-", "right": "life, living things" },
+        { "left": "retro-", "right": "back, backwards" },
+        { "left": "tele-", "right": "over a distance" },
+        { "left": "-phon-", "right": "sound" },
+        { "left": "-graph-", "right": "writing" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each blend with the two words it was made from.",
+      "pairs": [
+        { "left": "smog", "right": "smoke + fog" },
+        { "left": "motel", "right": "motor + hotel" },
+        { "left": "webinar", "right": "web + seminar" },
+        { "left": "camcorder", "right": "camera + recorder" },
+        { "left": "guesstimate", "right": "guess + estimate" },
+        { "left": "breathalyser", "right": "breath + analyse" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a *monologue*?",
+      "options": [
+        "A long speech by one person, for example in a film or play",
+        "A conversation between two people",
+        "A written record of a journey",
+        "A single musical note held for a long time"
+      ],
+      "answer": 0,
+      "explanation": "mono- means single or one, so a monologue is speech by one person alone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is *graphology*?",
+      "options": [
+        "The study of writing",
+        "The study of sound",
+        "The study of crime",
+        "The study of maps"
+      ],
+      "answer": 0,
+      "explanation": "-graph- means writing and -ology means study, so graphology is the study of writing (in practice, analysing handwriting for what it reveals about personality)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Phonology* is the study of ___.",
+      "hint": "(-phon-)",
+      "answers": ["sound", "sounds", "speech sounds"],
+      "explanation": "-phon- means sound."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She asked the singer for his ___ on the back of her table napkin.",
+      "hint": "(graph - replaces *signature*)",
+      "answers": ["autograph"],
+      "explanation": "An autograph is literally something written by yourself, auto- + -graph-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She took a degree in ___ at Stockholm University.",
+      "hint": "(ology - replaces *the science of crime*)",
+      "answers": ["criminology"],
+      "explanation": "criminology = the study of crime and criminals."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a ___ exhibition of the painter's life and work.",
+      "hint": "(retro - replaces *looking back at*)",
+      "answers": ["retrospective"],
+      "explanation": "retro- means back, so a retrospective exhibition looks back over an artist's career."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is now quite common: working at home and keeping in contact with the office by phone, text and email.",
+      "hint": "(tele)",
+      "answers": ["teleworking", "telecommuting"],
+      "explanation": "tele- means over a distance, so teleworking is working away from the office."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is a huge cause for concern.",
+      "hint": "(cyber - replaces *crime committed through the internet*)",
+      "answers": ["cybercrime", "cyber-crime"],
+      "explanation": "cyber- relates to computers and the internet."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you *destabilise* a government, you make it more secure.",
+      "answer": false,
+      "explanation": "Wrong - de- means the opposite action, so to destabilise something is to make it unstable."
+    },
+    {
+      "type": "true_false",
+      "statement": "Matt is a *technophobe*, so he has a fear of anything technical.",
+      "answer": true,
+      "explanation": "Correct - techno- relates to advanced machines and -phobe means someone who fears."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word built from classical word parts, or is it a blend of two everyday words?",
+      "categories": ["Built from classical word parts", "Blend of two everyday words"],
+      "items": [
+        { "text": "autobiography", "category": 0 },
+        { "text": "obstetrics", "category": 0 },
+        { "text": "monograph", "category": 0 },
+        { "text": "congress", "category": 0 },
+        { "text": "brunch", "category": 1 },
+        { "text": "heliport", "category": 1 },
+        { "text": "docudrama", "category": 1 },
+        { "text": "veggieburger", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the definition in order.",
+      "words": ["A", "webinar", "is", "a", "seminar", "delivered", "over", "the", "internet."],
+      "answer": "A webinar is a seminar delivered over the internet.",
+      "explanation": "webinar = web + seminar."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "number": 97,
+  "title": "Writing an essay",
+  "subtitle": "point of view, on the other hand, in general, consequently",
+  "summary": "Use the standard essay phrases to give an opinion, show both sides, compare, generalise and explain results.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What a discursive essay does",
+      "text": "A **discursive essay** discusses a subject. You express your own **point of view** (= opinion), and you also show that you understand both sides of the **argument** - the reasons for something and the reasons against it.",
+      "examples": [
+        { "text": "An **argument** is a reason to think that something is true." },
+        { "text": "Link words such as *in addition* and *however* hold the essay together." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressing a point of view",
+      "text": "You can be personal (**I believe that ...**, **It seems to me that ...**) or less personal and less direct (**Some people believe ...**, **There is an argument that ...**). In written essays it is usually better not to write *In my opinion*.",
+      "examples": [
+        { "text": "**I believe that** people who drink and drive should go to prison." },
+        { "text": "**It seems to me that** there is a problem." },
+        { "text": "**Some people believe** that no one should be sent to prison under the age of 18." },
+        { "text": "**There is an argument that** everyone should have a university education." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Giving both sides",
+      "text": "To show the good side and the bad side, use **one of the advantages ... However, ...** or the pair **on the one hand ... on the other (hand) ...**.",
+      "examples": [
+        { "text": "**One of the advantages of** being an only child is that you have more attention from your parents. **However**, it can be lonely." },
+        { "text": "**On the one hand**, computers can do many things faster than human beings. **On the other hand**, some people are becoming dependent on them." }
+      ],
+      "note": "We say on the other hand, not ~~on the other side~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Comparing and contrasting",
+      "text": "**Contrasting** means saying how two things are similar and how they are different. Compare groups of people, or the past and the present.",
+      "examples": [
+        { "text": "**Compared with** my grandparents, I have had much more opportunity to travel abroad.", "note": "compared to means the same" },
+        { "text": "**In the past** people didn't have computers, but **nowadays** there is one in almost every home." },
+        { "text": "Most of the developed world has become richer. **In contrast**, many countries in Africa have become poorer." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Making generalisations",
+      "text": "A **generalisation** says that something is true most of the time, but not always. Instead of 'Young people prefer American films', soften it with **in general**, **on the whole** or **tend to**.",
+      "examples": [
+        { "text": "**In general**, Japanese society is more focused on groups than individuals.", "note": "syn on the whole" },
+        { "text": "Teenagers **tend to have** more freedom than in the past.", "note": "tend to = usually" },
+        { "text": "Time **tends to go** faster as you get older." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cause and effect",
+      "columns": ["Word", "How to use it"],
+      "rows": [
+        ["**cause** (noun)", "Poor diet is one of the main **causes** of obesity."],
+        ["**cause** (verb)", "Poor diet can **cause** obesity."],
+        ["**the result of**", "Obesity is often **the result of** a bad diet."],
+        ["**consequently**", "They don't exercise, and **consequently** they put on weight."],
+        ["**affect** (verb)", "Pollution can **affect** people's breathing."],
+        ["**effect** (noun)", "Pollution can have an **effect on** people's breathing."]
+      ],
+      "note": "**Consequently** means the same as *as a result*."
+    },
+    {
+      "type": "tip",
+      "text": "Affect is the verb, effect is the noun: smoking affects your health / smoking has an effect on your health."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each essay skill with an example sentence.",
+      "pairs": [
+        { "left": "expressing a point of view", "right": "Some people believe we should never go to war." },
+        { "left": "making a comparison", "right": "Canada has a smaller population than the USA." },
+        { "left": "describing a result", "right": "Animals die because we're cutting down the forest." },
+        { "left": "showing both sides", "right": "TV can make children lazy. However, some programmes are educational." },
+        { "left": "making a generalisation", "right": "People tend to retire at a later age." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'It seems ___ me that there is a problem.'",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "It seems to me that ... expresses a personal point of view."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'One of the advantages ___ studying law is that it should lead to a good career.'",
+      "hint": "(one word)",
+      "answers": ["of"],
+      "explanation": "One of the advantages of + noun or -ing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'It is important to give ___ sides of the argument.'",
+      "hint": "(one word)",
+      "answers": ["both"],
+      "explanation": "A discursive essay gives both sides of the argument."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'Too much television can have a bad effect ___ children.'",
+      "hint": "(one word)",
+      "answers": ["on"],
+      "explanation": "Have an effect on someone. Effect is a noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'People like freedom of choice. On the other ___, too much choice can be a bad thing.'",
+      "hint": "(one word)",
+      "answers": ["hand"],
+      "explanation": "The phrase is on the other hand, not on the other side."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One word is missing: 'Time tends ___ go faster as you get older.'",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "Tend to + verb = usually do something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Advertising is so powerful that it ___ people to buy things they don't want.",
+      "options": ["causes", "affects", "effects", "results"],
+      "answer": 0,
+      "explanation": "Cause someone to do something. Affect cannot be followed by to + verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There is not enough food, and ___ people are dying.",
+      "options": ["consequently", "on the other hand", "in contrast", "compared with"],
+      "answer": 0,
+      "explanation": "Consequently = as a result of this."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Essay: 'One of the advantages of the Internet is that children have access to so much information. ___, they can do this from their own homes.'",
+      "hint": "(adds information)",
+      "answers": ["in addition", "what's more", "besides"],
+      "explanation": "In addition adds a second advantage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Essay: '___, some of the information on the Internet is unreliable and out of date.'",
+      "hint": "(introduces the other side)",
+      "answers": ["however", "on the other hand"],
+      "explanation": "However introduces the disadvantage after the advantages."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Essay: 'If we don't control this, the Internet could have a bad ___ on children.'",
+      "hint": "(a noun)",
+      "answers": ["effect"],
+      "explanation": "Effect is the noun: have an effect on someone."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make this a comparison between the past and the present.",
+      "words": ["In the past", "children played on their bikes,", "but nowadays", "they spend most of their time", "in front of a computer"],
+      "answer": "In the past children played on their bikes, but nowadays they spend most of their time in front of a computer",
+      "explanation": "In the past ... but nowadays ... compares then and now."
+    },
+    {
+      "type": "true_false",
+      "statement": "'People are conservative' is a generalisation.",
+      "answer": false,
+      "explanation": "It is a simple statement. To generalise, write: In general people are conservative, or People tend to be conservative."
+    }
+  ]
+}

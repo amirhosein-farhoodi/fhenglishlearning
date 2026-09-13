@@ -1,0 +1,198 @@
+{
+  "number": 54,
+  "title": "Manner",
+  "subtitle": "fast, slowly, well, in a friendly way",
+  "summary": "Describe how people do things with adjectives and adverbs like fast, slowly, loudly, quietly, well and badly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "How we do things",
+      "text": "**Manner** means *how* we do something. We use an **adjective** with a noun (*a fast car*) and an **adverb** with a verb (*it goes fast*). Most adverbs end in *-ly*.",
+      "examples": [
+        { "text": "This is a **slow** train.", "note": "adjective + noun" },
+        { "text": "This train goes very **slowly**.", "note": "verb + adverb" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives and adverbs",
+      "columns": ["Adjective", "Adverb", "Example"],
+      "rows": [
+        ["fast", "**fast**", "This car goes very **fast**."],
+        ["slow", "**slowly**", "This car goes very **slowly**."],
+        ["loud", "**loudly**", "The children sang **loudly**."],
+        ["quiet", "**quietly**", "The teacher speaks very **quietly**."],
+        ["good", "**well**", "She drives **well**."],
+        ["bad", "**badly**", "He drives **badly**."]
+      ],
+      "note": "The adverb of *fast* is **fast**, and the adverb of *good* is **well**."
+    },
+    {
+      "type": "compare",
+      "heading": "Fast and slow",
+      "left": {
+        "label": "fast",
+        "text": "Something that moves quickly.",
+        "examples": ["This is a **fast** car.", "This car goes very **fast**.", "He's a **fast** swimmer. He swims very **fast**."]
+      },
+      "right": {
+        "label": "slow",
+        "text": "Something that moves without much speed.",
+        "examples": ["This is a **slow** car.", "This car goes very **slowly**.", "Let's take the **slow** train, not the fast one."]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "Loud and quiet",
+      "left": {
+        "label": "loud",
+        "text": "A big sound - it is easy to hear.",
+        "examples": ["The music is too **loud**.", "The children sang **loudly**.", "Please don't play your music so **loudly**."]
+      },
+      "right": {
+        "label": "quiet",
+        "text": "A small sound - it is hard to hear.",
+        "examples": ["It's very **quiet** here.", "The teacher speaks very **quietly**. We can't hear him.", "The children are playing **quietly** because grandma is asleep."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Good and bad",
+      "text": "The adverb of **good** is **well**, not ~~goodly~~. The adverb of **bad** is **badly**. We also say *good at* and *bad at* something.",
+      "examples": [
+        { "text": "She's a **good** driver. She drives **well**." },
+        { "text": "He's a **bad** driver. He drives **badly**." },
+        { "text": "Katie is very **good** at French but **bad** at German." },
+        { "text": "It is better to do something **well** than to do it **badly**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Right and wrong",
+      "text": "Something that is correct is **right**. Something that is not correct is **wrong**.",
+      "examples": [
+        { "text": "*I like coffee very much.* This sentence is **right**." },
+        { "text": "*I like very much coffee.* This sentence is **wrong**." },
+        { "text": "I hope this is the **right** answer." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Expressions with way",
+      "text": "We often use **in a ... way** to say how someone behaves, and **the right / wrong way** to say how someone does something.",
+      "examples": [
+        { "text": "He's speaking **in a friendly way**." },
+        { "text": "Why is Fiona behaving **in an unfriendly way**?" },
+        { "text": "You're doing that **the wrong way**. Let me show you **the right way** to do it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Fast* is both the adjective and the adverb: *He swims very fast* - not ~~fastly~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He is a bad singer. He sings very ___.",
+      "hint": "(bad)",
+      "answers": ["badly"],
+      "explanation": "The adverb of bad is badly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She is always loud. She speaks very ___.",
+      "hint": "(loud)",
+      "answers": ["loudly"],
+      "explanation": "The adverb of loud is loudly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's a fast swimmer. He swims very ___.",
+      "hint": "(fast)",
+      "answers": ["fast"],
+      "explanation": "Fast is both the adjective and the adverb - not fastly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This girl is quiet. She always speaks ___.",
+      "hint": "(quiet)",
+      "answers": ["quietly"],
+      "explanation": "The adverb of quiet is quietly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's a good English-speaker. He speaks English ___.",
+      "hint": "(good)",
+      "answers": ["well"],
+      "explanation": "The adverb of good is well."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Let's take the ___ train, not the fast one.",
+      "options": ["slow", "slowly", "quiet", "badly"],
+      "answer": 0,
+      "explanation": "Before a noun we need the adjective slow, not the adverb slowly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Katie is very ___ at French but bad at German.",
+      "hint": "(the opposite of bad)",
+      "answers": ["good"],
+      "explanation": "We say good at something and bad at something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Why is Fiona behaving ___ an unfriendly way?",
+      "hint": "(one word)",
+      "answers": ["in"],
+      "explanation": "We say behave in a friendly / unfriendly way."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did I do this exercise ___ right way?",
+      "options": ["the", "a", "in", "by"],
+      "answer": 0,
+      "explanation": "We say do something the right way or the wrong way."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adverb with its meaning.",
+      "pairs": [
+        { "left": "sadly", "right": "in an unhappy way" },
+        { "left": "strangely", "right": "not in a normal way" },
+        { "left": "easily", "right": "with no difficulty" },
+        { "left": "suddenly", "right": "very quickly, when you are not expecting it" },
+        { "left": "quietly", "right": "with very little sound" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Suddenly means 'very slowly'.",
+      "answer": false,
+      "explanation": "Suddenly means very quickly, when you are not expecting it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word an adjective or an adverb?",
+      "categories": ["Adjective", "Adverb"],
+      "items": [
+        { "text": "slow", "category": 0 },
+        { "text": "slowly", "category": 1 },
+        { "text": "good", "category": 0 },
+        { "text": "well", "category": 1 },
+        { "text": "loud", "category": 0 },
+        { "text": "quietly", "category": 1 },
+        { "text": "bad", "category": 0 },
+        { "text": "badly", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say how the man is speaking.",
+      "words": ["He's", "speaking", "in", "a", "friendly", "way."],
+      "answer": "He's speaking in a friendly way."
+    }
+  ]
+}

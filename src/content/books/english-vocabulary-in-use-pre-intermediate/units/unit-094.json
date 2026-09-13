@@ -1,0 +1,205 @@
+{
+  "number": 94,
+  "title": "Reason, purpose, result, condition",
+  "subtitle": "because of, in order to, as a result, unless",
+  "summary": "Explain why something happens, what it is for, what it causes, and what condition it depends on.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Reason: because, as, since, so",
+      "text": "To give a reason we use **because**, **as** or **since**. We do not usually start a sentence with *because*. In speaking, **so** before the result is very common.",
+      "examples": [
+        { "text": "I went home early **because** I was feeling tired." },
+        { "text": "**As** I was feeling tired, I went home early." },
+        { "text": "**Since** I was feeling tired, I went home early." },
+        { "text": "I was feeling tired, **so** I went home early." },
+        { "text": "The **reason** I went home early was that I was feeling tired." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "because and because of",
+      "left": {
+        "label": "because + subject + verb",
+        "text": "Use **because** before a clause.",
+        "examples": [
+          "They go there **because** the weather is wonderful.",
+          "I couldn't play **because** my arm was broken."
+        ]
+      },
+      "right": {
+        "label": "because of + noun",
+        "text": "Use **because of** before a noun, often with an adjective.",
+        "examples": [
+          "They go there **because of** the wonderful weather.",
+          "We moved house **because of** my father's work."
+        ]
+      },
+      "note": "**Due to** means the same as because of and often explains a problem: The plane was late **due to** bad weather."
+    },
+    {
+      "type": "explain",
+      "heading": "Purpose: what something is for",
+      "text": "A purpose is the intention or reason for doing something. We introduce it with **so (that)** or **(in order) to**.",
+      "examples": [
+        { "text": "The **purpose** of the meeting is to plan next year's timetable." },
+        { "text": "I bought this book **so that** I could improve my English." },
+        { "text": "They went home early **in order to** watch the match on television." },
+        { "text": "She went into town **to** do some shopping." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Result: so, therefore, as a result",
+      "text": "Use these when one thing happens because another thing happened. **Therefore** and **as a result** are more formal than **so** and less common in speech.",
+      "examples": [
+        { "text": "I left my ticket at home, **so** I had to buy another one." },
+        { "text": "They've got more money, and **therefore** they can afford the best players." },
+        { "text": "I forgot to send the email. **As a result**, no one knew about the meeting." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Condition words",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**whether**", "if (when you are not sure about something)"],
+        ["**unless**", "if ... not"],
+        ["**otherwise**", "because if you don't"],
+        ["**as long as**", "but you must ..."],
+        ["**in case**", "because this might happen later"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Conditions in sentences",
+      "text": "These words tell you what has to be true, or what might happen. Notice that **in case** looks to the future: you do A now because B might happen later.",
+      "examples": [
+        { "text": "I didn't buy it because I wasn't sure **whether** you'd like it." },
+        { "text": "We'll be late **unless** we leave now.", "note": "= if we don't leave now" },
+        { "text": "I have to go now, **otherwise** I'll miss the last bus.", "note": "= because if I don't go, I'll miss it" },
+        { "text": "You can borrow it **as long as** you bring it back by Thursday.", "note": "= but you must bring it back" },
+        { "text": "I'm taking my umbrella **in case** it rains.", "note": "= because it might rain later" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "because + verb, because of + noun. Compare: because the traffic was bad / because of the bad traffic."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Teresa got the job because of ___.",
+      "hint": "(her exam results were good)",
+      "answers": ["her good exam results", "good exam results", "her good exam results."],
+      "explanation": "Because of is followed by a noun phrase, so the adjective comes before the noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We couldn't eat outside because of ___.",
+      "hint": "(the weather was terrible)",
+      "answers": ["the terrible weather", "the terrible weather."],
+      "explanation": "Because of + (adjective) + noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She didn't go to school because of ___.",
+      "hint": "(she had a cold)",
+      "answers": ["her cold", "a cold", "her cold."],
+      "explanation": "Because of + noun replaces the clause 'because she had a cold'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "We moved house because of my father's work.",
+        "We moved house because my father's work.",
+        "We moved house because of my father worked.",
+        "We moved house due my father's work."
+      ],
+      "answer": 0,
+      "explanation": "Because of is followed by a noun; because is followed by a subject and verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "unless", "right": "if ... not" },
+        { "left": "otherwise", "right": "because if you don't" },
+        { "left": "as long as", "right": "but you must ..." },
+        { "left": "in case", "right": "because this might happen later" },
+        { "left": "whether", "right": "if (I am not sure)" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll take some sandwiches with me ___ I get hungry.",
+      "hint": "(two words)",
+      "answers": ["in case"],
+      "explanation": "In case = because this might happen later."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We agreed to buy my daughter a dog ___ she takes it for a walk every day.",
+      "hint": "(three words)",
+      "answers": ["as long as"],
+      "explanation": "As long as = but she must do this."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ there's a problem, I won't disturb you.",
+      "hint": "(one word = if ... not)",
+      "answers": ["unless"],
+      "explanation": "Unless = if there isn't a problem."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You'd better tidy your room, ___ your mother will be angry.",
+      "hint": "(one word)",
+      "answers": ["otherwise"],
+      "explanation": "Otherwise = because if you don't."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sent Luiza an invitation, but I don't know ___ she's coming.",
+      "hint": "(one word)",
+      "answers": ["whether", "if"],
+      "explanation": "We use whether (or if) when we are not sure about something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ I didn't ring you was that I'd lost your phone number.",
+      "hint": "(one word)",
+      "answers": ["reason"],
+      "explanation": "The reason I did something was that ... gives a reason."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the link word give a reason or a result?",
+      "categories": ["Reason", "Result"],
+      "items": [
+        { "text": "because of", "category": 0 },
+        { "text": "since", "category": 0 },
+        { "text": "due to", "category": 0 },
+        { "text": "therefore", "category": 1 },
+        { "text": "as a result", "category": 1 },
+        { "text": "so", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to give a purpose.",
+      "words": ["I left early", "in order to", "miss", "the rush-hour traffic"],
+      "answer": "I left early in order to miss the rush-hour traffic",
+      "explanation": "(In order) to + verb introduces a purpose."
+    },
+    {
+      "type": "true_false",
+      "statement": "Could I ask staff to leave home early so that everyone gets here on time?",
+      "answer": true,
+      "explanation": "Correct. So that introduces the purpose of leaving home early."
+    }
+  ]
+}

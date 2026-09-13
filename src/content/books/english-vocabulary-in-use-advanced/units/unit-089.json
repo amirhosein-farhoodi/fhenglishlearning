@@ -1,0 +1,234 @@
+{
+  "number": 89,
+  "title": "English: a global language",
+  "subtitle": "lexicon, loanword, borrowing, false friend",
+  "summary": "Talk about where English words come from - the lexicon, word stock, loanwords and borrowings - and spot the false friends that look familiar but mean something else.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A language that welcomes words",
+      "text": "Some languages do not easily accept words from other languages into their **lexicon** - the specialist term for a language's vocabulary. English has always welcomed them. It is estimated that English vocabulary has its **sources** in at least 120 languages. English started out with a basic Anglo-Saxon **word stock**, that is, its basic set of words.",
+      "examples": [
+        { "text": "A linguist may talk about a language's vocabulary as its **lexicon**." },
+        { "text": "English began with a small Anglo-Saxon **word stock** and grew from there." },
+        { "text": "Where a word originates from is called its **source**." }
+      ],
+      "note": "Anglo-Saxon is another name for Old English."
+    },
+    {
+      "type": "explain",
+      "heading": "Invaders and scholars",
+      "text": "**Viking** invaders (Norse, from the north of Europe) and **Norman** invaders (from Normandy in northern France) from the 9th century onwards **enriched** the language enormously - they made it richer. Both sets of invaders had an enormous **impact on** English, which explains why English often seems to have several words for the same basic **concept**, or idea.",
+      "examples": [
+        { "text": "The Vikings brought new words of Germanic origin; the Normans spoke a form of French." },
+        { "text": "The invasions had a huge **impact on** the language.", "note": "impact = effect, influence" },
+        { "text": "The opposite of impoverish is **enrich**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Loanwords and borrowings",
+      "text": "During the Renaissance of the 15th to the 17th centuries, scholars introduced many words of **classical origin** - from Latin or Ancient Greek. And English speakers' contact with the world as explorers, traders and holiday-makers has had linguistic **consequences**: results affecting language. Words taken from other languages are called **loanwords** or **borrowings**.",
+      "examples": [
+        { "text": "Ancient Greek and Latin are referred to as **classical** languages." },
+        { "text": "A loanword can also be termed a **borrowing**." },
+        { "text": "A **consequence** is something that happens as a result of something else." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "English words from other languages",
+      "columns": ["Language", "Word", "Meaning", "Typical phrase"],
+      "rows": [
+        ["Arabic", "amber", "yellowy-orange substance from tree resin, used in jewellery", "an amber necklace"],
+        ["Dutch", "roster", "list of people's turns for jobs", "the cooking roster"],
+        ["Farsi", "tabby", "grey and brown stripy cat", "our old tabby"],
+        ["German", "gimmick", "an amusing or unusual way of attracting attention", "advertising gimmicks"],
+        ["Greek", "tonic", "medicine to make you feel stronger and better", "take a tonic"],
+        ["Hindi", "cot", "child's bed with high vertical sides", "sleep in a cot"],
+        ["Icelandic", "mumps", "a childhood illness", "have mumps"],
+        ["Japanese", "karaoke", "entertainment where ordinary people sing to popular music", "a karaoke machine"],
+        ["Portuguese", "palaver", "unnecessary trouble", "What a palaver!"],
+        ["Russian", "intelligentsia", "the social class of intellectuals", "the 19th-century intelligentsia"],
+        ["Spanish", "hammock", "net hung up and used as a bed", "sleep in a hammock"],
+        ["Turkish", "turban", "men's headwear made from a long piece of cloth", "wear a turban"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "False friends",
+      "text": "Some English words may look like words in your own language but have a different meaning. Such words are known as **false friends**. The German word *Gift* looks like the English word **gift**, which means present, but in German it actually means poison.",
+      "examples": [
+        { "text": "English **sympathetic** resembles a word meaning simply *nice* in many European languages, but in English it means understanding and caring about someone else's suffering." },
+        { "text": "A Spanish speaker may read **complexion** as physical build; in English it is the appearance of the skin on a person's face." },
+        { "text": "**Destitute** looks like Spanish *destituido* (removed from a job) but means without money, food, home or possessions." }
+      ],
+      "note": "The pronunciation of a borrowed word in English may be quite different from its pronunciation in the language it came from."
+    },
+    {
+      "type": "table",
+      "heading": "English words that have travelled outwards",
+      "columns": ["Thematic field", "English source words"],
+      "rows": [
+        ["food and drink", "beefsteak, jam, pudding, sandwich"],
+        ["animals", "bulldog, dog, skunk"],
+        ["clothing", "blazer, cardigan, pullover, sweater"],
+        ["political and social life", "parliament, Tory, boycott, budget, inflation, strike"],
+        ["industry and inventions", "car ferry, container, freight, computer chip, cable TV"],
+        ["arts, sports and leisure", "ace, boxer, football, break-dance"]
+      ],
+      "note": "These words may not all have originated in English. Pudding comes from an old French word, but it seems to have moved into other languages from English."
+    },
+    {
+      "type": "tip",
+      "text": "Loanword and borrowing mean exactly the same thing - a word taken from another language - so you can use either."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A linguist may talk about a language's vocabulary as its ___.",
+      "hint": "(specialist term for vocabulary)",
+      "answers": ["lexicon"],
+      "explanation": "Lexicon is the specialist term for the set of words a language has."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Old English is also known as ___.",
+      "hint": "(the language of the earliest English)",
+      "answers": ["Anglo-Saxon", "Anglo Saxon"],
+      "explanation": "Anglo-Saxon is another name for Old English, the basic word stock of English."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ancient Greek and Latin are referred to as ___ languages.",
+      "hint": "(Renaissance scholars introduced words of this origin)",
+      "answers": ["classical"],
+      "explanation": "Words of classical origin come from Latin or Ancient Greek."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A loanword can also be termed a ___.",
+      "hint": "(another word for loanword)",
+      "answers": ["borrowing"],
+      "explanation": "Loanword and borrowing both mean a word taken from another language."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Where something originates from can be called its ___.",
+      "hint": "(English vocabulary has these in 120 languages)",
+      "answers": ["source"],
+      "explanation": "A source is where something comes from."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A word for something that happens as a result of something else is a ___.",
+      "hint": "(contact with the world had linguistic ones)",
+      "answers": ["consequence"],
+      "explanation": "A consequence is a result of something else."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A synonym for effect or influence is ___.",
+      "hint": "(the invaders had an enormous ... on English)",
+      "answers": ["impact"],
+      "explanation": "The Vikings and Normans had an enormous impact on English vocabulary."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The opposite of impoverish or make poorer is ___.",
+      "hint": "(the invaders did this to the language)",
+      "answers": ["enrich"],
+      "explanation": "To enrich something is to make it richer."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each loanword with the language it came into English from.",
+      "pairs": [
+        { "left": "karaoke", "right": "Japanese" },
+        { "left": "hammock", "right": "Spanish" },
+        { "left": "turban", "right": "Turkish" },
+        { "left": "roster", "right": "Dutch" },
+        { "left": "gimmick", "right": "German" },
+        { "left": "intelligentsia", "right": "Russian" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We're having a ___ evening at school tonight - it should be great fun.",
+      "hint": "(ordinary people sing to popular music)",
+      "answers": ["karaoke"],
+      "explanation": "Karaoke, from Japanese, is entertainment where people sing to recorded popular music."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most babies these days have an injection to protect them from getting ___.",
+      "hint": "(a childhood illness, from Icelandic)",
+      "answers": ["mumps"],
+      "explanation": "Mumps is a childhood illness; we say have mumps."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have some lovely ___ earrings. They match my orange scarf perfectly.",
+      "hint": "(yellowy-orange, from Arabic)",
+      "answers": ["amber"],
+      "explanation": "Amber is a yellowy-orange substance originating from tree resin and used in jewellery."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have a refreshing drink of lemon and honey every morning - it'll be just the ___ you need to feel better again.",
+      "hint": "(from Greek)",
+      "answers": ["tonic"],
+      "explanation": "A tonic is a medicine or drink that makes you feel stronger and better."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Who's on the ___ for the cleaning this week?",
+      "hint": "(list of people's turns, from Dutch)",
+      "answers": ["roster"],
+      "explanation": "A roster is a list of people's turns for jobs."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The clowns went out into the street as a ___ to advertise their circus.",
+      "options": ["gimmick", "palaver", "tabby", "turban"],
+      "answer": 0,
+      "explanation": "A gimmick, from German, is an amusing or unusual way of attracting attention."
+    },
+    {
+      "type": "true_false",
+      "statement": "The German word Gift is a false friend, because it means poison and not present.",
+      "answer": true,
+      "explanation": "Correct - false friends look like words in your own language but mean something different."
+    },
+    {
+      "type": "true_false",
+      "statement": "In English, sympathetic simply means nice.",
+      "answer": false,
+      "explanation": "In English sympathetic has a much narrower meaning: understanding and caring about someone else's suffering."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these English source words that have travelled into other languages.",
+      "categories": ["Clothing", "Political and social life", "Industry and inventions"],
+      "items": [
+        { "text": "cardigan", "category": 0 },
+        { "text": "blazer", "category": 0 },
+        { "text": "pullover", "category": 0 },
+        { "text": "boycott", "category": 1 },
+        { "text": "inflation", "category": 1 },
+        { "text": "parliament", "category": 1 },
+        { "text": "container", "category": 2 },
+        { "text": "freight", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about English vocabulary in order.",
+      "words": ["English", "has", "always", "welcomed", "words", "from", "other", "languages"],
+      "answer": "English has always welcomed words from other languages",
+      "explanation": "Unlike some languages, English readily accepts loanwords into its lexicon."
+    }
+  ]
+}

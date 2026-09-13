@@ -1,0 +1,232 @@
+{
+  "number": 70,
+  "title": "Suffixes",
+  "subtitle": "-er, -ee, -ist, -ness, -able",
+  "summary": "Recognise and use the endings that build English words - -er, -or, -ee, -ist, -ness, -able, -ise and more - and use them to tell a noun from a verb or an adjective.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "-er and -or: the person or thing that does it",
+      "text": "**-er** makes a noun out of almost any verb, for the person who does the activity. Sometimes the same suffix is spelt **-or**; it is worth keeping a list of those as you meet them. Both endings are also used for things that do a particular job.",
+      "examples": [
+        { "text": "people: a **writer**, a **painter**, a **worker**, a **shopper**, a **teacher**" },
+        { "text": "spelt -or: an **actor**, a **donor**, an **operator**, a **sailor**, a **supervisor**", "note": "a donor is a person who donates something; a supervisor makes sure other people do their jobs correctly" },
+        { "text": "things: a pencil **sharpener**, a bottle **opener**, a **grater**, a **projector**, a **stapler**, a coat **hanger**" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "-er vs -ee",
+      "left": {
+        "label": "-er: the person who does something",
+        "examples": [
+          "an **employer** gives people work",
+          "the **sender** posts the letter",
+          "the **payer** hands over the money"
+        ]
+      },
+      "right": {
+        "label": "-ee: the person who receives or experiences it",
+        "examples": [
+          "an **employee** works for someone else",
+          "the **addressee** is the person a letter is written to",
+          "the **payee** is the person the money is paid to"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Noun suffixes",
+      "columns": ["Suffix", "Used for", "Examples"],
+      "rows": [
+        ["-tion / -sion / -ion", "nouns from verbs", "complication, pollution, reduction, alteration, donation, promotion, admission, action"],
+        ["-ist", "a person: politics, beliefs, profession, musicians", "Marxist, typist, physicist, terrorist, pianist, violinist, cellist"],
+        ["-ism", "an activity or ideology", "Buddhism, journalism, terrorism"],
+        ["-ness", "nouns from adjectives", "goodness, readiness, forgetfulness, happiness, sadness, weakness"],
+        ["-ment", "nouns from verbs", "excitement, enjoyment, replacement"],
+        ["-ity", "nouns from adjectives", "flexibility, productivity, scarcity"],
+        ["-hood", "abstract nouns, especially family terms", "childhood, motherhood, brotherhood"],
+        ["-ship", "abstract nouns, especially status", "friendship, partnership, membership"]
+      ],
+      "note": "Adjectives ending in -y change to -i before -ness: happy becomes happiness, lazy becomes laziness."
+    },
+    {
+      "type": "explain",
+      "heading": "Adjective and verb suffixes",
+      "text": "**-able** and **-ible** added to a verb mean 'can be done'. **-ise** (or **-ize**, commoner in American English) makes verbs out of adjectives, and **-ify** also makes verbs.",
+      "examples": [
+        { "text": "**drinkable**, **washable**, **readable**, **forgivable**, **edible**, **flexible**", "note": "edible = can be eaten; flexible = can be bent" },
+        { "text": "**modernise** = make modern; **commercialise**, **industrialise**, **computerise**" },
+        { "text": "**beautify**, **purify**, **terrify**", "note": "terrify = cause someone to be extremely afraid" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other suffixes that show the word class",
+      "columns": ["Suffix", "Word class", "Examples"],
+      "rows": [
+        ["-ive", "adjective", "active, passive, productive"],
+        ["-al", "adjective, and some nouns", "brutal, legal; refusal, arrival"],
+        ["-ous", "adjective", "delicious, outrageous, furious"],
+        ["-ful", "adjective", "hopeful, useful, forgetful"],
+        ["-less", "adjective", "useless, harmless, homeless"],
+        ["-ish", "informal adjective: less precise", "thirtyish, reddish, eightish"]
+      ],
+      "note": "Outrageous means shocking and morally unacceptable; harmless means it cannot hurt or damage anyone."
+    },
+    {
+      "type": "explain",
+      "heading": "Suffixes can move the stress",
+      "text": "Adding a suffix sometimes changes where the stress falls in a word, so check in a dictionary when you learn a new form.",
+      "examples": [
+        { "text": "**flexible** becomes **flexibility**" },
+        { "text": "**productive** becomes **productivity**" },
+        { "text": "**piano** becomes **pianist**" },
+        { "text": "**photograph** becomes **photographer**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The informal suffix *-ish* can go on most common adjectives, ages and times to make them vaguer: *She's thirtyish. He has reddish hair. Come about eightish.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each description with the -er / -or object it names.",
+      "pairs": [
+        { "left": "you use it to fasten sheets of paper together", "right": "a stapler" },
+        { "left": "you hang a jacket on it", "right": "a coat hanger" },
+        { "left": "it makes a blunt pencil sharp again", "right": "a pencil sharpener" },
+        { "left": "it shows a film on a screen", "right": "a projector" },
+        { "left": "you use it to get into a tin of beans", "right": "a tin opener" },
+        { "left": "it wipes rain off your car windscreen", "right": "a windscreen wiper" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word mean a thing, a person, or can it mean both?",
+      "categories": ["A thing", "A person", "Both"],
+      "items": [
+        { "text": "a cooker", "category": 0 },
+        { "text": "a grater", "category": 0 },
+        { "text": "an MP3 player", "category": 0 },
+        { "text": "a smoker", "category": 1 },
+        { "text": "a drinker", "category": 1 },
+        { "text": "an advisor", "category": 1 },
+        { "text": "a ticket holder", "category": 2 },
+        { "text": "a cleaner", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person who plays classical violin is a classical ___.",
+      "hint": "(-ist)",
+      "answers": ["violinist"],
+      "explanation": "-ist is used for people who play musical instruments: pianist, violinist, cellist."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person to whom a sum of money is paid is a ___.",
+      "hint": "(-ee)",
+      "answers": ["payee"],
+      "explanation": "-ee marks the person who receives or experiences the action."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person to whom a letter is addressed is the ___.",
+      "hint": "(-ee)",
+      "answers": ["addressee"],
+      "explanation": "The sender writes it; the addressee receives it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person who donates their organs upon their death is an organ ___.",
+      "hint": "(-or)",
+      "answers": ["donor"],
+      "explanation": "Donor is one of the -er words spelt with -or."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of his crimes can be forgiven. Most of his crimes are ___.",
+      "hint": "(-able)",
+      "answers": ["forgivable"],
+      "explanation": "-able added to a verb means 'can be done'. Note the dropped e: forgive becomes forgivable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her only fault is that she is lazy. Her only fault is ___.",
+      "hint": "(-ness)",
+      "answers": ["laziness"],
+      "explanation": "Adjectives ending in -y change the y to i before -ness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have lovely memories of when I was a child. I have lovely memories of my ___.",
+      "hint": "(-hood)",
+      "answers": ["childhood"],
+      "explanation": "-hood forms abstract nouns, especially family terms: childhood, motherhood, brotherhood."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The most important thing in life is having friends. The most important thing in life is ___.",
+      "hint": "(-ship)",
+      "answers": ["friendship"],
+      "explanation": "-ship forms abstract nouns, especially about status and relationships."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The Club refuses to admit anyone not wearing shoes. The Club refuses ___ to anyone not wearing shoes.",
+      "options": ["admission", "admittance fee", "admitment", "admitation"],
+      "answer": 0,
+      "explanation": "-sion turns the verb admit into the noun admission."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This firm has produced a lot recently. This firm has been very ___ recently.",
+      "options": ["productive", "production", "productivity", "producer"],
+      "answer": 0,
+      "explanation": "-ive makes the adjective; productive means producing a large positive amount."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word is the verb formed from *modern*?",
+      "options": ["modernise", "modernity", "modernist", "modernly"],
+      "answer": 0,
+      "explanation": "-ise (or -ize in American English) forms verbs from adjectives."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the abstract noun formed from it.",
+      "pairs": [
+        { "left": "refuse", "right": "refusal" },
+        { "left": "forget", "right": "forgetfulness" },
+        { "left": "act", "right": "action" },
+        { "left": "enjoy", "right": "enjoyment" },
+        { "left": "replace", "right": "replacement" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "What part of speech does each suffix usually make?",
+      "categories": ["Noun", "Adjective", "Verb"],
+      "items": [
+        { "text": "-ment", "category": 0 },
+        { "text": "-ity", "category": 0 },
+        { "text": "-ship", "category": 0 },
+        { "text": "-ous", "category": 1 },
+        { "text": "-less", "category": 1 },
+        { "text": "-ive", "category": 1 },
+        { "text": "-ise", "category": 2 },
+        { "text": "-ify", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The adjective formed from *fury* is *furious*.",
+      "answer": true,
+      "explanation": "Correct - -ous makes the adjective: fury becomes furious, meaning very angry."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "number": 28,
+  "title": "Transport",
+  "subtitle": "catch the bus, miss the train, fares and journeys",
+  "summary": "Name the vehicles on the road and use the right verbs and nouns to talk about buses, trains, planes and taxis.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Vehicles",
+      "columns": ["Vehicle", "What it is"],
+      "rows": [
+        ["a **bus**", "it carries people round a town"],
+        ["a **coach**", "a comfortable bus for long journeys"],
+        ["a **lorry** (also a **truck**)", "a big vehicle that carries goods"],
+        ["a **van**", "a small lorry"],
+        ["a **motorbike**", "a bike with an engine"],
+        ["a **bicycle** (a **bike**)", "you ride it and use your legs"]
+      ],
+      "note": "**Vehicle** is the general word for all types of road transport."
+    },
+    {
+      "type": "table",
+      "heading": "Travelling around",
+      "columns": ["", "bus / coach", "train", "plane", "taxi"],
+      "rows": [
+        ["the driver", "bus driver", "train driver", "pilot", "taxi driver"],
+        ["the price", "bus fare", "train fare", "airfare", "fare"],
+        ["the verb", "get / catch / go by", "get / catch / go by", "fly", "get / take"],
+        ["in and out", "get on / off", "get on / off", "get on / off", "get in / out (of)"],
+        ["where you wait", "bus stop / bus station", "platform / train station", "airport", "taxi rank"],
+        ["the noun", "journey", "journey", "flight", "journey"]
+      ],
+      "note": "With a bicycle we say **go by bike**, **cycle** or **ride a bike**, and you **get on** and **off** it."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about journeys",
+      "text": "We **get** or **catch** a bus or a train, and we **miss** it if we don't catch it. The **fare** is the money you pay; the **journey** is the travelling itself.",
+      "examples": [
+        { "text": "I go to work by bus. It's only three **stops**." },
+        { "text": "We **got the train** to Cardiff, but the **journey** was terrible." },
+        { "text": "When the bus **fares** went up last month, my dad started **cycling** to work." },
+        { "text": "I **got out of** the taxi and almost walked away without paying the **fare**." },
+        { "text": "We were going to get the train to Paris, but in the end we decided to **fly**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *It was a good **journey***, not ~~It was a good travel~~. *Travel* is not normally a countable noun."
+    },
+    {
+      "type": "explain",
+      "heading": "Is public transport convenient?",
+      "text": "**Public transport** means buses and trains for people to use. If a bus stop is **convenient**, it is near or easy to use; if it is half a mile **away**, it is not.",
+      "examples": [
+        { "text": "The nearest bus stop is half a mile **away**." },
+        { "text": "I often have to wait in a **queue** for twenty minutes.", "note": "queue = stand in a line" },
+        { "text": "I've got a bus stop **round the corner**.", "note": "round the corner = very near" },
+        { "text": "Buses **run** every ten minutes and they're usually **reliable**.", "note": "reliable = you can trust them" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Tickets and complaints",
+      "text": "A **return** is a ticket for a journey to a place and back; a **single** is one way only. A **season ticket** lets you travel many times in a period without paying each time.",
+      "examples": [
+        { "text": "A **return** to London is forty pounds." },
+        { "text": "I've got a **season ticket**, and that makes it cheaper." },
+        { "text": "People are always **complaining about** the bus service.", "note": "complain about = say you are not satisfied with" },
+        { "text": "I made a **complaint** about the service." },
+        { "text": "If I **miss** my train, I have to wait half an hour for the next one." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "You mustn't ___ a motorbike without a helmet in the UK.",
+      "options": ["ride", "drive", "fly", "run"],
+      "answer": 0,
+      "explanation": "We ride a motorbike or a bicycle; we drive a car."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She told him to ___ the car and fasten his seat belt.",
+      "options": ["get in", "get on", "get off", "get out of"],
+      "answer": 0,
+      "explanation": "You get in and out of a car or taxi, but on and off a bus, train or plane."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The ___ to the airport takes half an hour.",
+      "options": ["journey", "travel", "fare", "flight"],
+      "answer": 0,
+      "explanation": "We say a good or bad journey, not a good travel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Trains to the airport ___ every half hour.",
+      "options": ["run", "travel", "ride", "fly"],
+      "answer": 0,
+      "explanation": "Buses and trains run every ten minutes, every half hour, etc."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The ___ didn't want to fly the plane in such bad weather.",
+      "options": ["pilot", "driver", "cyclist", "conductor"],
+      "answer": 0,
+      "explanation": "A pilot flies a plane."
+    },
+    {
+      "type": "mcq",
+      "prompt": "They left a bit late and ___ the bus.",
+      "options": ["missed", "lost", "failed", "dropped"],
+      "answer": 0,
+      "explanation": "You miss a bus or train when you don't catch it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I see that train ___ are going up again.",
+      "hint": "(the money you pay)",
+      "answers": ["fares"],
+      "explanation": "The fare is the price of a journey."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We must get ___ the bus at the next stop.",
+      "hint": "(one short word)",
+      "answers": ["off"],
+      "explanation": "You get on and off a bus; you get in and out of a car."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each vehicle with its description.",
+      "pairs": [
+        { "left": "a coach", "right": "a comfortable bus for long journeys" },
+        { "left": "a lorry", "right": "a big vehicle that carries goods" },
+        { "left": "a van", "right": "a small lorry" },
+        { "left": "a motorbike", "right": "a bike with an engine" },
+        { "left": "a bicycle", "right": "you ride it using your legs" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The flight was fine but we had a terrible ___ from the airport to our hotel.",
+      "hint": "(one word)",
+      "answers": ["journey"],
+      "explanation": "A journey is the travelling from one place to another."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The public transport isn't very ___ because the nearest bus stop is two kilometres away.",
+      "hint": "(near or easy to use)",
+      "answers": ["convenient"],
+      "explanation": "Convenient = near or easy to use."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The train station is just round the ___ from where I live.",
+      "hint": "(one word - very near)",
+      "answers": ["corner"],
+      "explanation": "Round the corner = very near."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Buses are not very ___ . Sometimes they come every five minutes, but other times you wait forty minutes.",
+      "hint": "(you can trust them)",
+      "answers": ["reliable"],
+      "explanation": "Reliable = you can trust them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Train fares are crazy: a ___ to Glasgow costs more than two singles.",
+      "hint": "(a ticket there and back)",
+      "answers": ["return"],
+      "explanation": "A return is a ticket for a journey to a place and back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I use the trains every day for work, so I've got a ___ ticket.",
+      "hint": "(one word)",
+      "answers": ["season"],
+      "explanation": "A season ticket lets you travel many times without paying each time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your train is going to depart from ___ six at 10:25.",
+      "hint": "(where you wait for a train)",
+      "answers": ["platform"],
+      "explanation": "At a train station you wait on a platform."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a complaint.",
+      "words": ["People", "are", "always", "complaining", "about", "the", "bus", "service."],
+      "answer": "People are always complaining about the bus service.",
+      "explanation": "Complain about something = say you are not satisfied with it."
+    },
+    {
+      "type": "true_false",
+      "statement": "A taxi rank is the place where you wait for a taxi.",
+      "answer": true,
+      "explanation": "Correct. You take a taxi from a taxi rank."
+    }
+  ]
+}

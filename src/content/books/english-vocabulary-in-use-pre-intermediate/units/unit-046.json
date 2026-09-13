@@ -1,0 +1,180 @@
+{
+  "number": 46,
+  "title": "Travel bookings",
+  "subtitle": "book online, accommodation, a package holiday, a city break",
+  "summary": "Name different types of holiday and use the words you need to book and rent holiday accommodation online.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of holiday",
+      "columns": ["Type of holiday", "What it is"],
+      "rows": [
+        ["a beach holiday", "a holiday where you stay near the sea"],
+        ["a skiing holiday", "a winter holiday in the mountains"],
+        ["an adventure holiday", "an unusual, exciting holiday, possibly with some danger, e.g. rock climbing"],
+        ["a family holiday", "a holiday with activities for children as well as adults"],
+        ["a cruise", "a holiday where you sleep on a boat and travel from one place to another"],
+        ["a city break", "a short holiday where you visit a city"]
+      ],
+      "note": "We say go on a cruise."
+    },
+    {
+      "type": "explain",
+      "heading": "Booking online",
+      "text": "Many people **book** their holiday **accommodation** (a place where you stay) on the Internet. To **book online** you search for your **destination** (the place where you plan to travel) and the dates you want.",
+      "examples": [
+        { "text": "Many travellers prefer to **book** their holiday online.", "wrong": "take their holiday online" },
+        { "text": "Spain is a popular holiday **destination**." },
+        { "text": "Have you found any **accommodation** yet?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where to stay",
+      "text": "You can look for hotels or **B&Bs** (bed and breakfast: a small hotel where breakfast is included in the price). It is helpful to read the online **reviews** first. A **package holiday** includes the flight, the hotel room and sometimes meals.",
+      "examples": [
+        { "text": "This hotel has great **reviews** online. Five stars!", "note": "a review = a description written by people who have been there" },
+        { "text": "Here's a nice **B&B** in the countryside." },
+        { "text": "It was part of a **package holiday**, so the hotel was included in the price." },
+        { "text": "A popular option for a **weekend break** is to rent an apartment.", "note": "a weekend break = a short holiday during a weekend" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Renting a private apartment",
+      "text": "When you rent an apartment, you often **pick up** (collect) the keys from a neighbour. Then you may need the wi-fi **password**, and you may have questions about what the **listing** promised.",
+      "examples": [
+        { "text": "We **picked up** the keys from the neighbours." },
+        { "text": "We can't find the wi-fi **password**. Could you send it to us?" },
+        { "text": "The **listing** said that there was an **iron** in the kitchen." },
+        { "text": "It's very cold. Where do we **switch on** the **central heating**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words for a rented apartment",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["pick up", "collect"],
+        ["a password", "a secret group of letters and numbers for connecting to the wi-fi"],
+        ["a listing", "the written description of something to buy or rent"],
+        ["an iron", "a small machine that makes clothes smooth and flat"],
+        ["central heating", "a system that keeps a building warm"],
+        ["switch on", "make something start working"],
+        ["recommend", "say that something is good"],
+        ["nearby", "not far away"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*nearby* is an adjective or adverb (a nearby restaurant / there are cafes nearby), but *nearest* is the superlative: the nearest station."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the holiday types with their descriptions.",
+      "pairs": [
+        { "left": "a cruise", "right": "you sleep on a boat and travel from place to place" },
+        { "left": "a beach holiday", "right": "you stay near the sea" },
+        { "left": "a skiing holiday", "right": "a winter holiday in the mountains" },
+        { "left": "an adventure holiday", "right": "unusual and exciting, possibly with some danger" },
+        { "left": "a family holiday", "right": "there are activities for children as well as adults" },
+        { "left": "a city break", "right": "a short holiday visiting a city" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Shall we book somewhere for our weekend ___?",
+      "hint": "(one word - a short holiday)",
+      "answers": ["break"],
+      "explanation": "A weekend break is a short holiday during a weekend."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What about this hotel? It has great ___ online. Five stars!",
+      "hint": "(descriptions by people who stayed there)",
+      "answers": ["reviews"],
+      "explanation": "A review is a description of a hotel or restaurant written by people who have been there."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a B&B?",
+      "options": [
+        "a small hotel where breakfast is included in the price",
+        "a holiday that includes the flight and the hotel",
+        "a written description of a place to rent",
+        "a short holiday in a city"
+      ],
+      "answer": 0,
+      "explanation": "B&B = bed and breakfast: a small hotel where breakfast is included in the price."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Hans:* Have you found any ___ yet? *Paula:* Yes, I've booked a four-star hotel in the city centre.",
+      "hint": "(a place where you stay)",
+      "answers": ["accommodation"],
+      "explanation": "Accommodation is a place where you stay. It is uncountable: no ~~accommodations~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was part of a ___, so the hotel was included in the price.",
+      "hint": "(two words - flight + hotel together)",
+      "answers": ["package holiday", "package"],
+      "explanation": "A package holiday includes the flight, the hotel room and sometimes meals."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Many travellers prefer to ___ their holiday online, rather than on the phone.",
+      "options": ["book", "take", "pick", "switch"],
+      "answer": 0,
+      "explanation": "You book a holiday online: book = make a reservation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Spain is a popular holiday ___ among British holiday-makers.",
+      "hint": "(the place where you plan to travel)",
+      "answers": ["destination"],
+      "explanation": "A destination is a place where you plan to travel."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "a password", "right": "secret letters and numbers for the wi-fi" },
+        { "left": "a listing", "right": "the written description of a place to rent" },
+        { "left": "an iron", "right": "a machine that makes clothes smooth and flat" },
+        { "left": "central heating", "right": "a system that keeps a building warm" },
+        { "left": "nearby", "right": "not far away" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ renting a car, as public transport is not very good here.",
+      "hint": "(say that something is good)",
+      "answers": ["recommend"],
+      "explanation": "recommend = say that something is good."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ train station is a five minute walk away.",
+      "hint": "(near - superlative)",
+      "answers": ["nearest"],
+      "explanation": "We say the nearest station, not the ~~nearer~~ station."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The apartment is cold. Put the words in the right order.",
+      "words": ["Where", "do", "we", "switch on", "the central heating?"],
+      "answer": "Where do we switch on the central heating?",
+      "explanation": "switch on = make something start working."
+    },
+    {
+      "type": "true_false",
+      "statement": "When you arrive, you can pick out the keys from the reception desk.",
+      "answer": false,
+      "explanation": "When you arrive, you can pick up the keys from the reception desk. pick up = collect."
+    }
+  ]
+}

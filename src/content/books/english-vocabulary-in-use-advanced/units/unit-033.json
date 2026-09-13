@@ -1,0 +1,204 @@
+{
+  "number": 33,
+  "title": "Our endangered world",
+  "subtitle": "shrinking habitats, finite resources, sustainable development",
+  "summary": "Use the standard collocations of environmental English - endangered species, carbon emissions, finite resources, sustainable development - to write and speak precisely about threats to the planet.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Habitats and species under threat",
+      "text": "**Shrinking habitats** - the places where animals live and breed are getting smaller - are a threat to **biodiversity**, the variety of biological species. **Endangered species**, types of plant or animal in danger of no longer existing, need legal protection if they are to survive.",
+      "examples": [
+        { "text": "**Shrinking habitats** are a threat to **biodiversity**, in terms of both plants and animals." },
+        { "text": "**Endangered species** need legal protection if they are to survive." },
+        { "text": "These flowers are an **endangered species**, so it is illegal to pick them." }
+      ],
+      "note": "Habitat is countable; biodiversity is uncountable."
+    },
+    {
+      "type": "explain",
+      "heading": "Climate change and global warming",
+      "text": "Although some **climate change sceptics** disagree, most scientists believe **global warming** - the steady rise in average world temperatures - will increase. This will make **polar ice** melt, resulting in **rising sea levels**. **Carbon (dioxide) emissions** from the burning of **fossil fuels** contribute to the **greenhouse effect**.",
+      "examples": [
+        { "text": "**Climate change sceptics** do not believe that climate change is a serious issue." },
+        { "text": "Sea levels will rise if **global warming** continues." },
+        { "text": "**Carbon emissions** from cars and factories are a major problem." },
+        { "text": "Burning **fossil fuels** such as coal and oil causes a lot of pollution." }
+      ],
+      "note": "The greenhouse effect is the warming of the Earth's surface, where gases trap heat and redirect it back down."
+    },
+    {
+      "type": "explain",
+      "heading": "Pressure on resources",
+      "text": "Population growth **exerts severe pressure on** (a formal way of saying puts great pressure on) **finite resources** - limited resources that will eventually run out. The **ecological balance**, the balance of natural relationships, may be upset by uncontrolled **deforestation**.",
+      "examples": [
+        { "text": "Increasing population **exerts severe pressure on** economic resources." },
+        { "text": "We have to look after the **finite resources** of the planet." },
+        { "text": "If **deforestation** continues, there will be no forest left ten years from now." },
+        { "text": "The **ecological balance** is very delicate." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Projections and worst-case scenarios",
+      "text": "**Demographic projections** - forecasts about the population - suggest the world population will continue to grow **exponentially**, that is extremely rapidly, putting extra pressure on **depleting resources**. One of the **worst-case scenarios** is that there will be no tropical rainforests left by 2050.",
+      "examples": [
+        { "text": "**Demographic projections** suggest the world population will continue to grow **exponentially**." },
+        { "text": "Extra pressure is being put on **depleting resources**." },
+        { "text": "The **worst-case scenario** is a world choked by overpopulation and traffic gridlock." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Waste, water and untouched places",
+      "text": "**Waste disposal** - getting rid of waste - is an increasing problem, and **toxic waste** is **contaminating** many rivers and seas. Safe water may become a **precious commodity**, leading to issues of **water security**. Our hope is that **pristine environments** such as Antarctica can be preserved.",
+      "examples": [
+        { "text": "**Toxic waste** is **contaminating** many rivers and seas." },
+        { "text": "Safe water is becoming an increasingly **precious commodity**." },
+        { "text": "A lot of Patagonia is a **pristine environment**, perfectly clean and untouched." }
+      ],
+      "note": "Water security is the ability to ensure that a population has safe drinking water."
+    },
+    {
+      "type": "table",
+      "heading": "Phrases from the headlines",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["green credentials", "a reputation for positive support of the environment, and policies that reflect this"],
+        ["prophets of doom and gloom", "people who always make the most pessimistic predictions about the future"],
+        ["sustainable development", "development of industry which does not damage the environment and can continue over time"],
+        ["renewable energy", "energy produced using sun, wind or crops rather than fuels which cannot be replaced"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word formation",
+      "columns": ["Noun", "Verb", "Adjective", "Adverb"],
+      "rows": [
+        ["climate", "-", "climatic", "-"],
+        ["demography", "-", "demographic", "demographically"],
+        ["projection", "project", "projected", "-"],
+        ["sustainability", "sustain", "sustainable", "sustainably"],
+        ["contamination", "contaminate", "contaminated", "-"],
+        ["toxin", "-", "toxic", "toxically"],
+        ["depletion", "deplete", "depleted, depleting", "-"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "People cause damage to the environment, not ~~damages~~ - damage is uncountable here."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right to make environmental collocations.",
+      "pairs": [
+        { "left": "renewable", "right": "energy" },
+        { "left": "demographic", "right": "projections" },
+        { "left": "precious", "right": "commodity" },
+        { "left": "waste", "right": "disposal" },
+        { "left": "greenhouse", "right": "effect" },
+        { "left": "worst-case", "right": "scenario" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "These flowers are an endangered ___, so it is illegal to pick them.",
+      "hint": "(a type of plant or animal in danger)",
+      "answers": ["species"],
+      "explanation": "An endangered species is a type of plant or animal in danger of no longer existing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lot of wild animals have to survive in ___ habitats.",
+      "hint": "(getting smaller)",
+      "answers": ["shrinking"],
+      "explanation": "Shrinking habitats are places where animals live and breed which are decreasing in size."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lot of Patagonia is a ___ environment that has never been touched.",
+      "hint": "(perfectly clean and unspoilt)",
+      "answers": ["pristine"],
+      "explanation": "A pristine environment is a perfectly clean, untouched, unspoilt area."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have to look after the ___ resources of the planet because they will not last for ever.",
+      "hint": "(limited, they will run out)",
+      "answers": ["finite"],
+      "explanation": "Finite resources are limited resources that will eventually run out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If ___ continues, there will be no forest left ten years from now.",
+      "hint": "(cutting down of trees)",
+      "answers": ["deforestation"],
+      "explanation": "Deforestation is the unrestricted destruction or clearing of forests."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Burning ___ fuels such as coal and oil causes a lot of pollution.",
+      "hint": "(coal, oil, gas)",
+      "answers": ["fossil"],
+      "explanation": "Coal, oil and similar fuels are fossil fuels."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Increasing population ___ severe pressure on economic resources.",
+      "hint": "(formal: puts great pressure on)",
+      "answers": ["exerts", "exert"],
+      "explanation": "To exert severe pressure on something is the formal way of saying to put great pressure on it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which correction is right? 'Unless we adopt a policy of ~~attainable~~ development, we will damage the planet.'",
+      "options": ["sustainable development", "sustained development", "sustaining development", "sustenance development"],
+      "answer": 0,
+      "explanation": "Sustainable development does not damage the environment and can continue over a period of time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which correction is right? 'Politicians are always trying to improve their green ~~potentials~~ in the eyes of the voters.'",
+      "options": ["green credentials", "green certificates", "green qualifications", "green references"],
+      "answer": 0,
+      "explanation": "Green credentials are a reputation for supporting the environment, backed by policy."
+    },
+    {
+      "type": "true_false",
+      "statement": "Traffic and factories cause a lot of damages to the environment.",
+      "answer": false,
+      "explanation": "Damage is uncountable here: Traffic and factories cause a lot of damage to the environment."
+    },
+    {
+      "type": "true_false",
+      "statement": "Prophets of doom and gloom always make the most pessimistic predictions about the future.",
+      "answer": true,
+      "explanation": "Correct - the phrase is prophets of doom and gloom, not profits."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each item a threat to the environment or a positive response to environmental problems?",
+      "categories": ["Threat", "Positive response"],
+      "items": [
+        { "text": "toxic waste", "category": 0 },
+        { "text": "deforestation", "category": 0 },
+        { "text": "carbon emissions", "category": 0 },
+        { "text": "depleting resources", "category": 0 },
+        { "text": "renewable energy", "category": 1 },
+        { "text": "sustainable development", "category": 1 },
+        { "text": "legal protection for endangered species", "category": 1 },
+        { "text": "green credentials", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about population in order.",
+      "words": ["Demographic", "projections", "suggest", "the", "world", "population", "will", "grow", "exponentially"],
+      "answer": "Demographic projections suggest the world population will grow exponentially",
+      "explanation": "Demographic projections are forecasts about the population; to grow exponentially is to grow extremely rapidly."
+    }
+  ]
+}

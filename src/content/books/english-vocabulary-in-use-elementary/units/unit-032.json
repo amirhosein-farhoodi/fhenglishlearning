@@ -1,0 +1,170 @@
+{
+  "number": 32,
+  "title": "Travelling",
+  "subtitle": "platform, boarding card, a return ticket",
+  "summary": "Talk about trains, planes and cars - buy a ticket, find your platform, check in and hire a car.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Types of transport",
+      "columns": ["Where it travels", "Transport"],
+      "rows": [
+        ["On the road", "bus, car, taxi, bicycle / bike, motorbike / motorcycle"],
+        ["On rails", "train, underground"],
+        ["On water", "boat, ship"],
+        ["In the air", "(aero)plane, helicopter"]
+      ],
+      "note": "A **bicycle** is usually called a **bike**. A **motorbike** is also called a **motorcycle**."
+    },
+    {
+      "type": "explain",
+      "heading": "Useful travel words",
+      "text": "You need a **map** to find the way and a **timetable** to see when trains and buses go. You need a **passport** to travel to another country, and you carry your **luggage** [bags and suitcases]. At the airport you go through **customs**.",
+      "examples": [
+        { "text": "Can I have a **single** ticket to Barcelona, please?", "note": "single = one way only" },
+        { "text": "Can I have a **return** ticket to Barcelona, please?", "note": "return = there and back again" },
+        { "text": "I'd like to **book** a seat **in advance**.", "note": "book = reserve; in advance = before the day" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "By train",
+      "text": "Trains arrive at and leave from a **platform**. **Departs** means the same as **leaves**, but it is more formal. On a long train there is often a **restaurant car**.",
+      "examples": [
+        { "text": "The train arriving at **platform** 3 is the 16:50 train to Paris." },
+        { "text": "The Edinburgh train **departs** from platform 6." },
+        { "text": "Is there a **restaurant car** on this train?" },
+        { "text": "*A:* Do I have to **change trains** for Toulouse? *B:* No, it's a **direct** train.", "note": "change trains = get off one train and get onto another" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "By plane",
+      "text": "At the airport you **check in** first. Then you give your **boarding card** to the **flight attendant** when you get on the plane. The plane **takes off** [leaves the ground] and later it **lands**.",
+      "examples": [
+        { "text": "You have to **check in** two hours before the plane **takes off**." },
+        { "text": "You can **check in online**." },
+        { "text": "**Have a good flight!**" },
+        { "text": "The plane **lands** in New York at 14:30. After landing you **go through customs**." },
+        { "text": "Nobody **checked** my passport.", "wrong": "controlled my passport" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "By car",
+      "text": "You can **hire** a car for a few days or a week [pay money to use it]. You **fill it up** with **petrol**. If you take somebody somewhere in your car, you **give them a lift**.",
+      "examples": [
+        { "text": "We **hired** a car for a week." },
+        { "text": "We had to **fill it up** with **petrol**." },
+        { "text": "Can I **give you a lift**? I'm going into town." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *Was the journey long?* - not ~~Was the travel long?~~ We do not use *travel* for one trip from A to B."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each travel word with its meaning.",
+      "pairs": [
+        { "left": "land", "right": "planes do this at airports" },
+        { "left": "direct", "right": "you do not have to change train or plane" },
+        { "left": "restaurant car", "right": "a place to eat on a train" },
+        { "left": "ship", "right": "it travels on water, like the Titanic" },
+        { "left": "timetable", "right": "it says when trains depart and arrive" },
+        { "left": "platform", "right": "where you stand when you are waiting for a train" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My bags and suitcases are very heavy. I have a lot of ___.",
+      "hint": "(one word)",
+      "answers": ["luggage"],
+      "explanation": "Luggage = your bags and suitcases."
+    },
+    {
+      "type": "true_false",
+      "statement": "A single ticket takes you to a place and back again.",
+      "answer": false,
+      "explanation": "A return ticket takes you to a place and back again. A single ticket only takes you there."
+    },
+    {
+      "type": "true_false",
+      "statement": "At customs, people check what you bring into the country.",
+      "answer": true,
+      "explanation": "Correct. You go through customs when you arrive in a country."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these happens at the beginning of a journey by plane?",
+      "options": ["The plane takes off.", "The plane lands.", "You go through customs.", "You get off the plane."],
+      "answer": 0,
+      "explanation": "A plane takes off at the beginning of a journey and lands at the end."
+    },
+    {
+      "type": "true_false",
+      "statement": "You need a boarding card to get off a plane.",
+      "answer": false,
+      "explanation": "You need a boarding card to get on a plane."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to Madrid on Monday and coming home on Friday, so I need a ___ ticket.",
+      "hint": "(one word)",
+      "answers": ["return"],
+      "explanation": "A return ticket takes you there and back again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You have to ___ two hours before the plane takes off.",
+      "hint": "(two words)",
+      "answers": ["check in"],
+      "explanation": "You check in at the airport, or you can check in online."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where does each kind of transport travel?",
+      "categories": ["On the road", "On water", "In the air"],
+      "items": [
+        { "text": "taxi", "category": 0 },
+        { "text": "motorbike", "category": 0 },
+        { "text": "bus", "category": 0 },
+        { "text": "bicycle", "category": 0 },
+        { "text": "ship", "category": 1 },
+        { "text": "boat", "category": 1 },
+        { "text": "helicopter", "category": 2 },
+        { "text": "aeroplane", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are on the train to Toulouse and you are not sure about your journey. Ask the guard.",
+      "words": ["Do", "I", "have to", "change trains", "for Toulouse?"],
+      "answer": "Do I have to change trains for Toulouse?",
+      "explanation": "Change trains = get off one train and get onto another."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't take our own car to Italy. We ___ a car for a week.",
+      "hint": "(past tense; = paid to use)",
+      "answers": ["hired"],
+      "explanation": "You hire a car when you pay to use it for a short time. Hiring a car is not the same as buying one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going into town in my car. Can I give you a ___?",
+      "hint": "(one word)",
+      "answers": ["lift"],
+      "explanation": "If you give someone a lift, they travel in your car."
+    },
+    {
+      "type": "true_false",
+      "statement": "We flew to Tokyo for twelve hours. Was the travel long?",
+      "answer": false,
+      "explanation": "Was the journey long? We use journey, not travel, for one trip from one place to another."
+    }
+  ]
+}

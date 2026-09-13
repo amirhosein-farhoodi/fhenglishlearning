@@ -1,0 +1,240 @@
+{
+  "number": 24,
+  "title": "Dinner's on me: entertaining and eating out",
+  "subtitle": "split the bill, impeccable service, take pot luck",
+  "summary": "Handle a restaurant meal or a dinner at home in natural English - offering to pay, judging the service, stating your food preferences and playing the host.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Paying the bill",
+      "text": "If you **split the bill**, each person pays for themselves or the bill is divided equally. To say you are paying, use the informal **it's on me** or **let me get this**; the formal version is **we'd like you to be our guest**. And to **wine and dine** someone is to invite them out to good restaurants.",
+      "examples": [
+        { "text": "We'll **split the bill**, shall we?" },
+        { "text": "Lunch is **on me** today." },
+        { "text": "**Let me get this**. You can pay next time." },
+        { "text": "I was **wined and dined** every night by the New York office." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Inviting someone: informal and formal",
+      "left": {
+        "label": "Informal",
+        "examples": [
+          "Fancy coming with us for lunch tomorrow?",
+          "Put your credit card away - dinner's **on me**.",
+          "**Let me get this**."
+        ]
+      },
+      "right": {
+        "label": "More formal",
+        "examples": [
+          "Would you like to **join us** for dinner at the City Plaza hotel?",
+          "We'd like you to **be our guest**.",
+          "Do you have any particular **dietary requirements**?"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Describing service in a restaurant",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["impeccable", "perfect, cannot be faulted"],
+        ["sluggish", "rather slow"],
+        ["courteous", "polite"],
+        ["overbearing", "too confident, too inclined to tell people what to do"],
+        ["sullen", "bad-tempered, unwilling to smile"],
+        ["brusque", "quick and rude"],
+        ["off-putting", "makes you feel you do not want to go there again"],
+        ["go out of their way", "do everything possible to help"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two restaurants compared",
+      "text": "A customer compares a new Italian restaurant with an old one: 'In the Bella Roma, the service was **impeccable** and quick; at the Casa Italia it's always a bit **sluggish**. In the new place the waiters are **courteous** and friendly without being **overbearing**.'",
+      "examples": [
+        { "text": "In the other place they tend to be **sullen** and the service is rather **brusque**, which I find very **off-putting**." },
+        { "text": "But at Bella Roma they'll **go out of their way** to give you what you want." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Food preferences",
+      "text": "Someone with **a sweet tooth** loves sweet things. Someone watching their weight has to **count the calories** or be **calorie-conscious**. A **portion** is the amount of a food served to one person. **Savoury** means salty in flavour, or flavoured with herbs - the opposite of sweet. A **fussy eater** has very particular demands, and someone **teetotal** never drinks alcohol.",
+      "examples": [
+        { "text": "I have **a sweet tooth** and can never say no to cakes or biscuits." },
+        { "text": "I have to **count the calories** these days." },
+        { "text": "I'll just have a small **portion** of dessert, please - I don't want to **overdo it**.", "note": "overdo it = eat or drink too much" },
+        { "text": "I like to end the meal with something **savoury**, like cheese." },
+        { "text": "Ben's a bit of a **fussy eater**." },
+        { "text": "No, thanks, I won't have wine. I'm **teetotal**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Entertaining at home",
+      "columns": ["Expression", "What it means"],
+      "rows": [
+        ["take pot luck", "eat what your hosts are eating, nothing special"],
+        ["Shall I bring a bottle?", "usually means a bottle of wine"],
+        ["a dinner party", "a rather formal dinner with guests"],
+        ["an informal get-together", "an informal group meeting for a meal or drinks"],
+        ["seconds", "a second helping of a dish (note the plural)"],
+        ["Say when.", "tell me when I have served or poured enough"],
+        ["nibbles", "nuts, crisps and similar things eaten before a meal"],
+        ["grab a bite to eat", "have a quick meal"],
+        ["a takeaway", "a ready-cooked meal bought to take home"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Seconds is always plural - Does anyone want seconds? - and the answer to Say when is simply When!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "When we eat out as a group, we usually ___ the bill.",
+      "hint": "(each pays a share)",
+      "answers": ["split"],
+      "explanation": "To split the bill is to divide it equally, or for each person to pay for themselves."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put your credit card away. Dinner's ___ me.",
+      "hint": "(informal: I'm paying)",
+      "answers": ["on"],
+      "explanation": "Dinner's on me is the informal way of saying I am paying for you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Visitors to the company's head office in London are always ___ and dined at the best restaurants.",
+      "hint": "(two rhyming words)",
+      "answers": ["wined"],
+      "explanation": "To wine and dine someone is to invite them out to good restaurants."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the more formal way of inviting someone to lunch?",
+      "options": [
+        "Would you like to join us for lunch tomorrow?",
+        "Fancy coming with us for lunch tomorrow?",
+        "Let me get this one.",
+        "Shall I bring a bottle?"
+      ],
+      "answer": 0,
+      "explanation": "Join us is the formal version; fancy coming is informal."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the formal way of offering to pay for someone at the theatre?",
+      "options": [
+        "I'd like you to be my guest.",
+        "Let me get this.",
+        "It's on me.",
+        "We'll split the bill."
+      ],
+      "answer": 0,
+      "explanation": "Be our guest is the formal way of saying we will pay."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No wine for me, thanks. I'm ___.",
+      "hint": "(an adjective: never drinks alcohol)",
+      "answers": ["teetotal"],
+      "explanation": "Someone teetotal never drinks alcohol."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't really like sweet things - I haven't got a sweet ___.",
+      "hint": "(an idiom)",
+      "answers": ["tooth"],
+      "explanation": "To have a sweet tooth is to love sweet things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Before I book the restaurant, do you have any particular dietary ___?",
+      "hint": "(formal: things you can't eat)",
+      "answers": ["requirements"],
+      "explanation": "Dietary requirements are special needs or things someone cannot eat; it is a formal phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Just a small ___ for me, please. I don't want to overdo it.",
+      "hint": "(the amount served to one person)",
+      "answers": ["portion"],
+      "explanation": "A portion is the amount of a particular food that is served to one person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sasha is such a ___ eater. It's difficult to find things she likes.",
+      "hint": "(very particular demands)",
+      "answers": ["fussy"],
+      "explanation": "A fussy eater has very particular demands when eating."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's become very careful about how many calories she's eating. How would you say that?",
+      "options": [
+        "She's become very calorie-conscious.",
+        "She's become very off-putting.",
+        "She's become very overbearing.",
+        "She's become very teetotal."
+      ],
+      "answer": 0,
+      "explanation": "To be calorie-conscious is to be careful how many calories you eat; you can also say she's counting the calories."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with the word from the unit that contrasts with it.",
+      "pairs": [
+        { "left": "a sweet dish", "right": "a savoury dish" },
+        { "left": "a friendly waiter", "right": "a sullen waiter" },
+        { "left": "rude staff", "right": "courteous staff" },
+        { "left": "quick service", "right": "sluggish service" },
+        { "left": "dreadful service", "right": "impeccable service" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each meaning with the expression used at home.",
+      "pairs": [
+        { "left": "eat whatever your hosts are eating, nothing special", "right": "take pot luck" },
+        { "left": "tell me when I've poured enough", "right": "say when" },
+        { "left": "have a quick meal", "right": "grab a bite to eat" },
+        { "left": "nuts and crisps before the meal", "right": "nibbles" },
+        { "left": "another portion of what you have just eaten", "right": "seconds" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A dinner party and an informal get-together are exactly the same thing.",
+      "answer": false,
+      "explanation": "A dinner party is a rather formal dinner with guests; a get-together is an informal meeting for a meal or drinks."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each expression about eating out, or about entertaining at home?",
+      "categories": ["Eating out", "At home"],
+      "items": [
+        { "text": "split the bill", "category": 0 },
+        { "text": "impeccable service", "category": 0 },
+        { "text": "wined and dined", "category": 0 },
+        { "text": "take pot luck", "category": 1 },
+        { "text": "Shall I bring a bottle?", "category": 1 },
+        { "text": "help yourself to some nibbles", "category": 1 },
+        { "text": "Does anyone want seconds?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this restaurant review sentence in order.",
+      "words": ["They'll", "go", "out", "of", "their", "way", "to", "give", "you", "what", "you", "want"],
+      "answer": "They'll go out of their way to give you what you want",
+      "explanation": "To go out of your way is to do everything possible to help."
+    }
+  ]
+}

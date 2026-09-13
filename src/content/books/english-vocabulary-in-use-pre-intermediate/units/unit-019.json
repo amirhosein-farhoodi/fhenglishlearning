@@ -1,0 +1,190 @@
+{
+  "number": 19,
+  "title": "Money",
+  "subtitle": "currency, cashpoint, owe, afford, save up, deposit",
+  "summary": "Talk about money: notes and coins, your bank account, loans and what you can afford.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Currency",
+      "text": "The **currency** is the type of money used in a country. In the UK the currency is **sterling** (pounds); in America it is the **dollar**; in much of Europe it's the **euro**.",
+      "examples": [
+        { "text": "Sterling is the **currency** of the UK." },
+        { "text": "How many euros do you get for a hundred **dollars**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Notes and coins",
+      "columns": ["Notes (paper)", "Coins (metal)"],
+      "rows": [
+        ["ten pounds, twenty euros", "fifty pence, usually spoken as fifty p"],
+        ["a ten-pound note", "a fifty-pence piece"],
+        ["a twenty-euro note", "a one-pound coin"]
+      ],
+      "note": "When the number and the money word come before a noun, we use no -s: a ten-pound note, not ~~a ten-pounds note~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Managing your money",
+      "text": "You keep your money in a **bank account**. If your account is **in credit**, you have money in it. A **cashpoint** is a machine where you can get money, and **cash** is money in the form of notes and coins. To **check** your account means to look at the details of it.",
+      "examples": [
+        { "text": "I've had a **bank account** for a few years now, and I make sure my account is always **in credit**." },
+        { "text": "I go to the **cashpoint** once a week, so I always have some **cash** with me." },
+        { "text": "I **check** my account online once a week to see how much money I've got." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Money problems",
+      "text": "A **loan** is money you borrow, and you have to **pay** it **back**. **Fees** are money you pay to use something or for a service. If you **waste** money you use it badly, and if you **owe** money you have to pay it back.",
+      "examples": [
+        { "text": "When I went to university, I had to get a student **loan** to pay my **fees**." },
+        { "text": "I had to make sure I didn't **waste** money, but by the time I finished my degree I **owed** a lot." },
+        { "text": "I don't have to **pay** it **back** until I get a job and I'm **earning** a reasonable **amount** of money.", "note": "earn = receive money for the work you do; an amount = how much" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Saving and affording",
+      "text": "If you **save up** for something, you keep money to buy it in the future. If you **can't afford** something, you don't have enough money to buy it.",
+      "examples": [
+        { "text": "At the moment I'm **saving up** for a new laptop." },
+        { "text": "I'd love to have a car as well, but I **can't afford** it." },
+        { "text": "I've been putting money into my bank **account** every month." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Accommodation",
+      "text": "**Accommodation** means the places where you live or stay. A **deposit** is money you pay for something you are going to use, and you get it back at the end. Something that is **good value for money** is good for the amount you pay, and if someone **charges** you, they ask you to pay an amount of money.",
+      "examples": [
+        { "text": "This year I'm **renting** a flat with three friends of mine." },
+        { "text": "We had to pay one month's **rent** as a **deposit**." },
+        { "text": "It's a nice place, quite **good value for money**." },
+        { "text": "The **landlord** isn't **charging** us to use his garage." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "rent and hire",
+      "left": {
+        "label": "rent",
+        "text": "You pay to use something for a long period of time. The noun **rent** is the amount you pay.",
+        "examples": [
+          "We **rent** a flat near the station.",
+          "The **rent** is 400 pounds per month."
+        ]
+      },
+      "right": {
+        "label": "hire",
+        "text": "You pay to use something for a short period of time.",
+        "examples": [
+          "I **hired** a bike for the day.",
+          "We **hired** a car when we were on holiday."
+        ]
+      },
+      "note": "Both verbs are used with cars: we rented / hired a car on holiday."
+    },
+    {
+      "type": "tip",
+      "text": "Owe and own look similar but are very different: if you owe money, you have to pay it back; if you own something, it belongs to you."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the right word.",
+      "pairs": [
+        { "left": "A flat, usually round piece of metal used as money", "right": "a coin" },
+        { "left": "Money you borrow from a bank", "right": "a loan" },
+        { "left": "Money you pay for a professional service", "right": "a fee" },
+        { "left": "Money in the form of notes or coins", "right": "cash" },
+        { "left": "A machine where you can get money", "right": "a cashpoint" },
+        { "left": "The type of money used in a country", "right": "a currency" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If you are in credit, you have money in your bank account.",
+      "answer": true,
+      "explanation": "Correct. In credit = having money in the account."
+    },
+    {
+      "type": "true_false",
+      "statement": "A five-pound note is worth less than a fifty-pence piece.",
+      "answer": false,
+      "explanation": "A five-pound note is worth much more: five pounds is 500 pence."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you waste money, you use it well.",
+      "answer": false,
+      "explanation": "If you waste money, you use it badly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's ___ 300 pounds a week in his job.",
+      "hint": "(= he's getting)",
+      "answers": ["earning"],
+      "explanation": "Earn = receive money for the work you do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ the money: she bought things she never used.",
+      "hint": "(= used it badly)",
+      "answers": ["wasted"],
+      "explanation": "Waste money = use it badly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd like to come with you, but I can't ___ to go.",
+      "hint": "(= I don't have enough money)",
+      "answers": ["afford"],
+      "explanation": "Can't afford something = not have enough money for it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We looked at the bill and saw that he had ___ us 25 pounds.",
+      "hint": "(= asked us to pay)",
+      "answers": ["charged"],
+      "explanation": "Charge someone = ask them to pay an amount of money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've got to pay back a lot of money: I ___ the bank 2,000 pounds.",
+      "hint": "(one word)",
+      "answers": ["owe"],
+      "explanation": "Owe money = have to pay it back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm nearly 20 now, and I've been ___ for a car for the last two years.",
+      "hint": "(two words - keeping money for the future)",
+      "answers": ["saving up", "saving"],
+      "explanation": "Save up for something = keep money to buy it in the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I try to put exactly the same ___ into my bank account every month.",
+      "hint": "(= how much)",
+      "answers": ["amount"],
+      "explanation": "An amount is how much money there is: a reasonable amount, a large amount."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We only need a car for one day. We could ___ one.",
+      "options": ["hire", "owe", "charge", "afford"],
+      "answer": 0,
+      "explanation": "We hire something for a short period of time, and rent something for a long period."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to explain when you pay a student loan back.",
+      "words": ["I", "don't", "have", "to", "pay", "it", "back", "until", "I", "get", "a", "job."],
+      "answer": "I don't have to pay it back until I get a job.",
+      "explanation": "Pay back = give the money you owe to the bank or the person who lent it."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "number": 33,
+  "title": "Science and technology",
+  "subtitle": "cloning, ergonomics, insert, utilise, rotate",
+  "summary": "Name the newer branches of science and use the formal verbs that scientists and technicians use every day.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Traditional and new sciences",
+      "text": "You probably know the traditional branches of science: **chemistry**, **physics**, **botany** and **zoology**. A number of fields have been established much more recently, and each one has its own name and its own vocabulary.",
+      "examples": [
+        { "text": "She studied **botany** at university and now works in **genetic engineering**." },
+        { "text": "**Stem cell research** is one of the most promising fields in medicine." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "New sciences and what they study",
+      "columns": ["Field", "What it does"],
+      "rows": [
+        ["genetic engineering", "works with the genetic material (DNA) of living things to alter features; GM (genetically modified) foods are grown in some parts of the world"],
+        ["ergonomics", "studies the design of physical working spaces and how people interact with them"],
+        ["molecular biology", "studies the structure and function of the molecules associated with living things"],
+        ["voice technology", "enables machines to interpret speech, e.g. voice-to-text software"],
+        ["stem cell research", "studies the use of human cells to treat diseases and injury and to repair the body"],
+        ["cloning", "the creation of exact copies of plants or animals with the same genes as the originals"],
+        ["hydroponics", "the science of growing plants without using soil"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Useful words from those definitions",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["alter", "change, usually slightly"],
+        ["features", "typical qualities or important parts"],
+        ["interact with", "communicate with or react to"],
+        ["structure", "the way the parts of a system are organised"],
+        ["function", "purpose"],
+        ["molecule", "a basic chemical unit, a group of atoms"],
+        ["enable", "make possible"],
+        ["interpret", "decide the intended meaning of"],
+        ["cell", "the smallest basic part of a plant or animal"],
+        ["creation", "making something new that did not exist before"],
+        ["soil", "the top layer of the earth's surface, in which plants grow"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Everyday technology",
+      "columns": ["Device", "What it is for"],
+      "rows": [
+        ["smartphone", "a phone that also takes videos, runs apps and goes online"],
+        ["tablet", "something like a laptop with a touch screen, for films and ebooks"],
+        ["3D TV", "a television you watch with special glasses for a realistic effect"],
+        ["high-definition (HD) camcorder", "a video camera that produces really sharp movies"],
+        ["satnav / GPS", "satellite navigation, so you never lose your way"],
+        ["digital photo frame", "a screen that shows your photos any time you want"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs in the laboratory",
+      "text": "Note the collocations. To **experiment with** something is to try it out; **utilise** is a formal word for use. Lights **flash**, wheels **rotate** (turn), and you pull a **lever** - a bar or handle that controls a machine.",
+      "examples": [
+        { "text": "He **experimented with** different materials before **utilising** the most suitable one." },
+        { "text": "The technician pressed a button and lights started **flashing**." },
+        { "text": "When she pulled the large **lever**, the wheel began to **rotate**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More scientific verbs",
+      "text": "To **dissect** is to cut open a dead body or plant to study its parts; to **extract** is to take out. Chemicals **react** with each other when **combined**. After **analysing** a problem you **conclude** something, and a **flaw** is a fault, mistake or weakness.",
+      "examples": [
+        { "text": "The zoologist **dissected** the animal and **extracted** its organs." },
+        { "text": "When they were **combined**, the two chemicals **reacted** violently with each other." },
+        { "text": "After **analysing** the problem, she **concluded** that there was a **flaw** in the theory." },
+        { "text": "**Insert** the disk into the DVD drive to **install** the software, or visit the website to download it.", "note": "insert = put in; install = make ready to use" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Utilise*, *insert*, *extract* and *rotate* are the formal technical twins of *use*, *put in*, *take out* and *turn*. Use them in a report, not in conversation."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each scientist's description with the field they work in.",
+      "pairs": [
+        { "left": "We grow the plants in liquids, without using soil.", "right": "hydroponics" },
+        { "left": "The software interprets your speech and turns it into text.", "right": "voice technology" },
+        { "left": "We study workplaces and how people interact with them.", "right": "ergonomics" },
+        { "left": "We make an exact copy of an animal with the same genes.", "right": "cloning" },
+        { "left": "We study how human cells can repair the body.", "right": "stem cell research" },
+        { "left": "I study the structure of the molecules in living organisms.", "right": "molecular biology" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many people refuse to eat genetically ___ foods. They consider GM foods to be unnatural.",
+      "hint": "(one word beginning with m)",
+      "answers": ["modified"],
+      "explanation": "GM stands for genetically modified: the field is genetic engineering."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "By manipulating DNA, we can ___ hereditary features.",
+      "hint": "(one verb - change slightly)",
+      "answers": ["alter", "change"],
+      "explanation": "Alter means change, usually slightly. This is genetic engineering."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We're interested in workplaces and how people ___ with their working environment.",
+      "hint": "(one verb)",
+      "answers": ["interact"],
+      "explanation": "Interact with means communicate with or react to. The field is ergonomics."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'I keep losing my way and I'm not good at reading maps.' What does this person need?",
+      "options": ["a satnav", "a digital photo frame", "a 3D TV", "a tablet"],
+      "answer": 0,
+      "explanation": "A satnav (satellite navigation, or GPS) tells you where to go."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'My old camcorder doesn't produce really sharp movies.' What does this person need?",
+      "options": [
+        "a high-definition camcorder",
+        "a smartphone",
+        "a digital photo frame",
+        "a satnav"
+      ],
+      "answer": 0,
+      "explanation": "High-definition (HD) equipment produces a much sharper picture."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'I want something like a laptop with a touch screen that I can watch films on or read ebooks.' What does this person need?",
+      "options": ["a tablet", "a 3D TV", "a camcorder", "a lever"],
+      "answer": 0,
+      "explanation": "A tablet is a flat computer with a touch screen."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with its ending.",
+      "pairs": [
+        { "left": "These chemicals", "right": "react with each other." },
+        { "left": "If you pull", "right": "that lever, it starts the machine." },
+        { "left": "The zoologist extracted", "right": "the organs from the animal." },
+        { "left": "When you press", "right": "that button, it turns the printer on." },
+        { "left": "They experimented", "right": "with different liquids." },
+        { "left": "I believe there is a flaw", "right": "in the theory." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The wheel began to ___ very quickly.",
+      "hint": "(formal scientific word for turn)",
+      "answers": ["rotate"],
+      "explanation": "Rotate is the formal technical word for turn."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ the disk to install the software.",
+      "hint": "(formal scientific word for put in)",
+      "answers": ["insert"],
+      "explanation": "Insert is the formal technical word for put in; install means make ready to use."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You should ___ the strongest material.",
+      "hint": "(formal scientific word for use)",
+      "answers": ["utilise"],
+      "explanation": "Utilise is the formal technical word for use."
+    },
+    {
+      "type": "true_false",
+      "statement": "We analysed the problem and concluded that it was a computer virus.",
+      "answer": true,
+      "explanation": "Correct. You analyse a problem and then conclude something from your analysis."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe a chemistry experiment.",
+      "words": ["When", "they", "were", "combined,", "the two chemicals", "reacted", "violently", "with each other."],
+      "answer": "When they were combined, the two chemicals reacted violently with each other.",
+      "explanation": "You combine chemicals, and they react with each other."
+    }
+  ]
+}

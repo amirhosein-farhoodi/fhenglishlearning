@@ -1,0 +1,201 @@
+{
+  "number": 52,
+  "title": "Illness: feeling under the weather",
+  "subtitle": "off-colour, come down with, on the mend",
+  "summary": "Use the everyday idioms English speakers really use for minor illness - from feeling under the weather and coming down with flu to being back on your feet again.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Feeling unwell: four informal idioms",
+      "text": "These all mean 'not well, but not seriously ill'. To look **off-colour** is to look pale and unwell. To feel **out of sorts** is to feel slightly unwell and slightly low. To feel **under the weather** is the commonest of all - mildly ill, enough to stay at home. And **poorly** is a gentle, rather homely word for ill, often used of children.",
+      "examples": [
+        { "text": "*A:* You look a bit **off-colour** today. Are you all right? *B:* I'm just feeling a bit **out of sorts**, it's nothing to worry about." },
+        { "text": "I was feeling a bit **under the weather**, so I stayed at home yesterday." },
+        { "text": "Katy's been feeling **poorly** for a while." }
+      ],
+      "note": "Say under the weather, not ~~out of the weather~~, and out of sorts, not ~~off the sorts~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Catching things and fighting them off",
+      "text": "To **fight off** an illness is to try to get rid of it. To **go down with** something is to catch it, usually a non-serious illness - but we normally say **come down with** when talking about ourselves. For longer-term problems we use **suffer from**.",
+      "examples": [
+        { "text": "I'm **fighting off** a cold at the moment." },
+        { "text": "Rani isn't in today; she's **gone down with** flu." },
+        { "text": "I've **come down with** a dreadful cold." },
+        { "text": "Harry **suffers from** hay fever and sneezes a lot if he's near grass or flowers.", "wrong": "suffers of hay fever" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "hurt and ache",
+      "left": {
+        "label": "hurt",
+        "text": "Gives pain caused by an injury. As a noun, hurt means emotional pain.",
+        "examples": [
+          "My arm **hurts** where I banged it against the car door.",
+          "The break-up of their relationship caused them both deep **hurt**."
+        ]
+      },
+      "right": {
+        "label": "ache",
+        "text": "A persistent low-level pain. A physical pain can be a dull, nagging or throbbing **ache**, and it forms compounds: backache, headache, toothache.",
+        "examples": [
+          "My back **aches** after all that digging yesterday.",
+          "Maria has **backache** after carrying that heavy suitcase."
+        ]
+      },
+      "note": "Two fixed expressions, always in this order: the usual aches and pains (not ~~pains and aches~~) for minor problems, and cuts and bruises (not ~~bruises and cuts~~) for minor injuries."
+    },
+    {
+      "type": "table",
+      "heading": "Kinds of physical discomfort",
+      "columns": ["Expression", "What it feels like"],
+      "rows": [
+        ["sting", "a sudden, burning pain - My hand's been stinging ever since I touched that plant."],
+        ["throb", "beat with pain - My head is throbbing."],
+        ["a stiff neck", "pain and difficulty in moving your neck round"],
+        ["twist your ankle", "injure it by turning it suddenly"],
+        ["dizzy", "a feeling that you are spinning round and can't balance"],
+        ["feverish", "with a high temperature or fever"],
+        ["shivery / hot and cold", "shaking slightly, usually because of a fever"],
+        ["nauseous", "feeling that you want to vomit"],
+        ["trembling", "shaking all over"],
+        ["bunged up", "blocked - informal, used of the nose"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sleepless nights and other complaints",
+      "text": "Notice how these words work in real sentences. A **sleepless night** is one without much sleep, and if your head is **throbbing** it is beating with pain, so a painkiller is the answer.",
+      "examples": [
+        { "text": "I've had a lot of **sleepless nights** recently." },
+        { "text": "She **tripped** on the uneven pavement and **twisted her ankle**." },
+        { "text": "I had a terrible **nauseous** feeling after taking the medicine, but it passed." },
+        { "text": "My nose is all **bunged up** today with this horrible cold." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Getting better",
+      "text": "To **get over** an illness is to recover from it, usually a minor one. **Recover from** is used for more serious illnesses. To be **on the mend** is to be getting better and heading back towards normal. To be **over the worst** is to be past the most difficult period, though still quite ill. To be **back on your feet again** is to be fully healthy once more.",
+      "examples": [
+        { "text": "I had a virus last week, but I **got over** it quite quickly." },
+        { "text": "Jo's **recovering from** a major operation." },
+        { "text": "Dan felt terrible last week, but he's **on the mend** now." },
+        { "text": "It's taking Hania some time to recover, but she's **over the worst** now." },
+        { "text": "She'll be **back on her feet again** soon." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Over the worst still means quite ill; on the mend means nearly normal; back on your feet means completely better."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each idiom with its meaning.",
+      "pairs": [
+        { "left": "under the weather", "right": "slightly unwell, not seriously ill" },
+        { "left": "come down with something", "right": "catch a non-serious illness" },
+        { "left": "fight off a cold", "right": "try to get rid of it" },
+        { "left": "on the mend", "right": "getting better after being ill" },
+        { "left": "back on your feet again", "right": "fully healthy once more" },
+        { "left": "suffer from something", "right": "have a long-term health problem" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I feel a bit under the ___ today, but I'm sure I'll be fine tomorrow.",
+      "hint": "(the idiom for mildly unwell)",
+      "answers": ["weather"],
+      "explanation": "Under the weather means slightly unwell - never ~~out of the weather~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nadja, I won't be in today, I've ___ with a cold.",
+      "hint": "(two words: caught, talking about yourself)",
+      "answers": ["come down", "gone down"],
+      "explanation": "We usually say come down with, not go down with, when talking about ourselves."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm trying to ___ the flu, but nothing seems to help.",
+      "hint": "(two words: get rid of)",
+      "answers": ["fight off"],
+      "explanation": "To fight off an illness is to try to get rid of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Hello, Dan, good to see you back on your ___ again.",
+      "hint": "(fully healthy again)",
+      "answers": ["feet"],
+      "explanation": "To be back on your feet again is to be completely well once more."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm OK. I'm over the ___ now. I still feel bad, but I should be out of hospital within a week.",
+      "hint": "(past the most difficult period)",
+      "answers": ["worst"],
+      "explanation": "Over the worst suggests you are improving but still quite ill."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I used to ___ a dust allergy, but I don't think I do any more.",
+      "hint": "(two words: have a long-term problem)",
+      "answers": ["suffer from"],
+      "explanation": "You suffer from a long-term problem - suffer from, never ~~suffer of~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My nose was all ___ up, so I got a spray from the chemist.",
+      "hint": "(informal: blocked)",
+      "answers": ["bunged"],
+      "explanation": "Bunged up is an informal way of saying blocked, used about the nose."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I felt as if my head was spinning, so I went and lay down. I was very ___ .",
+      "hint": "(unable to balance)",
+      "answers": ["dizzy"],
+      "explanation": "Dizzy is the feeling that you are spinning round and cannot balance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I got a ___ neck from driving for a long time in an awkward position.",
+      "hint": "(hard to move round)",
+      "answers": ["stiff"],
+      "explanation": "A stiff neck gives you pain and difficulty in moving your neck round."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The smell of paint always made her feel that she wanted to vomit.' Which word says this best?",
+      "options": ["nauseous", "feverish", "shivery", "throbbing"],
+      "answer": 0,
+      "explanation": "Nauseous is the feeling that you want to vomit."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mum's feeling fine, apart from the usual pains and aches.",
+      "answer": false,
+      "explanation": "The fixed expression is the usual aches and pains, in that order. The same goes for cuts and bruises."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression describe health improving or health going wrong?",
+      "categories": ["Getting better", "Feeling ill"],
+      "items": [
+        { "text": "be over the worst", "category": 0 },
+        { "text": "be on the mend", "category": 0 },
+        { "text": "be back on your feet again", "category": 0 },
+        { "text": "get over it", "category": 0 },
+        { "text": "suffer from", "category": 1 },
+        { "text": "come down with", "category": 1 },
+        { "text": "under the weather", "category": 1 },
+        { "text": "out of sorts", "category": 1 }
+      ]
+    }
+  ]
+}

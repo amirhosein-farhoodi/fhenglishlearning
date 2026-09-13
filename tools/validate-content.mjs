@@ -99,6 +99,27 @@ function validateUnit(f, u, expectedNumber, bookTitles) {
   if (u.passScore !== undefined && !(Number.isInteger(u.passScore) && u.passScore >= 1 && u.passScore <= 100))
     err(f, 'passScore must be an integer 1-100')
 
+  if (u.media !== undefined) {
+    if (!Array.isArray(u.media) || u.media.length === 0) err(f, 'media must be a non-empty array when present')
+    else {
+      const seen = new Set()
+      u.media.forEach((m, i) => {
+        const mf = `${f} media[${i}]`
+        if (m?.kind !== 'audio' && m?.kind !== 'video') err(mf, 'kind must be "audio" or "video"')
+        checkStr(mf, m ?? {}, 'title')
+        checkStr(mf, m ?? {}, 'label', { optional: true })
+        checkStr(mf, m ?? {}, 'caption', { optional: true })
+        checkStr(mf, m ?? {}, 'src')
+        if (m?.src && !/^https?:\/\//.test(m.src) && !m.src.startsWith('/'))
+          err(mf, 'src must be an absolute URL or a path from the site root')
+        if (m?.src) {
+          if (seen.has(m.src)) err(mf, `src ${m.src} is used twice in this unit`)
+          seen.add(m.src)
+        }
+      })
+    }
+  }
+
   if (!Array.isArray(u.lesson) || u.lesson.length < 2) err(f, 'lesson must have at least 2 blocks')
   ;(u.lesson ?? []).forEach((b, i) => {
     const bf = `${f} lesson[${i}]`

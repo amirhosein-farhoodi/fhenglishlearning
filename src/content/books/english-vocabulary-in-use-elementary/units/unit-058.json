@@ -1,0 +1,183 @@
+{
+  "number": 58,
+  "title": "Prefixes",
+  "subtitle": "ex-, half-, in-, im-, non-, pre-, re-, un-",
+  "summary": "Use common prefixes like un-, im-, re- and pre- to understand and build new words.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is a prefix?",
+      "text": "A **prefix** comes at the beginning of a word. It changes the meaning of the word. If you know a few common prefixes, you can often guess what a new word means.",
+      "examples": [
+        { "text": "happy - **un**happy", "note": "unhappy = not happy" },
+        { "text": "write - **re**write", "note": "rewrite = write again" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common prefixes",
+      "columns": ["Prefix", "Meaning", "Examples"],
+      "rows": [
+        ["**ex-** (+ noun)", "was but now isn't", "ex-wife, ex-boyfriend"],
+        ["**half-** (+ noun or adjective)", "50% of something", "half-price, half-hour"],
+        ["**in-**, **im-** (+ adjective)", "not", "informal, impossible"],
+        ["**non-** (+ adjective or noun)", "not", "non-smoking, non-alcoholic"],
+        ["**pre-** (+ noun, adjective, verb)", "before", "pre-school, pre-heat"],
+        ["**re-** (+ verb)", "again", "redo, rewrite"],
+        ["**un-** (+ adjective or noun)", "not", "unhappy, unsafe"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "ex- and half-",
+      "text": "**ex-** means the person had this job or place in your life before, but not now. **half-** means 50% of something.",
+      "examples": [
+        { "text": "An **ex-wife** is a woman who is now divorced." },
+        { "text": "An **ex-boyfriend** is someone who is no longer your boyfriend." },
+        { "text": "Something that cost £10 yesterday and costs £5 today is **half-price**." },
+        { "text": "A **half-hour** journey is a journey of 30 minutes." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "in-, im-, non- and un- : not",
+      "text": "These four prefixes all mean **not**. Sadly there is no rule for choosing between them, so learn each word as you meet it.",
+      "examples": [
+        { "text": "**Informal** clothes are clothes like jeans and trainers. Formal clothes are things like a suit." },
+        { "text": "If something is **impossible**, you can't do it. It's **impossible** to read with your eyes closed." },
+        { "text": "You must not smoke in a **non-smoking** restaurant." },
+        { "text": "**Unhappy** means sad, the opposite of happy." },
+        { "text": "**Unsafe** means dangerous, the opposite of safe." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "pre- and re-",
+      "left": {
+        "label": "pre- = before",
+        "text": "The action or time comes before something else.",
+        "examples": ["**Pre-school** children are too young to go to school.", "You nearly always need to **pre-heat** the oven before you cook something.", "**Pre-exam** nerves are the nerves you feel before an exam."]
+      },
+      "right": {
+        "label": "re- = again",
+        "text": "You do the same thing a second time.",
+        "examples": ["To **redo** something is to do it a second time.", "To **rewrite** something is to write it a second time.", "To **resend** an email is to send it again."]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Sometimes a word with a prefix has a hyphen (*a half-hour programme*) and sometimes it does not (*an impossible question*). Check in a dictionary when you are not sure."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I can't read this. Please ___ your homework.",
+      "hint": "(write it again)",
+      "answers": ["rewrite", "redo", "re-write", "re-do"],
+      "explanation": "re- means 'again', so rewrite is 'write a second time'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In ___ English we often say 'Hi', not 'Good morning'.",
+      "hint": "(not formal)",
+      "answers": ["informal"],
+      "explanation": "in- means 'not', so informal is the opposite of formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I liked school but my sister was very ___ there.",
+      "hint": "(not happy)",
+      "answers": ["unhappy"],
+      "explanation": "un- means 'not', so unhappy means sad."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I bought two T-shirts because they were ___ in the sale.",
+      "hint": "(50% of the normal price)",
+      "answers": ["half-price", "half price"],
+      "explanation": "half- means '50% of something'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't walk on that wall - the notice says it is ___.",
+      "hint": "(not safe)",
+      "answers": ["unsafe"],
+      "explanation": "Unsafe means dangerous, the opposite of safe."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each prefix with its meaning.",
+      "pairs": [
+        { "left": "ex-", "right": "was but now isn't" },
+        { "left": "half-", "right": "50% of something" },
+        { "left": "non-", "right": "not" },
+        { "left": "pre-", "right": "before" },
+        { "left": "re-", "right": "again" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "An ex-husband is a man who is now divorced from his wife.",
+      "answer": true,
+      "explanation": "Correct. ex- means 'was but now isn't'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is an unread book?",
+      "options": [
+        "a book that has not been read",
+        "a book that someone reads again",
+        "a book you read before an exam",
+        "a book that is only half finished"
+      ],
+      "answer": 0,
+      "explanation": "un- means 'not', so an unread book is a book nobody has read."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word or phrase with its meaning.",
+      "pairs": [
+        { "left": "pre-exam nerves", "right": "nerves before an exam" },
+        { "left": "to retell a story", "right": "to tell a story again" },
+        { "left": "a half-brother", "right": "a brother with one parent the same" },
+        { "left": "a non-alcoholic drink", "right": "a drink with no alcohol in it" },
+        { "left": "an unfinished letter", "right": "a letter that is not finished" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which prefix makes the negative of each word?",
+      "categories": ["un-", "im-"],
+      "items": [
+        { "text": "comfortable", "category": 0 },
+        { "text": "pleasant", "category": 0 },
+        { "text": "attractive", "category": 0 },
+        { "text": "happy", "category": 0 },
+        { "text": "possible", "category": 1 },
+        { "text": "polite", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's ___ to read with your eyes closed.",
+      "hint": "(the opposite of possible)",
+      "answers": ["impossible"],
+      "explanation": "The negative of possible is impossible, with im-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The weather was cold and wet - it was a very ___ day.",
+      "hint": "(the opposite of pleasant)",
+      "answers": ["unpleasant"],
+      "explanation": "The negative of pleasant is unpleasant, with un-."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say why these children do not go to school yet.",
+      "words": ["Pre-school", "children", "are", "too", "young", "to", "go", "to", "school."],
+      "answer": "Pre-school children are too young to go to school."
+    }
+  ]
+}

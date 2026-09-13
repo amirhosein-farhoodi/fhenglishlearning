@@ -1,0 +1,184 @@
+{
+  "number": 20,
+  "title": "Online shopping",
+  "subtitle": "basket, delivery, reviews, post code",
+  "summary": "Buy things on a website: search, read reviews, add to your basket, pay and wait for the delivery.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Buying something on a website",
+      "text": "First you **search** for the product you want. The website shows the **colour**, the **size** and the **price**. When you want it, you click **Add to basket**. Your **basket** holds everything you are going to buy.",
+      "examples": [
+        { "text": "Cotton T-shirt. **Colour**: white, blue or red. **Size**: small, medium or large." },
+        { "text": "**Price**: £6.99. **Add to basket**." },
+        { "text": "**Reading** the **reviews** can help you choose what to buy.", "note": "a review = what other buyers say about a product" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Delivery options",
+      "columns": ["Option", "When it arrives", "Cost"],
+      "rows": [
+        ["Free delivery", "in 3-5 days", "£0"],
+        ["Next day delivery", "tomorrow", "£5.99"]
+      ],
+      "note": "If you are not at home to receive the delivery, they take it to the post office."
+    },
+    {
+      "type": "explain",
+      "heading": "Your order",
+      "text": "When you pay, the website gives your **order** an **order number**. You can still **delete** an item from your basket before you pay. The **total** is all the money together.",
+      "examples": [
+        { "text": "**Order number**: 5624890. Items: 2 T-shirts. **Total**: £13.98." },
+        { "text": "I don't want the blue one. I'll **delete this item**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Your delivery address",
+      "columns": ["Line", "Example"],
+      "rows": [
+        ["Name", "Bernard Taylor"],
+        ["House number", "145"],
+        ["Street", "Shaftesbury Road"],
+        ["City", "Cambridge"],
+        ["Post code", "CB2 8RU"],
+        ["Country", "UK"],
+        ["Phone number", "01223 238331"],
+        ["Email", "btaylor@inuse.com"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Post code",
+      "text": "A **post code** is a short code at the end of an address. In the UK it has letters and numbers, for example BA1 1LZ. In the US it is called a **zip code** and it is only numbers, for example 10509.",
+      "examples": [
+        { "text": "What's your address and **post code**?" },
+        { "text": "My **post code** is WC2 5SN." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about online shopping",
+      "text": "We **shop online** because it is quick and easy. Most people **pay with** a **credit card**.",
+      "examples": [
+        { "text": "Lisa likes to **shop online** because it's quick and easy." },
+        { "text": "Most people **pay for** their online shopping **with credit cards**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We put something in our basket, but we never say ~~a shopping bag~~ for this on a website - the word is always basket."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words with the examples.",
+      "pairs": [
+        { "left": "size", "right": "small" },
+        { "left": "price", "right": "£12.89" },
+        { "left": "delivery address", "right": "7 Park Lane, Bristol" },
+        { "left": "post code", "right": "MR12 6QA" },
+        { "left": "credit card", "right": "MasterCard" },
+        { "left": "order number", "right": "8167990012" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "When you shop online, you can ___ for the best price.",
+      "options": ["search", "collect", "deliver", "delete"],
+      "answer": 0,
+      "explanation": "You search a website for the product and the price you want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can read ___ from other people who bought the same thing.",
+      "hint": "(plural)",
+      "answers": ["reviews"],
+      "explanation": "A review says what a buyer thinks of a product."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you want to buy something, ___ it to your basket.",
+      "hint": "(three letters)",
+      "answers": ["add"],
+      "explanation": "We add an item to our basket."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you don't want to buy something that is in your basket, you can ___ it.",
+      "options": ["delete", "order", "add", "search"],
+      "answer": 0,
+      "explanation": "You delete an item to take it out of your basket."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You can use your ___ to pay for your shopping.",
+      "options": ["credit card", "post code", "order number", "basket"],
+      "answer": 0,
+      "explanation": "Most people pay for their online shopping with a credit card."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer care:* What's your ___? *Tom:* It's G99215540000Z.",
+      "hint": "(two words)",
+      "answers": ["order number"],
+      "explanation": "Every order gets an order number, so the shop can find it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Customer care:* And what's your address and ___? *Tom:* 31 Mill Road, WC2 5SN.",
+      "hint": "(two words)",
+      "answers": ["post code", "postcode"],
+      "explanation": "In the UK the post code has letters and numbers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I paid £5 for ___ delivery, so my shoes will be here tomorrow.",
+      "hint": "(two words)",
+      "answers": ["next day"],
+      "explanation": "Next day delivery costs more, but it arrives tomorrow."
+    },
+    {
+      "type": "matching",
+      "prompt": "You are buying a computer online. Match each step to the right place in the order.",
+      "pairs": [
+        { "left": "Step 1", "right": "Read online reviews and choose which computer to buy" },
+        { "left": "Step 2", "right": "Search for a website which sells that computer" },
+        { "left": "Step 3", "right": "Add the computer to your basket" },
+        { "left": "Step 4", "right": "Choose next day delivery" },
+        { "left": "Step 5", "right": "Pay with a credit card" },
+        { "left": "Step 6", "right": "Wait at home for the delivery" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A post code in the UK has letters and numbers, for example BA1 1LZ.",
+      "answer": true,
+      "explanation": "Correct. A US zip code has only numbers, for example 10509."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the website ask for this in your order, or in your delivery address?",
+      "categories": ["Your order", "Your delivery address"],
+      "items": [
+        { "text": "order number", "category": 0 },
+        { "text": "total", "category": 0 },
+        { "text": "size and colour", "category": 0 },
+        { "text": "house number", "category": 1 },
+        { "text": "street", "category": 1 },
+        { "text": "city", "category": 1 },
+        { "text": "post code", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say why Lisa buys things on the Internet.",
+      "words": ["Lisa", "likes", "to", "shop", "online", "because", "it's", "quick", "and", "easy."],
+      "answer": "Lisa likes to shop online because it's quick and easy.",
+      "explanation": "We shop online - no preposition after online."
+    }
+  ]
+}

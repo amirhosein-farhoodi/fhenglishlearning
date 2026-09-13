@@ -1,0 +1,203 @@
+{
+  "number": 3,
+  "title": "Parts of the body",
+  "subtitle": "head, hand, knee, foot",
+  "summary": "Name the parts of the body, inside and outside, and use my, your, his and her with them correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Head and face",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["hair", "It grows on top of your head."],
+        ["eye / eyes", "You see with them."],
+        ["nose", "You smell with it."],
+        ["mouth", "You eat and speak with it."],
+        ["lip / lips", "They go around your mouth."],
+        ["tooth / teeth", "They are inside your mouth. An adult has 32."],
+        ["ear / ears", "You hear with them."],
+        ["neck", "It joins your head to your body."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Arms and legs",
+      "columns": ["Word", "Where it is"],
+      "rows": [
+        ["shoulder", "at the top of your arm"],
+        ["arm", "between your shoulder and your hand"],
+        ["hand", "at the end of your arm; it has five fingers"],
+        ["thumb", "the short, thick finger on your hand"],
+        ["nail", "on the end of every finger and toe"],
+        ["leg", "you walk with your legs"],
+        ["knee", "in the middle of your leg"],
+        ["foot / feet", "at the end of your leg; it has five toes"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The rest of the body",
+      "text": "The front of your body is your **chest** and your **stomach**. The other side is your **back**. In the middle you have your **waist** and your **hips**, and on the left and the right is your **side**.",
+      "examples": [
+        { "text": "We have **skin** covering our bodies." },
+        { "text": "I have a pain in my **side**." },
+        { "text": "She wears a belt around her **waist**." },
+        { "text": "He carries the bag on his **back**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Inside the body",
+      "text": "You cannot see these parts, but you need them every second: your **heart**, your **brain** and your **blood**.",
+      "examples": [
+        { "text": "The **heart** is a symbol of love." },
+        { "text": "You think with your **brain**." },
+        { "text": "Your **blood** type can be A, B, AB or O." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Singular and plural",
+      "text": "Two body words have a special plural: one **foot** - two **feet**, and one **tooth** - two **teeth**. **Hair** is a singular, uncountable word, so it takes *is* and *it*.",
+      "examples": [
+        { "text": "That woman has got very big **feet**.", "wrong": "foots" },
+        { "text": "The baby has already got two **teeth**.", "wrong": "tooths" },
+        { "text": "My **hair is** dirty. I need to wash **it**.", "wrong": "My hairs are dirty. I need to wash them" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "my, your, his, her",
+      "text": "With parts of the body we usually use **my**, **your**, **his**, **her** and so on - not *the*.",
+      "examples": [
+        { "text": "Katie is washing **her** hair.", "wrong": "washing the hair" },
+        { "text": "I have a pain in **my** leg.", "wrong": "a pain in the leg" },
+        { "text": "The little girl needs to wash **her** face and **her** hands.", "wrong": "wash the face and the hands" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Body words inside other words",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["armchair", "a comfortable chair with a place for each arm"],
+        ["football", "the game you play with your feet"],
+        ["lipstick", "colour that people put on their lips"],
+        ["hairbrush", "you brush your hair with it"],
+        ["headscarf", "a scarf you wear on your head"],
+        ["handbag", "a small bag for your money, keys and phone"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the two strange plurals as a pair: *one foot - two feet*, *one tooth - two teeth*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A hand has five ___.",
+      "hint": "(plural)",
+      "answers": ["fingers"],
+      "explanation": "Four fingers and a thumb - together we call them five fingers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A foot has five ___.",
+      "hint": "(plural)",
+      "answers": ["toes"],
+      "explanation": "The small parts at the end of your foot are toes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An adult has 32 ___.",
+      "hint": "(plural of tooth)",
+      "answers": ["teeth"],
+      "explanation": "One tooth, two teeth."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You smell with your ___.",
+      "hint": "(one word)",
+      "answers": ["nose"],
+      "explanation": "Your nose is in the middle of your face."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each part of the body with what it does.",
+      "pairs": [
+        { "left": "heart", "right": "it is a symbol of love" },
+        { "left": "brain", "right": "you think with it" },
+        { "left": "blood", "right": "its type can be A, B, AB or O" },
+        { "left": "ears", "right": "you hear with them" },
+        { "left": "skin", "right": "it covers the whole body" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right part of the body.",
+      "categories": ["Head and face", "Arm and hand", "Leg and foot"],
+      "items": [
+        { "text": "lip", "category": 0 },
+        { "text": "ear", "category": 0 },
+        { "text": "nose", "category": 0 },
+        { "text": "thumb", "category": 1 },
+        { "text": "shoulder", "category": 1 },
+        { "text": "knee", "category": 2 },
+        { "text": "toe", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "That woman has got very big foots.",
+      "answer": false,
+      "explanation": "That woman has got very big feet. The plural of foot is feet."
+    },
+    {
+      "type": "true_false",
+      "statement": "The little girl needs to wash her face and her hands before dinner.",
+      "answer": true,
+      "explanation": "Correct. We use her, not the, with parts of the body."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "My grandfather has a pain in his shoulder.",
+        "My grandfather has a pain in the shoulder.",
+        "My grandfather has a pain in shoulder.",
+        "My grandfather has a pain in a shoulder."
+      ],
+      "answer": 0,
+      "explanation": "Use my, your, his, her with parts of the body."
+    },
+    {
+      "type": "true_false",
+      "statement": "My hairs are dirty. I need to wash them.",
+      "answer": false,
+      "explanation": "My hair is dirty. I need to wash it. Hair is a singular word."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your side hurts. Tell the doctor.",
+      "words": ["I", "have", "a", "pain", "in", "my", "side."],
+      "answer": "I have a pain in my side.",
+      "explanation": "a pain in my side - not in the side."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A comfortable chair with a place for each arm is an ___.",
+      "hint": "(one word)",
+      "answers": ["armchair", "arm chair"],
+      "explanation": "arm + chair = armchair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many women put ___ on their lips.",
+      "hint": "(one word)",
+      "answers": ["lipstick", "lip stick"],
+      "explanation": "lip + stick = lipstick."
+    }
+  ]
+}

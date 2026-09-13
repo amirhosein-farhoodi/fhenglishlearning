@@ -1,0 +1,161 @@
+{
+  "number": 44,
+  "title": "Bring / brought / brought",
+  "subtitle": "bring me a glass, bring it back",
+  "summary": "Choose between bring and take, and use bring somebody something and bring something back.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Bring and take",
+      "left": {
+        "label": "bring (like come) = from there to here",
+        "text": "The thing moves to the place where the speaker is.",
+        "examples": [
+          "Are you going to the kitchen? Can you **bring** me a glass?",
+          "Come to my house tomorrow and **bring** your guitar."
+        ]
+      },
+      "right": {
+        "label": "take (like go) = from here to there",
+        "text": "The thing moves away from the speaker, to another place.",
+        "examples": [
+          "Are you going to school? **Take** your books.",
+          "Please **take** this form to the secretary."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Bring somebody something",
+      "text": "You can **bring** a person something. Put the person first, then the thing. The past of bring is **brought**.",
+      "examples": [
+        { "text": "*A:* I've **brought** you some apples from my garden. *B:* Oh, thank you!" },
+        { "text": "When she visits me, she always **brings** me flowers." },
+        { "text": "I'll **bring** you a present from New York." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Bring something back",
+      "text": "**Bring** something **back** = return it to the place where it was. We often use it with **take**: you take a thing away and then you bring it back.",
+      "examples": [
+        { "text": "It's raining. You can **take** my umbrella and **bring** it **back** tomorrow." },
+        { "text": "*JULES:* This book is interesting. *MARGAUX:* Please **take** it with you and read it." },
+        { "text": "*JULES:* Thanks. I'll **bring** it **back** on Friday. *MARGAUX:* OK. No problem." },
+        { "text": "When she went to Belgium, she **brought** me **back** some chocolates." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Which verb?",
+      "columns": ["Situation", "Verb", "Example"],
+      "rows": [
+        ["You are going away from here", "take", "Take your passport when you travel."],
+        ["You are coming to here", "bring", "Bring your guitar to my house."],
+        ["You give a person something", "bring", "She brought me some flowers."],
+        ["You return a thing to here", "bring back", "I'll bring it back on Friday."]
+      ],
+      "note": "Past forms: take - took; bring - brought."
+    },
+    {
+      "type": "tip",
+      "text": "Ask yourself: where am I? Things that move **to** me are **brought**; things that move **away from** me are **taken**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Are you going to the shops? ___ an umbrella. It's raining.",
+      "hint": "(bring or take)",
+      "answers": ["take"],
+      "explanation": "The umbrella goes from here to the shops with you, so take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't forget to ___ your books tomorrow! the teacher said to the class.",
+      "hint": "(bring or take)",
+      "answers": ["bring"],
+      "explanation": "The teacher is in the classroom, so the books come to her: bring."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you going to the kitchen? Can you ___ me some water?",
+      "hint": "(bring or take)",
+      "answers": ["bring"],
+      "explanation": "The water comes from the kitchen to here, so bring."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ your camera with you when you go to Thailand. It's beautiful there.",
+      "hint": "(bring or take)",
+      "answers": ["take"],
+      "explanation": "The camera goes from here to Thailand, so take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Are you going to the office? Can you ___ these papers, please?",
+      "hint": "(bring or take)",
+      "answers": ["take"],
+      "explanation": "The papers go from here to the office, so take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'll ___ you a present from New York.",
+      "hint": "(bring or take)",
+      "answers": ["bring"],
+      "explanation": "The present comes from New York to you, so bring."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each sentence.",
+      "pairs": [
+        { "left": "Yesterday he brought me", "right": "some flowers." },
+        { "left": "You must take", "right": "your passport when you travel." },
+        { "left": "Come to my house and", "right": "bring your guitar." },
+        { "left": "Go to the post office and take", "right": "these letters, please." },
+        { "left": "Everybody is going to bring", "right": "food to the party." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She always brings me presents. Yesterday she ___ me some chocolates.",
+      "hint": "(bring)",
+      "answers": ["brought"],
+      "explanation": "The past of bring is brought."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Hello, I've ___ you some flowers. I hope you like them!",
+      "hint": "(bring)",
+      "answers": ["brought"],
+      "explanation": "I've brought = the flowers are here now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Can you ___ this present when you go and see Sonia?",
+      "options": ["take", "bring", "come", "bring back"],
+      "answer": 0,
+      "explanation": "The present goes from here to Sonia, so take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She is going to take my book, read it tonight and ___ tomorrow.",
+      "hint": "(three words)",
+      "answers": ["bring it back"],
+      "explanation": "Bring something back = return it to this place."
+    },
+    {
+      "type": "true_false",
+      "statement": "Come to my house tomorrow and take your guitar.",
+      "answer": false,
+      "explanation": "Come to my house tomorrow and bring your guitar. The guitar comes to the speaker's house."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Invite a friend and ask for the umbrella back.",
+      "words": ["Please", "take", "my", "umbrella", "and", "bring", "it", "back", "tomorrow."],
+      "answer": "Please take my umbrella and bring it back tomorrow."
+    }
+  ]
+}

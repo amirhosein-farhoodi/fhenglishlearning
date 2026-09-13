@@ -1,0 +1,215 @@
+{
+  "number": 41,
+  "title": "British politics",
+  "subtitle": "lobby, petition, legislation, select committee",
+  "summary": "Understand and use the vocabulary of the British political system - lobbying and petitioning, bills and legislation, select committees, constituents and the Speaker.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Having your say",
+      "text": "Ordinary citizens in the UK can **lobby** MPs and Members of the House of Lords (known as **peers**) about an issue - that is, try to influence their opinions. They can also **petition** the House of Commons: a formal process of sending a written appeal to an MP in a set format, which the MP then presents to the Commons.",
+      "examples": [
+        { "text": "Citizens can **lobby** MPs and **peers** about a particular issue." },
+        { "text": "They can **petition** the House of Commons to request action." },
+        { "text": "Methods of **lobbying** range from sending letters to organising **rallies**." }
+      ],
+      "note": "Rallies are large political meetings or demonstrations."
+    },
+    {
+      "type": "explain",
+      "heading": "Bills and legislation",
+      "text": "**Legislation** means possible future laws. A **Public Bill** is a proposal for a law currently under discussion. The **committee stage** is the period after a proposed law has been discussed by Parliament, when it is looked at in detail by a group of people.",
+      "examples": [
+        { "text": "The public can comment on **legislation** going through Parliament." },
+        { "text": "The bill has had two readings in the House of Commons and is now going through the **committee stage**." },
+        { "text": "A **Select Committee** inquiry may **scrutinise** the work and policies of the government.", "note": "to scrutinise = to look very closely at" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Who decides in the end",
+      "text": "Lobbying often seeks to get the MP or peer to vote a certain way. However, this decision is **ultimately** - in the end - **down to** the MP's or peer's own **judgement**, and to the influence that existing **party policy** has on them. To be down to someone is to be their responsibility.",
+      "examples": [
+        { "text": "The decision is **ultimately down to** the MP's own **judgement**." },
+        { "text": "On this particular issue, it is **down to** the individual MP how he or she votes." },
+        { "text": "I am not quite sure what **party policy** is on renewable energy." },
+        { "text": "Ministers have to read a lot of **briefing material** provided by their advisers." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How petitions work",
+      "text": "A petition must be properly **set out** - in the correct format - and carry at least one signature and address. Its text is published in **Hansard**, the official record of parliamentary business. MPs generally **present** all petitions they receive from their **constituents**, the people in their **constituency**, or political region.",
+      "examples": [
+        { "text": "A petition to Parliament has to be **set out** in accordance with strict rules." },
+        { "text": "You can read **Hansard** to find out what has been happening in Parliament." },
+        { "text": "MPs will **present** all petitions they receive from their **constituents**." },
+        { "text": "It can also be created and submitted online, as an **e-petition**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The Speaker and the chamber",
+      "text": "The **Speaker** is the MP with responsibility for controlling the way parliamentary business is done. MPs present petitions either by making a short statement in the **debating chamber** or by placing the petition in the Petition Bag behind the **Speaker's chair**. Government departments offer **observations** - comments - on all **substantive**, that is significant, petitions.",
+      "examples": [
+        { "text": "MPs discuss proposed legislation in the **debating chamber** of the House of Commons." },
+        { "text": "The **Speaker's chair** is situated between the two sets of benches." },
+        { "text": "Departments are expected to offer **observations** on all **substantive** petitions." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Select Committee vocabulary",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["policies", "official plans of action"],
+        ["cross departmental boundaries", "deal with more than one department"],
+        ["audit", "closely examine the consequences of decisions"],
+        ["allegations", "complaints that have not been proven"],
+        ["conduct", "behaviour"],
+        ["shadow", "follow closely to see how a job is done"],
+        ["wide-ranging expertise", "a high level of knowledge covering many subjects"],
+        ["the constitution", "the full set of laws of a country"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Commons and Lords committees",
+      "text": "There is a Commons Select Committee for each government department, examining spending, **policies** and administration. Lords Select Committees do not **shadow** government departments; they investigate specialist subjects, using the **wide-ranging expertise** of the Lords and the greater amount of time available to them.",
+      "examples": [
+        { "text": "It is the role of the Health Select Committee to **shadow** the work done in the Department of Health." },
+        { "text": "There is a lot of **expertise** in the House of Lords because of the different professional backgrounds of its members." },
+        { "text": "The work of this committee is complex because it **crosses** departmental boundaries." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Lobby and petition are both verbs here: you lobby an MP and you petition the House of Commons."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words to make political collocations.",
+      "pairs": [
+        { "left": "debating", "right": "chamber" },
+        { "left": "select", "right": "committee" },
+        { "left": "committee", "right": "stage" },
+        { "left": "government", "right": "department" },
+        { "left": "wide-ranging", "right": "expertise" },
+        { "left": "briefing", "right": "material" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "MPs discuss proposed legislation in the ___ of the House of Commons.",
+      "hint": "(the room where debates happen)",
+      "answers": ["debating chamber"],
+      "explanation": "The debating chamber is where parliamentary debates take place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Before Question Time, Ministers have to read a lot of ___ provided by their advisers.",
+      "hint": "(informational documents)",
+      "answers": ["briefing material"],
+      "explanation": "Briefing material is informational material prepared for someone before a meeting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bill has had two readings in the House of Commons and is now going through the ___.",
+      "hint": "(when a group looks at it in detail)",
+      "answers": ["committee stage"],
+      "explanation": "At the committee stage a proposed law is looked at in detail by a group of people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ of individual MPs may be investigated if it is thought they have not behaved honestly.",
+      "hint": "(behaviour)",
+      "answers": ["conduct"],
+      "explanation": "Conduct is the formal word for behaviour."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There have been a number of ___ claiming that the Speaker is not doing his or her job properly.",
+      "hint": "(unproven complaints)",
+      "answers": ["allegations"],
+      "explanation": "Allegations are complaints that have not been proven."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A petition to Parliament has to be ___ out in accordance with strict rules.",
+      "hint": "(put into the correct format)",
+      "answers": ["set"],
+      "explanation": "To set out a document is to put it into the correct format."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is the role of the Health Select Committee to ___ the work done in the Department of Health.",
+      "hint": "(follow closely to see how a job is done)",
+      "answers": ["shadow"],
+      "explanation": "Commons Select Committees shadow the work of government departments."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There is a lot of ___ in the House of Lords because of the very different professional backgrounds among its members.",
+      "hint": "(high-level knowledge or skill)",
+      "answers": ["expertise"],
+      "explanation": "Lords committees take advantage of the wide-ranging expertise of their members."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What does it mean to lobby an MP?",
+      "options": ["to try to influence their opinion on an issue", "to send a formal written appeal in a set format", "to vote against them at an election", "to publish their speeches in Hansard"],
+      "answer": 0,
+      "explanation": "Lobbying is trying to influence the opinions of MPs and peers; a formal written appeal is a petition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Who are an MP's constituents?",
+      "options": ["the people in the political region that elected them", "the other members of their party", "the members of the House of Lords", "the civil servants in their department"],
+      "answer": 0,
+      "explanation": "Constituents are the people in an MP's constituency - the political region they represent."
+    },
+    {
+      "type": "true_false",
+      "statement": "A lobbied MP has to do what his or her constituents request.",
+      "answer": false,
+      "explanation": "False - the decision is ultimately down to the MP to make up his or her own mind."
+    },
+    {
+      "type": "true_false",
+      "statement": "You can read Hansard to find out what has been happening in Parliament.",
+      "answer": true,
+      "explanation": "Correct - Hansard is the official record of parliamentary business."
+    },
+    {
+      "type": "true_false",
+      "statement": "Select Committees do not look at how individual MPs behave.",
+      "answer": false,
+      "explanation": "False - some Commons Committees do investigate allegations about the conduct of individual MPs."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each item belong to influencing Parliament, or to the work of committees?",
+      "categories": ["Influencing Parliament", "The work of committees"],
+      "items": [
+        { "text": "lobby an MP", "category": 0 },
+        { "text": "e-petition", "category": 0 },
+        { "text": "organise a rally", "category": 0 },
+        { "text": "the Petition Bag", "category": 0 },
+        { "text": "scrutinise government policies", "category": 1 },
+        { "text": "shadow a department", "category": 1 },
+        { "text": "cross departmental boundaries", "category": 1 },
+        { "text": "the Environmental Audit Committee", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about an MP's vote in order.",
+      "words": ["The", "decision", "is", "ultimately", "down", "to", "the", "MP's", "own", "judgement"],
+      "answer": "The decision is ultimately down to the MP's own judgement",
+      "explanation": "To be down to someone is to be their responsibility; ultimately means in the end."
+    }
+  ]
+}

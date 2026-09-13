@@ -1,0 +1,210 @@
+{
+  "number": 84,
+  "title": "Words that only occur in the plural",
+  "subtitle": "scissors, jeans, outskirts, headquarters",
+  "summary": "Learn the English nouns that have no singular form - tools, clothes and words like outskirts and acoustics - and the traps such as news and series that only look plural.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Tools, instruments and equipment",
+      "columns": ["Word", "What it is for"],
+      "rows": [
+        ["scissors", "cutting paper and cloth"],
+        ["shears", "cutting a hedge or bushes"],
+        ["pliers", "gripping things and pulling out nails"],
+        ["tweezers", "picking up very small things"],
+        ["tongs", "picking up hot food or coal"],
+        ["binoculars", "looking at distant objects"],
+        ["scales", "weighing things"],
+        ["handcuffs", "keeping a prisoner's hands together"],
+        ["glasses / spectacles", "reading and seeing clearly"],
+        ["goggles", "protecting the eyes when swimming or skiing"],
+        ["headphones / earphones", "listening to music without disturbing others"]
+      ],
+      "note": "None of these words has a singular form. Say *a pair of scissors*, not ~~a scissor~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Things we wear",
+      "text": "Anything with two legs or two arms is normally plural in English, and so are some general clothing words. Use **a pair of** when you need to count them.",
+      "examples": [
+        { "text": "I need a new pair of **jeans**." },
+        { "text": "She was wearing black **leggings** and a long jumper." },
+        { "text": "Get your **pyjamas** on! It's time to go to bed." },
+        { "text": "The mechanic put on his **overalls** before starting work." },
+        { "text": "His **trousers** were held up by a pair of **braces**." }
+      ],
+      "note": "Also plural: clothes, knickers, pants, underpants, tights, shorts, dungarees, (swimming) trunks."
+    },
+    {
+      "type": "table",
+      "heading": "Other useful plural-only words",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["graphics", "pictures produced on a computer"],
+        ["goods", "articles or items for sale"],
+        ["foundations", "the solid base under a building"],
+        ["premises", "the building itself"],
+        ["headquarters", "the main office of an organisation"],
+        ["acoustics", "the quality of the sound in a room"],
+        ["contents", "what is inside something"],
+        ["looks", "a person's appearance"],
+        ["outskirts", "the outer edge of a town or village"],
+        ["stairs", "steps inside a building"],
+        ["proceeds", "the money raised by selling tickets"],
+        ["whereabouts", "the place where someone or something is"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "These words in sentences",
+      "text": "Because these nouns are plural, they normally take a **plural verb**, even when they look like one single thing.",
+      "examples": [
+        { "text": "The **acoustics** in the new opera house **are** near perfect." },
+        { "text": "The architect inspected the **foundations** before declaring that the **premises were** safe." },
+        { "text": "As you come to the **outskirts** of the village, there are traffic lights." },
+        { "text": "A terrorist has escaped from prison. Her **whereabouts are** unknown." },
+        { "text": "The **stairs** are a bit dangerous - be careful." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Plural in form, singular in use",
+      "columns": ["Type", "Examples"],
+      "rows": [
+        ["Names of games", "billiards, dominoes, draughts, darts, bowls, cards"],
+        ["Names of subjects and activities", "physics, economics, classics, gymnastics, athletics"]
+      ],
+      "note": "These end in -s but normally take a singular verb: *Economics is a difficult subject.*"
+    },
+    {
+      "type": "compare",
+      "heading": "Looks plural, is not plural",
+      "left": {
+        "label": "Singular after all",
+        "text": "Some words look plural, or feel plural, but take a **singular** verb.",
+        "examples": [
+          "The **news is** good. (not the news are)",
+          "The **spaghetti was** delicious. (not the spaghetti were)"
+        ]
+      },
+      "right": {
+        "label": "Same form, singular or plural",
+        "text": "**Series** and **means** keep the same form in the singular and the plural.",
+        "examples": [
+          "There was a **series** of programmes on TV about Japan.",
+          "Is there a cheap **means** of transport I could use to get there?"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "When you meet a plural-only noun, note down the counting phrase too: *a pair of tights*, *a game of darts*, *an item of news*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Which thing would you use for each job?",
+      "pairs": [
+        { "left": "cut a hedge", "right": "shears" },
+        { "left": "read small print", "right": "glasses" },
+        { "left": "cut paper", "right": "scissors" },
+        { "left": "hold your trousers up", "right": "braces" },
+        { "left": "look at distant objects", "right": "binoculars" },
+        { "left": "get a nail out of a piece of wood", "right": "pliers" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these clothes words have no singular form?",
+      "categories": ["Only used in the plural", "Has a normal singular"],
+      "items": [
+        { "text": "trousers", "category": 0 },
+        { "text": "dungarees", "category": 0 },
+        { "text": "tights", "category": 0 },
+        { "text": "jeans", "category": 0 },
+        { "text": "shirt", "category": 1 },
+        { "text": "sock", "category": 1 },
+        { "text": "slipper", "category": 1 },
+        { "text": "tracksuit", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Come on! Get your ___ on! It's time to go to bed.",
+      "hint": "(what you wear in bed)",
+      "answers": ["pyjamas"],
+      "explanation": "Pyjamas, like trousers and jeans, exists only in the plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ of the rock concert are going to two charities.",
+      "hint": "(the money raised)",
+      "answers": ["proceeds", "the proceeds"],
+      "explanation": "Proceeds means the money taken from selling tickets. It is always plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ in the new concert hall are superb. I've never heard such clear sound.",
+      "hint": "(quality of the sound)",
+      "answers": ["acoustics"],
+      "explanation": "Acoustics is a plural-only noun and takes a plural verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The escaped prisoner is tall and dark, and has a beard. His ___ are unknown.",
+      "hint": "(where he is)",
+      "answers": ["whereabouts"],
+      "explanation": "Whereabouts means the place where someone or something is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Computer ___ were first used in films in the 1970s.",
+      "hint": "(pictures made on a computer)",
+      "answers": ["graphics"],
+      "explanation": "Graphics has no singular when it means computer-made images."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You must use ___ if you want to listen to your music on a train.",
+      "options": ["headphones", "a headphone", "headphone", "the headphone"],
+      "answer": 0,
+      "explanation": "Headphones and earphones are always plural."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Odd one out: which of these is always plural?",
+      "options": ["scissors", "knife", "razor", "spoon"],
+      "answer": 0,
+      "explanation": "You can have a knife or a razor, but only a pair of scissors."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Odd one out: which of these game names is always plural in form?",
+      "options": ["billiards", "squash", "tennis", "golf"],
+      "answer": 0,
+      "explanation": "Billiards, like darts and dominoes, ends in -s but takes a singular verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "I finally got a room, but it was on the outskirt of the city.",
+      "answer": false,
+      "explanation": "I finally got a room, but it was on the outskirts of the city."
+    },
+    {
+      "type": "true_false",
+      "statement": "The owner didn't live on the premises, so I could make as much noise as I liked.",
+      "answer": true,
+      "explanation": "Correct - premises, meaning the building itself, is always plural."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["I", "went", "to", "the", "headquarters", "of", "the", "Musicians'", "Union", "but", "I", "didn't", "have", "the", "right", "looks."],
+      "answer": "I went to the headquarters of the Musicians' Union but I didn't have the right looks.",
+      "explanation": "Headquarters and looks both keep their -s in every context."
+    }
+  ]
+}

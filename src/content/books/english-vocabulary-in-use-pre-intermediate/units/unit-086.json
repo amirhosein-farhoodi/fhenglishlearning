@@ -1,0 +1,188 @@
+{
+  "number": 86,
+  "title": "Uncountable nouns",
+  "subtitle": "information, advice, a piece of news",
+  "summary": "Use common uncountable nouns such as information, advice, news and furniture correctly, and make them countable with a piece of or a bit of.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Three rules for uncountable nouns",
+      "text": "An uncountable noun has no plural form and no *a* or *an* in front of it, and it takes a singular verb. Many of these words are countable in other languages, so they cause common mistakes.",
+      "examples": [
+        { "text": "I need **information**.", "wrong": "an information", "note": "no a / an" },
+        { "text": "I need some **information**.", "wrong": "informations", "note": "no plural form" },
+        { "text": "The **homework was** difficult.", "wrong": "The homework were", "note": "singular verb" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common uncountable nouns",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["rubbish", "things you throw away because you do not want them"],
+        ["news", "information about something that has just happened"],
+        ["advice", "what you think someone should do"],
+        ["pocket money", "money that parents give their children regularly"],
+        ["equipment", "the things that are used for a particular activity"],
+        ["furniture", "tables, chairs, armchairs, etc."],
+        ["scenery", "the natural beauty you see around you"],
+        ["knowledge", "what you know about something"],
+        ["progress", "improving, getting better"],
+        ["room", "empty space"],
+        ["behaviour", "the way you do and say things"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using the words",
+      "text": "All the words in the table are uncountable, so they never take *a* or a plural *-s*. Here they are in sentences.",
+      "examples": [
+        { "text": "You can put all that **rubbish** in the bin over there." },
+        { "text": "Is there any more **news** about the man who was injured?" },
+        { "text": "She gave me some good **advice** about buying a car." },
+        { "text": "You need a lot of **equipment** for camping, e.g. a tent, a sleeping bag, a torch." },
+        { "text": "The **scenery** is really beautiful." },
+        { "text": "Can you take the dog? We haven't got any **room** in our car." }
+      ],
+      "note": "Progress and behaviour work in the same way: She's worked very hard and she is making progress. The children's behaviour was terrible."
+    },
+    {
+      "type": "compare",
+      "heading": "Some nouns are both",
+      "left": {
+        "label": "Uncountable (U)",
+        "text": "**experience** = the knowledge you get from doing a job or activity. **chance** = luck.",
+        "examples": [
+          "She's got a lot of **experience** of working with children.",
+          "Lotto is a game of **chance**."
+        ]
+      },
+      "right": {
+        "label": "Countable (C)",
+        "text": "**an experience** = something that happens to you and affects the way you feel. **a chance** = an opportunity to do something.",
+        "examples": [
+          "I had so many fantastic **experiences** on my trip to Thailand and Japan.",
+          "He's had several **chances** to go abroad, but he's just not interested."
+        ]
+      },
+      "note": "Dictionaries mark countable nouns with (C) and uncountable nouns with (U)."
+    },
+    {
+      "type": "explain",
+      "heading": "Making uncountable nouns countable",
+      "text": "To talk about one item, we use **a piece of** with advice, equipment, toast, furniture and news. In spoken English we often use **a bit of** (informal) with most uncountable nouns.",
+      "examples": [
+        { "text": "That was a good **piece of advice**.", "note": "or a good bit of advice" },
+        { "text": "Would you like another **piece of toast**?" },
+        { "text": "I heard an interesting **bit of news** this morning." },
+        { "text": "There's just a **bit of rubbish** on the floor.", "note": "piece is not possible here" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "With progress, rubbish and pocket money use a bit of, not ~~a piece of~~: She's making a bit of progress."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "I need some informations about the trip.",
+      "answer": false,
+      "explanation": "I need some information about the trip. Information has no plural form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her progress ___ very good this term.",
+      "hint": "(be - past or present)",
+      "answers": ["is", "was"],
+      "explanation": "Progress is uncountable, so it takes a singular verb: her progress is / was."
+    },
+    {
+      "type": "true_false",
+      "statement": "We had a lot of homeworks yesterday.",
+      "answer": false,
+      "explanation": "We had a lot of homework yesterday. Homework has no plural form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The furniture in the old flat ___ very old.",
+      "hint": "(be - past)",
+      "answers": ["was"],
+      "explanation": "Furniture is uncountable and takes a singular verb: the furniture was old."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Our teacher has ___ about the trip.",
+      "options": ["some news", "a news", "some newses", "many news"],
+      "answer": 0,
+      "explanation": "News is uncountable: some news, or a bit / piece of news - never a news."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each uncountable noun with its meaning.",
+      "pairs": [
+        { "left": "rubbish", "right": "things you throw away" },
+        { "left": "scenery", "right": "the natural beauty around you" },
+        { "left": "equipment", "right": "the things used for an activity" },
+        { "left": "pocket money", "right": "money parents give their children" },
+        { "left": "behaviour", "right": "the way you do and say things" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's useful equipment. = It's a useful ___ of equipment.",
+      "hint": "(one word)",
+      "answers": ["piece", "bit"],
+      "explanation": "We make equipment countable with a piece of or a bit of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's making progress. = She's making a ___ of progress.",
+      "hint": "(piece is not possible here)",
+      "answers": ["bit"],
+      "explanation": "With progress we say a bit of progress, not a piece of progress."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* She hasn't worked there long enough. *B:* No, she needs more ___.",
+      "hint": "(what you learn from doing a job)",
+      "answers": ["experience"],
+      "explanation": "Experience is uncountable when it means the knowledge you get from doing a job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Don't you think the room looks empty? *B:* Yes, we need more ___.",
+      "hint": "(tables, chairs, armchairs)",
+      "answers": ["furniture"],
+      "explanation": "Furniture is uncountable: more furniture, not ~~more furnitures~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We camped on the hill above the lake because the ___ is so beautiful.",
+      "hint": "(starts with s)",
+      "answers": ["scenery"],
+      "explanation": "Scenery is the natural beauty you see around you, and it is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't know what's wrong with Celia, but her ___ was very strange this morning.",
+      "hint": "(starts with b)",
+      "answers": ["behaviour"],
+      "explanation": "Behaviour is the way you do and say things. It is uncountable."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Are these nouns countable or uncountable?",
+      "categories": ["Uncountable (U)", "Countable (C)"],
+      "items": [
+        { "text": "transport", "category": 0 },
+        { "text": "luggage", "category": 0 },
+        { "text": "suitcase", "category": 1 },
+        { "text": "pasta", "category": 0 },
+        { "text": "traffic", "category": 0 },
+        { "text": "accident", "category": 1 }
+      ]
+    }
+  ]
+}

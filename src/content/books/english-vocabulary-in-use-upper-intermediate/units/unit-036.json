@@ -1,0 +1,215 @@
+{
+  "number": 36,
+  "title": "Social media",
+  "subtitle": "post, share, follow, tag, privacy settings",
+  "summary": "Use the everyday language of social media - posting, sharing, following and tagging - and talk about profiles, notifications and privacy settings.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Social media verbs",
+      "text": "Most social media activity is described with a small set of verbs: you **post** something, other people **share**, **like** or **comment on** it, and you **follow** or **subscribe to** the people whose posts you want to see.",
+      "examples": [
+        { "text": "My friend **posted** a video of her baby and it was **shared** over a thousand times." },
+        { "text": "Send me a **friend request**, and then you can see the pictures I took." },
+        { "text": "I probably **update my status** about twice a week. I like telling people what I'm doing." },
+        { "text": "Over 100,000 people **subscribe to** his video channel and **follow** him on Twitter." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Noun and verb - the same word",
+      "columns": ["As a verb", "As a noun"],
+      "rows": [
+        ["24 people **liked** my post.", "My post got 24 **likes**."],
+        ["I **commented** on her status.", "I wrote a **comment** on her status."],
+        ["Thousands of people **viewed** the clip.", "The clip got 3,000 **views**."],
+        ["Please **share** this picture.", "Thanks for the **share**."],
+        ["I **posted** it yesterday.", "It was my most popular **post**."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using a social media app",
+      "text": "When you join an **app**, you create a **profile**, **upload** a photo and include some basic information. You can then **post updates**, **share links** to things you find interesting, or **comment on** other people's profiles.",
+      "examples": [
+        { "text": "You can **rate** videos from one to five stars." },
+        { "text": "You can see how many **views** or **likes** your post got.", "note": "views = the number of times people have watched it; likes = the number of times people have clicked 'like'" },
+        { "text": "It's annoying that you can't turn off **notifications** when a friend writes something new.", "note": "notifications = messages that tell you when something has happened" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Profiles and timelines",
+      "text": "Your **profile** is the page with information about you, and your **profile picture** is the photo of you at the top of it. Your **timeline** is the collection of photos and other posts on your profile.",
+      "examples": [
+        { "text": "Often your **profile picture** is **public**, but you can usually make posts on your **timeline** **private**." },
+        { "text": "To enter the competition, share this picture on your **timeline** before 8 pm on Friday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Online privacy",
+      "text": "It is worth thinking about who can see your personal information. Check your **privacy settings** regularly and make sure you understand who can see what you post.",
+      "examples": [
+        { "text": "If you have to give personal information when you create an **account**, make sure it is kept **private**." },
+        { "text": "The **default** setting for new posts is Friends Only.", "note": "the default = what happens automatically if you don't change it" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Tags and direct messages",
+      "text": "If you are **tagged** in someone else's post, your name and a link to your profile are added to it - and a lot of people you don't know may see it. For anything private, use a **direct message**, which only the people in the conversation can see.",
+      "examples": [
+        { "text": "Please don't **tag** me in any of those photos - I look terrible." },
+        { "text": "You can ask people to remove the **tag** if necessary." },
+        { "text": "If you want to buy the skirt, please send me a **direct message**." },
+        { "text": "**Delete** old accounts on sites you are not using any more - you might forget what information they contain." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Notice the difference between public (everyone can see it) and private (only the people you choose can see it) - your privacy settings decide which is which."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "If you liked this video, please ___ it with your friends.",
+      "hint": "(verb)",
+      "answers": ["share"],
+      "explanation": "You share a post or a video with other people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hate it when people ___ hundreds of photos from their holiday.",
+      "hint": "(verb)",
+      "answers": ["post"],
+      "explanation": "To post something is to put it on social media."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do you know Monica Coto? She's just sent me a friend ___ on Facebook.",
+      "hint": "(noun)",
+      "answers": ["request"],
+      "explanation": "A friend request asks someone to connect with you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I just updated my ___ to tell people we've arrived safely at the hotel.",
+      "hint": "(noun)",
+      "answers": ["status"],
+      "explanation": "You update your status to say what you are doing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can ___ to our channel, and we'll email you when a new video comes out.",
+      "hint": "(verb + to)",
+      "answers": ["subscribe"],
+      "explanation": "You subscribe to a channel; you follow a person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mo likes to ___ chefs and food writers on Twitter.",
+      "hint": "(verb)",
+      "answers": ["follow"],
+      "explanation": "You follow someone to see everything they post."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I've just uploaded ___ of Saturday's football match to the team Facebook page.",
+      "options": ["photos", "comments", "notifications", "requests"],
+      "answer": 0,
+      "explanation": "You upload photos and videos; you write comments."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Yi Ling ___ a lot of updates about her training for the 10k run.",
+      "options": ["posts", "views", "rates", "tags"],
+      "answer": 0,
+      "explanation": "You post an update; other people then view it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jo posted a really interesting article about Formula 1 racing, but it didn't get any ___.",
+      "options": ["likes", "rates", "tags", "defaults"],
+      "answer": 0,
+      "explanation": "Likes are countable; rate is a verb, not a noun here."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did you ___ that restaurant we went to? I'd give it one star.",
+      "options": ["rate", "upload", "subscribe", "tag"],
+      "answer": 0,
+      "explanation": "You rate something from one to five stars."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Elena made a video for the animal charity she works for and it got 3,000 ___.",
+      "options": ["views", "uploads", "requests", "settings"],
+      "answer": 0,
+      "explanation": "Views are the number of times people have watched it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An old friend ___ on one of my photos, asking where I was living now.",
+      "options": ["commented", "viewed", "shared", "rated"],
+      "answer": 0,
+      "explanation": "You comment on a photo or a status."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do we call each of these?",
+      "pairs": [
+        { "left": "the page with information about the user", "right": "profile" },
+        { "left": "the photo of the user", "right": "profile picture" },
+        { "left": "the page where a person's photos and posts appear", "right": "timeline" },
+        { "left": "the message you get when something new happens", "right": "notification" },
+        { "left": "part of a private conversation", "right": "direct message" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm a teacher, so I make sure everything in my profile is ___. I don't want my students to see it.",
+      "hint": "(adjective beginning with p)",
+      "answers": ["private"],
+      "explanation": "Private means only the people you choose can see it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "To find your ___ settings, click on the 'lock' icon at the top of the screen.",
+      "hint": "(noun beginning with p)",
+      "answers": ["privacy"],
+      "explanation": "Privacy settings are the choices about what people see on your profile."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "To create an ___, you have to give your email address and a password.",
+      "hint": "(noun beginning with a)",
+      "answers": ["account"],
+      "explanation": "You create an account when you join a site."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ setting for new posts on this site is Friends Only, but it's easy to change.",
+      "hint": "(adjective beginning with d)",
+      "answers": ["default"],
+      "explanation": "The default is what happens automatically if you don't change it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort the words into things you do and things you get.",
+      "categories": ["Something you do", "Something you get"],
+      "items": [
+        { "text": "upload", "category": 0 },
+        { "text": "tag", "category": 0 },
+        { "text": "subscribe", "category": 0 },
+        { "text": "rate", "category": 0 },
+        { "text": "notification", "category": 1 },
+        { "text": "friend request", "category": 1 },
+        { "text": "likes", "category": 1 },
+        { "text": "views", "category": 1 }
+      ]
+    }
+  ]
+}

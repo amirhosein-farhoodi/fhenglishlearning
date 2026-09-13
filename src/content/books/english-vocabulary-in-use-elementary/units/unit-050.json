@@ -1,0 +1,173 @@
+{
+  "number": 50,
+  "title": "Conjunctions and connecting words",
+  "subtitle": "and, but, because, so, if, also, too",
+  "summary": "Join two parts of a sentence with and, but, because, so and if, and connect ideas with only, like, than, also, too and as well.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What conjunctions do",
+      "text": "**Conjunctions** join two parts of a sentence. They show the connection between the two parts, so the listener knows if the second part is extra information, a contrast, a reason or a result.",
+      "examples": [
+        { "text": "Kate is a student **and** she works part-time.", "note": "extra information" },
+        { "text": "They are rich **but** they aren't happy.", "note": "a contrast" },
+        { "text": "You can pay by credit card **or** cash.", "note": "a different possibility" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Basic conjunctions",
+      "columns": ["Word", "Example", "What it does"],
+      "rows": [
+        ["and", "Kate is a student and she works part-time.", "gives extra information"],
+        ["but", "They are rich but they aren't happy.", "gives a contrast"],
+        ["or", "You can pay by credit card or cash.", "gives a different possibility"],
+        ["because", "We went home early because we were tired.", "explains why"],
+        ["so", "I felt ill so I didn't go to work.", "gives a result"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Time conjunctions and if",
+      "columns": ["Word", "Example", "What it does"],
+      "rows": [
+        ["when", "I went to the party when the babysitter arrived.", "says when the first part happened"],
+        ["before", "We left before it started to rain.", "the first part happened first"],
+        ["after", "We went for a meal after we had seen the film.", "the second part happened first"],
+        ["if", "You can have some ice cream if you eat your dinner.", "the first part may not happen"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "only, like and than",
+      "text": "**Only** says that something is not very big or not very much. **Like** makes a comparison. **Than** comes after a comparative adjective or adverb.",
+      "examples": [
+        { "text": "He **only** sleeps for three hours every night." },
+        { "text": "She looks **like** her father." },
+        { "text": "My grandmother swims **like** a fish." },
+        { "text": "She works harder **than** he does." },
+        { "text": "I can swim better **than** they can!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "also, too and as well",
+      "text": "**Also**, **too** and **as well** all say that something is extra. **Also** usually goes in the middle of the sentence; **too** and **as well** go at the end.",
+      "examples": [
+        { "text": "He works in the shop and she works there **too**." },
+        { "text": "He works in the shop and she **also** works there." },
+        { "text": "He works in the shop and she works there **as well**." },
+        { "text": "I love swimming and my sister likes it very much **as well**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "These words are small but very important. Write a translation of each one in your notebook."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Blake liked school ___ he had many friends there.",
+      "hint": "(give a reason)",
+      "answers": ["because"],
+      "explanation": "Because explains why the first part happened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Blake was seasick ___ he left the navy.",
+      "hint": "(give a result)",
+      "answers": ["so"],
+      "explanation": "So introduces the result of the first part."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Blake left school ___ he joined the navy.",
+      "options": ["and", "but", "or", "because"],
+      "answer": 0,
+      "explanation": "And adds extra information about what happened next."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He hadn't travelled much ___ he joined the navy.",
+      "options": ["before", "after", "because", "so"],
+      "answer": 0,
+      "explanation": "Before shows that the first part happened first."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He will stay at the bank ___ he likes it there.",
+      "options": ["if", "when", "before", "so"],
+      "answer": 0,
+      "explanation": "If says the first part will only happen when the second part happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He wants to get married ___ he's 30.",
+      "hint": "(time word)",
+      "answers": ["when"],
+      "explanation": "When says at what time the first part will happen."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each connecting word with its job in the sentence.",
+      "pairs": [
+        { "left": "and", "right": "gives extra information" },
+        { "left": "but", "right": "gives a contrast" },
+        { "left": "or", "right": "gives a different possibility" },
+        { "left": "because", "right": "explains why" },
+        { "left": "so", "right": "gives a result" },
+        { "left": "if", "right": "says something may not happen" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love swimming and my brother loves swimming ___.",
+      "hint": "(a short extra word at the end)",
+      "answers": ["too", "as well", "also"],
+      "explanation": "Too, as well and also all say that something is extra."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother and sister both swim, but I can swim better ___ they can!",
+      "hint": "(one word)",
+      "answers": ["than"],
+      "explanation": "Than comes after a comparative: better than, harder than."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the word join two parts of a sentence, or is it another connecting word?",
+      "categories": ["Conjunction", "Other connecting word"],
+      "items": [
+        { "text": "and", "category": 0 },
+        { "text": "because", "category": 0 },
+        { "text": "so", "category": 0 },
+        { "text": "when", "category": 0 },
+        { "text": "than", "category": 1 },
+        { "text": "like", "category": 1 },
+        { "text": "only", "category": 1 },
+        { "text": "as well", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Annabelle loved Aarav, and that is why she agreed to marry him. Say it.",
+      "words": ["Annabelle", "agreed", "to", "marry", "Aarav", "because", "she", "loved", "him."],
+      "answer": "Annabelle agreed to marry Aarav because she loved him.",
+      "explanation": "Because gives the reason."
+    },
+    {
+      "type": "true_false",
+      "statement": "They are rich but they aren't happy.",
+      "answer": true,
+      "explanation": "Correct. But shows a contrast between the two parts."
+    },
+    {
+      "type": "true_false",
+      "statement": "We went home early so we were tired.",
+      "answer": false,
+      "explanation": "We went home early because we were tired. Because gives the reason, so gives the result."
+    }
+  ]
+}

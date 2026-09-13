@@ -1,0 +1,169 @@
+{
+  "number": 47,
+  "title": "Everyday things",
+  "subtitle": "wake up, have breakfast, go to bed",
+  "summary": "Describe your daily routine from waking up to going to bed, and ask people how often and what time they do things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The start of the day",
+      "text": "The day begins like this: you **wake up** (you open your eyes), then you **get up** (you leave your bed). Then you **go to the bathroom** and **have a shower**, and after that you **have breakfast**.",
+      "examples": [
+        { "text": "I usually **wake up** at 7 o'clock, but I stay in bed for ten minutes." },
+        { "text": "I **get up**, **go to the bathroom** and **have a shower**." },
+        { "text": "I **have breakfast** at half past seven." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A day from start to finish",
+      "columns": ["Time of day", "What we do"],
+      "rows": [
+        ["Early morning", "wake up / get up / go to the bathroom / have a shower"],
+        ["Morning", "have breakfast / listen to the radio / go to work"],
+        ["Evening", "come home / make dinner / phone (or call) a friend"],
+        ["Night", "watch TV / go to bed"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The rest of the day",
+      "text": "In the morning you **go to work**. In the evening you **come home**, **make dinner** and **phone** (or **call**) a friend. Later you **watch TV** and then you **go to bed**.",
+      "examples": [
+        { "text": "I **listen to the radio** while I have breakfast." },
+        { "text": "I **come home** at about six and I **make dinner**." },
+        { "text": "In the evening I **watch TV** and then I **go to bed** at 11." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sometimes I ...",
+      "text": "Some things we do only now and then: **wash clothes**, **clean the house**, **go for a walk** and **write letters or emails**.",
+      "examples": [
+        { "text": "She **washes her clothes** every Saturday." },
+        { "text": "He **cleans the house** every weekend." },
+        { "text": "She **goes for a walk** every Sunday." },
+        { "text": "Sometimes I **write** one or two **emails** in the evening." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about routines",
+      "text": "Use **How often ...?** for the number of times, **What time ...?** or **When ...?** for the time of day, and **How ...?** for transport.",
+      "examples": [
+        { "text": "*A:* **How often** do you go out? *B:* Three or four times a week." },
+        { "text": "*A:* **What time** do you get up? *B:* At 7 o'clock normally." },
+        { "text": "*A:* **How** do you go to work? *B:* Usually by bus." },
+        { "text": "*A:* **When** do you have dinner? *B:* At about 7 o'clock." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "For a habit now we say I usually get up at 8 o'clock - not ~~I'm used to get up~~ at 8 o'clock."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He listens ___ the radio every morning.",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "We listen to the radio or to music."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ her clothes every Saturday.",
+      "hint": "(wash)",
+      "answers": ["washes"],
+      "explanation": "He / she washes - we add -es after -sh."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He ___ the house every weekend.",
+      "hint": "(clean)",
+      "answers": ["cleans"],
+      "explanation": "We clean the house or clean our room."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He ___ TV every evening.",
+      "hint": "(watch)",
+      "answers": ["watches"],
+      "explanation": "He / she watches - we add -es after -ch."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ for a walk every Sunday.",
+      "hint": "(go)",
+      "answers": ["goes"],
+      "explanation": "We go for a walk."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend answers: 7.30, usually. What was your question?",
+      "words": ["What", "time", "do", "you", "get", "up?"],
+      "answer": "What time do you get up?",
+      "explanation": "What time ...? asks about the time of day."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend answers: Every Saturday. What was your question?",
+      "words": ["How", "often", "do", "you", "go", "for", "a", "walk?"],
+      "answer": "How often do you go for a walk?",
+      "explanation": "How often ...? asks about the number of times."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* ___ do you go to work? *B:* By train.",
+      "options": ["How", "When", "What time", "How often"],
+      "answer": 0,
+      "explanation": "How ...? asks about transport: by bus, by train, by car."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* ___ do you phone your best friend? *B:* Two or three times a week.",
+      "options": ["How often", "How", "What", "Where"],
+      "answer": 0,
+      "explanation": "Two or three times a week answers How often ...?"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        { "left": "What time do you get up?", "right": "7.30, usually." },
+        { "left": "How do you go to work?", "right": "By train." },
+        { "left": "When do you have dinner?", "right": "At about 7 o'clock." },
+        { "left": "How often do you go out?", "right": "Three or four times a week." },
+        { "left": "How do you come home from work?", "right": "I normally walk home." }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do we normally do these things every day, or only sometimes?",
+      "categories": ["Every day", "Sometimes"],
+      "items": [
+        { "text": "wake up", "category": 0 },
+        { "text": "get up", "category": 0 },
+        { "text": "have breakfast", "category": 0 },
+        { "text": "go to bed", "category": 0 },
+        { "text": "wash clothes", "category": 1 },
+        { "text": "clean the house", "category": 1 },
+        { "text": "go for a walk", "category": 1 },
+        { "text": "write emails", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I usually get up at 8 o'clock, but today I got up at 8.30.",
+      "answer": true,
+      "explanation": "Correct. We use the present simple for a habit and the past for today."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm used to get up at 8 o'clock every morning.",
+      "answer": false,
+      "explanation": "I usually get up at 8 o'clock every morning."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "number": 11,
+  "title": "In the kitchen",
+  "subtitle": "fridge, saucepan, cupboard, washing-up",
+  "summary": "Name the things in a kitchen, say what you need to cook, eat and wash up, and ask where things are or where they go.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The big things in the kitchen",
+      "text": "The **fridge** keeps food cold and the **freezer** is much colder - it keeps food frozen. You cook on the **cooker**, and a **microwave** cooks food in one or two minutes. A **dishwasher** washes the plates and a **washing machine** washes your clothes.",
+      "examples": [
+        { "text": "Put the milk in the **fridge**." },
+        { "text": "The **freezer** is colder than the fridge." },
+        { "text": "To cook dinner in two minutes, I need a **microwave**." },
+        { "text": "I put my dirty shirts in the **washing machine**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where things are",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["cupboard", "you keep cups, plates and food inside it"],
+        ["shelf", "a long flat board on the wall for things like a teapot"],
+        ["worktop", "the flat surface where you prepare food"],
+        ["sink", "you wash plates and cups here"],
+        ["tap", "the water comes out of it"],
+        ["bin", "you put rubbish in it"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things we use in the kitchen",
+      "text": "You cook soup in a **saucepan** and you fry eggs in a **frying pan**. You make tea in a **teapot** and coffee in a **coffee maker**. To clean up you need **washing-up liquid**, a **cloth**, some **kitchen roll** and a **tea towel** to dry the plates.",
+      "examples": [
+        { "text": "You use **washing-up liquid** to clean plates." },
+        { "text": "A **tea towel** is for drying plates, not for making tea." },
+        { "text": "I turn on the **tap** to fill the **saucepan**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Eating and drinking",
+      "columns": ["Group", "Words"],
+      "rows": [
+        ["Things you eat with", "a knife, a fork, a spoon, chopsticks"],
+        ["Things you eat from", "a plate, a bowl"],
+        ["Things you drink from", "a cup, a mug, a glass"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Useful questions",
+      "text": "Use these questions in someone else's kitchen. **Where can I find ... ?** asks where something is, and **Where does this ... go?** asks where to put it away.",
+      "examples": [
+        { "text": "*A:* **Where can I find** a mug? *B:* It's in the cupboard." },
+        { "text": "*A:* **Can I help with** the washing-up? *B:* Yes, please! You can dry the plates." },
+        { "text": "*A:* **Where does** this frying pan **go**? *B:* Put it in this cupboard, please." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Stick paper labels with English names on the things in your kitchen. You see them every day, so you learn the words quickly."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "You use washing-up liquid to clean plates.",
+      "answer": true,
+      "explanation": "Correct. Washing-up liquid goes in the sink with the dirty plates."
+    },
+    {
+      "type": "true_false",
+      "statement": "The fridge is colder than the freezer.",
+      "answer": false,
+      "explanation": "The freezer is colder than the fridge."
+    },
+    {
+      "type": "true_false",
+      "statement": "A tea towel is for making tea.",
+      "answer": false,
+      "explanation": "A tea towel is for drying plates. You make tea in a teapot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I turn on the ___ to get water.",
+      "hint": "(one word)",
+      "answers": ["tap"],
+      "explanation": "Water comes out of the tap into the sink."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I use a ___ to drink water out of.",
+      "options": ["glass", "frying pan", "plate", "spoon"],
+      "answer": 0,
+      "explanation": "You drink from a glass, a cup or a mug."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the job with the thing you need.",
+      "pairs": [
+        { "left": "To make tea I need", "right": "a teapot" },
+        { "left": "To fry an egg I need", "right": "a frying pan" },
+        { "left": "To wash my clothes I need", "right": "a washing machine" },
+        { "left": "To cook dinner in two minutes I need", "right": "a microwave" },
+        { "left": "To wash all the plates for me I need", "right": "a dishwasher" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you eat with it or drink from it?",
+      "categories": ["You eat with it", "You drink from it"],
+      "items": [
+        { "text": "a fork", "category": 0 },
+        { "text": "a spoon", "category": 0 },
+        { "text": "chopsticks", "category": 0 },
+        { "text": "a knife", "category": 0 },
+        { "text": "a mug", "category": 1 },
+        { "text": "a glass", "category": 1 },
+        { "text": "a cup", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where can I find a mug? *B:* It's in the ___.",
+      "hint": "(you keep cups and plates in it)",
+      "answers": ["cupboard"],
+      "explanation": "Cups, mugs and plates live in the cupboard."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Offer to help your friend in the kitchen after dinner.",
+      "words": ["Can", "I", "help", "with", "the", "washing-up?"],
+      "answer": "Can I help with the washing-up?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "You are holding some clean bowls. Ask where to put them.",
+      "words": ["Where", "do", "these", "bowls", "go?"],
+      "answer": "Where do these bowls go?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Can I help? *B:* Yes, please! You can dry the ___ with this tea towel.",
+      "hint": "(you eat your food from them)",
+      "answers": ["plates"],
+      "explanation": "A tea towel is for drying plates."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Where do you wash the cups and plates by hand?",
+      "options": ["in the sink", "in the bin", "on the shelf", "in the freezer"],
+      "answer": 0,
+      "explanation": "You fill the sink with water and washing-up liquid."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put the shopping on the ___ next to the cooker.",
+      "hint": "(the flat surface where you prepare food)",
+      "answers": ["worktop"],
+      "explanation": "The worktop is the flat surface in the kitchen."
+    }
+  ]
+}

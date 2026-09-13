@@ -1,0 +1,178 @@
+{
+  "number": 17,
+  "title": "The place where you live",
+  "subtitle": "on the outskirts, rent a flat, a lift, a cottage, central heating",
+  "summary": "Describe where your home is, what kind of building it is and what it is like inside.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Location",
+      "text": "The **location** is the place and position of something. If you live **on the outskirts of town**, you live on the edge of town, not in the **centre**. If you **move**, you change the place where you live.",
+      "examples": [
+        { "text": "We live **on the outskirts of town**, and it's a very nice **location**." },
+        { "text": "We used to live in the centre, but we **moved** to our present flat when we had children." },
+        { "text": "There's more **space** for them to play and it has nice **views**.", "note": "space = an area that is empty or not used; views = the things you can see from a place" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A flat",
+      "text": "If you **rent** a flat, you pay money every week or month to use it, because it isn't yours. A **block of flats** is a building with a number of flats in it. The **lift** is the machine that takes people up or down a floor.",
+      "examples": [
+        { "text": "We **rent** a flat on the second floor." },
+        { "text": "There's a family in the flat **downstairs**, and a young French couple **upstairs**, on the **top floor**.", "note": "downstairs = on a lower level of a building" },
+        { "text": "It's a modern **block of flats**, although the **lift** is small." },
+        { "text": "There's no **air conditioning**.", "note": "air conditioning = a system that keeps the air cool" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The floors of a building",
+      "columns": ["Floor", "Where it is"],
+      "rows": [
+        ["the ground floor", "at street level; you go in through the front door"],
+        ["the first floor", "the floor above the ground floor"],
+        ["the second floor", "two floors above street level"],
+        ["the top floor", "the highest floor in the building"],
+        ["a balcony", "a small outside area on the wall of a flat"],
+        ["steps", "the stairs outside, up to the front door"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "flat or apartment?",
+      "text": "**Flat** is more common in British English; **apartment** is used in American English but is becoming more common in British English too. Apartments are usually in large buildings; flats can be in a large building or part of a larger house.",
+      "examples": [
+        { "text": "We rent a small **flat** near the station." },
+        { "text": "I love my **apartment**. It has big windows." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A house in the country",
+      "text": "If you **own** a house, you bought it and it is yours. A **cottage** is a small old attractive house, usually in the country. **Charming** means pleasant and attractive, and a house with **character** is interesting and unusual.",
+      "examples": [
+        { "text": "My parents **own** a **cottage**." },
+        { "text": "It's a **charming** house and has lots of **character**." },
+        { "text": "Like many old buildings, it's quite **dark**.", "note": "the opposite of dark is light" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Keeping warm",
+      "text": "To **heat** a room means to make it warm or hot. **Central heating** is a system that heats a whole house. Old buildings are often difficult to heat.",
+      "examples": [
+        { "text": "The cottage is quite difficult to **heat**." },
+        { "text": "It doesn't have **central heating**, so it's cold in winter." },
+        { "text": "It's a very big house, so it costs a lot of money to **heat** in the winter." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Own and rent are opposites: you own your home if you bought it, and you rent it if you pay someone else every month to live there."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "location", "right": "the place and position of something" },
+        { "left": "outskirts", "right": "the edge of a town" },
+        { "left": "views", "right": "the things you can see from a place" },
+        { "left": "character", "right": "the quality of being interesting and unusual" },
+        { "left": "lift", "right": "the machine that takes you up a floor" },
+        { "left": "cottage", "right": "a small old house in the country" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is this a positive or a negative feature of a home?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "nice views", "category": 0 },
+        { "text": "air conditioning", "category": 0 },
+        { "text": "lots of character", "category": 0 },
+        { "text": "a charming garden", "category": 0 },
+        { "text": "dark rooms", "category": 1 },
+        { "text": "no central heating", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our flat doesn't have air ___, so it's very hot in the summer.",
+      "hint": "(one word)",
+      "answers": ["conditioning"],
+      "explanation": "Air conditioning is a system that keeps the air cool."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My old flat was very small, but this one has much more ___.",
+      "hint": "(an area that is empty or not used)",
+      "answers": ["space"],
+      "explanation": "Space = room to move or to put things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We live on the ___ of town, but it's only a twenty-minute walk to the centre.",
+      "hint": "(the edge of town)",
+      "answers": ["outskirts"],
+      "explanation": "On the outskirts of town = on the edge of town."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The flat is on the third floor, but we can sit outside on the ___.",
+      "hint": "(a small outside area on the wall)",
+      "answers": ["balcony", "a balcony"],
+      "explanation": "A balcony is the small outside area you can sit on, high up in a block of flats."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a very big house, so it costs a lot of money to ___ in the winter.",
+      "hint": "(make warm)",
+      "answers": ["heat"],
+      "explanation": "Heat = make warm or hot. A system for the whole house is central heating."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The flat's in a great ___: it's near the centre of town but opposite a park and very quiet.",
+      "hint": "(the place and position)",
+      "answers": ["location"],
+      "explanation": "Location = the place and position of something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'm on the second floor. I usually use the stairs, but I take the ___ if I'm feeling lazy.",
+      "options": ["lift", "balcony", "steps", "block"],
+      "answer": 0,
+      "explanation": "The lift is the machine that takes people up or down a floor."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I love my apartment. It has big windows, so it's nice and ___ inside.",
+      "options": ["light", "dark", "rented", "central"],
+      "answer": 0,
+      "explanation": "Light is the opposite of dark. Big windows make a room light."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you rent a flat, the flat belongs to you.",
+      "answer": false,
+      "explanation": "If you rent a flat, you pay money every week or month to use it, because it isn't yours. If it belongs to you, you own it."
+    },
+    {
+      "type": "true_false",
+      "statement": "A cottage is a small old attractive house, usually found in the country.",
+      "answer": true,
+      "explanation": "Correct. Cottages often have lots of character but no central heating."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to explain why the family changed home.",
+      "words": ["We", "moved", "to", "our", "present", "flat", "when", "we", "had", "children."],
+      "answer": "We moved to our present flat when we had children.",
+      "explanation": "Move = change the place where you live."
+    }
+  ]
+}

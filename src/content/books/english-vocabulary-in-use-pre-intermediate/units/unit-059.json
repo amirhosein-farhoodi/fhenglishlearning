@@ -1,0 +1,189 @@
+{
+  "number": 59,
+  "title": "War and violence",
+  "subtitle": "defend, attack, take place",
+  "summary": "Talk about armies, wars and battles, and understand the words used in news reports about attacks.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The job of the army",
+      "text": "**Soldiers** are members of an **army**. They **carry guns**. Part of the responsibility of an army is to **defend** their country from **attack** and to **protect** the people. Sometimes this means they have to **fight the enemy**.",
+      "examples": [
+        { "text": "The soldiers were **carrying guns**.", "note": "carry a gun = have a gun with you" },
+        { "text": "My men had to **defend** the village from outside attacks.", "note": "defend = stop others who use violence against you" },
+        { "text": "The army is there to **protect** the people.", "note": "protect = keep them safe" },
+        { "text": "They have been **fighting** for days.", "note": "the enemy = the people you are fighting against" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "war and battle",
+      "left": {
+        "label": "a war",
+        "text": "A long period of fighting between countries.",
+        "examples": [
+          "The First **World War** lasted from 1914 to 1918.",
+          "The two countries have been at **war** for three years."
+        ]
+      },
+      "right": {
+        "label": "a battle",
+        "text": "One fight between two armies, inside a war.",
+        "examples": [
+          "The **battle** lasted for two hours.",
+          "There were a number of **battles** during the war."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Violence",
+      "text": "**Violence** is when someone tries to hurt or kill someone. The adjective is **violent**.",
+      "examples": [
+        { "text": "The **violence** has increased in recent weeks." },
+        { "text": "There have been a number of **violent** attacks." },
+        { "text": "The bomb was followed by a **violent** gun battle." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reporting an attack",
+      "text": "In news reports, a **bomb explodes** and **destroys** buildings. People are **killed** or **injured**. The **attack takes place** at a certain time, and the army **searches** the area for the attackers.",
+      "examples": [
+        { "text": "A bomb **exploded** in the **heart of** the city.", "note": "the heart of = the centre of" },
+        { "text": "The bomb **destroyed** several buildings.", "note": "destroy = damage so badly that they don't exist now" },
+        { "text": "The attack **took place** just before midday.", "note": "take place = happen" },
+        { "text": "The army are **searching** the area.", "note": "search = try to find someone or something" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More words from the news report",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["**escape**", "leave the place without being caught; syn get away"],
+        ["**hide**", "stay in a place where you cannot be seen or found"],
+        ["**shot**", "injured by a gun (the past of shoot)"],
+        ["**missing**", "it isn't known where someone or something is"],
+        ["**deaths**", "people who are dead or have died"],
+        ["**dead**", "adjective: no longer alive"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Same word, verb and noun",
+      "text": "Several words in this unit are both a verb and a noun, with a similar meaning.",
+      "examples": [
+        { "text": "They're **searching** for them. / They're continuing their **search** for them." },
+        { "text": "He can't **escape**. / There is no **escape**." },
+        { "text": "When did they **attack**? / Where did the **attack** take place?" }
+      ],
+      "note": "But **die** is only a verb and **death** is only a noun: three soldiers **died**; the number of **deaths** is rising."
+    },
+    {
+      "type": "tip",
+      "text": "**Destroyed** means the building does not exist any more. If it is only badly damaged, say **damaged** - not ~~completely damaged~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is each word a verb only, a noun only, or both?",
+      "categories": ["Verb only", "Noun only", "Noun and verb"],
+      "items": [
+        { "text": "protect", "category": 0 },
+        { "text": "die", "category": 0 },
+        { "text": "hide", "category": 0 },
+        { "text": "death", "category": 1 },
+        { "text": "war", "category": 1 },
+        { "text": "search", "category": 2 },
+        { "text": "attack", "category": 2 },
+        { "text": "escape", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The soldiers have been ___ for days, and so far three have been injured.",
+      "hint": "(one word, -ing)",
+      "answers": ["fighting"],
+      "explanation": "Soldiers fight the enemy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The woman was ___ with a small handgun, but wasn't seriously injured.",
+      "hint": "(past of shoot)",
+      "answers": ["shot"],
+      "explanation": "Shot = injured by a gun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "One of the soldiers managed to ___ under the house where no one could find him.",
+      "hint": "(one word)",
+      "answers": ["hide"],
+      "explanation": "Hide = stay where you cannot be seen or found."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are 20 soldiers surrounding the house, so the men inside cannot ___.",
+      "hint": "(one word)",
+      "answers": ["escape", "get away"],
+      "explanation": "Escape (syn get away) = leave without being caught."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I understand the army are ___ houses in an effort to find the gunman.",
+      "hint": "(one word, -ing)",
+      "answers": ["searching"],
+      "explanation": "Search = try to find someone or something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bomb completely ___ the building, but fortunately no one was inside at the time.",
+      "hint": "(one word, past)",
+      "answers": ["destroyed"],
+      "explanation": "Destroy = damage so badly that the building no longer exists."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Were the police ___ guns when they saw the men?",
+      "hint": "(one word, -ing)",
+      "answers": ["carrying"],
+      "explanation": "We say carry a gun, not hold a gun, for having one with you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "One man was found but the other is still ___.",
+      "options": ["missing", "lost", "hidden", "dead"],
+      "answer": 0,
+      "explanation": "Missing = it isn't known where the person is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The boy was badly injured and later ___.",
+      "options": ["died", "killed", "death", "dead"],
+      "answer": 0,
+      "explanation": "Die is the verb; we say he died, not ~~he killed~~."
+    },
+    {
+      "type": "true_false",
+      "statement": "Three of the men are died.",
+      "answer": false,
+      "explanation": "Three of the men are dead. Dead is the adjective; died is the past of the verb die."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The soldiers were out on patrol when they saw the ___ about half a mile away.",
+      "hint": "(the people they are fighting against)",
+      "answers": ["enemy"],
+      "explanation": "The enemy are the people you are fighting against."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "An army captain said that they have now taken control of the area where the attack took ___.",
+      "hint": "(one word)",
+      "answers": ["place"],
+      "explanation": "Take place = happen."
+    }
+  ]
+}

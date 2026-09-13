@@ -1,0 +1,209 @@
+{
+  "number": 5,
+  "title": "Countries, nationalities and languages",
+  "subtitle": "a Swede, a Dutch woman, bilingual, the Far East",
+  "summary": "Form nationality adjectives and nouns correctly, name the regions of the world, and talk about first languages, dialects and being bilingual.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Countries with the",
+      "text": "Most names of countries are used **without** *the*, but a few - usually the ones whose names contain a plural or a common noun such as *states*, *kingdom* or *union* - always take **the**.",
+      "examples": [
+        { "text": "**the United States** / **the US(A)**, **the United Kingdom** / **the UK**" },
+        { "text": "**the Netherlands**, **the Philippines**, **the United Arab Emirates** / **the UAE**" },
+        { "text": "**the European Union** / **the EU**, **the Commonwealth**" },
+        { "text": "But: France, Japan, Brazil, Poland - no *the*." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Nationality adjectives by ending",
+      "columns": ["Ending", "Examples"],
+      "rows": [
+        ["-ish", "British, Irish, Flemish, Polish, Danish, Turkish, Spanish"],
+        ["-(i)an", "Canadian, Brazilian, Latvian, Korean, Russian, Australian, Arabian"],
+        ["-ese", "Japanese, Chinese, Vietnamese, Portuguese, Maltese, Taiwanese"],
+        ["-i", "Israeli, Iraqi, Kuwaiti, Pakistani, Yemeni, Bangladeshi"],
+        ["-ic", "Icelandic, Arabic, Slavonic"],
+        ["irregular", "Swiss, Thai, Greek, Dutch, Cypriot"]
+      ],
+      "note": "Note the two Iraq/Pakistan forms carefully: Iraqi and Pakistani, not ~~Iraqian~~ or ~~Pakistanian~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Nouns for people",
+      "text": "Some nationalities have a **special noun** for a person. For most others the adjective itself works as a noun. A third group needs **man**, **woman** or **person** added, because the adjective alone cannot be a noun.",
+      "examples": [
+        { "text": "Special noun: a **Finn**, a **Swede**, a **Turk**, a **Spaniard**, a **Dane**, a **Briton**, an **Arab**, a **Pole**." },
+        { "text": "Adjective used as a noun: a **German**, an **Italian**, a **Belgian**, a **Catalan**, a **Greek**, an **African**, a **European**." },
+        { "text": "Needs a person word: a **Dutch man**, a **French woman**, an **Irish person**, an **Icelandic man**.", "wrong": "a Dutch" },
+        { "text": "Police arrest **Dane** on smuggling charge.", "wrong": "arrest Danish" }
+      ],
+      "note": "If you are not sure, add man, woman or person - that is always safe."
+    },
+    {
+      "type": "table",
+      "heading": "World regions",
+      "columns": ["Region", "Roughly where"],
+      "rows": [
+        ["Scandinavia", "Sweden, Norway, Denmark and their neighbours in northern Europe"],
+        ["The Mediterranean", "the countries around the Mediterranean Sea, such as Malta and Greece"],
+        ["The Middle East", "Saudi Arabia, the UAE, Iraq and their neighbours"],
+        ["North Africa", "Tunisia, Morocco, Egypt and their neighbours"],
+        ["Southern Africa", "Botswana, South Africa, Namibia"],
+        ["Central America", "Nicaragua, Costa Rica, Panama"],
+        ["The Caribbean", "the islands between North and South America"],
+        ["East Asia / The Far East", "China, Japan, Korea, Cambodia and their neighbours"]
+      ],
+      "note": "Other useful names: the Arctic, the Antarctic, the Atlantic, the Indian Ocean, the Pacific."
+    },
+    {
+      "type": "explain",
+      "heading": "Regional and ethnic groups",
+      "text": "People also belong to regional and ethnic groups such as **African-Caribbean**, **Asian**, **Latin American**, **North African**, **Scandinavian**, **Southern African**, **European** and **Arabic**. These work both as countable nouns and as adjectives.",
+      "examples": [
+        { "text": "Many **Europeans** enjoy travelling to the Far East to experience **Asian** cultures." },
+        { "text": "**Arabic** culture extends across a vast region of North Africa and the Middle East." },
+        { "text": "**Arabian** refers to the Arabian Peninsula, and we also say the **Arab** world, **Arab** states." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Languages",
+      "text": "People speak **dialects** as well as languages. Everyone has a **native language** or **first language**, sometimes called a **mother tongue**, and many people have second and third languages too.",
+      "examples": [
+        { "text": "She is **bilingual**: she grew up speaking both Catalan and Spanish." },
+        { "text": "Many people in Switzerland are **multilingual**.", "note": "multilingual = speaking several languages" },
+        { "text": "He is **monolingual** - English is the only language he knows." },
+        { "text": "My **mother tongue** is Polish, but I studied in the UK, so I'm fluent in English too." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Write nationality words with a capital letter: a Dutch woman, the Arab world, Scandinavian design."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which ending does each country's adjective take?",
+      "categories": ["-(i)an", "-ish", "-i"],
+      "items": [
+        { "text": "Latvia", "category": 0 },
+        { "text": "Brazil", "category": 0 },
+        { "text": "Korea", "category": 0 },
+        { "text": "Ireland", "category": 1 },
+        { "text": "Turkey", "category": 1 },
+        { "text": "Denmark", "category": 1 },
+        { "text": "Israel", "category": 2 },
+        { "text": "Pakistan", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Which world region is each country in?",
+      "pairs": [
+        { "left": "Sweden", "right": "Scandinavia" },
+        { "left": "Cambodia", "right": "East Asia" },
+        { "left": "Nicaragua", "right": "Central America" },
+        { "left": "Tunisia", "right": "North Africa" },
+        { "left": "Saudi Arabia", "right": "the Middle East" },
+        { "left": "Botswana", "right": "Southern Africa" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The adjective for Iceland is ___.",
+      "hint": "(-ic)",
+      "answers": ["Icelandic"],
+      "explanation": "Iceland takes -ic, like Slavonic and Arabic."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The adjective for the Netherlands is ___.",
+      "hint": "(irregular)",
+      "answers": ["Dutch"],
+      "explanation": "Dutch is one of the irregular ones, like Swiss, Thai and Greek."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The adjective for Thailand is ___.",
+      "hint": "(irregular)",
+      "answers": ["Thai"],
+      "explanation": "Thailand gives Thai, with no ending added."
+    },
+    {
+      "type": "true_false",
+      "statement": "New James Bond to be played by a Swedish!",
+      "answer": false,
+      "explanation": "New James Bond to be played by a Swede. Swedish is the adjective; the noun for the person is a Swede."
+    },
+    {
+      "type": "true_false",
+      "statement": "Britain's have highest tax rate in Europe.",
+      "answer": false,
+      "explanation": "Britons have highest tax rate in Europe. The noun for a British person is a Briton."
+    },
+    {
+      "type": "true_false",
+      "statement": "Maltish Prime Minister visits Washington.",
+      "answer": false,
+      "explanation": "Maltese Prime Minister visits Washington. Malta takes -ese."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct headline.",
+      "options": [
+        "Iraqi delegation meets Pakistani President",
+        "Iraqian delegation meets Pakistanian President",
+        "Iraqish delegation meets Pakistanese President",
+        "Iraqese delegation meets Pakistani President"
+      ],
+      "answer": 0,
+      "explanation": "Iraq and Pakistan both take -i: Iraqi, Pakistani."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these countries needs *the* before its name?",
+      "options": [
+        "the Philippines",
+        "the Poland",
+        "the Brazil",
+        "the Denmark"
+      ],
+      "answer": 0,
+      "explanation": "Plural names and names with a common noun in them take the: the Philippines, the Netherlands, the United States."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each nationality adjective with the noun for a person from that country.",
+      "pairs": [
+        { "left": "Spanish", "right": "a Spaniard" },
+        { "left": "Danish", "right": "a Dane" },
+        { "left": "Polish", "right": "a Pole" },
+        { "left": "Finnish", "right": "a Finn" },
+        { "left": "Turkish", "right": "a Turk" },
+        { "left": "Dutch", "right": "a Dutch man" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "How many languages does each person know?",
+      "categories": ["One", "Two", "Several"],
+      "items": [
+        { "text": "monolingual", "category": 0 },
+        { "text": "bilingual", "category": 1 },
+        { "text": "multilingual", "category": 2 },
+        { "text": "speaks only her mother tongue", "category": 0 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["Many", "Europeans", "enjoy", "travelling", "to", "the", "Far East", "to", "experience", "Asian", "cultures."],
+      "answer": "Many Europeans enjoy travelling to the Far East to experience Asian cultures.",
+      "explanation": "Regional words such as European and Asian work as nouns and as adjectives."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "number": 9,
+  "title": "The body and movement",
+  "subtitle": "cheek, wrist, ankle; nod, shake hands, fold your arms",
+  "summary": "Name the parts of the body and describe the small movements people make with them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Skin",
+      "text": "The outer part of the body is covered in **skin**. It is the largest part of the body, and it needs care.",
+      "examples": [
+        { "text": "Too much sun is bad for your **skin**." },
+        { "text": "She has very fair **skin**, so she burns easily." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The head and the top of the body",
+      "columns": ["Part", "Where it is"],
+      "rows": [
+        ["forehead", "the part of your face above your eyes"],
+        ["cheek", "the soft part of your face below your eye"],
+        ["lips", "the two soft parts around your mouth"],
+        ["chin", "the part of your face below your mouth"],
+        ["neck", "it joins your head to your body"],
+        ["shoulder", "the top of your arm, where it joins your body"],
+        ["chest", "the front of your body between your neck and your waist"],
+        ["breast", "the front upper part of the body"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Arms, legs and the middle",
+      "columns": ["Part", "Where it is"],
+      "rows": [
+        ["elbow", "the middle of your arm, where it bends"],
+        ["wrist", "between your hand and your arm"],
+        ["thumb", "the short thick finger at the side of your hand"],
+        ["waist", "the narrow part in the middle of your body"],
+        ["hip", "the side of your body just below your waist"],
+        ["bottom", "the part of your body you sit on"],
+        ["knee", "the middle of your leg, where it bends"],
+        ["ankle", "between your foot and your leg"],
+        ["heel", "the back of your foot"],
+        ["toe", "one of the five at the end of your foot"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Breathing",
+      "text": "People **breathe** through their nose or mouth. You **breathe in** and **out** about 12 to 15 times a minute, and much faster after exercise.",
+      "examples": [
+        { "text": "**Breathe in** slowly through your nose." },
+        { "text": "They often **breathe** quickly after running." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Movements with your face",
+      "text": "We **smile** when we are happy, and sometimes **smile at** people to be polite. We **laugh at** things which are funny. We sometimes **cry** if we are very unhappy or receive bad news, and we **yawn** when we are tired or bored.",
+      "examples": [
+        { "text": "People **smile** when they're happy." },
+        { "text": "People **laugh at** things which are funny." },
+        { "text": "People sometimes **cry** if they're very unhappy." },
+        { "text": "People often **yawn** when they're tired, and sometimes when they're bored." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "nod and shake your head",
+      "left": {
+        "label": "nod your head",
+        "text": "Move it up and down. In many countries this means *yes*.",
+        "examples": [
+          "She **nodded** her head and said nothing.",
+          "People **nod** their head when they mean 'yes'."
+        ]
+      },
+      "right": {
+        "label": "shake your head",
+        "text": "Move it from side to side. In many countries this means *no*.",
+        "examples": [
+          "He just **shook** his head and walked away.",
+          "People **shake** their head when they mean 'no'."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Common expressions",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["shake hands with someone", "take their right hand in yours when you meet"],
+        ["wave to somebody", "move your hand to say hello or goodbye"],
+        ["comb your hair", "make your hair tidy with a comb"],
+        ["blow your nose", "clear your nose, usually when you have a cold"],
+        ["fold your arms", "put one arm over the other in front of your chest"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Be careful with the prepositions: you laugh at a joke, smile at a person, and wave to somebody."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the verb with the words that go with it.",
+      "pairs": [
+        { "left": "shake", "right": "hands" },
+        { "left": "wave", "right": "to somebody" },
+        { "left": "comb", "right": "your hair" },
+        { "left": "fold", "right": "your arms" },
+        { "left": "blow", "right": "your nose" },
+        { "left": "nod", "right": "your head" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The outer part of the body is covered in ___.",
+      "hint": "(one word)",
+      "answers": ["skin"],
+      "explanation": "Too much sun is bad for your skin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "People often ___ when they're tired, and sometimes when they're bored.",
+      "hint": "(open your mouth wide)",
+      "answers": ["yawn"],
+      "explanation": "We yawn when we are tired or bored."
+    },
+    {
+      "type": "mcq",
+      "prompt": "People move their head up and down to mean 'yes'. They ___ their head.",
+      "options": ["nod", "shake", "fold", "wave"],
+      "answer": 0,
+      "explanation": "Nod = move your head up and down. Shake = move it from side to side."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why do people usually blow their nose?",
+      "options": ["Because they have a cold.", "Because they are tired.", "Because they are happy.", "Because they are bored."],
+      "answer": 0,
+      "explanation": "You blow your nose when you have a cold."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which part of the body is it?",
+      "categories": ["On the head or face", "On the arm or hand", "On the leg or foot"],
+      "items": [
+        { "text": "cheek", "category": 0 },
+        { "text": "forehead", "category": 0 },
+        { "text": "chin", "category": 0 },
+        { "text": "elbow", "category": 1 },
+        { "text": "wrist", "category": 1 },
+        { "text": "thumb", "category": 1 },
+        { "text": "knee", "category": 2 },
+        { "text": "heel", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The narrow part in the middle of your body, where your belt goes, is your ___.",
+      "hint": "(one word)",
+      "answers": ["waist"],
+      "explanation": "Your waist is the narrow part in the middle of your body."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The part between your foot and your leg is your ___.",
+      "hint": "(one word)",
+      "answers": ["ankle"],
+      "explanation": "The ankle joins the foot to the leg; the heel is the back of the foot."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which words are all parts of the face?",
+      "options": ["cheek, lips, chin", "hip, knee, toe", "wrist, elbow, thumb", "chest, waist, bottom"],
+      "answer": 0,
+      "explanation": "The cheek, the lips and the chin are all on your face."
+    },
+    {
+      "type": "true_false",
+      "statement": "People usually cry when something is very funny.",
+      "answer": false,
+      "explanation": "People laugh at things which are funny. They cry when they are very unhappy or get bad news."
+    },
+    {
+      "type": "true_false",
+      "statement": "You breathe in and out about 12 to 15 times a minute.",
+      "answer": true,
+      "explanation": "Correct. You breathe faster after running."
+    },
+    {
+      "type": "true_false",
+      "statement": "You fold your arms when you want to say hello to a friend across the street.",
+      "answer": false,
+      "explanation": "You wave to somebody to say hello or goodbye. Folding your arms means putting one arm over the other."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about meeting someone.",
+      "words": ["I", "shook", "hands", "with", "her", "new", "boss."],
+      "answer": "I shook hands with her new boss.",
+      "explanation": "We shake hands with someone, so the preposition is with."
+    }
+  ]
+}

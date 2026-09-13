@@ -1,0 +1,189 @@
+{
+  "number": 92,
+  "title": "Time and sequence",
+  "subtitle": "as soon as, while, after that, eventually",
+  "summary": "Link events in time: say what happens first, what happens at the same time, and what happens in the end.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "when and as soon as",
+      "text": "**When** and **as soon as** have almost the same meaning, but **as soon as** sounds more immediate or more important. After both of them we use a present tense, never a future form.",
+      "examples": [
+        { "text": "I'll phone my uncle **when** I get home." },
+        { "text": "**As soon as** you've finished this exercise, you can go home." },
+        { "text": "I'll see you **when** I get there.", "wrong": "when I will get there" }
+      ],
+      "note": "We do not use will after when or as soon as."
+    },
+    {
+      "type": "explain",
+      "heading": "Two things at the same time: while, as, just as",
+      "text": "Use **while** for two longer actions, or for a short action inside a longer one. Use **(just) as** for two short actions that happen at the same moment.",
+      "examples": [
+        { "text": "Violet got ready **while** I cooked the dinner.", "note": "two long actions" },
+        { "text": "The accident happened **while** I was on my way to work.", "note": "a short action inside a long one; when or as are also possible" },
+        { "text": "I saw him **just as** I came out of the office.", "note": "two short actions; when is also possible" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "One thing after another",
+      "text": "**Then**, **after that** and **afterwards** all mean *later*. After **after** and **before** we use the *-ing* form of the verb, not the infinitive.",
+      "examples": [
+        { "text": "We met the others in the cafe, and **then** we went to the match." },
+        { "text": "I talked to Joe, and **afterwards** I came home.", "note": "= at a later time, usually the same day" },
+        { "text": "I was in Caracas for three months, and **after that** I went to Colombia." },
+        { "text": "**After** seeing the film, we went home.", "wrong": "After see the film" },
+        { "text": "We had something to eat **before** going out." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A sequence of actions",
+      "text": "To tell a story in order, start with **first of all** (or **first**), continue with **then** or **after that**, and introduce the last thing with **finally**.",
+      "examples": [
+        { "text": "**First of all** we spent a few days in St Moritz." },
+        { "text": "**After that** we drove down the coast and stayed in Portofino for a week." },
+        { "text": "**Finally**, we went back to Switzerland to stay with my uncle." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "From the beginning to the end",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["**at first** / **to begin with**", "in the first period of time"],
+        ["**after a while**", "after a period of time"],
+        ["**eventually**", "finally, after a long time or a lot of problems"],
+        ["**in the end**", "finally, after a period of time or a lot of thought"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A story from beginning to end",
+      "text": "These phrases often work together in one story: you start with **to begin with** or **at first**, add **after a while**, and close with **eventually** or **in the end**.",
+      "examples": [
+        { "text": "**To begin with**, the two girls got on very well when they shared the flat." },
+        { "text": "But **after a while** they started arguing, and **eventually** Lauren walked out." },
+        { "text": "**At first** I enjoyed the classes, but **in the end** I left." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A list of reasons",
+      "text": "To give a first reason, say **firstly**, **for one thing** or **for a start**. To add another reason, say **secondly**, **besides** or **anyway**.",
+      "examples": [
+        { "text": "*A:* What's wrong with her new dress? *B:* **Firstly**, it's a horrible colour, and **secondly**, I don't think it suits her." },
+        { "text": "*A:* Why can't we go out tonight? *B:* Well, **for one thing**, I've got a lot of work - and **besides**, I can't afford it." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Afterwards stands alone (we went home afterwards), but after that needs the word that; both mean the same."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words and phrases that are similar in meaning.",
+      "pairs": [
+        { "left": "then", "right": "after that" },
+        { "left": "when", "right": "as soon as" },
+        { "left": "besides", "right": "anyway" },
+        { "left": "finally", "right": "in the end" },
+        { "left": "at first", "right": "to begin with" },
+        { "left": "for one thing", "right": "for a start" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "I'll give them your message as soon as I ___ there.",
+      "options": ["get", "will get", "am getting", "will have got"],
+      "answer": 0,
+      "explanation": "We do not use a future form after when or as soon as."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Maria cleaned the kitchen ___ I did the bathroom.",
+      "options": ["while", "just as", "afterwards", "finally"],
+      "answer": 0,
+      "explanation": "Two long actions at the same time take while."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The phone rang ___ I was shutting the front door.",
+      "options": ["just as", "after that", "besides", "finally"],
+      "answer": 0,
+      "explanation": "Two short actions at the same moment take just as."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ my room, I was exhausted.",
+      "options": ["After cleaning", "After to clean", "After clean", "Afterwards clean"],
+      "answer": 0,
+      "explanation": "After and before are followed by the -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Before ___ they went to an exhibition in a little gallery.",
+      "hint": "(leave)",
+      "answers": ["leaving"],
+      "explanation": "After before we use the -ing form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Well, first of all we flew to Lisbon. After that we took the train to Lagos. And ___ we went to Faro and flew home.",
+      "hint": "(introduces the last thing)",
+      "answers": ["finally", "in the end", "eventually"],
+      "explanation": "Finally introduces the last item in a sequence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ I think he found India difficult, because the food and weather are so different. But after a while he got used to it.",
+      "hint": "(in the first period of time)",
+      "answers": ["at first", "to begin with"],
+      "explanation": "At first and to begin with describe the first period of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "But after a ___ he got used to it, and didn't want to come home.",
+      "hint": "(one word)",
+      "answers": ["while"],
+      "explanation": "After a while = after a period of time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The company did well at first. But then the manager left, they started losing money, and ___ they had to close down.",
+      "hint": "(finally, after a lot of problems)",
+      "answers": ["eventually", "in the end", "finally"],
+      "explanation": "Eventually = finally, after a long time or a lot of problems."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the phrase point to the start of a story or to the end?",
+      "categories": ["The start", "The end"],
+      "items": [
+        { "text": "to begin with", "category": 0 },
+        { "text": "first of all", "category": 0 },
+        { "text": "at first", "category": 0 },
+        { "text": "eventually", "category": 1 },
+        { "text": "in the end", "category": 1 },
+        { "text": "finally", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to give two reasons for staying in.",
+      "words": ["For one thing", "I'd like to watch a programme", "and besides", "I don't think", "it'll be a good party"],
+      "answer": "For one thing I'd like to watch a programme and besides I don't think it'll be a good party",
+      "explanation": "For one thing introduces the first reason; besides adds another."
+    },
+    {
+      "type": "true_false",
+      "statement": "I'll text you as soon as I will arrive.",
+      "answer": false,
+      "explanation": "I'll text you as soon as I arrive. We never use will after as soon as."
+    }
+  ]
+}

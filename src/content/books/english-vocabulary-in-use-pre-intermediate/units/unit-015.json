@@ -1,0 +1,184 @@
+{
+  "number": 15,
+  "title": "Romance, marriage and divorce",
+  "subtitle": "a date, get engaged, a honeymoon",
+  "summary": "Tell the story of a relationship in English - a first date, going out with someone, getting engaged, the wedding, and sometimes a divorce.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Romance",
+      "text": "A **date** is a planned romantic meeting. If you **go out with** someone, you have a romantic relationship with them. When the relationship ends, you **break up**.",
+      "examples": [
+        { "text": "I had my first **date** when I was 16, and it was terrible." },
+        { "text": "When I was 17, I **went out with** a girl for three months." },
+        { "text": "We **broke up** when she met a boy who had a car.", "note": "break up = the relationship ends" },
+        { "text": "My first **serious relationship** was when I went to university.", "note": "= an important romantic relationship" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Falling in love",
+      "text": "You **get to know** someone when you slowly become friends with them. If you decide to marry, you **get engaged**. **A couple of** means two, perhaps three.",
+      "examples": [
+        { "text": "I **got to know** Melanie because we were on the same course.", "wrong": "I knew Melanie at university" },
+        { "text": "At first we were just friends, then we started going out with each other." },
+        { "text": "After a few months we realised we were **in love**." },
+        { "text": "We **got engaged** **a couple of** years after we left university.", "note": "get engaged = formally agree to marry" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Marriage",
+      "text": "**Marriage** is the time when you are married. The **wedding** is the ceremony when two people **get married**. On the day, the woman is the **bride** and the man is the **bridegroom** (usually just **groom**).",
+      "examples": [
+        { "text": "We **got married** the following year.", "note": "get married = become husband and wife" },
+        { "text": "We didn't want a big **ceremony**, so we had the **wedding** in the local church.", "note": "a ceremony is an important public event" },
+        { "text": "Afterwards we had the **reception** in a small hotel nearby.", "note": "the reception = the wedding party" },
+        { "text": "Then we went on our **honeymoon** to Greece.", "note": "a honeymoon = a holiday just after getting married" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *They plan to get married*, not ~~get marry~~ or ~~get married with~~. We marry **to** a person: *She's getting married to Darren next year.*"
+    },
+    {
+      "type": "explain",
+      "heading": "Children",
+      "text": "When a woman is going to have a baby, she is **pregnant**. A baby **is born**. An **anniversary** is a day exactly one or more years after an important event, and a **celebration** is a time when you do something you enjoy because the day is special.",
+      "examples": [
+        { "text": "Three years later Melanie got **pregnant**." },
+        { "text": "Our first child, Cal, **was born** two days after our fourth wedding **anniversary**." },
+        { "text": "We had a big **celebration**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Adjective or verb", "Noun"],
+      "rows": [
+        ["engaged", "engagement"],
+        ["pregnant", "pregnancy"],
+        ["celebrate", "celebration"],
+        ["marry", "marriage"],
+        ["divorce", "divorce"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Divorce",
+      "text": "A **divorce** is when a marriage officially ends. Before that, things often **go wrong** [become a problem]. If you **give up** a job, you stop doing it. **On your own** means alone.",
+      "examples": [
+        { "text": "Things started to **go wrong** when I got a job as a manager." },
+        { "text": "At weekends she was often alone, **on her own** with two young children." },
+        { "text": "I felt I couldn't **give up** my job.", "note": "give something up = stop doing it" },
+        { "text": "In the end Melanie decided to **leave** me.", "note": "leave someone = stop living with them" },
+        { "text": "The following year we **got divorced**." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The big party you have after the wedding is the ___.",
+      "hint": "(one word)",
+      "answers": ["reception", "wedding reception"],
+      "explanation": "The wedding party is called the reception."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A romantic meeting you plan before it happens is a ___.",
+      "hint": "(one word)",
+      "answers": ["date"],
+      "explanation": "A planned romantic meeting is a date."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do we describe a woman who is going to have a baby?",
+      "options": ["She's pregnant.", "She's engaged.", "She's a bride.", "She's on her own."],
+      "answer": 0,
+      "explanation": "A woman who is going to have a baby is pregnant. The noun is pregnancy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They got engaged last week. They plan to get married in a ___ of years.",
+      "hint": "(two, perhaps three)",
+      "answers": ["couple"],
+      "explanation": "a couple of years = two, perhaps three years."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each explanation with the word or phrase it defines.",
+      "pairs": [
+        { "left": "the woman on her wedding day", "right": "the bride" },
+        { "left": "the man on his wedding day", "right": "the bridegroom" },
+        { "left": "a day exactly one or more years after an important event", "right": "an anniversary" },
+        { "left": "stop doing a job or an activity", "right": "give it up" },
+        { "left": "the period of time when you are married", "right": "marriage" },
+        { "left": "the holiday just after getting married", "right": "a honeymoon" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Where did they meet? *B:* I think he got ___ her at university.",
+      "hint": "(two words)",
+      "answers": ["to know"],
+      "explanation": "get to know someone = slowly become friends with them."
+    },
+    {
+      "type": "true_false",
+      "statement": "She knew Darren at university, and now they are getting married.",
+      "answer": false,
+      "explanation": "She got to know Darren at university, and now they are getting married."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It isn't going to be a big wedding. They're having a small ___ in the village church.",
+      "hint": "(an important public event)",
+      "answers": ["ceremony"],
+      "explanation": "The wedding ceremony is the formal part of the day."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the events of the relationship in a logical order.",
+      "words": [
+        "I met Gabriel at a party.",
+        "I got to know Gabriel.",
+        "I went out with Gabriel.",
+        "We got engaged.",
+        "We got married.",
+        "We went on our honeymoon."
+      ],
+      "answer": "I met Gabriel at a party. I got to know Gabriel. I went out with Gabriel. We got engaged. We got married. We went on our honeymoon.",
+      "explanation": "You meet someone, get to know them, go out with them, get engaged, get married, and then go on honeymoon."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "So it's all over. Lily ___ him and moved out last month.",
+      "hint": "(one word, past tense)",
+      "answers": ["left"],
+      "explanation": "leave someone = stop living with them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have they had problems for a long time? I think it all started to go ___ when they moved to Woodbridge.",
+      "hint": "(one word)",
+      "answers": ["wrong"],
+      "explanation": "go wrong = become a problem."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is Oliver alone now? *B:* Yes, completely on ___. He doesn't want a new relationship yet.",
+      "hint": "(two words)",
+      "answers": ["his own"],
+      "explanation": "on your own = alone."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Their marriage is definitely over and it is ending officially. What are they doing?",
+      "options": ["They're getting divorced.", "They're getting engaged.", "They're getting married.", "They're going out."],
+      "answer": 0,
+      "explanation": "A divorce is when a marriage officially ends."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "number": 8,
+  "title": "Animals and insects",
+  "subtitle": "pets, farm animals, wild animals, insects, sea creatures",
+  "summary": "Name the animals, insects and sea creatures around us, and talk about keeping pets and protecting rare animals.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Pets",
+      "text": "A **pet** is an animal that lives with people. In the UK many people **keep pets**. The most common are **dogs** and **cats**, but people also keep **birds**, for example **parrots**, that are usually in a **cage**.",
+      "examples": [
+        { "text": "Cats and dogs are the most common **pets** in the UK." },
+        { "text": "Children sometimes keep **mice** and **rabbits**.", "note": "one mouse, two mice" },
+        { "text": "Some people keep more unusual animals as pets, e.g. **frogs**, **snakes** and **spiders**." },
+        { "text": "I don't like keeping birds in a **cage**; they need more space." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Farm animals",
+      "columns": ["Animal", "Note"],
+      "rows": [
+        ["a sheep", "we get wool from it (one sheep, two sheep)"],
+        ["a pig", "a large pink or black farm animal"],
+        ["a cow", "we get milk from it"],
+        ["a bull", "the male animal that goes with a cow"],
+        ["a horse", "big and strong; people ride it"],
+        ["a donkey", "smaller than a horse, with long ears"],
+        ["a chicken", "we get eggs from it"],
+        ["a goat", "a small animal with horns that eats almost anything"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Wild animals",
+      "text": "**Wild animals** normally live in natural conditions. If you are lucky, you may see them **in the wild**, that is, living free, but you will probably see them in a **zoo**.",
+      "examples": [
+        { "text": "I've only seen **wild** animals in zoos or on TV." },
+        { "text": "Some of these animals, for example tigers, are now quite **rare**.", "note": "rare = not often seen or found" },
+        { "text": "It's hard to see tigers **in the wild** because they are now rare." },
+        { "text": "It is important that we **protect** these **endangered** animals.", "note": "protect = keep safe" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Wild animals and what they do",
+      "columns": ["Animal", "Fact"],
+      "rows": [
+        ["a monkey", "very clever, and similar to humans"],
+        ["a camel", "can travel through the desert for long distances without water"],
+        ["a giraffe", "can eat leaves from tall trees while standing on the ground"],
+        ["an elephant", "can pick things up with its trunk"],
+        ["a snake", "sometimes changes its skin several times a year"],
+        ["a tiger, a lion, a leopard, a bear", "big, strong animals; the tiger is now rare"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Insects",
+      "text": "The most common **insects** in English are the **bee**, the **ant**, the **mosquito**, the **fly** and the **butterfly**. A butterfly has beautiful **wings**.",
+      "examples": [
+        { "text": "I hate ants and mosquitoes. In fact, I hate all **insects**." },
+        { "text": "A **bee** can sting you, but it also makes honey." },
+        { "text": "A **butterfly** has large coloured **wings**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sea creatures",
+      "text": "A **creature** is a living thing, for example an animal. Many different creatures live in the sea: the **whale**, the **dolphin**, the **shark** and the **octopus**.",
+      "examples": [
+        { "text": "**Sharks** can swim very long distances." },
+        { "text": "**Whales** can be 25 metres in length." },
+        { "text": "**Dolphins** are very clever sea **creatures**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch the plurals: one mouse - two mice, one sheep - two sheep, one fish - two fish."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each creature in the right group.",
+      "categories": ["Farm animals", "Wild animals", "Insects"],
+      "items": [
+        { "text": "goat", "category": 0 },
+        { "text": "bull", "category": 0 },
+        { "text": "pig", "category": 0 },
+        { "text": "donkey", "category": 0 },
+        { "text": "monkey", "category": 1 },
+        { "text": "elephant", "category": 1 },
+        { "text": "leopard", "category": 1 },
+        { "text": "mosquito", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cats and dogs are the most common ___ in the UK.",
+      "hint": "(animals that live with people)",
+      "answers": ["pets"],
+      "explanation": "A pet is an animal that lives with people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've only seen ___ animals in zoos or on TV.",
+      "hint": "(one word - not tame)",
+      "answers": ["wild"],
+      "explanation": "Wild animals normally live in natural conditions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like keeping birds in a ___; they need more space.",
+      "hint": "(one word)",
+      "answers": ["cage", "a cage"],
+      "explanation": "Birds like parrots are usually kept in a cage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hate ants and mosquitoes. In fact, I hate all ___.",
+      "hint": "(small creatures with six legs)",
+      "answers": ["insects"],
+      "explanation": "Ants, bees, flies, mosquitoes and butterflies are all insects."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's hard to see tigers in the wild because they are now ___.",
+      "hint": "(not often seen or found)",
+      "answers": ["rare"],
+      "explanation": "Rare = not often seen or found."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some animals are disappearing, so we must ___ them.",
+      "hint": "(keep them safe)",
+      "answers": ["protect"],
+      "explanation": "Protect = keep safe. We protect endangered animals."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each creature with the right fact.",
+      "pairs": [
+        { "left": "Sharks", "right": "can swim very long distances." },
+        { "left": "Camels", "right": "can cross the desert without water." },
+        { "left": "Whales", "right": "can be 25 metres in length." },
+        { "left": "Giraffes", "right": "can eat leaves from tall trees." },
+        { "left": "Snakes", "right": "change their skin several times a year." },
+        { "left": "Monkeys", "right": "are clever and similar to humans." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which animal can pick things up with its trunk?",
+      "options": ["an elephant", "a leopard", "a donkey", "a butterfly"],
+      "answer": 0,
+      "explanation": "Only the elephant has a trunk."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which bird is kept as a pet, usually in a cage, and can even talk?",
+      "options": ["a parrot", "a chicken", "a bee", "a frog"],
+      "answer": 0,
+      "explanation": "Parrots are popular pets and some of them can copy human words."
+    },
+    {
+      "type": "true_false",
+      "statement": "A butterfly is an insect with large coloured wings.",
+      "answer": true,
+      "explanation": "Correct. The butterfly, the bee, the ant, the fly and the mosquito are all insects."
+    },
+    {
+      "type": "true_false",
+      "statement": "A dolphin is a farm animal.",
+      "answer": false,
+      "explanation": "A dolphin is a sea creature. Farm animals are sheep, pigs, cows, horses, donkeys, chickens, goats and bulls."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a sentence about endangered animals.",
+      "words": ["It", "is", "important", "that", "we", "protect", "these", "endangered", "animals."],
+      "answer": "It is important that we protect these endangered animals.",
+      "explanation": "Endangered animals are ones that may soon disappear, so we protect them."
+    }
+  ]
+}

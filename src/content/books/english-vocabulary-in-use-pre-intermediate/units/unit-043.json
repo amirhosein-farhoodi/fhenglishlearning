@@ -1,0 +1,204 @@
+{
+  "number": 43,
+  "title": "Books and films",
+  "subtitle": "novel, thriller, director, reviews",
+  "summary": "Talk about the books you read and the films you watch, and use the right words for writers, actors and directors.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Kinds of book",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**literature**", "serious and important writing"],
+        ["**fiction**", "stories about imaginary people and events"],
+        ["**novel**", "a fiction book"],
+        ["**thriller**", "an exciting story, often about crime"],
+        ["**science fiction**", "stories about the future"],
+        ["**biography**", "the story of a person's life, written by another person"],
+        ["**poetry**", "pieces of creative writing in short lines"],
+        ["**author**", "someone who writes books"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reading",
+      "text": "Many people start with **fiction** and read hundreds of **novels**, mostly **thrillers** and **science fiction**. Later they may move on to **biographies** and even some **poetry**.",
+      "examples": [
+        { "text": "My favourite **author** is John le Carre." },
+        { "text": "I have started reading quite a lot of **biographies**." },
+        { "text": "Two of my favourite **poets** are Antonio Machado and Federico Garcia Lorca." },
+        { "text": "They both wrote **poems** in the early 20th century." }
+      ],
+      "note": "A biography is written by another person. A book someone writes about their own life is an autobiography."
+    },
+    {
+      "type": "table",
+      "heading": "Kinds of film",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**horror film**", "a film that makes people frightened, e.g. Dracula"],
+        ["**comedy**", "a film that is funny"],
+        ["**romantic comedy**", "a comedy that has a love story"],
+        ["**thriller**", "an exciting film, often about crime"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Choosing a film",
+      "text": "People decide what to see in different ways. Some read **reviews** - opinions in a newspaper or magazine. Others look for a big **star**, a famous **actor**. Some just want **entertainment**: things you see or do to enjoy yourself.",
+      "examples": [
+        { "text": "If a film gets good **reviews**, then I often go and see it." },
+        { "text": "If there's a big **star** in it, then I am more likely to see it." },
+        { "text": "I'm not interested in films that are serious or **complicated**.", "note": "complicated = difficult to understand" },
+        { "text": "I like **comedies** and especially **romantic comedies**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What's on?",
+      "text": "**What's on?** means 'What films are being shown at the cinema?'. If you want to see something, you can say informally that you **fancy** seeing it. The **latest** film means the newest, most recent one.",
+      "examples": [
+        { "text": "I look to see **what's on** and go to anything that I **fancy** seeing." },
+        { "text": "There's the **latest** film by Pedro Almodovar. It only came out yesterday." },
+        { "text": "For me the film **director** is the most important thing.", "note": "the director tells the actors what to do" },
+        { "text": "I always go and see the **latest** film by directors I really like." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Noun (thing)", "Noun (person)", "Verb"],
+      "rows": [
+        ["entertainment", "entertainer", "entertain"],
+        ["review", "reviewer", "review"],
+        ["acting", "actor", "act"],
+        ["directing", "director", "direct"],
+        ["poetry", "poet", "-"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A *poem* is one piece of writing; *poetry* is the art in general. Say *I read a poem*, not ~~I read a poetry~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each kind of book or film with its description.",
+      "pairs": [
+        { "left": "thriller", "right": "an exciting story, often about crime" },
+        { "left": "science fiction", "right": "stories about the future" },
+        { "left": "biography", "right": "the story of a person's life by another person" },
+        { "left": "horror film", "right": "a film that makes people frightened" },
+        { "left": "romantic comedy", "right": "a funny film with a love story" },
+        { "left": "novel", "right": "a long book of fiction" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Many poems are around 300 pages long.",
+      "answer": false,
+      "explanation": "Many novels are around 300 pages long. Poems are short pieces of writing in lines."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cinema grew in popularity in the first half of the 20th ___.",
+      "hint": "(a period of 100 years)",
+      "answers": ["century"],
+      "explanation": "A century is a period of 100 years."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I enjoy science fiction because I like stories about the ___.",
+      "hint": "(one word)",
+      "answers": ["future"],
+      "explanation": "Science fiction tells stories about the future."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's ___ at the cinema this week?",
+      "hint": "(one word)",
+      "answers": ["on"],
+      "explanation": "What's on? asks which films are being shown."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We went to see the film because there was a good ___ in the newspaper.",
+      "options": ["review", "article", "poem", "biography"],
+      "answer": 0,
+      "explanation": "A review gives an opinion about a film or a book."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "William Wordsworth is a very famous ___.",
+      "hint": "(POETRY - the person)",
+      "answers": ["poet"],
+      "explanation": "A poet is a person who writes poetry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I thought the film was good ___.",
+      "hint": "(ENTERTAIN - the thing)",
+      "answers": ["entertainment"],
+      "explanation": "Entertainment is things you see or do to enjoy yourself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I thought the ___ in the film was a bit unnatural.",
+      "hint": "(ACT - the activity)",
+      "answers": ["acting"],
+      "explanation": "Acting is what actors do; the actor is the person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't agree with what the ___ said about the new film.",
+      "hint": "(REVIEW - the person)",
+      "answers": ["reviewer"],
+      "explanation": "A reviewer is the person who writes a review."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word into the right group.",
+      "categories": ["A person", "A kind of writing or film"],
+      "items": [
+        { "text": "author", "category": 0 },
+        { "text": "director", "category": 0 },
+        { "text": "poet", "category": 0 },
+        { "text": "entertainer", "category": 0 },
+        { "text": "thriller", "category": 1 },
+        { "text": "biography", "category": 1 },
+        { "text": "comedy", "category": 1 },
+        { "text": "poetry", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Oh, Almodovar - the man who ___ Julieta? *B:* Yes, that's him.",
+      "hint": "(DIRECT - past tense)",
+      "answers": ["directed"],
+      "explanation": "A director directs a film: he or she tells the actors what to do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's a very good director, but I don't understand some of his films - they're a bit ___ for me.",
+      "hint": "(one word, = difficult to understand)",
+      "answers": ["complicated"],
+      "explanation": "Complicated means difficult to understand."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's a film based on the ___ by Khaled Hosseini. It's a very good book. *B:* I'd love to see it.",
+      "hint": "(a long book of fiction)",
+      "answers": ["novel", "book"],
+      "explanation": "A novel is a long book of fiction; many films are based on novels."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend informally whether they want to see a particular film.",
+      "words": ["Do", "you", "fancy", "seeing", "that", "film?"],
+      "answer": "Do you fancy seeing that film?",
+      "explanation": "Fancy doing something is an informal way of saying want to do it."
+    }
+  ]
+}

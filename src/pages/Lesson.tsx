@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import LessonBlock from '../components/LessonBlock'
+import MediaPanel from '../components/MediaPanel'
 import { getBook, loadUnit, sectionOf } from '../content/registry'
 import type { Unit } from '../content/types'
 import { markLessonSeen } from '../lib/storage'
@@ -84,6 +85,8 @@ export default function Lesson() {
           )}
           <p className="summary">{renderInline(unit.summary)}</p>
         </header>
+
+        {unit.media && unit.media.length > 0 && <MediaPanel media={unit.media} />}
 
         <div className="lesson-blocks">
           {blocks.map((b, i) => (

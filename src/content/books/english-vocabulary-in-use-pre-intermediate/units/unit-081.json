@@ -1,0 +1,199 @@
+{
+  "number": 81,
+  "title": "Make, do and take: uses and phrases",
+  "subtitle": "make a mistake, do your best, take a break",
+  "summary": "Learn which nouns go with make, do and take, and the common phrases built from these three verbs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Things we make, do and take",
+      "columns": ["make", "do", "take"],
+      "rows": [
+        ["a mistake", "your homework", "a photo"],
+        ["an effort", "the housework", "notes"],
+        ["a noise", "your hair", "a break"],
+        ["friends with someone", "your best", "size 43 shoes"],
+        ["up your mind", "something / nothing", "things easy"]
+      ],
+      "note": "These word partners (collocations) are often different in other languages, so learn them carefully."
+    },
+    {
+      "type": "explain",
+      "heading": "When two verbs are possible",
+      "text": "With a few nouns, more than one verb works. Both forms are correct and mean the same.",
+      "examples": [
+        { "text": "I'm **doing** / **taking** a Spanish course next month." },
+        { "text": "I'm just going to **take** / **have** a shower." },
+        { "text": "**Take** / **Have** a look at these pictures." },
+        { "text": "We must **make** / **take** a decision." },
+        { "text": "I don't **do** / **take** much exercise." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "make = cause or force",
+      "text": "**Make** can mean to cause something to happen, or to cause a particular state. It can also mean to force someone to do something. Note the form: make someone **do** (no *to*).",
+      "examples": [
+        { "text": "I like Boris - he **makes** me laugh." },
+        { "text": "It **made** them angry when Karen refused to help." },
+        { "text": "My parents **made** me do my homework when I was a child.", "wrong": "made me to do" },
+        { "text": "The police **made** us wait outside the main gates." },
+        { "text": "When he shouted out the wrong answer, it **made** him look stupid." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "make friends, make up your mind",
+      "text": "If you **make friends with** someone, you get to know them and like them. If you **make up your mind**, you decide something.",
+      "examples": [
+        { "text": "I **made friends with** a couple of guys from Canada when I was on holiday." },
+        { "text": "He's **made up his mind** to leave work at the end of next month." },
+        { "text": "They still haven't **made up their minds** about the holiday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "do",
+      "text": "We use **do** for a general action when we don't know what the action is, or when there is no noun. If you **do your hair** or **do your make-up**, you make it look nice. If you **do your best**, you try as hard as possible.",
+      "examples": [
+        { "text": "What shall we **do** this afternoon?" },
+        { "text": "Don't just stand there, **do** something." },
+        { "text": "I'll just **do** my hair, then we can go out." },
+        { "text": "I'm not a good student, but I always **do my best**." },
+        { "text": "I've **done** nothing today." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Meanings of take",
+      "columns": ["Meaning", "Example"],
+      "rows": [
+        ["remove something from a place", "I took the key out of my pocket."],
+        ["remove something without permission", "Someone has taken my pen."],
+        ["accept something", "Did he take the job they offered him? Do they take credit cards?"],
+        ["write something down", "I took notes during the meeting."],
+        ["wear a particular size", "I take size 43 shoes."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "take it easy, take a break",
+      "text": "If you **take it easy** or **take things easy**, you relax and don't do very much. If you **take a break**, you stop work and rest for a short time.",
+      "examples": [
+        { "text": "I'll **take things easy** today." },
+        { "text": "Let's **take** a ten-minute **break**." },
+        { "text": "I'm tired of writing this report. I'm going to **take a break**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you meet a new noun, write down the verb that goes with it: *make an effort*, *do the housework*, *take a photo*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which verb goes with each noun?",
+      "categories": ["make", "do", "take"],
+      "items": [
+        { "text": "a mistake", "category": 0 },
+        { "text": "an effort", "category": 0 },
+        { "text": "a noise", "category": 0 },
+        { "text": "your homework", "category": 1 },
+        { "text": "the housework", "category": 1 },
+        { "text": "your best", "category": 1 },
+        { "text": "a photo", "category": 2 },
+        { "text": "notes", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did he ___ many mistakes in the test?",
+      "options": ["make", "do", "take"],
+      "answer": 0,
+      "explanation": "We make a mistake."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was too difficult. I couldn't ___ the homework.",
+      "options": ["do", "make", "take"],
+      "answer": 0,
+      "explanation": "We do our homework and do the housework."
+    },
+    {
+      "type": "true_false",
+      "statement": "They did a lot of noise at the party.",
+      "answer": false,
+      "explanation": "They made a lot of noise at the party. We make a noise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How many photos did they ___ at the wedding?",
+      "hint": "(make / do / take)",
+      "answers": ["take"],
+      "explanation": "We take a photo."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We didn't want to leave, but they ___ go.",
+      "hint": "(they forced us: two words + us)",
+      "answers": ["made us"],
+      "explanation": "Make someone do something = force them. Note: made us go, not made us to go."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm not very good at this, but I'm ___.",
+      "hint": "(= trying as hard as possible)",
+      "answers": ["doing my best"],
+      "explanation": "Do your best = try as hard as possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "OK, let's stop work and ___ for ten minutes.",
+      "hint": "(three words)",
+      "answers": ["take a break", "have a break"],
+      "explanation": "Take a break = stop work and rest for a short time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He isn't lazy at all. He is definitely ___.",
+      "hint": "(= trying hard: three words)",
+      "answers": ["making an effort"],
+      "explanation": "Make an effort = try hard."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've ___ up my mind. I'm going to go to Thailand for my holiday.",
+      "hint": "(one word)",
+      "answers": ["made"],
+      "explanation": "Make up your mind = decide."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ friends with Andrés when we were in the same class last year.",
+      "hint": "(one word, past)",
+      "answers": ["made"],
+      "explanation": "Make friends with someone = get to know them and like them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to relax and do nothing this weekend. I'm going to ___.",
+      "hint": "(three words with take)",
+      "answers": ["take things easy", "take it easy"],
+      "explanation": "Take it easy / take things easy = relax and don't do much."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with its meaning.",
+      "pairs": [
+        { "left": "do your best", "right": "try as hard as possible" },
+        { "left": "make up your mind", "right": "decide something" },
+        { "left": "take a break", "right": "stop work and rest" },
+        { "left": "do your hair", "right": "make your hair look nice" },
+        { "left": "take notes", "right": "write down what people say" },
+        { "left": "make friends with someone", "right": "get to know them and like them" }
+      ]
+    }
+  ]
+}

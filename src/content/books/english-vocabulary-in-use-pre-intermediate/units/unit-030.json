@@ -1,0 +1,222 @@
+{
+  "number": 30,
+  "title": "Notices and warnings",
+  "subtitle": "OUT OF ORDER, KEEP OFF THE GRASS, MIND THE STEP",
+  "summary": "Understand the short English notices and warnings you see on doors, machines and signs in public places.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Notices: information",
+      "columns": ["The notice says", "Where you see it", "What it means"],
+      "rows": [
+        ["OUT OF ORDER", "on a machine, e.g. a vending machine", "the machine is not working"],
+        ["NO VACANCIES", "in the window of a hotel", "the hotel is full"],
+        ["SOLD OUT", "outside a theatre", "all the tickets have been sold"],
+        ["ADMISSION FREE", "outside a museum", "you can go in without paying"]
+      ],
+      "note": "A **vending machine** is a machine that sells drinks and snacks."
+    },
+    {
+      "type": "explain",
+      "heading": "Do this!",
+      "text": "Some notices tell you what to do. **PLEASE QUEUE OTHER SIDE** in a bank or post office means: wait in a line on the other side of this notice. **KEEP RIGHT** (or **KEEP LEFT**) means: stay on the right side, for example on the underground.",
+      "examples": [
+        { "text": "**PLEASE QUEUE OTHER SIDE** - wait in a line on the other side of this sign." },
+        { "text": "**KEEP RIGHT** - stay on the right side as you walk." },
+        { "text": "**KEEP OFF THE GRASS** - do not walk on the grass." },
+        { "text": "**SILENCE - EXAMINATION IN PROGRESS** - be quiet, an exam is happening now." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Don't do this!",
+      "text": "Other notices tell you what you must not do. Most of them begin with **NO** or **DO NOT**.",
+      "examples": [
+        { "text": "**NO PARKING** - you cannot leave your car here." },
+        { "text": "**NO ENTRY** - you cannot go in here." },
+        { "text": "**NO EXIT** - you cannot go out here." },
+        { "text": "**PLEASE DO NOT DISTURB** - on a hotel door: leave me to sleep." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More 'do not' notices",
+      "columns": ["The notice", "Where", "What it means"],
+      "rows": [
+        ["DO NOT LEAVE BAGS UNATTENDED", "an airport or station waiting area", "don't put a bag down and walk away"],
+        ["DO NOT LEAN OUT OF THE WINDOW", "above a train window", "keep your head and arms inside"],
+        ["PLEASE DO NOT FEED THE ANIMALS", "in a zoo", "do not give food to the animals"],
+        ["NO PARKING", "in front of garage doors", "do not leave your car here"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Warnings",
+      "text": "A **warning** tells you that something bad may happen. Many warnings start with **MIND** (= be careful about) or **FRAGILE**.",
+      "examples": [
+        { "text": "**MIND YOUR HEAD** - take care you don't hit your head on a low door." },
+        { "text": "**MIND THE STEP** - be careful, there's a step." },
+        { "text": "**FRAGILE** - on a parcel: be careful, this will break easily." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other notices you may see",
+      "columns": ["The notice", "What it means"],
+      "rows": [
+        ["ENGLISH SPOKEN HERE", "the people here speak English"],
+        ["ENTRANCE", "you go in here"],
+        ["FLAT TO LET", "this flat can be rented"],
+        ["CYCLISTS DISMOUNT HERE", "people on bicycles must get off their bikes"],
+        ["NO THROUGH ROAD", "there is no way out for cars at the other end"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Mind** in a notice means *be careful about*: MIND THE STEP, MIND YOUR HEAD, MIND THE GAP."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the warning on a low doorway: MIND YOUR ___ .",
+      "hint": "(part of the body)",
+      "answers": ["head"],
+      "explanation": "MIND YOUR HEAD warns you not to hit your head on a low door."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the warning at the bottom of a doorway: MIND THE ___ .",
+      "hint": "(one word)",
+      "answers": ["step"],
+      "explanation": "MIND THE STEP means be careful, there is a step."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the museum notice: ADMISSION ___ .",
+      "hint": "(you pay nothing)",
+      "answers": ["free"],
+      "explanation": "ADMISSION FREE means you can go in without paying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the notice on a broken vending machine: OUT OF ___ .",
+      "hint": "(one word)",
+      "answers": ["order"],
+      "explanation": "OUT OF ORDER means the machine is not working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the park notice: KEEP OFF THE ___ .",
+      "hint": "(the short green plant)",
+      "answers": ["grass", "the grass"],
+      "explanation": "KEEP OFF THE GRASS means do not walk on the grass."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complete the notice outside an exam room: SILENCE - EXAMINATION IN ___ .",
+      "hint": "(one word - happening now)",
+      "answers": ["progress"],
+      "explanation": "EXAMINATION IN PROGRESS means an exam is happening now."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A hotel window says NO VACANCIES. What does it mean?",
+      "options": [
+        "The hotel is full.",
+        "The hotel is closed for repairs.",
+        "The hotel is very cheap.",
+        "The hotel has no restaurant."
+      ],
+      "answer": 0,
+      "explanation": "NO VACANCIES means there are no free rooms - the hotel is full."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You see SOLD OUT outside a theatre. What does it mean?",
+      "options": [
+        "All the tickets have been sold.",
+        "The theatre has been sold to a new owner.",
+        "Tickets are cheaper tonight.",
+        "The show has finished for ever."
+      ],
+      "answer": 0,
+      "explanation": "SOLD OUT means all the tickets have been sold."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A parcel says FRAGILE. What should you do?",
+      "options": [
+        "Be careful - it will break easily.",
+        "Open it immediately.",
+        "Keep it in the fridge.",
+        "Do not post it."
+      ],
+      "answer": 0,
+      "explanation": "FRAGILE warns you that the contents break easily."
+    },
+    {
+      "type": "matching",
+      "prompt": "Where would you see each notice?",
+      "pairs": [
+        { "left": "NO VACANCIES", "right": "in a hotel window" },
+        { "left": "PLEASE QUEUE OTHER SIDE", "right": "in a bank or post office" },
+        { "left": "OUT OF ORDER", "right": "on a vending machine" },
+        { "left": "SOLD OUT", "right": "at a theatre" },
+        { "left": "FRAGILE", "right": "on a parcel" },
+        { "left": "PLEASE DO NOT FEED THE ANIMALS", "right": "in a zoo" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each place with the notice you could see there.",
+      "pairs": [
+        { "left": "on the underground", "right": "KEEP RIGHT" },
+        { "left": "in a busy airport waiting area", "right": "DO NOT LEAVE BAGS UNATTENDED" },
+        { "left": "on a hotel room door at 9 am", "right": "PLEASE DO NOT DISTURB" },
+        { "left": "in front of garage doors", "right": "NO PARKING" },
+        { "left": "above the window of a train", "right": "DO NOT LEAN OUT OF THE WINDOW" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the notice tell you to do something, or not to do something?",
+      "categories": ["Do this", "Don't do this"],
+      "items": [
+        { "text": "KEEP RIGHT", "category": 0 },
+        { "text": "PLEASE QUEUE OTHER SIDE", "category": 0 },
+        { "text": "SILENCE - EXAMINATION IN PROGRESS", "category": 0 },
+        { "text": "NO ENTRY", "category": 1 },
+        { "text": "KEEP OFF THE GRASS", "category": 1 },
+        { "text": "PLEASE DO NOT DISTURB", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "NO EXIT on a door means you cannot go out through that door.",
+      "answer": true,
+      "explanation": "Correct. NO EXIT means you cannot go out here; NO ENTRY means you cannot go in."
+    },
+    {
+      "type": "true_false",
+      "statement": "CYCLISTS DISMOUNT HERE means cyclists can ride faster from this point.",
+      "answer": false,
+      "explanation": "False. It means people on bicycles must get off their bikes here."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make the notice you see in a zoo.",
+      "words": ["Please", "do", "not", "feed", "the", "animals"],
+      "answer": "Please do not feed the animals",
+      "explanation": "Feed = give food to. The notice asks visitors not to give food to the animals."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make the notice you see above a train window.",
+      "words": ["Do", "not", "lean", "out", "of", "the", "window"],
+      "answer": "Do not lean out of the window",
+      "explanation": "Lean out = put your head or body through the open window."
+    }
+  ]
+}

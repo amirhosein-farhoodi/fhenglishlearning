@@ -2837,3 +2837,364 @@ input {
     width: 100%;
   }
 }
+
+/* ------------------------------------------------------------------
+   Media panel - the recordings that ship with a unit (IELTS audio
+   tracks and Speaking test videos).
+
+   It is a card like any other: 1px --line, --r-lg, no fill. The only
+   flooded violet in here is the play button, which is the one control
+   that has to be found instantly - everything else stays an outline.
+   ------------------------------------------------------------------ */
+.media-panel {
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  background: var(--surface);
+  padding: var(--space-20);
+  margin-bottom: var(--space-24);
+}
+
+.media-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+  margin-bottom: var(--space-12);
+}
+
+.media-head h2 {
+  font-size: var(--text-body);
+  line-height: var(--leading-body);
+  font-weight: var(--fw-bold);
+  margin: 0;
+  letter-spacing: 0;
+}
+
+.media-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: var(--r-card);
+  border: 1px solid var(--accent-tint);
+  background: var(--accent-wash);
+  color: var(--accent);
+  flex: none;
+}
+
+.media-count {
+  margin-left: auto;
+  font-size: var(--text-caption);
+  white-space: nowrap;
+}
+
+/* The track list. Chips wrap, so a 6-track unit stays one tidy block. */
+.media-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-8);
+  margin-bottom: var(--space-16);
+}
+
+.media-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  background: var(--surface);
+  color: var(--muted);
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-medium);
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.media-chip:hover {
+  border-color: var(--line-2);
+  color: var(--ink);
+}
+
+.media-chip.on {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-wash);
+}
+
+.media-chip .chip-icon {
+  display: inline-flex;
+  opacity: 0.75;
+}
+
+.media-now {
+  margin-bottom: var(--space-12);
+}
+
+.media-now h3 {
+  font-size: var(--text-subheading);
+  line-height: var(--leading-subheading);
+  font-weight: var(--fw-medium);
+  margin: 0;
+}
+
+.media-now p {
+  font-size: var(--text-body-sm);
+  line-height: var(--leading-body-sm);
+  margin: 4px 0 0;
+}
+
+/* --- audio transport ------------------------------------------------ */
+.audio-player {
+  display: flex;
+  align-items: center;
+  gap: var(--space-16);
+  padding: var(--space-12) var(--space-16);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  background: var(--surface-2);
+}
+
+.audio-player.is-failed {
+  opacity: 0.6;
+}
+
+.audio-play {
+  flex: none;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: none;
+  background: var(--accent);
+  color: var(--on-accent);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease, transform 0.1s ease;
+}
+
+.audio-play:hover:not(:disabled) {
+  background: var(--accent-strong);
+}
+
+.audio-play:active:not(:disabled) {
+  transform: scale(0.94);
+}
+
+.audio-play:disabled {
+  background: var(--track);
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+/* Nudge the triangle off centre so it reads as centred inside the circle. */
+.audio-play .icon {
+  margin-left: 2px;
+}
+
+.audio-play svg rect {
+  margin-left: 0;
+}
+
+.audio-body {
+  flex: 1;
+  min-width: 0;
+}
+
+/* The scrubber. `--played` is written by the component so the filled part of
+   the track follows the current time in both themes. */
+.audio-seek {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: var(--r-pill);
+  background: linear-gradient(
+    to right,
+    var(--accent) 0%,
+    var(--accent) var(--played, 0%),
+    var(--track) var(--played, 0%),
+    var(--track) 100%
+  );
+  cursor: pointer;
+  margin: 0 0 6px;
+}
+
+.audio-seek:disabled {
+  cursor: default;
+  opacity: 0.6;
+}
+
+.audio-seek::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--accent);
+  cursor: pointer;
+}
+
+.audio-seek::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 2px solid var(--accent);
+  cursor: pointer;
+}
+
+.audio-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-8);
+}
+
+.audio-time {
+  font-size: var(--text-caption);
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.audio-time .sep {
+  opacity: 0.5;
+  padding: 0 2px;
+}
+
+.audio-tools {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.audio-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  height: 28px;
+  padding: 0 7px;
+  border: 1px solid transparent;
+  border-radius: var(--r-input);
+  background: transparent;
+  color: var(--muted);
+  font-family: inherit;
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.audio-btn:hover:not(:disabled) {
+  color: var(--accent);
+  border-color: var(--accent-tint);
+}
+
+.audio-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.audio-btn.rate {
+  border-color: var(--line);
+}
+
+/* --- video ---------------------------------------------------------- */
+.video-frame {
+  position: relative;
+  border-radius: var(--r-card);
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--c-obsidian);
+}
+
+.video-frame video {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  background: var(--c-obsidian);
+}
+
+.media-error {
+  padding: var(--space-12);
+  margin: 0;
+  font-size: var(--text-body-sm);
+  color: var(--ink-invert-2);
+}
+
+/* --- the quiz's collapsed player ------------------------------------ */
+.quiz-media {
+  margin: var(--space-12) 0 var(--space-16);
+}
+
+.quiz-media-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border: 1.5px solid var(--accent);
+  border-radius: var(--r-pill);
+  background: transparent;
+  color: var(--accent);
+  font-family: inherit;
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+}
+
+.quiz-media-toggle:hover {
+  background: var(--accent-wash);
+}
+
+.quiz-media-toggle.on {
+  margin-bottom: var(--space-12);
+}
+
+/* Inside the quiz the panel is a supporting control, not the subject of the
+   screen - it loses its frame and padding so the question keeps the weight. */
+.media-panel.compact {
+  padding: 0;
+  border: none;
+  background: transparent;
+  margin-bottom: 0;
+}
+
+.media-panel.compact .media-head {
+  display: none;
+}
+
+.media-panel.compact .media-now h3 {
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-medium);
+}
+
+.media-panel.compact .media-now p {
+  display: none;
+}
+
+@media (max-width: 560px) {
+  .media-panel {
+    padding: var(--space-16);
+  }
+
+  .audio-player {
+    gap: var(--space-12);
+    padding: var(--space-12);
+  }
+
+  .audio-play {
+    width: 46px;
+    height: 46px;
+  }
+
+  .audio-tools {
+    gap: 0;
+  }
+}

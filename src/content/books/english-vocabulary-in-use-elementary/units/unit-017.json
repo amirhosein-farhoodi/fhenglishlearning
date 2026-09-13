@@ -1,0 +1,179 @@
+{
+  "number": 17,
+  "title": "Your phone",
+  "subtitle": "screen, charger, text, swipe",
+  "summary": "Name the parts of a phone and talk about texting, calling, taking selfies and saving or deleting photos.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Parts of a phone",
+      "text": "Every smartphone has the same main parts. The **battery** gives the phone power, and you fill it again with a **charger**. You look at the **screen**, you start the phone with the **power button**, and the **camera** takes photos.",
+      "examples": [
+        { "text": "My **battery** is low. Have you got a **charger**?" },
+        { "text": "Press the **power button** to start your phone." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Phone words",
+      "columns": ["Part", "What it does"],
+      "rows": [
+        ["battery", "gives the phone its power"],
+        ["charger", "you use it to fill the battery again"],
+        ["screen", "shows pictures and words"],
+        ["camera", "takes photos"],
+        ["power button", "starts the phone"],
+        ["SIM card", "stores the information you need to use your phone"],
+        ["phone case", "covers the phone"],
+        ["apps", "small programs on your phone, e.g. a dictionary or a map"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using a smartphone",
+      "text": "A photo you take of yourself is a **selfie**, and you **post** it online. If nobody answers, you **leave a voicemail**. You can also **text** someone or send them a **message**.",
+      "examples": [
+        { "text": "Ramesh takes a lot of **selfies** and **posts** them online." },
+        { "text": "Lisa didn't **answer** her phone, so I left a **voicemail**." },
+        { "text": "Can you **text** me the address of the restaurant?" },
+        { "text": "I've just got a **message** from Andy. He wants to know if we're going to the party." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Apps and calls",
+      "text": "You **download** an **app** from the Internet onto your phone. When you speak to someone on the phone, you **call** them.",
+      "examples": [
+        { "text": "You can **download** an **app** with a dictionary to help you when you write in English." },
+        { "text": "While she was on holiday, Kelly **called** her family every day." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Locked, unlock and swipe",
+      "text": "When your phone is **locked**, you need a **PIN** (a secret number) to **unlock** it. To move from one photo to the next, you **swipe** the screen with your finger.",
+      "examples": [
+        { "text": "*A:* Can you read that message on my phone, please? *B:* It's **locked**. What's the **PIN**?" },
+        { "text": "You don't need a PIN to **unlock** it. Just **swipe** the screen left to right." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Save and delete",
+      "text": "You **save** the photos you want to keep. When the phone **memory** is **full**, you must **delete** some photos and messages.",
+      "examples": [
+        { "text": "*A:* I can't **save** any new photos. *B:* Your phone **memory** is **full**." },
+        { "text": "You need to **delete** some photos and messages." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We text a person and we call a person, but we leave someone a voicemail - not ~~we voicemail someone~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Maria ___ me last night, but I didn't see her message until this morning.",
+      "hint": "(text - past)",
+      "answers": ["texted"],
+      "explanation": "We text someone when we send them a short written message."
+    },
+    {
+      "type": "mcq",
+      "prompt": "When your phone's battery is low, you need a ...",
+      "options": ["charger", "camera", "selfie", "phone case"],
+      "answer": 0,
+      "explanation": "A charger fills the battery again."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the things on your phone with what they do.",
+      "pairs": [
+        { "left": "camera", "right": "takes photos" },
+        { "left": "SIM card", "right": "stores the information you need to use your phone" },
+        { "left": "screen", "right": "shows pictures and words" },
+        { "left": "phone case", "right": "covers the phone" },
+        { "left": "power button", "right": "starts the phone" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Danny's new phone has a great ___. It takes amazing photos.",
+      "options": ["camera", "screen", "battery", "charger"],
+      "answer": 0,
+      "explanation": "The camera is the part of the phone that takes photos."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What was the last app that you ___?",
+      "hint": "(download - past)",
+      "answers": ["downloaded"],
+      "explanation": "You download an app from the Internet onto your phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Lucy ___ her sister. They talked about their holiday at the beach.",
+      "hint": "(call - past)",
+      "answers": ["called"],
+      "explanation": "We call someone when we speak to them on the phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Victor left me a ___. He asked me to call him back.",
+      "hint": "(a spoken message)",
+      "answers": ["voicemail"],
+      "explanation": "If someone does not answer the phone, you leave a voicemail."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I bought a new ___ in France, so that it was cheaper to call and use the Internet.",
+      "options": ["SIM card", "battery", "phone case", "power button"],
+      "answer": 0,
+      "explanation": "The SIM card stores the information you need to use your phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Deepa:* Do I ___ right to see the next photo? *Ireena:* Yes, that's right.",
+      "hint": "(move your finger across the screen)",
+      "answers": ["swipe"],
+      "explanation": "You swipe the screen to move from one photo to the next."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't delete the photos from the restaurant. I ___ them in a different folder.",
+      "hint": "(save - past)",
+      "answers": ["saved"],
+      "explanation": "You save the photos you want to keep."
+    },
+    {
+      "type": "true_false",
+      "statement": "Your phone memory is full, so you need to delete some photos and messages.",
+      "answer": true,
+      "explanation": "Correct. When the memory is full, you delete things to make space."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a part of your phone, or something you do with your phone?",
+      "categories": ["A part of the phone", "Something you do"],
+      "items": [
+        { "text": "battery", "category": 0 },
+        { "text": "screen", "category": 0 },
+        { "text": "SIM card", "category": 0 },
+        { "text": "charger", "category": 0 },
+        { "text": "swipe", "category": 1 },
+        { "text": "delete", "category": 1 },
+        { "text": "download", "category": 1 },
+        { "text": "text", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend to send you the address of the restaurant.",
+      "words": ["Can", "you", "text", "me", "the", "address", "of", "the", "restaurant?"],
+      "answer": "Can you text me the address of the restaurant?",
+      "explanation": "We text someone something."
+    }
+  ]
+}

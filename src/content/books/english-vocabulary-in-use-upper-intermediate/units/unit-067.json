@@ -1,0 +1,197 @@
+{
+  "number": 67,
+  "title": "Discourse markers in spoken English",
+  "subtitle": "well, anyway, mind you, hang on",
+  "summary": "Use the little words that organise conversation - well, anyway, mind you, listen, still and I mean - so that your spoken English sounds natural.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are discourse markers?",
+      "text": "Discourse markers are expressions which organise, comment on or frame what we are saying. They do not add new information; they tell the listener what you are doing with the information.",
+      "examples": [
+        { "text": "*A:* So you live in Boston? *B:* **Well**, near Boston.", "note": "well shows the speaker is not giving the expected yes answer" },
+        { "text": "**Right**, let's have a look at exercise 3.", "note": "right and OK organise what happens next, e.g. in a classroom" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Organising a conversation",
+      "text": "These markers move a conversation from one stage to the next. **Now then** is used by someone in control, such as a teacher. **Fine** and **Great** often close a conversation.",
+      "examples": [
+        { "text": "**Now**, what shall we do next?" },
+        { "text": "**So**, would you like to come to the table now, please?" },
+        { "text": "**Good**, I'll ring you on Thursday, then." },
+        { "text": "**Fine**, let's meet again next week, then, shall we?" },
+        { "text": "**So, where was I?** I was telling you about my aunt ...", "note": "used after an interruption, to come back to the main story" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Modifying and commenting on what you say",
+      "columns": ["Marker", "What it does", "Example"],
+      "rows": [
+        ["mind you", "adds an afterthought, like however", "It's cold, isn't it? Mind you, it's November."],
+        ["listen / look", "introduces a suggestion or an important point", "Listen, why don't you let me sort it out?"],
+        ["let me see", "a hesitation, gaining time", "What's her number? Let me see, I have it here somewhere ..."],
+        ["hang on / hold on", "prevents an interruption", "Hang on! Let me tell you what he said!"],
+        ["you see", "explains something", "I can't do that. You see, I'm not the boss here."],
+        ["I mean", "makes clear what you mean", "We shouldn't be too hard on him. I mean, he's only a child."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Hesitating and being vague",
+      "text": "When you are not sure of the best way to say something, English speakers use **sort of**, **kind of**, **like** and **you know**. They give you thinking time and make what you say less definite.",
+      "examples": [
+        { "text": "He was, **you know**, **sort of** ... just standing there." },
+        { "text": "He was wearing this, **kind of**, cowboy hat." },
+        { "text": "We were just sitting in the garden, **sort of** doing nothing much." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Changing topic vs contrasting ideas",
+      "left": {
+        "label": "anyway - the topic can now change",
+        "text": "The speaker thinks the subject is finished, or that the conversation can close.",
+        "examples": [
+          "So that's what we have to do. **Anyway**, I'll ring you tomorrow.",
+          "Yes, there is a lot of work to do. **Anyway**, I must rush now, I'll call you tomorrow."
+        ]
+      },
+      "right": {
+        "label": "still / on the other hand - two ideas contrasted",
+        "text": "The speaker sets one idea against another.",
+        "examples": [
+          "It rained all day yesterday. **Still**, we can't complain, it was fine all last week.",
+          "He loses his temper very quickly. **On the other hand**, he's got a great sense of humour."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Listing points out loud",
+      "text": "In informal spoken English, people use the letters of the alphabet - usually no more than **a**, **b** and **c** - to list the points they want to make.",
+      "examples": [
+        { "text": "*Stella:* Why aren't you going this evening? *Adam:* Well, **a)** I haven't got any money, and **b)** it's too far anyway." },
+        { "text": "There are two reasons why I think he's wrong: **a**, people don't act like that, and **b**, Paul would certainly never act like that." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Choose three or four markers you like and use them - but do not overuse them, or your speech will sound padded rather than natural."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each discourse marker with its function.",
+      "pairs": [
+        { "left": "mind you", "right": "adds an afterthought, like however" },
+        { "left": "hang on", "right": "stops the other person interrupting" },
+        { "left": "let me see", "right": "gains time while you remember something" },
+        { "left": "you see", "right": "explains why something is so" },
+        { "left": "anyway", "right": "signals that the topic can change" },
+        { "left": "still", "right": "contrasts two ideas" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Are you a football fan? *B:* ___, I like it but I wouldn't say I was a fan.",
+      "hint": "(one word - not the expected 'yes')",
+      "answers": ["Well"],
+      "explanation": "Well warns the listener that the answer is not the expected one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Which number is yours? *B:* ___ ... it's that one there, yes, that one.",
+      "hint": "(three words - a hesitation)",
+      "answers": ["Let me see"],
+      "explanation": "Let me see gains a little time while the speaker looks or thinks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I saw this funny old man and I stopped him ... *B:* I bet it was Jim Dibble! *A:* ___! Let me tell you what happened first.",
+      "hint": "(two words - stop the interruption)",
+      "answers": ["Hang on", "Hold on"],
+      "explanation": "Hang on and hold on prevent an interruption."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What are we going to do? *B:* ___, I've got an idea. Why don't we ask James to help?",
+      "hint": "(one word - introduces a suggestion)",
+      "answers": ["Listen", "Look"],
+      "explanation": "Listen and look introduce a suggestion or an important point."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Money isn't the most important thing in life. *B:* ___, you can't live without it!",
+      "hint": "(one word - contrasts two ideas)",
+      "answers": ["Still"],
+      "explanation": "Still contrasts the second idea with the first, like on the other hand."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He's looking exhausted. *B:* Really? *A:* ___, look at his eyes - he looks so tired.",
+      "hint": "(two words - makes your point clear)",
+      "answers": ["I mean"],
+      "explanation": "I mean introduces an explanation of what you have just said."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* So I'll pick you up at 6.30. *B:* ___ See you then.",
+      "options": ["Great.", "Hang on!", "Mind you,", "You see,"],
+      "answer": 0,
+      "explanation": "Great, fine and good are typical markers for closing a conversation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which marker would a teacher use to get a class's attention: '___, I want you to pay attention, everyone.'",
+      "options": ["Now", "Anyway", "Still", "I mean"],
+      "answer": 0,
+      "explanation": "Now and now then are used by the person in control of the conversation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'You seem a bit sad today. ___, let me buy lunch for you to cheer you up.' Which marker fits?",
+      "options": ["Look", "Anyway", "On the other hand", "Where was I"],
+      "answer": 0,
+      "explanation": "Look (like listen) introduces a suggestion."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these markers by what they mainly do.",
+      "categories": ["Hesitating or being vague", "Closing or changing topic", "Contrasting"],
+      "items": [
+        { "text": "sort of", "category": 0 },
+        { "text": "kind of", "category": 0 },
+        { "text": "you know", "category": 0 },
+        { "text": "anyway", "category": 1 },
+        { "text": "fine", "category": 1 },
+        { "text": "great", "category": 1 },
+        { "text": "still", "category": 2 },
+        { "text": "on the other hand", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "In 'It's cold, isn't it? Mind you, it's November,' the marker *mind you* works rather like *however*.",
+      "answer": true,
+      "explanation": "Correct - mind you introduces an afterthought that qualifies what was just said."
+    },
+    {
+      "type": "true_false",
+      "statement": "*So, where was I?* is used to change to a completely new subject.",
+      "answer": false,
+      "explanation": "It is used after an interruption to come back to the main topic or story."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this speaker's words in order.",
+      "words": ["We", "shouldn't", "be", "too", "hard", "on", "him.", "I mean,", "he's", "only", "a", "child."],
+      "answer": "We shouldn't be too hard on him. I mean, he's only a child.",
+      "explanation": "I mean introduces the reason that makes the first statement clear."
+    }
+  ]
+}

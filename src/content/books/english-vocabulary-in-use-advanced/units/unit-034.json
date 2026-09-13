@@ -1,0 +1,210 @@
+{
+  "number": 34,
+  "title": "Here to help: customer service",
+  "subtitle": "prompt, obliging, shoddy, on hold, secure site",
+  "summary": "Describe good and bad customer service precisely - impeccable or shoddy, responsive or uncooperative - and handle the language of online accounts, dispatch and guarantees.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Good service",
+      "text": "A good company makes sure you get a **prompt** (quick, without delay) reply to any **query**, a question or enquiry, and is very **responsive to** complaints - it listens, takes things seriously and acts. Staff who are **accommodating** are willing to understand and help.",
+      "examples": [
+        { "text": "They are very **responsive to** complaints." },
+        { "text": "I was expecting a **prompt** reply to my email, but I have been waiting two weeks." },
+        { "text": "When I rang to change the delivery date, they were very **accommodating**." },
+        { "text": "If you have any **queries** about the service, there is a helpline you can ring." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Getting back to you",
+      "text": "If a company **gets back to you**, it calls or writes with an answer. **Impeccable** service is 100% perfect, and staff who are **obliging** are willing and happy to do things for you.",
+      "examples": [
+        { "text": "They **got back to** me within ten minutes with a new date." },
+        { "text": "Whenever I ring, I get **impeccable** service." },
+        { "text": "Staff in that shop are so **obliging**; they are genuinely helpful." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives for bad service",
+      "columns": ["Adjective", "Meaning", "Example"],
+      "rows": [
+        ["incompetent", "failing through insufficient skill, knowledge or training", "It wasn't just bad service; they were completely incompetent."],
+        ["impersonal", "lacking a personal element or feeling of human warmth", "I find some big shops so impersonal."],
+        ["shoddy", "poor quality (of service or of goods)", "They repaired my car but the work was very shoddy."],
+        ["substandard", "below the standard expected (often used about actions)", "It was a substandard performance altogether for such a big company."],
+        ["uncooperative", "not supportive, unwilling to work together", "The secretary was very uncooperative, so I ended up doing it myself."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Waiting, complaining and guarantees",
+      "text": "A **backlog** is the number of orders waiting to be dealt with. Companies with no **sense of urgency** - no feeling that your request is important - are **exasperating**. You ring the **helpline**, the number where you get help, and they **put you on hold**, that is make you wait. A product that is still **under guarantee** or **under warranty** is covered by a written promise to repair or replace it.",
+      "examples": [
+        { "text": "There is a huge **backlog** of orders and they can't deliver for three weeks." },
+        { "text": "They never seem to have any **sense of urgency** when you ring them. It's **exasperating**." },
+        { "text": "I rang to complain and they **put me on hold** for about 15 minutes." },
+        { "text": "The home button stopped working but it was still **under guarantee**, so I didn't have to pay." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Accounts and security online",
+      "text": "Most big companies offer a **secure site**, a web address where no outside person can read your details, and where you can **set up an account**. Their **privacy policy** is the set of rules that keeps your account private and guarantees **secure transactions**.",
+      "examples": [
+        { "text": "Most online stores ask you to **set up an account** before you can buy things." },
+        { "text": "It's a **secure site** which protects all your personal details." },
+        { "text": "It didn't feel like a **secure transaction**, so I cancelled it and logged off." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Links you find on a website",
+      "columns": ["Link", "What it does"],
+      "rows": [
+        ["Track your order", "follow the progress of your order"],
+        ["Returns policy", "rules for sending back goods you are not satisfied with"],
+        ["FAQ", "the most commonly asked questions (said as initials)"],
+        ["Check availability", "see if the goods you want can be supplied"],
+        ["Browse our categories", "look through the range before buying"],
+        ["Site map / site index", "with one look you can see what the website contains"],
+        ["Your basket", "goods you have chosen but not yet paid for"],
+        ["Privacy and cookies", "rules for protecting your personal details and tracking software"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Delivery and shopping in person",
+      "text": "Large online stores offer immediate **dispatch** - the goods will be sent at once - and a **nationwide** service, covering the whole country. The **home page** is the main or first page of a website. If you buy something **in-store**, you buy it in a real shop rather than online.",
+      "examples": [
+        { "text": "They promised immediate **dispatch** of the goods I ordered." },
+        { "text": "Do they offer a **nationwide** service?" },
+        { "text": "I would recommend you buy your guitar **in-store** rather than online." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Guarantee and warranty mean the same thing here, but we say a product is under guarantee or under warranty - never ~~in guarantee~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each website link with what it does.",
+      "pairs": [
+        { "left": "Track your order", "right": "follow the progress of your order" },
+        { "left": "Returns policy", "right": "rules for sending back goods" },
+        { "left": "Check availability", "right": "see if the goods can be supplied" },
+        { "left": "Your basket", "right": "goods chosen but not yet paid for" },
+        { "left": "At a glance site map", "right": "see at one look what the website contains" },
+        { "left": "Browse our categories", "right": "look through the range before buying" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I rang to complain and they put me ___ for about 15 minutes.",
+      "hint": "(made me wait on the phone)",
+      "answers": ["on hold"],
+      "explanation": "To put someone on hold is to make them wait on the telephone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They promised to ring me again, but they never got ___ me.",
+      "hint": "(called with an answer)",
+      "answers": ["back to"],
+      "explanation": "To get back to someone is to call or write with an answer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They promised immediate ___ of the goods I ordered, but nothing has arrived.",
+      "hint": "(sending out at once)",
+      "answers": ["dispatch"],
+      "explanation": "Dispatch is the sending out of goods."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have always found the company very ___ to complaints and enquiries.",
+      "hint": "(they listen and act)",
+      "answers": ["responsive"],
+      "explanation": "To be responsive to something is to listen, take it seriously and act."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They said there was a ___ of orders which had built up over the New Year's holiday.",
+      "hint": "(orders waiting to be dealt with)",
+      "answers": ["backlog"],
+      "explanation": "A backlog is the number of orders which are waiting to be dealt with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think you need to try a musical instrument before you buy it, so buy your guitar ___ rather than online.",
+      "hint": "(in a real shop)",
+      "answers": ["in-store", "in store"],
+      "explanation": "In-store means in a real shop, as opposed to online."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most online stores ask you to ___ an account before you can buy things.",
+      "hint": "(enter all the necessary details to open it)",
+      "answers": ["set up"],
+      "explanation": "To set up an account is to enter all the details necessary to open it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The plumber we got lacked the necessary skills and he caused a flood in our kitchen. He was completely ___.",
+      "options": ["incompetent", "impersonal", "impeccable", "uncooperative"],
+      "answer": 0,
+      "explanation": "Incompetent means failing through insufficient skill, knowledge or training."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The service has no feeling of human warmth about it; they just treat you as a number. The service is very ___.",
+      "options": ["impersonal", "shoddy", "prompt", "obliging"],
+      "answer": 0,
+      "explanation": "Impersonal service lacks a personal element or feeling of human warmth."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The service they gave me could not have been better. It was ___.",
+      "options": ["impeccable", "substandard", "exasperating", "shoddy"],
+      "answer": 0,
+      "explanation": "Impeccable means 100% perfect."
+    },
+    {
+      "type": "true_false",
+      "statement": "If goods are of poor quality, we can describe them as shoddy.",
+      "answer": true,
+      "explanation": "Correct - shoddy describes poor-quality service or goods: the work on my car was very shoddy."
+    },
+    {
+      "type": "true_false",
+      "statement": "The new TV came with a two-year promise to repair or replace it, so we say it came with a two-year backlog.",
+      "answer": false,
+      "explanation": "The new TV came with a two-year guarantee / warranty. A backlog is orders waiting to be dealt with."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word describe good service or bad service?",
+      "categories": ["Good service", "Bad service"],
+      "items": [
+        { "text": "obliging", "category": 0 },
+        { "text": "prompt", "category": 0 },
+        { "text": "accommodating", "category": 0 },
+        { "text": "impeccable", "category": 0 },
+        { "text": "shoddy", "category": 1 },
+        { "text": "substandard", "category": 1 },
+        { "text": "uncooperative", "category": 1 },
+        { "text": "incompetent", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this complaint in order.",
+      "words": ["They", "never", "seem", "to", "have", "any", "sense", "of", "urgency", "when", "you", "ring"],
+      "answer": "They never seem to have any sense of urgency when you ring",
+      "explanation": "A sense of urgency is the feeling that your request is important or urgent."
+    }
+  ]
+}

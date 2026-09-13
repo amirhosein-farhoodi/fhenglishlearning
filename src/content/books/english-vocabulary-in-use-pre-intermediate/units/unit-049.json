@@ -1,0 +1,184 @@
+{
+  "number": 49,
+  "title": "Cafés",
+  "subtitle": "a large latte, to take away, heated up",
+  "summary": "Name the food and drink you find in a cafe and order it the way people really do.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Drinks",
+      "columns": ["Drink", "What it is"],
+      "rows": [
+        ["black coffee", "coffee with no milk"],
+        ["a latte", "coffee with a lot of hot milk"],
+        ["a cappuccino", "coffee with hot milk and a lot of foam on top"],
+        ["hot chocolate", "a hot sweet chocolate drink"],
+        ["a milkshake", "a cold drink of milk with a flavour, e.g. strawberry"],
+        ["a smoothie", "a thick cold drink made of fruit"],
+        ["herbal tea", "tea made from plants, e.g. mint"],
+        ["decaf tea / coffee", "tea or coffee without caffeine"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Food",
+      "columns": ["Sandwiches and bread", "Cakes and snacks"],
+      "rows": [
+        ["a toastie (a hot toasted sandwich)", "a muffin"],
+        ["a panini (a hot Italian sandwich)", "a cupcake"],
+        ["a bagel (a round bread roll with a hole)", "a waffle"],
+        ["a wrap (a soft flat bread rolled round a filling)", "a croissant"],
+        ["a baguette (a long thin French loaf)", "crisps"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "crisps and chips",
+      "left": {
+        "label": "UK",
+        "text": "**Crisps** are thin slices of fried potato sold in bags. **Chips** or **fries** mean French fries.",
+        "examples": [
+          "I had a bag of **crisps** with my sandwich.",
+          "Fish and **chips**, please."
+        ]
+      },
+      "right": {
+        "label": "USA",
+        "text": "**Chips** are the thin slices sold in bags, and the hot ones are **French fries**.",
+        "examples": [
+          "A bag of potato **chips**.",
+          "A burger and **French fries**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Ordering a drink",
+      "text": "The person behind the counter asks about the size - **regular** (not big and usually not very small) or **large** - and asks if you want to eat **in** or **take away** (eat it after you leave).",
+      "examples": [
+        { "text": "*A:* A latte, please. *B:* **Regular** or **large**?" },
+        { "text": "*B:* To have **in** or **take away**? *A:* To take away." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Ordering food",
+      "text": "Ask **What's in that panini?** if you don't know the filling. Say you are **vegetarian** if you don't eat meat. Hot food can be **heated up** for you in an oven or a microwave.",
+      "examples": [
+        { "text": "*A:* Do you have any **vegetarian** ones? *B:* We've got cheese and tomato.", "note": "vegetarian = without any meat" },
+        { "text": "*B:* Would you like it **heated up**? *A:* No, thank you.", "note": "heated up = made warm" },
+        { "text": "*A:* Where are the **napkins**?", "note": "napkins = thin paper for cleaning your mouth and fingers" },
+        { "text": "*A:* Do you have a **tray**, please?", "note": "a tray = an object for carrying drinks or food" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*decaf* is short for *decaffeinated*: decaf coffee has no caffeine, so it will not keep you awake."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each item in the correct group.",
+      "categories": ["Drinks", "Sandwiches", "Cakes"],
+      "items": [
+        { "text": "herbal tea", "category": 0 },
+        { "text": "latte", "category": 0 },
+        { "text": "smoothie", "category": 0 },
+        { "text": "bagel", "category": 1 },
+        { "text": "panini", "category": 1 },
+        { "text": "baguette", "category": 1 },
+        { "text": "cupcake", "category": 2 },
+        { "text": "muffin", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had a cheese and tomato ___ for lunch - it was lovely and hot.",
+      "hint": "(a toasted sandwich)",
+      "answers": ["toastie"],
+      "explanation": "A toastie is a hot toasted sandwich."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Here's your coffee, Danny. A ___ with two sugars.",
+      "hint": "(coffee with foam on top)",
+      "answers": ["cappuccino"],
+      "explanation": "A cappuccino is coffee with hot milk and foam on top."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "For breakfast, we had some ___ from the French baker's across the road.",
+      "hint": "(plural - French, made of light pastry)",
+      "answers": ["croissants"],
+      "explanation": "Croissants are a typical French breakfast."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do they have ___ coffee here? Caffeine keeps me awake at night.",
+      "hint": "(one word)",
+      "answers": ["decaf", "decaffeinated"],
+      "explanation": "Decaf coffee is coffee without caffeine."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We've got three kinds of ___: strawberry, vanilla and chocolate.",
+      "options": ["milkshake", "herbal tea", "crisps", "napkin"],
+      "answer": 0,
+      "explanation": "A milkshake is a cold drink of milk with a flavour."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like that new fruit ___ with oranges and mangoes.",
+      "hint": "(a thick cold fruit drink)",
+      "answers": ["smoothie"],
+      "explanation": "A smoothie is a thick cold drink made of fruit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Kate can't have the chicken panini. She only eats ___ food.",
+      "hint": "(without any meat)",
+      "answers": ["vegetarian"],
+      "explanation": "Vegetarian food is food without any meat."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the sentence beginnings with the best endings.",
+      "pairs": [
+        { "left": "What size:", "right": "regular or large?" },
+        { "left": "Is it to have in", "right": "or to take away?" },
+        { "left": "Would you like it", "right": "heated up?" },
+        { "left": "What's in", "right": "that baguette?" },
+        { "left": "Where are", "right": "the napkins?" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*B:* What's in that ___? *A:* Italian cheese and mushrooms. I can heat it up for you.",
+      "options": ["panini", "cupcake", "milkshake", "tray"],
+      "answer": 0,
+      "explanation": "A panini is a hot Italian sandwich, so the cafe can heat it up."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* To eat in? *B:* No, to ___.",
+      "options": ["take away", "heat it up", "have in", "be regular"],
+      "answer": 0,
+      "explanation": "take away = eat or drink it after you leave the cafe."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the UK, crisps are thin slices of fried potato sold in bags.",
+      "answer": true,
+      "explanation": "Correct. In the UK chips or fries mean French fries; in the USA the ones in bags are called chips."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want something to carry your coffee and cake on. Put the words in order.",
+      "words": ["Do", "you", "have", "a tray,", "please?"],
+      "answer": "Do you have a tray, please?",
+      "explanation": "A tray is an object for carrying drinks or food."
+    }
+  ]
+}

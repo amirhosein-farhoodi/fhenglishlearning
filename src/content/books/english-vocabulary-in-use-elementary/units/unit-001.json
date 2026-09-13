@@ -1,0 +1,175 @@
+{
+  "number": 1,
+  "title": "The family",
+  "subtitle": "mother, uncle, relatives",
+  "summary": "Name the people in a family - parents, grandparents, aunts, uncles and cousins - and talk about your own.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Family words",
+      "text": "The people in your family are your **relatives** or your **relations**. Both words mean the same thing. Here is the Sorokin family, which we use all through this unit.",
+      "examples": [
+        { "text": "Anne has a big family. She has a lot of **relatives**." },
+        { "text": "We invited all our **relations** to the wedding.", "note": "= relatives" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The Sorokin family",
+      "columns": ["Generation", "Who"],
+      "rows": [
+        ["Oldest", "Henry + Diana"],
+        ["Their children", "Amelia / Ivan (married to Anne) / George (married to Meena)"],
+        ["Youngest", "Karen and Jack (Ivan and Anne's) / Ravi and Kavita (George and Meena's)"]
+      ],
+      "note": "A '+' means the two people are married."
+    },
+    {
+      "type": "explain",
+      "heading": "Parents and children",
+      "text": "A **husband** and **wife** are married to each other. Together they are the **parents** of their children. A girl is a **daughter**, a boy is a **son**. Children of the same parents are **sisters** and **brothers**.",
+      "examples": [
+        { "text": "Ivan is Anne's **husband** and Karen and Jack's **father**." },
+        { "text": "Anne is Ivan's **wife** and Karen and Jack's **mother**." },
+        { "text": "Karen is Anne and Ivan's **daughter**. Jack is their **son**." },
+        { "text": "Karen is Jack's **sister**. Jack is Karen's **brother**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Grandparents and grandchildren",
+      "text": "Your father's and mother's parents are your **grandparents**: your **grandfather** and your **grandmother**. You are their **grandson** or **granddaughter**, and all of you together are their **grandchildren**.",
+      "examples": [
+        { "text": "Henry is Karen and Jack's **grandfather**. Diana is their **grandmother**." },
+        { "text": "Henry and Diana are Karen and Jack's **grandparents**." },
+        { "text": "Karen is Henry and Diana's **granddaughter**. Jack is their **grandson**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Aunts, uncles, nieces, nephews and cousins",
+      "text": "Your parent's brother is your **uncle** and your parent's sister is your **aunt**. You are their **nephew** (a boy) or their **niece** (a girl). Their children are your **cousins** - the word is the same for a boy and a girl.",
+      "examples": [
+        { "text": "George is Karen and Jack's **uncle**." },
+        { "text": "Amelia and Meena are Karen and Jack's **aunts**." },
+        { "text": "Karen is Amelia, George and Meena's **niece**. Jack is their **nephew**." },
+        { "text": "Kavita and Ravi are Karen and Jack's **cousins**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about your family",
+      "text": "These are the questions people ask about your family, and the usual answers. A child with no brothers or sisters is an **only child**.",
+      "examples": [
+        { "text": "*A:* Have you got any brothers and sisters? *B:* No, I am **an only child**." },
+        { "text": "*A:* Do you come from a big family? *B:* Yes, I have three brothers and two sisters." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch the plural: we say *my wife* and *his wife*, but *our wives* and *their wives* - not ~~our wifes~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Kavita and Ravi have the same parents. Ravi is Kavita's ___.",
+      "hint": "(a boy)",
+      "answers": ["brother"],
+      "explanation": "A boy with the same parents as you is your brother."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Anne is married to Ivan, and Ivan is Kavita's uncle. So Anne is Kavita's ___.",
+      "hint": "(a woman)",
+      "answers": ["aunt"],
+      "explanation": "Your uncle's wife is your aunt."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Diana is the mother of Ravi's father. What is she to Ravi?",
+      "options": ["his grandmother", "his aunt", "his niece", "his granddaughter"],
+      "answer": 0,
+      "explanation": "Your parent's mother is your grandmother."
+    },
+    {
+      "type": "matching",
+      "prompt": "Ivan is the father of Karen and Jack, and the uncle of Ravi and Kavita. Match each person to what they are to Ivan.",
+      "pairs": [
+        { "left": "Karen", "right": "his daughter" },
+        { "left": "Jack", "right": "his son" },
+        { "left": "Ravi", "right": "his nephew" },
+        { "left": "Kavita", "right": "his niece" },
+        { "left": "Anne", "right": "his wife" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Karen and Ravi are the children of two brothers. Karen is Ravi's ___.",
+      "hint": "(the same word for a boy or a girl)",
+      "answers": ["cousin"],
+      "explanation": "The children of your aunt or uncle are your cousins."
+    },
+    {
+      "type": "true_false",
+      "statement": "Meena is married to George, so Meena is George's wife.",
+      "answer": true,
+      "explanation": "Correct. A married woman is her husband's wife."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each family word into the right group.",
+      "categories": ["Female", "Male", "Both"],
+      "items": [
+        { "text": "niece", "category": 0 },
+        { "text": "nephew", "category": 1 },
+        { "text": "aunt", "category": 0 },
+        { "text": "uncle", "category": 1 },
+        { "text": "cousin", "category": 2 },
+        { "text": "parents", "category": 2 },
+        { "text": "granddaughter", "category": 0 },
+        { "text": "grandson", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sanjay and his wife have one son, Prem. Prem has no brothers or sisters, so he is an ___.",
+      "hint": "(three words)",
+      "answers": ["only child"],
+      "explanation": "A child with no brothers or sisters is an only child."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a new friend about their brothers and sisters.",
+      "words": ["Have", "you", "got", "any", "brothers", "and", "sisters?"],
+      "answer": "Have you got any brothers and sisters?"
+    },
+    {
+      "type": "true_false",
+      "statement": "Ivan and George love their grandparents and visit them with their wifes as often as possible.",
+      "answer": false,
+      "explanation": "Ivan and George love their grandparents and visit them with their wives as often as possible. The plural of wife is wives."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Alexander and Leila are Henry's parents. Amelia, Ivan and George are Henry's children. What are Amelia, Ivan and George to Alexander and Leila?",
+      "options": ["their grandchildren", "their parents", "their cousins", "their nephews"],
+      "answer": 0,
+      "explanation": "Your children's children are your grandchildren."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask someone whether their family is a big one.",
+      "words": ["Do", "you", "come", "from", "a", "big", "family?"],
+      "answer": "Do you come from a big family?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ivan and George are brothers. Their parents, Henry and Diana, are the ___ of Karen, Jack, Ravi and Kavita.",
+      "hint": "(one word, plural)",
+      "answers": ["grandparents"],
+      "explanation": "Your parents' parents are your grandparents."
+    }
+  ]
+}

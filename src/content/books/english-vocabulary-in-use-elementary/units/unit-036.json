@@ -1,0 +1,170 @@
+{
+  "number": 36,
+  "title": "Problems at home and work",
+  "subtitle": "It isn't working. The room is untidy.",
+  "summary": "Say what is wrong at home and at work - broken machines, lost keys, an untidy room and a bad day at the office.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Things that don't work",
+      "text": "When a machine does not work, we say it **isn't working** or it is **broken**. You **repair** it or **mend** it - the two verbs mean the same thing. A machine in a public place with a notice on it is **out of order**.",
+      "examples": [
+        { "text": "The TV **isn't working**. Can you **repair** it?" },
+        { "text": "The washing machine is **broken**. We need to **mend** it." },
+        { "text": "The photocopier was **out of order**, so nobody could use it." },
+        { "text": "Her computer **crashed** this morning.", "note": "crash = stop working suddenly" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Problems in the house",
+      "text": "Plants **die** if you forget to **water** them. A room is **untidy** when things are not in the right place - then you **tidy** it. When you cannot find something, you **look for** it.",
+      "examples": [
+        { "text": "The plants are **dying**. Did you forget to **water** them?" },
+        { "text": "The room is **untidy**. We must **tidy** it." },
+        { "text": "I've **lost** my keys. Will you help me **look for** them?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Small accidents and arguments",
+      "text": "If you **cut** your finger, you **put on a plaster**. If you have a **row** with a friend [an angry argument], you can **apologise** - say 'I'm sorry'.",
+      "examples": [
+        { "text": "You've **cut** your finger. You should **put on a plaster**." },
+        { "text": "You've had a **row** with a friend. Will you **apologise**?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Chloe's bad day at work",
+      "columns": ["The problem", "What it means"],
+      "rows": [
+        ["She was **late for work**.", "She arrived after the right time."],
+        ["She had **too much work** to do.", "More work than one person can do."],
+        ["Her **colleague** was **in a bad mood**.", "A colleague is a person you work with; in a bad mood = not happy or friendly."],
+        ["Her computer **crashed**.", "It stopped working suddenly."],
+        ["The photocopier was **out of order**.", "It was broken, so nobody could use it."],
+        ["The coffee machine **wasn't working**.", "There was no coffee that day."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words that go together",
+      "columns": ["Word", "Nouns that go with it"],
+      "rows": [
+        ["**broken**", "window, cup, glass"],
+        ["**cut**", "finger, hand, knee"],
+        ["**untidy**", "room, desk, hair"],
+        ["**late for**", "work, school, an appointment"],
+        ["**too much**", "work, rain, wind"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Write your list of jobs to do in English: *Mend my bike. Water the plants. Tidy my desk.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I can't call anybody. The phone isn't ___.",
+      "hint": "(work)",
+      "answers": ["working"],
+      "explanation": "When a machine does not work, we say it isn't working."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The washing machine is ___. We need to mend it.",
+      "hint": "(one word)",
+      "answers": ["broken"],
+      "explanation": "Broken = not working any more. You mend or repair it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The plants are dying. Did you forget to ___ them?",
+      "hint": "(one word)",
+      "answers": ["water"],
+      "explanation": "You water plants to stop them dying."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The room is untidy. We must ___ it.",
+      "hint": "(one word)",
+      "answers": ["tidy"],
+      "explanation": "Tidy is an adjective (an untidy room) and a verb (to tidy a room)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the problem.",
+      "pairs": [
+        { "left": "Tom pressed a key and the screen went black.", "right": "His computer has crashed." },
+        { "left": "Anna dropped a cup on the kitchen floor.", "right": "The cup is broken." },
+        { "left": "Nobody has put anything away for a week.", "right": "The room is untidy." },
+        { "left": "There is a notice on the photocopier: DO NOT USE.", "right": "The photocopier is out of order." },
+        { "left": "Maya arrived at the office at 10, but work starts at 9.", "right": "She is late for work." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Chloe can't finish everything today. She has ___ work to do.",
+      "hint": "(two words)",
+      "answers": ["too much"],
+      "explanation": "Too much work = more work than you can do."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You've cut your finger. You should put on a ___.",
+      "hint": "(one word)",
+      "answers": ["plaster"],
+      "explanation": "You put a plaster on a small cut."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Chloe's colleague was in a bad mood. What does this mean?",
+      "options": ["He was not happy or friendly.", "He was very funny.", "He was ill in bed.", "He was late for work."],
+      "answer": 0,
+      "explanation": "In a bad mood = not happy or friendly that day."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word does each noun go with?",
+      "categories": ["broken ...", "untidy ...", "late for ..."],
+      "items": [
+        { "text": "a window", "category": 0 },
+        { "text": "a cup", "category": 0 },
+        { "text": "hair", "category": 1 },
+        { "text": "a desk", "category": 1 },
+        { "text": "school", "category": 2 },
+        { "text": "an appointment", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If a machine is out of order, you can use it.",
+      "answer": false,
+      "explanation": "If a machine is out of order, you cannot use it. It is broken."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've had a row with my sister. Now I want to ___ and say I'm sorry.",
+      "hint": "(one word)",
+      "answers": ["apologise", "apologize"],
+      "explanation": "To apologise = to say 'I'm sorry'. A row is an angry argument."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The TV isn't working. Can you ___ it?",
+      "options": ["repair", "water", "tidy", "apologise"],
+      "answer": 0,
+      "explanation": "You repair or mend a machine that isn't working."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You cannot find your keys. Ask a friend to help.",
+      "words": ["Will", "you", "help me", "look for", "them?"],
+      "answer": "Will you help me look for them?",
+      "explanation": "Look for = try to find."
+    }
+  ]
+}

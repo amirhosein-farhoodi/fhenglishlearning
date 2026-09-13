@@ -1,0 +1,218 @@
+{
+  "number": 25,
+  "title": "Cooking",
+  "subtitle": "boil, fry, grill, roast; tasty, spicy, delicious",
+  "summary": "Describe how food is cooked, say what you do when you prepare a meal, and talk about how food tastes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Ways of cooking food",
+      "columns": ["Verb", "How and where"],
+      "rows": [
+        ["**boil**", "potatoes or rice in water, in a **saucepan**"],
+        ["**fry**", "sausages in a **frying pan**"],
+        ["**grill**", "toast or meat under a **grill**"],
+        ["**roast**", "meat with oil, in the **oven**"],
+        ["**bake**", "cakes without oil, in the **oven**"],
+        ["**barbecue**", "meat and fish outside, on a **barbecue**"]
+      ],
+      "note": "Food which is not cooked is **raw**."
+    },
+    {
+      "type": "explain",
+      "heading": "Preparing food",
+      "text": "Before you cook, you often have to **peel** and **chop** things. While the food is cooking, you **stir** it so that it does not burn.",
+      "examples": [
+        { "text": "**Peel** the potatoes and boil them.", "note": "peel = remove the skin" },
+        { "text": "While they're boiling, **chop** an onion.", "note": "chop = cut it into small pieces" },
+        { "text": "**Fry** the onion before **adding** some chopped tomatoes.", "note": "add = put them together with the onions" },
+        { "text": "Then **stir** it all for a few minutes.", "note": "stir = move it around in the pan with a spoon" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What does it taste like?",
+      "text": "**Chefs** - people who cook in a restaurant as a job - always **taste** the food while they are cooking. The **taste** is the flavour something has in your mouth.",
+      "examples": [
+        { "text": "I don't like the **taste** of too much garlic." },
+        { "text": "I tried the soup and it **tasted** a bit strange." },
+        { "text": "Michel's food is very **tasty**.", "note": "tasty = it has a good taste" },
+        { "text": "Indian food is a bit too **spicy** for me.", "note": "spicy = with a strong hot flavour" },
+        { "text": "You get ice cream in different **flavours**, e.g. vanilla, coffee, strawberry." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "delicious and horrible",
+      "left": {
+        "label": "Good",
+        "text": "**Delicious** means fantastic, with a wonderful taste.",
+        "examples": [
+          "The apple pie was **delicious**.",
+          "Michel's food is always very **tasty**."
+        ]
+      },
+      "right": {
+        "label": "Bad",
+        "text": "**Horrible** means terrible and unpleasant.",
+        "examples": [
+          "Lena said her pasta was **horrible**.",
+          "The coffee was **bitter** and cold."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Words for tastes",
+      "columns": ["Word", "Meaning", "Opposite"],
+      "rows": [
+        ["**sour**", "the taste of lemons", "sweet"],
+        ["**bitter**", "strong and sharp, like very strong coffee", "smooth"],
+        ["**spicy**", "with a strong hot flavour", "mild"],
+        ["**raw**", "not cooked", "cooked"]
+      ],
+      "note": "Strong, dark chocolate can also be **bitter**, but here it is not always negative."
+    },
+    {
+      "type": "explain",
+      "heading": "Are you a good cook?",
+      "text": "A **recipe** is the list of cooking instructions for a dish. The **ingredients** are the different foods you need to make a meal.",
+      "examples": [
+        { "text": "I always follow a **recipe** when I make lasagne." },
+        { "text": "Make sure you have all the right **ingredients** before you start." },
+        { "text": "I'm quite good at making **pies**, especially apple pie." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A person who cooks well is a good **cook**, not ~~a good cooker~~. The **cooker** is the machine in the kitchen. And say *good at cooking*, not ~~good in cooking~~."
+    },
+    {
+      "type": "tip",
+      "text": "We **cook** a type of food (*I'm cooking some beef*) but we **make** a dish (*I'm making dessert*, not ~~I'm cooking dessert~~)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the way of cooking with where you do it.",
+      "pairs": [
+        { "left": "boil rice", "right": "in a saucepan" },
+        { "left": "fry sausages", "right": "in a frying pan" },
+        { "left": "grill meat", "right": "under a grill" },
+        { "left": "bake a cake", "right": "in the oven" },
+        { "left": "barbecue fish", "right": "on a barbecue" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the food cooked or not cooked?",
+      "categories": ["Cooked", "Not cooked"],
+      "items": [
+        { "text": "roast beef", "category": 0 },
+        { "text": "raw fish", "category": 1 },
+        { "text": "a baked potato", "category": 0 },
+        { "text": "barbecued chicken", "category": 0 },
+        { "text": "a green salad", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The paella was very ___ .",
+      "hint": "(it had a good taste - not 'tasteful')",
+      "answers": ["tasty"],
+      "explanation": "Food with a good taste is tasty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My brother is a very good ___ .",
+      "hint": "(a person, not a machine)",
+      "answers": ["cook"],
+      "explanation": "A person who cooks well is a good cook; the cooker is the machine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't forget to heat up the ___ before you add the aubergine.",
+      "hint": "(two words)",
+      "answers": ["frying pan"],
+      "explanation": "You fry food in a frying pan, not a 'fry pan'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This chocolate is very ___ .",
+      "options": ["bitter", "sour", "raw", "spicy"],
+      "answer": 0,
+      "explanation": "We use bitter for strong dark chocolate and strong coffee; sour is for lemons."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My mother has never been very ___ cooking.",
+      "options": ["good at", "good in", "good on", "good for"],
+      "answer": 0,
+      "explanation": "Say good at cooking, not good in cooking."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You can buy this ice cream in five different ___ .",
+      "options": ["flavours", "tastes", "recipes", "ingredients"],
+      "answer": 0,
+      "explanation": "A flavour is the type of taste that food or drink has, e.g. vanilla."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? A person who cooks food as their job: a ___ .",
+      "hint": "(one word)",
+      "answers": ["chef", "a chef"],
+      "explanation": "A chef cooks in a restaurant as a job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? The large piece of equipment in the kitchen for cooking food: a ___ .",
+      "hint": "(one word)",
+      "answers": ["cooker", "a cooker"],
+      "explanation": "The cooker is the machine; the cook is the person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Which word is being defined? Having a fantastic taste: ___ .",
+      "hint": "(the opposite is horrible)",
+      "answers": ["delicious"],
+      "explanation": "Delicious = fantastic, with a wonderful taste. The opposite is horrible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "First I removed the skin of the potatoes. You ___ the potatoes.",
+      "hint": "(past tense)",
+      "answers": ["peeled"],
+      "explanation": "Peel = remove the skin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Then I cut the onions into small pieces. You ___ the onions.",
+      "hint": "(past tense)",
+      "answers": ["chopped"],
+      "explanation": "Chop = cut into small pieces."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I put in some milk and moved it round in the pan. You put in milk and ___ it.",
+      "hint": "(past tense)",
+      "answers": ["stirred"],
+      "explanation": "Stir = move it around in a pan with a spoon."
+    },
+    {
+      "type": "true_false",
+      "statement": "I got the list of food and cooking instructions, so I got the recipe.",
+      "answer": true,
+      "explanation": "Correct. A recipe gives the ingredients and the cooking instructions."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe what a chef does.",
+      "words": ["Chefs", "always", "taste", "the", "food", "while", "they", "are", "cooking."],
+      "answer": "Chefs always taste the food while they are cooking.",
+      "explanation": "Taste = put a small amount in your mouth to see what it is like."
+    }
+  ]
+}

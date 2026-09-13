@@ -1,0 +1,182 @@
+{
+  "number": 10,
+  "title": "Relationships",
+  "subtitle": "flatmates, exes, getting on and falling out",
+  "summary": "Name the people in your life - friends, mates, colleagues, partners and in-laws - and talk about liking, disliking, dating and falling out.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Types of relationship",
+      "text": "English has a fine scale of closeness: a **best friend** is closer than a **good friend**, who is closer than a **casual acquaintance** - someone you have met but don't know well.",
+      "examples": [
+        { "text": "She's a **good friend** - she's not my **best friend**." },
+        { "text": "But she's more than just a **casual acquaintance**, right?" },
+        { "text": "She wasn't in a **steady relationship** with anyone at the time.", "note": "steady = fixed and not changing suddenly" },
+        { "text": "Kallum's living with his **parents-in-law** at the moment.", "note": "his wife's mother and father" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "-mate words and other labels",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["classmate", "someone in the same class as you"],
+        ["roommate", "someone you share a room with"],
+        ["flatmate / housemate", "someone you share a flat or house with"],
+        ["workmate", "someone you work with (informal, non-professional contexts)"],
+        ["colleague", "someone you work with (professional, more formal)"],
+        ["ex / ex-girlfriend / ex-husband", "a former partner (ex on its own is informal)"],
+        ["partner", "someone you live with but are not married to, or a business co-owner"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Internet relationships",
+      "text": "If you join a social network, you **acquire friends** and build up your list of **contacts**. You can **invite** people to become your friends and **accept** new friends who invite you.",
+      "examples": [
+        { "text": "You can **interact** with your friends by exchanging messages or **posting comments** on their page." },
+        { "text": "You can **share** photos and **tag** your friends in them.", "note": "tag = name them in a photo you post" },
+        { "text": "If you want to finish a relationship, you can **unfriend** (or **defriend**) that person." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Liking and not liking someone",
+      "columns": ["Core verb", "Positive (stronger)", "Negative"],
+      "rows": [
+        ["like", "love, adore, idolise", "dislike, can't stand, loathe"],
+        ["respect", "look up to, admire", "look down on, despise"],
+        ["be attracted to", "fancy (informal)", "leave someone cold"]
+      ],
+      "note": "She doesn't just like Ben, she idolises him. I really fancy Charlotte, but her friend just leaves me cold."
+    },
+    {
+      "type": "table",
+      "heading": "Phrases and idioms for relationships and dating",
+      "columns": ["Phrase", "Meaning"],
+      "rows": [
+        ["get on well (with someone)", "have a good relationship"],
+        ["not see eye to eye", "often argue or disagree"],
+        ["fall out with someone", "have arguments with them"],
+        ["have an affair with someone", "have a sexual relationship, usually secret"],
+        ["make it up", "be friends again after a row"],
+        ["be seeing each other / date someone", "meet and spend time together"],
+        ["get together", "start a romantic relationship"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "People **make friends** - not ~~get friends~~ or ~~find friends~~. *It's often difficult to make new friends when you move to another city.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "This is Jack. He and I share a flat - we're ___.",
+      "hint": "(a -mate word, plural)",
+      "answers": ["flatmates"],
+      "explanation": "Flatmate = a person you share a flat with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mike was the person I shared a room with at university - he was my ___.",
+      "hint": "(a -mate word)",
+      "answers": ["roommate", "room-mate"],
+      "explanation": "Roommate = a person you share a room with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We were in the same class together in 2006 - we were ___, weren't we?",
+      "hint": "(a -mate word, plural)",
+      "answers": ["classmates"],
+      "explanation": "Classmate = a person in the same class as you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She's not really a friend; she's just someone I work with. In an informal, non-professional context you would call her a ___.",
+      "options": ["workmate", "housemate", "partner", "contact"],
+      "answer": 0,
+      "explanation": "Workmate is informal; colleague is the more formal, professional word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sam has ___ you in a really funny photo on the social network.",
+      "hint": "(verb, past participle)",
+      "answers": ["tagged"],
+      "explanation": "To tag someone = to name them in a photo you post."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My grandma has just ___ me to be her friend online! I don't know if I should accept or not.",
+      "hint": "(verb, past participle)",
+      "answers": ["invited"],
+      "explanation": "You invite people to become your friends, and you accept the invitations you want."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm going to ___ Emma if she keeps posting nasty comments about me online.",
+      "hint": "(verb)",
+      "answers": ["unfriend", "defriend"],
+      "explanation": "To unfriend or defriend someone is to remove them from your list of friends."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each idiom with its meaning.",
+      "pairs": [
+        { "left": "get on well with someone", "right": "have a good relationship" },
+        { "left": "not see eye to eye", "right": "often argue or disagree" },
+        { "left": "fall out with someone", "right": "have arguments with them" },
+        { "left": "make it up", "right": "be friends again after a row" },
+        { "left": "get together", "right": "start a romantic relationship" },
+        { "left": "leave someone cold", "right": "not attract them at all" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "*Rosie and Matt don't get on eye to eye.*",
+      "answer": false,
+      "explanation": "The idiom is see eye to eye: Rosie and Matt don't see eye to eye."
+    },
+    {
+      "type": "true_false",
+      "statement": "*We had a quarrel but now we've made it up.*",
+      "answer": true,
+      "explanation": "To make it up = to be friends again after a row."
+    },
+    {
+      "type": "true_false",
+      "statement": "*Do you think Josh and Nuala are making an affair?*",
+      "answer": false,
+      "explanation": "You have an affair, not make one: Do you think Josh and Nuala are having an affair?"
+    },
+    {
+      "type": "true_false",
+      "statement": "*Maria seems to find it difficult to get friends among her classmates.*",
+      "answer": false,
+      "explanation": "People make friends: Maria seems to find it difficult to make friends among her classmates."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each verb express liking or disliking someone?",
+      "categories": ["Liking / respecting", "Disliking / not respecting"],
+      "items": [
+        { "text": "idolise", "category": 0 },
+        { "text": "look up to", "category": 0 },
+        { "text": "adore", "category": 0 },
+        { "text": "fancy", "category": 0 },
+        { "text": "loathe", "category": 1 },
+        { "text": "despise", "category": 1 },
+        { "text": "look down on", "category": 1 },
+        { "text": "can't stand", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["I", "met", "my", "boyfriend", "at", "a", "party", "and", "we", "got", "together", "soon", "after."],
+      "answer": "I met my boyfriend at a party and we got together soon after.",
+      "explanation": "To get together = to start a romantic relationship."
+    }
+  ]
+}

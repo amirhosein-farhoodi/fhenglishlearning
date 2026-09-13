@@ -1,0 +1,205 @@
+{
+  "number": 30,
+  "title": "Health and lifestyle",
+  "subtitle": "superfoods, keeping fit, stress",
+  "summary": "Talk about what you eat and how you live - healthy and unhealthy foods, superfoods and their benefits, fitness, stress and obesity.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Diet: healthy and not so healthy",
+      "columns": ["Healthy", "Not so healthy"],
+      "rows": [
+        ["oily fish, e.g. salmon", "sugary foods, e.g. fizzy drinks"],
+        ["fruit and nuts", "food with a high fat or high salt content"],
+        ["wholemeal bread", "processed food"]
+      ],
+      "note": "fizzy = with a lot of bubbles; content = the amount that is in the food; wholemeal = containing all the grain, with nothing taken out; processed = treated with chemicals to preserve the food or add taste or colour"
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about what we eat",
+      "text": "Some foods are considered good for our health. Others can cause **long-term** health problems if they are **consumed** in large **quantities**.",
+      "examples": [
+        { "text": "Certain foods are **considered** by scientists to be good for our bodies." },
+        { "text": "Foods with a **high fat content** may cause health problems." },
+        { "text": "If people eat these foods in **large quantities**, it may be dangerous." },
+        { "text": "Some foods may cause **long-term** health problems.", "note": "long-term = lasting a long time into the future; consume = eat (formal)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Superfoods",
+      "text": "**Superfoods** are foods that may prevent diseases and improve **mental** as well as **physical** health.",
+      "examples": [
+        { "text": "Blueberries may improve **short-term memory** and **slow the ageing process**.", "note": "the ageing process = the changes by which we grow old" },
+        { "text": "Apples are a good **source** of vitamin C; they can also **lower cholesterol**." },
+        { "text": "Spinach is high in vitamin A; it can **boost the immune system**.", "note": "boost = improve or increase" },
+        { "text": "Vegetable juice, especially tomato, can **reduce the risk** of heart disease." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verb + noun collocations worth learning",
+      "columns": ["Collocation", "What it means"],
+      "rows": [
+        ["slow the ageing process", "make growing old happen more slowly"],
+        ["boost the immune system", "strengthen the body's defences against illness"],
+        ["lower cholesterol", "take the level of cholesterol down"],
+        ["reduce the risk of heart disease", "make heart disease less likely"],
+        ["maintain a good level of fitness", "keep fit (formal)"],
+        ["cause serious harm", "do real damage"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Lifestyle",
+      "text": "These extracts from a magazine show the same idea expressed with an adjective and with a noun. Learn both forms together.",
+      "examples": [
+        { "text": "There has been a **sharp rise** in the number of children who are **obese**. Childhood **obesity** is now a **major** problem.", "note": "a sharp rise = a sudden, quick increase; obese = extremely fat; major = very big and serious" },
+        { "text": "People often do not realise how **stressful** their jobs are. **Stress** can cause high blood pressure and **depression**.", "note": "depression = a mental illness in which someone is extremely unhappy and anxious for a long period" },
+        { "text": "You can **maintain a good level of fitness** with a simple routine of daily exercise." },
+        { "text": "Alcohol and tobacco are particularly **harmful** if consumed in large quantities. They can cause serious **harm** to the body." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjective and noun together",
+      "columns": ["Adjective", "Noun"],
+      "rows": [
+        ["harmful", "harm"],
+        ["obese", "obesity"],
+        ["stressful", "stress"],
+        ["fit", "fitness"],
+        ["healthy", "health"],
+        ["depressed", "depression"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "food or foods? fruit or fruits?",
+      "text": "The nouns **food** and **fruit** can be uncountable or countable. Use the uncountable form for food and fruit in general, and the plural only for individual types.",
+      "examples": [
+        { "text": "That restaurant serves good **food**. I love **fruit**.", "wrong": "I love Chinese foods" },
+        { "text": "Individual types: fatty **foods**, citrus **fruits**." },
+        { "text": "We always use **fish** in the singular: Oily **fish** should form part of a healthy diet.", "wrong": "Oily fishes" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "It is **short-term** memory and **long-term** problems - never ~~short-time~~ or ~~long-time~~ in this sense."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Would a nutritionist call each of these healthy or not so healthy?",
+      "categories": ["Healthy", "Not so healthy"],
+      "items": [
+        { "text": "oily fish such as salmon", "category": 0 },
+        { "text": "wholemeal bread", "category": 0 },
+        { "text": "fruit and nuts", "category": 0 },
+        { "text": "spinach", "category": 0 },
+        { "text": "fizzy drinks", "category": 1 },
+        { "text": "processed food", "category": 1 },
+        { "text": "food with a high salt content", "category": 1 },
+        { "text": "food with a high fat content", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the adjectives with the nouns to make five collocations.",
+      "pairs": [
+        { "left": "wholemeal", "right": "bread" },
+        { "left": "fizzy", "right": "drinks" },
+        { "left": "oily", "right": "fish" },
+        { "left": "processed", "right": "foods" },
+        { "left": "mental", "right": "health" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If people eat these foods in large ___, it may be dangerous.",
+      "hint": "(big amounts)",
+      "answers": ["quantities"],
+      "explanation": "*In large quantities* is the usual phrase for talking about how much is consumed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Foods with a high fat ___ may cause health problems.",
+      "hint": "(the amount that is in them)",
+      "answers": ["content"],
+      "explanation": "The content of a food is the amount of something that is in it: a high fat content, a high sugar content."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some foods may cause ___ health problems, that is, problems lasting a long time into the future.",
+      "hint": "(hyphenated adjective)",
+      "answers": ["long-term", "long term"],
+      "explanation": "Long-term means lasting a long time into the future; its opposite here is short-term."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which benefit does each superfood have?",
+      "pairs": [
+        { "left": "spinach", "right": "can boost the immune system" },
+        { "left": "vegetable juice", "right": "can reduce the risk of heart disease" },
+        { "left": "apples", "right": "can lower cholesterol" },
+        { "left": "blueberries", "right": "can slow the ageing process" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many fruits are a good ___ of vitamin C.",
+      "hint": "(the place it comes from)",
+      "answers": ["source"],
+      "explanation": "A source is where something comes from - not to be confused with *sauce*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Blueberries can improve short-time memory.",
+      "answer": false,
+      "explanation": "We say short-term memory: Blueberries can improve short-term memory."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Oily fish should form part of a healthy diet.",
+        "Oily fishes should form part of a healthy diet.",
+        "An oily fishes should form part of a healthy diet.",
+        "Oily fishes should form part of an healthy diet."
+      ],
+      "answer": 0,
+      "explanation": "*Fish* is always used in the singular here, just as we say *I love Chinese food*, not *foods*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There has been a sharp ___ in the number of people suffering from depression.",
+      "hint": "(a sudden, quick increase)",
+      "answers": ["rise", "increase"],
+      "explanation": "A sharp rise is a sudden, quick increase. Note the spelling *depression*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Children who are obese, or who suffer from ___, need to exercise more.",
+      "hint": "(the noun from *obese*)",
+      "answers": ["obesity"],
+      "explanation": "The noun from *obese* is *obesity*: childhood obesity is now a major problem."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her job is very ___ and causes her a lot of stress.",
+      "hint": "(the adjective from *stress*)",
+      "answers": ["stressful"],
+      "explanation": "A job is stressful; the feeling it causes is stress."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to ask about staying healthy.",
+      "words": ["How", "can", "we", "maintain", "a good level", "of", "fitness?"],
+      "answer": "How can we maintain a good level of fitness?",
+      "explanation": "*Maintain* is the formal word for *keep*: keep fit / maintain a good level of fitness."
+    }
+  ]
+}

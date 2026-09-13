@@ -1,0 +1,196 @@
+{
+  "number": 64,
+  "title": "Concession and contrast",
+  "subtitle": "concede, that's all very well, poles apart",
+  "summary": "Accept part of an argument and then put a stronger point against it, and name the gap between two opposing things.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What concession means",
+      "text": "Concession means accepting one part of an idea or fact, but putting another, more important argument against it. It can be expressed with a conjunction, an adverb or a verb.",
+      "examples": [
+        { "text": "**Although** they were poor, they were independent.", "note": "conjunction" },
+        { "text": "He is a bit stupid. He's very kind, **nevertheless**.", "note": "adverb" },
+        { "text": "I **admit** I was wrong, but I still think we were right to doubt her.", "note": "verb" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs of concession",
+      "columns": ["Verb", "What it says", "Example"],
+      "rows": [
+        ["**accept**", "I agree, but ... (less formal than acknowledge)", "I **accept** that you weren't solely to blame, but you must take some responsibility."],
+        ["**acknowledge**", "I agree, but ... (formal, often legal or official)", "The company **acknowledges** that you have suffered some delay, but we do not accept liability."],
+        ["**admit**", "I accept I am guilty of what I am accused of", "OK, I **admit** I was wrong, you were right."],
+        ["**concede**", "you have won this point in our argument (formal, used in debates)", "I **concede** that you are right about the goal, but not the method."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Informal phrases showing contrast",
+      "text": "These belong to everyday speech. **That's all very well** and **it's all very well** accept something and then raise an objection; **after all** reminds the listener of a fact they should have remembered.",
+      "examples": [
+        { "text": "OK, you're sorry. **That's all very well**, but how are you going to pay us back?" },
+        { "text": "**It's all very well** saying you love dogs, but who will take it for walks?" },
+        { "text": "You shouldn't seem so surprised. **After all**, I did warn you." },
+        { "text": "He is boring and rather unfriendly, but, **for all that**, he is your uncle and we should invite him." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More formal phrases showing contrast",
+      "text": "**Admittedly** concedes a point before you argue against it. **In fact** and **the reverse** correct a false impression. **In contrast** sets two different situations side by side.",
+      "examples": [
+        { "text": "**Admittedly**, she put a lot of effort in, but it was all wasted." },
+        { "text": "I thought she didn't like me. **In fact**, the reverse was true." },
+        { "text": "In Europe they use metric measurements. **In contrast**, the USA still uses many non-metric measurements." },
+        { "text": "We're not almost there at all. **Quite the opposite**: we've got five miles to go yet." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "on the other hand and on the contrary",
+      "left": {
+        "label": "on the other hand",
+        "text": "That is true, and this is also true if we look at it from a different viewpoint.",
+        "examples": [
+          "Life in the country is nice and quiet. **On the other hand**, you have to go a long way to get to the shops.",
+          "It's not actually raining now. **On the other hand**, it may rain later, so take the umbrella."
+        ]
+      },
+      "right": {
+        "label": "on the contrary",
+        "text": "That is not true; the opposite is true. Rather formal.",
+        "examples": [
+          "*A:* You must be pleased with your results. *B:* **On the contrary**, I thought they would be much better.",
+          "I don't think he's lazy; **on the contrary**, he puts in a great deal of effort."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Collocating phrases for contrast",
+      "columns": ["Phrase", "Example"],
+      "rows": [
+        ["**poles apart**", "When it comes to politics, Jamie and Isla are **poles apart**."],
+        ["a **world of difference**", "There's a **world of difference** between being a friend and a lover."],
+        ["a **great divide**", "There's a **great divide** between city residents and people who live in the country."],
+        ["a **yawning gap**", "A **yawning gap** divides the rich and poor in many countries."],
+        ["a **huge discrepancy**", "There's a **huge discrepancy** between his ideals and his actions."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you can replace the phrase with 'no, that's false', use on the contrary. If you mean 'yes, but look at it this way too', use on the other hand."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with the pair of things it is often used about.",
+      "pairs": [
+        { "left": "poles apart", "right": "two people with completely opposite views" },
+        { "left": "a world of difference", "right": "being a student and being a teacher" },
+        { "left": "a yawning gap", "right": "the rich and the poor" },
+        { "left": "a huge discrepancy", "right": "what she says and what she does" },
+        { "left": "a great divide", "right": "city residents and country people" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You've cleaned the kitchen; that's ___, but what about the dining room?",
+      "hint": "(a... v... w... - three words)",
+      "answers": ["all very well", "all well and good"],
+      "explanation": "That's all very well / That's all well and good accepts a point before objecting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No need to panic. ___, it doesn't start till six.",
+      "hint": "(A... a... - two words)",
+      "answers": ["After all"],
+      "explanation": "After all reminds the listener of a fact that settles the matter."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's bossy and sly, but ___, she is a friend.",
+      "hint": "(f... a... t... - three words)",
+      "answers": ["for all that", "after all"],
+      "explanation": "For all that = in spite of everything just said."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ saying you'll pay me back soon; when is what I want to know!",
+      "hint": "(I... a... v... w...)",
+      "answers": ["It's all very well", "It is all very well"],
+      "explanation": "It's all very well + -ing accepts what someone says and then objects."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Toby saves every penny; Catalina spends everything they earn. When it comes to money, they are ___.",
+      "hint": "(p... a... - two words)",
+      "answers": ["poles apart"],
+      "explanation": "Be poles apart = hold completely opposite positions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She says one thing and does quite the opposite. There's a huge ___ between what she says and what she does.",
+      "hint": "(d...)",
+      "answers": ["discrepancy"],
+      "explanation": "A discrepancy is a mismatch between two things that should agree."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite: 'The company is prepared to accept that you have suffered some delay, but we do not accept liability.' Which verb is best in this formal, legal context?",
+      "options": ["The company acknowledges that ...", "The company confesses that ...", "The company concedes the goal that ...", "The company boasts that ..."],
+      "answer": 0,
+      "explanation": "Acknowledge suits formal, legalistic contexts: it agrees with the message without accepting blame."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite: 'She didn't deny that we had done all we could, but she was still not content.'",
+      "options": [
+        "She conceded that we had done all we could, but she was still not content.",
+        "She acknowledged nothing that we had done all we could ...",
+        "She admitted guilty that we had done all we could ...",
+        "She accepted not that we had done all we could ..."
+      ],
+      "answer": 0,
+      "explanation": "Concede suggests giving a small point away in an argument while holding your position."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It's expensive, but ___, we do need it.",
+      "options": ["on the other hand", "on the contrary", "quite the opposite", "in fact the reverse"],
+      "answer": 0,
+      "explanation": "Both things are true; we are simply looking at it from another viewpoint."
+    },
+    {
+      "type": "mcq",
+      "prompt": "She doesn't speak Japanese well; ___, she only knows a couple of phrases.",
+      "options": ["on the contrary", "on the other hand", "admittedly", "for all that"],
+      "answer": 0,
+      "explanation": "On the contrary corrects the idea that she speaks it well: that is not true."
+    },
+    {
+      "type": "true_false",
+      "statement": "'In some ways I'd like to change my job, but on the contrary, I'd miss all my colleagues.' This is the right choice of linker.",
+      "answer": false,
+      "explanation": "In some ways I'd like to change my job, but on the other hand, I'd miss all my colleagues. Both facts are true, so we need on the other hand."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these contrast expressions by style.",
+      "categories": ["Fairly informal", "More formal"],
+      "items": [
+        { "text": "that's all very well", "category": 0 },
+        { "text": "after all", "category": 0 },
+        { "text": "for all that", "category": 0 },
+        { "text": "admittedly", "category": 1 },
+        { "text": "in contrast", "category": 1 },
+        { "text": "on the contrary", "category": 1 },
+        { "text": "concede", "category": 1 }
+      ]
+    }
+  ]
+}

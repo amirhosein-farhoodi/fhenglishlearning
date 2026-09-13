@@ -1,0 +1,170 @@
+{
+  "number": 56,
+  "title": "Common adjectives: Good and bad things",
+  "subtitle": "lovely, excellent, awful, terrible",
+  "summary": "Say that something is very good or very bad with adjectives like lovely, excellent, awful and terrible.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Good adjectives",
+      "text": "**Good** and **nice** are the everyday words. **Lovely**, **great** and **wonderful** are stronger, and **excellent** means 'very good indeed'.",
+      "examples": [
+        { "text": "*A:* That's a **nice** jacket. *B:* Thank you." },
+        { "text": "*A:* It's a **lovely** day today! *B:* Yes, it is." },
+        { "text": "It's a **great** film. We all loved it." },
+        { "text": "We have a **wonderful** view of the mountains from our hotel room." },
+        { "text": "*A:* Do you want to go to London on Saturday? *B:* That's an **excellent** idea!", "note": "= very good" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "From good to very good",
+      "columns": ["How good?", "Adjectives"],
+      "rows": [
+        ["good", "**good**, **nice**"],
+        ["better", "**great**, **lovely**"],
+        ["very good", "**wonderful**, **excellent**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Bad adjectives",
+      "text": "**Bad** is the everyday word. **Dreadful**, **horrible**, **terrible** and **awful** all mean 'very bad'.",
+      "examples": [
+        { "text": "The weather this summer was very **bad**." },
+        { "text": "The food in that café was **horrible**. Nobody liked it." },
+        { "text": "What's that **dreadful** smell?" },
+        { "text": "I had a **terrible** day at work today." },
+        { "text": "The traffic's **terrible** at 5 o'clock on Fridays." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Short answers",
+      "text": "We often use these adjectives alone, as a short happy answer.",
+      "examples": [
+        { "text": "*A:* The train arrives at 7 o'clock; dinner is at 8 o'clock." },
+        { "text": "*B:* **Excellent!** / **Great!** / **Wonderful!** / **Lovely!** / **Perfect!**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "not bad",
+      "text": "When we speak, we often say **not bad**. It does not mean 'a little bad' - it means 'good'.",
+      "examples": [
+        { "text": "*A:* I get $500 a week in my job. *B:* That's **not bad**!", "note": "= that's good!" },
+        { "text": "My timetable's **not bad**. I'm free on Wednesdays and Fridays." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How + adjective",
+      "text": "To answer someone's news we use **How** + adjective. Use a bad adjective for bad news and a good one for good news.",
+      "examples": [
+        { "text": "*A:* I have to get up at 5.30 tomorrow. *B:* Oh, **how awful!** / **how horrible!**" },
+        { "text": "*A:* I've got a great new job in New York! *B:* **How nice!** / **How wonderful!** / **How lovely!**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *How awful!* or *How horrible!* - not ~~How bad!~~"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "My hair's ___. I must go to the hairdresser's.",
+      "hint": "(very bad)",
+      "answers": ["awful", "terrible", "dreadful", "horrible"],
+      "explanation": "Awful, terrible, dreadful and horrible all mean 'very bad'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The traffic is ___ in the city centre. Take the train.",
+      "hint": "(very bad)",
+      "answers": ["terrible", "awful", "dreadful", "horrible", "very bad"],
+      "explanation": "We often say the traffic is terrible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That's an ___ idea! Let's do it!",
+      "hint": "(very good, starts with e)",
+      "answers": ["excellent"],
+      "explanation": "An excellent idea is a very good idea."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What a ___ house! The sea is only 100 metres away!",
+      "hint": "(very good)",
+      "answers": ["wonderful", "lovely", "great", "nice"],
+      "explanation": "Wonderful and lovely are strong words for 'very good'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How ___! Three exams on the same day!",
+      "hint": "(very bad - but not 'bad')",
+      "answers": ["awful", "horrible", "terrible", "dreadful"],
+      "explanation": "After How we use awful or horrible, not bad."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We have a ___ view of the mountains from our hotel room.",
+      "hint": "(very good)",
+      "answers": ["wonderful", "lovely", "great", "excellent"],
+      "explanation": "A wonderful or lovely view is a very good one."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My timetable's not ___. I'm free on Wednesdays and Fridays.",
+      "options": ["bad", "good", "wonderful", "lovely"],
+      "answer": 0,
+      "explanation": "Not bad means 'good' in spoken English."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right expression.",
+      "pairs": [
+        { "left": "Blue sky, sun, 25 degrees", "right": "Lovely weather" },
+        { "left": "A hotel with five stars", "right": "An excellent hotel" },
+        { "left": "I don't want to walk. Let's take a taxi.", "right": "A very good idea" },
+        { "left": "90 out of 100 in an exam", "right": "Wonderful news" },
+        { "left": "In summer: grey sky, wind, rain, 4 degrees", "right": "Awful weather" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each adjective a good word or a bad word?",
+      "categories": ["Good", "Bad"],
+      "items": [
+        { "text": "brilliant", "category": 0 },
+        { "text": "marvellous", "category": 0 },
+        { "text": "fine", "category": 0 },
+        { "text": "excellent", "category": 0 },
+        { "text": "dreadful", "category": 1 },
+        { "text": "nasty", "category": 1 },
+        { "text": "terrible", "category": 1 },
+        { "text": "horrible", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A: I have to get up at 5.30 tomorrow. B: Oh, how bad!",
+      "answer": false,
+      "explanation": "A: I have to get up at 5.30 tomorrow. B: Oh, how awful! We do not say How bad!"
+    },
+    {
+      "type": "mcq",
+      "prompt": "A: I've got a great new job in New York! What can B say?",
+      "options": ["How wonderful!", "How dreadful!", "How terrible!", "How bad!"],
+      "answer": 0,
+      "explanation": "For good news we use How wonderful! / How lovely! / How nice!"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Your friend suggests a trip to London on Saturday. Say you like the idea.",
+      "words": ["That's", "an", "excellent", "idea!"],
+      "answer": "That's an excellent idea!"
+    }
+  ]
+}

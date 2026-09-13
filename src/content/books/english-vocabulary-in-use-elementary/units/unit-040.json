@@ -1,0 +1,175 @@
+{
+  "number": 40,
+  "title": "Do / did / done",
+  "subtitle": "What do you do? do the washing",
+  "summary": "Use do in questions and negatives, ask about people's jobs with What do you do?, and learn the jobs we do at home.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Do as a helping verb",
+      "text": "We use **do**, **does** and **did** to make questions, short answers and negatives with other verbs.",
+      "examples": [
+        { "text": "**Do** you like tennis? **Did** they like the film?" },
+        { "text": "*A:* Do you like tennis? *B:* Yes, I **do**." },
+        { "text": "*A:* Did they like the film? *B:* Yes, they **did**." },
+        { "text": "He **doesn't** play well. Leo **didn't** see it." },
+        { "text": "I love football. So **does** Matteo. So **did** I." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Do as a general verb",
+      "text": "**Do** is also a normal verb. We use it to ask what is happening now, and to talk about doing nothing at all.",
+      "examples": [
+        { "text": "What are you **doing**?" },
+        { "text": "**Don't do** that, Tommy!" },
+        { "text": "On Saturdays I usually **do** nothing. I just relax." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What do you do?",
+      "text": "**What do you do?** means *What is your job?* It is one of the first questions people ask a new friend.",
+      "examples": [
+        { "text": "*A:* What **do** you **do**? *B:* I'm a student. / I'm a hairdresser." },
+        { "text": "*A:* What **does** your wife **do**? *B:* She's a doctor. / She's a teacher." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "do + activity",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["do the housework", "clean and tidy the house"],
+        ["do the gardening", "look after the garden"],
+        ["do the washing", "wash the dirty clothes"],
+        ["do the washing-up", "wash the plates and cups after a meal"],
+        ["do your homework", "do the work your teacher gives you"],
+        ["do some exercises", "move your body to keep fit"],
+        ["do business with", "buy and sell with a company"],
+        ["do your best", "try as hard as you can"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Using the do expressions",
+      "text": "Learn these expressions as whole phrases. Note that we say **do the washing** for clothes and **do the washing-up** for plates and cups.",
+      "examples": [
+        { "text": "*A:* Did you **do the washing** this morning? *B:* No, I'm going to **do** it later." },
+        { "text": "Our company **does a lot of business with** the US." },
+        { "text": "The homework is very difficult - just **do your best**." },
+        { "text": "The man in the kitchen is **doing the washing-up**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Make a note of every expression with do that you meet when you read in English - there are a lot of them."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* What ___ your wife do? *B:* She's a doctor.",
+      "hint": "(do)",
+      "answers": ["does"],
+      "explanation": "What does he / she do? asks about a person's job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "On Saturdays I usually do ___. I just relax at home.",
+      "hint": "(one word)",
+      "answers": ["nothing"],
+      "explanation": "Do nothing means have a rest and not work."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Do you like tennis? *B:* Yes, I ___.",
+      "options": ["do", "does", "did", "am"],
+      "answer": 0,
+      "explanation": "The short answer uses the same helping verb as the question."
+    },
+    {
+      "type": "true_false",
+      "statement": "Where did you went on your holidays?",
+      "answer": false,
+      "explanation": "Where did you go on your holidays? After did we use the simple form of the verb."
+    },
+    {
+      "type": "true_false",
+      "statement": "No, we don't go to Wales this year. We went to Scotland.",
+      "answer": false,
+      "explanation": "No, we didn't go to Wales this year. We went to Scotland."
+    },
+    {
+      "type": "true_false",
+      "statement": "Do your grandmother lives in Scotland?",
+      "answer": false,
+      "explanation": "Does your grandmother live in Scotland?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Does your grandmother live in Scotland? *B:* No, she doesn't, but my uncle ___.",
+      "hint": "(one word)",
+      "answers": ["does"],
+      "explanation": "In a short answer we repeat the helping verb: he does, she doesn't."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each job at home with the right expression with do.",
+      "pairs": [
+        { "left": "the plates and cups after a meal", "right": "do the washing-up" },
+        { "left": "the dirty clothes", "right": "do the washing" },
+        { "left": "the flowers and the grass", "right": "do the gardening" },
+        { "left": "the cleaning and tidying at home", "right": "do the housework" },
+        { "left": "the work your teacher gives you", "right": "do your homework" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our company ___ a lot of business with the US.",
+      "hint": "(do)",
+      "answers": ["does"],
+      "explanation": "We do business with a company or a country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The homework is very difficult - just do your ___.",
+      "hint": "(one word)",
+      "answers": ["best"],
+      "explanation": "Do your best means try as hard as you can."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The man in the garden is planting flowers. What is he doing?",
+      "options": [
+        "He's doing the gardening.",
+        "He's doing the washing-up.",
+        "He's doing the housework.",
+        "He's doing his homework."
+      ],
+      "answer": 0,
+      "explanation": "We do the gardening when we look after the garden."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each sentence about the present or about the past?",
+      "categories": ["Present", "Past"],
+      "items": [
+        { "text": "Do you like tennis?", "category": 0 },
+        { "text": "He doesn't play well.", "category": 0 },
+        { "text": "So does Matteo.", "category": 0 },
+        { "text": "Did they like the film?", "category": 1 },
+        { "text": "Leo didn't see it.", "category": 1 },
+        { "text": "So did I.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a new friend what their wife's job is.",
+      "words": ["What", "does", "your", "wife", "do?"],
+      "answer": "What does your wife do?",
+      "explanation": "What do / does ... do? asks about a job."
+    }
+  ]
+}

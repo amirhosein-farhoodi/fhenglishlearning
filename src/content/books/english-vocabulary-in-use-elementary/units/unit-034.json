@@ -1,0 +1,173 @@
+{
+  "number": 34,
+  "title": "Crime",
+  "subtitle": "a burglar, to steal, guilty",
+  "summary": "Name the common crimes and the people who do them, and talk about the police, the court and prison.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Crimes and criminals",
+      "columns": ["Crime", "Person", "Verb"],
+      "rows": [
+        ["**robbery**", "a **robber**", "to **rob** somebody or a place (e.g. a bank)"],
+        ["**murder**", "a **murderer**", "to **murder** somebody"],
+        ["**burglary**", "a **burglar**", "to **break into** a house or flat"],
+        ["**mugging**", "a **mugger**", "to **mug** somebody"],
+        ["**car theft**", "a **car thief**", "to **steal** a car"],
+        ["**drug dealing**", "a **drug dealer**", "to **sell** drugs"],
+        ["**terrorism**", "a **terrorist**", "to **attack** somebody or a place"],
+        ["**shoplifting**", "a **shoplifter**", "to **steal** things from a shop"]
+      ],
+      "note": "**Mugging** = attacking a person in a public place and stealing their money."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about crimes",
+      "text": "Notice the difference between **rob** and **steal**. You **steal** a thing, but you **rob** a person or a place. So a bank is robbed, and money is stolen.",
+      "examples": [
+        { "text": "There was a **burglary** at the school last night." },
+        { "text": "John West **murdered** his wife." },
+        { "text": "There are a lot of **muggings** in the city centre." },
+        { "text": "Somebody **stole** my bicycle.", "wrong": "Somebody robbed my bicycle" },
+        { "text": "I was **robbed** last night.", "wrong": "I was stolen" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular verbs to learn",
+      "columns": ["Present", "Past", "Past participle"],
+      "rows": [
+        ["steal", "stole", "stolen"],
+        ["break", "broke", "broken"],
+        ["sell", "sold", "sold"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The law",
+      "text": "The police **arrest** somebody for a crime. Then that person has to go to **court**. If they are **guilty** [they did the crime], they pay a **fine** or go to **prison**. If they are **innocent** [they did not do it], they can go home.",
+      "examples": [
+        { "text": "A student was **arrested** for shoplifting this morning." },
+        { "text": "The student has to go to **court** next week." },
+        { "text": "If he is **guilty** he will have to pay a **fine**." },
+        { "text": "If he is **innocent** he can go home. I don't think he will go to **prison**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other crime problems",
+      "text": "A **vandal** breaks and smashes things, and the problem is called **vandalism**. People who **take drugs** are also a problem. A **football hooligan** goes to a football match and makes trouble; the problem is **football hooliganism**.",
+      "examples": [
+        { "text": "Some **vandals** broke the windows in the telephone box." },
+        { "text": "We have a lot of **vandalism** in my town." },
+        { "text": "A lot of people **take drugs** nowadays." },
+        { "text": "Is football **hooliganism** a problem in your country?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the three words together: the crime (*burglary*), the person (*a burglar*) and the verb (*break into*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "A burglar goes into someone's house and steals things.",
+      "answer": true,
+      "explanation": "Correct. A burglar breaks into a house or flat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone who steals cars is a car ___.",
+      "hint": "(one word)",
+      "answers": ["thief"],
+      "explanation": "A car thief steals cars."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call someone who kills another person?",
+      "options": ["a murderer", "a mugger", "a burglar", "a vandal"],
+      "answer": 0,
+      "explanation": "A murderer murders somebody; the crime is murder."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each crime with the person who does it.",
+      "pairs": [
+        { "left": "shoplifting", "right": "a shoplifter" },
+        { "left": "burglary", "right": "a burglar" },
+        { "left": "mugging", "right": "a mugger" },
+        { "left": "drug dealing", "right": "a drug dealer" },
+        { "left": "terrorism", "right": "a terrorist" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it the name of a crime or the name of a person?",
+      "categories": ["A crime", "A person"],
+      "items": [
+        { "text": "robbery", "category": 0 },
+        { "text": "murder", "category": 0 },
+        { "text": "shoplifting", "category": 0 },
+        { "text": "a burglar", "category": 1 },
+        { "text": "a mugger", "category": 1 },
+        { "text": "a car thief", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police officer ___ her for shoplifting.",
+      "hint": "(arrest)",
+      "answers": ["arrested"],
+      "explanation": "The police arrest someone for a crime."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some ___ destroyed all the flowers in the park.",
+      "hint": "(plural, people who break things)",
+      "answers": ["vandals"],
+      "explanation": "Vandals break and smash things. The problem is called vandalism."
+    },
+    {
+      "type": "true_false",
+      "statement": "Vandals take people's money.",
+      "answer": false,
+      "explanation": "Vandals destroy and break things. Muggers take people's money."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He had to pay a ___ of 50 pounds for parking his car in the wrong place.",
+      "hint": "(money you pay for a small crime)",
+      "answers": ["fine"],
+      "explanation": "You pay a fine when you are guilty of a small crime."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you are guilty, it means you are the person who did the crime.",
+      "answer": true,
+      "explanation": "Correct. The opposite is innocent - you did not do it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right word: My brother was ___ yesterday.",
+      "options": ["robbed", "stolen", "stole", "rob"],
+      "answer": 0,
+      "explanation": "We rob a person or a place, so a person is robbed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Somebody ___ my bicycle last night.",
+      "hint": "(steal - past tense)",
+      "answers": ["stole"],
+      "explanation": "We steal a thing, so somebody stole my bicycle - not robbed it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tell a friend about the crime at your school.",
+      "words": ["There", "was", "a burglary", "at the school", "last night."],
+      "answer": "There was a burglary at the school last night.",
+      "explanation": "A burglary happens when somebody breaks into a building."
+    }
+  ]
+}

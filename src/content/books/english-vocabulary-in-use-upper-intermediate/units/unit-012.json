@@ -1,0 +1,185 @@
+{
+  "number": 12,
+  "title": "Everyday minor problems",
+  "subtitle": "a leaking pipe, a chipped cup, a grazed knee",
+  "summary": "Describe the small things that go wrong every day - broken machines, chipped cups, grazed knees and blocked sinks - with the exact verb English uses for each.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Things that go wrong in houses and flats",
+      "text": "Each kind of damage has its own verb. Something **leaks**, **smashes**, **cracks**, **chips**, **comes off** or **breaks down** - the words are not interchangeable.",
+      "examples": [
+        { "text": "This pipe's **leaking**." },
+        { "text": "He kicked the football too hard and it **smashed** a window." },
+        { "text": "This pot is **cracked**." },
+        { "text": "I'm sorry, your cup's **chipped**. Let me get you another one." },
+        { "text": "The door handle's **come off**." },
+        { "text": "The washing machine **broke down** the other day." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Power and electronics",
+      "text": "Batteries **run out** or **go flat**; a whole street can have a **power cut**; and a computer **crashes**.",
+      "examples": [
+        { "text": "The batteries in this torch have **run out** / are **dead**. I'll have to get some more." },
+        { "text": "The lights aren't working - there's been a **power cut**." },
+        { "text": "The car won't start. Perhaps the battery's **flat**." },
+        { "text": "My computer keeps **crashing** today!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Everyday minor injuries",
+      "columns": ["Verb", "Meaning"],
+      "rows": [
+        ["twist your ankle", "injure it by turning it suddenly: She twisted her ankle coming down the stairs."],
+        ["bump / bang your head", "hit it against something: I banged my head against the cupboard door."],
+        ["get a bruise", "get a dark area on the skin where you have hurt yourself"],
+        ["trip", "almost fall down because you hit your foot against something"],
+        ["graze your knee", "make the skin red and broken, but with no blood"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other everyday problems",
+      "text": "A few more useful verbs: to **mislay** something is to put it somewhere and then not be able to find it; a **stain** is a permanent mark; and a **dent** is metal bent a little by a knock.",
+      "examples": [
+        { "text": "I've **mislaid** my memory stick. Have you seen it anywhere?" },
+        { "text": "She **spilt** some coffee on the carpet. I hope it doesn't leave a **stain**." },
+        { "text": "The sink is **blocked**.", "note": "the water will not run away" },
+        { "text": "I'm afraid I've **dented** your car. I'll pay for the repairs." },
+        { "text": "I've **locked myself out**. Can I use your phone to ring my wife?" },
+        { "text": "The kitchen clock's **slow**. What time d'you make it?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Same word, two word classes",
+      "columns": ["Word", "As a verb", "As a countable noun"],
+      "rows": [
+        ["crack", "The ice cracked.", "There's a crack in this pot."],
+        ["chip", "I chipped the cup.", "There's a chip in the rim."],
+        ["bruise", "I bruised my leg.", "I've got a bruise on my leg."],
+        ["dent", "A van dented my car.", "There's a dent in the door."],
+        ["stain", "The wine stained the carpet.", "It left a stain."]
+      ],
+      "note": "Flood, bump, bang, graze and lock work the same way. Always note when a word belongs to more than one word class."
+    },
+    {
+      "type": "tip",
+      "text": "Machines **break down**; cups and plates **chip** or **crack**; windows **smash**; batteries **run out** or go **flat**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We had to use candles because there was a ___.",
+      "hint": "(two words)",
+      "answers": ["power cut", "powercut"],
+      "explanation": "A power cut is a period when the electricity supply stops."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't look where I was going as I walked through the low doorway and ___ my head.",
+      "hint": "(verb, past tense)",
+      "answers": ["banged", "bumped", "banged/bumped"],
+      "explanation": "You bump or bang your head against something, and may get a bruise."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The wind blew the door shut and I realised I'd locked myself ___.",
+      "hint": "(one word)",
+      "answers": ["out"],
+      "explanation": "To lock yourself out = to shut the door with the key still inside."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I accidentally sat on my bag of crisps and they all got ___.",
+      "hint": "(verb, past participle)",
+      "answers": ["crushed"],
+      "explanation": "Crushed = pressed so hard that they broke into small pieces."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I would ring her but I'm afraid I've ___ her number. She wrote it down for me.",
+      "hint": "(verb, past participle)",
+      "answers": ["mislaid", "lost"],
+      "explanation": "To mislay something is to put it somewhere and then be unable to find it."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the problem that caused it.",
+      "pairs": [
+        { "left": "We had to send for a plumber.", "right": "A pipe was leaking." },
+        { "left": "I had to call out a local mechanic.", "right": "The car broke down." },
+        { "left": "Our neighbours let us use their washing machine.", "right": "Our washing machine broke down." },
+        { "left": "What type of batteries does it take? I'll get some.", "right": "The batteries have run out." },
+        { "left": "I left it in the oven too long. It's all black now!", "right": "The meal was ruined." },
+        { "left": "I lost all my work - I should have saved it more often!", "right": "The computer crashed." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out: *spill, flood, chip*?",
+      "options": ["chip - the other two involve liquids", "spill - the other two are accidents", "flood - the other two are small problems", "They all involve liquids."],
+      "answer": 0,
+      "explanation": "Spilling and flooding both involve liquid; chipping is damage to a solid object."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out: *stain, graze, bruise*?",
+      "options": ["stain - the other two are minor injuries", "graze - the other two leave marks", "bruise - the other two are on the skin", "They are all injuries."],
+      "answer": 0,
+      "explanation": "A graze and a bruise are minor injuries; a stain is a permanent mark on a surface."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out: *run out, bump, flat*?",
+      "options": ["bump - the other two can be used about batteries", "flat - the other two are verbs", "run out - the other two are short words", "They all describe injuries."],
+      "answer": 0,
+      "explanation": "Batteries run out or go flat; bump describes hitting part of your body against something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the odd one out: *leak, smash, chip*?",
+      "options": ["leak - the other two are types of damage to solid objects", "smash - the other two are quiet", "chip - the other two are serious", "They all involve water."],
+      "answer": 0,
+      "explanation": "Smashing and chipping damage solid objects; leaking is about liquid escaping."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which noun goes with each problem?",
+      "categories": ["... has broken down", "... is blocked", "... is cracked"],
+      "items": [
+        { "text": "the washing machine", "category": 0 },
+        { "text": "the printer", "category": 0 },
+        { "text": "the car", "category": 0 },
+        { "text": "the sink", "category": 1 },
+        { "text": "the drain", "category": 1 },
+        { "text": "the vase", "category": 2 },
+        { "text": "the pot", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If you *trip*, you almost fall down because you hit your foot against something.",
+      "answer": true,
+      "explanation": "Correct. Kelly tripped and fell down and grazed her knee."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a cup is *chipped*, a small piece has broken off the edge.",
+      "answer": true,
+      "explanation": "A chipped cup has a small piece missing; a cracked one has a line of damage in it."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["She", "spilt", "some", "coffee", "on", "the", "carpet", "and", "it", "left", "a", "stain."],
+      "answer": "She spilt some coffee on the carpet and it left a stain.",
+      "explanation": "A stain is a permanent mark."
+    }
+  ]
+}

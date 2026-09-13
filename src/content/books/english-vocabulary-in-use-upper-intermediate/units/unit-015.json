@@ -1,0 +1,185 @@
+{
+  "number": 15,
+  "title": "Higher education",
+  "subtitle": "a bachelor's degree, tutorials, tuition fees",
+  "summary": "Talk about university life in English - degrees, modules and credits, lectures and tutorials, and the money and paperwork that go with studying.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Undergraduate studies",
+      "text": "Students who attend university in the UK start with **undergraduate studies**, which lead to a **bachelor's degree** - a first degree at university. They follow a **programme** made up of different **modules**.",
+      "examples": [
+        { "text": "Students usually have to complete a certain number of **credits** each year." },
+        { "text": "If they need 180 credits, they might take two modules of 60 credits each, and their **dissertation** might be worth another 60." },
+        { "text": "When they have **graduated**, students become **graduates**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Postgraduate studies",
+      "text": "Students who want to continue can begin **postgraduate studies**. The first stage is a **master's degree**, and after that they can do a **PhD** (doctor of philosophy), the highest university degree.",
+      "examples": [
+        { "text": "Postgraduate studies require students to **specialise** in a particular **field**." },
+        { "text": "They often do **research**.", "note": "research is uncountable" },
+        { "text": "They usually write another **dissertation** for a master's degree, or a **thesis** for a PhD." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Degrees and the people who take them",
+      "columns": ["Degree", "The student is a ...", "After finishing"],
+      "rows": [
+        ["bachelor's degree (first degree)", "an undergraduate (undergrad)", "a graduate"],
+        ["master's degree", "a postgraduate (postgrad)", "writes a dissertation"],
+        ["PhD (the highest degree)", "a postgraduate (postgrad)", "writes a thesis"]
+      ],
+      "note": "Undergraduate and postgraduate can be used as nouns or adjectives: a postgraduate programme, she's a postgraduate."
+    },
+    {
+      "type": "explain",
+      "heading": "People, places and types of class",
+      "text": "On a university **campus** you will find a **lecture theatre** (or lecture hall), where students listen to a **lecturer** and **take notes**. Smaller classes are called **seminars** and **tutorials**.",
+      "examples": [
+        { "text": "Some modules have **seminars**, where smaller groups discuss the subject in detail." },
+        { "text": "The **academic staff** might also include **tutors**.", "note": "academic staff = the people who teach" },
+        { "text": "Tutors teach students individually or in small groups, in sessions called **tutorials**." },
+        { "text": "Many students live on campus in **halls of residence** (or **halls**)." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Student services",
+      "columns": ["Term", "Meaning"],
+      "rows": [
+        ["admissions (office)", "the department that deals with new applications and new students"],
+        ["entry requirements", "the qualifications needed to enter a programme"],
+        ["funding", "money that students can receive"],
+        ["tuition fees", "money that students have to pay for their course"],
+        ["student loan", "money a student borrows to pay for their course"],
+        ["scholarship", "money given to a student to pay for a course, usually for high achievers"],
+        ["student union", "an organisation dealing with student issues and life on campus, and a place to meet"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You **submit** an application and **apply for** a loan or a scholarship - but you **pay** tuition fees."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A first degree at college or university is a ___ degree.",
+      "hint": "(one word, with an apostrophe)",
+      "answers": ["bachelor's", "bachelors"],
+      "explanation": "A bachelor's degree is the first degree you take at university."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The lower level of postgraduate degree is a ___ degree.",
+      "hint": "(one word, with an apostrophe)",
+      "answers": ["master's", "masters"],
+      "explanation": "A master's degree is the first stage of postgraduate study."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The highest university degree is a ___.",
+      "hint": "(three letters)",
+      "answers": ["phd", "ph.d.", "doctor of philosophy"],
+      "explanation": "A PhD (doctor of philosophy) is the highest university degree."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the word for that person.",
+      "pairs": [
+        { "left": "a person who is studying for their first degree", "right": "an undergraduate" },
+        { "left": "a person who has completed their first degree", "right": "a graduate" },
+        { "left": "a person who is studying for a master's or PhD", "right": "a postgraduate" },
+        { "left": "a person who gives lectures", "right": "a lecturer" },
+        { "left": "a person who teaches students individually or in small groups", "right": "a tutor" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "To complete the year students need 180 ___. 60 of these are for the thesis.",
+      "options": ["credits", "lectures", "modules", "fields"],
+      "answer": 0,
+      "explanation": "Credits measure how much of a programme you have completed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "After three years, you will ___ with a bachelor's degree.",
+      "options": ["graduate", "research", "credit", "submit"],
+      "answer": 0,
+      "explanation": "To graduate = to complete your degree."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dr Lewis has been doing ___ into dolphin behaviour and has made an important discovery.",
+      "options": ["research", "thesis", "field", "credits"],
+      "answer": 0,
+      "explanation": "You do research into something. Research is uncountable."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lucy is an expert in the ___ of ancient history and has just completed her PhD on Greek art.",
+      "options": ["field", "programme", "research", "module"],
+      "answer": 0,
+      "explanation": "A field is a particular area of study that someone specialises in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Student accommodation on campus is called ___ of residence.",
+      "hint": "(one word)",
+      "answers": ["halls", "hall"],
+      "explanation": "Many students live on campus in halls of residence, or just halls."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ are meetings, one-to-one or in small groups, with a tutor.",
+      "hint": "(plural noun)",
+      "answers": ["tutorials"],
+      "explanation": "A tutorial is a small teaching session led by a tutor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Students listen to talks in a lecture ___, and some of these talks are attended by two hundred people.",
+      "hint": "(one word)",
+      "answers": ["theatre", "hall"],
+      "explanation": "A lecture theatre, or lecture hall, is the large room where lectures are given."
+    },
+    {
+      "type": "true_false",
+      "statement": "*You must pay your entry requirements by 17th September.*",
+      "answer": false,
+      "explanation": "You pay tuition fees: You must pay your tuition fees by 17th September. Entry requirements are the qualifications you need."
+    },
+    {
+      "type": "true_false",
+      "statement": "*The admissions office helps current students with their problems and life on campus.*",
+      "answer": false,
+      "explanation": "That is the student union. The admissions office deals with new applications and new students."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each one money you receive, money you pay, or a place?",
+      "categories": ["Money you receive", "Money you pay", "A place"],
+      "items": [
+        { "text": "a scholarship", "category": 0 },
+        { "text": "a student loan", "category": 0 },
+        { "text": "funding", "category": 0 },
+        { "text": "tuition fees", "category": 1 },
+        { "text": "a lecture theatre", "category": 2 },
+        { "text": "halls of residence", "category": 2 },
+        { "text": "the campus", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["A", "great", "way", "of", "meeting", "new", "people", "on", "campus", "is", "to", "join", "student", "societies", "and", "clubs."],
+      "answer": "A great way of meeting new people on campus is to join student societies and clubs.",
+      "explanation": "The student union page tells you about student societies and clubs."
+    }
+  ]
+}

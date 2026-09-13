@@ -1,0 +1,207 @@
+{
+  "number": 48,
+  "title": "The media: internet and email",
+  "subtitle": "browse, upload, attachment, spam",
+  "summary": "Discuss the pros and cons of the internet with precise vocabulary - from webinars, file-sharing and e-commerce to spam, cookies and parental controls.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The pros: talking to people",
+      "text": "Email is only the beginning. **Instant messaging** is a kind of email where both people are online at the same time. A **chat room** is an online conversation between a group of people on topics they choose, which you can enter or leave at any time. A **newsgroup** is a website where people with shared interests get news and information, and **social networking sites** let you connect with other people, make new friends and keep up with their personal news.",
+      "examples": [
+        { "text": "We settled the whole thing in five minutes of **instant messaging**." },
+        { "text": "If you **subscribe to** newsgroups, you often get hundreds of messages.", "note": "subscribe to = become a member of" },
+        { "text": "She often **posts** ridiculous details about her life on **social networking sites**.", "note": "post = add material to a site" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The pros: doing things online",
+      "text": "**E-commerce** covers all kinds of business done on the internet, such as internet banking and travel booking, and there are **e-books**, **e-learning** and **webinars** - online seminars. You can **browse**, which is looking at different websites with no particular goal, or **surf the web**, moving from page to page usually looking for something.",
+      "examples": [
+        { "text": "Half the fun is just **browsing** and **surfing the web**." },
+        { "text": "We have **e-enabled** everything you need to study online.", "note": "e-enabled = made available to work with over the internet" },
+        { "text": "**E-signatures** now have the same legal status as handwritten ones." },
+        { "text": "The **dotcom** economy has attracted hundreds of new businesses hoping to make a fortune." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sending and sharing",
+      "text": "You can **transfer graphic images** - the technical term for pictures, icons and diagrams - and sound files. Files sent with an email message are **attachments**, and **file-sharing** is the practice of sharing computer data or space on a network. You **download** files to your computer and **upload** them from it.",
+      "examples": [
+        { "text": "I'll send you the figures as an **attachment**." },
+        { "text": "**Download** and **upload** times can be painfully slow." },
+        { "text": "**Gaming** means you can play video games with anyone in the world." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The cons",
+      "text": "**ISP** charges - Internet Service Provider, pronounced letter by letter - can be high for heavy users. People you have never met may get your contact details, and your account may be **hacked**, that is accessed illegally. **Spam**, also called **junk mail**, is unwanted advertising sent to you by email, and **cookies** are pieces of software that follow and record what you do and which sites you visit.",
+      "examples": [
+        { "text": "My account was **hacked** and everyone in my address book got **spam** from me." },
+        { "text": "Some ISPs allow you to **screen out** or **filter out** unwanted mail.", "note": "screen out / filter out = prevent from reaching you" },
+        { "text": "The internet can become **addictive** - something you cannot stop doing." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Offensive material and parental control",
+      "text": "Many sites contain **offensive material**: pornography, extreme political views, or material that encourages hate and violence against people. **Parental control** is the ability of parents to decide which websites their children can visit and to restrict certain activities.",
+      "examples": [
+        { "text": "**Parental controls** provided by ISPs are vital these days." },
+        { "text": "E-learners may miss a 'live' teacher, and **e-books** don't feel the same as real books." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Opposites in computer English",
+      "columns": ["Word", "Opposite", "Real word?"],
+      "rows": [
+        ["delete", "undelete", "yes - restore something you erased by accident"],
+        ["download", "upload", "yes"],
+        ["update", "downdate", "no - there is no such word"],
+        ["inbox", "outbox", "yes"],
+        ["online", "offline", "yes"],
+        ["install", "uninstall", "yes"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things that go wrong",
+      "text": "Your **server** - the central computer that distributes email and other services to a group of users - can be **down**, which means not working. An email to a dead address **bounces**, or comes back to you. And good **anti-virus software**, protection against computer viruses, is worth updating frequently.",
+      "examples": [
+        { "text": "Our **server** at work was **down** yesterday, so I didn't get your message till today." },
+        { "text": "She must have changed her email address - the email I sent her **bounced**." },
+        { "text": "I've **bookmarked** the CNN home page, as I use it regularly.", "note": "bookmark = put in a list of sites you can reach immediately" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Browsing has no goal and surfing usually has one - you browse for pleasure, you surf looking for something."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its explanation.",
+      "pairs": [
+        { "left": "chat room", "right": "a site where people with common interests talk online" },
+        { "left": "webinar", "right": "a sort of class held live on the web" },
+        { "left": "ISP", "right": "a company that gives you access to the internet" },
+        { "left": "cookie", "right": "a program that follows your activities on the web" },
+        { "left": "attachment", "right": "a file sent at the same time as an email message" },
+        { "left": "spam", "right": "unwanted advertising sent to you by email" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've had your message in my ___ for two days, but haven't had time to read it yet.",
+      "hint": "(where unread emails are stored)",
+      "answers": ["inbox"],
+      "explanation": "Mail arrives in your inbox; mail waiting to be sent sits in your outbox."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sent a photo of my house to a friend in Canada, but it took ages to ___ .",
+      "hint": "(transfer from here to there)",
+      "answers": ["upload"],
+      "explanation": "You upload files from your computer to the internet and download files to it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I spent nearly five minutes ___ just waiting for that photo to go.",
+      "hint": "(connected to the internet)",
+      "answers": ["online", "on line"],
+      "explanation": "Online means connected to the internet; offline means disconnected."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had a lot of trouble trying to ___ that new software I bought.",
+      "hint": "(add to the programs on your computer)",
+      "answers": ["install"],
+      "explanation": "You install software and uninstall it when you no longer want it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How do I ___ a file on this computer?",
+      "hint": "(restore something erased by accident)",
+      "answers": ["undelete"],
+      "explanation": "Undelete is the opposite of delete: it brings back something you erased by mistake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I edit my pictures ___ and then connect to send them.",
+      "hint": "(while disconnected from the internet)",
+      "answers": ["offline", "off line"],
+      "explanation": "Offline is the opposite of online."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is an old version of the software. You can ___ it online for free.",
+      "hint": "(get a newer version)",
+      "answers": ["update"],
+      "explanation": "You update software to a newer version - there is no verb downdate."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these is NOT a real word in computer English?",
+      "options": ["downdate", "undelete", "uninstall", "outbox"],
+      "answer": 0,
+      "explanation": "Update has no opposite downdate; the other three all exist."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'E-learning will become more and more common.' What is e-learning?",
+      "options": [
+        "taking courses over the internet instead of at a school or college",
+        "learning how to use a computer",
+        "learning a language by email only",
+        "an electronic test at the end of a course"
+      ],
+      "answer": 0,
+      "explanation": "The prefix e- means done over the internet: e-learning, e-commerce, e-books."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'With this smartphone you'll never need a tablet or a laptop.' What is a tablet here?",
+      "options": [
+        "a very thin portable computer used mostly for email and online activities",
+        "a small notebook for writing things down",
+        "a paid app for reading books",
+        "a keyboard you attach to a phone"
+      ],
+      "answer": 0,
+      "explanation": "A tablet is a thin, often quite small portable computer, used mainly for email and online activities."
+    },
+    {
+      "type": "true_false",
+      "statement": "If an email bounces, it means the person has read it and replied immediately.",
+      "answer": false,
+      "explanation": "An email that bounces comes back to you undelivered, often because the address has changed."
+    },
+    {
+      "type": "true_false",
+      "statement": "If your server is down, you cannot receive your email.",
+      "answer": true,
+      "explanation": "The server is the central computer that distributes email; down means not working."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each thing usually presented as a pro or a con of internet use?",
+      "categories": ["Pro", "Con"],
+      "items": [
+        { "text": "e-commerce", "category": 0 },
+        { "text": "file-sharing", "category": 0 },
+        { "text": "webinars", "category": 0 },
+        { "text": "social networking sites", "category": 0 },
+        { "text": "spam", "category": 1 },
+        { "text": "cookies", "category": 1 },
+        { "text": "hacking", "category": 1 },
+        { "text": "offensive material", "category": 1 }
+      ]
+    }
+  ]
+}

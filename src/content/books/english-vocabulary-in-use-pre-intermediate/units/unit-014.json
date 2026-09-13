@@ -1,0 +1,189 @@
+{
+  "number": 14,
+  "title": "Growing up",
+  "subtitle": "a toddler, in your teens, brought up",
+  "summary": "Name the stages of life from birth to old age, give someone's age approximately, and talk about how you were brought up.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Ages and stages in the UK",
+      "columns": ["Age", "Stage"],
+      "rows": [
+        ["0", "**birth** - the moment a baby is born"],
+        ["up to 12 months", "a **baby**"],
+        ["12 months to 3 years", "a **toddler**"],
+        ["3 to 12 years", "a **child**; this period is your **childhood**"],
+        ["about 13 to 18", "a **teenager**; during this period you are **in your teens**"],
+        ["18 and over", "an **adult**"],
+        ["about 40 and over", "people are **middle-aged** - in the middle of their lives"],
+        ["60 or 65", "**retirement**, when people stop work; they are **retired**"],
+        ["80 and over", "**old age**; we usually describe people as **elderly**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Approximate ages",
+      "text": "When you do not know someone's exact age, use **early**, **mid-** or **late** with the decade, or say **nearly**, **almost**, **approximately** or **roughly**.",
+      "examples": [
+        { "text": "I'm in my **early twenties**.", "note": "= 21 to 23" },
+        { "text": "My parents are in their **mid-fifties**.", "note": "= 54 to 56" },
+        { "text": "My grandmother is in her **late seventies**.", "note": "= 77 to 79" },
+        { "text": "My grandfather is **nearly** eighty.", "note": "= he's probably 79; almost means the same" },
+        { "text": "My English teacher's **approximately** thirty.", "note": "= about 30; roughly means the same" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *he's 30* or *he's 30 years old*, not ~~he has 30~~ or ~~he's 30 years~~. And say *a 30-year-old man*, not ~~a 30-years-old man~~."
+    },
+    {
+      "type": "explain",
+      "heading": "My grandmother's childhood",
+      "text": "A young woman talks about her grandmother Mary, who is now **dead** (the opposite is **alive**). She died about ten years ago. Mary was **brought up** on a farm in Wales, which means her parents looked after her there until she was an adult.",
+      "examples": [
+        { "text": "She's **dead** now. She died when I was in my teens.", "note": "dead = not living; the opposite is alive" },
+        { "text": "She was **brought up** on a farm in Wales.", "note": "bring someone up = look after them until they are an adult" },
+        { "text": "Her parents were very **strict**.", "note": "strict = they made her obey a lot of rules" },
+        { "text": "They didn't **allow** her to listen to the radio or go to parties.", "note": "allow = give permission" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Leaving home",
+      "text": "**In the end** means finally, after a lot of time or thought. **At first** means at the beginning. If you **manage** to do something, you are able to do it, but it is difficult.",
+      "examples": [
+        { "text": "**In the end**, she decided to leave home and get a job in Cardiff." },
+        { "text": "**At first** it wasn't easy, but she **managed** to find work." },
+        { "text": "She met the man who became her husband. My mother was **born** four years later." },
+        { "text": "My mother **grew up** in the city and had a very different **childhood**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "let and allow",
+      "left": {
+        "label": "let (more informal)",
+        "text": "let someone do something - no *to*.",
+        "examples": [
+          "My dad **let** me drive his car.",
+          "Her parents **let** her stay out late.",
+          "not ~~let me to drive~~"
+        ]
+      },
+      "right": {
+        "label": "allow (often passive)",
+        "text": "allow someone **to** do something.",
+        "examples": [
+          "I **was allowed to** drive my dad's car.",
+          "She **wasn't allowed to** listen to the radio.",
+          "You're **not allowed to** smoke in that room."
+        ]
+      },
+      "note": "Say *You're not allowed to smoke in that room*, not ~~It's not allowed to smoke in that room~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Isabella is only six months old - she's still a ___.",
+      "hint": "(one word)",
+      "answers": ["baby"],
+      "explanation": "A child up to 12 months old is a baby."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Holly is just over a year old and she's starting to walk, so she's a ___ now.",
+      "hint": "(one word)",
+      "answers": ["toddler"],
+      "explanation": "A child between about 12 months and three years is a toddler."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Abigail will be 13 this year, so she'll soon be a ___.",
+      "hint": "(one word)",
+      "answers": ["teenager"],
+      "explanation": "From about 13 to 18 you are a teenager."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Louis was 22 a few months ago, so he's in his ___.",
+      "hint": "(two words)",
+      "answers": ["early twenties"],
+      "explanation": "21 to 23 is your early twenties."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Amelia is 35. How do we describe her age?",
+      "options": ["She's in her mid-thirties.", "She's in her late thirties.", "She's in her early thirties.", "She's middle-aged."],
+      "answer": 0,
+      "explanation": "34 to 36 is your mid-thirties."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "William is 53 and his wife is 47, so they're both ___.",
+      "hint": "(one word with a hyphen)",
+      "answers": ["middle-aged", "middle aged"],
+      "explanation": "People of about 40 and over are middle-aged."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right stage of life.",
+      "categories": ["Under 13", "About 13 to 18", "Over 60"],
+      "items": [
+        { "text": "a baby", "category": 0 },
+        { "text": "a toddler", "category": 0 },
+        { "text": "childhood", "category": 0 },
+        { "text": "a teenager", "category": 1 },
+        { "text": "in your teens", "category": 1 },
+        { "text": "retired", "category": 2 },
+        { "text": "elderly", "category": 2 },
+        { "text": "old age", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Mary was brought up in the city.",
+      "answer": false,
+      "explanation": "Mary was brought up on a farm in Wales."
+    },
+    {
+      "type": "true_false",
+      "statement": "Mary's parents let her do what she wanted.",
+      "answer": false,
+      "explanation": "Her parents were very strict."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the sentence that means the same.",
+      "pairs": [
+        { "left": "It was hard, but finally I did it.", "right": "It was hard, but in the end I did it." },
+        { "left": "She's approximately my age.", "right": "She's roughly my age." },
+        { "left": "They're almost thirty now.", "right": "They're nearly thirty now." },
+        { "left": "My mum looked after me in Scotland.", "right": "I was brought up in Scotland." },
+        { "left": "My grandparents don't work any more.", "right": "My grandparents are retired." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was able to pass my exams, but it wasn't easy. I ___ to pass my exams.",
+      "hint": "(one word, past tense)",
+      "answers": ["managed"],
+      "explanation": "manage to do something = be able to do it, but with difficulty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My parents let me wear what I liked, so I was ___ wear what I liked.",
+      "hint": "(two words)",
+      "answers": ["allowed to"],
+      "explanation": "let someone do something = allow someone to do something. Allow needs to."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say what Mary's strict parents did not permit.",
+      "words": ["She", "wasn't", "allowed", "to", "listen", "to", "the", "radio."],
+      "answer": "She wasn't allowed to listen to the radio.",
+      "explanation": "Allow is often used in the passive: be allowed to do something."
+    }
+  ]
+}

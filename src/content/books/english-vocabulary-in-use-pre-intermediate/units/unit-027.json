@@ -1,0 +1,209 @@
+{
+  "number": 27,
+  "title": "Life in the country",
+  "subtitle": "scenery, crops, footpath, village",
+  "summary": "Describe the countryside, the work people do on a farm, and the good and bad sides of village life.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Surrounded by nature",
+      "text": "In the **countryside** you are **surrounded by** nature - nature is everywhere around you. Children play on the **banks** of the river (the sides of the river) and in the **woods** (groups of trees).",
+      "examples": [
+        { "text": "I grew up in the **countryside**, **surrounded by** nature." },
+        { "text": "We used to play on the **banks** of the river and in the **woods**." },
+        { "text": "In the summer we **picked** apples and blackberries.", "note": "pick = take fruit from the tree or plant" },
+        { "text": "I loved the **scenery**, the open **spaces** and the fresh **air**.", "note": "scenery = the natural beauty you see around you" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Parts of a tree and things that grow",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["a **tree**", "a tall plant with a wooden trunk"],
+        ["**branches**", "the arms of a tree"],
+        ["**leaves**", "the flat green parts on the branches"],
+        ["**roots**", "the parts under the ground"],
+        ["**plants**", "small living things that grow in the ground"],
+        ["**grass**", "the short green plant that covers a field"],
+        ["the **ground**", "the surface of the earth"],
+        ["**crops**", "plants that a farmer grows for food, e.g. wheat"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *I like being in the countryside* or *I like being surrounded by nature*, not ~~I like being in the nature~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Working in the country",
+      "text": "A farmer **owns** a farm - it legally belongs to him. He **keeps** animals (owns them and looks after them) and **grows crops** like barley, wheat and potatoes.",
+      "examples": [
+        { "text": "My uncle **owns** a farm." },
+        { "text": "He **keeps** a few animals, but mostly he **grows crops**." },
+        { "text": "My uncle is usually **up** at five in the morning.", "note": "up = not in bed" },
+        { "text": "Sometimes his work isn't finished until **sunset**.", "note": "sunset = when the sun goes down in the evening" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Things you see on a farm walk",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["a **hill**", "high ground, smaller than a mountain"],
+        ["a **valley**", "the low land between two hills"],
+        ["a **field**", "an area of land where crops grow or animals eat"],
+        ["a **fence**", "a wooden or wire wall around a field"],
+        ["a **gate**", "the door in a fence"],
+        ["a **footpath**", "a narrow path for people walking"],
+        ["a **tractor**", "the machine a farmer drives in the fields"],
+        ["a **farmhouse**", "the house where the farmer lives"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The disadvantages of country life",
+      "text": "A **village** is a place smaller than a town. The worst thing is that there isn't much to do in the evening, apart from going to the village pub.",
+      "examples": [
+        { "text": "The nearest town is eight miles **away**.", "note": "away = a distance from a place" },
+        { "text": "**Public transport** is **hopeless**.", "note": "public transport = buses and trains for people to use; hopeless = terrible" },
+        { "text": "You don't **get** many shops in a village.", "note": "= there aren't many shops" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The seasons",
+      "text": "The **seasons** are spring, summer, autumn and winter. In the countryside each season looks different, and that is part of the **scenery**.",
+      "examples": [
+        { "text": "In the autumn we often **picked** mushrooms." },
+        { "text": "Spring is my favourite **season**." },
+        { "text": "The **sunsets** are lovely here." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Put the letters in the right order: sargs -> ___ .",
+      "hint": "(it covers a field and it is green)",
+      "answers": ["grass"],
+      "explanation": "Grass is the short green plant that grows in fields."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put the letters in the right order: velase -> ___ .",
+      "hint": "(they grow on the branches of a tree)",
+      "answers": ["leaves"],
+      "explanation": "Leaves grow on the branches of a tree."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put the letters in the right order: toros -> ___ .",
+      "hint": "(they are under the ground)",
+      "answers": ["roots"],
+      "explanation": "The roots of a plant are under the ground."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put the letters in the right order: chesranb -> ___ .",
+      "hint": "(the arms of a tree)",
+      "answers": ["branches"],
+      "explanation": "Leaves grow on the branches."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Put the letters in the right order: roscp -> ___ .",
+      "hint": "(a farmer grows them, e.g. wheat and barley)",
+      "answers": ["crops"],
+      "explanation": "Crops are the plants a farmer grows."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its meaning.",
+      "pairs": [
+        { "left": "a valley", "right": "the low land between two hills" },
+        { "left": "a footpath", "right": "a narrow path for people walking" },
+        { "left": "a fence", "right": "a wooden or wire wall round a field" },
+        { "left": "a gate", "right": "the door in a fence" },
+        { "left": "a farmhouse", "right": "the house where the farmer lives" },
+        { "left": "a tractor", "right": "the machine a farmer drives" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It must be beautiful when the sun goes down over the valley. *B:* It is. The ___ are lovely here.",
+      "hint": "(plural)",
+      "answers": ["sunsets"],
+      "explanation": "Sunset = when the sun goes down in the evening."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have you ever lived in a town? *B:* No, I've always lived in the ___ .",
+      "hint": "(one word)",
+      "answers": ["countryside", "country"],
+      "explanation": "We live in the countryside, not ~~in the nature~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is your dad ___ yet? *B:* He must be. He's not in bed.",
+      "hint": "(one short word)",
+      "answers": ["up"],
+      "explanation": "Up = not in bed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is it your dad's farm? *B:* No, he doesn't ___ it. He's just the farm manager.",
+      "hint": "(one word)",
+      "answers": ["own"],
+      "explanation": "Own = have something that legally belongs to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do they ___ many animals? *B:* Yes, they've got sheep, cows and goats.",
+      "hint": "(one word - own and look after)",
+      "answers": ["keep"],
+      "explanation": "Keep animals = own them and look after them."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Do you enjoy the summer? *B:* Yes, but spring is my favourite ___ .",
+      "options": ["season", "scenery", "space", "crop"],
+      "answer": 0,
+      "explanation": "The seasons are spring, summer, autumn and winter."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Some of the best things about the country are the beautiful scenery, the open ___ and the fresh air.",
+      "options": ["spaces", "grounds", "roots", "banks"],
+      "answer": 0,
+      "explanation": "Open spaces = empty areas of land."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Advantage or disadvantage of living in the country?",
+      "categories": ["Advantage", "Disadvantage"],
+      "items": [
+        { "text": "You are surrounded by nature.", "category": 0 },
+        { "text": "You can go out and pick fruit.", "category": 0 },
+        { "text": "The fresh air.", "category": 0 },
+        { "text": "Public transport is hopeless.", "category": 1 },
+        { "text": "You don't get many shops.", "category": 1 },
+        { "text": "The nearest town is a long way away.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe a walk on a farm.",
+      "words": ["We", "followed", "the", "footpath", "across", "the", "field", "and", "down", "into", "the", "valley."],
+      "answer": "We followed the footpath across the field and down into the valley.",
+      "explanation": "A footpath is a narrow path for people who are walking."
+    },
+    {
+      "type": "true_false",
+      "statement": "In a village, public transport is usually hopeless, which means it is excellent.",
+      "answer": false,
+      "explanation": "False. Hopeless means terrible, not excellent."
+    }
+  ]
+}

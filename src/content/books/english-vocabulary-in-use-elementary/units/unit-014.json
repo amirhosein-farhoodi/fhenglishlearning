@@ -1,0 +1,184 @@
+{
+  "number": 14,
+  "title": "Jobs",
+  "subtitle": "I'm a waiter. I work in a restaurant.",
+  "summary": "Name common jobs, say where people work, and ask other people about their job.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Asking about jobs",
+      "text": "There are two common questions: **What's your job?** and **What do you do?** They mean the same thing. Remember the word *a* or *an* in the answer: **I'm a waiter**, **I'm an engineer**.",
+      "examples": [
+        { "text": "*Sam:* What's your job? *Ben:* **I'm a waiter**. I work in a restaurant.", "wrong": "I'm waiter" },
+        { "text": "*Ben:* What do you do? *Sam:* **I'm a taxi driver**." },
+        { "text": "*Ben:* Is it an interesting job? *Sam:* Yes, I like it." },
+        { "text": "*Sam:* Where do you work? *Sophie:* I work in an office. Sometimes it's boring." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Jobs and what people do",
+      "columns": ["Job", "What the person does"],
+      "rows": [
+        ["doctor", "sees people who are ill, in a hospital"],
+        ["nurse", "works with the doctor and looks after people"],
+        ["teacher", "teaches children in a school"],
+        ["writer", "writes books"],
+        ["waiter", "brings your food in a restaurant"],
+        ["shop assistant", "sells things in a shop"],
+        ["hairdresser", "cuts your hair in a beauty salon"],
+        ["secretary", "answers the phone and writes letters in an office"],
+        ["engineer", "builds roads and bridges"],
+        ["mechanic", "repairs cars"],
+        ["farmer", "keeps animals and grows food"],
+        ["bus driver", "works on a bus"],
+        ["taxi driver", "takes people to different places by car"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Jobs in the town",
+      "columns": ["Job", "What the person does"],
+      "rows": [
+        ["police officer", "helps people in the street and stops crime"],
+        ["traffic warden", "checks all the parked cars"],
+        ["librarian", "looks after the books in a library"],
+        ["bank clerk", "changes money and helps you in a bank"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where do you work?",
+      "text": "We **work in** a place: in a school, in a hospital, in an office, in a shop, in a factory. We also say **work at home** or **work from home**, and **work as** a hairdresser when we want to name the job.",
+      "examples": [
+        { "text": "My dad **works in a factory** which makes car parts." },
+        { "text": "I **worked in a shop** at the weekends when I was a student." },
+        { "text": "I want to **work in a beauty salon as a hairdresser**." },
+        { "text": "I'd like to **work in a children's hospital**." },
+        { "text": "I'm a writer. I **work at home**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Many job words end in **-er** or **-or**: teach + er = *teacher*, write + er = *writer*, drive + er = *driver*, act + or = *actor*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "A doctor works in a ___.",
+      "hint": "(one word)",
+      "answers": ["hospital", "clinic", "surgery"],
+      "explanation": "Doctors and nurses work in a hospital."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A waiter works in a ___.",
+      "hint": "(one word)",
+      "answers": ["restaurant", "cafe"],
+      "explanation": "A waiter brings you your food in a restaurant."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A secretary works in an ___.",
+      "hint": "(one word)",
+      "answers": ["office"],
+      "explanation": "A secretary answers the phone and writes letters in an office."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each person with the place where they work.",
+      "pairs": [
+        { "left": "teacher", "right": "a school" },
+        { "left": "shop assistant", "right": "a shop" },
+        { "left": "hairdresser", "right": "a beauty salon" },
+        { "left": "bank clerk", "right": "a bank" },
+        { "left": "bus driver", "right": "a bus" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "This person writes books. What is the job?",
+      "options": ["a writer", "a librarian", "a secretary", "an engineer"],
+      "answer": 0,
+      "explanation": "write + er = writer, a person who writes books."
+    },
+    {
+      "type": "mcq",
+      "prompt": "This person works in a hospital with the doctor. What is the job?",
+      "options": ["a nurse", "a mechanic", "a farmer", "a traffic warden"],
+      "answer": 0,
+      "explanation": "A nurse works with the doctor and looks after the patients."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's an ___. She builds roads and bridges.",
+      "hint": "(one word)",
+      "answers": ["engineer"],
+      "explanation": "An engineer builds roads and bridges. Note: an engineer."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The traffic ___ is checking all the parked cars.",
+      "hint": "(one word)",
+      "answers": ["warden"],
+      "explanation": "A traffic warden checks the cars parked in the street."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ told me to return the book at the end of the month.",
+      "hint": "(one word)",
+      "answers": ["librarian"],
+      "explanation": "A librarian looks after the books in a library."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bank ___ changed some money for me.",
+      "hint": "(one word)",
+      "answers": ["clerk"],
+      "explanation": "A bank clerk works with money in a bank."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A police ___ told me the way to the station.",
+      "hint": "(one word)",
+      "answers": ["officer"],
+      "explanation": "A police officer works in the town and helps people."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each job in the right group.",
+      "categories": ["Health", "Transport", "School and books"],
+      "items": [
+        { "text": "doctor", "category": 0 },
+        { "text": "nurse", "category": 0 },
+        { "text": "bus driver", "category": 1 },
+        { "text": "taxi driver", "category": 1 },
+        { "text": "teacher", "category": 2 },
+        { "text": "librarian", "category": 2 },
+        { "text": "writer", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Ben is a waiter, so he works in a hospital.",
+      "answer": false,
+      "explanation": "Ben is a waiter, so he works in a restaurant."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a new friend about their job.",
+      "words": ["What", "do", "you", "do?"],
+      "answer": "What do you do?",
+      "explanation": "What do you do? = What's your job?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that your father works in a factory that makes parts for cars.",
+      "words": ["My", "dad", "works", "in", "a", "factory", "which", "makes", "car", "parts."],
+      "answer": "My dad works in a factory which makes car parts.",
+      "explanation": "We work in a factory, in an office, in a shop."
+    }
+  ]
+}

@@ -70,8 +70,8 @@ export default function Home() {
             Learn English, <em>one lesson</em> at a time.
           </h1>
           <p>
-            Pick a book, read a short lesson, then prove it in a playful quiz. Grammar now, vocabulary and listening
-            next. Your progress is saved on this device, no account needed.
+            Pick a book, read a short lesson, then prove it in a playful quiz. Grammar, IELTS exam skills with the
+            official recordings, and vocabulary next. Your progress is saved on this device, no account needed.
           </p>
           <div className="stats-row">
             <div className="stat">

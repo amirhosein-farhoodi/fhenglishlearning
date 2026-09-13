@@ -1,0 +1,189 @@
+{
+  "number": 12,
+  "title": "Locating and matching information",
+  "subtitle": "Types of information and sentence endings",
+  "summary": "Match a whole idea - not a word - to the paragraph that contains it, and complete sentence endings by following how ideas connect.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "You are matching an idea, not a word",
+      "text": "In a **matching information** task, the question describes a piece of information and you find the paragraph that contains it. The question never repeats the passage's words - it describes the **whole idea**, so scanning for a single word will not find it.",
+      "examples": [
+        { "text": "Question: *two situations that force meerkats to change where they live*", "note": "Text: *They move if their food is in short supply or if they're forced out by a stronger gang.*" },
+        { "text": "Question: *how meerkats generally spend their time*", "note": "Text: *Meerkats devote a significant part of their day to foraging for food.*" }
+      ],
+      "note": "Notice that neither question shares a content word with the sentence it matches. *Situations that force* and *forced out* are as close as it gets."
+    },
+    {
+      "type": "table",
+      "heading": "Types of information you are asked to find",
+      "columns": ["Type", "What it sounds like in the text"],
+      "rows": [
+        ["the findings of a study", "*the results showed a significant change ...*"],
+        ["the method used in a research study", "*We achieved this by weighing the animals both before and after ...*"],
+        ["the reaction to something", "*the public grew angry at the waste of public funds*"],
+        ["a description of a habitat", "*They live in dark, humid areas ... in and around tropical rainforests.*"],
+        ["the difference between current and past studies", "*Our study looked at the environment while previous researchers concentrated on diet.*"],
+        ["a description of how something works", "*Water is forced at pressure through a narrow pipe ... causing it to turn.*"],
+        ["the cause of something", "*The water is warm thanks to a natural hot spring beneath the riverbed.*"],
+        ["the amount of time needed for something", "*It takes 35 days for the chick to leave the nest and fly.*"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The other information types worth knowing",
+      "text": "Whenever you read a passage in practice, ask which of these labels fits each paragraph. Doing it deliberately for a few weeks makes the matching task almost automatic.",
+      "examples": [
+        { "text": "a number, a date, a measurement" },
+        { "text": "a reason, a cause, an effect" },
+        { "text": "a conclusion, the problems" },
+        { "text": "a finding, an account, a reaction, a description" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two tasks, two orders",
+      "left": {
+        "label": "Matching information",
+        "text": "**Not** in the order of the passage.",
+        "examples": [
+          "Question 1 may point to the last paragraph.",
+          "Work through the questions, not the paragraphs.",
+          "A paragraph can be the answer to more than one question."
+        ]
+      },
+      "right": {
+        "label": "Completion tasks",
+        "text": "Usually in the order of the passage.",
+        "examples": [
+          "Sentence completion and summary gaps follow the text.",
+          "If you find gap 3, gap 4 is below it.",
+          "Flow charts are the exception - they follow the process."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Sentence endings run on grammar and logic",
+      "text": "In a **matching sentence endings** task, half the work is grammatical: only some endings can follow a given beginning at all. Use that to build a shortlist, then read the passage to choose between what is left.",
+      "examples": [
+        { "text": "*When I pressed the switch,* + **the light came on.**", "note": "A time clause needs a main clause." },
+        { "text": "*If you heat ice,* + **it melts.**", "note": "A conditional needs a result." },
+        { "text": "*The respondents to the survey* + **all came from similar economic backgrounds.**", "note": "A plural subject needs a plural verb." },
+        { "text": "*Children who attend small schools* + **generally get more individual attention.**" },
+        { "text": "*Parents with overactive children* + **reported that she has been successful.**", "note": "Wrong - *she* cannot refer to *parents*. Pronouns are a strong clue." }
+      ],
+      "note": "In the real paper grammar alone will never be enough - use it to **check** an answer, not to choose one without reading."
+    },
+    {
+      "type": "explain",
+      "heading": "How to attack a sentence-endings task",
+      "text": "Work from the beginnings, because they contain the names and nouns you can scan for. The endings are where the paraphrase hides.",
+      "examples": [
+        { "text": "**1.** Scan the passage to locate the information in each sentence beginning." },
+        { "text": "**2.** Read that part of the passage carefully." },
+        { "text": "**3.** Choose the ending that matches what it says - then check the grammar fits." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "There are always more endings than beginnings. An ending you do not use is not a mistake - it is the task working as designed."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each extract with the type of information it contains.",
+      "pairs": [
+        { "left": "They live in dark, humid areas in and around tropical rainforests.", "right": "a description of a habitat" },
+        { "left": "We achieved this by weighing the animals before and after exercise.", "right": "the method used in a study" },
+        { "left": "The public grew angry at the waste of public funds.", "right": "the reaction to something" },
+        { "left": "It takes 35 days for the chick to leave the nest.", "right": "the amount of time needed" },
+        { "left": "The water is warm thanks to a hot spring beneath the riverbed.", "right": "the cause of something" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "For a matching information task, what are you looking for in the passage?",
+      "options": [
+        "Individual words repeated from the question",
+        "A whole idea described in different words",
+        "The first sentence of each paragraph",
+        "Any number or date"
+      ],
+      "answer": 1,
+      "explanation": "The question describes the information rather than quoting it, so word-matching will send you to the wrong paragraph."
+    },
+    {
+      "type": "true_false",
+      "statement": "Matching information questions follow the order of the passage.",
+      "answer": false,
+      "explanation": "Like matching headings, they are not in passage order. Work through the questions one by one instead."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each sentence beginning with the ending that fits.",
+      "pairs": [
+        { "left": "When I pressed the switch,", "right": "the light came on." },
+        { "left": "If you heat ice,", "right": "it melts." },
+        { "left": "The respondents to the survey", "right": "all came from similar economic backgrounds." },
+        { "left": "Children who attend small schools", "right": "generally get more individual attention." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why can't *Parents with overactive children* be followed by *reported that she has been successful*?",
+      "options": [
+        "Because the ending is too long",
+        "Because *she* cannot refer back to *parents*",
+        "Because *reported* is the wrong tense",
+        "Because the ending has no verb"
+      ],
+      "answer": 1,
+      "explanation": "Pronoun reference is one of the quickest ways to rule an ending out - but always confirm your choice against the passage."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the real Reading paper, you can answer matching sentence endings using grammar alone, without reading the passage.",
+      "answer": false,
+      "explanation": "Grammar and logic help you shortlist and check, but the paper is designed so that only the passage settles it."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these question types by whether they follow the order of the passage.",
+      "categories": ["Follows the passage order", "Does not follow it"],
+      "items": [
+        { "text": "Sentence completion", "category": 0 },
+        { "text": "Summary completion", "category": 0 },
+        { "text": "Matching information", "category": 1 },
+        { "text": "Matching headings", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Our study looked at the surrounding environment while previous researchers had concentrated on diet.* This gives the ___ between current and past studies.",
+      "hint": "(one noun)",
+      "answers": ["difference", "differences"],
+      "explanation": "*While* is the signal: it sets this study against the earlier ones."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the first step for a matching sentence endings task.",
+      "words": ["Scan", "the", "passage", "to", "locate", "the", "sentence", "beginnings."],
+      "answer": "Scan the passage to locate the sentence beginnings.",
+      "explanation": "Beginnings carry the names and nouns; endings carry the paraphrase."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Water is forced at pressure through a narrow pipe. The water hits the top of the water wheel, causing it to turn.* Which type of information is this?",
+      "options": [
+        "the findings of a study",
+        "a description of how something works",
+        "the reaction to something",
+        "the amount of time needed for something"
+      ],
+      "answer": 1,
+      "explanation": "A sequence of physical causes and effects with no research and no people is a description of a mechanism."
+    }
+  ]
+}

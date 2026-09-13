@@ -1,0 +1,233 @@
+{
+  "number": 71,
+  "title": "Prefixes",
+  "subtitle": "un-, in-, dis-, over-, pre-, re-",
+  "summary": "Use prefixes to make opposites and to add meanings such as against, former, too much, before and again to a word you already know.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Negative prefixes on adjectives",
+      "text": "Prefixes often give an adjective the opposite meaning. Unfortunately there is no easy way of knowing which prefix a particular adjective will take, so learn each opposite as a pair.",
+      "examples": [
+        { "text": "fair / **unfair**, natural / **unnatural**" },
+        { "text": "experienced / **inexperienced**, edible / **inedible**" },
+        { "text": "similar / **dissimilar**, organised / **disorganised**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How in- changes its spelling",
+      "columns": ["Before a root beginning with", "in- becomes", "Examples"],
+      "rows": [
+        ["m or p", "im-", "immature, impatient, immoral, impossible, improbable"],
+        ["r", "ir-", "irregular, irresponsible, irreplaceable, irrelevant"],
+        ["l", "il-", "illegal, illegible, illiterate"],
+        ["anything else", "in-", "inedible, indiscreet, insensitive, inefficient, intolerant"]
+      ],
+      "note": "in- does not always mean 'not'. It often means inside or into: internal, import, insert, income."
+    },
+    {
+      "type": "explain",
+      "heading": "Negative prefixes on verbs",
+      "text": "**un-** and **dis-** also form the opposites of verbs. With verbs they usually reverse the action - you undo what has been done.",
+      "examples": [
+        { "text": "tie / **untie**, appear / **disappear**" },
+        { "text": "more with un-: **unbend**, **undo**, **undress**, **unfold**, **unload**, **unlock**, **unveil**, **unwrap**, **unzip**" },
+        { "text": "more with dis-: **disagree**, **disapprove**, **disbelieve**, **disconnect**, **discourage**, **dislike**, **disprove**, **disqualify**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Other common prefixes",
+      "columns": ["Prefix", "Meaning", "Examples"],
+      "rows": [
+        ["anti-", "against", "anti-war, antisocial, antibiotic, antiseptic"],
+        ["auto-", "of or by oneself", "autograph, auto-pilot, autobiography"],
+        ["bi-", "two / twice", "bicycle, bilateral, biannual, bilingual"],
+        ["ex-", "former", "ex-wife, ex-smoker, ex-boss"],
+        ["ex-", "out of", "extract, exhale, excommunicate"],
+        ["micro-", "small", "microbiology, microchip, microscopic, microwave"],
+        ["mis-", "badly / wrongly", "misunderstand, mistranslate, mislead, mispronounce"],
+        ["mono-", "one / single", "monolingual, monologue, monogamous"],
+        ["multi-", "many", "multinational, multimedia, multi-purpose"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More common prefixes",
+      "columns": ["Prefix", "Meaning", "Examples"],
+      "rows": [
+        ["over-", "too much", "overdo, overtired, oversleep, overeat, overworked"],
+        ["post-", "after", "post-war, postgraduate, post-impressionist"],
+        ["pre-", "before", "preconceived, pre-war, pre-judge"],
+        ["pro-", "in favour of", "pro-government, pro-revolutionary, pro-American"],
+        ["pseudo-", "false", "pseudo-scientific, pseudo-intellectual, pseudo-science"],
+        ["re-", "again / back", "rewrite, regain, rearrange, repay, replace, renew, redo"],
+        ["semi-", "half", "semi-circular, semi-final, semi-detached"],
+        ["sub-", "under", "subway, submarine, subdivision"],
+        ["under-", "not enough", "underworked, underused, undercooked, underpaid"]
+      ],
+      "note": "Some words with prefixes use a hyphen and some do not. Check in a dictionary if you are unsure."
+    },
+    {
+      "type": "compare",
+      "heading": "over- and under-",
+      "left": {
+        "label": "over- = too much",
+        "examples": [
+          "I **overslept** and missed the train.",
+          "Most people say they are **overworked**."
+        ]
+      },
+      "right": {
+        "label": "under- = not enough",
+        "examples": [
+          "Most people say they are **underpaid**.",
+          "The chicken was **undercooked** and made us ill."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "When you meet a new adjective, write down its opposite at the same time. Guessing the prefix is risky: *unfair* but *inedible*, *irrelevant* but *disloyal*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each prefix with its meaning.",
+      "pairs": [
+        { "left": "anti-", "right": "against" },
+        { "left": "pseudo-", "right": "false" },
+        { "left": "semi-", "right": "half" },
+        { "left": "multi-", "right": "many" },
+        { "left": "post-", "right": "after" },
+        { "left": "under-", "right": "not enough" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Something you cannot eat is ___.",
+      "hint": "(eat + prefix)",
+      "answers": ["inedible"],
+      "explanation": "in- makes the negative of edible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone who is unable to read or write is ___.",
+      "hint": "(literate + prefix)",
+      "answers": ["illiterate"],
+      "explanation": "Before a root beginning with l, in- becomes il-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Someone who does not have much sense of responsibility is ___.",
+      "hint": "(responsible + prefix)",
+      "answers": ["irresponsible"],
+      "explanation": "Before a root beginning with r, in- becomes ir-."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Children (and adults) love ___ parcels at Christmas time.",
+      "hint": "(wrap)",
+      "answers": ["unwrapping"],
+      "explanation": "un- reverses the action of the verb: wrap becomes unwrap."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sure he's lying but it's going to be hard to ___ his story.",
+      "hint": "(prove)",
+      "answers": ["disprove"],
+      "explanation": "dis- reverses the action: to disprove is to show that something is not true."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After a brief speech the President ___ the new statue.",
+      "hint": "(veil)",
+      "answers": ["unveiled"],
+      "explanation": "To unveil is to remove the cloth covering something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His phone was ___ because he didn't pay his last bill.",
+      "hint": "(connect)",
+      "answers": ["disconnected"],
+      "explanation": "dis- reverses the action of connect."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What kind of oven cooks things particularly fast?",
+      "options": ["a microwave", "a semi-oven", "a multi-oven", "a sub-oven"],
+      "answer": 0,
+      "explanation": "micro- means small: microwave, microchip, microscopic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How would you describe a cream that helps prevent infection?",
+      "options": ["antiseptic", "autographic", "bilateral", "pseudo-medical"],
+      "answer": 0,
+      "explanation": "anti- means against - against infection."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a student who is studying for a second degree?",
+      "options": ["a postgraduate", "a pre-graduate", "a subgraduate", "a bi-graduate"],
+      "answer": 0,
+      "explanation": "post- means after - after the first degree."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word means 'underground railway' in the US and 'underground passage' in the UK?",
+      "options": ["subway", "semi-way", "microway", "overway"],
+      "answer": 0,
+      "explanation": "sub- means under: subway, submarine, subdivision."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its opposite.",
+      "pairs": [
+        { "left": "discreet", "right": "indiscreet" },
+        { "left": "convincing", "right": "unconvincing" },
+        { "left": "obedient", "right": "disobedient" },
+        { "left": "grateful", "right": "ungrateful" },
+        { "left": "loyal", "right": "disloyal" },
+        { "left": "tolerant", "right": "intolerant" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which prefix makes the opposite of each adjective?",
+      "categories": ["un-", "in- / im- / ir- / il-", "dis-"],
+      "items": [
+        { "text": "employed", "category": 0 },
+        { "text": "locked", "category": 0 },
+        { "text": "fair", "category": 0 },
+        { "text": "sensitive", "category": 1 },
+        { "text": "efficient", "category": 1 },
+        { "text": "relevant", "category": 1 },
+        { "text": "honest", "category": 2 },
+        { "text": "similar", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's still on good terms with the man who used to be her husband - her ___.",
+      "hint": "(husband + prefix)",
+      "answers": ["ex-husband", "ex husband"],
+      "explanation": "ex- means former: ex-wife, ex-smoker, ex-boss."
+    },
+    {
+      "type": "true_false",
+      "statement": "Most people say they are overworked but underpaid.",
+      "answer": true,
+      "explanation": "Correct - over- means too much and under- means not enough."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the words *import*, *internal* and *income*, the prefix in- / im- means 'not'.",
+      "answer": false,
+      "explanation": "Here in- gives the idea of inside or into, not a negative meaning."
+    }
+  ]
+}

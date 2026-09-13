@@ -1,0 +1,175 @@
+{
+  "number": 48,
+  "title": "Hotels and restaurants",
+  "subtitle": "book a room in advance, check in, a three-course meal",
+  "summary": "Book and describe a hotel room, and order a meal in a restaurant in natural English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Hotel facilities",
+      "columns": ["Facility", "What it is"],
+      "rows": [
+        ["room service", "staff bring food and drink to your room"],
+        ["internet access", "you can use the Internet"],
+        ["air conditioning", "a system that keeps the air cool"],
+        ["satellite TV", "TV with many channels from different countries"],
+        ["a mini-bar", "a small fridge in your room"],
+        ["a personal safe", "a box to keep money and valuable items in"],
+        ["parking", "somewhere to leave the car"]
+      ],
+      "note": "The hotel is in the heart of Paris. heart = centre."
+    },
+    {
+      "type": "table",
+      "heading": "Types of room",
+      "columns": ["Room", "Who it is for"],
+      "rows": [
+        ["a single room", "one person"],
+        ["a double room", "two people, with one big bed"],
+        ["a twin room", "two people, with two beds"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Staying in a hotel",
+      "text": "Rooms are often **available** during the week, but many hotels are **fully booked** at weekends. So you may need to **book a room in advance**. When you arrive, you **check in** at **reception**; at the end of your **stay** you **check out**.",
+      "examples": [
+        { "text": "There were no rooms **available**.", "note": "= you could not find one" },
+        { "text": "The hotel was **fully booked**.", "note": "= all the rooms were taken" },
+        { "text": "Did you book it **in advance**?", "note": "= before you went" },
+        { "text": "You normally have to **check out** by midday.", "note": "= pay your bill and leave" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Going to a restaurant",
+      "text": "At the weekend it is a good idea to **book a table** or **make a reservation**. Many restaurants offer **three-course meals** with a **starter** (e.g. soup), a **main course** (e.g. meat or fish) and a **dessert** (e.g. fruit with ice cream).",
+      "examples": [
+        { "text": "Did you **make a reservation**?", "note": "= book a table" },
+        { "text": "Prices sometimes **include** 10% **service**." },
+        { "text": "If service isn't included, it's normal to leave a **tip**.", "note": "a tip = extra money you give to the waiter" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Ordering a meal",
+      "text": "The waiter asks **Are you ready to order?** You answer with **I'd like ...** or **I'll have ...**. For a steak the waiter asks **How would you like your steak?** - **rare**, **medium** or **well-done**. For water, **still** or **sparkling**.",
+      "examples": [
+        { "text": "*Waiter:* Are you **ready to order**?" },
+        { "text": "I'd like to start with the spicy prawns, and then **I'll have** the fillet steak.", "wrong": "I take the fillet steak" },
+        { "text": "I'd like a **mixed salad**.", "note": "= lettuce with other vegetables" },
+        { "text": "*Waiter:* Still or **sparkling**? *Customer:* Sparkling, please." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In a restaurant say *I'll have the steak*, never ~~I take the steak~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the correct group.",
+      "categories": ["How you like your steak", "Kinds of water", "Courses of a meal"],
+      "items": [
+        { "text": "rare", "category": 0 },
+        { "text": "medium", "category": 0 },
+        { "text": "well-done", "category": 0 },
+        { "text": "still", "category": 1 },
+        { "text": "sparkling", "category": 1 },
+        { "text": "starter", "category": 2 },
+        { "text": "main course", "category": 2 },
+        { "text": "dessert", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right.",
+      "pairs": [
+        { "left": "service", "right": "included" },
+        { "left": "room", "right": "service" },
+        { "left": "three-course", "right": "meal" },
+        { "left": "internet", "right": "access" },
+        { "left": "air", "right": "conditioning" },
+        { "left": "satellite", "right": "TV" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Two friends want a room with two separate beds. Which room do they book?",
+      "options": ["a twin room", "a double room", "a single room", "a mini-bar"],
+      "answer": 0,
+      "explanation": "A twin room has two beds; a double room has one big bed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Could you first check in at ___, please? They will give you your key.",
+      "hint": "(one word)",
+      "answers": ["reception", "the reception"],
+      "explanation": "You check in at reception and get your room key."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ the soup, and then the fish for my main course.",
+      "hint": "(will have)",
+      "answers": ["'ll have", "will have", "ll have"],
+      "explanation": "In a restaurant we order with I'll have ..., not ~~I take ...~~"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Service wasn't included, so I left a 10% ___.",
+      "hint": "(extra money for the waiter)",
+      "answers": ["tip", "service tip"],
+      "explanation": "A tip is extra money you give to the waiter or waitress."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The hotel is in the ___ of the town, close to all the main attractions.",
+      "hint": "(one word - the centre)",
+      "answers": ["heart", "centre"],
+      "explanation": "in the heart of = in the centre of."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the end of your ___ at a hotel, you normally have to check out by midday.",
+      "hint": "(the time you spend in a place)",
+      "answers": ["stay"],
+      "explanation": "Your stay is the period of time you spend in a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you book a table? = Did you make a ___?",
+      "hint": "(one word)",
+      "answers": ["reservation"],
+      "explanation": "make a reservation = book a table."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The hotel was fully booked. = There were no rooms ___.",
+      "hint": "(one word)",
+      "answers": ["available"],
+      "explanation": "If a room is available, you can find one; if the hotel is fully booked, all the rooms are taken."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you book it before you went? = Did you book it in ___?",
+      "hint": "(one word)",
+      "answers": ["advance"],
+      "explanation": "in advance = before you go."
+    },
+    {
+      "type": "true_false",
+      "statement": "The waiter asks what you want, and you say: 'I take the steak, please.'",
+      "answer": false,
+      "explanation": "I'll have the steak, please. We do not say ~~I take the steak~~."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The waiter wants to know if you want your steak rare, medium or well-done. Put the words in order.",
+      "words": ["How", "would", "you", "like", "your steak?"],
+      "answer": "How would you like your steak?",
+      "explanation": "The answer is Rare, medium or well-done."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "number": 18,
+  "title": "Around the home",
+  "subtitle": "a spare room, a dishwasher, a duvet, curtains or blinds",
+  "summary": "Name the rooms of a home and the things you find in the kitchen, the living room and the bedroom.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Different homes",
+      "text": "A **one-bedroom flat** has one bedroom. If two people **share** a room, they use it at the same time. A room that is your **own** is only for you. A **spare room** is a room you keep for guests, and a **study** is a room where people can work.",
+      "examples": [
+        { "text": "When we first got married, we lived in a **one-bedroom flat**." },
+        { "text": "When our first child was born, she had to **share** our bedroom." },
+        { "text": "Our two teenage children have their **own** rooms." },
+        { "text": "We have a **spare room** for guests, and another bathroom." },
+        { "text": "My mum works at home, so she spends all day in the **study** on the computer." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Rooms in a house",
+      "columns": ["Room", "What it is for"],
+      "rows": [
+        ["the living room", "where you sit, talk and watch TV"],
+        ["the dining room", "where you eat your meals"],
+        ["the study", "a room where people can work"],
+        ["the spare room", "a bedroom you keep for guests"],
+        ["an en-suite bathroom", "a bathroom connected to a bedroom"],
+        ["the utility room", "a small room where you keep the washing machine"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the kitchen",
+      "text": "The **cooker** is where you cook, and it has one or two **ovens**. A **fridge** keeps food cool and a **freezer** keeps it frozen; a **fridge-freezer** does both. A **dishwasher** is a machine for washing dishes, and a **microwave** heats food very quickly.",
+      "examples": [
+        { "text": "We've got a lovely big kitchen with a **fridge-freezer**, a **cooker** with two **ovens** and a **dishwasher**." },
+        { "text": "Next to it, there's a small **utility room** where we keep the **washing machine**." },
+        { "text": "Dad, there's no water coming out of the **tap** in the kitchen **sink**." },
+        { "text": "I'll put the **kettle** on and make some tea." },
+        { "text": "The clean cups and saucers are in that **cupboard**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "sink or washbasin?",
+      "text": "We usually talk about a **sink** in the kitchen, but a **(wash)basin** in the bathroom. **Tiles** are the flat squares on a wall or floor, most often in the kitchen or the bathroom.",
+      "examples": [
+        { "text": "The dirty saucepans are in the kitchen **sink**." },
+        { "text": "I washed my hands in the **washbasin**." },
+        { "text": "The bathroom floor is covered in white **tiles**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the living room",
+      "text": "Some people like big soft **sofas** with lots of **cushions**; other people like **firm** **armchairs**. **Firm** is the opposite of **soft**. A **carpet** covers the whole floor; a **rug** is small and covers only part of a **wooden floor**.",
+      "examples": [
+        { "text": "We used to have a **wooden** floor, but it was a bit noisy, so we put down a **carpet**." },
+        { "text": "I prefer a wooden floor with a **rug** in front of the fire." },
+        { "text": "There are three **cushions** on that big soft **sofa**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two choices for the window and the bed",
+      "left": {
+        "label": "Curtains or blinds?",
+        "text": "A **choice** is when you decide between two or more possibilities.",
+        "examples": [
+          "When I got my new bedroom, my mum gave me a **choice** of **curtains** or **blinds**.",
+          "I'm happy with **curtains** or **blinds**; I really don't mind."
+        ]
+      },
+      "right": {
+        "label": "A duvet, or a sheet and a blanket?",
+        "text": "You also choose one **pillow** or two for your head.",
+        "examples": [
+          "Some people like a **sheet** and a **blanket**, but I prefer a **duvet**.",
+          "I can't sleep with only one **pillow**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Careful with machines: a washing machine washes clothes, but a dishwasher washes plates and cups."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "You are in the kitchen. Where do you put each of these?",
+      "pairs": [
+        { "left": "milk", "right": "in the fridge" },
+        { "left": "food you want to heat very quickly", "right": "in the microwave" },
+        { "left": "meat you are going to cook", "right": "in the oven" },
+        { "left": "dirty clothes", "right": "in the washing machine" },
+        { "left": "dirty saucepans", "right": "in the dishwasher" },
+        { "left": "frozen food you want to keep for weeks", "right": "in the freezer" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which room do you usually find each thing in?",
+      "categories": ["The kitchen", "The bathroom", "The bedroom"],
+      "items": [
+        { "text": "a kettle", "category": 0 },
+        { "text": "a cooker", "category": 0 },
+        { "text": "a sink", "category": 0 },
+        { "text": "a washbasin", "category": 1 },
+        { "text": "a pillow", "category": 2 },
+        { "text": "a duvet", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We used to have a ___ floor, but it was a bit noisy so we put down a carpet.",
+      "hint": "(made of wood)",
+      "answers": ["wooden"],
+      "explanation": "A wooden floor is often covered with a rug."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I got my new bedroom, my mum gave me a ___ of curtains or blinds.",
+      "hint": "(when you decide between possibilities)",
+      "answers": ["choice", "a choice"],
+      "explanation": "A choice is when you decide between two or more possibilities."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My mum works at home, so she spends all day in the ___ on the computer.",
+      "hint": "(a room where people can work)",
+      "answers": ["study"],
+      "explanation": "A study is a room in a house where people work."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As a child I had to ___ a room with my sister, but now I've got my own bedroom.",
+      "hint": "(use it at the same time as someone else)",
+      "answers": ["share"],
+      "explanation": "Share = use something at the same time as someone else."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We often have guests to stay, but fortunately we've got a ___ room.",
+      "hint": "(kept free for visitors)",
+      "answers": ["spare"],
+      "explanation": "A spare room is a bedroom you keep for guests."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dad, there's no water coming out of the ___ in the kitchen sink.",
+      "hint": "(you turn it to get water)",
+      "answers": ["tap", "taps", "the tap"],
+      "explanation": "You turn on the tap and the water runs into the sink."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Our kitchen is small, but we have a ___ room for the washing machine.",
+      "hint": "(one word)",
+      "answers": ["utility"],
+      "explanation": "A utility room is a small room for the washing machine and other machines."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Some people like a sheet and a blanket, but I prefer a ___.",
+      "options": ["duvet", "cushion", "rug", "blind"],
+      "answer": 0,
+      "explanation": "A duvet is the thick soft cover you use instead of a sheet and blankets."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There's a family bathroom, but I've got my own ___ shower room next to the bedroom.",
+      "options": ["en-suite", "spare", "utility", "firm"],
+      "answer": 0,
+      "explanation": "An en-suite bathroom or shower room is connected to the bedroom."
+    },
+    {
+      "type": "true_false",
+      "statement": "We usually talk about a sink in the kitchen, but a washbasin in the bathroom.",
+      "answer": true,
+      "explanation": "Correct. Both are for water, but they have different names."
+    },
+    {
+      "type": "true_false",
+      "statement": "A rug covers the whole floor of a room.",
+      "answer": false,
+      "explanation": "A carpet covers the whole floor. A rug is small and covers only part of it."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "number": 57,
+  "title": "Politics",
+  "subtitle": "vote, in power, policy",
+  "summary": "Talk about elections, governments and political parties, and describe the policies a party promises.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Voting",
+      "text": "When you **vote for** someone, you choose them by putting a cross on an official piece of paper. This is called a **secret ballot**, because no one knows who you vote for. To **elect** someone is to choose them by voting.",
+      "examples": [
+        { "text": "I **voted for** the Green party at the last election." },
+        { "text": "It is a **secret ballot**, so no one knows who you **vote for**." },
+        { "text": "They **elected** her with a very large number of votes." },
+        { "text": "Have they set the date for the **election**?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Elections in the UK",
+      "text": "A **general election** is when the people elect the next **government**, the group of people who control the country. Elections are **held** at least every five years. Each **constituency** elects one person from one **political party**. That person becomes the **MP** (Member of Parliament) for that area.",
+      "examples": [
+        { "text": "Elections are **held** every five years.", "note": "held = organised" },
+        { "text": "There are 650 **constituencies**.", "note": "a constituency = an area where people vote" },
+        { "text": "The party with the most **MPs** forms the next **government**." },
+        { "text": "The **leader** of the party **in power** is the **Prime Minister**.", "note": "leader = the person in control; in power = in control of the country" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Noun (thing)", "Noun (person)", "Adjective"],
+      "rows": [
+        ["politics", "politician", "political"],
+        ["power", "leader", "powerful"],
+        ["belief", "believer", "-"],
+        ["reduction", "-", "-"],
+        ["election", "MP", "elected"]
+      ],
+      "note": "Employment is an important **political** issue. The president is a very **powerful** man. I hope there will be a **reduction** in my tax."
+    },
+    {
+      "type": "explain",
+      "heading": "Policies",
+      "text": "People usually vote for a party because they **believe in** the party's ideas. These ideas become **policies** - sets of plans and ideas that a political party has agreed on.",
+      "examples": [
+        { "text": "My political **beliefs** are important to me." },
+        { "text": "I **believe in** free education for everyone." },
+        { "text": "Their **policy** on transport won them a lot of votes." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words in party promises",
+      "columns": ["Promise", "What the key words mean"],
+      "rows": [
+        ["We will **provide** free nursery education for all children.", "provide = give something to those who need it; also provide someone with something"],
+        ["We will provide more **care** and **support** for **elderly** people.", "care = looking after people; support = help, sometimes money; elderly = old"],
+        ["We will **reduce** unemployment.", "reduce = make less; syn cut"],
+        ["We will create a **fair tax** system.", "fair = dealing with everyone in the same way (opp unfair); tax = money people must pay the government"],
+        ["**Above all**, we will **treat** people as **equal**.", "above all = most importantly; treat = deal with someone in a particular way; equal = having the same importance (adv equally)"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use the right preposition: you **vote for** a person or a party, and you **believe in** an idea."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Have they set the date for the ___ yet?",
+      "hint": "(ELECT)",
+      "answers": ["election"],
+      "explanation": "The noun from elect is election."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Employment is an important ___ issue.",
+      "hint": "(POLITICS)",
+      "answers": ["political"],
+      "explanation": "The adjective from politics is political."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My political ___ are important to me.",
+      "hint": "(BELIEVE - plural noun)",
+      "answers": ["beliefs"],
+      "explanation": "The noun from believe is belief; the plural is beliefs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The president is a very ___ man.",
+      "hint": "(POWER)",
+      "answers": ["powerful"],
+      "explanation": "The adjective from power is powerful."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hope there will be a ___ in my tax next year.",
+      "hint": "(REDUCE)",
+      "answers": ["reduction"],
+      "explanation": "The noun from reduce is reduction."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each definition with the right word.",
+      "pairs": [
+        { "left": "most importantly", "right": "above all" },
+        { "left": "the person in control of a political party", "right": "leader" },
+        { "left": "another word for 'old'", "right": "elderly" },
+        { "left": "money people must pay the government", "right": "tax" },
+        { "left": "help, often in the form of money", "right": "support" },
+        { "left": "not fair", "right": "unfair" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word is a synonym for 'reduce'?",
+      "options": ["cut", "hold", "treat", "provide"],
+      "answer": 0,
+      "explanation": "Reduce = make less; the synonym is cut."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "They are in control of the country. = They are in ___.",
+      "hint": "(one word)",
+      "answers": ["power"],
+      "explanation": "The party in power controls the country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elections take place every five years. = Elections are ___ every five years.",
+      "hint": "(one word = organised)",
+      "answers": ["held"],
+      "explanation": "We say elections are held."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No one knows who you vote for, because it is a secret ___.",
+      "hint": "(one word)",
+      "answers": ["ballot"],
+      "explanation": "A secret ballot means nobody knows how you voted."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In Canada the country is divided into 308 political areas, though they are called 'ridings'. In the UK these areas are called ___.",
+      "hint": "(plural)",
+      "answers": ["constituencies"],
+      "explanation": "A constituency is an area where people vote."
+    },
+    {
+      "type": "true_false",
+      "statement": "The party that wins the most seats forms the next government, and the leader of that party becomes Prime Minister.",
+      "answer": true,
+      "explanation": "Correct. The leader of the party in power is the Prime Minister."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the party promise in order.",
+      "words": ["We", "will", "provide", "more", "care", "for", "elderly", "people."],
+      "answer": "We will provide more care for elderly people.",
+      "explanation": "Provide = give something to those who need it; elderly = old."
+    }
+  ]
+}

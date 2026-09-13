@@ -1,0 +1,240 @@
+{
+  "number": 40,
+  "title": "Money",
+  "subtitle": "overdraft, mortgage, income, VAT",
+  "summary": "Handle the language of money - current and savings accounts, loans, mortgages and overdrafts, income and outgoings, and the main kinds of tax.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Banking words from the advertisements",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["**current account**", "the account you use for most everyday business"],
+        ["**interest rate**", "the percentage the bank pays you based on how much you have in your account"],
+        ["**overdraft facility**", "permission to have a negative amount of money in your account"],
+        ["**credit limit**", "the maximum amount of money you may spend on your card"],
+        ["**debts**", "money you owe someone"],
+        ["**competitive**", "as good as or better than other banks"],
+        ["**mortgage**", "a loan used usually to buy a house"],
+        ["**deposit**", "money you pay before buying something to show you really want to buy it"],
+        ["**repayments**", "payments that reduce the amount you owe"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Borrowing and raising money",
+      "text": "If you are **short of cash** you may need a **loan**. To **raise** money is to find it; to **finance** something is to find the money needed to pay for it. To **consolidate** your debts is to join them together to make one payment.",
+      "examples": [
+        { "text": "Need to **raise** money for that round-the-world trip? Look for a loan with **competitive** interest rates." },
+        { "text": "I need to buy a car, but I'm not sure how I'm going to **finance** it." },
+        { "text": "**Consolidate** all your cards and debts into one convenient **payment**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Money in and money out",
+      "left": {
+        "label": "Coming in",
+        "text": "Money you receive.",
+        "examples": [
+          "I have a steady **income** now, which is great.",
+          "**income** = money coming in regularly, in a way that does not change much",
+          "My account is **in credit** at the beginning of the month.",
+          "**in credit** = has a positive amount of money in it"
+        ]
+      },
+      "right": {
+        "label": "Going out",
+        "text": "Money you pay.",
+        "examples": [
+          "My **outgoings** are quite low and I don't have any major **expenses**.",
+          "**outgoings** = money you pay each month, e.g. rent or the cost of running a car",
+          "By the end of the month my account is always **overdrawn**.",
+          "I hate being **in the red** and the banks all **charge interest** on overdrafts."
+        ]
+      },
+      "note": "In the red is informal for having a negative amount of money in your account."
+    },
+    {
+      "type": "explain",
+      "heading": "Bank services",
+      "text": "You can pay bills by **direct debit**, so money is taken automatically from your account. A **savings account** is where you put money you do not immediately need, and you can **transfer** money from one account to another.",
+      "examples": [
+        { "text": "Paying by direct debit means I have a good **credit rating**, so I can borrow money if I need to.", "note": "credit rating = a bank's judgement of how likely you are to pay back money you borrow" },
+        { "text": "The bank **debits** your account for the necessary sums; if it puts money in, it **credits** your account." },
+        { "text": "I use **online banking** most of the time and only go to the bank to use the **cash machine**." },
+        { "text": "I try not to go over my **overdraft limit**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Public finance: kinds of tax",
+      "columns": ["Tax", "What it is paid on"],
+      "rows": [
+        ["**income tax**", "wages and salaries"],
+        ["**inheritance tax**", "money people get from people who have died"],
+        ["**customs (or excise) duty**", "goods imported from other countries"],
+        ["**VAT** (value added tax)", "most goods and services"],
+        ["**corporation tax**", "companies' profits"]
+      ],
+      "note": "Airports usually have **duty-free** shops, where you do not pay this tax."
+    },
+    {
+      "type": "tip",
+      "text": "A deposit is money paid up front to show you really want to buy; a repayment is money paid back to reduce a loan - don't mix them up."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its definition.",
+      "pairs": [
+        { "left": "interest", "right": "money that is charged on a loan" },
+        { "left": "mortgage", "right": "a loan to buy a house or flat" },
+        { "left": "overdraft", "right": "an account with a negative sum of money in it" },
+        { "left": "savings account", "right": "an account for money you don't need immediately" },
+        { "left": "current account", "right": "an account for day-to-day use" },
+        { "left": "direct debit", "right": "a payment taken automatically from an account" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "What do we call each of these?",
+      "pairs": [
+        { "left": "the tax you pay on imported goods", "right": "customs duty" },
+        { "left": "a shop at an airport where you don't pay tax", "right": "a duty-free shop" },
+        { "left": "a tax added to most goods and services", "right": "VAT" },
+        { "left": "a tax on money paid if someone dies", "right": "inheritance tax" },
+        { "left": "the tax companies pay on their profits", "right": "corporation tax" },
+        { "left": "the tax taken out of your salary", "right": "income tax" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nico owes his brother 5,000 euros and he borrowed 10,000 euros to buy a car. Nico has ___ totalling 15,000 euros.",
+      "hint": "(plural noun)",
+      "answers": ["debts"],
+      "explanation": "Debts are sums of money you owe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Misha spent 6,000 euros on her card; the bank said she'd spent 1,000 too much. Her credit ___ was 5,000 euros.",
+      "hint": "(one word)",
+      "answers": ["limit"],
+      "explanation": "Your credit limit is the maximum you may spend on the card."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Newbank's interest rates are similar to other banks' rates and sometimes better. Newbank's rates are ___.",
+      "hint": "(adjective beginning with c)",
+      "answers": ["competitive"],
+      "explanation": "Competitive means as good as or better than other banks."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Before she bought her new car, Alice paid 500 pounds to the dealer. She paid a ___ of 500 pounds.",
+      "hint": "(noun beginning with d)",
+      "answers": ["deposit"],
+      "explanation": "A deposit is money paid before buying, to show you really want to buy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If customers need more money than is in their account, the bank can offer them an overdraft ___.",
+      "hint": "(noun beginning with f)",
+      "answers": ["facility"],
+      "explanation": "An overdraft facility is permission to have a negative amount in your account."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Harry sold his car and got a part-time job. He was trying to ___ money for his trip to Africa.",
+      "hint": "(verb beginning with r)",
+      "answers": ["raise"],
+      "explanation": "To raise money is to find it, often from several sources."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Harry needed the money to ___ his trip to Africa.",
+      "hint": "(verb beginning with f)",
+      "answers": ["finance"],
+      "explanation": "To finance something is to find the money needed to pay for it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You only need one credit card. You can combine all the sums you owe into one ___.",
+      "hint": "(noun beginning with p)",
+      "answers": ["payment"],
+      "explanation": "Consolidating debts turns several debts into one convenient payment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The bank offers mortgages with ___ over 30 years.",
+      "hint": "(plural noun beginning with r)",
+      "answers": ["repayments"],
+      "explanation": "Repayments are the payments that reduce the amount you owe."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If your account is overdrawn, what is true?",
+      "options": [
+        "You have a negative amount of money in it.",
+        "You have a large positive balance.",
+        "The bank pays you extra interest.",
+        "You cannot use online banking."
+      ],
+      "answer": 0,
+      "explanation": "Overdrawn means there is a negative amount in the account - informally, you are in the red."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If your bank debited your account for 500 euros, what has happened?",
+      "options": [
+        "You have less money - the bank has taken it out.",
+        "You have more money - the bank has put it in.",
+        "Your credit limit has gone up.",
+        "Your interest rate has fallen."
+      ],
+      "answer": 0,
+      "explanation": "A bank debits your account when it takes money out and credits it when it puts money in."
+    },
+    {
+      "type": "mcq",
+      "prompt": "If you have a good credit rating, what will you find easier to do?",
+      "options": [
+        "borrow money from a bank",
+        "avoid paying VAT",
+        "pay less income tax",
+        "spend nothing each month"
+      ],
+      "answer": 0,
+      "explanation": "A good credit rating means banks feel confident you will pay the money back."
+    },
+    {
+      "type": "true_false",
+      "statement": "Zara's account is in credit, so she probably has a positive amount of money in it.",
+      "answer": true,
+      "explanation": "Correct - in credit is the opposite of overdrawn."
+    },
+    {
+      "type": "true_false",
+      "statement": "Bob doesn't have a steady income and his outgoings are very high, so he probably feels secure.",
+      "answer": false,
+      "explanation": "False - he probably feels insecure, because his income may go up and down and may not cover his outgoings."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these into money coming in and money going out.",
+      "categories": ["Money coming in", "Money going out"],
+      "items": [
+        { "text": "income", "category": 0 },
+        { "text": "wages", "category": 0 },
+        { "text": "a loan from the bank", "category": 0 },
+        { "text": "outgoings", "category": 1 },
+        { "text": "expenses", "category": 1 },
+        { "text": "repayments", "category": 1 },
+        { "text": "a fine", "category": 1 },
+        { "text": "VAT", "category": 1 }
+      ]
+    }
+  ]
+}

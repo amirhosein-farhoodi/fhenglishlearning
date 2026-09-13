@@ -1,0 +1,217 @@
+{
+  "number": 55,
+  "title": "Industries: from manufacturing to service",
+  "subtitle": "heavy industry, privatisation, piecework, sweatshop",
+  "summary": "Describe industries and the way they work - heavy and light, high-tech and low-tech, nationalised and privatised - and the practices, good and bad, that go with them.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Heavy and light, manufacturing and service",
+      "left": {
+        "label": "heavy industry / manufacturing industry",
+        "text": "**Heavy industry** means big plants such as steel works and shipbuilding. **Manufacturing industry** makes things, for example consumer goods.",
+        "examples": [
+          "**Heavy industry** has declined in most of western Europe.",
+          "We need to encourage **manufacturing industries** that make things we can sell."
+        ]
+      },
+      "right": {
+        "label": "light industry / service industry",
+        "text": "**Light industry** makes smaller items such as car parts and TV sets. **Service industry** serves people - tourism, banking, insurance.",
+        "examples": [
+          "Now we're more dependent on **light industry**.",
+          "The economy cannot depend only on **service industries**."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "How advanced is the technology?",
+      "left": {
+        "label": "high-technology (high-tech) / cutting-edge technology",
+        "text": "**High-tech** industries involve computers, for example the software industry. **Cutting-edge technology** is new and innovative.",
+        "examples": [
+          "In this area there are a lot of **high-tech** industries.",
+          "**Cutting-edge technology** is very expensive."
+        ]
+      },
+      "right": {
+        "label": "low-technology (low-tech) / conventional technology",
+        "text": "**Low-tech** industries involve little or no computer technology. **Conventional technology** is standard and proven.",
+        "examples": [
+          "In the north they depend more on **low-tech** industries.",
+          "The company has to rely on **conventional technology**."
+        ]
+      },
+      "note": "High-tech and low-tech are the informal short forms of high-technology and low-technology."
+    },
+    {
+      "type": "explain",
+      "heading": "Who owns industry?",
+      "text": "**Nationalisation**, or **state ownership**, is when industry is owned by the government. **Privatisation** is the opposite: selling off state railways, for example, to private companies. Many big industries are now run as **public-private partnerships**, partly state-owned and partly owned by private businesses.",
+      "examples": [
+        { "text": "**State ownership** is less popular than it was, but the trend towards **privatisation** has slowed down." },
+        { "text": "The nuclear industry receives a huge **subsidy** from the government.", "note": "subsidy = money or grants that enable an industry to stay in profit" },
+        { "text": "The government tries to encourage **inward investment**.", "note": "inward investment = investment from foreign companies" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Industrial practices",
+      "columns": ["Expression", "What it means"],
+      "rows": [
+        ["piecework", "workers are paid only for the amount they produce"],
+        ["a zero hours contract", "you are employed, but the hours vary and some weeks there is no work and no pay"],
+        ["child labour", "the employment of children to do adult jobs"],
+        ["trade union representation", "having a union that negotiates wages and conditions for the people it represents"],
+        ["a sweatshop", "a factory where people work very long hours for low wages"],
+        ["retraining / reskilling", "training people for new jobs and teaching them new skills"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Cutting costs and moving production",
+      "text": "The big **multinationals** - companies with operations in many different countries - often close factories as a **cost-cutting exercise**, then **relocate** and **switch production** to countries where labour is cheaper. In many cases **components**, or parts, for cars are imported and then **assembled**, that is put together, rather than manufactured in the country.",
+      "examples": [
+        { "text": "Many people now work on **zero hours contracts**, which means they have no job security." },
+        { "text": "Many cheap electrical goods are produced in **sweatshops** in poorer countries." },
+        { "text": "**Retraining** and **reskilling** are necessary when an economy is modernised." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Crime in industry",
+      "columns": ["Term", "What it is"],
+      "rows": [
+        ["industrial piracy", "illegal production of goods using another company's brand name"],
+        ["industrial espionage", "stealing or destroying a rival company's plans or secrets"],
+        ["copyright infringement", "publishing or copying a book or work of art without the author's permission"],
+        ["money laundering", "passing illegally earned money through the normal banking system without being caught"],
+        ["the black market", "secret, illegal trade"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Relocate normally moves the offices; switch production moves the manufacturing itself."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each expression with its opposite.",
+      "pairs": [
+        { "left": "heavy industry", "right": "light industry" },
+        { "left": "manufacturing industry", "right": "service industry" },
+        { "left": "high-tech", "right": "low-tech" },
+        { "left": "cutting-edge technology", "right": "conventional technology" },
+        { "left": "privatisation", "right": "nationalisation" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The economy cannot depend only on restaurants and hotels. We need to encourage ___ industries that make things we can sell.",
+      "hint": "(making things)",
+      "answers": ["manufacturing"],
+      "explanation": "Manufacturing industry makes things; service industry serves people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The latest, innovative ___ technology is very expensive, so the company relies on conventional technology.",
+      "hint": "(two words with a hyphen: newest and most innovative)",
+      "answers": ["cutting-edge", "cutting edge"],
+      "explanation": "Cutting-edge technology is new and innovative; conventional technology is standard and proven."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "State ownership is less popular than it was, but the trend towards ___ has slowed down.",
+      "hint": "(selling state industries to private companies)",
+      "answers": ["privatisation"],
+      "explanation": "Privatisation is the selling off of state industries to private companies."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The nuclear industry receives a huge ___ from the government.",
+      "hint": "(money that keeps an industry in profit)",
+      "answers": ["subsidy"],
+      "explanation": "A subsidy is a government grant that enables a loss-making industry to continue."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the factory workers are on ___ , so they are paid only for what they produce.",
+      "hint": "(one word)",
+      "answers": ["piecework", "piece work"],
+      "explanation": "On piecework, employees are paid only for the amount they produce."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The government tries to encourage ___ investment - investment by foreign companies.",
+      "hint": "(adjective before investment)",
+      "answers": ["inward"],
+      "explanation": "Inward investment is investment in a country by foreign companies."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many cheap electrical goods are produced in ___ , where people work very long hours for low wages.",
+      "hint": "(plural, one word)",
+      "answers": ["sweatshops"],
+      "explanation": "A sweatshop is a factory where people work very long hours for low wages."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a zero hours contract?",
+      "options": [
+        "you are employed, but the hours vary and some weeks there is no work and no pay",
+        "a contract that guarantees you a fixed number of hours every week",
+        "a contract with no fixed end date",
+        "a contract that pays you only for what you produce"
+      ],
+      "answer": 0,
+      "explanation": "Zero hours contracts give no job security: the number of hours may vary, and some weeks there may be no work at all."
+    },
+    {
+      "type": "mcq",
+      "prompt": "'The company closed two factories as a cost-cutting exercise and switched production abroad.' What does switch production mean?",
+      "options": [
+        "move the centre of manufacturing to a different place",
+        "change what the factories make",
+        "sell the factories to the government",
+        "put the parts together in a different order"
+      ],
+      "answer": 0,
+      "explanation": "To switch production is to move manufacturing somewhere else, usually where labour is cheaper."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each problem in industry with the situation that illustrates it.",
+      "pairs": [
+        { "left": "industrial piracy", "right": "factories producing illegal copies of top brand names" },
+        { "left": "industrial espionage", "right": "designs for a new aircraft photographed and sold to a rival" },
+        { "left": "copyright infringement", "right": "illegal editions of a book, so the author receives no payment" },
+        { "left": "money laundering", "right": "money from the drugs trade passed through ordinary banks" },
+        { "left": "the black market", "right": "secret trade in untaxed luxury cars" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Reskilling means employing children to do adult jobs.",
+      "answer": false,
+      "explanation": "Reskilling is teaching workers new skills; employing children to do adult jobs is child labour."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each one an example of manufacturing industry or of service industry?",
+      "categories": ["Manufacturing industry", "Service industry"],
+      "items": [
+        { "text": "steel works", "category": 0 },
+        { "text": "shipbuilding", "category": 0 },
+        { "text": "making TV sets", "category": 0 },
+        { "text": "making car parts", "category": 0 },
+        { "text": "tourism", "category": 1 },
+        { "text": "banking", "category": 1 },
+        { "text": "hotels", "category": 1 },
+        { "text": "restaurants", "category": 1 }
+      ]
+    }
+  ]
+}

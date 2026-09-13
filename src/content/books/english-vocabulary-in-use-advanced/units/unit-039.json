@@ -1,0 +1,215 @@
+{
+  "number": 39,
+  "title": "History: since the dawn of civilisation",
+  "subtitle": "dynasty, reign, coronation, medieval, cavalry",
+  "summary": "Talk about the past with precision - empires, dynasties and reigns, historical eras from the Bronze Age to the post-colonial, and the people who filled them - and use these words metaphorically.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Empires, kingdoms and dynasties",
+      "text": "**Archaeologists** - people who study the material evidence of past societies - work among the remains of past civilisations, trying to understand vast **empires** (groups of countries ruled by a single person), **kingdoms** (individual countries ruled by a king or queen) and **dynasties**, different rulers all from the same family.",
+      "examples": [
+        { "text": "**Archaeologists** patiently work among the remains of past civilisations." },
+        { "text": "Several different countries ruled by one person make up an **empire**." },
+        { "text": "A **dynasty** is a family that rules during different generations." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reigns, heirs and successors",
+      "text": "**Since the dawn of civilisation** - since its very beginning - societies have recorded the **reigns** of kings, the fate of their **heirs** and **successors**, and events such as **coronations**, wars and **conquests**. When an heir **succeeds to the throne** and is **crowned**, we learn how long he or she **reigns**.",
+      "examples": [
+        { "text": "A **reign** is the period during which someone is king or queen." },
+        { "text": "The **coronation** is the event when a king or queen receives his or her crown." },
+        { "text": "A **conquest** is when someone or an army defeats and takes over another country." }
+      ],
+      "note": "An heir has a legal right to take over, for example by birth; a successor is any person who actually takes over, for example by being elected."
+    },
+    {
+      "type": "explain",
+      "heading": "Ordinary lives",
+      "text": "History records kings, but the lives of the **peasants** - people who work on the land and earn little - and **labourers**, who do unskilled manual work, often go unrecorded, along with the **migrations** of social groups. Historians must interpret whatever **shreds** of evidence remain.",
+      "examples": [
+        { "text": "**Manuscripts** are texts written by hand; events were also recorded on stone tablets." },
+        { "text": "**Migrations** are movements from one place to another in large numbers." },
+        { "text": "Only a few **shreds** of evidence remain - very small amounts." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Historical eras",
+      "columns": ["Era", "What it means"],
+      "rows": [
+        ["the Bronze Age", "the period when copper and tin began to be used for weapons and tools (also the Stone Age, the Iron Age)"],
+        ["medieval times", "of or from the European Middle Ages, about 1000-1500 AD"],
+        ["the Renaissance", "the new growth of interest in the arts in Europe in the 14th to 16th centuries"],
+        ["the pre-colonial era", "the period before Europeans arrived in large numbers and took power (opposite: post-colonial)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Military history",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["infantry", "soldiers on foot (uncountable)"],
+        ["cavalry", "soldiers on horseback (uncountable)"],
+        ["(suit of) armour", "metal protective clothing worn by soldiers"],
+        ["chariot", "a two-wheeled vehicle pulled by a horse, used in ancient times for racing and war"],
+        ["galleon", "a large sailing ship with three or four masts, used in the 15th to 18th centuries"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "People in history",
+      "columns": ["Person", "Meaning"],
+      "rows": [
+        ["warlord", "a military leader who controls a country, or more often an area within one"],
+        ["slave", "a person legally owned by someone else who has to work for them (noun: slavery)"],
+        ["ruler", "the leader of a country"],
+        ["explorer", "someone who travels to places thought never to have been visited, to find out what is there"],
+        ["merchant", "someone who buys and sells in large amounts, especially trading with other countries"],
+        ["monarch", "a neutral term for a king or queen (the country is a monarchy)"],
+        ["the nobility", "a collective term for people of the highest social rank in a society"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word formation",
+      "columns": ["Person", "Noun", "Verb"],
+      "rows": [
+        ["king", "kingdom", "crown"],
+        ["emperor", "empire", "-"],
+        ["successor", "succession", "succeed"],
+        ["conqueror", "conquest", "conquer"],
+        ["archaeologist", "archaeology", "-"],
+        ["labourer", "labour", "labour"],
+        ["migrant", "migration", "migrate"],
+        ["ruler", "rule", "rule"],
+        ["monarch", "monarchy", "-"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Infantry and cavalry are uncountable: the infantry marched, not ~~the infantries marched~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the beginnings and endings of these sentences about history.",
+      "pairs": [
+        { "left": "The sailors", "right": "boarded the galleon." },
+        { "left": "The emperor drove", "right": "a chariot with two black horses." },
+        { "left": "The infantry", "right": "marched for three days." },
+        { "left": "The cavalry", "right": "galloped across the field." },
+        { "left": "The warlord", "right": "led his army into battle." },
+        { "left": "The merchant", "right": "traded with the local tribespeople." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The period during which someone is king or queen is called their ___.",
+      "hint": "(noun from a verb meaning to rule as monarch)",
+      "answers": ["reign"],
+      "explanation": "A reign is the period that a king, queen or emperor rules."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A family that rules during different generations is called a ___.",
+      "hint": "(the Ming ..., the Tudor ...)",
+      "answers": ["dynasty"],
+      "explanation": "A dynasty is a line of rulers all from the same family."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The event when a king or queen receives a crown is the ___.",
+      "hint": "(noun from crown)",
+      "answers": ["coronation"],
+      "explanation": "A coronation is the ceremony at which a monarch is crowned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Several different countries ruled by one person make up an ___.",
+      "hint": "(the Roman ...)",
+      "answers": ["empire"],
+      "explanation": "An empire is a group of countries ruled by a single person, the emperor."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Societies have recorded these things since the ___ of civilisation.",
+      "hint": "(metaphor for the beginning)",
+      "answers": ["dawn"],
+      "explanation": "The dawn of something is metaphorically its very beginning."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Historians have to interpret whatever ___ of evidence remain.",
+      "hint": "(very small amounts)",
+      "answers": ["shreds"],
+      "explanation": "A shred is a very small amount: not a shred of evidence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A text written by hand is a ___.",
+      "hint": "(found in old libraries)",
+      "answers": ["manuscript"],
+      "explanation": "Manuscripts are texts written by hand, as opposed to printed books."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The princess swept into the room like a galleon in full sail. Was the princess ...?",
+      "options": ["large and stately", "small and awkward", "quick and nervous", "quiet and shy"],
+      "answer": 0,
+      "explanation": "A galleon is a large sailing ship, so the metaphor suggests someone large and stately."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He doesn't mind criticism and it's often hard to penetrate his armour. The person is likely to be ...",
+      "options": ["thick-skinned", "physically strong", "badly dressed", "very well protected by others"],
+      "answer": 0,
+      "explanation": "Armour is used metaphorically here for emotional protection: he is thick-skinned."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mike has a positively medieval attitude towards the role of women in society. Mike's attitude is ...",
+      "options": ["very old-fashioned and conservative", "liberal and open-minded", "scientific and detached", "unusually generous"],
+      "answer": 0,
+      "explanation": "Medieval used metaphorically means extremely old-fashioned."
+    },
+    {
+      "type": "true_false",
+      "statement": "'There has been a renaissance of interest in the harp' means that interest has increased.",
+      "answer": true,
+      "explanation": "Correct - a renaissance is a new growth of interest and activity."
+    },
+    {
+      "type": "true_false",
+      "statement": "'No one should be a slave to tradition' means that people should always follow tradition.",
+      "answer": false,
+      "explanation": "It means the opposite: people should not always follow tradition."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word name a person, a period, or something used in war?",
+      "categories": ["Person", "Period", "Used in war"],
+      "items": [
+        { "text": "merchant", "category": 0 },
+        { "text": "monarch", "category": 0 },
+        { "text": "peasant", "category": 0 },
+        { "text": "the Bronze Age", "category": 1 },
+        { "text": "the pre-colonial era", "category": 1 },
+        { "text": "medieval times", "category": 1 },
+        { "text": "chariot", "category": 2 },
+        { "text": "suit of armour", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about succession in order.",
+      "words": ["When", "an", "heir", "succeeds", "to", "the", "throne", "he", "or", "she", "is", "crowned"],
+      "answer": "When an heir succeeds to the throne he or she is crowned",
+      "explanation": "The heir has the legal right to take over; the ceremony is the coronation."
+    }
+  ]
+}

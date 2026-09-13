@@ -1,0 +1,217 @@
+{
+  "number": 28,
+  "title": "Describing the world",
+  "subtitle": "arid, tundra, indigenous, at the forefront",
+  "summary": "Describe a country the way a geography text does - its climate, vegetation, farming, industry and people - with the exact words each field uses.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Climate",
+      "text": "**Rainfall** is the amount of rain that falls in, say, a month or a year. Land that is **arid** is dry, and a region **prone to** something tends to have that negative characteristic. A **drought** is a long period without rain.",
+      "examples": [
+        { "text": "**Rainfall** in the south-east can be extremely high in the wet season." },
+        { "text": "The northern part of the country is **arid** and **prone to drought** during the dry season." },
+        { "text": "The river delta is **prone to** catastrophic flooding on a regular basis." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Vegetation",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["vegetation", "plant life in general"],
+        ["tundra", "an area in the far north with no trees and permanently frozen ground"],
+        ["taiga", "the dense coniferous forest south of the tundra"],
+        ["coniferous", "evergreen trees that produce cones and stay in leaf all year"],
+        ["deciduous", "trees that lose their leaves in winter"],
+        ["prairies", "flat grasslands in Canada and the northern USA"],
+        ["steppes / pampas", "the equivalent grasslands in Asia and in South America"]
+      ],
+      "note": "More than 30% of Canada lies inside the Arctic Circle, where the land can stay frozen for up to nine months of the year and vegetation is limited."
+    },
+    {
+      "type": "explain",
+      "heading": "Agriculture",
+      "text": "A **crop** is what a farmer grows and **harvests**. **Cereals** are types of grass cultivated to produce a grain - rice, wheat or maize. Rice is planted in flooded **paddy fields**. To **tend** animals is to take care of them.",
+      "examples": [
+        { "text": "Rice is the main **crop** grown in the south of China, planted in flooded **paddy fields**." },
+        { "text": "A good year can see two crops of rice and one of vegetables **harvested**." },
+        { "text": "Farmers **harvest** a single crop of **cereals** and, in addition, **tend** sheep and cattle." },
+        { "text": "One can often see local shepherds **tending** large flocks of sheep on the hillsides." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Developed and developing countries",
+      "left": {
+        "label": "A developed nation",
+        "text": "One with a modern, industrial economy. It has large **manufacturing** industries - producing goods in large numbers - and may be **at the forefront** of a field, that is, in an important leading position.",
+        "examples": [
+          "France is home to large **manufacturing**, steel and chemical industries.",
+          "The country is **at the forefront** of technology and engineering.",
+          "Its sizeable nuclear industry **generates** a significant proportion of the nation's electrical power."
+        ]
+      },
+      "right": {
+        "label": "A developing nation",
+        "text": "One that is poor and does not have a modern, industrial economy. Developed countries provide **aid** to them.",
+        "examples": [
+          "Like many developed countries, France provides a lot of help and **aid** to **developing** countries."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Population",
+      "text": "People **descended from** someone are related to a person who lived in the past: our **ancestors** are our relatives from earlier times, and we are their **descendants**. **Indigenous** peoples exist naturally in that place, unlike **migrants**, who move to live somewhere else and **settle** there - make their homes.",
+      "examples": [
+        { "text": "Some Brazilians are **descended from indigenous** tribes, others from the Portuguese." },
+        { "text": "Many Brazilians have African **ancestors** brought over in the 17th century as slaves." },
+        { "text": "During the 20th century, large numbers of European **migrants settled** in the south." }
+      ],
+      "note": "An emigrant leaves a country; an immigrant moves into one. Migrant covers both, and also people moving within their own country."
+    },
+    {
+      "type": "table",
+      "heading": "Useful collocations",
+      "columns": ["Word", "Goes with"],
+      "rows": [
+        ["plantation", "sugar, tea, coffee, rubber"],
+        ["industry", "chemical, manufacturing, pharmaceutical, textile"],
+        ["forest", "coniferous, deciduous, rain, dense"],
+        ["field", "paddy, oil, wheat, magnetic"],
+        ["nation", "developed, developing, independent, sovereign"]
+      ],
+      "note": "Paddy goes only with field - there is no such thing as a paddy forest or a paddy crop."
+    },
+    {
+      "type": "tip",
+      "text": "Ancestors look backwards and descendants look forwards: your ancestors came from France, and you are their descendant."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the two halves of each collocation.",
+      "pairs": [
+        { "left": "coniferous", "right": "forest" },
+        { "left": "developed", "right": "nation" },
+        { "left": "paddy", "right": "field" },
+        { "left": "chemical", "right": "industry" },
+        { "left": "sugar", "right": "plantation" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which noun does each word go with?",
+      "categories": ["... plantation", "... industry", "... forest"],
+      "items": [
+        { "text": "tea", "category": 0 },
+        { "text": "coffee", "category": 0 },
+        { "text": "rubber", "category": 0 },
+        { "text": "pharmaceutical", "category": 1 },
+        { "text": "textile", "category": 1 },
+        { "text": "deciduous", "category": 2 },
+        { "text": "dense", "category": 2 },
+        { "text": "rain", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I believe my ___ came to Britain from France in the 17th century.",
+      "hint": "(relatives from earlier times)",
+      "answers": ["ancestors"],
+      "explanation": "Ancestors are relatives from earlier times; we are our ancestors' descendants."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Many ___ left Russia for France after the Revolution in 1917.",
+      "hint": "(people who leave a country)",
+      "answers": ["emigrants"],
+      "explanation": "An emigrant is someone who leaves a country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The USA has traditionally welcomed ___ from all over the world.",
+      "hint": "(people who move into a country)",
+      "answers": ["immigrants", "migrants"],
+      "explanation": "An immigrant is someone who moves to live in a country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some Scots are said to be the ___ of 16th century Spanish sailors shipwrecked off the Scottish coast.",
+      "hint": "(the later generations)",
+      "answers": ["descendants"],
+      "explanation": "Descendants are the people related to someone who lived in the past."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Recently, the country's economy has suffered a decline in ___ industry.",
+      "hint": "(producing goods in large numbers)",
+      "answers": ["manufacturing"],
+      "explanation": "Manufacturing industry produces goods in large numbers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The university has long been at the ___ of agricultural science.",
+      "hint": "(in a leading position)",
+      "answers": ["forefront"],
+      "explanation": "To be at the forefront of a field is to be in an important leading position in it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the late 18th century, migrants ___ in the uncultivated lands towards the north.",
+      "hint": "(made their homes)",
+      "answers": ["settled"],
+      "explanation": "To settle somewhere is to make your home there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the extremely dry southern provinces, ___ is sparse.",
+      "hint": "(plant life)",
+      "answers": ["vegetation"],
+      "explanation": "Vegetation is the general word for plant life."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the cold northern regions, the landscape consists mostly of permanently frozen ground with no trees. What is this called?",
+      "options": ["tundra", "prairie", "taiga", "steppe"],
+      "answer": 0,
+      "explanation": "Tundra is the treeless area in the north with permanently frozen ground; taiga is the coniferous forest further south."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The tribes that have always existed naturally in the eastern jungles are ___ peoples.",
+      "options": ["indigenous", "migrant", "colonial", "arid"],
+      "answer": 0,
+      "explanation": "Indigenous means existing naturally in that place."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The flat grasslands of the northern USA experienced a severe ___ last year.",
+      "options": ["drought", "rainfall", "harvest", "plantation"],
+      "answer": 0,
+      "explanation": "A drought is a long period without rain; those grasslands are called the prairies."
+    },
+    {
+      "type": "true_false",
+      "statement": "Deciduous trees are in leaf all year round, while coniferous trees lose their leaves in winter.",
+      "answer": false,
+      "explanation": "It is the other way round: coniferous trees are evergreen, and deciduous trees lose their leaves in winter."
+    },
+    {
+      "type": "true_false",
+      "statement": "A country prone to flooding tends to suffer from it regularly.",
+      "answer": true,
+      "explanation": "Correct - prone to means tending to have a particular negative characteristic."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about China in order.",
+      "words": ["The", "rice", "is", "planted", "in", "flooded", "paddy", "fields"],
+      "answer": "The rice is planted in flooded paddy fields",
+      "explanation": "Paddy fields are fields planted with rice growing in water."
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "number": 11,
+  "title": "Understanding the main ideas",
+  "subtitle": "Headings, multiple choice, True / False / Not Given",
+  "summary": "Separate a paragraph's main idea from its supporting details, and judge a statement as True, False or Not Given using only what the text says.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A heading summarises the whole paragraph",
+      "text": "In a matching-headings task, each heading states the **main idea** of a paragraph or section. Headings questions always appear **before** the passage on the question paper - read them first, because they tell you what the passage is about before you have read a line of it.",
+      "examples": [
+        {
+          "text": "All seven headings mention **urban planning**.",
+          "note": "That single common word is the overall topic of the passage."
+        },
+        {
+          "text": "*The future of urban planning **in America***"
+        },
+        {
+          "text": "***Conflicting ideas** through the **history** of urban planning*"
+        },
+        {
+          "text": "*Urban planning has **a long and varied history***"
+        },
+        {
+          "text": "***Financial problems** helped spread an urban planning **concept***"
+        }
+      ],
+      "note": "Underline what makes each heading different from the others - *future*, *conflicting*, *financial*, *political*. That difference is what you match on."
+    },
+    {
+      "type": "table",
+      "heading": "How to work through a headings task",
+      "columns": [
+        "Step",
+        "What you do"
+      ],
+      "rows": [
+        [
+          "1",
+          "Read the headings so that you are familiar with them"
+        ],
+        [
+          "2",
+          "Skim read the whole passage to get the overall meaning"
+        ],
+        [
+          "3",
+          "Read the first paragraph and decide which headings might fit"
+        ],
+        [
+          "4",
+          "Re-read the paragraph and choose the heading that best summarises it"
+        ],
+        [
+          "5",
+          "Repeat steps 3 and 4 for the remaining paragraphs"
+        ]
+      ],
+      "note": "Building a shortlist first is what stops you committing to a heading that fits one sentence but not the paragraph."
+    },
+    {
+      "type": "explain",
+      "heading": "Why a heading can be wrong",
+      "text": "A wrong heading is nearly always about something the passage really does mention. It fails because it does not describe the **main** point of that paragraph.",
+      "examples": [
+        {
+          "text": "*The future of urban planning in America*",
+          "note": "Several paragraphs refer to America, but none of them discusses the future."
+        },
+        {
+          "text": "*Conflicting ideas through the history of urban planning*",
+          "note": "The paragraphs are full of history, but none of them mentions conflicting ideas."
+        },
+        {
+          "text": "*Political change obstructs progress*",
+          "note": "Political places and people appear, but nothing says progress was stopped."
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Multiple choice needs more than one sentence",
+      "text": "A multiple-choice question about the main point cannot be answered from a single line. Each option usually matches a different sentence in the paragraph - your job is to decide which one the paragraph is actually *making*.",
+      "examples": [
+        {
+          "text": "**B** *The urban-planning concept itself is not restricted to modern times.*",
+          "note": "Correct - the paragraph runs from the 4th century BC to the 18th century."
+        },
+        {
+          "text": "**A** *Some urban designs are better in theory than in practice.*",
+          "note": "Wrong - the passage makes no comparison between theoretical and actual designs."
+        },
+        {
+          "text": "**C** *Urban planning should be carried out by professionals.*",
+          "note": "Wrong - professionals are mentioned, but no advice is given about who should plan."
+        },
+        {
+          "text": "**D** *Some planned ancient cities are more successful than modern ones.*",
+          "note": "Wrong - no comparison is made between ancient and modern planned cities."
+        }
+      ],
+      "note": "A, C and D all mention ideas that are in the passage. Being mentioned is not the same as being the point."
+    },
+    {
+      "type": "compare",
+      "heading": "False or Not Given?",
+      "left": {
+        "label": "False",
+        "text": "The text says something that **contradicts** the statement.",
+        "examples": [
+          "*Roofs that are dark in colour help address the issue.*",
+          "The text: officials advise **light-coloured** roofs - dark ones create the problem.",
+          "*The Supertrees require regular maintenance.* The text: they are **self-sufficient**."
+        ]
+      },
+      "right": {
+        "label": "Not Given",
+        "text": "The text simply **does not say**.",
+        "examples": [
+          "*Atlanta has experienced more dramatic weather change than other areas of the US.*",
+          "The weather there has been affected, but the text never compares Atlanta with other cities.",
+          "*The designers originally planned to plant very tall trees.* No alternative plan is mentioned."
+        ]
+      },
+      "note": "**True** means the statement agrees with the text. If you have to bring in your own knowledge to decide, the answer is Not Given."
+    },
+    {
+      "type": "explain",
+      "heading": "Read the statement exactly",
+      "text": "One small word in the statement decides the answer. A missing *only*, a hidden comparison or an absolute like *entirely* is usually where the question turns.",
+      "examples": [
+        {
+          "text": "*Luke Howard invented the term 'Urban Heat Island'.* - **False**",
+          "note": "He was the first to identify the phenomenon, but the text says it is only *now* that we use this term."
+        },
+        {
+          "text": "*City temperatures are higher than country temperatures regardless of the season.* - **True**",
+          "note": "The text says the phenomenon occurs in both winter and summer."
+        },
+        {
+          "text": "*Singapore's Supertrees are made entirely from natural materials.* - **False**",
+          "note": "*These metal constructions ...* - metal is not a natural material."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "You are tested on your ability to understand the information **in the passage**, so ignore anything you already know about the topic. A statement that is true in the world but absent from the text is Not Given."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Where do matching-headings questions appear on the question paper?",
+      "options": [
+        "After the passage",
+        "Before the passage",
+        "In the middle of the passage",
+        "On a separate sheet"
+      ],
+      "answer": 1,
+      "explanation": "They always come first, which makes them a free preview of what the passage is about."
+    },
+    {
+      "type": "categorize",
+      "prompt": "The text says officials in Atlanta are advising builders to use light-coloured roofs to reduce the problem. Judge each statement.",
+      "categories": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "items": [
+        {
+          "text": "Light-coloured roofs are being recommended in Atlanta.",
+          "category": 0
+        },
+        {
+          "text": "The advice is intended to reduce the problem.",
+          "category": 0
+        },
+        {
+          "text": "Roofs that are dark in colour help address the issue.",
+          "category": 1
+        },
+        {
+          "text": "Officials are advising builders to use dark roofs.",
+          "category": 1
+        },
+        {
+          "text": "Most builders in Atlanta have followed the advice.",
+          "category": 2
+        },
+        {
+          "text": "The advice was issued in 2006.",
+          "category": 2
+        }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If a statement is true in real life but the passage says nothing about it, the answer is True.",
+      "answer": false,
+      "explanation": "It is Not Given. You are tested only on the information in the passage, so ignore what you already know."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The text says the Supertrees *contain containers to collect rainwater, making them truly self-sufficient.* The statement is *The Supertrees require regular maintenance.* What is the answer?",
+      "options": [
+        "True",
+        "False",
+        "Not Given",
+        "Partly true"
+      ],
+      "answer": 1,
+      "explanation": "*Self-sufficient* contradicts *require regular maintenance*, so the statement is False rather than Not Given."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each wrong heading with the reason it does not fit.",
+      "pairs": [
+        {
+          "left": "The future of urban planning in America",
+          "right": "America appears, but the future never does"
+        },
+        {
+          "left": "Conflicting ideas through the history of urban planning",
+          "right": "there is history, but no conflicting ideas"
+        },
+        {
+          "left": "Political change obstructs progress",
+          "right": "politics appears, but nothing is stopped"
+        },
+        {
+          "left": "An urban plan to reduce traffic",
+          "right": "fits only the paragraph about Radburn"
+        }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "An option in a multiple-choice question can be wrong even though everything in it is mentioned in the passage.",
+      "answer": true,
+      "explanation": "Being mentioned is not the same as being the main point. Three of the four options usually echo a real sentence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A statement that the passage contradicts is marked ___; one the passage says nothing about is marked Not Given.",
+      "hint": "(one word)",
+      "answers": [
+        "False",
+        "false"
+      ],
+      "explanation": "False needs evidence against it. No evidence either way means Not Given."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build step 4 of the method for matching headings.",
+      "words": [
+        "Re-read",
+        "the",
+        "paragraph",
+        "and",
+        "choose",
+        "the",
+        "heading",
+        "that",
+        "best",
+        "summarises",
+        "it."
+      ],
+      "answer": "Re-read the paragraph and choose the heading that best summarises it.",
+      "explanation": "The shortlist comes from a first read; the decision comes from a second."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A paragraph traces planned cities from Miletus in the 4th century BC through the Renaissance to 18th-century Washington D.C. What is its main point?",
+      "options": [
+        "Some urban designs are better in theory than in practice",
+        "The urban-planning concept is not restricted to modern times",
+        "Urban planning should be carried out by professionals",
+        "Ancient planned cities are more successful than modern ones"
+      ],
+      "answer": 1,
+      "explanation": "Every example in the paragraph is there to make the same point: the idea is an old one."
+    },
+    {
+      "type": "true_false",
+      "statement": "*City temperatures are higher than country temperatures regardless of the season* agrees with a text that says the phenomenon occurs in both winter and summer.",
+      "answer": true,
+      "explanation": "*In both winter and summer* is the passage's way of saying *regardless of the season* - a paraphrase, not a contradiction."
+    }
+  ]
+}

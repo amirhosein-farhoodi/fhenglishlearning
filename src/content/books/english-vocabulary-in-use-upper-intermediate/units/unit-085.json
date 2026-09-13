@@ -1,0 +1,198 @@
+{
+  "number": 85,
+  "title": "Countable and uncountable nouns with different meanings",
+  "subtitle": "glass / a glass, art / the arts",
+  "summary": "Learn the nouns whose meaning changes completely depending on whether they are used countably or uncountably.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Stuff or things?",
+      "text": "When we use a **countable** noun we are thinking of specific things that can be counted. When we use an **uncountable** noun we are thinking of stuff, material, or the idea of a thing in general. Some nouns can do both - with a different meaning each time.",
+      "examples": [
+        { "text": "Be careful - there's broken **glass** on the road.", "note": "the material" },
+        { "text": "Could I have **a glass** of water, please?", "note": "the thing you drink from" },
+        { "text": "We had **fish** for dinner.", "note": "the food" },
+        { "text": "There's **a fish** in that tank with beautiful markings.", "note": "the animal" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Same word, two meanings (1)",
+      "columns": ["Uncountable", "Countable"],
+      "rows": [
+        ["She has beautiful red **hair**. (all of it)", "There's **a hair** in my soup! (a single one)"],
+        ["The printer has run out of **paper**. (the material)", "Did you buy **a paper** this morning? (a newspaper)"],
+        ["Ships made of **iron** would sink. (the metal)", "Can I borrow your **iron**? My shirt is creased. (the instrument)"],
+        ["I love meeting **people** from different countries. (individuals)", "They campaign to help indigenous **peoples**. (ethnic groups)"],
+        ["This shirt is made of fine **cloth**. (the material)", "I need **a cloth** to wipe the table. (a piece for wiping)"],
+        ["Most people don't keep **wood** at home. (the material)", "They walked through **a wood**. (a small forest)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Same word, two meanings (2)",
+      "columns": ["Uncountable", "Countable"],
+      "rows": [
+        ["She has little **work experience**. (knowledge or skill from doing something)", "I had some interesting **experiences** on my trip. (things that happened to me)"],
+        ["Have you been to the modern **art** museum? (painting, drawing, sculpture)", "The city has a yearly **arts** festival. (music, theatre, etc.)"],
+        ["They've done a lot of **work** on the project. (effort, labour)", "Hamlet is one of Shakespeare's most famous **works**. (a play, book or painting)"],
+        ["**Time** passes very slowly if you have a boring job. (clock time)", "I've seen that film three **times**. (occasions)"],
+        ["There was a lot of **damage** to the car. (things broken or destroyed)", "She won $500,000 in **damages**. (money awarded by a court)"],
+        ["PLANT AND HEAVY MACHINERY CROSSING (industrial equipment)", "I've bought you a house **plant**. (a botanical item)"]
+      ],
+      "note": "Arts also names a group of university subjects such as languages or history: *he studied arts, not sciences*. And we say *we had some good times at university*, meaning experiences rather than occasions."
+    },
+    {
+      "type": "explain",
+      "heading": "Food and drink",
+      "text": "The names of food items very often change meaning depending on whether they are countable or uncountable. The uncountable form is usually the substance; the countable form is one serving or one whole item.",
+      "examples": [
+        { "text": "Would you like some **chocolate**?", "note": "the substance" },
+        { "text": "Would you like **a chocolate**?", "note": "one sweet from a box" },
+        { "text": "We ordered **a coffee and two teas**.", "note": "three cups" },
+        { "text": "Just two **potatoes**, please!", "note": "two whole vegetables" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "pepper and a pepper",
+      "left": {
+        "label": "pepper (uncountable)",
+        "text": "The grey or black spice you put on your food.",
+        "examples": [
+          "Could you pass the salt and **pepper**?",
+          "She put too much **pepper** in the soup."
+        ]
+      },
+      "right": {
+        "label": "a pepper (countable)",
+        "text": "The red, green or yellow vegetable.",
+        "examples": [
+          "I bought **a red pepper** and two onions.",
+          "Slice the **peppers** and fry them in oil."
+        ]
+      },
+      "note": "The same contrast works with onion: *a hot dog with onion* (chopped up) and *an onion* (one whole one)."
+    },
+    {
+      "type": "explain",
+      "heading": "some or a(n)?",
+      "text": "Choose **some** when you want a quantity of the material and **a/an** when you want one complete item. Getting this wrong can make a request sound very strange.",
+      "examples": [
+        { "text": "Could I have **some cake**, please?", "note": "a portion cut from the cake" },
+        { "text": "Could I borrow **an iron**, please?", "note": "the instrument for clothes" },
+        { "text": "Could I borrow **some paper**, please?", "note": "sheets to write on" },
+        { "text": "Could I have **a glass**, please?", "note": "something to drink from" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When a dictionary marks a word both [C] and [U], read both definitions - they are often two quite different words."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Is the key noun in each sentence used countably or uncountably?",
+      "categories": ["Countable (one thing)", "Uncountable (stuff or idea)"],
+      "items": [
+        { "text": "Can I borrow your iron? My shirt is creased.", "category": 0 },
+        { "text": "Did you buy a paper this morning?", "category": 0 },
+        { "text": "There's a hair in my soup!", "category": 0 },
+        { "text": "Hamlet is one of Shakespeare's most famous works.", "category": 0 },
+        { "text": "There's broken glass on the road.", "category": 1 },
+        { "text": "The printer has run out of paper.", "category": 1 },
+        { "text": "She has beautiful red hair.", "category": 1 },
+        { "text": "She has little work experience.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with the meaning it has when it is countable.",
+      "pairs": [
+        { "left": "a paper", "right": "a newspaper" },
+        { "left": "an iron", "right": "an instrument for pressing clothes" },
+        { "left": "a wood", "right": "a small forest" },
+        { "left": "a pepper", "right": "a red or green vegetable" },
+        { "left": "a chocolate", "right": "one sweet from a box" },
+        { "left": "a work", "right": "a painting, a play or a piece of music" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want something to drink out of. What do you say?",
+      "options": ["Could I have a glass, please?", "Could I have some glass, please?", "Could I have glass, please?", "Could I have the glasses, please?"],
+      "answer": 0,
+      "explanation": "A glass is the container; glass is the material."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to press your shirt. What do you say?",
+      "options": ["Could I borrow an iron, please?", "Could I borrow some iron, please?", "Could I borrow iron, please?", "Could I borrow irons, please?"],
+      "answer": 0,
+      "explanation": "An iron is the instrument; iron with no article is the metal."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want the spice for your soup. What do you say?",
+      "options": ["Could I have some pepper, please?", "Could I have a pepper, please?", "Could I have the peppers, please?", "Could I have two peppers, please?"],
+      "answer": 0,
+      "explanation": "Pepper is uncountable as a spice; a pepper is the vegetable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "How did you get that puncture in your car tyre? - I drove over some ___.",
+      "hint": "(the material, not the drinking vessel)",
+      "answers": ["broken glass", "glass"],
+      "explanation": "Glass as a material is uncountable, so it takes some and no plural."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Daddy, what are car tyres made of? - They're made of ___.",
+      "hint": "(the material)",
+      "answers": ["rubber"],
+      "explanation": "As a material rubber is uncountable. A rubber is what you erase pencil with."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Have you worked in a primary school before? - No, I don't have any ___ of working in a primary school.",
+      "hint": "(knowledge or skill)",
+      "answers": ["experience"],
+      "explanation": "Experience meaning skill or knowledge is uncountable; experiences are things that happened to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I wonder who won the general election in Sweden? - We could buy ___ and find out.",
+      "hint": "(paper, countable)",
+      "answers": ["a paper"],
+      "explanation": "A paper is a newspaper; paper is the material you print on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mum, what's the Mona Lisa? - It's ___ of art by a famous Italian artist.",
+      "hint": "(work, countable)",
+      "answers": ["a work"],
+      "explanation": "A work is one individual painting, book or piece of music."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the road sign PLANT AND HEAVY MACHINERY CROSSING, *plant* means large industrial equipment.",
+      "answer": true,
+      "explanation": "Correct - uncountable plant is machinery; a plant is the botanical kind."
+    },
+    {
+      "type": "true_false",
+      "statement": "In 'She won $500,000 in damages', *damages* means that several things were broken.",
+      "answer": false,
+      "explanation": "Damages means money awarded by a court for harm caused. Damage (uncountable) is the harm itself."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the answer in order.",
+      "words": ["I", "had", "some", "interesting", "experiences", "during", "my", "trip", "to", "Latin", "America."],
+      "answer": "I had some interesting experiences during my trip to Latin America.",
+      "explanation": "Countable experiences = things that happened to you."
+    }
+  ]
+}

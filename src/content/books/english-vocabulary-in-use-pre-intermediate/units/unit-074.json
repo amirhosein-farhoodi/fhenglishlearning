@@ -1,0 +1,177 @@
+{
+  "number": 74,
+  "title": "Word partners",
+  "subtitle": "make a mistake, heavy traffic, fast asleep",
+  "summary": "Learn which words naturally go together in English - make a mistake, lose weight, a wide choice, terribly sorry.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are word partners?",
+      "text": "To use a word naturally you often need to know the other words that go with it. These pairs are called **word partners** or **collocations**, and they are often different from language to language.",
+      "examples": [
+        { "text": "I **spent time** in Paris.", "wrong": "I passed time in Paris" },
+        { "text": "I **missed the bus**.", "wrong": "I lost the bus" },
+        { "text": "We **have children**.", "wrong": "We get children" },
+        { "text": "I **made a mistake**.", "wrong": "I did a mistake" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A few more to learn together",
+      "text": "Some partners look easy but are easy to get wrong. Notice the adjective **serious** with an injury or an illness, and the preposition **on** after depend.",
+      "examples": [
+        { "text": "It was a **serious injury**.", "note": "also a serious illness" },
+        { "text": "It's quite **likely** that we'll stay here.", "note": "= we'll probably stay here" },
+        { "text": "It **depends on** my parents.", "wrong": "It depends of my parents" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs and nouns",
+      "text": "Many verbs and nouns are regularly used together. Learn the verb and the noun as one item.",
+      "examples": [
+        { "text": "Pavel **told me a joke** but I can't remember it.", "note": "told me a funny story" },
+        { "text": "I need to **lose weight**.", "note": "become less heavy; the opposite is put on weight" },
+        { "text": "The doctor told my father he should **go on a diet**.", "note": "eat less in order to lose weight" },
+        { "text": "It's very difficult to **predict the future**.", "note": "say what will happen" },
+        { "text": "We won the game 2-1, and my brother **scored** the first **goal**." },
+        { "text": "My neighbour's alarm **went off** in the middle of the night. They **fell in love** and got married, and now Emily is **expecting a baby**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives and nouns",
+      "columns": ["Word partner", "Opposite partner"],
+      "rows": [
+        ["a large number of students/tourists", "a limited/small number"],
+        ["a large amount of money", "a small amount"],
+        ["a wide choice of food", "a limited/narrow choice"],
+        ["a wide vocabulary in English", "a limited vocabulary"],
+        ["a loud noise", "-"],
+        ["of great importance to her", "-"],
+        ["great fun", "-"],
+        ["heavy traffic on the motorway", "light traffic"]
+      ],
+      "note": "All of these mean 'big' or 'a lot', but English usually chooses one particular adjective. Great fun means very enjoyable."
+    },
+    {
+      "type": "explain",
+      "heading": "Adverbs and adjectives",
+      "text": "Certain adverbs go with certain adjectives. In the first three sentences the adverb means *very*; in the last one the adverbs mean *fully* or *completely*.",
+      "examples": [
+        { "text": "I'm **terribly sorry** I'm late." },
+        { "text": "She's **well aware** of the problem.", "note": "She knows all about the problem." },
+        { "text": "It's **vitally important** that we get the right person for the job." },
+        { "text": "Ava is **fast asleep**, but the other two are still **wide awake**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you write a new word in your notebook, write a whole phrase with it - heavy traffic, not just traffic."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "statement": "Why does she do so many mistakes?",
+      "answer": false,
+      "explanation": "Why does she make so many mistakes? We make a mistake, we don't do a mistake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'm sorry I'm late; I ___ the bus.",
+      "hint": "(miss)",
+      "answers": ["missed"],
+      "explanation": "We miss a bus or a train, not lose it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ three days in Amsterdam.",
+      "hint": "(spend)",
+      "answers": ["spent"],
+      "explanation": "We spend time, not pass time, in a place."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't know if I can come - it depends ___ the weather.",
+      "options": ["on", "of", "from", "to"],
+      "answer": 0,
+      "explanation": "The verb depend is always followed by on."
+    },
+    {
+      "type": "true_false",
+      "statement": "My sister got a baby last month.",
+      "answer": false,
+      "explanation": "My sister had a baby last month. We have a baby, and before that we are expecting a baby."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these are natural English word partners?",
+      "categories": ["Correct English", "Not correct English"],
+      "items": [
+        { "text": "I made a mistake.", "category": 0 },
+        { "text": "I did a mistake.", "category": 1 },
+        { "text": "I missed the bus.", "category": 0 },
+        { "text": "I lost the bus.", "category": 1 },
+        { "text": "We have children.", "category": 0 },
+        { "text": "We get children.", "category": 1 },
+        { "text": "I spent time in Paris.", "category": 0 },
+        { "text": "I passed time in Paris.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each noun with the adjective that normally goes with it.",
+      "pairs": [
+        { "left": "traffic on the motorway", "right": "heavy" },
+        { "left": "amount of money", "right": "large" },
+        { "left": "choice of food", "right": "wide" },
+        { "left": "noise from a toy gun", "right": "loud" },
+        { "left": "importance to her family", "right": "great" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The doctor says I need to ___ weight, so I'm going on a diet.",
+      "hint": "(become less heavy)",
+      "answers": ["lose"],
+      "explanation": "We lose weight; the opposite is put on weight."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nobody knows what will happen. It's very difficult to ___ the future.",
+      "hint": "(say what will happen)",
+      "answers": ["predict"],
+      "explanation": "The verb that goes with the future here is predict."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's ___ important that we get the right person for the job.",
+      "hint": "(= very)",
+      "answers": ["vitally"],
+      "explanation": "Vitally important is a very common adverb + adjective partnership."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I went into her bedroom, she was ___ asleep.",
+      "hint": "(= completely)",
+      "answers": ["fast"],
+      "explanation": "We say fast asleep, but wide awake."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My neighbour's burglar alarm ___ at 2 o'clock this morning and woke me up.",
+      "hint": "(go off)",
+      "answers": ["went off"],
+      "explanation": "An alarm goes off when it starts making a noise."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to apologise for being late.",
+      "words": ["I'm", "terribly", "sorry", "I'm", "late."],
+      "answer": "I'm terribly sorry I'm late.",
+      "explanation": "Terribly sorry is a fixed adverb + adjective pair meaning very sorry."
+    }
+  ]
+}

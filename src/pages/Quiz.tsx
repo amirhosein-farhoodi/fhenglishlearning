@@ -3,6 +3,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import { AnimatePresence, motion } from 'framer-motion'
 import confetti from 'canvas-confetti'
 import ExerciseView from '../components/exercises/ExerciseView'
+import MediaPanel from '../components/MediaPanel'
 import { explanationOf, solutionLines } from '../components/exercises/solution'
 import Stars from '../components/Stars'
 import { getBook, loadUnit, nextAvailableUnit } from '../content/registry'
@@ -10,7 +11,7 @@ import type { Unit } from '../content/types'
 import { renderInline } from '../lib/markup'
 import { recordQuiz, XP_PER_CORRECT, type QuizOutcome } from '../lib/storage'
 import { sfx } from '../lib/sfx'
-import { ArrowRight } from '../components/Icons'
+import { ArrowRight, Headphones } from '../components/Icons'
 
 type Phase = 'loading' | 'quiz' | 'result'
 
@@ -27,6 +28,7 @@ export default function Quiz() {
   const [answered, setAnswered] = useState<boolean | null>(null)
   const [outcome, setOutcome] = useState<QuizOutcome | null>(null)
   const [run, setRun] = useState(0) // increments on "try again" so components remount
+  const [mediaOpen, setMediaOpen] = useState(false)
   const seed = useMemo(() => Math.floor(Math.random() * 1e9), [run, n])
 
   useEffect(() => {
@@ -252,6 +254,23 @@ export default function Quiz() {
         <p className="eyebrow" style={{ marginTop: 14 }}>
           Unit {unit.number} · {unit.title}
         </p>
+
+        {/* Listening questions need the recording within reach, but an open player
+            would compete with the question - so it starts collapsed. */}
+        {unit.media && unit.media.length > 0 && (
+          <div className="quiz-media">
+            <button
+              type="button"
+              className={`quiz-media-toggle${mediaOpen ? ' on' : ''}`}
+              onClick={() => setMediaOpen((o) => !o)}
+              aria-expanded={mediaOpen}
+            >
+              <Headphones size={16} />
+              {mediaOpen ? 'Hide the recording' : 'Play the recording'}
+            </button>
+            {mediaOpen && <MediaPanel media={unit.media} compact />}
+          </div>
+        )}
 
         <AnimatePresence mode="wait">
           <motion.div

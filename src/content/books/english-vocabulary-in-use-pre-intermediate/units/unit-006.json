@@ -1,0 +1,194 @@
+{
+  "number": 6,
+  "title": "The physical world",
+  "subtitle": "surface, climate, landscape, consists of, the north-east",
+  "summary": "Describe the land, the weather and the size of a place, and say which part of a country somewhere is in.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Facts about the Earth",
+      "text": "The **Earth** is the planet we live on. The **surface** is its top or outside part. Two thirds of the surface of the Earth is **covered in** water.",
+      "examples": [
+        { "text": "Two thirds of the **surface** of the **Earth** is **covered in** water." },
+        { "text": "The **Pacific** is the largest **ocean** in the world.", "note": "It is nearly twice the size of the Atlantic Ocean." },
+        { "text": "It takes the moon just under 28 days to go round the **Earth**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Record places",
+      "columns": ["Place", "Record"],
+      "rows": [
+        ["El Azizia, Libya", "the hottest place in the world - over 57 degrees Celsius"],
+        ["Vostok, Antarctica", "the coldest place on Earth - minus 89 degrees Celsius"],
+        ["the Krubera-Voronja Cave, Georgia", "the deepest cave in the world - over 2,000 metres deep"],
+        ["the Beijing-Hangzhou Grand Canal", "the longest canal in the world - 1,794 kilometres long"],
+        ["the Angel Falls, Venezuela", "the highest waterfall in the world - 979 metres high"],
+        ["the Amazon Rainforest", "the largest rainforest in the world - it covers 40% of South America"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three uses of cover",
+      "text": "**Cover** can mean that something is over something else. It can also talk about the size of an area, or about the **distance** you travel.",
+      "examples": [
+        { "text": "The ground was **covered with** snow." },
+        { "text": "The Amazon rainforest **covers** 40% of South America." },
+        { "text": "We **covered** ten miles in one day." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Geography words",
+      "text": "A **region** is an area in a country or the world. A **landscape** is the appearance of an area of land. The **climate** is the weather conditions of a place. If something **consists of** three parts, it is made or formed from them.",
+      "examples": [
+        { "text": "Switzerland **consists of** three main geographical **regions**." },
+        { "text": "Mountains and lakes are typical of the **landscape** in Switzerland." },
+        { "text": "The **climate** can change within a very short **distance**." },
+        { "text": "Switzerland is a land of **contrasts**.", "note": "contrasts = big differences" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Two climates, 70 kilometres apart",
+      "left": {
+        "label": "Ascona, in the south",
+        "text": "It has an almost Mediterranean **climate**.",
+        "examples": [
+          "The **temperature** is usually warm and pleasant.",
+          "It is sunny for much of the year."
+        ]
+      },
+      "right": {
+        "label": "the Dufour Peak, in Valais",
+        "text": "It has a very cold **climate**.",
+        "examples": [
+          "The **temperature** is well below zero at night.",
+          "The **distance** between the two places is just 70 kilometres."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Parts of a country: Switzerland",
+      "columns": ["Place", "Where it is"],
+      "rows": [
+        ["Zurich", "in the north"],
+        ["Basel", "in the north-west"],
+        ["St Gallen", "in the north-east"],
+        ["Lake Constance", "in the north-east"],
+        ["Geneva", "in the south-west"],
+        ["Locarno", "in the south"]
+      ],
+      "note": "The eight directions are north, north-east, east, south-east, south, south-west, west and north-west."
+    },
+    {
+      "type": "tip",
+      "text": "We say minus 10 degrees Celsius for a temperature below zero, and we write it as -10 degrees C."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Two thirds of the ___ of the Earth is covered in water.",
+      "hint": "(the top or outside part)",
+      "answers": ["surface"],
+      "explanation": "The surface is the top or outside part of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ we live on is called the Earth.",
+      "hint": "(one word)",
+      "answers": ["planet"],
+      "explanation": "The Earth is the planet we live on."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The largest ocean in the world is the ___.",
+      "options": ["Pacific", "Atlantic", "Caribbean", "Amazon"],
+      "answer": 0,
+      "explanation": "The Pacific is nearly twice the size of the Atlantic Ocean."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each place with what it is famous for.",
+      "pairs": [
+        { "left": "the Krubera-Voronja", "right": "the deepest cave in the world" },
+        { "left": "the Beijing-Hangzhou Grand", "right": "the longest canal in the world" },
+        { "left": "the Angel Falls", "right": "the highest waterfall in the world" },
+        { "left": "the Amazon", "right": "the largest rainforest in the world" },
+        { "left": "El Azizia", "right": "the hottest place in the world" },
+        { "left": "Vostok", "right": "the coldest place on Earth" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the autumn, the ground is ___ in leaves that have fallen off the trees.",
+      "hint": "(cover)",
+      "answers": ["covered"],
+      "explanation": "Be covered in / with something = have it all over you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You find this animal in the semi-desert ___ of Australia.",
+      "hint": "(areas of a country)",
+      "answers": ["regions"],
+      "explanation": "A region is an area in a country or the world."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brazil is a country of ___: large empty areas inland, and cities near the coast.",
+      "hint": "(big differences)",
+      "answers": ["contrasts"],
+      "explanation": "A contrast is a big difference between two things."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mountains and lakes are typical of the ___ in Switzerland.",
+      "hint": "(the appearance of an area of land)",
+      "answers": ["landscape"],
+      "explanation": "The landscape is what an area of land looks like."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "People say Cape Town has a wonderful ___: sunny for much of the year, and never too hot or very cold.",
+      "hint": "(the usual weather conditions)",
+      "answers": ["climate"],
+      "explanation": "The climate is the normal weather conditions of a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Switzerland ___ of three main geographical regions.",
+      "hint": "(consist)",
+      "answers": ["consists"],
+      "explanation": "Consist of = be made or formed from."
+    },
+    {
+      "type": "mcq",
+      "prompt": "It was a freezing night. Complete: 'The ___ was well below zero.'",
+      "options": ["temperature", "climate", "landscape", "distance"],
+      "answer": 0,
+      "explanation": "Temperature is how hot or cold it is at one moment; climate is the usual weather."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe a very cold day.",
+      "words": ["The", "temperature", "fell", "to", "minus", "10", "degrees", "Celsius."],
+      "answer": "The temperature fell to minus 10 degrees Celsius.",
+      "explanation": "Below zero we say minus + number + degrees Celsius."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which part of Switzerland is each place in?",
+      "categories": ["In the north or north-east", "In the south or south-west"],
+      "items": [
+        { "text": "Zurich", "category": 0 },
+        { "text": "St Gallen", "category": 0 },
+        { "text": "Lake Constance", "category": 0 },
+        { "text": "Geneva", "category": 1 },
+        { "text": "Locarno", "category": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "number": 98,
+  "title": "Formal letters and emails",
+  "subtitle": "Dear Sir or Madam, I am writing in response to, Yours faithfully",
+  "summary": "Use the fixed phrases that open, fill and close a formal letter or email in English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A model formal letter",
+      "text": "Here is a short letter answering a job advertisement. Every sentence in it is a phrase you can reuse.",
+      "examples": [
+        { "text": "**Dear Sir or Madam**" },
+        { "text": "**I am writing in response to** your advertisement about job opportunities for **graduates**.", "note": "in response to = in reply to; graduates = people with a university degree" },
+        { "text": "**I would be grateful if you could** send me **further details** of the training schemes.", "note": "slightly more formal than Please could you ...; further details = more information" },
+        { "text": "I am **available** for interview at any time.", "note": "available = free" },
+        { "text": "**I look forward to hearing from you.**" },
+        { "text": "**Yours faithfully**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How to begin and end",
+      "columns": ["Situation", "Beginning", "Ending"],
+      "rows": [
+        ["You do not know the name", "Dear Sir or Madam", "Yours faithfully"],
+        ["You know the name", "Dear Mr Wilkinson / Dear Ms Drew", "Yours sincerely or Kind regards"]
+      ],
+      "note": "At the end of a formal letter you **sign** your name (your **signature**) and then print it underneath."
+    },
+    {
+      "type": "explain",
+      "heading": "Good news and bad news",
+      "text": "**I regret to inform you** is the formal way to say *I am sorry to say*; **I am pleased to inform you** is the formal way to say *I am happy to say*. An **application** is an official request for something.",
+      "examples": [
+        { "text": "**I regret to inform you** that your **application** has not been successful." },
+        { "text": "**I am pleased to inform you** that your application has been successful." },
+        { "text": "Thank you for your letter **regarding** the damage to your vehicle.", "note": "regarding = about" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking and confirming",
+      "text": "Use **enquire about** to ask about something, and **confirm in writing** to say in a letter that something is certain.",
+      "examples": [
+        { "text": "I am writing to **enquire about** English courses at your school.", "note": "enquire about = ask about" },
+        { "text": "You will need to **confirm** the booking **in writing**." },
+        { "text": "Are you **available** on Wednesday?", "note": "= are you free?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Thanking, apologising and enclosing",
+      "text": "To say sorry, use **apologise for** or **Please accept our apologies for**. A **delay** is when something arrives later than expected. If you put something in the same envelope, you **enclose** it.",
+      "examples": [
+        { "text": "We would like to thank you for offering your **support**.", "note": "support = help" },
+        { "text": "We would like to **apologise for** the delay." },
+        { "text": "**Please accept our apologies for** the delay." },
+        { "text": "I **enclose** a cheque for 100 pounds.", "note": "= I am sending it with this letter" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Informal into formal",
+      "columns": ["Everyday", "Formal letter"],
+      "rows": [
+        ["Thanks for the letter about ...", "Thank you for your letter regarding ..."],
+        ["I'm sorry to tell you ...", "I regret to inform you ..."],
+        ["I'm happy to tell you ...", "I am pleased to inform you ..."],
+        ["Are you free on Wednesday?", "Are you available on Wednesday?"],
+        ["I want to ask about ...", "I would like to enquire about ..."],
+        ["Please send me the details.", "I would be grateful if you could send me the details."],
+        ["I'm sending a copy of my CV.", "I enclose a copy of my CV."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Yours faithfully goes with Dear Sir or Madam; Yours sincerely goes with a name. Remember: no name - faithfully; name - sincerely."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You do not know the person's name, so you start: '___,'",
+      "hint": "(four words)",
+      "answers": ["Dear Sir or Madam"],
+      "explanation": "Dear Sir or Madam is used when you do not know the name."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want more information, so you ask for further ___.",
+      "hint": "(one word, plural)",
+      "answers": ["details", "information"],
+      "explanation": "Further details = more information about something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You expect a reply, so you close: 'I look forward ___.'",
+      "hint": "(four words)",
+      "answers": ["to hearing from you"],
+      "explanation": "Look forward to + -ing: I look forward to hearing from you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You do not know the person's name, so you end: 'Yours ___,'",
+      "hint": "(one word)",
+      "answers": ["faithfully"],
+      "explanation": "Dear Sir or Madam goes with Yours faithfully."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You know the person's name, so you end: 'Yours ___,'",
+      "hint": "(one word)",
+      "answers": ["sincerely"],
+      "explanation": "When you know the name, end with Yours sincerely."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Another way of ending a letter is 'Kind ___,'",
+      "hint": "(one word)",
+      "answers": ["regards"],
+      "explanation": "Kind regards is a slightly less formal ending."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the everyday sentence with its formal version.",
+      "pairs": [
+        { "left": "I'm sorry to tell you ...", "right": "I regret to inform you ..." },
+        { "left": "I'm happy to tell you ...", "right": "I am pleased to inform you ..." },
+        { "left": "Are you free on Wednesday?", "right": "Are you available on Wednesday?" },
+        { "left": "I want to ask about the course.", "right": "I would like to enquire about the course." },
+        { "left": "I'm sending a copy of my CV.", "right": "I enclose a copy of my CV." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it formal: 'We want to say sorry for the delay.' -> 'Please accept ___ for the delay.'",
+      "hint": "(three words)",
+      "answers": ["our apologies"],
+      "explanation": "Please accept our apologies for ... is the formal way to say sorry."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it formal: 'Please send me the details.' -> 'I would be ___ send me the details.'",
+      "hint": "(grateful if ...)",
+      "answers": ["grateful if you could"],
+      "explanation": "I would be grateful if you could ... is a polite formal request."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Make it formal: 'Could you say that's definite in a letter?' -> 'Could you ___ that in writing?'",
+      "hint": "(one word)",
+      "answers": ["confirm"],
+      "explanation": "Confirm something in writing = write to say it is certain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Letter: 'I am writing in ___ to your letter of 10 February.'",
+      "hint": "(one word)",
+      "answers": ["response", "reply"],
+      "explanation": "In response to / in reply to your letter."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Letter: 'We ___ to inform you that there are delays of up to four weeks on most orders.'",
+      "hint": "(one word, bad news)",
+      "answers": ["regret"],
+      "explanation": "We regret to inform you introduces bad news."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which ending matches 'Dear Sir or Madam'?",
+      "options": ["Yours faithfully", "Yours sincerely", "Cheers", "Best mate"],
+      "answer": 0,
+      "explanation": "No name at the top means Yours faithfully at the bottom."
+    },
+    {
+      "type": "true_false",
+      "statement": "I look forward to hear from you.",
+      "answer": false,
+      "explanation": "I look forward to hearing from you. Look forward to is followed by the -ing form."
+    }
+  ]
+}

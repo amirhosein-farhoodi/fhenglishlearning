@@ -1,0 +1,169 @@
+{
+  "number": 16,
+  "title": "General Training Reading",
+  "subtitle": "Three sections, everyday and work texts",
+  "summary": "Know what each General Training section contains, scan short factual texts quickly, and handle the work vocabulary Section 2 is built on.",
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The three sections",
+      "columns": ["Section", "Theme", "Texts", "Examples"],
+      "rows": [
+        ["1", "Social survival", "up to five short factual texts", "train timetable, shop advertisements, travel brochures"],
+        ["2", "Workplace survival", "two work-related texts, descriptive and informational", "staff-training manual, job description, job application procedures"],
+        ["3", "General reading", "one longer text, descriptive and instructive rather than argumentative", "magazine article about modern travel, an extract from a novel"]
+      ],
+      "note": "The sections get harder as you go, so Section 1 is the easiest and Section 3 the most difficult."
+    },
+    {
+      "type": "explain",
+      "heading": "Spend your hour unevenly",
+      "text": "You have **60 minutes for 40 questions**, and you must transfer your answers within that time. Section 1 is the cheapest to answer, so finish it fast and bank the minutes for the harder sections.",
+      "examples": [
+        { "text": "Section 1 - no more than **15-20 minutes**" },
+        { "text": "Aim for **less than 20 minutes** per section so you have time to check at the end." }
+      ],
+      "note": "The same skills as the Academic paper - skimming, scanning, spotting paraphrase - are what make this possible."
+    },
+    {
+      "type": "explain",
+      "heading": "Recognise a text from one line of it",
+      "text": "Short factual texts announce themselves. A single extract usually tells you what kind of document you are in, which tells you what sort of questions to expect.",
+      "examples": [
+        { "text": "*The chosen applicant will have proven skills in problem solving ...*", "note": "a job description" },
+        { "text": "*Passengers travelling into the city should change trains at Bardon.*", "note": "a train timetable" },
+        { "text": "*Sick leave: any member of staff who is ill should immediately contact their department supervisor.*", "note": "a staff-training manual" },
+        { "text": "*Your application form will be processed by the Human Resources team ...*", "note": "job application procedures" },
+        { "text": "*When we finally arrived at the hotel we were too exhausted to notice just how run-down it was.*", "note": "an extract from a novel" },
+        { "text": "*Opening Times: Weekdays 9:00-17:00 ...*", "note": "a shop advertisement" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Paraphrase works the same way here",
+      "left": {
+        "label": "In the text",
+        "examples": ["fireworks display", "international", "digital photography", "creatures", "workshop"]
+      },
+      "right": {
+        "label": "In the question",
+        "examples": ["evening entertainment", "from around the world", "use a camera", "animals", "learn how"]
+      },
+      "note": "Answers are almost never word-for-word. Where the text says *come and find out about our fascinating sea creatures*, the question asks about *animals*."
+    },
+    {
+      "type": "explain",
+      "heading": "The vocabulary of work",
+      "text": "Section 2 is built on workplace language, so the words below repay learning directly. Many questions turn on knowing one of them.",
+      "examples": [
+        { "text": "**hospitality** - the industry related to hotels and restaurants" },
+        { "text": "**retail** - the industry related to shops" },
+        { "text": "**redundancy** - the loss of a job due to a business closing" },
+        { "text": "**retire** - to stop working, usually because of age" },
+        { "text": "**consumer** - a person who uses goods; **customer** - a person who buys goods" },
+        { "text": "**manual** - the type of work done with your hands" },
+        { "text": "**shift** - a person's scheduled period of work" },
+        { "text": "**employee** - a staff member; **employer** - the person who provides you with work" },
+        { "text": "**deadline** - the time by which work must be completed" },
+        { "text": "**recruit** - to hire or employ a person for a job" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Several short texts at once",
+      "text": "Section 1 often gives you a handful of related texts - five college open-day advertisements, say - and asks which one contains a particular detail. Work from the question, scan all the texts for the detail, and do not read any one of them in full.",
+      "examples": [
+        { "text": "*Which college offers a free flying lesson?*", "note": "Scan for *free*, *flying*, *simulator*." },
+        { "text": "*Which event runs into the evening?*", "note": "Scan for times - *10:00 till 21:00* - and for *fireworks*." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Strategies alone will not get you the band you want. Keep building vocabulary and grammar alongside them - most lost marks in this paper are lost to a word the candidate did not know."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each General Training section with its theme.",
+      "pairs": [
+        { "left": "Section 1", "right": "Social survival - up to five short factual texts" },
+        { "left": "Section 2", "right": "Workplace survival - two work-related texts" },
+        { "left": "Section 3", "right": "General reading - one longer descriptive text" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each work word with its meaning.",
+      "pairs": [
+        { "left": "hospitality", "right": "the hotel and restaurant industry" },
+        { "left": "redundancy", "right": "losing a job because the business closes" },
+        { "left": "shift", "right": "a scheduled period of work" },
+        { "left": "recruit", "right": "to hire someone for a job" },
+        { "left": "deadline", "right": "the time by which work must be finished" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Sick leave: any member of staff who is ill and unable to come to work should immediately contact their department supervisor.* Which kind of text is this?",
+      "options": ["a train timetable", "a staff-training manual", "an extract from a novel", "travel brochures"],
+      "answer": 1,
+      "explanation": "A rule addressed to staff about how to behave at work belongs in Section 2 - workplace survival."
+    },
+    {
+      "type": "true_false",
+      "statement": "In General Training Reading you get extra time to transfer your answers onto the answer sheet.",
+      "answer": false,
+      "explanation": "The 60 minutes includes transferring. Aim for under 20 minutes per section so the transfer is not rushed."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these words by who they describe.",
+      "categories": ["The person who uses or buys", "The person who works or hires"],
+      "items": [
+        { "text": "consumer", "category": 0 },
+        { "text": "customer", "category": 0 },
+        { "text": "employee", "category": 1 },
+        { "text": "employer", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the words in the text with the paraphrase used in the question.",
+      "pairs": [
+        { "left": "fireworks display", "right": "evening entertainment" },
+        { "left": "international", "right": "from around the world" },
+        { "left": "digital photography", "right": "use a camera" },
+        { "left": "sea creatures", "right": "animals" },
+        { "left": "workshop", "right": "learn how" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A worker who stops working because of age is said to ___.",
+      "hint": "(a verb)",
+      "answers": ["retire"],
+      "explanation": "Compare *redundancy*, which is losing a job because the business closes - the cause is what separates them."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How long should you spend on Section 1?",
+      "options": ["The full 20 minutes", "No more than 15-20 minutes", "At least 25 minutes", "As long as it takes"],
+      "answer": 1,
+      "explanation": "It is the easiest section, so every minute saved there is a minute available for Sections 2 and 3."
+    },
+    {
+      "type": "true_false",
+      "statement": "The Section 3 text in General Training is usually argumentative, like the Academic Section 3 passage.",
+      "answer": false,
+      "explanation": "It is one longer text that is descriptive and instructive rather than argumentative - a magazine article or a novel extract."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence that describes what a shift is.",
+      "words": ["A", "shift", "is", "a", "person's", "scheduled", "period", "of", "work."],
+      "answer": "A shift is a person's scheduled period of work.",
+      "explanation": "Work vocabulary like this is tested directly in Section 2 - it is worth memorising the list."
+    }
+  ]
+}

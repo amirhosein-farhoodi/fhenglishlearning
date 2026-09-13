@@ -1,0 +1,196 @@
+{
+  "number": 69,
+  "title": "Greetings, farewells and special expressions",
+  "subtitle": "How's it going?, Take care, Bless you",
+  "summary": "Say hello and goodbye in formal and informal situations, and use the right expression for special moments.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Greetings: saying hello",
+      "text": "When we are **introduced** to a stranger - told the name of someone we have never met - in a formal situation, we usually **shake hands** and say **hello**, or perhaps **hello, nice to meet you**. In an informal situation, we usually just say **hello** or **hi**.",
+      "examples": [
+        { "text": "Hello, **nice to meet you**.", "note": "formal, when you meet someone for the first time" },
+        { "text": "**Hi**, I'm Tom.", "note": "informal" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Greeting friends",
+      "text": "There are no real rules in Britain. Men may kiss female friends on one **cheek** (the side of the face), on both cheeks, or not at all. Women may kiss male and female friends once, twice, or not at all. These are the usual words.",
+      "examples": [
+        { "text": "*A:* Hello. **How are you?** *B:* Fine, thanks. **How about you?**" },
+        { "text": "*A:* Hi. **How's it going?** *B:* **Not (so) bad**, thanks. And you?", "note": "informal" },
+        { "text": "*A:* Hi. **How are things?** *B:* Fine, thanks.", "note": "informal" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Farewells: saying goodbye",
+      "left": {
+        "label": "More formal",
+        "text": "To someone you have just met for the first time.",
+        "examples": [
+          "**Goodbye. Nice to meet you.**"
+        ]
+      },
+      "right": {
+        "label": "Informal, with friends",
+        "examples": [
+          "**Bye.**",
+          "**Cheers.**",
+          "**Take care.**",
+          "**See you** (soon / later / tomorrow)."
+        ]
+      },
+      "note": "On Friday afternoon at school or work: A: Have a nice weekend. B: Yeah, same to you. (not ~~same for you~~)"
+    },
+    {
+      "type": "table",
+      "heading": "Expressions for special situations",
+      "columns": ["Situation", "What you say"],
+      "rows": [
+        ["You want to move past people on a crowded bus", "**Excuse me**, could I just get past?"],
+        ["A friend has an exam or a job interview today", "**Good luck.**"],
+        ["A friend passed an exam or won some money", "**Congratulations.**"],
+        ["Someone sneezes next to you", "**Bless you.**"],
+        ["You hold up your glass before drinking", "**Cheers.**"],
+        ["You hear that nobody was hurt in an accident", "**Thank goodness for that.**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Thank goodness and Goodness",
+      "text": "We use **Thank goodness** when we are happy that something bad did not happen. **Thank God** means the same but is informal, and some people may not like it. **Goodness** on its own shows surprise.",
+      "examples": [
+        { "text": "*A:* Sue found my wallet and my credit cards. *B:* Oh, **thank goodness** for that." },
+        { "text": "**Goodness**, is it ten o'clock already?", "note": "= I'm surprised" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Cheers** has two uses: it means 'thank you' or 'goodbye' with friends, and it is also what you say before you drink together."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each situation with what you say.",
+      "pairs": [
+        { "left": "Someone sneezes", "right": "Bless you." },
+        { "left": "A friend has an exam today", "right": "Good luck." },
+        { "left": "A friend has just passed an exam", "right": "Congratulations." },
+        { "left": "You want to get past someone", "right": "Excuse me." },
+        { "left": "You are saying goodbye to a friend", "right": "Take care." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How are you? *B:* Fine. How about ___?",
+      "hint": "(one word)",
+      "answers": ["you"],
+      "explanation": "How about you? gives the question back to the other person."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How's it ___? *B:* Not bad. And you?",
+      "hint": "(one verb, -ing form)",
+      "answers": ["going"],
+      "explanation": "How's it going? is an informal greeting."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How's it going? *B:* Not so ___, thanks. And you?",
+      "hint": "(one adjective)",
+      "answers": ["bad"],
+      "explanation": "Not (so) bad means 'quite well'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Have a nice weekend. *B:* Yeah, same ___ you.",
+      "hint": "(one word)",
+      "answers": ["to"],
+      "explanation": "Same to you - not ~~same for you~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Nobody was hurt in the accident. *B:* Oh, thank ___ for that.",
+      "hint": "(one word)",
+      "answers": ["goodness", "God"],
+      "explanation": "We say thank goodness when we are happy that something bad did not happen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'll see you tomorrow. *B:* Yeah, ___ care.",
+      "hint": "(one verb)",
+      "answers": ["take"],
+      "explanation": "Take care is an informal way of saying goodbye."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I've just passed my exam. *B:* ___!",
+      "hint": "(one word)",
+      "answers": ["Congratulations", "congratulations"],
+      "explanation": "We say Congratulations for good news like passing an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When you are ___ to someone in a formal situation, you usually shake hands.",
+      "hint": "(one verb, past participle)",
+      "answers": ["introduced"],
+      "explanation": "If you are introduced to someone, you are told the name of a person you have never met."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In a formal situation people usually ___ hands when they meet.",
+      "hint": "(one verb)",
+      "answers": ["shake"],
+      "explanation": "Shake hands is the fixed phrase."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Friends sometimes kiss on one ___, or on both.",
+      "hint": "(one noun - the side of the face)",
+      "answers": ["cheek"],
+      "explanation": "Your cheek is the side of your face."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You met a new business client for the first time fifteen minutes ago, and now you are leaving. What do you say?",
+      "options": [
+        "Goodbye. Nice to meet you.",
+        "Cheers. See you later.",
+        "Bless you.",
+        "Same to you."
+      ],
+      "answer": 0,
+      "explanation": "Goodbye. Nice to meet you. is the polite farewell to someone you have just met."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are having a drink with friends. What do you say when you hold up your glasses?",
+      "options": ["Cheers.", "Good luck.", "Bless you.", "Take care."],
+      "answer": 0,
+      "explanation": "Cheers is what we say before drinking together."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each expression a greeting (hello) or a farewell (goodbye)?",
+      "categories": ["Greeting", "Farewell"],
+      "items": [
+        { "text": "How's it going?", "category": 0 },
+        { "text": "Hi.", "category": 0 },
+        { "text": "Nice to meet you.", "category": 0 },
+        { "text": "See you later.", "category": 1 },
+        { "text": "Take care.", "category": 1 },
+        { "text": "Have a nice weekend.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A friend says 'Have a good weekend' and you reply: 'Yeah, same for you.'",
+      "answer": false,
+      "explanation": "Yeah, same to you. We say same to you, not ~~same for you~~."
+    }
+  ]
+}

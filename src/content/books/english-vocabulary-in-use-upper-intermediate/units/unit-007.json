@@ -1,0 +1,202 @@
+{
+  "number": 7,
+  "title": "Describing people: appearance",
+  "subtitle": "auburn hair, a good figure, stunning",
+  "summary": "Describe someone's hair, face, complexion, height, build and general appearance - and choose the polite word rather than the blunt one.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Hair and face",
+      "text": "Hair can be **straight**, **wavy** or **curly**, and a man may have a **crew-cut**, a **beard** and a **moustache**. As people get older their hair may start **receding**, or they may go **bald**.",
+      "examples": [
+        { "text": "She's got long, **wavy** hair and she's **round-faced**." },
+        { "text": "He's **bald** and has **freckles**." },
+        { "text": "He's got **receding hair** and a few **wrinkles**.", "note": "wrinkles = the small lines on an older person's face" },
+        { "text": "He used to have black hair but now it's **gone grey**, almost white." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Face shapes and hair colours",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["thin-faced / a thin face", "with a narrow face"],
+        ["round-faced / a round face", "with a wide, circular face"],
+        ["chubby", "slightly fat, especially of a face"],
+        ["fair / blonde", "light-coloured hair (fair also works for skin)"],
+        ["dark", "dark hair or a dark complexion"],
+        ["ginger-haired / red-haired", "with orange-red hair"],
+        ["auburn", "red-brown (a compliment): She has such beautiful auburn hair."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Skin and complexion",
+      "text": "Your **complexion** is the natural colour and quality of the skin on your face. **Fair** and **dark** can be used for hair, complexion or skin.",
+      "examples": [
+        { "text": "Some people like getting a **tan** in summer.", "note": "a tan = skin that has gone darker in the sun" },
+        { "text": "The risks of getting **sunburnt** are well known." },
+        { "text": "She still has a lovely fresh **complexion**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Height and build - choose your word carefully",
+      "columns": ["Instead of fat / thin", "Use", "Note"],
+      "rows": [
+        ["fat", "plump, stout, a bit overweight", "fat may sound impolite"],
+        ["very fat", "obese", "especially in a medical context"],
+        ["broad and solid", "stocky", "neutral"],
+        ["with good muscles", "well-built, muscular", "generally said about men"],
+        ["thin", "slim", "positive"],
+        ["thin", "skinny", "negative"],
+        ["with an attractive shape", "a nice figure", "generally said about women"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "General appearance",
+      "text": "A **smart**, **elegant**, **well-dressed** person looks carefully put together; the opposite is **scruffy**, **untidy-looking** or **messy-looking**.",
+      "examples": [
+        { "text": "She's a very **smart** and **elegant** woman, always **well-dressed**." },
+        { "text": "Her husband is quite the opposite, very **scruffy** and **untidy-looking**." },
+        { "text": "Chloe looked **stunning** in her red dress.", "note": "stunning = very attractive" },
+        { "text": "He's very **good-looking**, but his friend's rather **unattractive**." },
+        { "text": "Her eyes are her best **feature**.", "note": "feature = a part of the face" },
+        { "text": "**First impressions** are always important.", "note": "your first reaction to someone" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The suffix *-ish* is useful for being vague about people: She's **tallish**. He has **brownish** hair. He must be **thirtyish** (or *in his thirties*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I wish I could get a ___ like yours but my skin just goes red in the sun.",
+      "hint": "(noun)",
+      "answers": ["tan"],
+      "explanation": "Getting a tan = letting your skin go darker in the sun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My cousin used to have a lovely ___ but she's put on weight since she stopped taking exercise.",
+      "hint": "(noun: attractive shape)",
+      "answers": ["figure"],
+      "explanation": "If someone has a nice figure, they have an attractive shape."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thomas's eyes are his best ___ - they're so large and such a deep brown.",
+      "hint": "(noun)",
+      "answers": ["feature"],
+      "explanation": "Your best feature is the most attractive part of your face."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Jess is in her thirties but she still has the same lovely fresh ___ as her young daughter.",
+      "hint": "(noun: the skin of the face)",
+      "answers": ["complexion"],
+      "explanation": "Complexion is the natural colour and quality of the skin on your face."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Staff at the bank were told to dress smartly so they would always create a good first ___ on customers.",
+      "hint": "(noun)",
+      "answers": ["impression"],
+      "explanation": "A first impression is someone's first reaction to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd call her ___ rather than ginger-haired - her hair's dark brown with just a tinge of red.",
+      "hint": "(adjective: red-brown)",
+      "answers": ["auburn"],
+      "explanation": "Auburn hair is red-brown."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "George says that the ___ round his eyes just show that he has smiled a lot in his life.",
+      "hint": "(plural noun)",
+      "answers": ["wrinkles"],
+      "explanation": "Wrinkles are the small lines that appear on the skin with age."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*I thought you said he was the short, chubby one.* Which reply gives the opposite description?",
+      "options": [
+        "No, no, he's the tall, thin-faced one.",
+        "No, no, he's the stout, round-faced one.",
+        "No, no, he's the plump, stocky one.",
+        "No, no, he's the short, well-built one."
+      ],
+      "answer": 0,
+      "explanation": "The opposite of short and chubby is tall and thin-faced."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*Was that his brother, the one with wavy hair?* Which reply gives the opposite description?",
+      "options": [
+        "No, completely the opposite, his brother's the straight-haired one.",
+        "No, completely the opposite, his brother's the curly-haired one.",
+        "No, completely the opposite, his brother's the auburn one.",
+        "No, completely the opposite, his brother's the freckled one."
+      ],
+      "answer": 0,
+      "explanation": "Straight hair is the opposite of wavy or curly hair. (Bald would also work.)"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*She's always quite well-dressed, so I've heard.* Which reply contradicts it?",
+      "options": [
+        "What! Every time I see her, she's scruffy and untidy-looking.",
+        "What! Every time I see her, she's smart and elegant.",
+        "What! Every time I see her, she's stunning.",
+        "What! Every time I see her, she's stocky."
+      ],
+      "answer": 0,
+      "explanation": "Scruffy and untidy-looking are the opposites of well-dressed."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with its more polite or more positive alternative.",
+      "pairs": [
+        { "left": "fat", "right": "a bit overweight" },
+        { "left": "very fat (medical)", "right": "obese" },
+        { "left": "broad and solid", "right": "stocky" },
+        { "left": "thin (positive)", "right": "slim" },
+        { "left": "thin (negative)", "right": "skinny" },
+        { "left": "with good muscles", "right": "well-built" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each word describe hair, build, or general appearance?",
+      "categories": ["Hair", "Build", "General appearance"],
+      "items": [
+        { "text": "auburn", "category": 0 },
+        { "text": "receding", "category": 0 },
+        { "text": "a crew-cut", "category": 0 },
+        { "text": "stocky", "category": 1 },
+        { "text": "plump", "category": 1 },
+        { "text": "muscular", "category": 1 },
+        { "text": "scruffy", "category": 2 },
+        { "text": "elegant", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "*Ugly* is a neutral word that you can safely use about someone's appearance.",
+      "answer": false,
+      "explanation": "Ugly is a very strong word and could be offensive. Say rather plain, rather ordinary or unattractive instead."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the description in order.",
+      "words": ["She's", "a", "very", "smart", "and", "elegant", "woman,", "always", "well-dressed."],
+      "answer": "She's a very smart and elegant woman, always well-dressed.",
+      "explanation": "Smart, elegant and well-dressed all describe a carefully put-together appearance."
+    }
+  ]
+}

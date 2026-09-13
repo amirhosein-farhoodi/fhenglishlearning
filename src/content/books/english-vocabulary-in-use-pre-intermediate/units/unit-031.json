@@ -1,0 +1,217 @@
+{
+  "number": 31,
+  "title": "Classroom language",
+  "subtitle": "look up a word, swap places, How do you spell ...?",
+  "summary": "Name the things you use in a classroom and ask your teacher and classmates for help in English.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Equipment and uses",
+      "text": "To say what a classroom object is for, we say **you use X to ...**. A **rubber** takes pencil writing off the page; a **pencil sharpener** makes a pencil sharp again.",
+      "examples": [
+        { "text": "You use a **rubber** to rub something out, e.g. writing." },
+        { "text": "You use a **pencil sharpener** to sharpen pencils." },
+        { "text": "You use a **ruler** to measure something." },
+        { "text": "You use a **highlighter pen** to highlight a word." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More classroom equipment",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["a DVD player", "the machine you put a DVD in"],
+        ["a DVD", "the disc you put in the DVD player"],
+        ["a plug", "you put it in the socket to get electricity"],
+        ["a socket", "the place in the wall for the plug"],
+        ["a ruler", "a flat piece of plastic or wood for measuring"],
+        ["a highlighter pen", "a bright pen for marking important words"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Classroom activities",
+      "text": "These are things teachers and students do in class. If you **look up** a word, you find its meaning in a dictionary. If you **turn up** the volume, you make it louder; the opposite is **turn** it **down**.",
+      "examples": [
+        { "text": "I don't know this word. I'll **look** it **up** in a dictionary." },
+        { "text": "Could I **borrow** your dictionary?", "note": "= use it and then give it back" },
+        { "text": "Can you **plug in** the DVD player?", "note": "= put the plug in the electric socket" },
+        { "text": "I can't hear it. Could you **turn up** the volume?" },
+        { "text": "The teacher **corrects** our English when we make mistakes." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "lend and borrow",
+      "left": {
+        "label": "lend = give",
+        "text": "You **lend** something to someone: it goes from you to them.",
+        "examples": [
+          "Could you **lend** me your pen?",
+          "I **lent** Petra my dictionary."
+        ]
+      },
+      "right": {
+        "label": "borrow = get",
+        "text": "You **borrow** something from someone: it comes from them to you.",
+        "examples": [
+          "Could I **borrow** your pen?",
+          "I **borrowed** a dictionary from Petra."
+        ]
+      },
+      "note": "Could you lend me your pen? means the same as Could I borrow your pen?"
+    },
+    {
+      "type": "explain",
+      "heading": "What the teacher asks you to do",
+      "text": "Teachers use these phrases all the time. **Swap places** means change seats with someone; **share** a book means two people use it together at the same time.",
+      "examples": [
+        { "text": "I'd like you to **work with a partner**.", "note": "= with another student" },
+        { "text": "Henrique, could you **swap places** with Lorena?" },
+        { "text": "Kim, could you **share** your book with Petra?" },
+        { "text": "**Repeat** this sentence after me.", "note": "= say it again" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Questions about vocabulary",
+      "text": "Learn these five questions by heart. They let you ask about any new word in English.",
+      "examples": [
+        { "text": "*A:* What does *tiny* **mean**? *B:* It means 'very small'." },
+        { "text": "*A:* How do you **pronounce** *weight*? *B:* It's pronounced like *wait*." },
+        { "text": "*A:* How do you **spell** *bicycle*? *B:* B-I-C-Y-C-L-E." },
+        { "text": "*A:* How do you **use** the word *wow*? *B:* We use it to show that something is fantastic or surprising, e.g. Wow, look at that car!" },
+        { "text": "*A:* Could you **explain the difference between** *lend* and *give*? *B:* If you lend something to someone, they have to give it back. If you give it to them, they can keep it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs and their nouns",
+      "columns": ["Verb", "Noun"],
+      "rows": [
+        ["mean", "meaning"],
+        ["pronounce", "pronunciation"],
+        ["repeat", "repetition"],
+        ["spell", "spelling"],
+        ["explain", "explanation"],
+        ["use", "use"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Polite classroom requests start with *Could I ...?* when you want to do something, and *Could you ...?* when you want the other person to do something."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the words that go with it.",
+      "pairs": [
+        { "left": "look up", "right": "a word" },
+        { "left": "sharpen", "right": "a pencil" },
+        { "left": "swap", "right": "places" },
+        { "left": "plug in", "right": "the DVD player" },
+        { "left": "work", "right": "with a partner" },
+        { "left": "correct", "right": "a mistake" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What do you put in a DVD player? You put a ___ in it.",
+      "hint": "(one word)",
+      "answers": ["DVD"],
+      "explanation": "A DVD player plays a DVD."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What do you put in a socket? You put a ___ in it.",
+      "hint": "(one word)",
+      "answers": ["plug", "a plug"],
+      "explanation": "You plug a machine in: the plug goes in the socket."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do you use a dictionary for?",
+      "options": [
+        "To look up the meaning of words.",
+        "To measure something.",
+        "To rub something out.",
+        "To sharpen a pencil."
+      ],
+      "answer": 0,
+      "explanation": "You look up a word in a dictionary to find its meaning."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Why do you share a book with another student?",
+      "options": [
+        "Because one of you hasn't got one.",
+        "Because the book is too heavy.",
+        "Because you want to correct it.",
+        "Because you want to highlight it."
+      ],
+      "answer": 0,
+      "explanation": "You share a book when one of you hasn't got one, so you use it together."
+    },
+    {
+      "type": "categorize",
+      "prompt": "What do you use each thing for?",
+      "categories": ["To write or mark the page", "To measure or make sharp"],
+      "items": [
+        { "text": "a highlighter pen", "category": 0 },
+        { "text": "a rubber", "category": 0 },
+        { "text": "a pencil", "category": 0 },
+        { "text": "a ruler", "category": 1 },
+        { "text": "a pencil sharpener", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about the sound of the word swap. The answer is: 'Like shop or stop.'",
+      "words": ["How", "do", "you", "pronounce", "swap?"],
+      "answer": "How do you pronounce swap?",
+      "explanation": "We ask about the sound of a word with How do you pronounce ...?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about the letters of the word swap. The answer is: 'S-W-A-P.'",
+      "words": ["How", "do", "you", "spell", "swap?"],
+      "answer": "How do you spell swap?",
+      "explanation": "We ask about the letters of a word with How do you spell ...?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can't hear the DVD player. You say: 'Could you ___ the DVD player?'",
+      "hint": "(two words - make it louder)",
+      "answers": ["turn up"],
+      "explanation": "Turn up = make louder. The opposite is turn down."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You need a dictionary and your neighbour has one. You say: 'Could you ___ me a dictionary?'",
+      "hint": "(one word)",
+      "answers": ["lend"],
+      "explanation": "The other person gives it to you for a time, so they lend it to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You didn't hear what the teacher said. You say: 'Could you ___ that, please?'",
+      "hint": "(one word - say it again)",
+      "answers": ["repeat", "say"],
+      "explanation": "Repeat = say it again."
+    },
+    {
+      "type": "true_false",
+      "statement": "You want to sit in another student's seat, so you say: 'Could we swap places?'",
+      "answer": true,
+      "explanation": "Correct. Swap places means change seats with someone."
+    },
+    {
+      "type": "true_false",
+      "statement": "You want to know the difference between lend and borrow, so you say: 'Could you repeat the difference between lend and borrow?'",
+      "answer": false,
+      "explanation": "Could you explain the difference between lend and borrow? We explain a difference; we repeat a sentence."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "number": 12,
+  "title": "In the bedroom and bathroom",
+  "subtitle": "bed, wardrobe, towel, get up",
+  "summary": "Name the things in a bedroom and a bathroom, and talk about your night-time and morning routine.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "In the bedroom",
+      "text": "You sleep in a **bed**. Next to the bed there is often a **bedside table** with a **bedside lamp** and an **alarm clock** on it. You keep your clothes in a **wardrobe** or a **chest of drawers**, and you wear **pyjamas** in bed.",
+      "examples": [
+        { "text": "My **alarm clock** rings at seven o'clock every morning." },
+        { "text": "Your clean shirts are in the **wardrobe**." },
+        { "text": "I read in bed with my **bedside lamp** on." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Bedroom words",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["bed", "you sleep in it"],
+        ["bedside table", "a small table next to the bed"],
+        ["bedside lamp", "a small light on the bedside table"],
+        ["alarm clock", "a clock that rings to wake you up"],
+        ["wardrobe", "a big cupboard for your clothes"],
+        ["chest of drawers", "you keep clothes in the drawers"],
+        ["dressing table", "a table with a mirror"],
+        ["mirror", "you look at yourself in it"],
+        ["hairbrush and comb", "you tidy your hair with them"],
+        ["pyjamas", "the clothes you wear in bed"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Bathroom words",
+      "columns": ["Word", "What you do with it"],
+      "rows": [
+        ["shower", "you stand under it and wash"],
+        ["bath", "you sit in it and wash"],
+        ["basin", "you wash your hands and face in it"],
+        ["soap", "you wash your hands with it"],
+        ["shampoo", "you wash your hair with it"],
+        ["shower gel", "you wash your body with it in the shower"],
+        ["toothbrush and toothpaste", "you clean your teeth with them"],
+        ["towel", "you dry yourself with it"],
+        ["razor", "a man shaves with it"],
+        ["shelf", "you put small things on it"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "At night",
+      "text": "Emma **goes to bed** at 11 o'clock. She goes **upstairs** to her bedroom, **gets undressed** and **gets into bed**. She **reads for a bit**, then she **turns off the light** and **falls asleep**.",
+      "examples": [
+        { "text": "I always **go to bed** before midnight." },
+        { "text": "She **gets undressed** and **gets into bed**." },
+        { "text": "He **turns off the light** and **falls asleep** very quickly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the morning",
+      "text": "Emma **wakes up** when her alarm clock rings. Then she **gets up**, **has a shower**, **cleans her teeth** and **gets dressed**. After that she goes **downstairs** to the kitchen for breakfast.",
+      "examples": [
+        { "text": "I **wake up** at six but I **get up** at half past six." },
+        { "text": "She **has a shower** and **cleans her teeth**." },
+        { "text": "He **gets dressed** and goes **downstairs** for breakfast." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We **clean** our teeth or **brush** our teeth - not ~~wash our teeth~~."
+    },
+    {
+      "type": "tip",
+      "text": "**wake up** = open your eyes; **get up** = leave your bed. You can wake up at 7.00 and get up at 7.15."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You look at yourself in a ___.",
+      "hint": "(one word)",
+      "answers": ["mirror"],
+      "explanation": "A mirror is often on the wall or on a dressing table."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You keep your clothes in a ___.",
+      "hint": "(a big cupboard)",
+      "answers": ["wardrobe"],
+      "explanation": "A wardrobe is the big cupboard in a bedroom where clothes hang."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You wear ___ in bed at night.",
+      "hint": "(plural)",
+      "answers": ["pyjamas"],
+      "explanation": "Pyjamas are the clothes you sleep in. The word is always plural."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each bathroom thing with what you do with it.",
+      "pairs": [
+        { "left": "soap", "right": "you wash your hands with it" },
+        { "left": "shampoo", "right": "you wash your hair with it" },
+        { "left": "towel", "right": "you dry yourself with it" },
+        { "left": "toothpaste", "right": "you put it on your toothbrush" },
+        { "left": "razor", "right": "a man shaves with it" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The clock that rings and wakes you up is an ___.",
+      "hint": "(two words)",
+      "answers": ["alarm clock"],
+      "explanation": "An alarm clock rings in the morning."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Where do you usually find these things?",
+      "categories": ["In the bedroom", "In the bathroom"],
+      "items": [
+        { "text": "wardrobe", "category": 0 },
+        { "text": "chest of drawers", "category": 0 },
+        { "text": "bedside lamp", "category": 0 },
+        { "text": "pyjamas", "category": 0 },
+        { "text": "basin", "category": 1 },
+        { "text": "shower gel", "category": 1 },
+        { "text": "toothbrush", "category": 1 },
+        { "text": "towel", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Emma takes off her clothes. She gets ___ and gets into bed.",
+      "hint": "(one word)",
+      "answers": ["undressed"],
+      "explanation": "get undressed = take your clothes off."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She turns ___ the light and falls asleep.",
+      "hint": "(one word)",
+      "answers": ["off"],
+      "explanation": "We turn off the light when we want to sleep."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ up when my alarm clock rings, but I stay in bed for five minutes.",
+      "hint": "(one word)",
+      "answers": ["wake"],
+      "explanation": "wake up = open your eyes. After that you get up."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mr Park is in the bathroom. He is sitting in the water. What is he doing?",
+      "options": ["He is having a bath.", "He is cleaning his teeth.", "He is getting dressed.", "He is falling asleep."],
+      "answer": 0,
+      "explanation": "You have a bath when you sit in the water, and a shower when you stand under the water."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Jaime is putting on his shirt and his trousers. What is he doing?",
+      "options": ["He is getting dressed.", "He is getting undressed.", "He is waking up.", "He is going downstairs."],
+      "answer": 0,
+      "explanation": "get dressed = put your clothes on."
+    },
+    {
+      "type": "true_false",
+      "statement": "Selim and Umit are washing their faces in the basin.",
+      "answer": true,
+      "explanation": "Correct. You wash your hands and your face in the basin."
+    },
+    {
+      "type": "true_false",
+      "statement": "Every morning I wash my teeth with my toothbrush.",
+      "answer": false,
+      "explanation": "Every morning I clean my teeth with my toothbrush. We clean or brush our teeth, we do not wash them."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say what Emma does last at night.",
+      "words": ["She", "turns", "off", "the", "light", "and", "falls", "asleep."],
+      "answer": "She turns off the light and falls asleep.",
+      "explanation": "First you turn off the light, then you fall asleep."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say what Emma does after her shower.",
+      "words": ["She", "cleans", "her", "teeth", "and", "gets", "dressed."],
+      "answer": "She cleans her teeth and gets dressed.",
+      "explanation": "We clean our teeth and get dressed in the morning."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "number": 37,
+  "title": "Making a career",
+  "subtitle": "apply, promote, resign, retire",
+  "summary": "Tell the story of a working life - getting a job, promotion, resigning, unemployment, success and retirement.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Getting a job",
+      "text": "When you want a job you **apply for** it: you write a letter of **application** and send your **CV**, a document which describes your education and the jobs you have done. Then you have an **interview**, a meeting where someone asks you questions to see if you are suitable.",
+      "examples": [
+        { "text": "When I left school, I **applied for** jobs in different companies." },
+        { "text": "I sent out lots of **CVs** and had some **interviews**." },
+        { "text": "A small company **employed me**.", "note": "= gave me a job" },
+        { "text": "The company gave me some **training**.", "wrong": "a training", "note": "training = help and advice to learn how to do a job" }
+      ],
+      "note": "You can also go on a training course or do a training course - a period of organised help and advice."
+    },
+    {
+      "type": "explain",
+      "heading": "Promotion",
+      "text": "If you work hard, you may be **promoted**: given a better job with more responsibility. The noun is **promotion**. More money is a **pay rise**, and the knowledge you get from doing a job is **experience**.",
+      "examples": [
+        { "text": "I worked hard and soon I **was promoted**." },
+        { "text": "They also gave me a good **pay rise**.", "note": "= more money" },
+        { "text": "It was really good **experience**." },
+        { "text": "When my boss left, they gave me an important **promotion**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Resignation",
+      "text": "**Resignation** is when you say officially that you are leaving a job. The verb is **resign**, and in everyday English we often say **quit**. If you work in another country, you **work abroad**.",
+      "examples": [
+        { "text": "I **quit my job** and started looking for work in the UK.", "note": "quit = resign, tell the company you are leaving" },
+        { "text": "She **resigned** when her boss refused to give her a pay rise." },
+        { "text": "I decided I wanted to **work abroad**.", "note": "abroad = in another country" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Unemployment",
+      "text": "If a company tells you to leave, they **sack** you, or they **give you the sack**. Then you are **unemployed** - **out of work**. A **part-time job** is only part of the day or week; the opposite is a **full-time job**.",
+      "examples": [
+        { "text": "The company **sacked me**.", "note": "= gave me the sack" },
+        { "text": "After that I was **unemployed** for two months.", "note": "= out of work" },
+        { "text": "Claudio didn't have a **job**.", "wrong": "didn't have a work" },
+        { "text": "I got a **part-time job** in the kitchen of a restaurant." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Success and retirement",
+      "text": "If a business does well and makes money, it is **successful** - it is a **success**. The verb is **succeed**. If a restaurant belongs to you, it is your **own** restaurant and you are the **owner**. **Retirement** is the time when people stop work, often at 60 or 65.",
+      "examples": [
+        { "text": "Three years later I opened my **own** restaurant." },
+        { "text": "It was very **successful**.", "note": "= it did well and made money" },
+        { "text": "Twenty years later I **owned** five restaurants and I was the **owner** of two hotels." },
+        { "text": "Last year, aged sixty, I **retired** and went back to Italy." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Word families",
+      "columns": ["Verb", "Noun", "Adjective"],
+      "rows": [
+        ["employ", "(un)employment", "(un)employed"],
+        ["promote", "promotion", "-"],
+        ["retire", "retirement", "retired"],
+        ["resign", "resignation", "-"],
+        ["succeed", "success", "successful"],
+        ["own", "owner", "-"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Training is uncountable: say *I had some training*, not ~~a training~~. But you can go on *a training course*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with the best answer.",
+      "pairs": [
+        { "left": "Why did they sack him?", "right": "Because he was late for work every day." },
+        { "left": "Why did they promote him?", "right": "Because he was the best person in the department." },
+        { "left": "Why did he apply for the job?", "right": "Because he was out of work." },
+        { "left": "Why did he retire?", "right": "Because he was 65." },
+        { "left": "Why did he quit his job?", "right": "Because he didn't like his boss." },
+        { "left": "Why did he go on the course?", "right": "Because he needed more training." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I decided to work ___ to see what life was like in another country.",
+      "hint": "(one word)",
+      "answers": ["abroad"],
+      "explanation": "Abroad means in another country."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After they sacked me, I was out of ___ for six months.",
+      "hint": "(one word, = unemployed)",
+      "answers": ["work"],
+      "explanation": "To be out of work means to be unemployed."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't want a full-time job. I'd prefer to work ___.",
+      "options": ["part time", "abroad", "overtime", "successful"],
+      "answer": 0,
+      "explanation": "A part-time job is only part of the day or week; the opposite is full time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ her job when her boss refused to give her a pay rise.",
+      "hint": "(one word, past tense of resign)",
+      "answers": ["quit", "resigned", "left"],
+      "explanation": "To quit a job means to resign - to tell the company you are leaving."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't earn much money in the job, but it was still good ___ because I learned a lot.",
+      "hint": "(one word)",
+      "answers": ["experience"],
+      "explanation": "Experience is the knowledge you get from doing something such as a job."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The company sent me on several training ___.",
+      "hint": "(plural)",
+      "answers": ["courses"],
+      "explanation": "You go on or do a training course - a period of organised help and advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not easy to ___ in business; you need ability and luck.",
+      "hint": "(the verb from success)",
+      "answers": ["succeed"],
+      "explanation": "The verb is succeed; the noun is success and the adjective is successful."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you are interested in that job, you should definitely ___ for it.",
+      "hint": "(one word)",
+      "answers": ["apply"],
+      "explanation": "You apply for a job by writing a letter of application."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ivan was terrible as a tour guide; that's why they gave him the ___.",
+      "hint": "(one word, = sacked him)",
+      "answers": ["sack"],
+      "explanation": "To give someone the sack means to tell them to leave the company."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've worked for other people most of my life, but I'd really like to run my ___ company.",
+      "hint": "(one word)",
+      "answers": ["own"],
+      "explanation": "Your own company is a company that belongs to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If she's interested in that job, she'll have to write a letter of ___.",
+      "hint": "(the noun from apply)",
+      "answers": ["application"],
+      "explanation": "You apply for a job by sending a letter of application and your CV."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right column of its word family.",
+      "categories": ["Verb", "Noun", "Adjective"],
+      "items": [
+        { "text": "resign", "category": 0 },
+        { "text": "succeed", "category": 0 },
+        { "text": "promotion", "category": 1 },
+        { "text": "retirement", "category": 1 },
+        { "text": "owner", "category": 1 },
+        { "text": "successful", "category": 2 },
+        { "text": "unemployed", "category": 2 },
+        { "text": "retired", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I had a training when I joined the company.",
+      "answer": false,
+      "explanation": "Training is uncountable: I had some training when I joined the company."
+    }
+  ]
+}

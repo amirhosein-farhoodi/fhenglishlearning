@@ -1,0 +1,178 @@
+{
+  "number": 47,
+  "title": "Air travel",
+  "subtitle": "check-in desk, boarding card, take off, baggage reclaim",
+  "summary": "Use the right words for every stage of a flight, from the check-in desk to baggage reclaim and customs.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "At the airport",
+      "text": "When you arrive at an airport, the **departures board** shows the **flight numbers**, the **departure times** and the **destinations** (where the flights are going to). You then go to the **check-in desk**.",
+      "examples": [
+        { "text": "My **flight number** is BA640.", "wrong": "My fly number" },
+        { "text": "I slept the whole **flight**.", "wrong": "the whole fly" },
+        { "text": "The **departures board** shows the **departure time** of every flight." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Check-in and departure",
+      "text": "At **check-in** someone checks your ticket and **weighs** your **luggage**. If it is too heavy, you pay **excess baggage**. You get your **boarding card**, go through **passport control**, and wait in the **departure lounge**.",
+      "examples": [
+        { "text": "You can take your **hand luggage** with you on the **aircraft**.", "note": "aircraft = plane" },
+        { "text": "You will have to pay **excess baggage**.", "note": "= pay extra for heavy luggage" },
+        { "text": "You can buy perfume in the **duty-free shop**." },
+        { "text": "Shortly before **take-off**, you go to **Gate 3**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "On the plane",
+      "text": "When you **board** the plane (get on it), you put your hand luggage in the **overhead locker** above your seat. Then you **fasten your seat belt**. If there are no **delays**, the plane moves to the **runway** and **takes off**.",
+      "examples": [
+        { "text": "Please put your bag in the **overhead locker**." },
+        { "text": "We all had to **fasten** our seat belts." },
+        { "text": "There was a one-hour **delay** because of bad weather.", "note": "a delay = when you wait longer than expected" },
+        { "text": "The plane moves slowly to the **runway**, then it **takes off**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Arrival",
+      "text": "When the plane **lands**, there is an **announcement** from a member of the **cabin crew**. Then you **get off** the plane and walk through the **terminal building** to passport control.",
+      "examples": [
+        { "text": "It was raining when we **landed** in Rome." },
+        { "text": "There was an **announcement** about the delay.", "note": "= spoken information to a group of people" },
+        { "text": "The **cabin crew** were really nice.", "note": "= the people who look after the passengers" },
+        { "text": "You collect your bags at **baggage reclaim** and then go through **customs**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Places at the airport",
+      "columns": ["Place", "What happens there"],
+      "rows": [
+        ["the check-in desk", "staff check your ticket and weigh your luggage"],
+        ["passport control", "someone checks your passport carefully"],
+        ["the departure lounge", "you wait and buy things in the duty-free shop"],
+        ["the gate", "you get on the plane"],
+        ["the runway", "the plane takes off and lands"],
+        ["the terminal building", "the airport building you walk through"],
+        ["baggage reclaim", "you collect your luggage"],
+        ["customs", "your luggage may be checked for illegal things"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*fly* is the verb; the noun is *flight*. Say a long flight and my flight number, never ~~a long fly~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the two halves to make a word or phrase.",
+      "pairs": [
+        { "left": "departures", "right": "board" },
+        { "left": "check-in", "right": "desk" },
+        { "left": "hand", "right": "luggage" },
+        { "left": "boarding", "right": "card" },
+        { "left": "cabin", "right": "crew" },
+        { "left": "overhead", "right": "locker" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each airport word with its meaning.",
+      "pairs": [
+        { "left": "excess baggage", "right": "extra money you pay for heavy luggage" },
+        { "left": "baggage reclaim", "right": "the place where you collect your luggage" },
+        { "left": "passport control", "right": "the place where someone checks your passport" },
+        { "left": "the terminal building", "right": "the airport building" },
+        { "left": "customs", "right": "the area where your luggage may be checked" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do we call the people who travel on a plane?",
+      "options": ["passengers", "cabin crew", "destinations", "pilots"],
+      "answer": 0,
+      "explanation": "Passengers travel on the plane; the cabin crew look after them."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "At the check-in desk, staff weigh your ___.",
+      "hint": "(your bags and suitcases)",
+      "answers": ["luggage", "suitcases", "bags"],
+      "explanation": "Luggage is uncountable: a lot of luggage, not ~~luggages~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The place you are travelling to is called your ___.",
+      "hint": "(one word)",
+      "answers": ["destination"],
+      "explanation": "The departures board shows the destinations of all the flights."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The place in the airport where you get on the plane is called the ___.",
+      "hint": "(one word, e.g. number 3 or 5)",
+      "answers": ["gate"],
+      "explanation": "You go to Gate 3 or Gate 5 shortly before take-off."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The part of the airport where the plane takes off and lands is called the ___.",
+      "hint": "(a large road for planes)",
+      "answers": ["runway"],
+      "explanation": "The runway is the large road that planes use for take-offs and landings."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each thing happen when you leave (departure) or when you arrive (arrival)?",
+      "categories": ["Departure", "Arrival"],
+      "items": [
+        { "text": "the check-in desk", "category": 0 },
+        { "text": "the departure lounge", "category": 0 },
+        { "text": "take off", "category": 0 },
+        { "text": "land", "category": 1 },
+        { "text": "baggage reclaim", "category": 1 },
+        { "text": "customs", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was an ___ telling us that there would be a one-hour delay.",
+      "hint": "(spoken information to a group of people)",
+      "answers": ["announcement"],
+      "explanation": "An announcement is spoken information given to a group of people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The plane could not leave on time, so there was a one-hour ___ because of bad weather.",
+      "hint": "(one word)",
+      "answers": ["delay"],
+      "explanation": "A delay is when you have to wait longer than expected."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was bad weather over France and we all had to ___ our seat belts.",
+      "hint": "(one word)",
+      "answers": ["fasten"],
+      "explanation": "You fasten your seat belt before take-off and in bad weather."
+    },
+    {
+      "type": "true_false",
+      "statement": "It was still raining and very windy when we landed in Rome.",
+      "answer": true,
+      "explanation": "Correct. A plane lands when it arrives on the ground."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to describe arriving.",
+      "words": ["When", "the plane", "lands,", "you get off", "and walk", "through", "the terminal building"],
+      "answer": "When the plane lands, you get off and walk through the terminal building",
+      "explanation": "You get off the plane and walk through the terminal building to passport control."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "number": 62,
+  "title": "Distance, dimensions and size",
+  "subtitle": "a mile away, How long is it?, huge and tiny",
+  "summary": "Say how far away something is, ask about its length, width, height and depth, and describe its size.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Distance: how far ...?",
+      "text": "British people buy most things in metres and centimetres, but they still talk about distance with the old system too. A **mile** is about 1.6 kilometres, a **yard** is almost a metre, a **foot** is 30 centimetres and an **inch** is 2.5 centimetres.",
+      "examples": [
+        { "text": "The station is about a **mile away**.", "note": "= about a mile from here" },
+        { "text": "It's about a hundred **yards** up the road.", "note": "= further along the road" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Answering 'How far is it?'",
+      "columns": ["Answer", "Meaning"],
+      "rows": [
+        ["It's just **round the corner**.", "very near"],
+        ["It's about a hundred yards **up/down the road**.", "a bit further along the road"],
+        ["It's about ten **minutes' walk**.", "you can walk there in ten minutes"],
+        ["The nearest one is **half a mile**.", "the one at the shortest distance from here"],
+        ["**At least** a **couple of** miles.", "not less than two miles, perhaps three"],
+        ["It's (quite) **a long way**.", "it is far"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Two common mistakes with distance",
+      "text": "We say **ten minutes' walk**, not ~~ten minutes' walking~~. And in a statement we say **It's a long way**, not ~~It's far~~. But *far* is fine in questions and negatives.",
+      "examples": [
+        { "text": "It's ten **minutes' walk** from here.", "wrong": "ten minutes' walking" },
+        { "text": "It's **a long way**.", "wrong": "It's far" },
+        { "text": "*A:* **Is it far**? *B:* No, it **isn't far**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Dimensions",
+      "columns": ["Noun", "Adjective", "Question"],
+      "rows": [
+        ["**length**", "**long**", "How long is the garage?"],
+        ["**width**", "**wide**", "How wide is the path?"],
+        ["**height**", "**high** / **tall**", "How high is the wall?"],
+        ["**depth**", "**deep**", "How deep is the pool?"]
+      ],
+      "note": "A swimming pool has a deep end and a shallow end. Shallow is the opposite of deep."
+    },
+    {
+      "type": "compare",
+      "heading": "Two ways to ask",
+      "left": {
+        "label": "What's the ...?",
+        "text": "Use the noun after *What's the*.",
+        "examples": [
+          "What's the **length** of the garage?",
+          "What's the **width** of the path?",
+          "What's the **depth** of the pool?"
+        ]
+      },
+      "right": {
+        "label": "How ...?",
+        "text": "Use the adjective after *How*.",
+        "examples": [
+          "**How long** is the garage?",
+          "**How wide** is the path?",
+          "**How deep** is the pool?"
+        ]
+      },
+      "note": "Answers: It's five metres (long). It's a metre (wide). It's three metres (deep)."
+    },
+    {
+      "type": "tip",
+      "text": "People and trees and buildings are **tall**; mountains are **high**. So: Mason is quite tall (not ~~quite high~~), but It's a high mountain (not ~~a tall mountain~~)."
+    },
+    {
+      "type": "explain",
+      "heading": "Size: how big or small?",
+      "text": "English has a range of adjectives for size. **Huge** and **enormous** both mean very big; **tiny** means very small. **Giant** means very large, or bigger than other things of the same kind.",
+      "examples": [
+        { "text": "It was a very **thick** book - over 500 pages.", "note": "opposite: a thin book" },
+        { "text": "Their living room is **huge**.", "note": "= very big; you can also say enormous" },
+        { "text": "They live in a **tiny** flat.", "note": "= very small" },
+        { "text": "We caught a **giant** crab." },
+        { "text": "It was a very **narrow** road for a bus.", "note": "opposite: a wide road" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn size words in pairs: thick / thin, wide / narrow, deep / shallow, huge / tiny."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its opposite.",
+      "pairs": [
+        { "left": "thick", "right": "thin" },
+        { "left": "deep", "right": "shallow" },
+        { "left": "wide", "right": "narrow" },
+        { "left": "huge", "right": "tiny" },
+        { "left": "short", "right": "tall" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's only a thin book, isn't it? *B:* No, it's quite ___.",
+      "hint": "(the opposite of thin)",
+      "answers": ["thick"],
+      "explanation": "Thick is the opposite of thin. A 500-page book is thick."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* The water's deep in the middle, isn't it? *B:* No, it's quite ___.",
+      "hint": "(the opposite of deep)",
+      "answers": ["shallow"],
+      "explanation": "Shallow is the opposite of deep - like the shallow end of a pool."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Is the road very wide at that point? *B:* No, it's quite ___.",
+      "hint": "(the opposite of wide)",
+      "answers": ["narrow"],
+      "explanation": "Narrow is the opposite of wide. It was a very narrow road for a bus."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* James is quite short, isn't he? *B:* No, he's quite ___.",
+      "hint": "(the opposite of short, for a person)",
+      "answers": ["tall"],
+      "explanation": "People are tall, not high."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* They only live in a small place, don't they? *B:* No, it's ___.",
+      "options": ["huge", "tiny", "shallow", "narrow"],
+      "answer": 0,
+      "explanation": "Huge (or enormous) means very big - the opposite of small."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Is it a really huge pool? *B:* No, it's ___.",
+      "options": ["tiny", "enormous", "giant", "thick"],
+      "answer": 0,
+      "explanation": "Tiny means very small - the opposite of huge."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to know the depth of the lake, so you ask: 'How ___ is the lake?'",
+      "hint": "(one adjective)",
+      "answers": ["deep"],
+      "explanation": "How deep ...? asks about depth."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ask about the lake with a noun: 'What's the ___ of the lake?'",
+      "hint": "(the noun from deep)",
+      "answers": ["depth"],
+      "explanation": "The noun for deep is depth."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ask about a mountain with a noun: 'What's the ___ of the mountain?'",
+      "hint": "(the noun from high)",
+      "answers": ["height"],
+      "explanation": "The noun for high is height. You can also ask How high is the mountain?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about a woman's height, using the adjective.",
+      "words": ["How", "tall", "is", "she?"],
+      "answer": "How tall is she?",
+      "explanation": "People are tall, so we ask How tall is she? - not ~~How high is she?~~"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which adjective goes with each thing: tall or high?",
+      "categories": ["tall", "high"],
+      "items": [
+        { "text": "a basketball player", "category": 0 },
+        { "text": "a tree", "category": 0 },
+        { "text": "a building", "category": 0 },
+        { "text": "a mountain", "category": 1 },
+        { "text": "a wall", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The shop is very near, so you say: 'It's just round the corner.'",
+      "answer": true,
+      "explanation": "Correct. Just round the corner means very near."
+    },
+    {
+      "type": "true_false",
+      "statement": "The station is a twenty-minute walk, so you say: 'It's about twenty minutes' walking.'",
+      "answer": false,
+      "explanation": "It's about twenty minutes' walk. We say minutes' walk, not ~~minutes' walking~~."
+    }
+  ]
+}

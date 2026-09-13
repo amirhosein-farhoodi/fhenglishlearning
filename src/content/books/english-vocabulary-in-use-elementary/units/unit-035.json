@@ -1,0 +1,174 @@
+{
+  "number": 35,
+  "title": "The media",
+  "subtitle": "a soap, a documentary, an advert",
+  "summary": "Talk about TV and radio programmes, newspapers and magazines, and the people who make the news.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Radio and TV programmes",
+      "columns": ["Programme", "What it is"],
+      "rows": [
+        ["the **news**", "important things that happen"],
+        ["a **soap** / **soap opera**", "a story about people's lives, often on TV every day"],
+        ["a **nature programme**", "a programme about animals, birds, etc."],
+        ["a **documentary**", "a programme looking at a social problem or question"],
+        ["a **talk show**", "people talk about themselves or discuss topics with an interviewer"],
+        ["a **cartoon**", "a film made of drawings, for example animals that talk"],
+        ["**reality TV**", "programmes that film real people living their lives, not actors"],
+        ["a **sports programme**", "football, tennis and other sport"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about programmes",
+      "text": "Use *on* for programmes that are on television or radio, and *watch* for the ones you like.",
+      "examples": [
+        { "text": "The **news** is **on** TV at 6 o'clock every night." },
+        { "text": "Do you watch **soaps**? Home and Away is my favourite." },
+        { "text": "I watched a **documentary** last night about drugs and crime." },
+        { "text": "The children watch **cartoons** on Saturday mornings." },
+        { "text": "My brother likes watching **reality TV**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Newspapers and magazines",
+      "text": "In most countries there are **morning papers** and **evening papers** (you can also say **newspapers**). A **magazine** comes out every week or every month. In papers and magazines there are lots of **adverts** / **advertisements** [something that tries to make people buy something].",
+      "examples": [
+        { "text": "Every month I buy a **magazine**. My mother buys **women's magazines**." },
+        { "text": "I like **news magazines** like Newsweek and Time." },
+        { "text": "There are other kinds too: **sports magazines**, **computer magazines**, **teenage magazines**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "People and the media",
+      "text": "A **reporter** goes out and gets the news stories where they happen. A **journalist** writes articles for a newspaper or magazine. When a reporter asks somebody questions, that is an **interview**.",
+      "examples": [
+        { "text": "There was an **interview** with the US President on TV last night." },
+        { "text": "The **reporters** are outside the film star's house." },
+        { "text": "My sister is a **journalist**; she writes for The Oxford Times." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Useful expressions",
+      "text": "These are the questions and sentences people use every day about TV and the papers. A **channel** is a TV station, for example CNN or Sky Sports.",
+      "examples": [
+        { "text": "You can read newspapers or watch TV **online**." },
+        { "text": "What's your favourite TV **programme**?" },
+        { "text": "What's **on** TV tonight?" },
+        { "text": "Is it OK if I change the **channel**?" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*News* takes a singular verb: *The news is on now* - not ~~The news are on now~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "The news ___ on channel 3 at 9 o'clock every night.",
+      "hint": "(be)",
+      "answers": ["is"],
+      "explanation": "News looks plural but it takes a singular verb: the news is."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the type of programme.",
+      "pairs": [
+        { "left": "Talking about family problems", "right": "a talk show" },
+        { "left": "A film of elephants in Africa", "right": "a nature programme" },
+        { "left": "The football cup final", "right": "a sports programme" },
+        { "left": "Reports from all over the world", "right": "international news" },
+        { "left": "Maria decides not to marry Philip", "right": "a soap opera" },
+        { "left": "Ten people in a house who cannot leave", "right": "a reality TV programme" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a ___ about traffic problems in cities on TV last night.",
+      "hint": "(a programme about a social problem)",
+      "answers": ["documentary"],
+      "explanation": "A documentary looks at a social problem or question."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw a ___ programme about birds in Antarctica.",
+      "hint": "(one word)",
+      "answers": ["nature"],
+      "explanation": "A nature programme is about animals, birds and plants."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the programme show real life, or does it tell an invented story?",
+      "categories": ["Real people or real events", "An invented story"],
+      "items": [
+        { "text": "the news", "category": 0 },
+        { "text": "a documentary", "category": 0 },
+        { "text": "reality TV", "category": 0 },
+        { "text": "a nature programme", "category": 0 },
+        { "text": "a soap opera", "category": 1 },
+        { "text": "a cartoon", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister is 13; she reads a ___ magazine every week. She likes the stories about boys.",
+      "hint": "(for young people aged 13-19)",
+      "answers": ["teenage"],
+      "explanation": "A teenage magazine is written for teenagers."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do you call a newspaper you can buy every day after about 5 pm?",
+      "options": ["an evening paper", "a morning paper", "a news magazine", "an advert"],
+      "answer": 0,
+      "explanation": "Morning papers come out early; evening papers come out later in the day."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What do you call something in a magazine or on TV that tries to sell you something?",
+      "options": ["an advert", "an article", "an interview", "a cartoon"],
+      "answer": 0,
+      "explanation": "An advert (or advertisement) tries to make people buy something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My sister writes articles for The Oxford Times. She is a ___.",
+      "hint": "(one word)",
+      "answers": ["journalist"],
+      "explanation": "A journalist writes articles. A reporter goes out to where the news happens."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Did you see the ___ with the Prime Minister last night?",
+      "hint": "(a meeting where a reporter asks questions)",
+      "answers": ["interview"],
+      "explanation": "An interview is when a reporter asks a person questions for TV or a newspaper."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "With my mobile I can read the sports news ___.",
+      "hint": "(one word)",
+      "answers": ["online"],
+      "explanation": "You can read newspapers or watch TV online."
+    },
+    {
+      "type": "word_order",
+      "prompt": "You want to watch a different programme. Ask politely.",
+      "words": ["Is", "it OK", "if I", "change", "the channel?"],
+      "answer": "Is it OK if I change the channel?",
+      "explanation": "A channel is a TV station, like CNN or Sky Sports."
+    },
+    {
+      "type": "true_false",
+      "statement": "Be quiet, please - the news are on now.",
+      "answer": false,
+      "explanation": "Be quiet, please - the news is on now. News takes a singular verb."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "number": 23,
+  "title": "Task 2 - Expressing your ideas clearly",
+  "subtitle": "Cohesion, register, personal view and conclusion",
+  "summary": "Link ideas with the right connector, keep the register formal, show an opinion with hedges and modals, and close with a real conclusion.",
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Connectors, sorted by job",
+      "columns": ["Job", "Connectors"],
+      "rows": [
+        ["Connecting similar ideas", "similarly, furthermore, in addition, also, not only ... but also"],
+        ["Connecting different ideas", "but, however, while, whereas, although, despite, in spite of, on the other hand"],
+        ["Clarifying an idea", "in other words, that is, in fact"],
+        ["Giving examples", "for example, for instance, such as"],
+        ["Giving a reason or conclusion", "therefore, consequently, so, as a result, because of"]
+      ],
+      "note": "Without cohesion you have a list of sentences rather than a paragraph. The examiner judges how your ideas are organised **and** how you link them."
+    },
+    {
+      "type": "explain",
+      "heading": "Picking the right one matters",
+      "text": "A connector from the wrong column reverses your meaning. Check what relationship the two sentences actually have before you choose.",
+      "examples": [
+        { "text": "*Advertisements provide vital revenue. **Consequently**, without adverts we could lose certain forms of entertainment.*", "note": "a result - not *Despite*." },
+        { "text": "*The internet has become an indispensable business tool. **In fact**, we would find it very difficult to get through a working day without it.*", "note": "clarifying - not *Although*." },
+        { "text": "*The internet brings the world into our home. **However**, we sometimes want to shut out the outside world.*", "note": "a contrast - not *Also*." },
+        { "text": "*Schools give our children academic knowledge. **Furthermore**, at school children learn social skills.*", "note": "adding - not *Whereas*." },
+        { "text": "*Many people spend time on social networking sites. **For example**, Facebook and Twitter are used around the world.*", "note": "an example - not *As a result*." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three ways to avoid repeating a noun",
+      "text": "A high band needs a wide variety of vocabulary **and** sentence structure. Three techniques cover almost every case.",
+      "examples": [
+        { "text": "**A synonym:** *We depend on oil, coal and gas ... However, these **natural resources** will one day run out.*" },
+        { "text": "**A pronoun + noun:** *Settlers introduced several new animals, such as the cat. **This predator** preyed on the local wildlife.*" },
+        { "text": "**A group noun:** *Settlers often introduce new crops and animals. **This type of activity** can be disastrous.*" },
+        { "text": "*Remote areas often lack hospitals, shops and schools. Living without easy access to **these facilities** ...*" },
+        { "text": "*Governments offer grants ... **This funding** is often difficult to obtain.*" },
+        { "text": "*Cars driving through the city centre are charged a toll. **This system** has been a success.*" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "An essay is a formal situation",
+      "left": {
+        "label": "Too casual - do not write this",
+        "examples": [
+          "*most likely **gonna** end up in manual jobs*",
+          "*global warming **&** increased pollution*",
+          "***e.g.** we often use a car*",
+          "***Kids** of any age need guidance*",
+          "*book flights, find a hotel, get maps, **etc.***"
+        ]
+      },
+      "right": {
+        "label": "Formal - write this",
+        "examples": [
+          "*most likely **to** end up in manual jobs*",
+          "*global warming **and** increased pollution*",
+          "***for example**, we often use a car*",
+          "***Children** of any age need guidance*",
+          "*book flights, find a hotel **and** get maps*"
+        ]
+      },
+      "note": "Never use notes or bullet points in an essay, and never use abbreviations. You lose marks for language that is too casual."
+    },
+    {
+      "type": "explain",
+      "heading": "Show that it is your view",
+      "text": "Your answer must give your own **views on** or **attitude to** the topic. Four devices do this, and they also soften a flat fact into an opinion.",
+      "examples": [
+        { "text": "**Adverbs:** *personally*, *probably*, *generally*", "note": "*Personally, I don't think this is a good idea.*" },
+        { "text": "**Modals:** *might*, *could*, *can*", "note": "*Travelling is dangerous.* - *Travelling **can be** dangerous.*" },
+        { "text": "**Phrases:** *in my view*, *in my opinion*, *as far as I'm concerned*", "note": "*As far as I'm concerned, we have not done enough.*" },
+        { "text": "**Verbs:** *appear to be*, *seem to be*", "note": "*People **seem to** spend more time at work than with their families.*" }
+      ],
+      "note": "Vary the verb too: instead of *I think* every time, use *I realise, I feel, I believe, I imagine, I suppose, I suspect, I am convinced, I can see*."
+    },
+    {
+      "type": "explain",
+      "heading": "Strength of belief",
+      "text": "Those verbs are not interchangeable. Each one tells the reader how sure you are.",
+      "examples": [
+        { "text": "**A strong belief:** *I believe*, *I am convinced*, *I feel*" },
+        { "text": "**My understanding of the situation:** *I realise*, *I can see*" },
+        { "text": "**A guess - I don't really know:** *I suppose*, *I imagine*, *I suspect*" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The conclusion, and the phrases that go wrong in it",
+      "text": "Finish with a brief summary of your argument, and use it to state your own opinion. These five errors appear in conclusions again and again.",
+      "examples": [
+        { "text": "*I completely disagree ~~disagree this view~~* - **disagree with this view**" },
+        { "text": "*As far as I am ~~concern~~* - **concerned**" },
+        { "text": "*~~even~~ there is a clear downside* - **even though** there is a clear downside" },
+        { "text": "*In ~~conclude~~* - **In conclusion**" },
+        { "text": "*~~In my point of view~~* - **In my view** / **From my point of view**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Think about your own first language while you study. Note the differences in vocabulary and grammar - the mistakes you are most likely to make are the ones your language makes easy."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "What job does each connector do?",
+      "categories": ["Connects similar ideas", "Connects different ideas", "Gives a reason or conclusion"],
+      "items": [
+        { "text": "furthermore", "category": 0 },
+        { "text": "in addition", "category": 0 },
+        { "text": "whereas", "category": 1 },
+        { "text": "on the other hand", "category": 1 },
+        { "text": "consequently", "category": 2 },
+        { "text": "as a result", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*The internet brings the world into our home. ___ , we sometimes want to shut out the outside world.* Which connector fits?",
+      "options": ["Also", "However", "For instance", "As a result"],
+      "answer": 1,
+      "explanation": "The second sentence contradicts the first, so it needs a contrast link rather than one that adds or concludes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*We depend on oil, coal and gas. However, these ___ will one day run out.* Replace the repeated list with a group noun.",
+      "hint": "(two words: natural ...)",
+      "answers": ["natural resources", "resources"],
+      "explanation": "*These natural resources* avoids repeating the list and shows a wider vocabulary at the same time."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort each phrase by whether it belongs in a formal IELTS essay.",
+      "categories": ["Acceptable", "Too casual"],
+      "items": [
+        { "text": "for example", "category": 0 },
+        { "text": "children", "category": 0 },
+        { "text": "gonna", "category": 1 },
+        { "text": "kids", "category": 1 },
+        { "text": "e.g.", "category": 1 },
+        { "text": "etc.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each phrase with how sure the writer is.",
+      "pairs": [
+        { "left": "I am convinced that ...", "right": "this is my strong belief" },
+        { "left": "I realise that ...", "right": "this is my understanding of the situation" },
+        { "left": "I suspect that ...", "right": "this is a guess - I don't really know" },
+        { "left": "I can see that ...", "right": "I understand why this is so" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence turns a flat fact into a personal view?",
+      "options": [
+        "Travelling is dangerous.",
+        "Travelling can be dangerous.",
+        "Travelling is always dangerous.",
+        "Travelling is dangerous, yes."
+      ],
+      "answer": 1,
+      "explanation": "The modal *can* hedges the claim, which is exactly what an opinion needs. Task 2 asks for your view, not a statement of fact."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Correct the conclusion: *In conclusion, I completely disagree ___ this view.*",
+      "hint": "(a preposition)",
+      "answers": ["with"],
+      "explanation": "*Disagree with* is fixed. *In my point of view* is another conclusion error - write *In my view* or *From my point of view*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Bullet points are acceptable in a Task 2 essay if they make your ideas clearer.",
+      "answer": false,
+      "explanation": "An essay is a formal piece of continuous writing. Notes, bullets and abbreviations all cost marks."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a sentence that avoids repeating a noun by using a pronoun and a group noun.",
+      "words": ["Settlers", "often", "introduce", "new", "crops", "and", "animals.", "This", "type", "of", "activity", "can", "be", "disastrous."],
+      "answer": "Settlers often introduce new crops and animals. This type of activity can be disastrous.",
+      "explanation": "*This type of activity* refers back to the whole idea, not just to one noun - a technique worth reusing."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What should a Task 2 conclusion do?",
+      "options": [
+        "Introduce a new argument you did not have room for",
+        "Briefly summarise your argument and give your own opinion",
+        "Repeat the introduction word for word",
+        "List the points you made as bullet points"
+      ],
+      "answer": 1,
+      "explanation": "A conclusion is a brief summary of your argument and ideas, and it is often the best place to state your opinion."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "number": 61,
+  "title": "Time: connecting words and expressions",
+  "subtitle": "prior to, subsequently, throughout, at some point",
+  "summary": "Connect events in time with more formal and precise expressions than before, then and while.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "One thing before another",
+      "text": "**Prior to** is formal and written. **Previously** is fairly formal; in speech we often say *before that*. **Earlier on** is fairly informal. **Formerly** is used when something has changed its name or state.",
+      "examples": [
+        { "text": "I had written to her **prior to** meeting the committee.", "note": "formal, written style" },
+        { "text": "It was nice to be in Venice. **Previously** I'd only been to Rome." },
+        { "text": "I was in the office from 2.30. I was out **earlier on**.", "note": "= before then; fairly informal" },
+        { "text": "The street is now called Treetop Avenue. **Formerly** it was Hedge Lane." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "In the meantime",
+      "text": "**In the meantime** and **meanwhile** mean 'between now and the time of the event we have just mentioned'. They fill the gap between two points.",
+      "examples": [
+        { "text": "Dinner will be ready in about an hour. **In the meantime**, relax and have a drink." },
+        { "text": "The technician arrives at four. **Meanwhile**, we'll work on paper." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Things happening at the same time",
+      "text": "**(At) the very time** and **the very moment** are stronger and more precise than *as* or *just as*. **Simultaneously** means two things started and ended at exactly the same time.",
+      "examples": [
+        { "text": "She was entering at **the very moment** I was leaving." },
+        { "text": "The two events happened **simultaneously**." },
+        { "text": "**During** the war, she lived in Dublin." },
+        { "text": "**Throughout** the war, they remained in the city." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "during and throughout",
+      "left": {
+        "label": "during",
+        "text": "**During** does not say how long within the period. It could be a day or a week of it.",
+        "examples": [
+          "Josep visited me **during** the summer.",
+          "She had a lot of phone calls **during** the day."
+        ]
+      },
+      "right": {
+        "label": "throughout",
+        "text": "**Throughout** means from the beginning to the end of the whole period.",
+        "examples": [
+          "I was in Oslo **throughout** the summer.",
+          "**Throughout** the war, they remained in the city."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "One thing after another",
+      "text": "These are rather formal words for sequencing events, common in letters of application and reports. **Following** = after; **subsequently** = at some time after that; **thereafter** = after that point.",
+      "examples": [
+        { "text": "**Following** my first visit to Beijing, I read several books about China." },
+        { "text": "I **subsequently** decided to take a six-month course in Mandarin Chinese." },
+        { "text": "I revisited China on several occasions **thereafter**." },
+        { "text": "The government removed the price regulations and the **immediate** result was a 10% price rise.", "note": "immediate = happening at once" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Time when",
+      "text": "**The moment** and **the minute** mean 'as soon as'. **The time (that)** points to one particular occasion; **on that occasion** is the more formal version.",
+      "examples": [
+        { "text": "**The moment** I saw his face I knew I'd met him before." },
+        { "text": "**The minute** she put the phone down it rang again." },
+        { "text": "I stayed in that hospital **the time** I broke my leg." },
+        { "text": "I met Paula at Mark's wedding. **On that occasion** she was with a different man." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Non-specific time expressions",
+      "columns": ["Expression", "Meaning", "Example"],
+      "rows": [
+        ["at a later stage", "at some time further on in a process", "**At a later stage** we can discuss the detailed arrangements."],
+        ["at some point", "at an unspecified time in the future", "**At some point** we will have to replace our computers."],
+        ["for the moment", "for now, but not permanently", "We're OK **for the moment**."],
+        ["earlier on", "before then (informal)", "I was out **earlier on**."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Prior to, following, subsequently and thereafter belong to formal writing; earlier on and the minute belong to everyday speech."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each expression with its meaning.",
+      "pairs": [
+        { "left": "prior to", "right": "before" },
+        { "left": "thereafter", "right": "after that point" },
+        { "left": "simultaneously", "right": "at exactly the same time" },
+        { "left": "in the meantime", "right": "between now and then" },
+        { "left": "formerly", "right": "used to be called or be" },
+        { "left": "throughout", "right": "from beginning to end" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dinner will be ready in about an hour. ___, relax and have a drink.",
+      "hint": "(I... t... m... / M...)",
+      "answers": ["In the meantime", "Meanwhile"],
+      "explanation": "In the meantime / Meanwhile = between now and the event just mentioned."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ going to Manchester, Laura was in Paris.",
+      "hint": "(P... t... - formal for 'before')",
+      "answers": ["Prior to"],
+      "explanation": "Prior to is a formal, written way of saying before."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "On Sunday she had a lot of phone calls ___ the day.",
+      "hint": "(d...)",
+      "answers": ["during"],
+      "explanation": "During does not say how much of the day the calls took."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She had been away for a week. ___, she had lots of emails to deal with.",
+      "hint": "(S... - at some time after that)",
+      "answers": ["Subsequently"],
+      "explanation": "Subsequently = at some time after that; fairly formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was in Glasgow on the 15th. ___, she had been in Manchester.",
+      "hint": "(E... o... - informal for 'before then')",
+      "answers": ["Earlier on"],
+      "explanation": "Earlier on = before then. It is fairly informal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ her visit to Nick, she saw a bad accident on the motorway.",
+      "hint": "(F... - formal for 'after')",
+      "answers": ["Following"],
+      "explanation": "Following = after; typical of formal writing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ___ she put the phone down it rang again.",
+      "hint": "(m... - as soon as)",
+      "answers": ["moment", "minute"],
+      "explanation": "The moment / The minute = as soon as."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite the words in bold: 'The two committees were meeting **at exactly the same time**.'",
+      "options": ["simultaneously", "subsequently", "thereafter", "previously"],
+      "answer": 0,
+      "explanation": "Simultaneously = starting and ending at exactly the same time."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite the words in bold: 'I will contact you **at a time I can't specify** to arrange a meeting.'",
+      "options": ["at some point", "in the meantime", "on that occasion", "throughout"],
+      "answer": 0,
+      "explanation": "At some point = at an unspecified time in the future."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rewrite the words in bold: 'I emailed James and got a reply **straight away**.'",
+      "options": ["an immediate reply", "a former reply", "a subsequent reply", "a simultaneous reply"],
+      "answer": 0,
+      "explanation": "Immediate (adjective) = happening at once."
+    },
+    {
+      "type": "true_false",
+      "statement": "Gunilla says: 'I was in Oslo throughout the summer.' This means she spent the whole summer in Oslo.",
+      "answer": true,
+      "explanation": "Correct. Throughout means from the beginning to the end of the period."
+    },
+    {
+      "type": "true_false",
+      "statement": "Gunilla says: 'Josep visited me during that time.' This means Josep spent the whole summer in Oslo.",
+      "answer": false,
+      "explanation": "During does not say how long, so Josep probably spent just part of it there."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression point backwards, forwards, or to the same time?",
+      "categories": ["Before", "At the same time", "After"],
+      "items": [
+        { "text": "previously", "category": 0 },
+        { "text": "prior to", "category": 0 },
+        { "text": "earlier on", "category": 0 },
+        { "text": "simultaneously", "category": 1 },
+        { "text": "throughout", "category": 1 },
+        { "text": "thereafter", "category": 2 },
+        { "text": "subsequently", "category": 2 },
+        { "text": "following", "category": 2 }
+      ]
+    }
+  ]
+}

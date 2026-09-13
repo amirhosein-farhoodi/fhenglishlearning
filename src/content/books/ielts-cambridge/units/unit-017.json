@@ -1,0 +1,187 @@
+{
+  "number": 17,
+  "title": "Academic Task 1 - Describing a chart, table or graph",
+  "subtitle": "Accuracy, overview and Task Achievement",
+  "summary": "Read visual information quickly and accurately, then write the overview sentence that a good Task Achievement score depends on.",
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The Writing paper in one hour",
+      "columns": ["Test", "Task", "Timing", "What you do"],
+      "rows": [
+        ["Academic", "1", "20 minutes", "Describe visual information - a diagram, chart, graph or table"],
+        ["Academic", "2", "40 minutes", "Write an essay: solve, evaluate, compare, or challenge an argument"],
+        ["General Training", "1", "20 minutes", "Respond to a situation, usually by writing a letter"],
+        ["General Training", "2", "40 minutes", "Write an essay on a point of view, argument or problem"]
+      ],
+      "note": "Task 2 carries **more marks** than Task 1, so never let Task 1 eat into its 40 minutes."
+    },
+    {
+      "type": "explain",
+      "heading": "Know the names of what you are given",
+      "text": "Task 1 hands you visual information to describe. Knowing what each type is called helps you decide which language you will need.",
+      "examples": [
+        { "text": "**bar chart** - columns comparing amounts across categories" },
+        { "text": "**table** - rows and columns of figures" },
+        { "text": "**pie chart** - proportions of a single whole" },
+        { "text": "**graph** - a line showing change over time" },
+        { "text": "**diagram** - how something works or is made" },
+        { "text": "**map** - a place, often before and after a change" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Three questions before you write a word",
+      "text": "You only have 20 minutes, so spend one of them reading the figure properly. Ask these three questions and you have the backbone of your answer.",
+      "examples": [
+        { "text": "**1. What is being measured, and how?**", "note": "Millions? Percentages? Accidents per kilometre?" },
+        { "text": "**2. Is there a time element?**", "note": "If so, what is the gap between each year shown - ten years, five?" },
+        { "text": "**3. Are two or more things being compared?**", "note": "And exactly which ones?" }
+      ],
+      "note": "Getting the country, the dates or the units wrong is the cheapest way to lose marks. *Traffic in England from 1960 to 2010* is a different description from *traffic in the Netherlands since 1950*."
+    },
+    {
+      "type": "compare",
+      "heading": "Describe the data - do not go beyond it",
+      "left": {
+        "label": "Supported by the data",
+        "examples": [
+          "*In 2000, people in the Netherlands were making most of their journeys by car.*",
+          "*Fewer people travelled by train than by bicycle in 2000.*",
+          "*Travelling by train and by bicycle was far less common in 2000 than in 1975.*"
+        ]
+      },
+      "right": {
+        "label": "Cannot be verified from the data",
+        "examples": [
+          "*The charts tell us the number of vehicles being used.*",
+          "*A larger percentage of people bought new cars in 2000 than in 1975.*",
+          "*All cities should incorporate this system on their main roads.*"
+        ]
+      },
+      "note": "A pie chart of journeys says nothing about vehicles owned. Only include information that is represented in the data."
+    },
+    {
+      "type": "explain",
+      "heading": "The passive keeps you out of the description",
+      "text": "Using the **passive voice** shows you are describing the figure rather than offering your own opinion. For predictions, use the passive of *estimate*, *predict* and *forecast* - these sentences usually begin with *It*.",
+      "examples": [
+        { "text": "*I predict that sea levels will continue to rise.* - **It is predicted that** sea levels will continue to rise." },
+        { "text": "*I estimate that sea levels will have increased by 200mm by 2050.* - **It is estimated that** sea levels will have increased by 200mm by 2050." },
+        { "text": "*I forecast that sea levels will rise more rapidly between 2050 and 2100.* - Sea levels **are forecast to** rise more rapidly between 2050 and 2100." },
+        { "text": "*I estimate that by 2100 sea levels will be 500mm higher.* - By 2100, sea levels **are estimated to be** 500mm higher than at present." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "What Task Achievement actually asks for",
+      "text": "The instruction is always *Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.* Each phrase is a marking criterion.",
+      "examples": [
+        { "text": "**1.** Give an overview of the main information - *summarise the information*." },
+        { "text": "**2.** Describe all the most relevant and significant information - *select and report the main features*." },
+        { "text": "**3.** Point out key differences and similarities - *make comparisons where relevant*." },
+        { "text": "**4.** Only include information represented in the data." },
+        { "text": "**5.** Write at least 150 words." }
+      ],
+      "note": "**You will not achieve a good Task Achievement score if your answer has no overview sentence.** One sentence naming the main trend is worth more than a paragraph of detail."
+    },
+    {
+      "type": "tip",
+      "text": "A good overview names the trend that holds across the whole figure - *In every case, adding an extra lane had a positive effect on traffic incidents.* It is not a single fact (*the M1 and M5 are busiest*), a vague hedge (*there were mixed results*) or a recommendation (*all cities should do this*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each type of visual information with what it shows.",
+      "pairs": [
+        { "left": "pie chart", "right": "proportions of a single whole" },
+        { "left": "bar chart", "right": "columns comparing amounts across categories" },
+        { "left": "graph", "right": "a line showing change over time" },
+        { "left": "diagram", "right": "how something works or is made" },
+        { "left": "table", "right": "rows and columns of figures" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "How long should you spend on Academic Writing Task 1, and why?",
+      "options": [
+        "40 minutes, because it carries more marks",
+        "20 minutes, because Task 2 carries more marks",
+        "30 minutes, so each task gets the same",
+        "As long as you need - the hour is not divided"
+      ],
+      "answer": 1,
+      "explanation": "The hour covers both tasks and Task 2 is worth more, so Task 1 gets the shorter 20 minutes."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Two pie charts show the proportion of journeys made by car, train, bicycle and other in 1975 and 2000. Judge each statement.",
+      "categories": ["True according to the data", "Incorrect according to the data", "Cannot be verified"],
+      "items": [
+        { "text": "In 2000, most journeys were made by car.", "category": 0 },
+        { "text": "Travelling by bicycle was less common in 2000 than in 1975.", "category": 0 },
+        { "text": "As many people travelled by train as by car in 1975.", "category": 1 },
+        { "text": "The charts tell us the number of vehicles being used.", "category": 2 },
+        { "text": "More people bought new cars in 2000 than in 1975.", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite *I predict that sea levels will continue to rise* in the passive: It ___ that sea levels will continue to rise.",
+      "hint": "(is + past participle)",
+      "answers": ["is predicted"],
+      "explanation": "The passive removes *I* and keeps the answer a description of the figure rather than an opinion."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A bar chart shows accidents before and after extra lanes were added on five motorways - and the number falls on all five. Which is an accurate overview sentence?",
+      "options": [
+        "There were mixed results following the introduction of the new traffic system.",
+        "On some roads the extra lanes were more popular than on others.",
+        "In every case, adding an extra lane on main roads had a positive effect on traffic incidents.",
+        "All cities should incorporate this system on their main roads."
+      ],
+      "answer": 2,
+      "explanation": "An overview states the trend across the whole figure. The first two misread the data and the last is a recommendation, which Task 1 never asks for."
+    },
+    {
+      "type": "true_false",
+      "statement": "An answer without an overview sentence can still get a good Task Achievement score if the detail is accurate.",
+      "answer": false,
+      "explanation": "The instruction says *summarise the information*, so the overview is one of the things being marked."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the three things the Task 1 instruction asks you to do.",
+      "words": ["Summarise", "the", "information", "by", "selecting", "and", "reporting", "the", "main", "features,", "and", "make", "comparisons", "where", "relevant."],
+      "answer": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+      "explanation": "Overview, selection, comparison - three criteria in one sentence, and it is printed on every Task 1 question."
+    },
+    {
+      "type": "true_false",
+      "statement": "You should draw conclusions about causes that the figure does not show, to demonstrate a wider vocabulary.",
+      "answer": false,
+      "explanation": "Information that is incorrect or unsupported lowers your score. Limit your description to what the visual actually presents."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Write at least ___ words in Academic Writing Task 1.",
+      "hint": "(a number)",
+      "answers": ["150", "one hundred and fifty"],
+      "explanation": "Under-length answers are penalised, so learn what 150 of your own words look like on paper."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which question is *not* one of the three to ask before describing a figure?",
+      "options": [
+        "What is being measured, and how?",
+        "Is there a time element?",
+        "Are two or more things being compared?",
+        "What caused the change shown?"
+      ],
+      "answer": 3,
+      "explanation": "Causes are almost never in the figure. Describing one is exactly the kind of unsupported conclusion that costs marks."
+    }
+  ]
+}

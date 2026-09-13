@@ -1,0 +1,215 @@
+{
+  "number": 40,
+  "title": "The haves and the have-nots",
+  "subtitle": "poverty line, deprived, affluent, make ends meet",
+  "summary": "Write and speak precisely about wealth and poverty - absolute and relative poverty, deprivation and destitution, affluence - and use the everyday idioms for having too little money.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Defining poverty",
+      "text": "The United Nations says that **fundamentally** - in a basic and important way - poverty is a **denial** of choices and opportunities, a **violation** of human **dignity**. To deny people something is not to allow them to have it; a violation is an act that spoils or destroys something.",
+      "examples": [
+        { "text": "**Denial** of people's basic human freedoms is wrong." },
+        { "text": "Poverty could be said to be a **violation** of human **dignity**." },
+        { "text": "**Fundamentally**, poverty is a denial of choices and opportunities." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Types of poverty",
+      "columns": ["Type", "Definition"],
+      "rows": [
+        ["absolute poverty", "being poor according to a fixed minimum standard, sometimes called the poverty line"],
+        ["relative poverty", "being poor in relation to others around you; it depends on a person's social context"],
+        ["extreme poverty", "living below the poverty line; another word for this is penury"],
+        ["human poverty", "being poor in a range of ways, not only financial"]
+      ],
+      "note": "Relative poverty takes into account that there is no income equality between countries."
+    },
+    {
+      "type": "explain",
+      "heading": "The social factors",
+      "text": "Human poverty takes into account **shelter** (having a place to live protected from the weather), **nutrition** - people living in poverty are more likely to be **malnourished** - **literacy** levels, since they are more likely to be **illiterate**, **sanitation**, and access to education and healthcare. People lacking these basic things are said to be **deprived**.",
+      "examples": [
+        { "text": "Food and **shelter** are two of the most important human needs." },
+        { "text": "Children who don't get enough food suffer ill health as a result of **malnourishment**." },
+        { "text": "Inadequate **sanitation** can have serious health consequences." },
+        { "text": "The number of children facing **deprivation** is increasing." }
+      ],
+      "note": "Sanitation is the system for taking dirty water and waste away from homes to ensure good hygiene."
+    },
+    {
+      "type": "compare",
+      "heading": "Wealth and poverty",
+      "left": {
+        "label": "Wealth",
+        "text": "affluence, the super-rich",
+        "examples": [
+          "Only a small minority of people in the world enjoy **affluence**.",
+          "Our family enjoyed a relatively **affluent** lifestyle at that time.",
+          "The **super-rich** control much of the world's wealth."
+        ]
+      },
+      "right": {
+        "label": "Poverty",
+        "text": "impoverished, poverty-stricken, destitute",
+        "examples": [
+          "His family were once quite affluent, but they have become increasingly **impoverished**.",
+          "Many people left the **poverty-stricken** countryside to go to the city.",
+          "Everywhere you see **destitute** people living in shop doorways."
+        ]
+      },
+      "note": "Destitute people have no money, food, home or possessions; the noun is destitution."
+    },
+    {
+      "type": "explain",
+      "heading": "Living on very little",
+      "text": "People **on or below the breadline** have the income of an extremely poor person. When your income is low it is hard to **make ends meet** - to have enough money for all you need - and you may be **living from hand to mouth**, with just enough money to live without suffering.",
+      "examples": [
+        { "text": "Over 60% of the population live on or below the **breadline**." },
+        { "text": "It can be hard for students to **make ends meet**." },
+        { "text": "When we were first married, we were **living from hand to mouth**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When money is short",
+      "text": "If **money is tight**, there is not much of it. To **tighten your belt** is to spend less than before. An **income bracket** is a range of income with an upper and a lower level, and people can be **classed as** - categorised as - poor.",
+      "examples": [
+        { "text": "Ever since I lost my job, money has been **tight**." },
+        { "text": "If we all **tighten our belts**, we should be able to manage all right." },
+        { "text": "Many of the people in this area are in the lowest **income bracket**." },
+        { "text": "Many of the children here are **classed as** living in poverty." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "We say the rich and the poor, meaning rich people and poor people - never ~~the riches and the poors~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each type or aspect of poverty with its definition.",
+      "pairs": [
+        { "left": "absolute poverty", "right": "being poor according to a fixed minimum standard" },
+        { "left": "relative poverty", "right": "being poor in relation to others around you" },
+        { "left": "extreme poverty", "right": "living below the poverty line" },
+        { "left": "human poverty", "right": "being poor in a range of ways, not only financial" },
+        { "left": "destitution", "right": "having no money, food, home or possessions at all" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Millions of people still live below the poverty ___.",
+      "hint": "(the fixed minimum standard)",
+      "answers": ["line"],
+      "explanation": "The poverty line is the fixed minimum standard used to define absolute poverty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Food and ___ are two of the most important human needs.",
+      "hint": "(a place to live protected from the weather)",
+      "answers": ["shelter"],
+      "explanation": "Shelter is having somewhere to live that is protected from the weather."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most of the people who live in this street are in a higher income ___.",
+      "hint": "(a range of income)",
+      "answers": ["bracket"],
+      "explanation": "An income bracket is a range of income with upper and lower levels."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It can be hard for students to make ___ meet.",
+      "hint": "(have enough money for all you need)",
+      "answers": ["ends"],
+      "explanation": "To make ends meet is to have enough money to buy everything you need."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If we all tighten our ___, we should be able to manage all right.",
+      "hint": "(spend less than before)",
+      "answers": ["belts"],
+      "explanation": "To tighten your belt is to spend less money than before."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was surprised how poverty-___ the villages looked given the richness of the surrounding farmland.",
+      "hint": "(affected by poverty)",
+      "answers": ["stricken"],
+      "explanation": "Poverty-stricken means badly affected by poverty."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There are far fewer ___ people in the world than there used to be, so literacy levels are rising.",
+      "hint": "(unable to read and write)",
+      "answers": ["illiterate"],
+      "explanation": "Literacy is the ability to read and write; the opposite condition is being illiterate."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It is not very meaningful to talk in terms of ___ poverty when you compare people who live in very different contexts.",
+      "hint": "(measured against a fixed standard)",
+      "answers": ["absolute"],
+      "explanation": "Absolute poverty uses a fixed minimum standard; relative poverty compares people with those around them."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A person who sleeps in a cardboard box on the street and begs for money can best be described as ___.",
+      "options": ["destitute", "impoverished", "deprived", "tight"],
+      "answer": 0,
+      "explanation": "Destitute is the strongest word: without money, food, home or possessions."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Even children with rich parents can be ___ in terms of love and affection.",
+      "options": ["deprived", "destitute", "impoverished", "malnourished"],
+      "answer": 0,
+      "explanation": "Deprived means lacking things considered necessary for a pleasant life, not only money."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The country has great extremes of poverty and ___.",
+      "options": ["affluence", "influence", "penury", "deprivation"],
+      "answer": 0,
+      "explanation": "Affluence means wealth; do not confuse it with influence."
+    },
+    {
+      "type": "true_false",
+      "statement": "Without my husband's income, we were very much living from hand to foot.",
+      "answer": false,
+      "explanation": "The idiom is living from hand to mouth - having just enough money to live without suffering."
+    },
+    {
+      "type": "true_false",
+      "statement": "Someone who is in penury is living in extreme poverty.",
+      "answer": true,
+      "explanation": "Correct - penury is another word for extreme poverty."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each expression describe having plenty, or having very little?",
+      "categories": ["Plenty", "Very little"],
+      "items": [
+        { "text": "affluent", "category": 0 },
+        { "text": "the super-rich", "category": 0 },
+        { "text": "in a higher income bracket", "category": 0 },
+        { "text": "on the breadline", "category": 1 },
+        { "text": "living from hand to mouth", "category": 1 },
+        { "text": "impoverished", "category": 1 },
+        { "text": "money is tight", "category": 1 },
+        { "text": "destitute", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this definition in order.",
+      "words": ["Relative", "poverty", "is", "being", "poor", "in", "relation", "to", "others", "around", "you"],
+      "answer": "Relative poverty is being poor in relation to others around you",
+      "explanation": "Relative poverty depends on a person's social context."
+    }
+  ]
+}

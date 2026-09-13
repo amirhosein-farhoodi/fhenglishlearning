@@ -1,0 +1,170 @@
+{
+  "number": 43,
+  "title": "Take / took / taken",
+  "subtitle": "it takes 20 minutes, take the bus, take an exam",
+  "summary": "Say how long a journey or a job takes, and use the everyday phrases take an umbrella, take a photo, take an exam and take the bus.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Take with time",
+      "text": "We use **it takes** + person + time to say how long something needs. Alan lives near his office, so **it takes** him 20 minutes to get to work. Grace lives further away, so **it takes** her 45 minutes.",
+      "examples": [
+        { "text": "I go to school every day. **It takes** me 30 minutes." },
+        { "text": "I do homework every day. **It took** me two hours yesterday." },
+        { "text": "*A:* How long **does it take** to get to the station? *B:* Fifteen minutes in a taxi." },
+        { "text": "*A:* How long **did it take** you to learn the Greek alphabet? *B:* A week or two." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Take something with you",
+      "text": "**Take** something = carry it from here to there, because you will need it.",
+      "examples": [
+        { "text": "Are you going out? **Take** an umbrella. It's raining." },
+        { "text": "Are you going to the beach? **Take** some water with you." },
+        { "text": "Sorry, you can't **take** your camera into the museum." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Take a photo, take a course, take an exam",
+      "text": "We use **take** with photos and with studying. You **take a photo**, you **take a course**, you **take some lessons** and at the end you **take an exam**.",
+      "examples": [
+        { "text": "Can I **take a photo** here?", "note": "photo = photograph" },
+        { "text": "*A:* Are you **taking** an English course? *B:* Yes. *A:* Do you have to **take** an exam? *B:* Yes, at the end of the course." },
+        { "text": "I want to **take** some Japanese lessons." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Take the bus, take a taxi",
+      "text": "We also use **take** with transport to say how we travel.",
+      "examples": [
+        { "text": "*A:* How do you get to work? *B:* I **take the bus**." },
+        { "text": "In London you can **take the underground** to the London Eye." },
+        { "text": "We **took a taxi** from the airport to our hotel." },
+        { "text": "*A:* How does Nick get to work? *B:* He **takes the train**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words that go with take",
+      "columns": ["Group", "We say"],
+      "rows": [
+        ["Transport", "take the bus / the train / the underground / a taxi"],
+        ["Study", "take a course / some lessons / an exam"],
+        ["Pictures", "take a photo / a photograph / a picture"],
+        ["Things you need", "take an umbrella / some water / your passport"],
+        ["Time", "It takes me 30 minutes."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Keep a page in your notebook for **take** and add every new word that goes with it (take a look at, take a chance)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "At the end of the course, you have to ___.",
+      "hint": "(an exam)",
+      "answers": ["take an exam"],
+      "explanation": "We take an exam, we do not make an exam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can fly from London to Paris or you can ___.",
+      "hint": "(the train)",
+      "answers": ["take the train"],
+      "explanation": "We take the train / the bus / the underground."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You want to learn Russian? Why don't you ___?",
+      "hint": "(a course)",
+      "answers": ["take a course"],
+      "explanation": "We take a course or take lessons."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "If you go out on a hot day, you need to ___ with you.",
+      "hint": "(some water)",
+      "answers": ["take some water", "take water"],
+      "explanation": "Take something with you = carry it from here to there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alan's office is near his house. It ___ him 20 minutes to get to work.",
+      "hint": "(take)",
+      "answers": ["takes"],
+      "explanation": "It takes + person + time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I did my homework yesterday. It ___ me two hours.",
+      "hint": "(take)",
+      "answers": ["took"],
+      "explanation": "The past of take is took."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How long ___ it take you to learn the Greek alphabet?",
+      "options": ["did", "does", "is", "takes"],
+      "answer": 0,
+      "explanation": "We ask about the past with did it take."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Natalie walks to the station every morning and gets on the 7.40. How does she go to work? She ___.",
+      "hint": "(take)",
+      "answers": ["takes the train"],
+      "explanation": "We take the train."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Christopher waits at the stop outside his house every morning. How does he go to school? He ___.",
+      "hint": "(take)",
+      "answers": ["takes the bus"],
+      "explanation": "We take the bus."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You have three big bags and the airport is a long way away. How can you get there?",
+      "options": ["You can take a taxi.", "You can take a photo.", "You can take an exam.", "You can take a lesson."],
+      "answer": 0,
+      "explanation": "We take a taxi from one place to another."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you take with you? Match the situation with the thing.",
+      "pairs": [
+        { "left": "You want to take photographs.", "right": "my camera" },
+        { "left": "It's raining.", "right": "my umbrella" },
+        { "left": "You go to another country.", "right": "my passport" },
+        { "left": "You go to your English lesson.", "right": "my notebook and pen" },
+        { "left": "You need to text someone.", "right": "my mobile phone" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "We use take with all of these. Put each one in the right group.",
+      "categories": ["take + transport", "take + studying"],
+      "items": [
+        { "text": "the bus", "category": 0 },
+        { "text": "the underground", "category": 0 },
+        { "text": "a taxi", "category": 0 },
+        { "text": "the train", "category": 0 },
+        { "text": "an exam", "category": 1 },
+        { "text": "a course", "category": 1 },
+        { "text": "some Japanese lessons", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask how long the journey to the station is.",
+      "words": ["How", "long", "does", "it", "take", "to", "get", "to", "the", "station?"],
+      "answer": "How long does it take to get to the station?"
+    }
+  ]
+}

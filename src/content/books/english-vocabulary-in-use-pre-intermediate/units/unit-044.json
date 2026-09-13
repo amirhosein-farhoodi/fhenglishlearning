@@ -1,0 +1,219 @@
+{
+  "number": 44,
+  "title": "Music",
+  "subtitle": "classical music, a live concert, lyrics, an album comes out",
+  "summary": "Talk about the music you like, the people who make it, and how an album is recorded and sold.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Musical taste",
+      "text": "Your **taste** in music is the type of music you like. Everybody's taste is different: you may like **pop music**, your brother **folk music** (music written and played in a traditional style), and your father **classical music**.",
+      "examples": [
+        { "text": "People's **taste** in music is very different." },
+        { "text": "I like pop, but my dad prefers **classical music**.", "wrong": "classic music" },
+        { "text": "My brother likes **folk music**." }
+      ],
+      "note": "We say classical music, never ~~classic music~~."
+    },
+    {
+      "type": "explain",
+      "heading": "Live music",
+      "text": "Groups **perform** (play) at **concerts**. If they play **live**, they play in front of a large group of people, called the **audience**. Some people are not interested in **live performances** and only listen to music at home.",
+      "examples": [
+        { "text": "We like going to **concerts** to see groups **perform live**." },
+        { "text": "There was a big **audience** for their last concert." },
+        { "text": "My dad isn't interested in **live performances**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "tune and lyrics",
+      "left": {
+        "label": "tune",
+        "text": "The **tune** is the musical notes of a song.",
+        "examples": [
+          "I love the **tune** of this song.",
+          "I am mostly interested in the **tune**."
+        ]
+      },
+      "right": {
+        "label": "lyrics",
+        "text": "The **lyrics** are the words of a song.",
+        "examples": [
+          "The **lyrics** of this song are very sad.",
+          "My brother is more interested in the **lyrics**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Instruments and musicians",
+      "columns": ["Instrument", "Musician"],
+      "rows": [
+        ["piano", "pianist"],
+        ["guitar", "guitarist"],
+        ["bass guitar", "bass guitarist"],
+        ["keyboard", "keyboard player"],
+        ["violin", "violinist"],
+        ["cello", "cellist"],
+        ["flute", "flautist"],
+        ["trumpet", "trumpeter"],
+        ["saxophone", "saxophonist"],
+        ["drums", "drummer"]
+      ],
+      "note": "A flautist is a person who plays the flute."
+    },
+    {
+      "type": "table",
+      "heading": "People in music",
+      "columns": ["Person", "What they do"],
+      "rows": [
+        ["a composer", "writes music, usually classical music"],
+        ["a songwriter", "writes songs"],
+        ["a conductor", "stands in front of an orchestra and leads it"],
+        ["an orchestra", "a large group of musicians who play different instruments"],
+        ["an opera singer", "sings opera, a play in which the words are sung"],
+        ["a ballet dancer", "dances in a ballet"],
+        ["a solo artist", "sings or plays alone, not in a group"],
+        ["a group / a band", "several musicians who play together"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Making an album",
+      "text": "Groups **record** an **album** (eight or ten songs in one collection) or a **single** (one song). They do it in a **recording studio**. When the album **comes out**, people can buy it, and it is usually **advertised** in the media.",
+      "examples": [
+        { "text": "Their new album was **recorded** in a **studio** near my home." },
+        { "text": "The new album **comes out** next week.", "note": "= it is available to buy" },
+        { "text": "The album is being **advertised** on TV." },
+        { "text": "Many people **download** their favourite **tracks** from the Internet.", "note": "a track = one song from an album" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Many words for musicians end in *-ist*: a guitar - a guitarist, a violin - a violinist, a cello - a cellist."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words on the left with the words on the right.",
+      "pairs": [
+        { "left": "classical", "right": "music" },
+        { "left": "solo", "right": "artist" },
+        { "left": "recording", "right": "studio" },
+        { "left": "musical", "right": "instrument" },
+        { "left": "opera", "right": "singer" },
+        { "left": "ballet", "right": "dancer" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each musician with the instrument they play.",
+      "pairs": [
+        { "left": "a flautist", "right": "the flute" },
+        { "left": "a cellist", "right": "the cello" },
+        { "left": "a drummer", "right": "the drums" },
+        { "left": "a trumpeter", "right": "the trumpet" },
+        { "left": "a violinist", "right": "the violin" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There was a very big ___ for their last concert - nearly 10,000 people.",
+      "hint": "(the people who listen)",
+      "answers": ["audience", "an audience"],
+      "explanation": "The audience is the large group of people who watch or listen to a performance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I think their new ___ is a great song.",
+      "hint": "(one song, not a collection)",
+      "answers": ["single"],
+      "explanation": "A single is one song; an album is a collection of eight or ten songs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The new ___ has songs written by other people.",
+      "hint": "(a collection of songs)",
+      "answers": ["album"],
+      "explanation": "An album is eight or ten songs in one collection."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The album is finished. It ___ out next week.",
+      "hint": "(come)",
+      "answers": ["comes"],
+      "explanation": "When an album comes out, people can buy it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've listened to a lot of their music but I've never seen them perform ___.",
+      "hint": "(in front of an audience)",
+      "answers": ["live"],
+      "explanation": "To perform live is to play in front of a large group of people."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Their new album was ___ in a studio near my home.",
+      "hint": "(record)",
+      "answers": ["recorded"],
+      "explanation": "Groups record an album in a recording studio."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The band has a new album out and it's being ___ on TV.",
+      "hint": "(advertise)",
+      "answers": ["advertised"],
+      "explanation": "A new album is usually advertised in the media, for example on TV."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The Berlin Philharmonic is a large group of musicians who play different instruments. What is it?",
+      "options": ["an orchestra", "a solo artist", "an audience", "a studio"],
+      "answer": 0,
+      "explanation": "An orchestra is a large group of musicians who play different instruments."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Herbert von Karajan stood in front of that orchestra and led it. He was a ___.",
+      "options": ["conductor", "composer", "drummer", "songwriter"],
+      "answer": 0,
+      "explanation": "A conductor stands in front of an orchestra and conducts it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Rachmaninoff wrote classical music. He was a famous ___.",
+      "options": ["composer", "conductor", "cellist", "solo artist"],
+      "answer": 0,
+      "explanation": "A composer is someone who writes music, usually classical music."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a person or a thing?",
+      "categories": ["A person", "A thing"],
+      "items": [
+        { "text": "conductor", "category": 0 },
+        { "text": "flautist", "category": 0 },
+        { "text": "composer", "category": 0 },
+        { "text": "album", "category": 1 },
+        { "text": "single", "category": 1 },
+        { "text": "tune", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Yo Yo Ma plays the cello, so he is a great classical cellist.",
+      "answer": true,
+      "explanation": "Correct. A person who plays the cello is a cellist."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in the right order to talk about opera.",
+      "words": ["Puccini", "composed", "operas", "such as", "La Boheme"],
+      "answer": "Puccini composed operas such as La Boheme",
+      "explanation": "An opera is a play in which the words are sung; a composer composes it."
+    }
+  ]
+}

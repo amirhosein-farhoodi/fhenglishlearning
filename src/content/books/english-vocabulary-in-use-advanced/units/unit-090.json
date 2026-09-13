@@ -1,0 +1,274 @@
+{
+  "number": 90,
+  "title": "Easily confused words",
+  "subtitle": "intervene / interfere, shade / shadow, outrun / run out",
+  "summary": "Choose correctly between pairs that look or feel alike - intervene and interfere, continually and continuously, shade and shadow - and between verbs whose particle comes first or second.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "intervene or interfere?",
+      "left": {
+        "label": "intervene",
+        "text": "Step in. Neutral in meaning - often the right thing to do.",
+        "examples": [
+          "The United Nations should **intervene** to stop the civil war.",
+          "The teacher **intervened** to stop the argument between the two students."
+        ]
+      },
+      "right": {
+        "label": "interfere",
+        "text": "Involve yourself where you are not wanted. Negative and critical.",
+        "examples": [
+          "She shouldn't **interfere** in things that don't concern her.",
+          "I have always tried not to **interfere** in things that are not my business."
+        ]
+      }
+    },
+    {
+      "type": "compare",
+      "heading": "continually or continuously?",
+      "left": {
+        "label": "continually",
+        "text": "Very frequently, again and again. Often negative - it suggests annoyance.",
+        "examples": [
+          "The phone's been ringing **continually**. It's driving me crazy.",
+          "He was **continually** complaining about something or other."
+        ]
+      },
+      "right": {
+        "label": "continuously",
+        "text": "Without stopping at all.",
+        "examples": [
+          "Stir the mixture **continuously** until it boils.",
+          "You have to press the button **continuously** until the green light comes on."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "More pairs that are close in meaning",
+      "text": "A **series** is a set of related programmes; a **serial** is a set of programmes where the story continues across the episodes. You sit in the **shade** of a tree (out of the sun, a pleasant word), but the sun casts **shadows** - dark areas or shapes - and living **in the shadow of** something means being dominated by it, which is negative.",
+      "examples": [
+        { "text": "There's a new **series** on TV about space exploration." },
+        { "text": "I don't want to miss this week's episode of Oliver Twist. It's a **serial** - if I miss one, I'll lose track of the story." },
+        { "text": "He was dozing happily in the **shade** of an old beech tree." },
+        { "text": "The moon sometimes casts wonderful **shadows** on the sea." },
+        { "text": "They lived **in the shadow of** a chemical factory." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "compliment or complement?",
+      "left": {
+        "label": "compliment",
+        "text": "Praise someone, express admiration for them.",
+        "examples": [
+          "She **complimented** me on my performance at the concert."
+        ]
+      },
+      "right": {
+        "label": "complement",
+        "text": "Make something seem better, more complete or more attractive in combination.",
+        "examples": [
+          "I took a course in programming to **complement** my other IT skills."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Different words, same area of meaning",
+      "columns": ["Word", "How it is used", "Example"],
+      "rows": [
+        ["moist", "slightly wet - often in recipes, a good thing", "The cake mixture should be **moist** but not sticky."],
+        ["damp", "slightly wet in an unpleasant way", "The climate in the north is **damp** and rather cold."],
+        ["theme", "the main idea that everything follows", "The **theme** of the festival was '1,000 years of culture'."],
+        ["topic", "what people happen to be talking about", "The **topic** of conversation soon changed to the news."],
+        ["security", "protection of property and people from crime", "The **security** officer noticed a broken window."],
+        ["safety", "prevention of accidents", "The **safety** officer told him that he must wear a helmet."],
+        ["avoid", "stay away from", "We took a smaller road in order to **avoid** the roadworks."],
+        ["evade", "escape from - more formal", "The escaped prisoner **evaded** capture for three months."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Phrasal verbs and their noun forms",
+      "columns": ["Verb", "Noun"],
+      "rows": [
+        ["Six men **broke out** of the prison.", "There was a **breakout** at the prison."],
+        ["The disease has **broken out** in several villages.", "There has been an **outbreak** of the disease in several villages."],
+        ["Economists are **looking out for** signs of recovery.", "The **outlook** is not good - the economy seems stagnant."],
+        ["He stood at the corner, **looking out for** police cars.", "He was the **lookout** while the others robbed the bank."],
+        ["The club decided to **set up** a committee.", "The company **setup** is quite complex, with branches in 30 countries."]
+      ],
+      "note": "A stomach **upset** is the noun from upset - a mild illness that stops you eating or working normally."
+    },
+    {
+      "type": "table",
+      "heading": "Particle first or particle second?",
+      "columns": ["Particle first", "Particle second"],
+      "rows": [
+        ["**upend** = move into a vertical position", "**end up** = finish, eventually be somewhere"],
+        ["**uphold** = confirm, support", "**hold up** = delay"],
+        ["**outdo** = do better than", "**do out** = decorate"],
+        ["**outrun** = run faster than", "**run out** = use something so there is none left"],
+        ["**upset** = make someone worried, unhappy or angry", "**set up** = organise or arrange something"]
+      ],
+      "note": "Common prepositions often act as prefixes: over (overcook, overcome), in (input, income)."
+    },
+    {
+      "type": "tip",
+      "text": "Security guards worry about thieves; safety officers worry about accidents."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I have always tried not to ___ in things that are not my business.",
+      "options": ["interfere", "intervene", "evade", "uphold"],
+      "answer": 0,
+      "explanation": "Interfere is negative and critical - involving yourself where you are not wanted."
+    },
+    {
+      "type": "mcq",
+      "prompt": "___ at the factory is not good. There have been several accidents involving machinery recently.",
+      "options": ["Safety", "Security", "Shade", "Setup"],
+      "answer": 0,
+      "explanation": "Safety is about the prevention of accidents; security is about protection from crime."
+    },
+    {
+      "type": "mcq",
+      "prompt": "There are some ___ I don't like to talk about with my friends, such as politics and religion.",
+      "options": ["topics", "themes", "serials", "outlooks"],
+      "answer": 0,
+      "explanation": "A topic is what people talk about; a theme is the main idea running through something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He was dozing happily in the ___ of an old beech tree.",
+      "options": ["shade", "shadow", "shadows", "damp"],
+      "answer": 0,
+      "explanation": "Shade means out of the sun and has a pleasant connotation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The ___ of her latest novel is growing up as an only child in the 1970s.",
+      "options": ["theme", "topic", "series", "setup"],
+      "answer": 0,
+      "explanation": "The theme is the main idea that everything in the novel follows."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The teacher ___ to stop the argument between the two students.",
+      "options": ["intervened", "interfered", "evaded", "upended"],
+      "answer": 0,
+      "explanation": "Intervene is neutral - to step in. Interfere would criticise the teacher."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The receptionist called the ___ officer once it became clear that there had been a burglary.",
+      "options": ["security", "safety", "lookout", "serial"],
+      "answer": 0,
+      "explanation": "Security is concerned with the protection of property from crime."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He was ___ complaining about something or other.",
+      "options": ["continually", "continuously", "moistly", "damply"],
+      "answer": 0,
+      "explanation": "Continually means very frequently and is often negative; continuously means without stopping."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The moon sometimes casts wonderful ___ on the sea.",
+      "hint": "(dark shapes)",
+      "answers": ["shadows"],
+      "explanation": "Shadows are the dark areas or shapes cast by light; shade is the pleasant place out of the sun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You have to press the button ___ until the green light comes on. Don't take your finger off it.",
+      "hint": "(without stopping)",
+      "answers": ["continuously"],
+      "explanation": "Continuously means without stopping at all."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The cheetah is so fast it can ___ a fast-moving vehicle.",
+      "hint": "(run + out)",
+      "answers": ["outrun"],
+      "explanation": "Outrun means run faster than; run out means use something until there is none left."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The police ___ the traffic while the President's car passed.",
+      "hint": "(hold + up, past tense)",
+      "answers": ["held up"],
+      "explanation": "Hold up means delay; uphold means confirm or support."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sean made an insensitive comment and didn't realise how much he'd ___ Wendy.",
+      "hint": "(set + up)",
+      "answers": ["upset"],
+      "explanation": "Upset means make someone worried, unhappy or angry; set up means organise or arrange."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The committee ___ her complaint, and she was awarded compensation.",
+      "hint": "(hold + up, past tense)",
+      "answers": ["upheld"],
+      "explanation": "Uphold means confirm or support a decision or complaint."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We decided to ___ the living room and went online to choose paint colours.",
+      "hint": "(do + out)",
+      "answers": ["do out"],
+      "explanation": "Do out means decorate; outdo means do better than someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We ___ the sofa and used it to block the doorway.",
+      "hint": "(set/end + up - move into a vertical position)",
+      "answers": ["upended"],
+      "explanation": "Upend means move something into a vertical position; end up means finish."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the noun that fits it.",
+      "pairs": [
+        { "left": "There has been violence in the capital city.", "right": "outbreak" },
+        { "left": "My stomach was bad so I couldn't go to work.", "right": "upset" },
+        { "left": "The prospects for the economy are good over the coming years.", "right": "outlook" },
+        { "left": "I wanted to learn more about how the business was organised.", "right": "setup" },
+        { "left": "She made sure nobody was looking while her husband stole.", "right": "lookout" },
+        { "left": "Four prisoners have escaped from a maximum security prison.", "right": "breakout" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word of each pair would you expect in a recipe, and which in a weather report?",
+      "categories": ["Recipe", "Weather report"],
+      "items": [
+        { "text": "moist", "category": 0 },
+        { "text": "stir continuously", "category": 0 },
+        { "text": "damp", "category": 1 },
+        { "text": "the outlook for tomorrow", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "If you complement someone, you tell them how much you admire them.",
+      "answer": false,
+      "explanation": "That is compliment. To complement something is to make it more complete or attractive in combination."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence in order.",
+      "words": ["The", "escaped", "prisoner", "evaded", "capture", "for", "three", "months"],
+      "answer": "The escaped prisoner evaded capture for three months",
+      "explanation": "Evade is the more formal word for escaping from something; avoid simply means stay away from."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "number": 2,
+  "title": "Organising a vocabulary notebook",
+  "subtitle": "topic charts, networks, synonyms and antonyms",
+  "summary": "Learn practical ways of organising a vocabulary notebook - by topic, by network, by collocation, by synonym and antonym, by word class and by stress.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Organising words by meaning",
+      "text": "Divide your notebook into broad sections: words for **feelings**, words to describe **places**, words for **movement**, words for **thinking**, and so on. Charts and tables help you see how the words in one topic relate to each other.",
+      "examples": [
+        { "text": "Under *music*, list the **instruments** (guitar, cello, piano) in one column and the **types of music** (classical, folk, world) in another." },
+        { "text": "Keep a column for the **verbs** that go with the topic: **play**, **strum** a guitar, **perform**, **release** an album." },
+        { "text": "We say **classical** music, not ~~classic~~ music, and **folk** music, not ~~folkloric~~ music." }
+      ],
+      "note": "In British English practice is the noun and practise is the verb: We need more practice, so we must practise."
+    },
+    {
+      "type": "table",
+      "heading": "A topic chart: music",
+      "columns": ["Instruments", "Types of music", "Verbs", "Related words"],
+      "rows": [
+        ["guitar", "classical", "play", "practice (noun)"],
+        ["cello", "folk", "strum (a guitar)", "practise (verb)"],
+        ["piano", "world", "perform", "track"],
+        ["", "", "release (an album)", "album"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Building networks of meaning",
+      "text": "A **network diagram** is a page with one topic in the middle and branches growing out of it in any direction you like. It can keep growing as you meet new words.",
+      "examples": [
+        { "text": "*The web* branches into **social networks**: sign up, tweet, **unfriend** someone." },
+        { "text": "It branches into **security**: virus, password, **identity theft**, spam, junk mail." },
+        { "text": "It branches into **verbs**: upload, download, post, forward, email, surf." },
+        { "text": "It branches into things you see on a page: a **link**, a **pop-up**, a **homepage**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Collocations and fixed phrases",
+      "text": "It matters how a word combines with others. Record the common **collocations** of a word as you meet them, and where a word lives inside a **fixed phrase**, write down the whole phrase.",
+      "examples": [
+        { "text": "**win** a prize, an award, a medal" },
+        { "text": "**earn** money, a high salary" },
+        { "text": "**gain** time, an advantage" },
+        { "text": "Fixed phrases: **in a hurry**, **out of touch**, **to and fro**, **now and again**" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Synonyms and antonyms",
+      "left": {
+        "label": "synonym = same meaning",
+        "text": "When you meet a **synonym** of a word you already have, write it next to that word with a note.",
+        "examples": [
+          "stop = **cease** (cease is very formal)",
+          "pleased = **glad**",
+          "cold = **chilly**",
+          "photos = **shots**"
+        ]
+      },
+      "right": {
+        "label": "antonym = opposite meaning",
+        "text": "Do the same with **antonyms**, and note anything special about how they are used.",
+        "examples": [
+          "urban - **rural**",
+          "satisfied - **dissatisfied**",
+          "mild - **spicy**",
+          "supply somebody with something - **deprive** somebody **of** something"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Organising by word class and stress",
+      "columns": ["Noun", "Verb", "Adjective", "Person"],
+      "rows": [
+        ["perfection", "perfect", "perfect", "perfectionist"],
+        ["information", "inform", "informative", "-"],
+        ["politics", "-", "political", "politician"],
+        ["economics", "economise", "economic / economical", "economist"],
+        ["produce / product", "produce", "productive", "producer"]
+      ],
+      "note": "Record where the stress falls, especially when it moves between word classes: to proDUCE (verb) but PROduce (noun)."
+    },
+    {
+      "type": "tip",
+      "text": "Keep a page at the back of your notebook for the mistakes you make again and again, or the ones your teacher keeps mentioning."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Put each word or phrase under the right topic heading.",
+      "categories": ["Working too much", "Friendship", "Media"],
+      "items": [
+        { "text": "stress", "category": 0 },
+        { "text": "burnt out", "category": 0 },
+        { "text": "snowed under with work", "category": 0 },
+        { "text": "hang out with somebody", "category": 1 },
+        { "text": "be close to somebody", "category": 1 },
+        { "text": "count on somebody", "category": 1 },
+        { "text": "tabloid", "category": 2 },
+        { "text": "blogosphere", "category": 2 }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "A learner wrote these sleep and hurry words down at random. Sort them by word class.",
+      "categories": ["Nouns", "Verbs", "Adjectives"],
+      "items": [
+        { "text": "latecomer", "category": 0 },
+        { "text": "alarm clock", "category": 0 },
+        { "text": "nightmare", "category": 0 },
+        { "text": "oversleep", "category": 1 },
+        { "text": "rush", "category": 1 },
+        { "text": "yawn", "category": 1 },
+        { "text": "breathless", "category": 2 },
+        { "text": "exhausted", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the nouns it collocates with.",
+      "pairs": [
+        { "left": "win", "right": "a prize, an award, a medal" },
+        { "left": "earn", "right": "money, a high salary" },
+        { "left": "gain", "right": "time, an advantage" },
+        { "left": "release", "right": "an album" },
+        { "left": "strum", "right": "a guitar" },
+        { "left": "set", "right": "a clock" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which two of these are fixed phrases rather than single words?",
+      "options": [
+        "out of breath / in a hurry",
+        "latecomer / nightmare",
+        "oversleep / dash",
+        "breathless / exhausted"
+      ],
+      "answer": 0,
+      "explanation": "Out of breath and in a hurry are fixed phrases, so record the whole phrase, not just one word."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I was pleased to hear you'd passed your exam. Replace *pleased* with a synonym: I was ___ to hear you'd passed your exam.",
+      "hint": "(synonym of pleased)",
+      "answers": ["glad"],
+      "explanation": "Glad is a synonym of pleased."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's a cold day today. Replace *cold* with a synonym: It's a ___ day today.",
+      "hint": "(synonym of cold)",
+      "answers": ["chilly"],
+      "explanation": "Chilly means unpleasantly cold, but not extremely cold."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I got some excellent photos of the Grand Canyon. Replace *photos* with a synonym: I got some excellent ___ of the Grand Canyon.",
+      "hint": "(synonym of photos)",
+      "answers": ["shots"],
+      "explanation": "A shot is a photograph, especially a well-taken one."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She was happy with the conditions they offered her. Use an antonym: She was ___ with the conditions they offered her.",
+      "hint": "(antonym of satisfied)",
+      "answers": ["dissatisfied"],
+      "explanation": "Dissatisfied is the antonym of satisfied and the opposite of happy here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like mild curries. Use an antonym: I don't like ___ curries.",
+      "hint": "(antonym of mild)",
+      "answers": ["spicy"],
+      "explanation": "Spicy is the opposite of mild when we talk about food."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The prisoners were supplied with food and medical care. Use an antonym: The prisoners were ___ food and medical care.",
+      "hint": "(deprive)",
+      "answers": ["deprived of"],
+      "explanation": "Deprive somebody of something is the opposite of supply somebody with something."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each noun with the person who does it.",
+      "pairs": [
+        { "left": "perfection", "right": "perfectionist" },
+        { "left": "politics", "right": "politician" },
+        { "left": "economics", "right": "economist" },
+        { "left": "journalism", "right": "journalist" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "The adjective from *information* is *informative*.",
+      "answer": true,
+      "explanation": "Correct: inform (verb), information (noun), informative (adjective)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the note-taking advice in order.",
+      "words": ["Always", "record", "the", "common", "collocations", "of", "a", "word", "as", "you", "meet", "them."],
+      "answer": "Always record the common collocations of a word as you meet them.",
+      "explanation": "Collocations are best recorded at the moment you meet them, inside the phrase."
+    }
+  ]
+}

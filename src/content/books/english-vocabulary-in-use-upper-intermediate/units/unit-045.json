@@ -1,0 +1,240 @@
+{
+  "number": 45,
+  "title": "Speaking",
+  "subtitle": "whisper, mutter, object to, angrily",
+  "summary": "Report what people say and how they say it - whisper, mumble, shriek - and use the verbs and adverbs that show the speaker's mood and intention.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Reporting verbs: how loud, and what mood",
+      "columns": ["Verb", "Loudness", "Most likely mood"],
+      "rows": [
+        ["**whisper**", "very soft", "telling someone a secret"],
+        ["**murmur**", "soft", "romantic or complaining"],
+        ["**mumble**", "soft and unclear", "nervous or insecure"],
+        ["**mutter**", "soft", "irritated"],
+        ["**shout**", "loud", "angry or excited"],
+        ["**scream**", "loud, usually without words", "frightened or excited"],
+        ["**shriek**", "loud and shrill", "frightened or amused"],
+        ["**stutter**, **stammer**", "neutral", "nervous or excited"]
+      ],
+      "note": "People also whisper in places where it would be impolite to speak loudly. Stuttering and stammering may also be the result of a speech impediment."
+    },
+    {
+      "type": "explain",
+      "heading": "Using the reporting verbs",
+      "text": "These verbs can introduce direct speech or a reported clause. In writing they save you a whole sentence of explanation.",
+      "examples": [
+        { "text": "'I'm sick of this. I'm going home,' he **muttered**." },
+        { "text": "Suddenly, someone **shouted** 'Help!'" },
+        { "text": "She **whispered** that she was not happy with the way the meeting was going." },
+        { "text": "'I d-d-d-did it,' he **stuttered**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs that show feelings and intentions",
+      "columns": ["Verb", "Pattern", "Feeling"],
+      "rows": [
+        ["**boast**", "to sb about sth", "proud of yourself"],
+        ["**insist**", "on sth", "determined"],
+        ["**object**", "to + -ing", "unhappy with a situation"],
+        ["**threaten**", "to do sth", "aggressive"],
+        ["**argue**", "with sb about sth", "not in agreement"],
+        ["**groan**", "that", "despair, pain"],
+        ["**complain**", "to sb about sth", "displeased"],
+        ["**maintain**", "that", "confident"],
+        ["**confess**", "to + -ing", "repentant"],
+        ["**urge**", "sb to do sth", "encouraging"],
+        ["**beg**", "sb to do sth", "desperate"],
+        ["**grumble**", "about sth", "displeased"]
+      ],
+      "note": "Most of these verbs can also take a that clause: She **boasted that** she had scored 20 goals in one season. He **threatened (that)** he would call the police."
+    },
+    {
+      "type": "table",
+      "heading": "Adverbs related to speech",
+      "columns": ["Feeling", "Adverbs"],
+      "rows": [
+        ["angry", "**angrily**, **furiously**, **bitterly**"],
+        ["unhappy", "**gloomily**, **miserably**, **sadly**"],
+        ["happy", "**happily**, **cheerfully**, **gladly**, **hopefully**"],
+        ["worried", "**anxiously**, **nervously**, **desperately**"],
+        ["other useful ones", "**excitedly**, **impatiently**, **reluctantly**, **shyly**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verb plus adverb",
+      "text": "To show how someone feels, pair a speaking verb with an adverb. This is very common in written style.",
+      "examples": [
+        { "text": "'You must pay attention!' Milly **shouted angrily**." },
+        { "text": "'I feel much better today, thank you,' Andrew **said happily**." },
+        { "text": "'I'm very worried. She said she would phone us,' Rory **said anxiously**." },
+        { "text": "'We may be lucky and the rain might stop,' Anna **said hopefully**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Reluctantly is the adverb for doing something you do not really want to do: 'All right, I'll come,' he said reluctantly."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "'Don't look now, but Matt has just arrived,' she ___ in my ear.",
+      "hint": "(verb, past tense)",
+      "answers": ["whispered"],
+      "explanation": "You whisper a secret very softly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Joey! Come here at once!!' his mother ___.",
+      "hint": "(verb, past tense)",
+      "answers": ["shouted"],
+      "explanation": "Shout is loud and usually angry or excited."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I d-d-d-did it,' he ___.",
+      "hint": "(verb, past tense)",
+      "answers": ["stuttered", "stammered"],
+      "explanation": "Stutter and stammer suggest nervousness or excitement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I'm sick of this meeting. I'm going home,' he ___.",
+      "hint": "(soft and irritated)",
+      "answers": ["muttered"],
+      "explanation": "Mutter is soft and irritated."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Oh, that's so, so funny!' she ___ with laughter.",
+      "hint": "(loud and shrill)",
+      "answers": ["shrieked"],
+      "explanation": "A shriek is loud and shrill, from fright or amusement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'There's a spider!!!' she ___.",
+      "hint": "(loud, from fright)",
+      "answers": ["screamed"],
+      "explanation": "A scream is loud and usually without words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'Stop ___! I can't hear what you're saying,' she said.",
+      "hint": "(-ing form; soft and unclear)",
+      "answers": ["mumbling", "muttering"],
+      "explanation": "Mumbling is soft and unclear, often from nervousness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I think we should leave now. It's late,' he ___ quietly.",
+      "hint": "(verb, past tense)",
+      "answers": ["murmured", "whispered"],
+      "explanation": "Murmur is soft; it suits a quiet, private remark."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the sentence beginnings with their endings.",
+      "pairs": [
+        { "left": "He always maintained", "right": "that he could read people's minds." },
+        { "left": "He groaned", "right": "that he needed a doctor immediately." },
+        { "left": "They threatened", "right": "to cancel my parking permit." },
+        { "left": "She complained", "right": "about the noise coming from above." },
+        { "left": "He begged me", "right": "not to leave, but I had to." },
+        { "left": "She insisted", "right": "on using recycled paper for everything." }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark with the adverb that best describes how it was said.",
+      "pairs": [
+        { "left": "I feel much better today, thank you.", "right": "happily" },
+        { "left": "Oh wow! I've just won a prize in a competition!", "right": "excitedly" },
+        { "left": "I will never forgive them for what they did.", "right": "bitterly" },
+        { "left": "This is our last day together. I'll miss you.", "right": "sadly" },
+        { "left": "Oh, come on! Do hurry up! Let's go! Now!", "right": "impatiently" },
+        { "left": "We may be lucky and the rain might stop.", "right": "hopefully" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Don't ___ about your talents to your friends. They'll stop liking you.",
+      "hint": "(verb beginning with b)",
+      "answers": ["boast"],
+      "explanation": "You boast to someone about something when you are proud of yourself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ to having to sit on the floor. I paid for a seat.",
+      "hint": "(verb beginning with o)",
+      "answers": ["object"],
+      "explanation": "Object to + -ing shows you are unhappy with a situation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Stop ___ about your job all the time.",
+      "hint": "(-ing form, verb beginning with g)",
+      "answers": ["grumbling"],
+      "explanation": "Grumble about something means complain about it repeatedly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ us to help her.",
+      "hint": "(beg - past tense)",
+      "answers": ["begged"],
+      "explanation": "Beg someone to do something shows desperation."
+    },
+    {
+      "type": "mcq",
+      "prompt": "He talked about refusing to pay and calling the police. Which is the correct rewrite?",
+      "options": [
+        "He threatened to refuse to pay and to call the police.",
+        "He threatened refusing to pay and calling the police.",
+        "He threatened on refusing to pay.",
+        "He threatened about refusing to pay."
+      ],
+      "answer": 0,
+      "explanation": "Threaten is followed by to + infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Let's be friends. I don't want to argue ___ you.",
+      "options": ["with", "to", "at", "on"],
+      "answer": 0,
+      "explanation": "You argue with someone about something."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which adverb means that someone does not want to do something?",
+      "options": ["reluctantly", "gladly", "cheerfully", "impatiently"],
+      "answer": 0,
+      "explanation": "Reluctantly means unwillingly."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do these adverbs describe positive or negative feelings?",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "cheerfully", "category": 0 },
+        { "text": "gladly", "category": 0 },
+        { "text": "hopefully", "category": 0 },
+        { "text": "gloomily", "category": 1 },
+        { "text": "miserably", "category": 1 },
+        { "text": "desperately", "category": 1 },
+        { "text": "bitterly", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["She", "whispered", "that", "she", "was not happy", "with", "the way", "the meeting", "was going."],
+      "answer": "She whispered that she was not happy with the way the meeting was going.",
+      "explanation": "Whisper can introduce a that clause as well as direct speech."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "number": 67,
+  "title": "Cause and effect",
+  "subtitle": "cause, produce, generate, stem from",
+  "summary": "Choose between cause, produce, give and generate by their collocations, and use the other cause words - provoke, spark, precipitate, bring about, stem from - with the right prepositions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The four main cause verbs and what they go with",
+      "columns": ["Verb", "Feel and register", "Typical objects"],
+      "rows": [
+        ["cause", "usually negative results and situations", "sadness/unhappiness; (a lot of) trouble/problems; an illness, e.g. pneumonia; a disaster / an accident"],
+        ["produce", "neutral, more concrete results; formal", "a report; statistics/figures; good results; evidence"],
+        ["give", "positive or negative; less formal than cause", "(a lot of) pleasure/happiness; a reason/motivation for something; (a lot of) trouble; good results"],
+        ["generate", "formal; often where people must do more than usual, and in computing; sometimes slightly negative", "revenue/income/money; complaints / extra work / controversy; graphics/documents; interest/enthusiasm/publicity"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The four verbs in sentences",
+      "text": "Learn each verb through its collocations. **Cause** takes the bad news, **produce** the concrete output, **give** the personal experience, good or bad, and **generate** the money, the interest and the computer file.",
+      "examples": [
+        { "text": "The new computer system has **caused** us a lot of problems." },
+        { "text": "Cooking the dish for a long time at a very low heat **produces** the best results." },
+        { "text": "Our dog has **given** us a lot of pleasure over the years." },
+        { "text": "This car is **giving** me so much trouble, I'm going to get rid of it." },
+        { "text": "It's going to be difficult to **generate** sufficient interest in the project." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "With or without human intervention",
+      "left": {
+        "label": "cause / give",
+        "text": "Often used for things that happen without anybody doing anything.",
+        "examples": [
+          "The hurricane **caused** terrible damage.",
+          "His stomach cancer was **caused** by exposure to radiation."
+        ]
+      },
+      "right": {
+        "label": "produce / generate",
+        "text": "Usually suggest some sort of intervention by people.",
+        "examples": [
+          "His presentation **generated** a lot of interest in the project.",
+          "Scientists can **produce** statistics and figures that prove almost anything."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Sudden causes and gradual ones",
+      "text": "**Provoke** is ideal for negative responses and emotions. **Precipitate** and **spark** mean to cause quickly and suddenly - perfect for things that explode into life. **Bring about**, by contrast, means to produce gradually.",
+      "examples": [
+        { "text": "The news **provoked** a feeling of despair in everyone." },
+        { "text": "The book **provoked** a lot of anger amongst female readers." },
+        { "text": "The events **precipitated**/**sparked** a political crisis." },
+        { "text": "The invention of the car **brought about** great changes in society." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Looking back at the cause",
+      "text": "To **result in** something is to produce it; to **stem from** something is to be a result of it. **Grounds for** something is a cause or reason, and an argument **based on** data has been developed as a result of that data.",
+      "examples": [
+        { "text": "Your action has **resulted in** a formal complaint from a member of the public." },
+        { "text": "His problems **stem from** his difficult childhood." },
+        { "text": "Have you any **grounds for** suspecting him?" },
+        { "text": "My argument is **based on** the available data." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The prepositions to fix in your memory",
+      "columns": ["Pattern", "Example"],
+      "rows": [
+        ["grounds for", "I have good grounds for believing that he is lying."],
+        ["based on", "My suspicions are based on what I saw with my own eyes."],
+        ["implications for", "The government's decision has serious implications for the economy."],
+        ["stem from", "His fear of flying stems from a film he once saw."],
+        ["result in", "All her hard work has resulted in success."],
+        ["bring about", "The riots will probably bring about a change of government."],
+        ["be caused by", "A considerable amount of damage was caused by the tornado."]
+      ],
+      "note": "If a proposal has implications for something, it is likely to cause certain results there."
+    },
+    {
+      "type": "tip",
+      "text": "**Result** only ever collocates with **in** - hard work **results in** success, never ~~results to~~ success."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "We need to ___ a list of names and addresses by six o'clock tonight.",
+      "hint": "(the usual verb with list, report, figures)",
+      "answers": ["produce", "generate"],
+      "explanation": "Produce is the most frequent collocation with list; generate is possible in more technical contexts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her death was ___ by a sign falling from a shop front in the heavy winds.",
+      "hint": "(past participle; a negative result)",
+      "answers": ["caused"],
+      "explanation": "Cause collocates with negative situations, and is used where nobody deliberately intervened."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His stupidity ___ in none of us being able to get home that night.",
+      "hint": "(past tense; the verb that takes in)",
+      "answers": ["resulted"],
+      "explanation": "Result is the only possibility here - it collocates with in."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Your letters have ___ me so much pleasure. Please don't stop writing them.",
+      "hint": "(the less formal verb, used for positive results)",
+      "answers": ["given"],
+      "explanation": "Give is less formal than cause and can be used for positive results such as pleasure and happiness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The book ___ a lot of anger amongst female readers.",
+      "hint": "(past tense; ideal for negative emotions)",
+      "answers": ["provoked"],
+      "explanation": "Provoke is ideal for negative responses and emotions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The decision by the government to relax the regulations has ___ a lot of investment in the poorer regions.",
+      "hint": "(past participle; money, interest, revenue)",
+      "answers": ["generated", "produced"],
+      "explanation": "Generate is used for revenue, income, interest and publicity, and suggests human intervention."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The Governor's remarks almost ___ a full-scale war between the two regions.",
+      "options": ["sparked", "produced", "gave", "generated"],
+      "answer": 0,
+      "explanation": "Spark and precipitate are ideal for things that happen suddenly and violently."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I don't necessarily want to ___ a crisis, but I have some bad news to tell you all.",
+      "options": ["precipitate", "produce", "generate", "stem"],
+      "answer": 0,
+      "explanation": "Precipitate means to cause something suddenly, and is more dramatic than cause or bring about."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The invention of the car ___ great changes in society.",
+      "options": ["brought about", "sparked off", "resulted", "generated"],
+      "answer": 0,
+      "explanation": "Bring about means to produce gradually, over a long period."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I have good grounds ___ believing that he is lying.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "Grounds for something is a cause or reason for it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My suspicions are based ___ what I saw with my own eyes.",
+      "hint": "(preposition)",
+      "answers": ["on"],
+      "explanation": "An argument or suspicion is based on the evidence that provides its basis."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "His fear of flying stems ___ a film he once saw.",
+      "hint": "(preposition)",
+      "answers": ["from"],
+      "explanation": "To stem from something is to be a result of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The government's decision has serious implications ___ the economy.",
+      "hint": "(preposition)",
+      "answers": ["for"],
+      "explanation": "Implications for something means it is likely to cause certain results there."
+    },
+    {
+      "type": "true_false",
+      "statement": "Produce and generate usually suggest that people have intervened in some way.",
+      "answer": true,
+      "explanation": "Correct - cause and give are the verbs used when things happen without anyone doing anything."
+    },
+    {
+      "type": "true_false",
+      "statement": "We would normally say 'The dog caused us a lot of pleasure over the years.'",
+      "answer": false,
+      "explanation": "Cause collocates with negative results. Say: The dog has given us a lot of pleasure over the years."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each cause with its effect, using the verb suggested.",
+      "pairs": [
+        { "left": "The higher taxes sparked off ...", "right": "riots in three cities" },
+        { "left": "Icy roads have caused ...", "right": "a number of serious accidents this week" },
+        { "left": "My old car has given me ...", "right": "endless problems and a lot of expense" },
+        { "left": "This software can generate ...", "right": "stunning images and graphics" },
+        { "left": "Jealousy caused ...", "right": "the break-up of his marriage" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite this with 'caused': Because of the crash on the motorway, all traffic is being severely delayed.",
+      "words": ["The", "crash", "on", "the", "motorway", "has", "caused", "all", "traffic", "to", "be", "severely", "delayed"],
+      "answer": "The crash on the motorway has caused all traffic to be severely delayed",
+      "explanation": "Cause takes the pattern cause something to do something, and collocates with negative situations."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite this with 'brought about': There were many flight cancellations because of bad weather.",
+      "words": ["The", "bad", "weather", "brought", "about", "many", "flight", "cancellations"],
+      "answer": "The bad weather brought about many flight cancellations",
+      "explanation": "Bring about means to produce a result, typically gradually."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "number": 3,
+  "title": "Using a dictionary",
+  "subtitle": "look up, definition, part of speech",
+  "summary": "Learn what a dictionary tells you about a word - spelling, pronunciation, part of speech, definition and examples - and how to look words up well.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Which dictionary do I need?",
+      "left": {
+        "label": "A bilingual dictionary",
+        "text": "**Bilingual** means it uses two languages. It is easy to understand, and quick and easy to use.",
+        "examples": [
+          "A **bilingual** dictionary gives you the word in your own language.",
+          "It is quick when you just need the meaning."
+        ]
+      },
+      "right": {
+        "label": "A dictionary in English",
+        "text": "It gives you reading practice in English and many more examples of how a word is used.",
+        "examples": [
+          "An English dictionary gives you a **definition** and several examples.",
+          "It shows you the word partners that go with the word."
+        ]
+      },
+      "note": "If possible, use both. Most good learner's dictionaries are also available online."
+    },
+    {
+      "type": "explain",
+      "heading": "Looking up a word",
+      "text": "To **look up** a word means to find it in a dictionary. A **definition** explains the meaning of the word. The dictionary also tells you the **part of speech** - noun, verb, adjective, and so on.",
+      "examples": [
+        { "text": "I'll **look up** the word in my dictionary." },
+        { "text": "*fun* (noun): enjoyment or pleasure, or something that gives you enjoyment.", "note": "This is the definition." },
+        { "text": "She's great fun to be with. / Have fun!", "note": "Examples are printed in italics." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What the dictionary tells you about a word",
+      "columns": ["Information", "What it means"],
+      "rows": [
+        ["pronunciation", "how you say the word, written in phonemic symbols"],
+        ["part of speech", "noun, verb, adjective, adverb, preposition ..."],
+        ["[U]", "the noun is uncountable, e.g. fun"],
+        ["a definition", "a short explanation of the meaning"],
+        ["examples in italics", "real sentences that show how the word is used"],
+        ["bold italics", "common word partners that go with the word"],
+        ["fixed phrases in bold", "e.g. for fun, make fun of somebody"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Spelling and silent letters",
+      "text": "A dictionary is the fastest way to check a spelling. It also shows you **silent letters** - letters you write but do not say. In the word *island* the letter 's' is silent.",
+      "examples": [
+        { "text": "**accommodation**, **necessary**, **unfortunately**", "note": "Three spellings that learners often get wrong." },
+        { "text": "In **knee** you do not say the 'k'; in **comb** you do not say the 'b'." },
+        { "text": "Both **organise** and **organize** are possible in British English.", "note": "The 'z' spelling is usual in American English." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Defining words",
+      "text": "**Defining words** are the words a dictionary uses to explain other words. Some of them are very common, so it helps to learn them first.",
+      "examples": [
+        { "text": "My teacher has always **emphasised** the importance of a notebook.", "note": "emphasise = give something more attention and importance" },
+        { "text": "*musical* is **connected with** / **related to** music.", "note": "relating to = having a relationship with something" },
+        { "text": "Five million pounds is a large **amount** of money.", "note": "amount = how much there is of something" },
+        { "text": "A passport is an **official** document.", "note": "official = done by the government or someone in authority" },
+        { "text": "People can **behave** strangely when they're nervous.", "note": "behave = do or say things in a particular way" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How to use a dictionary well",
+      "text": "Put a tick next to a word when you check it. Each time you come back to that page, **see** if you still remember it. When you meet a new word in a text, first try to **guess** the meaning, then use the dictionary to see if your guess was correct.",
+      "examples": [
+        { "text": "Don't just read the definition - the examples show you how the word is used." },
+        { "text": "If a bilingual dictionary gives you two or three translations, check them in an English dictionary." }
+      ],
+      "note": "Many words have more than one meaning. The first meaning in the dictionary is not always the one you want."
+    },
+    {
+      "type": "table",
+      "heading": "One word, four meanings: post",
+      "columns": ["Meaning", "Example"],
+      "rows": [
+        ["the system for sending letters", "Did you send the cheque by post?"],
+        ["letters and parcels you send or receive", "We haven't had any post yet."],
+        ["a job (formal)", "He's applied for a post overseas."],
+        ["a long piece of wood or metal in the ground", "I tied the flag to a post."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Read all the meanings before you choose one. The meaning you want is often the second or third in the list."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I didn't know the word, so I had to ___ it up in my dictionary.",
+      "hint": "(= find it in a dictionary)",
+      "answers": ["look"],
+      "explanation": "To look up a word is to find it in a dictionary."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is a **bilingual** dictionary?",
+      "options": [
+        "a dictionary that uses two languages",
+        "a dictionary that is only online",
+        "a dictionary with pictures",
+        "a dictionary for young children"
+      ],
+      "answer": 0,
+      "explanation": "Bilingual means using two languages."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the spelling right or wrong?",
+      "categories": ["Correct spelling", "Wrong spelling"],
+      "items": [
+        { "text": "always", "category": 0 },
+        { "text": "realy", "category": 1 },
+        { "text": "especially", "category": 0 },
+        { "text": "accomodation", "category": 1 },
+        { "text": "necessary", "category": 0 },
+        { "text": "beautifull", "category": 1 },
+        { "text": "comfortable", "category": 0 },
+        { "text": "unbeleivable", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Which letter is silent in each word?",
+      "pairs": [
+        { "left": "knee", "right": "the letter k" },
+        { "left": "comb", "right": "the letter b" },
+        { "left": "castle", "right": "the letter t" },
+        { "left": "salmon", "right": "the letter l" },
+        { "left": "receipt", "right": "the letter p" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A sum is an ___ of money.",
+      "hint": "(= how much there is of something)",
+      "answers": ["amount"],
+      "explanation": "Amount tells you how much there is of something."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "To pretend is to ___ as if something is true when it is not.",
+      "hint": "(= do or say things in a particular way)",
+      "answers": ["behave"],
+      "explanation": "Behave means do or say things in a particular way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A certificate is an ___ document that shows something is true.",
+      "hint": "(= done by the government or someone in authority)",
+      "answers": ["official"],
+      "explanation": "Official = done by the government or someone in authority, like a passport."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the dictionary, *not at all* is 'used instead of no or not to ___ what you are saying', as in *I'm not at all happy about it*.",
+      "options": [
+        "emphasise",
+        "translate",
+        "behave",
+        "guess"
+      ],
+      "answer": 0,
+      "explanation": "Emphasise means give something more attention and importance."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Advice is an ___ noun, so we never say 'advices'.",
+      "hint": "(the dictionary marks it [U])",
+      "answers": ["uncountable"],
+      "explanation": "[U] in a dictionary means the noun is uncountable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We were at school together, so she's an ___ friend.",
+      "hint": "(a common word partner of friend)",
+      "answers": ["old"],
+      "explanation": "An old friend is one you have known for a long time. Other word partners: my best friend, a close friend."
+    },
+    {
+      "type": "matching",
+      "prompt": "The word *post* has four meanings. Match each sentence with the right one.",
+      "pairs": [
+        { "left": "He's applied for a post overseas.", "right": "a job" },
+        { "left": "Did you send the cheque by post?", "right": "the system for sending letters" },
+        { "left": "I tied the flag to a post.", "right": "a long piece of wood or metal" },
+        { "left": "We haven't had any post yet.", "right": "letters and parcels you receive" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "What should you do before you open your dictionary?",
+      "words": ["First", "try", "to", "guess", "the", "meaning", "of", "the", "new", "word."],
+      "answer": "First try to guess the meaning of the new word.",
+      "explanation": "Guess first, then check with the dictionary to see if your guess was correct."
+    },
+    {
+      "type": "true_false",
+      "statement": "A puppy is a very young dog.",
+      "answer": true,
+      "explanation": "Correct. This is the definition you find in a dictionary."
+    }
+  ]
+}

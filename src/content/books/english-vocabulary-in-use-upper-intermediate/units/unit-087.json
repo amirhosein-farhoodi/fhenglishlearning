@@ -1,0 +1,203 @@
+{
+  "number": 87,
+  "title": "Collective nouns",
+  "subtitle": "a flock of sheep, a bunch of flowers",
+  "summary": "Learn the nouns English uses for groups - of people, animals, landscape features and everyday things - and whether they take a singular or a plural verb.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Groups of people",
+      "text": "Collective nouns describe a group of the same people or things. For people in general, **a group** suggests a smaller number and **a crowd** a large one. **A gang** is rather negative.",
+      "examples": [
+        { "text": "A small **group of people** was waiting outside the office." },
+        { "text": "There was a huge **crowd of people** at the concert." },
+        { "text": "There was a **gang of youths** on the corner; they didn't look very friendly." },
+        { "text": "The police are looking for a **gang of thieves**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words used with particular animals",
+      "columns": ["Collective noun", "Used for"],
+      "rows": [
+        ["a flock", "sheep, or birds such as geese and pigeons"],
+        ["a herd", "cows, deer, goats"],
+        ["a shoal", "fish - a shoal of herring / mackerel"],
+        ["a swarm", "insects, typically flying ones - a swarm of bees / gnats / mosquitoes"],
+        ["a pack", "dogs, hyenas, wolves - and also playing cards"]
+      ],
+      "note": "Note the singular form of the fish name after shoal: a shoal of herring, not ~~herrings~~."
+    },
+    {
+      "type": "explain",
+      "heading": "People doing the same job",
+      "text": "These collective nouns take a **singular or a plural verb**, depending on whether you are thinking of the group as one body or as separate individuals. Staff is normally used with a plural verb.",
+      "examples": [
+        { "text": "A **team** of rescue workers was / were at the scene of the disaster." },
+        { "text": "The **crew** was / were saved when the ship sank.", "note": "crew = the workers on a ship, ambulance or plane" },
+        { "text": "The **company** is / are rehearsing a new production.", "note": "company = a group of actors" },
+        { "text": "The **cast** is / are all amateurs.", "note": "cast = the actors in a film or play" },
+        { "text": "The **staff** are on strike.", "note": "staff = any group who share a place of work" }
+      ],
+      "note": "The public also takes either verb: The public has / have a right to know the truth."
+    },
+    {
+      "type": "table",
+      "heading": "Landscape and everyday things",
+      "columns": ["Phrase", "Used for"],
+      "rows": [
+        ["a row of ...", "houses, cottages, seats"],
+        ["a clump of ...", "trees"],
+        ["a range of ...", "hills, mountains"],
+        ["a group of ...", "islands"],
+        ["a pair of ...", "two things that are the same - a pair of birds"],
+        ["a couple of ...", "a vague way of saying two - a couple of strawberries"],
+        ["a pile / heap of ...", "papers, clothes, dishes, toys, bed linen"],
+        ["a bunch of ...", "flowers, grapes, bananas"],
+        ["a stack of ...", "chairs, tables, boxes, logs"],
+        ["a set of ...", "tools, pots and pans, dishes, glasses"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "a pair or a couple?",
+      "left": {
+        "label": "a pair of",
+        "text": "Two of anything that are **the same**.",
+        "examples": [
+          "There was a **pair of birds** sitting on a branch.",
+          "She gave me a **pair of silver candlesticks**."
+        ]
+      },
+      "right": {
+        "label": "a couple of",
+        "text": "A vague way of saying two - they are **not necessarily identical**.",
+        "examples": [
+          "Could you put a **couple of spoons of sugar** in this coffee?",
+          "I'll be back in a **couple of minutes**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Collective nouns for language",
+      "text": "Some collective nouns are used with words about speaking and writing. They are common in journalism and in formal writing.",
+      "examples": [
+        { "text": "The journalists raised a **host of** difficult questions.", "note": "a host of = a large number of" },
+        { "text": "There had been a **barrage of** complaints about police violence.", "note": "a barrage of = a rapid, aggressive stream of" },
+        { "text": "He was not prepared to listen to a **string of** wild accusations." },
+        { "text": "He just gave a **series of** short answers that left everyone dissatisfied." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "If you cannot remember the special word, *a group of* is almost always safe - but the specific one, like *a shoal of fish*, sounds far more natural."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each collective noun with the word that follows it.",
+      "pairs": [
+        { "left": "a clump of", "right": "fir trees" },
+        { "left": "a range of", "right": "mountains" },
+        { "left": "a gang of", "right": "criminals" },
+        { "left": "a swarm of", "right": "flies" },
+        { "left": "a row of", "right": "houses" },
+        { "left": "a herd of", "right": "deer" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As we looked into the water, we saw a ___ of brightly coloured fish.",
+      "hint": "(the word for a group of fish)",
+      "answers": ["shoal"],
+      "explanation": "Fish move in a shoal; insects in a swarm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "There's a ___ of cards on the bookshelf. Will you fetch them for me, please?",
+      "hint": "(also used for wolves)",
+      "answers": ["pack"],
+      "explanation": "A pack of cards, and also a pack of dogs or wolves."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ of biologists is studying marine life in this area.",
+      "hint": "(a group working together)",
+      "answers": ["team"],
+      "explanation": "Team takes a singular or a plural verb, depending on your point of view."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Look at that ___ of birds on that tree. Both of them have beautiful markings.",
+      "hint": "(two of the same kind)",
+      "answers": ["pair"],
+      "explanation": "A pair is two of anything that are the same."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Could you put a ___ of spoons of sugar in this coffee for me? Yes, just two, that's fine.",
+      "hint": "(a vague way of saying two)",
+      "answers": ["couple"],
+      "explanation": "A couple of is an approximate two; a pair of is two matching things."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go with *company*?",
+      "options": ["swimmers", "actors", "opera singers", "dancers"],
+      "answer": 0,
+      "explanation": "A company is a group of performers, not of swimmers."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go with *crew*?",
+      "options": ["a hospital", "an ambulance", "a plane", "a ship"],
+      "answer": 0,
+      "explanation": "A hospital has staff; a ship, plane or ambulance has a crew."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go with *flock*?",
+      "options": ["pigs", "sheep", "pigeons", "geese"],
+      "answer": 0,
+      "explanation": "Flock is for sheep and birds. Pigs are kept in a herd."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which collective noun goes with each animal?",
+      "categories": ["a herd of", "a swarm of", "a pack of"],
+      "items": [
+        { "text": "cows", "category": 0 },
+        { "text": "goats", "category": 0 },
+        { "text": "deer", "category": 0 },
+        { "text": "bees", "category": 1 },
+        { "text": "gnats", "category": 1 },
+        { "text": "mosquitoes", "category": 1 },
+        { "text": "wolves", "category": 2 },
+        { "text": "hyenas", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "There is a stack of tables in the next room.",
+      "answer": true,
+      "explanation": "Correct - a stack is things placed on top of one another: chairs, tables, boxes, logs."
+    },
+    {
+      "type": "true_false",
+      "statement": "A herd of sheep had escaped from a field.",
+      "answer": false,
+      "explanation": "A flock of sheep had escaped from a field. Herd is for cows, deer and goats."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["She", "gave", "me", "a", "bunch", "of", "beautiful", "roses", "for", "my", "birthday."],
+      "answer": "She gave me a bunch of beautiful roses for my birthday.",
+      "alternatives": ["She gave me a beautiful bunch of roses for my birthday."],
+      "explanation": "Bunch goes with flowers, grapes and bananas."
+    }
+  ]
+}

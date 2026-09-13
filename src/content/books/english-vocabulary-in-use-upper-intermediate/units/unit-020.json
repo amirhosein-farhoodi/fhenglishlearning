@@ -1,0 +1,203 @@
+{
+  "number": 20,
+  "title": "Theatre and cinema",
+  "subtitle": "cast, sets, script, rave reviews",
+  "summary": "Talk about plays and films using the words theatre-goers and film fans really use - cast, sets, direction, screenplay, score and rave reviews.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "At the theatre",
+      "text": "Here is someone describing a night at the theatre. Notice how many of these words come in fixed pairs: you *give* a **performance** and a show *gets* **rave reviews**.",
+      "examples": [
+        { "text": "We went to see a new **production** of *Hamlet* last night." },
+        { "text": "The **sets** were incredibly realistic and the **costumes** were wonderful.", "note": "sets = the scenery, buildings and furniture on stage; costumes = the clothes the actors wear" },
+        { "text": "It was a good **cast** and I thought the **direction** was excellent.", "note": "cast = all the actors in the performance; direction = the way the director organised the performance" },
+        { "text": "Toby Cartwright **gave a marvellous performance**." },
+        { "text": "It **got rave reviews** in the papers today.", "note": "rave reviews = very enthusiastic comments" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "People who perform and people who watch",
+      "text": "**Dance** usually refers to modern artistic dance forms, while **ballet** has a more traditional feel unless we say *modern ballet*. A **comedian** entertains people by telling jokes, and **entertainers** in general are people whose job it is to entertain others.",
+      "examples": [
+        { "text": "The people who watch a show are the **audience**." },
+        { "text": "**Viewer** is only used about someone watching a TV programme.", "note": "Never call theatre-goers viewers." },
+        { "text": "A **comedian** may have a show of their own or **feature** in a show with lots of different **entertainers**." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "the cinema or just cinema?",
+      "left": {
+        "label": "No article: the art form in general",
+        "text": "When we refer to a performing art in general, we can leave out *the*.",
+        "examples": [
+          "Are you interested in **cinema**?",
+          "She's got a diploma in **dance**.",
+          "The government doesn't give enough money to **ballet**."
+        ]
+      },
+      "right": {
+        "label": "the: a particular performance",
+        "text": "When we mean going to a particular show, we use *the*.",
+        "examples": [
+          "Would you like to come to **the opera** with us next week?",
+          "Shall we go to **the cinema** this evening?",
+          "I've got some tickets for **the opera**. Interested?"
+        ]
+      },
+      "note": "With *prefer*, both are possible: I much prefer (the) theatre to (the) ballet."
+    },
+    {
+      "type": "explain",
+      "heading": "At the cinema",
+      "text": "Two friends discuss a James Bond film. Notice the difference between the **script** (the words of the film) and the **screenplay** (the full text including instructions for actors and camera operators).",
+      "examples": [
+        { "text": "*Anna:* Our local cinema's **showing** *Spectre* again next week. Do you fancy going to see it?" },
+        { "text": "*Beth:* I love the opening **scene** at the carnival in Mexico City. The Bond films are always **set** in great locations.", "note": "scene = part of a film where the action happens in one place; be set in = take place in" },
+        { "text": "*Anna:* I think the film really **captures** the human side of James Bond.", "note": "captures = represents very accurately" },
+        { "text": "*Beth:* A lot of work went into the **script**, and the **dialogue**'s particularly good." },
+        { "text": "*Anna:* Do you know who the **director** was? *Beth:* Sam Mendes. He didn't write the **screenplay**, though. The **score** is by Thomas Newman.", "note": "score = the music written for a film" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words for the film and the play",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["script", "the words of a play or film"],
+        ["screenplay", "the text for a film, including instructions for actors and camera operators"],
+        ["dialogue", "conversation written for a book, play or film"],
+        ["score", "the music written for a film"],
+        ["scene", "a part of a play or film where the action happens in one place"],
+        ["director", "the person in charge of making a play or film"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other words connected with events in the arts",
+      "text": "A few more useful words, with the prepositions that go with them. Note that things are **on at** a cinema or theatre.",
+      "examples": [
+        { "text": "The Opera Society are **doing a performance** of *Don Giovanni*." },
+        { "text": "The National Theatre has a very large and versatile **stage**.", "note": "stage = the area above ground level where actors perform" },
+        { "text": "What's **on at** the cinema next week?" },
+        { "text": "Sometimes they use our school hall as a **venue** for concerts.", "note": "venue = the place where an event happens" },
+        { "text": "There was an actor on TV last night **promoting** an interesting new play he's **appearing in** at The Globe.", "note": "nouns: promotion, appearance" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn the collocations as whole phrases: *give a performance*, *get rave reviews*, *make a brief appearance*, *be set in* - they will save you thinking time when you speak."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each theatre or cinema word with its meaning.",
+      "pairs": [
+        { "left": "sets", "right": "the scenery and furniture on the stage" },
+        { "left": "costumes", "right": "the clothes the actors wear" },
+        { "left": "cast", "right": "all the actors in the performance" },
+        { "left": "score", "right": "the music written for a film" },
+        { "left": "venue", "right": "the place where an event is held" },
+        { "left": "audience", "right": "the people who watch a show" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Everybody loved the play. It got rave ___ in all the papers.",
+      "hint": "(enthusiastic newspaper comments)",
+      "answers": ["reviews"],
+      "explanation": "*Rave reviews* is a fixed collocation: very enthusiastic comments from critics."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't find that ___ particularly funny.",
+      "hint": "(comedy)",
+      "answers": ["comedian"],
+      "explanation": "A comedian is a person who entertains people by telling jokes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's unusual for a film to have two ___ but this one did.",
+      "hint": "(direct)",
+      "answers": ["directors"],
+      "explanation": "The director is the person in charge of making a play or film."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Paolo Tomassi is one of the best ___ I've seen for a long time.",
+      "hint": "(entertain)",
+      "answers": ["entertainers"],
+      "explanation": "Entertainers are people whose job it is to entertain others."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was one of the best ___ of a Shakespeare play I've ever seen.",
+      "hint": "(produce)",
+      "answers": ["productions"],
+      "explanation": "A production is one company's particular version of a play."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My favourite actor makes only a brief ___ in the film.",
+      "hint": "(appear)",
+      "answers": ["appearance"],
+      "explanation": "The noun from *appear in a play or film* is *appearance*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the gap need *the* or no article at all?",
+      "categories": ["the", "no article"],
+      "items": [
+        { "text": "Shall we go to ... cinema this evening?", "category": 0 },
+        { "text": "I've got some tickets for ... opera. Interested?", "category": 0 },
+        { "text": "Would you like to come to ... ballet with us next week?", "category": 0 },
+        { "text": "She's got a diploma in ... dance.", "category": 1 },
+        { "text": "The government doesn't give enough money to ... ballet.", "category": 1 },
+        { "text": "Are you interested in ... cinema?", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is about one particular show rather than the art form in general?",
+      "options": [
+        "Shall we go to the cinema this evening? There are several good things on.",
+        "She's got a diploma in dance from the Performing Arts Academy.",
+        "The government doesn't give enough money to ballet.",
+        "Are you interested in theatre at all?"
+      ],
+      "answer": 0,
+      "explanation": "We use *the* when we mean going to a particular performance, and no article when we talk about the art form in general."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The audience were impressed by the ___ the actors wore.",
+      "hint": "(clothes worn on stage)",
+      "answers": ["costumes"],
+      "explanation": "Costumes are the clothes the actors wear on stage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most importantly of all, the ___ was felt to be first class, with particularly strong performances from the two leading actors.",
+      "hint": "(all the actors together)",
+      "answers": ["cast"],
+      "explanation": "The cast is all the actors in a performance."
+    },
+    {
+      "type": "true_false",
+      "statement": "The people sitting in a theatre watching a play are called the viewers.",
+      "answer": false,
+      "explanation": "The people who watch a show are the audience. *Viewer* is only used about someone watching a TV programme."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to make a natural invitation.",
+      "words": ["Do", "you", "fancy", "going", "to", "see", "it", "next", "week?"],
+      "answer": "Do you fancy going to see it next week?",
+      "explanation": "*Do you fancy + -ing* is a common informal way of suggesting an outing."
+    }
+  ]
+}

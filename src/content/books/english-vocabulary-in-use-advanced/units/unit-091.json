@@ -1,0 +1,229 @@
+{
+  "number": 91,
+  "title": "One word, many meanings",
+  "subtitle": "polysemy: fair, flat, capital, mean",
+  "summary": "Work out which of a word's many meanings is intended - polysemy in fair, flat, capital, mean and other everyday words - and see how jokes play on it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Polysemy",
+      "text": "A great many words in English have more than one meaning. Linguists call this aspect of vocabulary **polysemy**. Sometimes the meanings are clearly related: **flat** as in countryside connects with **flat** as in apartment, because both include the idea of being on one level. Sometimes there is no connection at all, and we call such words **homographs** - words with the same spelling but different meanings.",
+      "examples": [
+        { "text": "The meaning of **fair** as in Book Fair has no obvious connection with any of its other meanings." },
+        { "text": "Words with the same spelling but unrelated meanings are **homographs**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "fair",
+      "columns": ["Example", "Part of speech and meaning"],
+      "rows": [
+        ["It's only **fair** that we should share the housework.", "adjective - proper, just, right"],
+        ["The Frankfurt Book **Fair** is a very important event for most publishers.", "noun - a large show"],
+        ["The forecast is for the weather to stay **fair** for the next week.", "adjective - pleasant, fine"],
+        ["I've got **fair** skin and burn easily in the sun.", "adjective - light in colour"],
+        ["His marks in his final exams ranged from excellent to **fair**.", "adjective - satisfactory, neither very good nor very bad"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "flat",
+      "columns": ["Example", "Part of speech and meaning"],
+      "rows": [
+        ["The firefighters saved the children from the burning third-floor **flat**.", "noun - apartment"],
+        ["The countryside round here is terribly **flat** and boring.", "adjective - level"],
+        ["To join the Fitness Club, you pay a **flat** fee of 500 pounds.", "adjective - fixed"],
+        ["The sonata is in B **flat** minor.", "noun - a note a semitone lower than B itself"],
+        ["She finished the exercise in five minutes **flat**.", "adverb - exactly; emphasises how quick the time was"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "capital and mean",
+      "columns": ["Example", "Part of speech and meaning"],
+      "rows": [
+        ["Fill in the form in **capital** letters.", "adjective - upper case"],
+        ["Wellington is the **capital** of New Zealand.", "noun - the city where the government sits"],
+        ["You need plenty of **capital** to open a restaurant.", "noun - money"],
+        ["**Capital** punishment has been abolished in many countries.", "adjective - punishable by death"],
+        ["What does 'coagulate' **mean**?", "verb - convey a meaning, express an idea"],
+        ["I didn't **mean** to hurt you.", "verb - intend"],
+        ["He's far too **mean** to buy her flowers.", "adjective - the opposite of generous, unwilling to spend money"],
+        ["The **mean** temperature for July is 25 degrees.", "adjective - average"],
+        ["You shouldn't be so **mean** to your little sister.", "adjective - unkind"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Why polysemy matters",
+      "text": "Being aware of polysemy helps in several ways. The meaning you first learnt for a word may not be the one it has in a new context. Words can also change their part of speech: **flat** with its apartment meaning becomes an adjective in *a set of flat keys*. And learning a word's range of meanings gets you several meanings for the price of one.",
+      "examples": [
+        { "text": "It also helps you understand jokes in English, as these are often based on **polysemous** words." }
+      ],
+      "note": "Context almost always makes the intended meaning clear."
+    },
+    {
+      "type": "table",
+      "heading": "One word, four contexts: drill",
+      "columns": ["Context", "What drill means"],
+      "rows": [
+        ["at the dentist's", "an instrument a dentist uses to make holes in your teeth"],
+        ["in the army", "training for marching"],
+        ["on a road-building site", "a powerful tool used for making holes in a road"],
+        ["in a language class", "an exercise practising grammar in a fairly mechanical way"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Jokes built on polysemy",
+      "text": "English one-liners often turn on a word with two meanings. Recognising the second meaning is what makes the joke work.",
+      "examples": [
+        { "text": "*I wondered why the tennis ball was getting bigger. Then it **hit** me!*", "note": "hit me = I suddenly understood, and the ball struck my body" },
+        { "text": "*Smaller babies may be delivered by a stork but the heavier ones need a **crane**.*", "note": "a crane is a large bird like a stork, and also a machine for lifting heavy objects" },
+        { "text": "*Time **flies** like an arrow. Fruit **flies** like a banana.*", "note": "first flies is a verb and like a preposition; then flies is a noun (tiny insects) and like is a verb" },
+        { "text": "*You know prices are rising when you buy a winter jacket and even **down** is up.*", "note": "down is soft feathers used to stuff jackets, and also the opposite of up in price" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When a familiar word seems not to fit the sentence, assume polysemy: look for a second meaning rather than a mistake."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each meaning with the word that carries it in the lesson examples.",
+      "pairs": [
+        { "left": "intend", "right": "mean (I didn't mean to hurt you)" },
+        { "left": "exactly", "right": "flat (in five minutes flat)" },
+        { "left": "proper, just", "right": "fair (it's only fair)" },
+        { "left": "city with the seat of government", "right": "capital (of New Zealand)" },
+        { "left": "unwilling to spend money", "right": "mean (too mean to buy her flowers)" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'His marks in his final exams ranged from excellent to fair', what does fair mean?",
+      "options": ["neither very good nor very bad", "light in colour", "pleasant weather", "a large show"],
+      "answer": 0,
+      "explanation": "Here fair is an adjective meaning satisfactory."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'To join the Fitness Club, you pay a flat fee of 500 pounds', what does flat mean?",
+      "options": ["fixed", "level", "apartment", "exactly"],
+      "answer": 0,
+      "explanation": "A flat fee is a fixed fee, the same for everybody."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In 'You need plenty of capital to open a restaurant', capital means:",
+      "options": ["money", "upper case", "the main city", "punishable by death"],
+      "answer": 0,
+      "explanation": "Capital as a noun can mean the money you need to start or run a business."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He struck a ___ and we slowly began to look around the dark cave. The teenage cooks were a ___ for any of the adults. Their marriage has been called a ___ made in heaven. Which one word fills all three gaps?",
+      "hint": "(five letters, begins with m)",
+      "answers": ["match"],
+      "explanation": "A match can be a small stick that makes fire, an equal in ability, or a marriage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That bird has an unusually long ___. Keep the receipt when you pay your hotel ___. Parliament is discussing a ___ proposing changes to copyright law. Which one word fills all three gaps?",
+      "hint": "(four letters, begins with b)",
+      "answers": ["bill"],
+      "explanation": "A bill is a bird's beak, an amount to pay, and a proposed law."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Hannah gave us a lovely ___ of glasses as a wedding present. Let's ___ a date for our meeting. My father has very ___ opinions about how people should behave. Which one word fills all three gaps?",
+      "hint": "(three letters, begins with s)",
+      "answers": ["set"],
+      "explanation": "A set of glasses, to set a date, and set opinions - fixed and unchanging."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've applied for a ___ in our company's Paris office. The end of the race is marked by a ___ with a flag on it. Why not ___ your query on an online forum? Which one word fills all three gaps?",
+      "hint": "(four letters, begins with p)",
+      "answers": ["post"],
+      "explanation": "A post is a job, an upright piece of wood, and what you do when you put a message online."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The teacher hadn't had time to ___ my assignment. Sales have already passed the million ___. You've got a red ___ on your cheek. Which one word fills all three gaps?",
+      "hint": "(four letters, begins with m)",
+      "answers": ["mark"],
+      "explanation": "To mark work, a mark meaning a level reached, and a mark as a spot or stain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You need to be a special kind of person to ___ a successful business. Do you fancy going for a ___ this evening? Our shop has had a ___ on ice cream. Which one word fills all three gaps?",
+      "hint": "(three letters, begins with r)",
+      "answers": ["run"],
+      "explanation": "To run a business, go for a run, and a run on a product means sudden heavy demand."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the word and context with its meaning.",
+      "pairs": [
+        { "left": "register - in a primary school", "right": "the list on which students are marked present or absent" },
+        { "left": "interest - at a bank", "right": "money earned on an investment or paid for a loan" },
+        { "left": "dice - in a kitchen", "right": "to cut food up into small cubes" },
+        { "left": "service - playing tennis", "right": "throwing the ball up and hitting it to start a turn" },
+        { "left": "case - in a lawyer's office", "right": "a specific problem being dealt with in law" },
+        { "left": "cue - in the theatre", "right": "the words that tell an actor it is their turn to speak" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which word - fair, flat or capital - carries each meaning?",
+      "categories": ["fair", "flat", "capital"],
+      "items": [
+        { "text": "light in colour", "category": 0 },
+        { "text": "a large show for publishers", "category": 0 },
+        { "text": "level, as of countryside", "category": 1 },
+        { "text": "a note a semitone lower than B", "category": 1 },
+        { "text": "a fixed fee", "category": 1 },
+        { "text": "upper case", "category": 2 },
+        { "text": "punishable by death", "category": 2 },
+        { "text": "the money you need to start a business", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "In an army context, what does drill mean?",
+      "options": ["training for marching", "a tool for making holes in a road", "a dentist's instrument", "a mechanical grammar exercise"],
+      "answer": 0,
+      "explanation": "Context decides: in the army a drill is marching training, at the dentist's it is an instrument, on a road it is a powerful tool, and in a language class it is a repetitive exercise."
+    },
+    {
+      "type": "true_false",
+      "statement": "Homographs are words with the same spelling but different, unconnected meanings.",
+      "answer": true,
+      "explanation": "Correct - fair meaning just and fair meaning a large show are homographs."
+    },
+    {
+      "type": "true_false",
+      "statement": "In the joke 'Then it hit me!', hit has only its physical meaning.",
+      "answer": false,
+      "explanation": "The joke works because hit me also means 'I suddenly understood'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In the joke 'even down is up', what is the second meaning of down?",
+      "options": ["soft feathers used to stuff jackets", "a hill", "a sad mood", "a failure"],
+      "answer": 0,
+      "explanation": "Down is the soft feathers used in pillows and winter jackets, so its price can go up."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this explanation of polysemy in order.",
+      "words": ["A", "great", "many", "words", "in", "English", "have", "more", "than", "one", "meaning"],
+      "answer": "A great many words in English have more than one meaning",
+      "explanation": "This is what linguists call polysemy."
+    }
+  ]
+}

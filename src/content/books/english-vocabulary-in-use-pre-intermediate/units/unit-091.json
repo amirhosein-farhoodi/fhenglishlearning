@@ -1,0 +1,208 @@
+{
+  "number": 91,
+  "title": "Adverbs",
+  "subtitle": "hardly ever, quite, extremely, politely",
+  "summary": "Say how often something happens, how strong something is, and in what way someone does something.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Adverbs of frequency: how often",
+      "columns": ["How often", "Adverbs"],
+      "rows": [
+        ["100%", "**always**"],
+        ["very often", "**often**, **frequently**"],
+        ["often", "**quite often**"],
+        ["some of the time", "**sometimes**, **occasionally**"],
+        ["almost never", "**hardly ever**, **rarely**, **seldom** (formal)"],
+        ["0%", "**never**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where the frequency adverb goes",
+      "text": "Frequency adverbs usually go **before the main verb**. With the verb *be* they go **after** it. With the present perfect they go between *have* and the past participle.",
+      "examples": [
+        { "text": "She **hardly ever** plays tennis now." },
+        { "text": "I **occasionally** go to the theatre." },
+        { "text": "He **rarely** works at weekends." },
+        { "text": "I am **often** late.", "note": "after the verb be" },
+        { "text": "I have **never** been to America.", "note": "between have and been" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A small amount: a bit, a little, slightly",
+      "text": "**A bit** (informal), **a little** and **slightly** mean the same. We use them mostly before adjectives with a negative meaning, such as *tired*, *bored* or *upset*.",
+      "examples": [
+        { "text": "I was **a bit** tired." },
+        { "text": "The flat was **a little** small." },
+        { "text": "She was **slightly** nervous." },
+        { "text": "It was a **slightly** small flat.", "wrong": "a bit small flat", "note": "a bit and a little cannot go before an adjective + noun" }
+      ],
+      "note": "We do not normally say 'I was a bit happy'. Use these adverbs with negative adjectives."
+    },
+    {
+      "type": "explain",
+      "heading": "In the middle: quite, fairly, rather, pretty",
+      "text": "These four adverbs all mean *more than a bit but less than very*. **Pretty** is informal. Notice the word order with *a/an*.",
+      "examples": [
+        { "text": "The hotel was **quite** busy. We had **quite a** nice room.", "wrong": "a quite nice room" },
+        { "text": "The food was **fairly** boring. It was a **fairly** wet day." },
+        { "text": "I was **rather** annoyed I missed the film.", "note": "It was a rather good party. OR rather a good party." },
+        { "text": "The weather was **pretty** good. We had a **pretty** difficult journey." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Very strong: completely, totally, extremely, incredibly",
+      "text": "**Completely** and **totally** mean 100 per cent. **Extremely** and **incredibly** mean *very, very*.",
+      "examples": [
+        { "text": "The restaurant was **completely** empty." },
+        { "text": "I **totally** agree with you." },
+        { "text": "We had an **extremely** interesting trip.", "note": "= very interesting" },
+        { "text": "It's an **incredibly** good book." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adverbs of manner: in what way",
+      "columns": ["Adverb", "Meaning"],
+      "rows": [
+        ["**secretly**", "in a way that others cannot know about"],
+        ["**suddenly**", "quickly and unexpectedly"],
+        ["**urgently**", "very quickly, because it is important"],
+        ["**briefly**", "for a short time"],
+        ["**quietly**", "without making a noise"],
+        ["**politely**", "in a nice and correct way"],
+        ["**angrily**", "in an angry way"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Manner adverbs in sentences",
+      "text": "These adverbs describe the way someone does something, or the way something happens. They usually go after the verb and its object.",
+      "examples": [
+        { "text": "Nora had **secretly** put all of the letters into her bag." },
+        { "text": "I went in and shut the door **quietly**." },
+        { "text": "I **suddenly** realised I wasn't alone." },
+        { "text": "Penelope was in pain, and I could see she needed help **urgently**." },
+        { "text": "I spoke to Charles **briefly** this morning." },
+        { "text": "I asked him very **politely**, but he reacted quite **angrily** and walked off." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "To make a sentence more positive, move up the scale (quite -> very -> extremely); to make it less negative, move down (very small -> quite small; very dirty -> fairly dirty)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with the frequency adverb in the right place.",
+      "words": ["I", "occasionally", "get", "up", "early"],
+      "answer": "I occasionally get up early",
+      "explanation": "The frequency adverb goes before the main verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with the frequency adverb in the right place.",
+      "words": ["She", "hardly", "ever", "phones", "me"],
+      "answer": "She hardly ever phones me",
+      "explanation": "Hardly ever = almost never, and it goes before the main verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence in the present perfect.",
+      "words": ["I", "have", "never", "broken", "my", "leg"],
+      "answer": "I have never broken my leg",
+      "explanation": "With the present perfect, the adverb goes between have and the past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make a sentence with the verb be.",
+      "words": ["She", "is", "always", "in", "the", "office", "before", "eight"],
+      "answer": "She is always in the office before eight",
+      "explanation": "With the verb be, the frequency adverb goes after the verb."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adverb with its meaning.",
+      "pairs": [
+        { "left": "secretly", "right": "so that others do not know" },
+        { "left": "suddenly", "right": "quickly and unexpectedly" },
+        { "left": "urgently", "right": "very quickly, because it is important" },
+        { "left": "briefly", "right": "for a short time" },
+        { "left": "politely", "right": "in a nice and correct way" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "How strong is each adverb of degree?",
+      "categories": ["A small amount", "More than a bit, less than very", "Very strong"],
+      "items": [
+        { "text": "slightly", "category": 0 },
+        { "text": "a bit", "category": 0 },
+        { "text": "fairly", "category": 1 },
+        { "text": "rather", "category": 1 },
+        { "text": "quite", "category": 1 },
+        { "text": "extremely", "category": 2 },
+        { "text": "incredibly", "category": 2 },
+        { "text": "totally", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the adverb: 'The film was pretty good.' -> 'The film was ___ good.'",
+      "hint": "(a similar adverb)",
+      "answers": ["rather", "quite", "fairly"],
+      "explanation": "Pretty, rather, quite and fairly all mean more than a bit but less than very."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the adverb: 'She hardly ever goes to conferences now.' -> 'She ___ goes to conferences now.'",
+      "hint": "(one word, almost never)",
+      "answers": ["rarely", "seldom", "never"],
+      "explanation": "Rarely and seldom mean the same as hardly ever. Seldom is formal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Replace the adverb: 'They look totally different.' -> 'They look ___ different.'",
+      "hint": "(one word, 100 per cent)",
+      "answers": ["completely"],
+      "explanation": "Completely and totally both mean 100 per cent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Join the ideas: 'I must speak to her. It's important.' -> 'I must speak to her ___.'",
+      "hint": "(one adverb)",
+      "answers": ["urgently"],
+      "explanation": "Urgently = very quickly, because something is important."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Join the ideas: 'He ran out of the room. It was very quick and unexpected.' -> 'He ___ ran out of the room.'",
+      "hint": "(one adverb)",
+      "answers": ["suddenly"],
+      "explanation": "Suddenly = quickly and unexpectedly."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "We had quite a nice room.",
+        "We had a quite nice room.",
+        "We had a bit nice room.",
+        "We had nice quite a room."
+      ],
+      "answer": 0,
+      "explanation": "With quite, the word order is quite a nice room, not a quite nice room."
+    },
+    {
+      "type": "true_false",
+      "statement": "I was a bit happy with my exam results.",
+      "answer": false,
+      "explanation": "We use a bit with negative adjectives. Say: I was quite happy with my exam results."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "number": 15,
+  "title": "Opinions and attitudes",
+  "subtitle": "Yes / No / Not Given and summary completion",
+  "summary": "Read an argumentative text for the writer's tone, decide whether a statement matches the writer's views, and complete a summary with or without a box of answers.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adjectives carry the writer's attitude",
+      "text": "The most difficult texts are in Reading Section 3. They argue for or against an idea, or set several arguments side by side. A writer's choice of words - above all their adjectives - shows how they feel about the topic.",
+      "examples": [
+        {
+          "text": "**Positive:** diverse, unspoilt, accomplished, productive, realistic, sophisticated, efficient, thorough, influential, prominent"
+        },
+        {
+          "text": "**Negative:** disastrous, biased, vulnerable, dated, confusing, irrelevant, harsh, catastrophic, monotonous, distorted"
+        }
+      ],
+      "note": "In one passage about Lafayette Park the writer uses *world-class*, *renowned*, *great*, *beautiful* alongside *austere*, *unappealing* and *cavernous* - praise and reservation in the same breath."
+    },
+    {
+      "type": "compare",
+      "heading": "A view or a claim?",
+      "left": {
+        "label": "A claim",
+        "text": "A statement the writer presents as **fact**.",
+        "examples": [
+          "*Like hundreds of developments nationwide, they were the result of post-war urban renewal.*",
+          "*While much of Detroit began a steep decline soon after, Lafayette Park stayed afloat.*"
+        ]
+      },
+      "right": {
+        "label": "A view",
+        "text": "A personal **opinion**.",
+        "examples": [
+          "*Detroit has an abundance of beautiful housing options.*",
+          "*There is a kind of austere uniformity to the townhouses when viewed from the outside.*",
+          "*Indeed, the best design doesn't force a personality on its residents.*"
+        ]
+      },
+      "note": "Yes / No / Not Given questions ask you to interpret the writer's views and claims. True / False / Not Given questions are about factual information. That is the only real difference between them."
+    },
+    {
+      "type": "table",
+      "heading": "How to answer Yes / No / Not Given",
+      "columns": [
+        "Write",
+        "When"
+      ],
+      "rows": [
+        [
+          "YES",
+          "the statement agrees with the views or claims in the passage"
+        ],
+        [
+          "NO",
+          "the statement contradicts the views of the writer"
+        ],
+        [
+          "NOT GIVEN",
+          "it is impossible to say what the writer thinks"
+        ]
+      ],
+      "note": "Check yourself: if you wrote YES, find the supporting line. If NO, correct the statement so it matches the writer. If NOT GIVEN, say what the passage **does** tell you instead."
+    },
+    {
+      "type": "explain",
+      "heading": "Worked examples",
+      "text": "Each of these hangs on one detail. Read the statement twice before you go back to the passage.",
+      "examples": [
+        {
+          "text": "*It is the era in which Lafayette Park was developed that makes it special.* - **NO**",
+          "note": "Hundreds were built then; the writer says it was the three famous designers that made it unique."
+        },
+        {
+          "text": "*Since 1962, many people have moved away from Detroit.* - **YES**",
+          "note": "*Detroit has suffered enormous population loss.*"
+        },
+        {
+          "text": "*Mies van der Rohe's designs influenced other architects in Detroit.* - **NOT GIVEN**",
+          "note": "We are only told that Mies designed Lafayette Park."
+        },
+        {
+          "text": "*The exterior of each building has a distinct style.* - **NO**",
+          "note": "The buildings have *a kind of austere uniformity*."
+        },
+        {
+          "text": "*Good architecture allows its occupants to reveal their identity.* - **YES**",
+          "note": "*The best design doesn't force a personality on its residents. Instead, it helps them bring out their own.*"
+        }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Summary completion, with and without a box",
+      "text": "A **summary** is not a set of notes: it is complete sentences connected grammatically. So decide what **type** of word each gap needs - noun, verb, adjective, adverb - before you look for the answer. With a box, the options may be the passage's words or synonyms of them; without one, you must copy words from the text.",
+      "examples": [
+        {
+          "text": "*Lafayette Park was originally quite a ___ area of Detroit.*",
+          "note": "an adjective - **poor** (*land previously occupied by a working-class neighbourhood*)"
+        },
+        {
+          "text": "*its residents are more ___ than those in other areas*",
+          "note": "an adjective - **settled** (*one of the most racially integrated neighbourhoods ... economically stable*)"
+        },
+        {
+          "text": "*the residents feel quite ___ about the famous architecture*",
+          "note": "an adjective or adverb - **neutral** (*the casual attitude many residents have*)"
+        },
+        {
+          "text": "*they can ___ the townhouses and make them their own*",
+          "note": "a verb - **adapt**"
+        }
+      ],
+      "note": "Use the **title** of the summary to find the part of the passage you need to read in detail."
+    },
+    {
+      "type": "tip",
+      "text": "A hyphenated word such as *long-term* counts as **one word**, and a number written in words such as *3.5 million* counts as a number. And you must use the words in the text: writing *fortnight* where the passage says *two weeks* is marked wrong."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Does each adjective suggest a positive or a negative tone?",
+      "categories": [
+        "Positive",
+        "Negative"
+      ],
+      "items": [
+        {
+          "text": "accomplished",
+          "category": 0
+        },
+        {
+          "text": "unspoilt",
+          "category": 0
+        },
+        {
+          "text": "sophisticated",
+          "category": 0
+        },
+        {
+          "text": "monotonous",
+          "category": 1
+        },
+        {
+          "text": "distorted",
+          "category": 1
+        },
+        {
+          "text": "catastrophic",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the difference between True / False / Not Given and Yes / No / Not Given questions?",
+      "options": [
+        "There is none - the words are interchangeable",
+        "True / False / Not Given is about factual information; Yes / No / Not Given is about the writer's views",
+        "Yes / No / Not Given questions never have a Not Given answer",
+        "True / False / Not Given questions appear only in General Training"
+      ],
+      "answer": 1,
+      "explanation": "The task is the same shape; what changes is whether you are judging facts or opinions."
+    },
+    {
+      "type": "categorize",
+      "prompt": "The passage says hundreds of such developments were built then, but Lafayette Park was unique because of its three famous designers. Judge each statement.",
+      "categories": [
+        "Yes",
+        "No",
+        "Not Given"
+      ],
+      "items": [
+        {
+          "text": "The designers were unusually well known.",
+          "category": 0
+        },
+        {
+          "text": "Many similar developments were built at that time.",
+          "category": 0
+        },
+        {
+          "text": "It is the era Lafayette Park was built in that makes it special.",
+          "category": 1
+        },
+        {
+          "text": "Lafayette Park was the only development of its kind.",
+          "category": 1
+        },
+        {
+          "text": "The designers had worked together before.",
+          "category": 2
+        },
+        {
+          "text": "The residents chose the designers themselves.",
+          "category": 2
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*In general, the residents feel quite ___ about the famous architecture they live in.* The passage says the writer was struck by the *casual attitude* many residents have.",
+      "hint": "(an adjective: neither for nor against)",
+      "answers": [
+        "neutral"
+      ],
+      "explanation": "Decide the gap needs an adjective first - that alone removes most of the options in the box."
+    },
+    {
+      "type": "true_false",
+      "statement": "In a summary completion task without a box, you may replace a phrase from the passage with a shorter word of your own.",
+      "answer": false,
+      "explanation": "You must use the words in the text. Writing *fortnight* where the passage says *two weeks* is marked wrong."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each gap with the type of word it needs - and, where two gaps take the same part of speech, with the word itself.",
+      "pairs": [
+        {
+          "left": "different meerkat groups ___ at different times of day",
+          "right": "a verb - rise / emerge"
+        },
+        {
+          "left": "young males were more ___ at problem solving",
+          "right": "an adjective - innovative"
+        },
+        {
+          "left": "they were rewarded with a ___",
+          "right": "a noun - treat / scorpion"
+        },
+        {
+          "left": "it was the ___ part of the container",
+          "right": "an adjective - opaque"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The passage says only that Mies van der Rohe designed Lafayette Park. The statement is *Mies van der Rohe's designs influenced other architects in Detroit.*",
+      "options": [
+        "Yes",
+        "No",
+        "Not Given",
+        "It depends on the paragraph"
+      ],
+      "answer": 2,
+      "explanation": "No influence on others is mentioned either way, so it is impossible to say what the writer thinks."
+    },
+    {
+      "type": "true_false",
+      "statement": "A hyphenated word such as *long-term* counts as one word for the purposes of a word limit.",
+      "answer": true,
+      "explanation": "And a number written in words, such as *3.5 million*, still counts as a number rather than as two words."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A recent study discovered that young, male meerkats were more ___ than other members of their group at problem solving.* (ONE WORD ONLY)",
+      "hint": "(an adjective meaning inventive)",
+      "answers": [
+        "innovative"
+      ],
+      "explanation": "The passage says *the more subordinate juvenile members of meerkat troops are the most innovative*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the line that gives the writer's view of good design.",
+      "words": [
+        "The",
+        "best",
+        "design",
+        "doesn't",
+        "force",
+        "a",
+        "personality",
+        "on",
+        "its",
+        "residents."
+      ],
+      "answer": "The best design doesn't force a personality on its residents.",
+      "explanation": "*The best ...* is an opinion presented as a principle - a view, not a claim of fact."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "number": 72,
+  "title": "Suffixes: forming adjectives",
+  "subtitle": "comfortable, musical, useful, careless",
+  "summary": "Make adjectives from nouns and verbs with -al, -able, -ful and -less, and form their opposites with un- and -less.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Adjective suffixes",
+      "text": "Common endings that make adjectives are **-able** (comfortable), **-al** (musical), **-y** (cloudy), **-ous** (famous) and **-ive** (attractive). If you know the suffix, you can often guess the adjective from a noun or a verb.",
+      "examples": [
+        { "text": "cloud - **cloudy**; wind - **windy**; fog - **foggy**" },
+        { "text": "fame - **famous**; danger - **dangerous**" },
+        { "text": "attract - **attractive**; create - **creative**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-al",
+      "text": "Adjectives ending in **-al** are usually formed from nouns, and they often mean 'relating to that noun'.",
+      "examples": [
+        { "text": "a **musical** instrument", "note": "from music" },
+        { "text": "a **political** issue", "note": "from politics" },
+        { "text": "an **electrical** fault", "note": "related to electricity" },
+        { "text": "a **personal** opinion", "note": "the opinion of one person" },
+        { "text": "an **emotional** speech", "note": "from emotion" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "-al adjectives in a text",
+      "text": "Shichi-Go-San (meaning 7, 5, 3) is an **annual** ceremony in Japan for young girls and boys. It is on 15 November, but it is not a **national** holiday - a holiday for the whole country - so families often celebrate it at the weekend. Odd numbers have **cultural** significance in Japan, because they are lucky. On that day children may wear **traditional** clothes, in a style that has continued for hundreds of years, although today it is quite **normal** for them to wear western-style clothes.",
+      "examples": [
+        { "text": "The festival is an **annual** event, held on the first Monday in September." },
+        { "text": "Children perform **traditional** dances at the ceremony." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "-able and its opposite with un-",
+      "columns": ["Adjective", "Meaning", "Opposite"],
+      "rows": [
+        ["enjoyable", "something you enjoy", "-"],
+        ["comfortable", "pleasant to sit or lie in", "uncomfortable"],
+        ["suitable", "right for a particular situation", "unsuitable"],
+        ["reliable", "able to be trusted or believed", "unreliable"],
+        ["fashionable", "popular now with many people", "unfashionable"],
+        ["reasonable", "fair; not a bad decision or price", "unreasonable"],
+        ["sociable", "enjoys being with people", "unsociable"]
+      ],
+      "note": "The suffix -able forms adjectives from nouns and verbs, and the prefix un- usually forms the opposite."
+    },
+    {
+      "type": "explain",
+      "heading": "When the un- form is the common one",
+      "text": "Sometimes the negative adjective is the one people use most.",
+      "examples": [
+        { "text": "It was an **unforgettable** experience.", "note": "something you cannot forget" },
+        { "text": "She told us an **unbelievable** story about a dog that could speak.", "note": "very surprising and hard to believe" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "-ful and -less",
+      "columns": ["-ful", "Meaning", "-less opposite"],
+      "rows": [
+        ["useful", "having a lot of uses", "useless"],
+        ["painful", "giving pain and being unpleasant", "painless"],
+        ["careful", "acting with care and attention", "careless"],
+        ["colourful", "with a lot of colour in it", "-"],
+        ["helpful", "giving a lot of help", "-"],
+        ["peaceful", "calm and quiet", "-"]
+      ],
+      "note": "-ful means 'full of' or 'having the quality of the noun'. Only some of these words make their opposite with -less: we say useless and careless, but not wonderless or peaceless."
+    },
+    {
+      "type": "tip",
+      "text": "The suffix is -ful with one l, so write useful and careful, not ~~usefull~~ or ~~carefull~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "You must be very ___ when you drive in wet weather.",
+      "hint": "(care)",
+      "answers": ["careful"],
+      "explanation": "care + -ful = careful, with one l."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The tourist information office was very ___, and told us everything we needed to know.",
+      "hint": "(help)",
+      "answers": ["helpful"],
+      "explanation": "A helpful person or office gives a lot of help."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with the noun it usually goes with.",
+      "pairs": [
+        { "left": "a national", "right": "holiday" },
+        { "left": "a painful", "right": "injection" },
+        { "left": "a careless", "right": "mistake" },
+        { "left": "an electrical", "right": "fault" },
+        { "left": "a reasonable", "right": "price" },
+        { "left": "an unsociable", "right": "man" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which suffix makes an adjective from each noun?",
+      "categories": ["-y", "-ous", "-al"],
+      "items": [
+        { "text": "cloud", "category": 0 },
+        { "text": "wind", "category": 0 },
+        { "text": "fog", "category": 0 },
+        { "text": "fame", "category": 1 },
+        { "text": "danger", "category": 1 },
+        { "text": "politics", "category": 2 },
+        { "text": "nation", "category": 2 },
+        { "text": "emotion", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She told us an ___ story about a dog that could speak.",
+      "hint": "(believe)",
+      "answers": ["unbelievable"],
+      "explanation": "Something very surprising and hard to believe is unbelievable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The festival is an ___ event, held on the first Monday in September.",
+      "hint": "(once a year)",
+      "answers": ["annual"],
+      "explanation": "An annual event happens once a year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was very ___ when I hit my leg against the corner of that table.",
+      "hint": "(pain)",
+      "answers": ["painful"],
+      "explanation": "pain + -ful = painful. The opposite is painless."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This bag is ___; it's too small for me to put anything in it.",
+      "hint": "(use)",
+      "answers": ["useless"],
+      "explanation": "The opposite of useful is useless."
+    },
+    {
+      "type": "mcq",
+      "prompt": "We've never had any problems with our TV in ten years; it's been very ___.",
+      "options": ["reliable", "unreliable", "sociable", "unreasonable"],
+      "answer": 0,
+      "explanation": "Something reliable can be trusted to work well."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which of these -ful adjectives make an opposite with -less?",
+      "categories": ["Opposite with -less", "No -less opposite"],
+      "items": [
+        { "text": "useful", "category": 0 },
+        { "text": "careful", "category": 0 },
+        { "text": "painful", "category": 0 },
+        { "text": "wonderful", "category": 1 },
+        { "text": "beautiful", "category": 1 },
+        { "text": "peaceful", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "This is just my ___ opinion; others may not agree.",
+      "hint": "(person)",
+      "answers": ["personal"],
+      "explanation": "A personal opinion is the opinion of one person."
+    },
+    {
+      "type": "true_false",
+      "statement": "Travelling round China and the Far East was an unforgetable experience.",
+      "answer": false,
+      "explanation": "Travelling round China and the Far East was an unforgettable experience. Forget doubles its final t before -able."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to ask about a dress for a wedding.",
+      "words": ["Do", "you", "think", "this", "dress", "is", "suitable", "for", "a", "wedding?"],
+      "answer": "Do you think this dress is suitable for a wedding?",
+      "explanation": "Suitable means right or correct for a particular situation."
+    }
+  ]
+}

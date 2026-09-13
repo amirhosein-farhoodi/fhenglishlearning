@@ -1,0 +1,181 @@
+{
+  "number": 7,
+  "title": "Feelings",
+  "subtitle": "love, hate, happy, tired, prefer",
+  "summary": "Say what you love, like and hate, describe how you feel, and use prefer, hope and want correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Love, like and hate",
+      "text": "Put your feelings on a scale. **love** is the strongest good feeling, then **like**. **don't like** is not good, and **hate** is the strongest bad feeling.",
+      "examples": [
+        { "text": "I **love** my family and my best friend." },
+        { "text": "I **like** my job." },
+        { "text": "I **don't like** horror films." },
+        { "text": "I **hate** spiders." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "How do you feel?",
+      "columns": ["Word", "When you feel it"],
+      "rows": [
+        ["happy / sad", "when good news comes / when bad news comes"],
+        ["angry / upset", "when someone does something bad to you"],
+        ["hot / cold", "when the weather is 40 degrees / when it is snowing"],
+        ["hungry / thirsty", "when you want food / when you want a drink"],
+        ["well / ill", "when your body is fine / when your body is not fine"],
+        ["tired", "when you need to sleep"],
+        ["surprised", "when something happens and you did not know about it"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "happy about or happy for?",
+      "text": "You are **happy about** a thing, like news or a result. You are **happy for** a person.",
+      "examples": [
+        { "text": "I am very **happy about** your news.", "wrong": "happy for your news" },
+        { "text": "You did very well in your exam - I'm very **happy for** you." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "prefer",
+      "text": "**Prefer** means you like one thing more than another thing. Use **prefer ... to ...**",
+      "examples": [
+        { "text": "I **prefer** coffee **to** tea.", "note": "= I like coffee more than tea" },
+        { "text": "I **prefer** cats **to** dogs." },
+        { "text": "I **prefer** watching sport **to** doing sport." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "hope and want",
+      "text": "**Hope** is for something good in the future. **Want** is for something you would like now. After **want**, put the person, then **to** and the verb.",
+      "examples": [
+        { "text": "I **hope to** do well in my exam." },
+        { "text": "I **hope (that)** my friend does well in his exam." },
+        { "text": "I **want** a new car. / I **want to** buy a new car." },
+        { "text": "I **want you to** help me.", "wrong": "I want that you help me" }
+      ],
+      "note": "Also: I want my mother to buy a new car."
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about feelings",
+      "text": "Use **really** before the verb, or **very much** after the object. To say a small amount, use **a bit** or **a little**.",
+      "examples": [
+        { "text": "*A:* Do you like football? *B:* Yes, I **really** like it. / I like it **very much**." },
+        { "text": "*B:* No, I **don't** like it **very much**." },
+        { "text": "*A:* How's your grandfather? *B:* He's **very well**, thanks." },
+        { "text": "*A:* And how **about** your grandmother? *B:* She's **a bit** tired." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *I really like football* or *I like football very much* - not ~~I very like football~~ or ~~I like very much football~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each situation with the right feeling.",
+      "pairs": [
+        { "left": "Jessica has eaten nothing all day.", "right": "hungry" },
+        { "left": "Nicholas wants a glass of water.", "right": "thirsty" },
+        { "left": "Max has no coat and it is snowing.", "right": "cold" },
+        { "left": "Sunita went to bed at 3 am.", "right": "tired" },
+        { "left": "Fiona did not know about the party.", "right": "surprised" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love my family and I like my job, but I ___ spiders.",
+      "hint": "(the opposite of love)",
+      "answers": ["hate"],
+      "explanation": "Hate is the strongest bad feeling."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I like coffee more than tea. In other words, I ___ coffee to tea.",
+      "options": ["prefer", "hope", "want", "love"],
+      "answer": 0,
+      "explanation": "Prefer X to Y = like X more than Y."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I prefer cats ___ dogs.",
+      "hint": "(one short word)",
+      "answers": ["to"],
+      "explanation": "The pattern is prefer something to something else."
+    },
+    {
+      "type": "true_false",
+      "statement": "I am very happy for my sister's good news.",
+      "answer": false,
+      "explanation": "I am very happy about my sister's good news. We are happy about news, but happy for a person."
+    },
+    {
+      "type": "true_false",
+      "statement": "My brother has a good new job. I'm very happy for him.",
+      "answer": true,
+      "explanation": "Correct. We are happy for a person."
+    },
+    {
+      "type": "word_order",
+      "prompt": "The teacher would like you and your class to learn some new words. What does the teacher want?",
+      "words": ["The", "teacher", "wants", "us", "to", "learn", "these", "new", "words."],
+      "answer": "The teacher wants us to learn these new words.",
+      "explanation": "want + person + to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My parents want ___ to go to university.",
+      "hint": "(me / that I)",
+      "answers": ["me"],
+      "explanation": "Say want me to go, not want that I go."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": ["I really like basketball.", "I very like basketball.", "I like very much basketball."],
+      "answer": 0,
+      "explanation": "Use really before the verb, or very much at the end."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* How's your grandmother? *B:* She's a ___ tired this morning.",
+      "hint": "(a small amount)",
+      "answers": ["bit", "little"],
+      "explanation": "a bit tired = a little tired."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I feel very well. How ___ you? *B:* I'm fine too.",
+      "hint": "(about / for)",
+      "answers": ["about"],
+      "explanation": "How about you? asks the same question back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The lesson feels very long. I ___ that it ends soon.",
+      "hint": "(hope / want)",
+      "answers": ["hope"],
+      "explanation": "Use hope (that) + a sentence about the future."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it a good feeling or a bad feeling?",
+      "categories": ["You feel good", "You feel bad"],
+      "items": [
+        { "text": "happy", "category": 0 },
+        { "text": "well", "category": 0 },
+        { "text": "sad", "category": 1 },
+        { "text": "angry", "category": 1 },
+        { "text": "upset", "category": 1 },
+        { "text": "ill", "category": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "number": 27,
+  "title": "Countries and nationalities",
+  "subtitle": "Spain - Spanish, Japan - Japanese",
+  "summary": "Name continents and countries, and make the nationality adjective for each country.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Continents and countries",
+      "columns": ["Continent", "Some countries"],
+      "rows": [
+        ["North America", "Canada, the USA (the US)"],
+        ["South America", "Argentina, Brazil, Chile, Colombia, Peru"],
+        ["Europe", "Germany, Italy, Poland, Spain, the UK"],
+        ["Asia", "China, India, Japan, Pakistan, Thailand"],
+        ["Africa", "Egypt, Morocco, South Africa, Tunisia"],
+        ["Australasia", "Australia, New Zealand"],
+        ["Antarctica", "no countries - only ice and scientists"]
+      ],
+      "note": "A few countries take the: the UK, the USA."
+    },
+    {
+      "type": "explain",
+      "heading": "Capital letters",
+      "text": "All the nouns and adjectives for continents, countries and nationalities begin with a **capital letter**.",
+      "examples": [
+        { "text": "I come from **Africa**.", "wrong": "africa" },
+        { "text": "She is **Spanish** and he is **Japanese**.", "wrong": "spanish and japanese" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Nationality adjectives",
+      "columns": ["Ending", "Examples"],
+      "rows": [
+        ["most end in -(i)an", "American, Argentinian, Australian, Brazilian, Canadian, Colombian, Egyptian, German, Indian, Italian, Moroccan, Peruvian, South African, Tunisian"],
+        ["many end in -ish", "British, English, Finnish, Irish, Polish, Scottish, Spanish"],
+        ["a few end in -ese", "Chinese, Japanese, Portuguese"],
+        ["exceptions", "Pakistani, Thai, French"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about countries",
+      "text": "To say where a city is, use **is the capital of**. To talk about a language, use **they speak**.",
+      "examples": [
+        { "text": "Tokyo **is the capital of** Japan." },
+        { "text": "In England, Canada and Australia **they speak English**, but in Iceland they speak Icelandic." },
+        { "text": "In Mexico, Spain and Chile they speak **Spanish**, but in Brazil they speak **Portuguese**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The word for the language is often the same as the adjective for the people: French, Spanish, Japanese, Thai. One exception is Arabic - the people are Egyptian or Moroccan, but the language is Arabic."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the capital city with its country.",
+      "pairs": [
+        { "left": "Tokyo", "right": "Japan" },
+        { "left": "Rome", "right": "Italy" },
+        { "left": "Canberra", "right": "Australia" },
+        { "left": "Cairo", "right": "Egypt" },
+        { "left": "Warsaw", "right": "Poland" },
+        { "left": "Madrid", "right": "Spain" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Berlin is the capital of ___.",
+      "hint": "(a country in Europe)",
+      "answers": ["Germany"],
+      "explanation": "Berlin is the capital of Germany."
+    },
+    {
+      "type": "mcq",
+      "prompt": "London is the capital of ___.",
+      "options": ["the UK", "Ireland", "Germany", "Poland"],
+      "answer": 0,
+      "explanation": "London is the capital of the UK. Note the little word the."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person from Thailand is ___.",
+      "hint": "(an exception - it does not end in -ish or -an)",
+      "answers": ["Thai"],
+      "explanation": "Thailand - Thai. The language is Thai too."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person from Poland is ___.",
+      "hint": "(it ends in -ish)",
+      "answers": ["Polish"],
+      "explanation": "Poland - Polish."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person from China is ___.",
+      "hint": "(it ends in -ese)",
+      "answers": ["Chinese"],
+      "explanation": "China - Chinese, like Japan - Japanese."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A person from Egypt is ___.",
+      "hint": "(it ends in -ian)",
+      "answers": ["Egyptian"],
+      "explanation": "Egypt - Egyptian. The language there is Arabic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which country is different? Think about the language.",
+      "options": ["Brazil", "Chile", "Mexico", "Spain"],
+      "answer": 0,
+      "explanation": "In Mexico, Spain and Chile they speak Spanish, but in Brazil they speak Portuguese."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which country is different? Think about the language.",
+      "options": ["Italy", "Austria", "Germany", "Switzerland"],
+      "answer": 0,
+      "explanation": "In Austria, Germany and Switzerland they speak German, but in Italy they speak Italian."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which country is different? Think about the language.",
+      "options": ["China", "Egypt", "Morocco", "Saudi Arabia"],
+      "answer": 0,
+      "explanation": "In Morocco, Egypt and Saudi Arabia they speak Arabic, but in China they speak Chinese."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which ending does each nationality adjective have?",
+      "categories": ["-(i)an", "-ish", "-ese"],
+      "items": [
+        { "text": "Brazilian", "category": 0 },
+        { "text": "Italian", "category": 0 },
+        { "text": "Australian", "category": 0 },
+        { "text": "Spanish", "category": 1 },
+        { "text": "British", "category": 1 },
+        { "text": "Irish", "category": 1 },
+        { "text": "Chinese", "category": 2 },
+        { "text": "Portuguese", "category": 2 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Which continent is each place in?",
+      "pairs": [
+        { "left": "Mount Everest", "right": "Asia" },
+        { "left": "The Sahara", "right": "Africa" },
+        { "left": "The Amazon", "right": "South America" },
+        { "left": "The Volga", "right": "Europe" },
+        { "left": "The Mississippi", "right": "North America" },
+        { "left": "Wagga Wagga", "right": "Australasia" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "My friend is japanese and she lives in tokyo.",
+      "answer": false,
+      "explanation": "My friend is Japanese and she lives in Tokyo. Countries, cities and nationalities always start with a capital letter."
+    }
+  ]
+}

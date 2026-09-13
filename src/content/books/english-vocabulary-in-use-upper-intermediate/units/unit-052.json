@@ -1,0 +1,410 @@
+{
+  "number": 52,
+  "title": "Numbers and shapes",
+  "subtitle": "four fifths, seven cubed, rectangular, spherical",
+  "summary": "Learn how to say fractions, decimals, percentages and long numbers aloud, and the names and adjectives for the commonest two- and three-dimensional shapes.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Saying numbers aloud",
+      "columns": [
+        "Written",
+        "Said"
+      ],
+      "rows": [
+        [
+          "10m x 12m",
+          "ten metres by twelve metres"
+        ],
+        [
+          "28%",
+          "twenty-eight per cent"
+        ],
+        [
+          "4/5",
+          "four fifths"
+        ],
+        [
+          "9/13",
+          "nine thirteenths (or nine over thirteen)"
+        ],
+        [
+          "1 2/3",
+          "one and two thirds"
+        ],
+        [
+          "4 squared",
+          "four squared"
+        ],
+        [
+          "7 cubed",
+          "seven cubed"
+        ],
+        [
+          "8 to the power of 4",
+          "eight to the power of four"
+        ],
+        [
+          "10.3",
+          "ten point three"
+        ],
+        [
+          "32 C",
+          "thirty-two degrees Celsius"
+        ]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Decimals, commas and long numbers",
+      "text": "In English, decimal fractions are separated by a dot, not a comma, and the dot is said as **point**. Commas separate each set of three digits in long numbers, and each set is said separately.",
+      "examples": [
+        {
+          "text": "46.6% = forty-six **point** six per cent",
+          "wrong": "forty-six comma six per cent"
+        },
+        {
+          "text": "1,623,457 = one **million**, six hundred and twenty-three **thousand**, four hundred and fifty-seven"
+        },
+        {
+          "text": "0 C = **nought** degrees Celsius"
+        },
+        {
+          "text": "Telephone numbers: 01223 20675 = oh one **double** two three, two oh six, seven five."
+        }
+      ],
+      "note": "When saying a long number, each group of up to three digits has rising intonation, and the intonation falls on the last group to show the number is complete."
+    },
+    {
+      "type": "table",
+      "heading": "Two-dimensional shapes",
+      "columns": [
+        "Shape",
+        "Description",
+        "Adjective"
+      ],
+      "rows": [
+        [
+          "circle",
+          "a perfectly round flat shape",
+          "circular"
+        ],
+        [
+          "oval",
+          "shaped a bit like an egg",
+          "oval"
+        ],
+        [
+          "triangle",
+          "a shape with three sides",
+          "triangular"
+        ],
+        [
+          "square",
+          "four sides of equal length and four right angles",
+          "square"
+        ],
+        [
+          "rectangle",
+          "four sides and four right angles, but longer than it is wide",
+          "rectangular"
+        ],
+        [
+          "pentagon",
+          "a shape with five sides",
+          "pentagonal"
+        ],
+        [
+          "octagon",
+          "a shape with eight sides",
+          "octagonal"
+        ]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Parts of a circle",
+      "text": "A circle is cut in half by its **diameter**, and the two halves are called **semi-circles**. The **radius** is the distance from the centre of a circle to the **circumference**, the line that goes all the way round it.",
+      "examples": [
+        {
+          "text": "A **rectangle** has four right angles, and a **pentagon** has five sides."
+        },
+        {
+          "text": "The **radius** of this circle is 5cm, so its **diameter** is 10cm."
+        },
+        {
+          "text": "Cut the pizza along the **diameter** and you get two **semi-circles**."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Three-dimensional shapes",
+      "columns": [
+        "Shape",
+        "Description",
+        "Adjective"
+      ],
+      "rows": [
+        [
+          "sphere",
+          "a three-dimensional round shape, like a ball",
+          "spherical"
+        ],
+        [
+          "cube",
+          "a three-dimensional square shape, like a dice",
+          "cubic"
+        ],
+        [
+          "pyramid",
+          "a shape with a square base and four triangular sides meeting at a point",
+          "pyramidal"
+        ],
+        [
+          "spiral",
+          "a shape that curves round and round a central point, like a spring",
+          "spiral"
+        ]
+      ],
+      "note": "The two halves of a sphere are called hemispheres."
+    },
+    {
+      "type": "table",
+      "heading": "Arithmetic",
+      "columns": [
+        "Symbol",
+        "Name",
+        "How to say a sum"
+      ],
+      "rows": [
+        [
+          "+",
+          "addition",
+          "two plus three equals five"
+        ],
+        [
+          "-",
+          "subtraction",
+          "nine minus four equals five"
+        ],
+        [
+          "x",
+          "multiplication",
+          "six times seven is forty-two, or six sevens are forty-two"
+        ],
+        [
+          "/",
+          "division",
+          "three z divided by four x, or three z over four x"
+        ]
+      ],
+      "note": "6 x 7 = 42 has three natural spoken forms: six times seven is forty-two, six multiplied by seven is forty-two, or six sevens are forty-two."
+    },
+    {
+      "type": "tip",
+      "text": "Watch the -s: it is *seven nines are sixty-three* and *eleven sixteenths*, not ~~seven nine~~ or ~~eleven sixteens~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each shape with its adjective.",
+      "pairs": [
+        {
+          "left": "circle",
+          "right": "circular"
+        },
+        {
+          "left": "triangle",
+          "right": "triangular"
+        },
+        {
+          "left": "octagon",
+          "right": "octagonal"
+        },
+        {
+          "left": "sphere",
+          "right": "spherical"
+        },
+        {
+          "left": "cube",
+          "right": "cubic"
+        },
+        {
+          "left": "rectangle",
+          "right": "rectangular"
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each description with the name of the shape.",
+      "pairs": [
+        {
+          "left": "a shape with three sides",
+          "right": "triangle"
+        },
+        {
+          "left": "a shape with eight sides",
+          "right": "octagon"
+        },
+        {
+          "left": "shaped a bit like an egg",
+          "right": "oval"
+        },
+        {
+          "left": "a three-dimensional round shape",
+          "right": "sphere"
+        },
+        {
+          "left": "a three-dimensional square shape",
+          "right": "cube"
+        },
+        {
+          "left": "four sides of equal length and four right angles",
+          "right": "square"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Name two shapes that have four right angles: a square and a ___.",
+      "hint": "(longer than it is wide)",
+      "answers": [
+        "rectangle"
+      ],
+      "explanation": "A rectangle has four right angles, like a square, but its sides are not all equal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "17.1% is said as seventeen ___ one per cent.",
+      "hint": "(the word for the decimal dot)",
+      "answers": [
+        "point"
+      ],
+      "explanation": "In English the decimal separator is a dot and it is said as point."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say 3 squared = 9?",
+      "options": [
+        "Three squared equals nine.",
+        "Three square equals nine.",
+        "Three squares equals nine.",
+        "Three to square equals nine."
+      ],
+      "answer": 0,
+      "explanation": "The form is squared: three squared, seven cubed, eight to the power of four."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say 6 to the power of 9?",
+      "options": [
+        "six to the power of nine",
+        "six at the power of nine",
+        "six on power nine",
+        "six powered nine"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is to the power of."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say 11/16 of the students passed the exam?",
+      "options": [
+        "eleven sixteenths of the students",
+        "eleven sixteens of the students",
+        "eleven over sixteens of the students",
+        "eleven sixteenth of the students"
+      ],
+      "answer": 0,
+      "explanation": "Fractions use the ordinal with -s in the plural: four fifths, eleven sixteenths."
+    },
+    {
+      "type": "mcq",
+      "prompt": "How do you say the dimensions 3m x 6m?",
+      "options": [
+        "three metres by six metres",
+        "three multiplied by six metres",
+        "three metres on six metres",
+        "three to six metres"
+      ],
+      "answer": 0,
+      "explanation": "Dimensions use by: ten metres by twelve metres."
+    },
+    {
+      "type": "true_false",
+      "statement": "7 x 9 = 63 can be said as 'Seven nines are sixty-three.'",
+      "answer": true,
+      "explanation": "Correct - six sevens are forty-two, seven nines are sixty-three. Note the plural -s."
+    },
+    {
+      "type": "true_false",
+      "statement": "18 C is said as 'eighteen points Celsius'.",
+      "answer": false,
+      "explanation": "It is said as eighteen degrees Celsius."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to say 8,556,981 in words.",
+      "words": [
+        "eight million,",
+        "five hundred",
+        "and fifty-six thousand,",
+        "nine hundred",
+        "and eighty-one"
+      ],
+      "answer": "eight million, five hundred and fifty-six thousand, nine hundred and eighty-one",
+      "explanation": "Each set of three digits is said separately, with and before the final tens and units."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each shape two-dimensional or three-dimensional?",
+      "categories": [
+        "Two-dimensional",
+        "Three-dimensional"
+      ],
+      "items": [
+        {
+          "text": "pentagon",
+          "category": 0
+        },
+        {
+          "text": "oval",
+          "category": 0
+        },
+        {
+          "text": "rectangle",
+          "category": 0
+        },
+        {
+          "text": "circle",
+          "category": 0
+        },
+        {
+          "text": "sphere",
+          "category": 1
+        },
+        {
+          "text": "cube",
+          "category": 1
+        },
+        {
+          "text": "pyramid",
+          "category": 1
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The distance from the centre of a circle to its circumference is called the ___.",
+      "hint": "(r...)",
+      "answers": [
+        "radius"
+      ],
+      "explanation": "The radius runs from the centre to the circumference; the diameter runs right across the circle."
+    }
+  ]
+}

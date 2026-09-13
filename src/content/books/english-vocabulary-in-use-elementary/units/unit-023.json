@@ -1,0 +1,175 @@
+{
+  "number": 23,
+  "title": "Sports",
+  "subtitle": "play tennis, go swimming, do judo",
+  "summary": "Name popular sports, choose between play, go and do, and say where each sport happens.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Ball games",
+      "text": "We **play** all the ball games: **football**, **rugby**, **American football**, **basketball**, **badminton**, **baseball**, **tennis**, **volleyball** and **table tennis**.",
+      "examples": [
+        { "text": "I **play tennis** every Saturday morning.", "wrong": "I do tennis" },
+        { "text": "My brother **plays basketball** for his school." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other popular sports",
+      "text": "Other popular sports are **running**, **swimming**, **sailing**, **kayaking**, **skiing**, **snowboarding**, **motor racing**, **horse racing** and **judo** or **karate**.",
+      "examples": [
+        { "text": "We went **sailing** on the lake." },
+        { "text": "**Motor racing** and **horse racing** are exciting to watch." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "play, go or do?",
+      "left": {
+        "label": "go + sport",
+        "text": "Use **go** with running, swimming, sailing, kayaking, skiing and snowboarding.",
+        "examples": [
+          "I **go running** every day.",
+          "I **went skiing** last year.",
+          "We **go kayaking** on the river."
+        ]
+      },
+      "right": {
+        "label": "do + judo / karate",
+        "text": "Use **do** with judo and karate.",
+        "examples": ["She **does judo**.", "My son **does karate** after school."]
+      },
+      "note": "With ball games we always use play: play football, play badminton, play table tennis."
+    },
+    {
+      "type": "table",
+      "heading": "Where we do sports",
+      "columns": ["Sport", "Place"],
+      "rows": [
+        ["tennis, badminton, volleyball, basketball", "on a court"],
+        ["football, rugby", "on a pitch"],
+        ["swimming", "in a swimming pool"],
+        ["lots of different sports", "at a sports centre"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking about sports",
+      "text": "Ask **Do you do any sports?** or **Which sports do you play?** To ask about the sport someone likes most, say **What's your favourite sport?**",
+      "examples": [
+        { "text": "*A:* **Do you do any sports**? *B:* Yes, I **go swimming** and I **go running**." },
+        { "text": "*A:* **Do you play** football? *B:* No, I **play tennis**." },
+        { "text": "*A:* **What's your favourite sport**? *B:* I like **motor racing** best." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say I go swimming, not ~~I do swimming~~; and I do judo, not ~~I go judo~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which verb goes with each sport: play, go or do?",
+      "categories": ["play", "go", "do"],
+      "items": [
+        { "text": "football", "category": 0 },
+        { "text": "table tennis", "category": 0 },
+        { "text": "volleyball", "category": 0 },
+        { "text": "swimming", "category": 1 },
+        { "text": "skiing", "category": 1 },
+        { "text": "kayaking", "category": 1 },
+        { "text": "judo", "category": 2 },
+        { "text": "karate", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "My sister ___ judo twice a week.",
+      "options": ["does", "plays", "goes", "makes"],
+      "answer": 0,
+      "explanation": "We use do with judo and karate."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ running every day before breakfast.",
+      "hint": "(play / go / do)",
+      "answers": ["go"],
+      "explanation": "We use go with running, swimming, sailing, skiing and kayaking."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Do you ___ football? *B:* Yes, but only American football.",
+      "hint": "(play / go / do)",
+      "answers": ["play"],
+      "explanation": "We play all ball games."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We play tennis and badminton on a ___.",
+      "hint": "(five letters)",
+      "answers": ["court", "tennis court"],
+      "explanation": "Tennis, badminton, volleyball and basketball are played on a court."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We play football and rugby on a ___.",
+      "hint": "(five letters)",
+      "answers": ["pitch", "football pitch"],
+      "explanation": "Football and rugby are played on a pitch."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Many towns have a ___, where you can do lots of different sports in one place.",
+      "options": ["sports centre", "swimming pool", "tennis court", "rugby pitch"],
+      "answer": 0,
+      "explanation": "A sports centre has many sports in the same building."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which sport uses these things?",
+      "pairs": [
+        { "left": "a paddle and a small boat", "right": "kayaking" },
+        { "left": "a shuttlecock and a light racket", "right": "badminton" },
+        { "left": "a small bat and a table with a net", "right": "table tennis" },
+        { "left": "a bat and a glove", "right": "baseball" },
+        { "left": "two long skis and poles", "right": "skiing" },
+        { "left": "a helmet and an oval ball", "right": "American football" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "My brother goes judo on Tuesdays and Thursdays.",
+      "answer": false,
+      "explanation": "My brother does judo on Tuesdays and Thursdays. We use do with judo."
+    },
+    {
+      "type": "true_false",
+      "statement": "We swim in a swimming pool, and there is often one at the sports centre.",
+      "answer": true,
+      "explanation": "Correct. You swim in a swimming pool."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a new friend if they do sports at all.",
+      "words": ["Do", "you", "do", "any", "sports?"],
+      "answer": "Do you do any sports?",
+      "explanation": "Do you do any sports? is the usual question."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask which sport somebody likes best.",
+      "words": ["What", "is", "your", "favourite", "sport?"],
+      "answer": "What is your favourite sport?",
+      "explanation": "The answer is I like motor racing best."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask where a sport is played. The answer is: On a rugby pitch.",
+      "words": ["Where", "do", "people", "play", "rugby?"],
+      "answer": "Where do people play rugby?",
+      "explanation": "We play rugby on a rugby pitch."
+    }
+  ]
+}

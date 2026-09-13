@@ -1,0 +1,195 @@
+{
+  "number": 51,
+  "title": "Holidays by the sea",
+  "subtitle": "beach, sandy, suntan, shade",
+  "summary": "Talk about a holiday at the coast - the beach, water sports and staying safe in the sun.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "At the coast",
+      "text": "The land close to the sea is the **coast**. Along the coast there are **seaside resorts** - towns by the sea for tourists - and people there go to the **beach** every day. Most people prefer a beach that is **sandy**, with lots of sand.",
+      "examples": [
+        { "text": "We spent two weeks at a **seaside resort** in the south of Spain." },
+        { "text": "The **beach** was long and **sandy**, so the children loved it." },
+        { "text": "In the evening we went for a **stroll** along the **shore**.", "note": "a stroll = a slow, casual walk; the shore = where the sea meets the land" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What you see at the beach",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["the coast", "the land close to the sea"],
+        ["the shore", "the place where the sea meets the land"],
+        ["sand", "the soft yellow stuff you walk on; a beach with a lot of it is sandy"],
+        ["waves", "the lines of water that move on the sea and break on the beach"],
+        ["rocks", "large hard stones at the edge of the sea"],
+        ["a cliff", "a high wall of rock above the sea"],
+        ["a breeze", "a nice gentle wind, often blowing off the sea"],
+        ["sunshine", "the light and heat of the sun when it is sunny"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Beach activities",
+      "text": "Volleyball is a popular beach game, and some people enjoy water sports such as **surfing**, **windsurfing** or **diving**. If the sea is **calm** - it does not move very much - you can go for a swim. The opposite of calm is **rough**.",
+      "examples": [
+        { "text": "They spent the morning playing **volleyball** on the sand." },
+        { "text": "The sea was **calm**, so we went for a swim before lunch." },
+        { "text": "You cannot swim today. The sea is far too **rough**.", "note": "rough = with big waves" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sunbathing and the sun",
+      "text": "A lot of people just want to lie on the beach and **sunbathe** to get a nice **(sun)tan**, when the skin becomes brown. But people who lie in the sun without any **protection** can get **sunburn**, when the skin becomes red and very sore.",
+      "examples": [
+        { "text": "I lay on the beach all afternoon and got a lovely **suntan**." },
+        { "text": "He fell asleep in the sun and got terrible **sunburn**." },
+        { "text": "People who sunbathe for hours are **at risk of** getting skin cancer.", "note": "at risk of = there is a danger that something bad may happen" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Staying safe in the sun",
+      "text": "Doctors **recommend** that people do not sit in the sun without using **sunscreen**, a cream that gives protection from the sun. Other words for it are **sunblock** and **sun cream**. It may be safer just to sit in the **shade**, where there is no light from the sun.",
+      "examples": [
+        { "text": "Doctors **recommend** that you stay out of the sun in the middle of the day.", "note": "recommend = say what someone should do" },
+        { "text": "Put some **sunscreen** on the children before they go in the water." },
+        { "text": "It was very hot, so we sat in the **shade** of a big umbrella." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Words beginning with sun",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["sunshine", "the light and heat of the sun"],
+        ["sunbathe", "lie in the sun to get brown"],
+        ["suntan", "brown skin from the sun"],
+        ["sunburn", "red, sore skin from too much sun"],
+        ["sunscreen / sunblock / sun cream", "cream that protects your skin from the sun"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "go for a ... / have a ...",
+      "text": "We **go for** a walk, a drive (a journey in the car for pleasure), a swim, a coffee or a drink. With a swim, a coffee and a drink, we can also use **have**.",
+      "examples": [
+        { "text": "We **went for** a drive along the coast." },
+        { "text": "I **had** a coffee in a small cafe by the beach." },
+        { "text": "Let's **go for** a drink tonight." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember which word goes with which: a **beach** can be sandy, but only the **sea** can be calm or rough."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I love sunbathing, so I can get a nice ___.",
+      "hint": "(brown skin)",
+      "answers": ["suntan", "sun tan", "tan"],
+      "explanation": "When your skin becomes brown in the sun, you get a suntan."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go in this sentence? 'The sea was ...'",
+      "options": ["sandy", "calm", "rough", "cold"],
+      "answer": 0,
+      "explanation": "A beach is sandy; the sea can be calm, rough or cold."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word on the left with the word that goes with it.",
+      "pairs": [
+        { "left": "sun", "right": "tan" },
+        { "left": "wind", "right": "surfing" },
+        { "left": "seaside", "right": "resort" },
+        { "left": "sit in the", "right": "shade" },
+        { "left": "sandy", "right": "beach" },
+        { "left": "rough", "right": "sea" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I don't like sitting in the sun; I prefer to sit in the ___.",
+      "hint": "(where the sun cannot reach you)",
+      "answers": ["shade"],
+      "explanation": "The shade is an area with no light from the sun, so it is darker and less hot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the city it feels like there's no air, but you often get a nice ___ by the sea.",
+      "hint": "(a gentle wind)",
+      "answers": ["breeze"],
+      "explanation": "A breeze is a nice gentle wind."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word does NOT go in this sentence? 'We went for a ...'",
+      "options": ["drive", "shop", "drink", "stroll"],
+      "answer": 1,
+      "explanation": "We go shopping, but we do not go for a shop. We go for a drive, a drink or a stroll."
+    },
+    {
+      "type": "true_false",
+      "statement": "The sea is very calm today, so the waves are enormous.",
+      "answer": false,
+      "explanation": "The sea is very rough today, so the waves are enormous. Calm means the sea does not move very much."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it something you do on the beach, or something that protects your skin?",
+      "categories": ["Something you do", "Something that protects your skin"],
+      "items": [
+        { "text": "sunbathe", "category": 0 },
+        { "text": "sunscreen", "category": 1 },
+        { "text": "diving", "category": 0 },
+        { "text": "sunblock", "category": 1 },
+        { "text": "playing volleyball", "category": 0 },
+        { "text": "sun cream", "category": 1 },
+        { "text": "surfing", "category": 0 },
+        { "text": "the shade", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I love going for a ___ along the beach, especially in the evening when it's quiet.",
+      "hint": "(a casual walk)",
+      "answers": ["stroll", "walk"],
+      "explanation": "A stroll is a casual walk; you can also say go for a walk."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Doctors ___ that you stay out of the sun completely in the middle of the day.",
+      "hint": "(say what you should do)",
+      "answers": ["recommend"],
+      "explanation": "If doctors recommend something, they say what you should do."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Suggest a slow walk by the sea this evening.",
+      "words": ["Let's", "go", "for", "a", "stroll", "along", "the", "shore"],
+      "answer": "Let's go for a stroll along the shore",
+      "explanation": "We go for a stroll, a walk, a swim or a drink."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We used to sunbathe for hours, but then we didn't know we were at ___ of getting skin cancer.",
+      "hint": "(a danger)",
+      "answers": ["risk"],
+      "explanation": "If you are at risk of something, there is a danger that something bad may happen to you."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sea looked lovely and calm, so we decided to ___ a swim before lunch.",
+      "hint": "(two words, or one)",
+      "answers": ["go for", "have"],
+      "explanation": "We go for a swim or have a swim - both are correct."
+    }
+  ]
+}

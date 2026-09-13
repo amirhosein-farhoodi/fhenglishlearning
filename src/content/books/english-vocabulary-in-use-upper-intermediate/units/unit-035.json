@@ -1,0 +1,223 @@
+{
+  "number": 35,
+  "title": "Communications and the Internet",
+  "subtitle": "browse, bookmark, log in, server, wiki",
+  "summary": "Talk about the Internet with confidence - browsers and search engines, logging in and subscribing, servers and attachments, blogs, wikis and online gaming.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "The Internet and the Web",
+      "text": "The **Internet** (or **the net**) is a network connecting millions of computer users worldwide. The **World Wide Web** (or **the Web**) is a huge portion of the Internet containing linked documents, called **pages**.",
+      "examples": [
+        { "text": "If you have a **broadband** connection, your access to the Internet should be fast." },
+        { "text": "Many cafes now offer a **wi-fi** connection, so you can get online through a **wireless** network, without a cable of any kind." }
+      ],
+      "note": "WWW stands for World Wide Web."
+    },
+    {
+      "type": "explain",
+      "heading": "Finding things online",
+      "text": "When you **browse**, you look for information on the Internet. The software that helps you do this is a **browser**. You use a **search engine** to locate what you want - people now even talk about **googling** someone or something.",
+      "examples": [
+        { "text": "Firefox is a **browser**; Google is a **search engine**." },
+        { "text": "You can easily spend a whole evening **surfing the net**.", "note": "surfing = navigating around the Internet, sometimes aimlessly" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Websites",
+      "text": "A **website** is a document on the Web giving information about a particular subject, person or institution. Its introductory page is the **home page**, and from there **links** take you to other pages. A good website is easy to **navigate**, i.e. to find your way around.",
+      "examples": [
+        { "text": "Many sites have an **FAQ** page.", "note": "FAQ stands for 'frequently asked questions' - a list of common questions with helpful answers." },
+        { "text": "You can **bookmark** websites that you visit frequently." },
+        { "text": "If a website gets a lot of **hits**, a lot of people have visited it." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Getting into a site - and out again",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["subscribe to a site", "become a member of it"],
+        ["username", "the name you are known by on the site"],
+        ["password", "the secret combination of letters and digits you type in"],
+        ["log in / log on", "enter the site with your details"],
+        ["log out / log off", "leave the site (the opposites of log in / log on)"],
+        ["the cloud", "a network of servers on the Internet where data can be stored and viewed from any device"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Online communication",
+      "text": "You can communicate by **email**, and with an email you can include an **attachment** - you can **attach** a photo, for example. You can also send someone an **e-card**.",
+      "examples": [
+        { "text": "A **server** is a powerful central computer from which other computers get information." },
+        { "text": "If your **internet service provider**'s server is **down**, you may not be able to send emails.", "note": "down = not functioning; internet service provider is usually shortened to ISP" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Talking and seeing",
+      "text": "You can use your computer to **Skype** friends and family - the software lets you make phone calls over the Internet and shows which people on your **contact list** are **online** at the same time. If you each have a **webcam**, you can see each other as you talk.",
+      "examples": [
+        { "text": "I **Skype** my cousins in Australia every Sunday - I love seeing them as well as talking to them." },
+        { "text": "Is Ana **online**? Her name is on my **contact list** but it's grey." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Interactive sites",
+      "text": "Many online programs are **interactive**, i.e. they let users become involved in the exchange of information. **Social networking sites** are a popular way of keeping in touch with friends.",
+      "examples": [
+        { "text": "A **wiki** is a website which allows users to add, delete and edit its contents. Wikipedia is perhaps the world's largest **wiki**." },
+        { "text": "**Blogs** are interactive too - a kind of online diary that readers can add comments to." },
+        { "text": "Many people are involved in **online gaming**, playing with people they have never met." },
+        { "text": "These games often make use of **virtual reality**.", "note": "virtual reality = images and sounds produced by a computer that represent a place or situation the gamer can take part in" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Log in and log on both get you into a site; the opposites are log out and log off - never 'log on' when you mean leaving."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with its definition.",
+      "pairs": [
+        { "left": "contact list", "right": "email addresses and phone numbers for the people you know" },
+        { "left": "attachment", "right": "something that you send with an email" },
+        { "left": "password", "right": "the combination of letters and digits you use to log in" },
+        { "left": "bookmark", "right": "a way of accessing a favourite website quickly" },
+        { "left": "browser", "right": "software that allows you to surf the web" },
+        { "left": "server", "right": "a large computer that holds information for smaller computers" }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each word with its definition.",
+      "pairs": [
+        { "left": "internet service provider", "right": "a company that enables you to use the web" },
+        { "left": "search engine", "right": "software that helps you locate the websites you need" },
+        { "left": "navigate", "right": "find your way around a website" },
+        { "left": "the cloud", "right": "a network of servers where you can store your data online" },
+        { "left": "home page", "right": "the introductory page of a website" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "WWW stands for World Wide ___.",
+      "hint": "(one word)",
+      "answers": ["Web", "web"],
+      "explanation": "The Web is the huge portion of the Internet made up of linked pages."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I read that journalist's ___ every day - he's always got something interesting to say and readers often add comments.",
+      "hint": "(a kind of online diary)",
+      "answers": ["blog"],
+      "explanation": "A blog is an online diary that readers can comment on."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I couldn't ___ the Internet last night. The server must have been down.",
+      "hint": "(verb)",
+      "answers": ["access", "get onto", "get on to"],
+      "explanation": "You access the Internet; when a server is down, nothing gets through."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's wonderful being able to ___ my cousins who live in Australia - I love seeing them as well as talking to them.",
+      "hint": "(verb, from a brand name)",
+      "answers": ["Skype", "skype"],
+      "explanation": "To Skype someone is to call them over the Internet, often with a webcam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've decided to ___ to my favourite newspaper's website. It doesn't cost much and it has lots of interesting stuff.",
+      "hint": "(verb + to = become a member)",
+      "answers": ["subscribe"],
+      "explanation": "To subscribe to a site is to become a member of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like this website because it has lots of very useful ___ to all sorts of other sites that interest me.",
+      "hint": "(plural noun)",
+      "answers": ["links"],
+      "explanation": "Links take you from one page to another."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My brother loves online gaming, particularly ___ reality games.",
+      "options": ["virtual", "wireless", "interactive", "broadband"],
+      "answer": 0,
+      "explanation": "Virtual reality is a computer-made place the gamer can take part in."
+    },
+    {
+      "type": "mcq",
+      "prompt": "An ___ website is one which allows users to add comments or edit its content in some way.",
+      "options": ["interactive", "online", "wireless", "attached"],
+      "answer": 0,
+      "explanation": "Interactive programs let users become involved in the exchange of information."
+    },
+    {
+      "type": "true_false",
+      "statement": "Google is the name of a browser.",
+      "answer": false,
+      "explanation": "False - Google is the name of a search engine."
+    },
+    {
+      "type": "true_false",
+      "statement": "FAQ stands for Fast Answers to Questions.",
+      "answer": false,
+      "explanation": "False - it stands for Frequently Asked Questions."
+    },
+    {
+      "type": "true_false",
+      "statement": "If a cafe says that it has wi-fi access, you can get online with your laptop there.",
+      "answer": true,
+      "explanation": "True - wi-fi gives you a wireless connection to the Internet."
+    },
+    {
+      "type": "true_false",
+      "statement": "A wiki is a kind of computer device.",
+      "answer": false,
+      "explanation": "False - it is a type of website, one that users can add to, delete from and edit."
+    },
+    {
+      "type": "true_false",
+      "statement": "If you send someone an e-card they will receive it in the post.",
+      "answer": false,
+      "explanation": "False - they will get it by email."
+    },
+    {
+      "type": "true_false",
+      "statement": "When you want to stop using the net, you log on.",
+      "answer": false,
+      "explanation": "False - you log off (or log out)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word about hardware and connections, or about what you do on a website?",
+      "categories": ["Hardware and connections", "What you do on a website"],
+      "items": [
+        { "text": "webcam", "category": 0 },
+        { "text": "server", "category": 0 },
+        { "text": "broadband", "category": 0 },
+        { "text": "wi-fi", "category": 0 },
+        { "text": "bookmark", "category": 1 },
+        { "text": "subscribe", "category": 1 },
+        { "text": "navigate", "category": 1 },
+        { "text": "log out", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the sentence in order.",
+      "words": ["A", "website's", "home page", "gives", "key information", "and", "links", "to", "its other pages."],
+      "answer": "A website's home page gives key information and links to its other pages.",
+      "explanation": "The home page is the introductory page of a site."
+    }
+  ]
+}

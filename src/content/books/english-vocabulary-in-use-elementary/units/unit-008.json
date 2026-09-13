@@ -1,0 +1,164 @@
+{
+  "number": 8,
+  "title": "Conversations 1: Greetings and wishes",
+  "subtitle": "Hello, Goodnight, Good luck!",
+  "summary": "Greet people at any time of day, say goodbye and thank you, and use the right wish for birthdays, exams and special days.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Hello and goodbye",
+      "text": "Say **Hello** or, more informally, **Hi**. Before 12 o'clock say **Good morning**, in the afternoon **Good afternoon**, and after about 6 o'clock **Good evening**. When you leave, say **Goodbye**.",
+      "examples": [
+        { "text": "*A:* **Good morning**! *B:* **Good morning**. How are you?" },
+        { "text": "*A:* **Hi**, Ann! *B:* **Hello**!" },
+        { "text": "*A:* **Goodbye**. *B:* **Goodbye. See you soon!**", "note": "See you soon is quite informal" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How are you?",
+      "text": "**How are you?** is the usual question when you meet someone. Answer with **Fine, thanks. And you?** or **Not too bad, thanks.**",
+      "examples": [
+        { "text": "*A:* **How are you?** *B:* **Fine, thanks. And you?**" },
+        { "text": "*A:* How are you? *B:* **Not too bad, thanks.**" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Goodnight",
+      "text": "When someone goes to bed, say **Goodnight**, and sometimes also **Sleep well**. Use Goodnight only when you or the other person leaves - never when you arrive.",
+      "examples": [
+        { "text": "A child goes to bed. You say: **Goodnight. Sleep well.**" },
+        { "text": "You leave a party at midnight. You say: **Goodnight!**", "wrong": "Goodnight when you arrive" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Please, thank you and sorry",
+      "text": "When you ask for something, say **Please**. When someone does something nice for you, say **Thank you** or, informally, **Cheers**. Say **Excuse me** to get past someone, **Sorry** when you do something wrong, and **Bless you** when someone sneezes.",
+      "examples": [
+        { "text": "*A:* Here's your tea. *B:* **Thank you.** / **Cheers.**" },
+        { "text": "Some people are in the doorway. You say: **Excuse me!**" },
+        { "text": "You stand on someone's foot. You say: **Sorry!**" },
+        { "text": "*A:* Atishoo! *B:* **Bless you!**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Special days and wishes",
+      "columns": ["When", "You say"],
+      "rows": [
+        ["it's someone's birthday", "Happy Birthday!"],
+        ["it's Christmas", "Happy Christmas! / Merry Christmas!"],
+        ["it's New Year's Day", "Happy New Year!"],
+        ["someone is taking an exam or has a job interview", "Good luck!"],
+        ["someone has passed an exam or had a baby", "Congratulations! / Well done!"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "On someone's birthday we say **Happy Birthday!** - not ~~Congratulations~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Atishoo! *B:* ___ you!",
+      "hint": "(one word)",
+      "answers": ["Bless"],
+      "explanation": "We say Bless you! when someone sneezes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your friend is taking a driving test today. What do you say?",
+      "options": ["Good luck!", "Congratulations!", "Bless you!", "Sorry!"],
+      "answer": 0,
+      "explanation": "We say Good luck! before something difficult."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your friend says: I passed my driving test! What do you say?",
+      "options": ["Congratulations!", "Good luck!", "Excuse me!", "Goodnight."],
+      "answer": 0,
+      "explanation": "Congratulations! or Well done! after someone does something special."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* It's my birthday today. *B:* Happy ___!",
+      "hint": "(one word)",
+      "answers": ["Birthday"],
+      "explanation": "On someone's birthday we say Happy Birthday, not Congratulations."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you say in each situation?",
+      "pairs": [
+        { "left": "You answer the phone at work at 10.30 am.", "right": "Good morning." },
+        { "left": "You answer the phone at work at 3 pm.", "right": "Good afternoon." },
+        { "left": "It is 2 am on 1st January and you meet a friend.", "right": "Happy New Year!" },
+        { "left": "You stand on someone's foot on a crowded bus.", "right": "Sorry!" },
+        { "left": "It is 24th December and you meet a friend.", "right": "Happy Christmas!" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Some people are blocking the doorway and you want to go through. You say: ___ me!",
+      "hint": "(one word)",
+      "answers": ["Excuse"],
+      "explanation": "Excuse me! is polite when you want to get past someone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A child says Goodnight to you. You answer: Goodnight. ___ well.",
+      "hint": "(one word)",
+      "answers": ["Sleep"],
+      "explanation": "Goodnight. Sleep well. is what we say at bedtime."
+    },
+    {
+      "type": "true_false",
+      "statement": "You say Goodnight when you arrive at a party.",
+      "answer": false,
+      "explanation": "You say Goodnight only when you leave, or when someone goes to bed."
+    },
+    {
+      "type": "true_false",
+      "statement": "When it is someone's birthday we say Congratulations.",
+      "answer": false,
+      "explanation": "When it is someone's birthday we say Happy Birthday!"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* How are you? *B:* ___",
+      "options": ["Fine, thanks. And you?", "Bless you!", "Good luck!", "Sleep well."],
+      "answer": 0,
+      "explanation": "Fine, thanks. And you? is the usual answer."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say goodbye to a friend you will see again soon.",
+      "words": ["Goodbye.", "See", "you", "soon!"],
+      "answer": "Goodbye. See you soon!"
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you say it when you meet someone, or when you leave?",
+      "categories": ["When you meet someone", "When you leave"],
+      "items": [
+        { "text": "Hello!", "category": 0 },
+        { "text": "Good morning.", "category": 0 },
+        { "text": "Hi!", "category": 0 },
+        { "text": "Goodbye.", "category": 1 },
+        { "text": "See you soon!", "category": 1 },
+        { "text": "Goodnight.", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A friend buys you a drink. You can say Thank you, or informally ___!",
+      "hint": "(one word)",
+      "answers": ["Cheers"],
+      "explanation": "Cheers is an informal way to say thank you."
+    }
+  ]
+}

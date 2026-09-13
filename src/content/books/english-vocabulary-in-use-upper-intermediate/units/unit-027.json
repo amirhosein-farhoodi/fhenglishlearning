@@ -1,0 +1,210 @@
+{
+  "number": 27,
+  "title": "Clothes",
+  "subtitle": "hem, cuff, baggy, it suits you",
+  "summary": "Name the parts of your clothes, describe their fit, style and pattern, and use suit, match and fit correctly.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parts of clothes and shoes",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["collar", "the part that goes round the neck of a shirt or coat"],
+        ["cuff", "the end of a sleeve, at the wrist"],
+        ["sleeve", "the part that covers your arm"],
+        ["hem", "the folded and sewn bottom edge of a skirt or dress"],
+        ["zip", "the fastener with two rows of small teeth"],
+        ["button", "the small round fastener you push through a hole"],
+        ["belt / buckle", "the strip round your waist / the metal fastener on it"],
+        ["hood", "the part of a coat or top that covers your head"],
+        ["badge", "a small piece of cloth or metal with a design on it"],
+        ["label", "the small tag inside a garment with the size and washing instructions"],
+        ["sole / heel", "the bottom of a shoe / the raised part under the back of a shoe"],
+        ["laces", "the strings you tie to fasten your shoes"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Some items of clothing",
+      "columns": ["Item", "What it is"],
+      "rows": [
+        ["hoodie (or hoody)", "a casual top with a hood"],
+        ["cardigan", "a knitted jacket that buttons up the front"],
+        ["pyjamas", "the loose top and trousers you sleep in"],
+        ["slippers", "soft comfortable shoes worn indoors"],
+        ["bikini", "a two-piece swimming costume"],
+        ["bra", "underwear supporting a woman's chest"],
+        ["helmet", "a hard hat that protects your head, e.g. on a motorbike"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Clothes that are always plural",
+      "text": "Most items of clothing that cover the legs are plural words only. To count them you need **a pair of**.",
+      "examples": [
+        { "text": "six **pairs of** trousers / shorts / tights / jeans / underpants" },
+        { "text": "Jamie's football shorts **are** too small for him now. I need to get him a new **pair**.", "wrong": "Jamie's football short is" },
+        { "text": "I've got a hole in my tights. I'll have to change into a new **pair**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Verbs associated with clothing",
+      "text": "Notice the little phrasal verbs used for altering clothes: you **let out** or **take in** for width, and **let down** or **take up** for length.",
+      "examples": [
+        { "text": "Can I **try on** these grey shoes in the window?" },
+        { "text": "I love **dressing up** for parties as I normally wear jeans." },
+        { "text": "The skirt is too tight and too short - it needs **letting out** and **letting down**." },
+        { "text": "The dress is too loose and too long - it needs **taking in** and **taking up**." },
+        { "text": "He **changed out of** his weekend clothes **into** his uniform." },
+        { "text": "Those shoes don't fit my son any more. He's **grown out of** them." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "suit, match or fit?",
+      "columns": ["Verb", "Meaning", "Example"],
+      "rows": [
+        ["suit", "looks good on a person", "Red usually doesn't **suit** people with ginger hair."],
+        ["match", "goes well with another item", "Her black bag **matches** her shoes."],
+        ["fit", "is the right size", "These shoes don't **fit** my son any more."]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Describing clothes",
+      "columns": ["Category", "Words"],
+      "rows": [
+        ["How things fit", "baggy (loose), close-fitting (tight)"],
+        ["Style", "long-sleeved, sleeveless, V-neck, round-neck"],
+        ["Materials", "denim (jeans are usually made of this), woollen (made of wool), suede (a kind of leather that isn't shiny)"],
+        ["Patterns", "plain, striped, pinstriped, checked, spotted, flowery, tartan"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other useful expressions",
+      "text": "A few more phrases that come up whenever people talk about what they wear.",
+      "examples": [
+        { "text": "Anna always looks very elegant even when she's **dressed casually**.", "note": "casually = in a casual or informal way" },
+        { "text": "I don't think it's worth spending money on **designer** sunglasses.", "note": "designer = made by a famous or fashionable designer" },
+        { "text": "Does your country have a special **national costume**?" },
+        { "text": "Alessandra's put her top on **inside out** - I can see the label!" },
+        { "text": "The burglars wore **masks** and hoods as a **disguise** so that no one would recognise them." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*It suits you* is about the person; *it fits you* is about the size; *it matches* is about another garment. Mixing them up is one of the commonest clothes mistakes."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with the part of a garment or shoe it names.",
+      "pairs": [
+        { "left": "collar", "right": "the part that goes round your neck" },
+        { "left": "cuff", "right": "the end of a sleeve, at the wrist" },
+        { "left": "hem", "right": "the sewn bottom edge of a skirt" },
+        { "left": "sole", "right": "the bottom of a shoe" },
+        { "left": "buckle", "right": "the metal fastener on a belt" },
+        { "left": "label", "right": "the tag inside showing the size" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I must get my black shoes repaired. One ___ is broken and both the soles have holes in them.",
+      "hint": "(the raised part at the back)",
+      "answers": ["heel"],
+      "explanation": "The heel is the raised part under the back of a shoe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Do up your ___ or you'll fall over.",
+      "hint": "(plural - on your shoes)",
+      "answers": ["laces", "shoelaces"],
+      "explanation": "You do up (or tie) your laces."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've almost finished making my dress but I've still got to take up the ___ and sew on some buttons.",
+      "hint": "(the bottom edge)",
+      "answers": ["hem"],
+      "explanation": "To take up a hem is to shorten a garment."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You must wear a ___ when you ride a motorbike.",
+      "hint": "(hard protective hat)",
+      "answers": ["helmet"],
+      "explanation": "A helmet protects your head."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Maya packed her beach towel but forgot her ___, so she couldn't go swimming.",
+      "hint": "(two-piece swimming costume)",
+      "answers": ["bikini"],
+      "explanation": "A bikini is a two-piece swimming costume."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dad needs some new underpants. Can you buy him three ___ today?",
+      "hint": "(the counting word)",
+      "answers": ["pairs"],
+      "explanation": "Clothes that cover the legs are plural only, so you count them in pairs."
+    },
+    {
+      "type": "matching",
+      "prompt": "What does each garment need?",
+      "pairs": [
+        { "left": "The skirt is too tight.", "right": "It needs letting out." },
+        { "left": "The skirt is too short.", "right": "It needs letting down." },
+        { "left": "The dress is too loose.", "right": "It needs taking in." },
+        { "left": "The dress is too long.", "right": "It needs taking up." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The blue of her dress ___ the blue of her eyes.",
+      "options": ["matches", "suits", "fits", "wears"],
+      "answer": 0,
+      "explanation": "*Match* is used when one thing goes well with another."
+    },
+    {
+      "type": "mcq",
+      "prompt": "That blue dress really ___ the girl with the blonde hair.",
+      "options": ["suits", "matches", "fits", "dresses"],
+      "answer": 0,
+      "explanation": "*Suit* is used when something looks good on a person."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a material or a pattern?",
+      "categories": ["Material", "Pattern"],
+      "items": [
+        { "text": "denim", "category": 0 },
+        { "text": "woollen", "category": 0 },
+        { "text": "suede", "category": 0 },
+        { "text": "striped", "category": 1 },
+        { "text": "checked", "category": 1 },
+        { "text": "spotted", "category": 1 },
+        { "text": "flowery", "category": 1 },
+        { "text": "tartan", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Alessandra has put her top on inside out - that is why you can see the label.",
+      "answer": true,
+      "explanation": "Correct - inside out means the inside of the garment is now on the outside."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to explain why the shoes are going to the charity shop.",
+      "words": ["Those", "shoes", "don't", "fit", "him", "any", "more.", "He's", "grown out of", "them."],
+      "answer": "Those shoes don't fit him any more. He's grown out of them.",
+      "explanation": "*Fit* is about size; to *grow out of* clothes is to become too big for them."
+    }
+  ]
+}

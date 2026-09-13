@@ -1,0 +1,222 @@
+{
+  "number": 26,
+  "title": "Travel and accommodation",
+  "subtitle": "scheduled flight, self-catering, rough it",
+  "summary": "Book and describe any kind of trip - flights, cruises, trains and hire cars - and choose the right words for where you stay and how you spend the time.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Booking a flight",
+      "text": "A **scheduled flight** is a normal, regular flight; a **charter flight** is a special flight taking a group of people, usually to the same holiday destination. Cheap tickets often carry **restrictions** - you can only travel on certain days - and may be **non-refundable**, so you cannot get your money back, or carry a **cancellation fee**.",
+      "examples": [
+        { "text": "It was a cheap fare, but there were some **restrictions**." },
+        { "text": "The ticket is relatively cheap, but it's **non-refundable**." },
+        { "text": "The ticket allowed us a three-night **stopover** in Singapore on the journey from London to Sydney.", "note": "a stopover = a night somewhere before continuing to your destination" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Choices when you book",
+      "columns": ["Choice", "What it means"],
+      "rows": [
+        ["first, business or economy class", "how much comfort you pay for"],
+        ["route", "the way you go, for example via Amsterdam"],
+        ["airline", "a low-cost or budget airline, or a national carrier"],
+        ["a package holiday", "normally includes accommodation and transfers"],
+        ["an all-inclusive holiday", "includes flight, accommodation and all meals, drinks and snacks in the hotel"],
+        ["flight only", "you arrange everything else yourself"],
+        ["extras", "airport taxes, insurance and similar additional costs"],
+        ["transfers", "the coach or shuttle bus to and from your hotel"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sea travel",
+      "text": "Sea travel is normally on a **ferry**, and the journey is called a **crossing** - but a holiday on the sea is a **cruise**. For some people a luxury cruise is **the holiday of a lifetime**, one they will always remember. You can book a **berth** in a shared **cabin**, or pay more for a **deluxe** cabin on the **upper deck**.",
+      "examples": [
+        { "text": "You can get a four-**berth** cabin on the ferry." },
+        { "text": "Cruises often go to **exotic** islands where you can **get away from it all**.", "note": "exotic = unusual or exciting; get away from it all = escape your daily routine" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "By train, by hire car",
+      "left": {
+        "label": "Train travel",
+        "text": "You relax and look at the countryside through the windows of your **carriage**. Railways link major towns, but you may have to **change trains** if you cannot get a **through train**.",
+        "examples": [
+          "Our seats were in the first **carriage**.",
+          "It's a **through train** - you don't have to change at Crewe."
+        ]
+      },
+      "right": {
+        "label": "Car hire",
+        "text": "**Car hire** is another way of **getting around** (informal). You may have to choose whether you want **unlimited mileage**, and there may be **extras** such as accident insurance.",
+        "examples": [
+          "With **unlimited mileage** you can travel as many miles as you like for the same price.",
+          "If you hire a car, it gives you the freedom to **come and go as you please**."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Accommodation when travelling",
+      "columns": ["Word", "What it is"],
+      "rows": [
+        ["camping", "sleeping in a tent or a caravan"],
+        ["self-catering", "accommodation where you do your own cooking"],
+        ["a chalet", "a small cottage or cabin specially built for holiday-makers"],
+        ["a guest house", "a small, relatively cheap hotel"],
+        ["an inn", "similar to a pub but also offering accommodation, often in an attractive old building"],
+        ["half board", "usually breakfast and one other meal"],
+        ["full board", "all meals"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Talking about the holiday itself",
+      "columns": ["Expression", "Meaning"],
+      "rows": [
+        ["to rough it", "to live in very basic conditions, without extra comforts"],
+        ["to sleep under the stars", "to sleep out in the open, with no roof over your head"],
+        ["to be out in the wilds", "to be far away from civilisation"],
+        ["to lounge around", "to sit or lie and relax for long periods"],
+        ["to just drift along", "to go along with the pace of things, with no fixed plan"],
+        ["to keep on the move", "to travel from place to place rather than stay put"],
+        ["to be your own boss", "to decide everything for yourself"],
+        ["an exhilarating experience", "an exciting, energising one"],
+        ["a cosy atmosphere", "a warm, comfortable, friendly feel"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A package holiday covers flight, hotel and transfers; an all-inclusive one adds every meal and drink as well."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with the word it goes with.",
+      "pairs": [
+        { "left": "holiday", "right": "of a lifetime" },
+        { "left": "full", "right": "board" },
+        { "left": "self-", "right": "catering" },
+        { "left": "unlimited", "right": "mileage" },
+        { "left": "shuttle", "right": "bus" },
+        { "left": "through", "right": "train" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a regular flight which the airline runs every day - a ___ flight.",
+      "hint": "(the opposite of charter)",
+      "answers": ["scheduled"],
+      "explanation": "A scheduled flight is a normal, regular flight."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I hate ___ flights where everyone on board is booked to the same holiday destination.",
+      "hint": "(not scheduled)",
+      "answers": ["charter"],
+      "explanation": "A charter flight is a special flight taking a group of people, usually to the same holiday destination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ticket allowed us a three-night ___ in Singapore on the journey from London to Sydney.",
+      "hint": "(a break in the journey)",
+      "answers": ["stopover"],
+      "explanation": "A stopover lets you stay somewhere overnight before continuing to your destination."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a cheap fare, but there were some ___ - we could only travel midweek.",
+      "hint": "(things you may not do)",
+      "answers": ["restrictions"],
+      "explanation": "Restrictions limit when or how you can use a cheap ticket."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The ticket is relatively cheap, but it's ___ if you have to cancel.",
+      "hint": "(no money back)",
+      "answers": ["non-refundable", "nonrefundable", "non refundable"],
+      "explanation": "A non-refundable ticket means you cannot get your money back."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The price includes the flight, the hotel and all your food and drink - it's an ___ holiday.",
+      "hint": "(everything included)",
+      "answers": ["all-inclusive", "all inclusive"],
+      "explanation": "An all-inclusive holiday includes flight, accommodation and all meals, drinks and snacks."
+    },
+    {
+      "type": "mcq",
+      "prompt": "The bus or taxi to your hotel is included in the cost of the holiday. What are they called?",
+      "options": ["transfers", "extras", "berths", "crossings"],
+      "answer": 0,
+      "explanation": "Transfers are the coach or shuttle bus to and from your hotel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word describes a small, relatively cheap hotel?",
+      "options": ["a guest house", "a chalet", "an inn", "a cabin"],
+      "answer": 0,
+      "explanation": "A guest house is a small, relatively cheap hotel; an inn is like a pub with rooms; a chalet is a holiday cottage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was a lovely cruise; we just ___ around all day.",
+      "hint": "(sat and relaxed)",
+      "answers": ["lounged"],
+      "explanation": "To lounge around is to sit or lie and relax for long periods."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I prefer self-catering because I like to be my own ___.",
+      "hint": "(nobody tells you what to do)",
+      "answers": ["boss"],
+      "explanation": "To be your own boss is to decide everything for yourself."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Camping is OK if you don't mind ___ it - no hot water, no comfortable bed.",
+      "hint": "(living in basic conditions)",
+      "answers": ["roughing"],
+      "explanation": "To rough it is to live in very basic conditions, without any extra comforts."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I'd hate to stay in just one place on my holiday - I much prefer to keep on the ___.",
+      "hint": "(travelling from place to place)",
+      "answers": ["move"],
+      "explanation": "To keep on the move is to travel from place to place rather than stay put."
+    },
+    {
+      "type": "true_false",
+      "statement": "Half board usually means breakfast and one other meal.",
+      "answer": true,
+      "explanation": "Correct - full board means all meals."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which holiday does each expression go with?",
+      "categories": ["Trekking and camping", "A cruise", "Sightseeing in a historic city"],
+      "items": [
+        { "text": "to sleep under the stars", "category": 0 },
+        { "text": "to be out in the wilds", "category": 0 },
+        { "text": "to rough it", "category": 0 },
+        { "text": "to lounge around", "category": 1 },
+        { "text": "to just drift along", "category": 1 },
+        { "text": "to spend a fortune on entrance fees", "category": 2 },
+        { "text": "a real learning experience", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put this sentence about hiring a car in order.",
+      "words": ["If", "you", "hire", "a", "car,", "you", "can", "come", "and", "go", "as", "you", "please"],
+      "answer": "If you hire a car, you can come and go as you please",
+      "explanation": "To come and go as you please is to go where you want, when you want."
+    }
+  ]
+}

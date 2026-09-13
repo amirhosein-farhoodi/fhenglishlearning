@@ -1,0 +1,183 @@
+{
+  "number": 5,
+  "title": "Describing people",
+  "subtitle": "tall, slim, fair hair, middle-aged",
+  "summary": "Describe how someone looks - their height, weight, hair, eyes and age - and ask questions like How tall is she? and What does he look like?",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Height",
+      "text": "**Height** is how tall you are. A very big person is **tall** and a very small person is **short**. If you are not tall and not short, you are **of medium height**.",
+      "examples": [
+        { "text": "Bettina is a very **tall** woman. She is 1.85 metres.", "wrong": "a very high woman" },
+        { "text": "Tom is quite **short**. He is 1.48 metres." },
+        { "text": "My parents are **of medium height**." }
+      ],
+      "note": "People are **tall** - not ~~high~~. We use *high* for buildings and mountains."
+    },
+    {
+      "type": "explain",
+      "heading": "Weight",
+      "text": "**Weight** is how heavy you are. A thin person is **slim** or **thin**. A heavy person is **overweight** or **fat**. If you are overweight, you can go **on a diet**.",
+      "examples": [
+        { "text": "Agata is really **slim**.", "note": "slim is more polite than thin" },
+        { "text": "I was very **thin** when I was in hospital." },
+        { "text": "The doctor said I am **overweight**.", "note": "= I weigh too much" },
+        { "text": "Their cat is very **fat**. It needs to go **on a diet**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Hair, skin and eyes",
+      "text": "Talk about the colour of someone's **hair**, **skin** and **eyes**. Light hair is **blonde** or **fair**; light skin is **fair** skin. Some men have a **beard** on their face or a **moustache** above the mouth.",
+      "examples": [
+        { "text": "Suri has **dark** skin and **dark** hair. She has brown eyes.", "wrong": "dark hairs" },
+        { "text": "Polly has **blonde** (or **fair**) hair and fair skin. She has blue eyes." },
+        { "text": "Ben has a **beard** and long hair. He has green eyes." },
+        { "text": "Luca has a **moustache** and short hair." }
+      ],
+      "note": "You can also use **has got**: Suri has got dark hair and dark skin."
+    },
+    {
+      "type": "table",
+      "heading": "Words for how someone looks",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["beautiful", "very pretty - usually about a woman"],
+        ["pretty", "nice to look at - usually about girls and women"],
+        ["good-looking", "nice to look at - often about a man"],
+        ["average-looking", "not beautiful and not ugly"],
+        ["ugly", "the opposite of beautiful or good-looking"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Age",
+      "text": "A child is **young**. A person of about 50 is **middle-aged**. A person of 90 is **old**. When we talk about old people politely, we say **elderly**.",
+      "examples": [
+        { "text": "My sister is 14. She's **young**, but she would like to be **older**." },
+        { "text": "My father is 56. He's **middle-aged**." },
+        { "text": "My grandmother is 97. She's very **old**." },
+        { "text": "This hospital is for **elderly** people.", "note": "more polite than old" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about people",
+      "text": "These are the usual questions and answers. Use **How tall ... ?** for height, **How heavy ... ?** or **How much do you weigh?** for weight, and **What does he / she look like?** to ask for a full description.",
+      "examples": [
+        { "text": "*A:* **How tall** is Bettina? *B:* She's 1.85 metres tall." },
+        { "text": "*A:* **How heavy** are you? / **How much do you weigh?** *B:* I weigh 62 kilos." },
+        { "text": "*A:* **How old** is he? *B:* He's 84." },
+        { "text": "*A:* **What does** your sister **look like**? *B:* She's tall and dark. She's very pretty." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Some of these words sound unkind, so be careful. It's better not to say to someone *You are fat / thin / ugly / old*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "He's only 1 metre 52. He's quite ___.",
+      "hint": "(not tall)",
+      "answers": ["short"],
+      "explanation": "A person who is not tall is short."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Very ___ people are often good at basketball.",
+      "hint": "(1 metre 95 or more)",
+      "answers": ["tall"],
+      "explanation": "People are tall, not high."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's only seven. She's very ___.",
+      "hint": "(the opposite of old)",
+      "answers": ["young"],
+      "explanation": "A child is young."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Does she have dark skin? *B:* No, it's ___.",
+      "options": ["fair", "blonde", "tall", "elderly"],
+      "answer": 0,
+      "explanation": "Light skin is fair skin. Blonde is only for hair."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Models are usually ___.",
+      "hint": "(thin, but a more polite word)",
+      "answers": ["slim", "thin"],
+      "explanation": "Slim is a polite way to say thin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My grandmother is in this hospital. It is a hospital for ___ people.",
+      "hint": "(a polite word for old)",
+      "answers": ["elderly"],
+      "explanation": "Elderly is more polite than old."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask about the length of Mike's hair.",
+      "words": ["Is", "Mike's", "hair", "long?"],
+      "answer": "Is Mike's hair long?"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* How ___ are you? *B:* I weigh 62 kilos.",
+      "options": ["heavy", "tall", "old", "high"],
+      "answer": 0,
+      "explanation": "How heavy are you? = How much do you weigh?"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask for a description of your teacher.",
+      "words": ["What", "does", "your", "teacher", "look", "like?"],
+      "answer": "What does your teacher look like?",
+      "explanation": "What does he / she look like? asks for a full description."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with the right answer.",
+      "pairs": [
+        { "left": "How tall is Bettina?", "right": "She's 1.85 metres tall." },
+        { "left": "How old is he?", "right": "He's 84." },
+        { "left": "How much do you weigh?", "right": "I weigh 62 kilos." },
+        { "left": "What does Gemma look like?", "right": "She's tall and dark." },
+        { "left": "Is his sister pretty?", "right": "Yes, she's very pretty." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "My brother is very high - he's 1 metre 95.",
+      "answer": false,
+      "explanation": "My brother is very tall - he's 1 metre 95. People are tall, not high."
+    },
+    {
+      "type": "true_false",
+      "statement": "Polly has blonde hairs and fair skin.",
+      "answer": false,
+      "explanation": "Polly has blonde hair and fair skin. We say hair, not hairs."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each word in the right group.",
+      "categories": ["Height", "Weight", "Age"],
+      "items": [
+        { "text": "tall", "category": 0 },
+        { "text": "of medium height", "category": 0 },
+        { "text": "short", "category": 0 },
+        { "text": "slim", "category": 1 },
+        { "text": "overweight", "category": 1 },
+        { "text": "elderly", "category": 2 },
+        { "text": "middle-aged", "category": 2 },
+        { "text": "young", "category": 2 }
+      ]
+    }
+  ]
+}

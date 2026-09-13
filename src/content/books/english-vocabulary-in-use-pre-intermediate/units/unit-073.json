@@ -1,0 +1,184 @@
+{
+  "number": 73,
+  "title": "Compound nouns",
+  "subtitle": "ice hockey, cashpoint, travel agent",
+  "summary": "Put two words together to make a new noun, and learn everyday compounds such as cashpoint, income tax and traffic lights.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "How compound nouns are formed",
+      "text": "We make a **compound noun** by putting two words (sometimes three) together to create a new idea. Compound nouns are very common in English.",
+      "examples": [
+        { "text": "**Ice hockey** is a game of hockey played on ice." },
+        { "text": "**Public transport** is transport that can be used by the public." },
+        { "text": "A **campsite** is a place used for camping." },
+        { "text": "A **babysitter** is someone who looks after young children when their parents go out." },
+        { "text": "A **haircut** is the act of cutting someone's hair.", "note": "That boy needs a haircut." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "More compounds and their meanings",
+      "columns": ["Compound noun", "Meaning"],
+      "rows": [
+        ["income tax", "money you pay to the government out of your income"],
+        ["mother tongue", "the first language you learn as a child"],
+        ["travel agent", "someone whose job is to make travel arrangements for you"],
+        ["film-maker", "someone who makes films for the cinema or television"],
+        ["full stop", "the punctuation mark at the end of a sentence"],
+        ["credit card", "a card you use to pay for things"],
+        ["ID card", "a card with your name and photograph, to prove who you are"]
+      ],
+      "note": "Your income is the total amount of money you receive every year from your work and other places."
+    },
+    {
+      "type": "table",
+      "heading": "Everyday objects and people",
+      "columns": ["Compound noun", "What it is"],
+      "rows": [
+        ["cashpoint", "a machine in a wall where you get money"],
+        ["traffic lights", "the red, amber and green lights that control cars"],
+        ["crossroads", "a place where two roads cross each other"],
+        ["hairdresser", "a person who cuts and styles hair"],
+        ["hairdryer", "a machine that dries your hair"],
+        ["toothpaste", "the substance you use to clean your teeth"],
+        ["toothbrush", "the small brush you clean your teeth with"],
+        ["chest of drawers", "a piece of furniture for keeping clothes in"],
+        ["wheelchair", "a chair with wheels, for someone who cannot walk"],
+        ["sunglasses", "dark glasses you wear in bright sun"],
+        ["earrings", "jewellery you wear in your ears"],
+        ["DJ (disc jockey)", "someone who plays music on the radio or at discos"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "One word or two?",
+      "text": "Some compound nouns are written as one word, some have a hyphen, and many are written as two separate words. There is no easy rule, so check in a dictionary when you are not sure.",
+      "examples": [
+        { "text": "One word: **wheelchair**, **cashpoint**, **toothbrush**" },
+        { "text": "With a hyphen: **T-shirt**, **film-maker**" },
+        { "text": "Two words: **credit card**, **bus stop**, **income tax**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Families of compounds",
+      "columns": ["air-", "bus", "card"],
+      "rows": [
+        ["airport, e.g. Heathrow", "bus driver", "ID card"],
+        ["airline, e.g. Lufthansa", "bus stop", "credit card"],
+        ["aircraft, e.g. Airbus A380", "bus station", "birthday card"]
+      ],
+      "note": "One part of a compound often gives you a whole group of new words."
+    },
+    {
+      "type": "tip",
+      "text": "The main stress is usually on the first part: 'haircut, 'income tax. But a few put it on the second part: public 'transport, full 'stop."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I got some money from the ___ on the corner of the street.",
+      "hint": "(a machine in a wall)",
+      "answers": ["cashpoint", "cash point"],
+      "explanation": "A cashpoint is a machine that gives you money from your bank account."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I booked our holiday through a ___ in the town centre.",
+      "hint": "(two words)",
+      "answers": ["travel agent", "travel agent's"],
+      "explanation": "A travel agent makes travel arrangements for you."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each compound noun with its definition.",
+      "pairs": [
+        { "left": "toothpaste", "right": "what you use to clean your teeth" },
+        { "left": "chest of drawers", "right": "furniture for keeping clothes in" },
+        { "left": "DJ", "right": "someone who plays music at discos" },
+        { "left": "mother tongue", "right": "the first language you learn" },
+        { "left": "full stop", "right": "the mark at the end of a sentence" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Put each compound noun in the right group.",
+      "categories": ["Roads", "Money", "Hair"],
+      "items": [
+        { "text": "traffic lights", "category": 0 },
+        { "text": "crossroads", "category": 0 },
+        { "text": "bus stop", "category": 0 },
+        { "text": "income tax", "category": 1 },
+        { "text": "cashpoint", "category": 1 },
+        { "text": "credit card", "category": 1 },
+        { "text": "haircut", "category": 2 },
+        { "text": "hairdryer", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We stayed on a very nice ___, but unfortunately our tent wasn't really big enough.",
+      "hint": "(a place for camping)",
+      "answers": ["campsite", "camp site"],
+      "explanation": "A campsite is a site used for camping."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He can't walk at all now, so he has to use a ___ to move around.",
+      "hint": "(one word)",
+      "answers": ["wheelchair"],
+      "explanation": "A wheelchair is a chair with wheels for someone who cannot walk."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which compound noun means 'a card with your name, photograph and information to prove who you are'?",
+      "options": ["ID card", "credit card", "birthday card", "bus pass"],
+      "answer": 0,
+      "explanation": "ID card is short for identity card."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Liz and Mark wanted to go out, but they couldn't find a ___ for the children.",
+      "hint": "(one word)",
+      "answers": ["babysitter", "baby sitter", "baby-sitter"],
+      "explanation": "A babysitter looks after young children when their parents go out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "When I'm driving I always wear ___ if it's very bright and sunny.",
+      "hint": "(one word, plural)",
+      "answers": ["sunglasses", "sun glasses"],
+      "explanation": "Sunglasses = sun + glasses."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most people have to pay ___ on their salary; the more you earn, the more you pay.",
+      "hint": "(two words)",
+      "answers": ["income tax"],
+      "explanation": "Income tax is the money you pay to the government out of your income."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which compound noun means 'a game played on ice using sticks'?",
+      "options": ["ice hockey", "public transport", "ice skating", "ball game"],
+      "answer": 0,
+      "explanation": "Ice hockey is hockey played on ice."
+    },
+    {
+      "type": "true_false",
+      "statement": "A birthday card, a bus stop and an income tax bill are all written as two separate words.",
+      "answer": true,
+      "explanation": "Correct. Many compound nouns are written as two words; others are one word, like wheelchair."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to explain what a mother tongue is.",
+      "words": ["Your", "mother", "tongue", "is", "the", "first", "language", "you", "learn", "as", "a", "child."],
+      "answer": "Your mother tongue is the first language you learn as a child.",
+      "explanation": "Mother tongue is a compound noun written as two words."
+    }
+  ]
+}

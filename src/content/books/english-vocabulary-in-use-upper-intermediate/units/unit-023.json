@@ -1,0 +1,226 @@
+{
+  "number": 23,
+  "title": "Physical geography",
+  "subtitle": "coast, estuary, ridge, the Andes",
+  "summary": "Name the features of the land and the sea in English, and get the tricky *the* right with rivers, mountains, oceans and islands.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Do you say *the*?",
+      "columns": ["Type of name", "Use *the*?", "Example"],
+      "rows": [
+        ["countries", "no", "France"],
+        ["countries with a plural form", "yes", "the USA, the Philippines"],
+        ["individual mountains", "no", "Mount Everest"],
+        ["some individual mountains, e.g. in the Bernese Oberland", "yes", "the Jungfrau"],
+        ["mountain chains", "yes", "the Himalayas, the Andes"],
+        ["islands", "no", "Sicily"],
+        ["groups of islands", "yes", "the West Indies"],
+        ["rivers", "yes", "the Volga, the Amazon"],
+        ["oceans and seas", "yes", "the Pacific, the Mediterranean"],
+        ["gulfs, bays and straits", "yes", "the Gulf of Mexico, the Bay of Biscay, the Strait of Malacca"],
+        ["lakes", "no", "Lake Erie"],
+        ["currents", "yes", "the Gulf Stream"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "When a country does take *the*",
+      "text": "Most countries do not take *the*, but they do need the definite article when a phrase after them limits the meaning - when you mean one particular version of the country.",
+      "examples": [
+        { "text": "**the Japan** of today" },
+        { "text": "**the France** we know from paintings" },
+        { "text": "**the South America** of the past" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A country described: Iceland",
+      "text": "Here is how a reference book describes a country. Notice the geographical vocabulary doing the work.",
+      "examples": [
+        { "text": "Iceland is an island republic in the North Atlantic. The landscape consists largely of **barren plains** and mountains, with large ice fields in the south west.", "note": "a barren plain = flat land where little grows" },
+        { "text": "The island has **active volcanoes** and is known for its **thermal springs** and **geysers**.", "note": "active = still erupting; thermal = hot; a geyser is a hole in the ground that sends out hot water and steam" },
+        { "text": "Less than 1% of the land is suitable for growing **crops**, so the economy is based on fishing.", "note": "crops = food that is grown" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Where land meets sea",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["coast", "the land along the edge of a sea"],
+        ["shore", "the land along the edge of a sea or a lake"],
+        ["beach", "the sandy or stony area at the water's edge"],
+        ["cliff", "a high, steep face of rock at the edge of the sea"],
+        ["cape", "a large piece of land sticking out into the sea, e.g. the Cape of Good Hope"],
+        ["peninsula", "a long piece of land sticking out into the sea or a lake"],
+        ["bay / gulf", "a curved part of a coast where the sea comes inland"],
+        ["strait", "a narrow stretch of sea between two areas of land"],
+        ["current", "a movement of water in a particular direction"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Rivers",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["source", "the place where a river starts"],
+        ["stream", "a small river"],
+        ["valley", "the low land between hills, with a river running along it"],
+        ["gorge", "a valley with very steep sides"],
+        ["basin", "the whole area of land drained by a river"],
+        ["mouth", "the place where a river flows into the sea"],
+        ["estuary", "the wide part of a river at its mouth"],
+        ["delta", "the area at a river's mouth where it divides into several channels, e.g. the Nile delta"],
+        ["waterfall", "water falling from a height, e.g. the Angel Falls in Venezuela"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Mountains and inland features",
+      "columns": ["Word", "What it means"],
+      "rows": [
+        ["foot", "the bottom of a mountain"],
+        ["ridge", "a long narrow high part of a mountain"],
+        ["peak", "the pointed top of a mountain"],
+        ["summit", "the highest point of a mountain"],
+        ["glacier", "a river of ice moving slowly down a valley"],
+        ["plain", "a large area of flat land"],
+        ["volcano", "a mountain that sends out hot liquid rock when it erupts"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives that go with these nouns",
+      "columns": ["Adjective", "Nouns it goes with"],
+      "rows": [
+        ["sandy", "beach, shore"],
+        ["steep", "gorge, cliff"],
+        ["shallow", "stream, bay"],
+        ["rocky", "coast, mountain"],
+        ["turbulent", "river, sea"],
+        ["dangerous", "volcano, current"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Coast* is only used where land meets the sea. For the edge of a lake, use **shore**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each geographical word with its definition.",
+      "pairs": [
+        { "left": "current", "right": "a movement of water in a particular direction" },
+        { "left": "estuary", "right": "the wide part of a river at its mouth" },
+        { "left": "source", "right": "the place where a river starts" },
+        { "left": "strait", "right": "a narrow stretch of sea between two areas of land" },
+        { "left": "peninsula", "right": "a long piece of land sticking out into the sea" },
+        { "left": "ridge", "right": "a long narrow high part of a mountain" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After eight hours of climbing they finally reached the ___ of the mountain.",
+      "hint": "(the highest point)",
+      "answers": ["summit", "peak", "top"],
+      "explanation": "Both *summit* and *peak* name the top of a mountain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We walked along the ___ of the lake looking for a place to swim.",
+      "hint": "(not *coast*)",
+      "answers": ["shore"],
+      "explanation": "*Coast* is only used where land meets the sea; for a lake you say *shore*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does each name need *the* in front of it?",
+      "categories": ["Needs *the*", "No *the*"],
+      "items": [
+        { "text": "Pacific", "category": 0 },
+        { "text": "Himalayas", "category": 0 },
+        { "text": "Volga", "category": 0 },
+        { "text": "West Indies", "category": 0 },
+        { "text": "Mount Everest", "category": 1 },
+        { "text": "Sicily", "category": 1 },
+        { "text": "Lake Erie", "category": 1 },
+        { "text": "France", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Brazil is ___ fifth largest country in the world.",
+      "hint": "(one word, or leave out?)",
+      "answers": ["the"],
+      "explanation": "Superlatives always take *the*: the fifth largest country in the world."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In the east, the country is washed by ___ Atlantic.",
+      "hint": "(one word)",
+      "answers": ["the"],
+      "explanation": "Oceans and seas take *the*: the Atlantic, the Pacific, the Mediterranean."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "The highest mountain chain in South America, the Andes, does not lie in Brazil.",
+        "Highest mountain chain in South America, Andes, does not lie in the Brazil.",
+        "The highest mountain chain in the South America, Andes, does not lie in Brazil.",
+        "Highest mountain chain in South America, the Andes, does not lie in the Brazil."
+      ],
+      "answer": 0,
+      "explanation": "Mountain chains take *the* (the Andes); ordinary country names do not (Brazil, South America)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The densely forested ___ of the River Amazon covers half of Brazil.",
+      "hint": "(the area drained by a river)",
+      "answers": ["basin"],
+      "explanation": "A river basin is the whole area of land drained by that river."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Iceland is famous for its hot springs and for its ___, holes in the ground that send out hot water and steam.",
+      "hint": "(plural)",
+      "answers": ["geysers"],
+      "explanation": "New Zealand is another country known for its geysers and hot springs."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ___ is a river of ice that moves slowly down a mountain valley.",
+      "hint": "(one word)",
+      "answers": ["glacier"],
+      "explanation": "A glacier is a slow-moving mass of ice."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with a noun it naturally goes with.",
+      "pairs": [
+        { "left": "sandy", "right": "beach" },
+        { "left": "steep", "right": "gorge" },
+        { "left": "shallow", "right": "stream" },
+        { "left": "rocky", "right": "coast" },
+        { "left": "turbulent", "right": "sea" },
+        { "left": "dangerous", "right": "current" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "A delta is the place where a river divides and flows into the sea through several channels.",
+      "answer": true,
+      "explanation": "Correct - the Nile, the Danube, the Mississippi, the Ganges and the Mekong all have deltas."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the words in order to describe Iceland.",
+      "words": ["The", "landscape", "consists", "largely", "of", "barren plains", "and", "mountains."],
+      "answer": "The landscape consists largely of barren plains and mountains.",
+      "explanation": "A barren plain is flat land where very little grows."
+    }
+  ]
+}

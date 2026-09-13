@@ -1,0 +1,164 @@
+{
+  "number": 42,
+  "title": "Come / came / come",
+  "subtitle": "come in, come back, come from",
+  "summary": "Use come for movement to the place where you are - come in, come back, come home - and learn the phrases come from, come along and come and see me.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "compare",
+      "heading": "Come and go are different",
+      "left": {
+        "label": "come = to this place, here",
+        "text": "The person or thing moves to the place where the speaker is.",
+        "examples": [
+          "**Come** in! [into the room where I am]",
+          "They **came back** from Italy yesterday. [they are here now]"
+        ]
+      },
+      "right": {
+        "label": "go = to another place, there",
+        "text": "The person or thing moves away from the speaker.",
+        "examples": [
+          "I **go** to work at eight o'clock.",
+          "She **went** away for three days."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Come in / come out",
+      "text": "We say **Come in!** when someone knocks at the door of a room. Then the person who knocked **comes into** the room. **Come out (of)** is often the opposite of **come in (to)**.",
+      "examples": [
+        { "text": "*A:* (knock, knock) *B:* **Come in!**" },
+        { "text": "The teacher **came into** the classroom and started the lesson." },
+        { "text": "A woman **came out of** the shop with two big bags.", "note": "I was in the street." },
+        { "text": "You put your money in and the ticket **comes out of** the machine." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Come back and come home",
+      "text": "**Come back** means return to this place here. It is often used with **from**. **Come home** is similar; home is here for the person speaking.",
+      "examples": [
+        { "text": "She went away for three days. She **came back** yesterday.", "note": "She is here again." },
+        { "text": "They **came back from** Italy yesterday." },
+        { "text": "*MUM:* What time did you **come home** last night? *SADIE:* Oh, about 3 o'clock." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Other important uses of come",
+      "text": "We use **come from** to say where a person or thing is from. **Come along** means come with us, and **come and see me** means visit me.",
+      "examples": [
+        { "text": "*A:* What country do you **come from**? *B:* I **come from** Poland." },
+        { "text": "We're going clubbing tonight. Do you want to **come along**?", "note": "= come with us" },
+        { "text": "**Come and see** me some time.", "note": "= visit me" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "come + preposition",
+      "columns": ["Phrase", "Meaning", "Example"],
+      "rows": [
+        ["come in / into", "enter a room", "Come into my office."],
+        ["come out of", "leave a place, appear", "The ticket comes out of the machine."],
+        ["come back (from)", "return to this place", "She came back from Italy."],
+        ["come home", "return to your house", "I come home at six."],
+        ["come from", "be from a place", "I come from Poland."],
+        ["come along", "come with someone", "Do you want to come along?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Say *I come from Poland*, not ~~I'm coming from Poland~~. Write down every preposition you find with **come**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I put money in, but the ticket didn't ___ the machine.",
+      "hint": "(come + two prepositions)",
+      "answers": ["come out of"],
+      "explanation": "Something comes out of a machine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The teacher ___ the classroom and started the lesson.",
+      "hint": "(come - past)",
+      "answers": ["came into", "came in to"],
+      "explanation": "The past of come is came, and you come into a room."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Where do you come from? *B:* ___",
+      "options": ["I come from Spain.", "I'm coming from Spain.", "I come of Spain.", "I come out of Spain."],
+      "answer": 0,
+      "explanation": "We use the present simple: I come from Spain."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Come and ___ me at 5 o'clock; we can talk about it then.",
+      "hint": "(= visit)",
+      "answers": ["see"],
+      "explanation": "Come and see me means visit me."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* I'm going to Thailand tomorrow. *B:* Oh! When are you ___? *A:* In two weeks.",
+      "hint": "(come + one word)",
+      "answers": ["coming back", "coming home"],
+      "explanation": "Come back means return to this place here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She ___ back from Italy yesterday.",
+      "hint": "(come)",
+      "answers": ["came"],
+      "explanation": "Yesterday needs the past form came."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He ___ here every Tuesday.",
+      "hint": "(come)",
+      "answers": ["comes"],
+      "explanation": "Every Tuesday is a habit, so we use the present simple: he comes."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Invite a friend to tonight's party.",
+      "words": ["Are", "you", "coming", "to", "the", "party", "tonight?"],
+      "answer": "Are you coming to the party tonight?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pierre ___ from a small town in Luxembourg.",
+      "hint": "(come)",
+      "answers": ["comes"],
+      "explanation": "We use come from to say where someone is from."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do these people say? Match the situation with the words.",
+      "pairs": [
+        { "left": "Someone knocks at your door.", "right": "Come in!" },
+        { "left": "You want the child to walk over to you.", "right": "Come here!" },
+        { "left": "You are going to a party and you want your friend with you.", "right": "Do you want to come along?" },
+        { "left": "Someone asks you what country you are from.", "right": "I come from France." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm coming from Poland, but I live in London now.",
+      "answer": false,
+      "explanation": "I come from Poland, but I live in London now. Use the present simple with come from."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*MUM:* What time did you ___ last night? *SADIE:* Oh, about 3 o'clock.",
+      "options": ["come home", "come out", "come along", "come from"],
+      "answer": 0,
+      "explanation": "Come home = return to your house, where the speaker is."
+    }
+  ]
+}

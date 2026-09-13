@@ -1,0 +1,189 @@
+{
+  "number": 28,
+  "title": "Health and medicine",
+  "subtitle": "symptoms, aches and treatments",
+  "summary": "Describe symptoms accurately - what you have got, what aches or itches - and talk about what the doctor does about it.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are your symptoms?",
+      "text": "All these noun phrases go with the verb **have (got)**. Start with *I've got ...* and add the symptom.",
+      "examples": [
+        { "text": "I've got **a sore throat** / **a temperature** / **high blood pressure** / **chest pains** / **backache** / **earache**." },
+        { "text": "I've got **a pain in my side** / **a rash** on my chest / **a bruise** on my leg / **a black eye** / **a lump** on my arm.", "note": "a bruise is the dark mark you get after a knock; a black eye comes from being hit in the eye" },
+        { "text": "I've got **indigestion** after eating too fast." },
+        { "text": "I've got **sickness and diarrhoea**.", "note": "an upset stomach that makes you vomit and go to the toilet frequently" },
+        { "text": "I've got **sunburn** / **a virus**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs for what your body is doing",
+      "columns": ["Verb", "What it means", "Example"],
+      "rows": [
+        ["ache", "hurt with a dull continuous pain", "My back is **aching**. I shouldn't have lifted those boxes."],
+        ["itch", "make you want to scratch", "My leg is **itching** - I think an insect has bitten me."],
+        ["tremble", "shake slightly", "My hands are **trembling** after the shock of falling down."],
+        ["shiver", "shake because you are cold", "I had a headache and started **shivering**. I knew it was the flu."],
+        ["hurt", "be painful", "My foot **hurts** from where I knocked it against the table."],
+        ["get over", "get better (formal: recover from)", "I had a cold and it took me two weeks to **get over** it."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "How you feel",
+      "text": "Use *feel* or *be* with these adjectives, and learn the fixed expressions that go with losing something.",
+      "examples": [
+        { "text": "I feel **sick** / **breathless** / **dizzy**.", "note": "dizzy = my head is spinning" },
+        { "text": "I am **depressed** / **exhausted** / **stressed**." },
+        { "text": "I've **lost my appetite** / **my voice**." },
+        { "text": "I think I've **picked up a bug** somewhere.", "note": "informal: caught a virus or infection" },
+        { "text": "I've **broken my wrist** / **sprained my ankle** / **dislocated my shoulder**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Informal and formal",
+      "columns": ["Informal", "More formal"],
+      "rows": [
+        ["He got AIDS in 2001.", "He **contracted** AIDS in 2001."],
+        ["My uncle had a stroke.", "My uncle **suffered** a stroke."],
+        ["I picked up a bug but I got over it.", "I caught an infection but I **recovered from** it."],
+        ["glasses", "spectacles"]
+      ],
+      "note": "A stroke is a sudden change in the blood supply to part of the brain, which can cause a loss of the ability to move certain parts of the body. Note also: She died **of** a heart attack."
+    },
+    {
+      "type": "explain",
+      "heading": "What does the doctor prescribe?",
+      "text": "These are the things a doctor or nurse might say to you. Notice *have* + *an operation*, *an injection*, *your leg put in plaster*.",
+      "examples": [
+        { "text": "Take a **teaspoonful** of medicine last thing at night." },
+        { "text": "We'll get the nurse to **put a bandage on** your wrist." },
+        { "text": "You'll need to **have some injections** before you go to the Amazon." },
+        { "text": "I'm afraid you're going to need **an operation**." },
+        { "text": "You'll have to have your leg **put in plaster** until the break **mends**." },
+        { "text": "I'm going to give you some **tablets** - take one in the morning and one at night." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "A surgeon **operates on** a patient: *They decided to operate on her and remove the tumour*, not ~~operate her~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "What problem might result in each case?",
+      "pairs": [
+        { "left": "someone kicks your leg while you are playing football", "right": "a bruise" },
+        { "left": "someone hits you in the eye", "right": "a black eye" },
+        { "left": "you eat bad, rotten food", "right": "sickness and diarrhoea" },
+        { "left": "you lie too long in the hot sun", "right": "sunburn" },
+        { "left": "you run much too fast to catch a bus", "right": "a pain in your side" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ate my lunch far too fast and now I've got ___.",
+      "hint": "(a stomach problem after eating)",
+      "answers": ["indigestion"],
+      "explanation": "Indigestion is the pain you get from eating too fast or too much."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My hand is covered in little red spots from where I touched that strange plant. I've got a ___ on my hand.",
+      "hint": "(4 letters)",
+      "answers": ["rash"],
+      "explanation": "A rash is an area of small red spots on the skin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My ear has been hurting all day. I've got terrible ___ and I hope it isn't an infection.",
+      "hint": "(one word)",
+      "answers": ["earache"],
+      "explanation": "Like backache and toothache, earache is one word."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each complaint with the explanation that goes with it.",
+      "pairs": [
+        { "left": "My shoulder is itching.", "right": "I can't stop scratching it." },
+        { "left": "My head hurts.", "right": "I banged it as I walked through the low doorway." },
+        { "left": "I'm shivering.", "right": "I feel so cold." },
+        { "left": "I'm trembling.", "right": "I feel very nervous and scared." },
+        { "left": "I'm really stressed and exhausted.", "right": "I've been working too much." },
+        { "left": "I'm depressed.", "right": "I think I need to see a psychiatrist." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I felt terrible all through the holiday. I must have picked up a ___ when I was travelling.",
+      "hint": "(informal for a virus)",
+      "answers": ["bug"],
+      "explanation": "To pick up a bug is an informal way of saying you have caught a virus or infection."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I had a bad cold and it took me two weeks to get ___ it.",
+      "hint": "(one short word)",
+      "answers": ["over"],
+      "explanation": "To get over an illness is to recover from it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is correct?",
+      "options": [
+        "My aunt died of a heart attack.",
+        "My aunt died with a heart attack.",
+        "My aunt died from a heart attack out of the blue.",
+        "My aunt died by a heart attack."
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is *die of* an illness."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite *He got AIDS in 2001* more formally: He ___ AIDS in 2001.",
+      "hint": "(one word)",
+      "answers": ["contracted"],
+      "explanation": "*Contract* is the formal verb for catching a serious disease."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Rewrite *She had a stroke* more formally: She ___ a stroke.",
+      "hint": "(one word)",
+      "answers": ["suffered"],
+      "explanation": "You *suffer* a stroke or a heart attack in formal English."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each item a symptom you complain about or something the doctor does for you?",
+      "categories": ["A symptom", "A treatment"],
+      "items": [
+        { "text": "a lump on my arm", "category": 0 },
+        { "text": "a temperature", "category": 0 },
+        { "text": "chest pains", "category": 0 },
+        { "text": "a sore throat", "category": 0 },
+        { "text": "an injection", "category": 1 },
+        { "text": "a bandage", "category": 1 },
+        { "text": "an operation", "category": 1 },
+        { "text": "tablets", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "They operated me immediately.",
+      "answer": false,
+      "explanation": "A surgeon operates on a patient: They operated on me immediately."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the doctor's words in order.",
+      "words": ["You'll", "have to", "have", "your leg", "put in plaster", "until", "the break", "mends."],
+      "answer": "You'll have to have your leg put in plaster until the break mends.",
+      "explanation": "A broken bone is *put in plaster* and then it *mends*."
+    }
+  ]
+}

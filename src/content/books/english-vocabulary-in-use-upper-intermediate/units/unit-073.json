@@ -1,0 +1,222 @@
+{
+  "number": 73,
+  "title": "Abstract nouns",
+  "subtitle": "kindness, freedom, friendship",
+  "summary": "Build and use abstract nouns - the words for ideas, experiences and qualities - with suffixes such as -ment, -ion, -ness, -ity, -ship, -dom, -th and -hood.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What is an abstract noun?",
+      "text": "An abstract noun stands for an idea, an experience or a quality rather than an object you can touch. **Advice**, **happiness**, **intention** and **injustice** are abstract nouns; *pen*, *bed* and *trousers* are not.",
+      "examples": [
+        { "text": "Her **kindness** to strangers was famous." },
+        { "text": "There was some **disagreement** about the date." },
+        { "text": "**Curiosity** is the beginning of all learning." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "The four commonest suffixes",
+      "columns": ["Suffix", "Added to", "Examples"],
+      "rows": [
+        ["-ment", "verbs", "achievement, adjustment, amazement, disagreement, improvement, investment, replacement, retirement"],
+        ["-ion (-tion, -sion, -ation, -ition)", "verbs", "affection, collection, combination, expectation, frustration, limitation, recession, reduction"],
+        ["-ness", "adjectives", "carelessness, consciousness, eagerness, friendliness, kindness, laziness, politeness, weakness"],
+        ["-ity", "adjectives", "activity, authority, creativity, curiosity, generosity, hostility, popularity, sensitivity"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Less common suffixes",
+      "columns": ["Suffix", "Added to", "Examples"],
+      "rows": [
+        ["-ship", "nouns (status, relationships)", "companionship, relationship, apprenticeship, partnership, ownership, membership"],
+        ["-dom", "nouns or adjectives", "boredom, freedom, kingdom, martyrdom, stardom, wisdom"],
+        ["-th", "adjectives", "breadth, depth, length, strength, warmth, width"],
+        ["-hood", "nouns (family terms, groups)", "adulthood, brotherhood, childhood, motherhood, neighbourhood, womanhood"]
+      ],
+      "note": "Notice the vowel change in several -th nouns: broad becomes breadth, long becomes length, strong becomes strength, wide becomes width."
+    },
+    {
+      "type": "explain",
+      "heading": "-ship nouns in a story",
+      "text": "The **-ship** suffix is especially useful for describing working relationships and status. Here is a short story built entirely out of them.",
+      "examples": [
+        { "text": "When he left school, Rolf trained as an electrician. There were two other boys in a similar position and he enjoyed their **companionship**." },
+        { "text": "They developed such a good **relationship** that, once they'd completed their **apprenticeship**, they decided to go into **partnership** together." },
+        { "text": "Now they have set up a business under joint **ownership** and have taken out **membership** of the Association of Electricians." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Abstract nouns with no suffix",
+      "columns": ["Group", "Nouns"],
+      "rows": [
+        ["feelings", "anger, rage, fear, calm, humour"],
+        ["thinking and believing", "belief, faith, idea, thought, principle, reason, sense"],
+        ["chance and the senses", "chance, luck, sight, speed"]
+      ],
+      "note": "Several of these have a related verb: believe / belief, see / sight, reason / reason."
+    },
+    {
+      "type": "explain",
+      "heading": "No article with abstract nouns",
+      "text": "The definite article is not normally used before an abstract noun used in a general sense.",
+      "examples": [
+        { "text": "**Love** is blind.", "wrong": "The love is blind" },
+        { "text": "I can resist everything except **temptation**.", "wrong": "except the temptation" },
+        { "text": "**Imitation** is the highest form of flattery.", "wrong": "The imitation is" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you record a new adjective or verb, record its abstract noun beside it - *generous / generosity*, *adjust / adjustment* - and you learn two words for the price of one."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its abstract noun.",
+      "pairs": [
+        { "left": "friendly", "right": "friendliness" },
+        { "left": "hostile", "right": "hostility" },
+        { "left": "generous", "right": "generosity" },
+        { "left": "wise", "right": "wisdom" },
+        { "left": "wide", "right": "width" },
+        { "left": "strong", "right": "strength" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The abstract noun from *amazed* is ___.",
+      "hint": "(-ment)",
+      "answers": ["amazement"],
+      "explanation": "-ment usually turns a verb into an abstract noun: amaze becomes amazement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The abstract noun from *frustrating* is ___.",
+      "hint": "(-ion)",
+      "answers": ["frustration"],
+      "explanation": "-ation is one of the forms of the -ion suffix."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The abstract noun from *angry* is ___.",
+      "hint": "(no suffix)",
+      "answers": ["anger"],
+      "explanation": "Some abstract nouns have no suffix at all: anger, rage, calm, fear."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The abstract noun from *reasonable* is ___.",
+      "hint": "(no suffix)",
+      "answers": ["reason"],
+      "explanation": "Reason is an abstract noun with no suffix."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each abstract noun with the verb it comes from.",
+      "pairs": [
+        { "left": "collection", "right": "collect" },
+        { "left": "recession", "right": "recede" },
+        { "left": "belief", "right": "believe" },
+        { "left": "strength", "right": "strengthen" },
+        { "left": "boredom", "right": "bore" },
+        { "left": "sight", "right": "see" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A word with the suffix -ity that means the same as *animosity* is ___.",
+      "hint": "(-ity)",
+      "answers": ["hostility"],
+      "explanation": "Animosity and hostility both mean strong dislike or opposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A word with the suffix -ity that means the same as *inquisitiveness* is ___.",
+      "hint": "(-ity)",
+      "answers": ["curiosity"],
+      "explanation": "Inquisitiveness and curiosity both mean wanting to find things out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A word with the suffix -dom that means the same as *fame* is ___.",
+      "hint": "(-dom)",
+      "answers": ["stardom"],
+      "explanation": "-dom can combine with a noun or an adjective: stardom, freedom, boredom, wisdom."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A word with the suffix -hood that means the same as *community* is ___.",
+      "hint": "(-hood)",
+      "answers": ["neighbourhood"],
+      "explanation": "A neighbourhood is the community of people living in one area."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which noun with the suffix -ment means the same as *substitution*?",
+      "options": ["replacement", "adjustment", "achievement", "investment"],
+      "answer": 0,
+      "explanation": "A replacement is the act of putting one thing or person in the place of another."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which noun with no suffix means the same as *possibility*?",
+      "options": ["chance", "calm", "luck", "sense"],
+      "answer": 0,
+      "explanation": "There's a chance of rain = there's a possibility of rain."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which noun with no suffix means the same as *fury*?",
+      "options": ["rage", "anger", "fear", "thought"],
+      "answer": 0,
+      "explanation": "Fury and rage are the closest synonyms; anger is milder."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which noun with the suffix -ship means the same as *possession*?",
+      "options": ["ownership", "membership", "partnership", "apprenticeship"],
+      "answer": 0,
+      "explanation": "Ownership is the state of possessing something."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which suffix does each abstract noun use?",
+      "categories": ["-ness", "-ity", "-hood"],
+      "items": [
+        { "text": "carelessness", "category": 0 },
+        { "text": "eagerness", "category": 0 },
+        { "text": "politeness", "category": 0 },
+        { "text": "creativity", "category": 1 },
+        { "text": "authority", "category": 1 },
+        { "text": "sensitivity", "category": 1 },
+        { "text": "adulthood", "category": 2 },
+        { "text": "motherhood", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ is the highest form of flattery.",
+      "hint": "(a quotation - no article)",
+      "answers": ["Imitation"],
+      "explanation": "No definite article is used before a general abstract noun."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Better to light a candle than to curse the ___.",
+      "hint": "(one word)",
+      "answers": ["darkness"],
+      "explanation": "Here the article is used because the darkness is a specific one."
+    },
+    {
+      "type": "true_false",
+      "statement": "Better to suffer injustice than to commit it.",
+      "answer": true,
+      "explanation": "Correct - injustice is an abstract noun used here with no article."
+    }
+  ]
+}

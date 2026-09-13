@@ -15,7 +15,13 @@ Books are grouped into shelves on the home page. Currently:
 | 2 | English Grammar in Use | Intermediate - B1/B2 | 145 (based on Raymond Murphy, 5th edition) |
 | 3 | Advanced Grammar in Use | Advanced - C1/C2 | 100 (based on Martin Hewings, 3rd edition) |
 
-**Vocabulary** and **Listening** are declared but have no books yet, so the home page shows them as
+**IELTS**
+
+| # | Book | Level | Units |
+|---|---|---|---|
+| 1 | The Official Cambridge Guide to IELTS | IELTS - B1/C1 | 28 skills units (based on Cullen, French and Jakeman) |
+
+**Vocabulary** is declared but has no books yet, so the home page shows it as
 "in the works". Adding the first book with that `category` is all it takes to turn the shelf live -
 see [Shelves (categories)](#shelves-categories).
 
@@ -25,6 +31,8 @@ see [Shelves (categories)](#shelves-categories).
 - **Lesson reader** that reveals the explanation step by step (or all at once), with examples, comparisons, tables and tips.
 - **Six exercise types:** multiple choice, correct/incorrect, fill in the blank, connect the pairs
   (draw lines), build the sentence (word order) and sort into groups.
+- **Recordings in the lesson.** A unit can carry audio tracks and videos (`media` in its JSON). They
+  play in a panel above the lesson and again behind a toggle in the quiz - see [Unit media](#unit-media).
 - **Gamification:** XP per correct answer, pass and perfect bonuses, 1-3 stars per unit, levels, a daily
   streak, confetti and sound effects (toggle on the home page).
 - **When you fail a quiz** you get three ways forward: review the lesson, see the answers, or move on
@@ -99,7 +107,7 @@ pick the repo and deploy. Every push redeploys.
 src/
   content/
     types.ts                 # content schema (BookMeta, Unit, LessonBlock, Exercise)
-    categories.ts            # the home-page shelves (Grammar, Vocabulary, Listening)
+    categories.ts            # the home-page shelves (Grammar, Vocabulary, IELTS)
     registry.ts              # auto-discovers books with import.meta.glob, groups them by shelf
     books/<slug>/book.json   # book metadata: category + order, sections, unit titles
     books/<slug>/units/unit-001.json ... one JSON per unit (lesson + exercises)
@@ -111,6 +119,8 @@ tools/
   render_scanned_book.py     # scanned PDF -> per-unit page images (needs pymupdf)
   make_icons.py              # logo-transparent.png -> header mark (needs pillow)
   validate-content.mjs       # content validator (npm run validate)
+  link-ielts-media.mjs       # resolves AUDIO:n / VIDEO:n placeholders to real media URLs
+  ielts-media.json           # track/video number -> file URL, built from public/uploads/
   prompts/author-unit.md     # the prompt used to turn a raw unit into unit JSON
 .claude/commands/add-book.md # Claude Code slash command: /add-book <pdf> <slug> <units>
 content-src/<slug>/raw/      # text extraction output (git-ignored, regenerate any time)
@@ -160,7 +170,7 @@ Each book picks its shelf in `book.json`:
 ```
 
 A category with no books renders an "in the works" teaser (its `teaser` line) instead of a grid,
-which is how Vocabulary and Listening appear today. There is no separate flag to flip: add a book
+which is how Vocabulary appears today. There is no separate flag to flip: add a book
 with that `category` and the grid appears. To add a whole new shelf, append an id to `CATEGORY_IDS`
 and an entry to `CATEGORIES` - `npm run validate` reads that file, so it will reject a book whose
 `category` is not in it, and will also flag two books claiming the same `order` on one shelf.
@@ -241,6 +251,9 @@ hence the `--skip-units 27`; the exact command is in the script's docstring.
   "subtitle": "I am doing",
   "summary": "Use the present continuous for ...",
   "passScore": 70,
+  "media": [
+    { "kind": "audio", "src": "https://...", "title": "Spelling names", "label": "Track 4", "caption": "..." }
+  ],
   "lesson": [
     { "type": "explain", "heading": "...", "text": "...", "examples": [{ "text": "**I'm trying** to work.", "wrong": "I try" }] },
     { "type": "compare", "left": { "label": "...", "examples": ["..."] }, "right": { "label": "...", "examples": ["..."] } },
@@ -259,6 +272,64 @@ hence the `--skip-units 27`; the exact command is in the script's docstring.
 ```
 
 Inline markup: `**bold**` (target form), `*italic*`, `~~wrong~~`, and `___` for the blank.
+
+## Unit media
+
+A unit may carry recordings. They are declared in the unit JSON as `media`, an array of clips in the
+order the book uses them:
+
+```jsonc
+"media": [
+  {
+    "kind": "audio",                 // "audio" or "video"
+    "src": "https://host/file.mp3",  // a direct file URL, or a path from the site root
+    "title": "Spelling names and addresses",
+    "label": "Track 4",              // the book's own reference, shown on the chip
+    "caption": "Five short conversations. Notice how speakers help each other spell a word."
+  }
+]
+```
+
+`MediaPanel` (`src/components/MediaPanel.tsx`) renders them above the lesson: a row of chips when
+there is more than one clip, then the active clip. Audio gets a hand-built transport - play, seek,
++/- 5 seconds and a 0.75x-1.5x speed cycle - because the native player cannot be themed and looks
+different in every browser. Video keeps the platform controls, so fullscreen, picture-in-picture and
+captions still work. The same panel reappears in the quiz behind a **Play the recording** toggle,
+collapsed by default so it does not compete with the question.
+
+The host must send CORS headers (`Access-Control-Allow-Origin`) and honour range requests, or the
+browser cannot stream and seek. `npm run validate` checks every clip's `kind`, `title` and `src`,
+and rejects the same `src` twice in one unit.
+
+### The IELTS media pipeline
+
+The Official Cambridge Guide to IELTS ships 70 audio tracks and 17 Speaking test videos. Their URLs
+live in `public/uploads/ielts-cambridge-uploads.md`, and `tools/ielts-media.json` is the machine-readable
+map built from it (number -> URL, one section for audio and one for video).
+
+Units are **authored with the book's own reference** rather than a URL:
+
+```jsonc
+{ "kind": "audio", "src": "AUDIO:14", "title": "..." }
+{ "kind": "video", "src": "VIDEO:3",  "title": "..." }
+```
+
+Then:
+
+```bash
+node tools/link-ielts-media.mjs          # swap every placeholder for its real URL
+node tools/link-ielts-media.mjs --check  # report what would change, write nothing
+```
+
+This exists so a track number cannot be mistyped into a wrong link by hand. Re-running it is safe -
+an already-resolved `src` is left alone.
+
+**Where the tracks go.** Tracks 2-38 and all 17 videos are printed in the book next to the exercise
+that uses them, and the units follow those printed numbers. Track 1 is the recording's own opening
+announcement (~16 seconds), used in Unit 1. Tracks **39-70 are not yet used**: they are the listening
+sections of the eight practice tests, which are not part of the 28 skills units. The book prints no
+track number on the practice-test pages, so if those are ever added, the intended mapping - Test N
+section S = track 39 + (N-1)*4 + (S-1) - should be confirmed by listening before it is committed.
 
 ## Note on content
 

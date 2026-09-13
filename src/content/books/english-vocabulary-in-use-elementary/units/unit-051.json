@@ -1,0 +1,171 @@
+{
+  "number": 51,
+  "title": "Days, months, seasons",
+  "subtitle": "Monday, July, in the summer",
+  "summary": "Say the days, months and seasons in English, use capital letters correctly, and choose between on Monday, at the weekend and in July.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "How we cut up time",
+      "columns": ["Length", "Name"],
+      "rows": [
+        ["60 seconds", "a minute"],
+        ["60 minutes", "an hour"],
+        ["24 hours", "a day"],
+        ["7 days", "a week"],
+        ["2 weeks", "a fortnight"],
+        ["12 months / 365 days", "a year"],
+        ["100 years", "a century"]
+      ],
+      "note": "A year with 366 days is a leap year."
+    },
+    {
+      "type": "explain",
+      "heading": "Days of the week",
+      "text": "The seven days are **Sunday**, **Monday**, **Tuesday**, **Wednesday**, **Thursday**, **Friday** and **Saturday**. The names of the days always begin with a capital letter in English. Saturday + Sunday = **the weekend**.",
+      "examples": [
+        { "text": "I'm going to a party on **Saturday**.", "wrong": "on saturday" },
+        { "text": "Her birthday is on **Thursday** this year." },
+        { "text": "She wanted to have the party at **the weekend**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Yesterday, today, tomorrow",
+      "text": "If today is Wednesday, then Tuesday was **yesterday** and Monday was **the day before yesterday**. Thursday is **tomorrow** and Friday is **the day after tomorrow**.",
+      "examples": [
+        { "text": "Monday before 12 pm = **Monday morning**." },
+        { "text": "Monday between 12 pm and 6 pm = **Monday afternoon**." },
+        { "text": "Monday after 6 pm = **Monday evening**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "on Monday, at the weekend",
+      "text": "We say **on** + a day of the week, but **at** + the weekend.",
+      "examples": [
+        { "text": "I saw her **on** Friday. / I saw her **on** Tuesday evening." },
+        { "text": "I went to the cinema **at** the weekend.", "wrong": "in the weekend" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Months and seasons",
+      "text": "The twelve months are **January**, **February**, **March**, **April**, **May**, **June**, **July**, **August**, **September**, **October**, **November** and **December**. Months always begin with a capital letter. The four seasons are **spring**, **summer**, **autumn** and **winter** - and they do *not* usually start with a capital letter.",
+      "examples": [
+        { "text": "My birthday is **in** July.", "wrong": "on July" },
+        { "text": "I love going to barbecues **in the summer**.", "wrong": "on the summer" },
+        { "text": "My birthday is **in winter** and it's too cold to eat outside." },
+        { "text": "Birds sing **in the spring**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Learn this old rhyme: Thirty days has September, April, June and November. All the rest have thirty-one, except for February, which has twenty-eight days and twenty-nine in each leap year."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "100 years = a ___.",
+      "hint": "(one word)",
+      "answers": ["century"],
+      "explanation": "There are 100 years in a century."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "2 weeks = a ___.",
+      "hint": "(one word)",
+      "answers": ["fortnight"],
+      "explanation": "Two weeks are a fortnight."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A year which has 366 days is called ___.",
+      "options": ["a leap year", "a fortnight", "a century", "a weekend"],
+      "answer": 0,
+      "explanation": "A year with 366 days is a leap year."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Thirty days has September, April, June and ___.",
+      "hint": "(a month)",
+      "answers": ["November"],
+      "explanation": "September, April, June and November all have 30 days."
+    },
+    {
+      "type": "matching",
+      "prompt": "These short forms are common in diaries. Match each one with the full word.",
+      "pairs": [
+        { "left": "Wed", "right": "Wednesday" },
+        { "left": "Aug", "right": "August" },
+        { "left": "Feb", "right": "February" },
+        { "left": "Tues", "right": "Tuesday" },
+        { "left": "Sept", "right": "September" },
+        { "left": "Apr", "right": "April" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "I'm going to a party on saturday for Valentina's birthday.",
+      "answer": false,
+      "explanation": "I'm going to a party on Saturday for Valentina's birthday. Days always begin with a capital letter."
+    },
+    {
+      "type": "true_false",
+      "statement": "She wanted to have the party in the weekend.",
+      "answer": false,
+      "explanation": "She wanted to have the party at the weekend."
+    },
+    {
+      "type": "true_false",
+      "statement": "I love going to barbecues on the summer.",
+      "answer": false,
+      "explanation": "I love going to barbecues in the summer."
+    },
+    {
+      "type": "mcq",
+      "prompt": "My birthday is ___ July.",
+      "options": ["in", "on", "at", "by"],
+      "answer": 0,
+      "explanation": "We use in with months and seasons."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word a day, a month or a season?",
+      "categories": ["Day", "Month", "Season"],
+      "items": [
+        { "text": "Wednesday", "category": 0 },
+        { "text": "Thursday", "category": 0 },
+        { "text": "Saturday", "category": 0 },
+        { "text": "August", "category": 1 },
+        { "text": "February", "category": 1 },
+        { "text": "spring", "category": 2 },
+        { "text": "autumn", "category": 2 },
+        { "text": "winter", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the four seasons in order, starting with the one after winter.",
+      "words": ["spring", "summer", "autumn", "winter"],
+      "answer": "spring summer autumn winter",
+      "explanation": "The seasons go spring, summer, autumn, winter - all with small letters."
+    },
+    {
+      "type": "mcq",
+      "prompt": "What is the seventh month of the year?",
+      "options": ["July", "June", "August", "September"],
+      "answer": 0,
+      "explanation": "January, February, March, April, May, June, July - July is the seventh month."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Saturday + Sunday = the ___.",
+      "hint": "(one word)",
+      "answers": ["weekend"],
+      "explanation": "Saturday and Sunday together are the weekend."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "number": 10,
+  "title": "Describing appearance",
+  "subtitle": "gorgeous, handsome, medium height, wavy hair, tallish",
+  "summary": "Describe what someone looks like: their beauty, their size, their hair and their style.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Appearance",
+      "text": "Your **appearance** is the way you look. To ask about it we say **What does he/she look like?** English uses slightly different words for beauty in men and in women.",
+      "examples": [
+        { "text": "*A:* What does Sophia's boyfriend **look like**? *B:* He's blond, and quite good-looking." },
+        { "text": "They're a very **good-looking** couple.", "note": "good-looking = nice to look at; used for men and women" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Beauty words",
+      "left": {
+        "label": "Women",
+        "text": "Women can be **attractive** or **good-looking**. We often use **pretty** for a girl, and **beautiful** or **gorgeous** for a woman who is very attractive.",
+        "examples": [
+          "Olivia was very **pretty** when she was younger.",
+          "Bella looks **gorgeous** in that dress."
+        ]
+      },
+      "right": {
+        "label": "Men",
+        "text": "Men can be **attractive** and **good-looking**, but also **handsome**. For a very attractive man we say **gorgeous** or **very good-looking**, but not usually *beautiful*.",
+        "examples": [
+          "Liam has become quite **handsome**.",
+          "Her boyfriend is rather **handsome**."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Being polite",
+      "text": "The opposite of beautiful is **ugly**, but it is not very polite to call someone ugly. **Ordinary** (= not special or different) is more polite. It is also not polite to say someone is **fat**; **overweight** is more polite.",
+      "examples": [
+        { "text": "*A:* Did you think he was a bit ugly? *B:* Yes, he was quite **ordinary**." },
+        { "text": "*A:* Ethan's getting fat. *B:* Yes, he is a bit **overweight**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Size",
+      "text": "Your **height** is how tall or short you are; your **weight** is how heavy you are, and the verb is **weigh**. **Roughly** and **approximately** both mean 'about'. Someone who is not tall or short is **medium height**; someone very similar to most other people is **average**.",
+      "examples": [
+        { "text": "I'm **roughly** one metre eighty tall, and I **weigh** just under eighty kilograms." },
+        { "text": "*A:* How tall is Hannah? *B:* **Medium height**, I'd say." },
+        { "text": "*A:* Is Marco quite big? *B:* No, about **average**." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Hair",
+      "columns": ["Colour", "Shape"],
+      "rows": [
+        ["blonde (or blond)", "straight"],
+        ["fair", "wavy"],
+        ["brown", "curly"],
+        ["dark", "long / short"],
+        ["black", "longish"]
+      ],
+      "note": "Fair hair is light; dark hair is nearly black. Wavy and curly are similar: curly hair has more turns in it."
+    },
+    {
+      "type": "explain",
+      "heading": "Hair is uncountable",
+      "text": "Remember that **hair** is uncountable when you talk about all the hair on someone's head. Use no article and no -s.",
+      "examples": [
+        { "text": "She's got straight **hair**.", "wrong": "She's got straight hairs." },
+        { "text": "She's got long black **hair**.", "wrong": "She's got a long black hair." },
+        { "text": "Charlotte's hair is **fair**, but her brother's is quite **dark**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Describing a person",
+      "text": "**Broad** shoulders are wide (the opposite is **narrow**). Someone **athletic** is strong, healthy and often good at sport. Someone **smart** is clean, tidy and stylish, and if they **dress well**, the clothes they wear are nice.",
+      "examples": [
+        { "text": "He's got **broad** shoulders and he looks very **athletic**." },
+        { "text": "That's a nice suit: Jack's very **smart** today." },
+        { "text": "*A:* Is he quite smart? *B:* Yeah, he **dresses** quite **well**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Add -ish to an adjective to mean 'quite' (She's got longish hair) and to a number to mean 'more or less' (He's twentyish)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words that go together. Some pairs are similar in meaning and one pair is opposite.",
+      "pairs": [
+        { "left": "height", "right": "tall" },
+        { "left": "weight", "right": "weigh" },
+        { "left": "roughly", "right": "approximately" },
+        { "left": "medium", "right": "average" },
+        { "left": "broad", "right": "narrow" },
+        { "left": "wavy", "right": "curly" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Beata's got blonde ___.",
+      "hint": "(uncountable)",
+      "answers": ["hair"],
+      "explanation": "Hair is uncountable: blonde hair, not ~~blonde hairs~~."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Isabella is very good-___.",
+      "hint": "(one word)",
+      "answers": ["looking"],
+      "explanation": "Good-looking = nice to look at. We use it for men and women."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Her brother's got very broad ___.",
+      "hint": "(the top of your arms)",
+      "answers": ["shoulders"],
+      "explanation": "Broad shoulders are wide shoulders; the opposite of broad is narrow."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is the word about hair or about size?",
+      "categories": ["Hair", "Size"],
+      "items": [
+        { "text": "wavy", "category": 0 },
+        { "text": "blonde", "category": 0 },
+        { "text": "straight", "category": 0 },
+        { "text": "medium height", "category": 1 },
+        { "text": "overweight", "category": 1 },
+        { "text": "tallish", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "That's a nice suit: Jack's very ___ today.",
+      "hint": "(clean, tidy and stylish)",
+      "answers": ["smart"],
+      "explanation": "Smart = clean, tidy and stylish. A person who is smart dresses well."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Charlotte's hair is fair, but her brother's is quite ___.",
+      "hint": "(nearly black)",
+      "answers": ["dark"],
+      "explanation": "Fair hair is light; dark hair is nearly black."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Maria looked beautiful last night. *B:* Yes, absolutely ___.",
+      "hint": "(very attractive)",
+      "answers": ["gorgeous"],
+      "explanation": "Gorgeous is a strong word for very attractive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Andreas looks very strong and healthy. *B:* Yes, I think he's very ___.",
+      "options": ["athletic", "ordinary", "smart", "narrow"],
+      "answer": 0,
+      "explanation": "Athletic = strong, healthy and often good at sport."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* Ethan's getting fat. *B:* Yes, he is a bit ___. (Choose the polite word.)",
+      "options": ["overweight", "ugly", "average", "handsome"],
+      "answer": 0,
+      "explanation": "Overweight is more polite than fat."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* Did you think he was a bit ugly? *B:* Yes, he was quite ___.",
+      "hint": "(not special or different - the polite word)",
+      "answers": ["ordinary"],
+      "explanation": "Ordinary is a more polite way of saying someone is not attractive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* He's just above average height. *B:* Yes, he is ___, isn't he?",
+      "hint": "(tall + -ish)",
+      "answers": ["tallish"],
+      "explanation": "The suffix -ish means 'quite': tallish = quite tall."
+    },
+    {
+      "type": "true_false",
+      "statement": "Sara's got a long black hair.",
+      "answer": false,
+      "explanation": "Sara's got long black hair. Hair is uncountable, so there is no a and no -s."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "number": 7,
+  "title": "Weather",
+  "subtitle": "thick fog, heavy rain, pouring, boiling, freezing",
+  "summary": "Talk about the weather with the right nouns, adjectives and word partners.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Weather conditions",
+      "columns": ["Noun", "Adjective", "Verb"],
+      "rows": [
+        ["fog", "foggy", "-"],
+        ["cloud", "cloudy", "-"],
+        ["the cold", "cold", "-"],
+        ["ice", "icy", "-"],
+        ["sun", "sunny", "the sun is shining"],
+        ["wind", "windy", "the wind is blowing"],
+        ["snow", "snowy", "it's snowing"],
+        ["rain", "wet", "it's raining"]
+      ],
+      "note": "It is very common to form weather adjectives by adding -y: fog - foggy, sun - sunny."
+    },
+    {
+      "type": "explain",
+      "heading": "Word partners",
+      "text": "Certain adjectives always go with certain weather nouns. Learn them as pairs: **thick fog** (= bad fog), **heavy rain** (= a lot of rain; the opposite is **light rain**), a **strong wind** (= a lot of wind), a **clear sky** (= no clouds).",
+      "examples": [
+        { "text": "The accident happened in **thick fog**." },
+        { "text": "We had some **heavy rain** at the weekend." },
+        { "text": "There was a **strong wind** when we were on the boat." },
+        { "text": "It rained in the morning, but the **sky was clear** by lunchtime." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The sun comes out",
+      "text": "When the sun appears after clouds, we say it **comes out**. To make an adjective stronger we use **extremely**.",
+      "examples": [
+        { "text": "It was very cloudy this morning, but the sun **came out** after lunch." },
+        { "text": "The wind has **blown** all the apples off the tree." },
+        { "text": "It's been **extremely** cold today.", "note": "also extremely hot / extremely windy" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Rain and storms",
+      "text": "For heavy rain we often use the verb **pour**. For a short period of light or heavy rain we use the noun **shower**. A **storm** is heavy rain with strong winds.",
+      "examples": [
+        { "text": "It **poured** with rain this afternoon." },
+        { "text": "Look, it's really **pouring** (with rain) now." },
+        { "text": "We had a couple of heavy **showers** this morning." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Thunderstorms",
+      "text": "A period of hot weather sometimes ends with a **thunderstorm**. First it becomes very **humid**, then you hear **thunder** and see **lightning**, and heavy rain follows.",
+      "examples": [
+        { "text": "It's very **humid** today.", "note": "humid = the air feels very warm and wet" },
+        { "text": "We heard **thunder** and saw **lightning** during the night." },
+        { "text": "It's getting very humid. We might have a **thunderstorm** later." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Temperature: from hot to cold",
+      "columns": ["Word", "Meaning"],
+      "rows": [
+        ["boiling", "very hot, e.g. 40 degrees Celsius"],
+        ["hot", "a high temperature"],
+        ["warm", "pleasantly hot"],
+        ["cool (also: not very warm)", "slightly cold"],
+        ["cold (also: chilly)", "a low temperature"],
+        ["freezing", "very cold, e.g. 10 degrees below zero"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "cool and mild",
+      "left": {
+        "label": "cool",
+        "text": "Slightly cold. It can be negative or pleasant.",
+        "examples": [
+          "We've had a **cool** summer.",
+          "The water in the pool was lovely and **cool**."
+        ]
+      },
+      "right": {
+        "label": "mild",
+        "text": "Usually positive: not as cold as usual.",
+        "examples": [
+          "It's been a **mild** winter.",
+          "I don't mind wet weather if it stays quite **mild**."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Below zero we say the number of degrees with minus: It was minus ten degrees in New York yesterday."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match the words to make weather phrases.",
+      "pairs": [
+        { "left": "a sunny", "right": "day" },
+        { "left": "heavy", "right": "rain" },
+        { "left": "a strong", "right": "wind" },
+        { "left": "a clear", "right": "sky" },
+        { "left": "thick", "right": "fog" },
+        { "left": "thunder and", "right": "lightning" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We had really thick ___ this morning, so it was hard to see the road.",
+      "hint": "(one word)",
+      "answers": ["fog"],
+      "explanation": "We say thick fog, not ~~heavy fog~~."
+    },
+    {
+      "type": "true_false",
+      "statement": "If it's chilly, you may want to put on a coat.",
+      "answer": true,
+      "explanation": "Correct. Chilly means cold."
+    },
+    {
+      "type": "true_false",
+      "statement": "A shower is a type of wind.",
+      "answer": false,
+      "explanation": "A shower is a short period of rain."
+    },
+    {
+      "type": "true_false",
+      "statement": "A mild winter means it is colder than usual.",
+      "answer": false,
+      "explanation": "A mild winter means it is warmer than usual."
+    },
+    {
+      "type": "true_false",
+      "statement": "If it's humid, the air will be very dry.",
+      "answer": false,
+      "explanation": "If it's humid, the air will feel warm and wet."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is each word about hot weather or cold weather?",
+      "categories": ["Hot", "Cold"],
+      "items": [
+        { "text": "boiling", "category": 0 },
+        { "text": "warm", "category": 0 },
+        { "text": "humid", "category": 0 },
+        { "text": "freezing", "category": 1 },
+        { "text": "chilly", "category": 1 },
+        { "text": "icy", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "We had a heavy ___ this morning, but it only lasted a few minutes.",
+      "options": ["shower", "storm", "fog", "wind"],
+      "answer": 0,
+      "explanation": "A shower is a short period of rain, so it can last only a few minutes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was ___ with rain when we left the house.",
+      "hint": "(pour)",
+      "answers": ["pouring"],
+      "explanation": "Pour with rain = rain very heavily."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was cloudy and grey this morning, but when the sun ___ out it was quite hot.",
+      "hint": "(come)",
+      "answers": ["came"],
+      "explanation": "The sun comes out = it appears after the clouds."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "What's the ___ today? It feels much colder than yesterday.",
+      "hint": "(how hot or cold it is)",
+      "answers": ["temperature"],
+      "explanation": "Temperature = how hot or cold it is."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was hot sitting in the sun, but under the beach umbrella it was nice and ___.",
+      "hint": "(pleasantly slightly cold)",
+      "answers": ["cool"],
+      "explanation": "Cool can mean slightly cold in a pleasant way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It was minus ten ___ in New York yesterday.",
+      "hint": "(Celsius)",
+      "answers": ["degrees"],
+      "explanation": "We measure temperature in degrees Celsius; below zero we say minus."
+    }
+  ]
+}

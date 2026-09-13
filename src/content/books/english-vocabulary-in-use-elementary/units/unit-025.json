@@ -1,0 +1,163 @@
+{
+  "number": 25,
+  "title": "Free time at home",
+  "subtitle": "watch TV, listen to music, have friends round",
+  "summary": "Talk about what you do at home in your free time - TV, music, hobbies, reading and friends.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "TV, radio, music and film",
+      "text": "We **watch** TV and films, and we **listen to** music and the radio. To listen on your phone without other people hearing, you need **headphones**.",
+      "examples": [
+        { "text": "I **watch TV** every evening.", "wrong": "I see TV" },
+        { "text": "Did you **watch** the film about President Kennedy?" },
+        { "text": "What **programmes** do you like best on TV and radio?" },
+        { "text": "At the weekend, we usually **watch a DVD**." },
+        { "text": "I like **listening to** music on the radio.", "wrong": "listening the radio" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Hobbies",
+      "text": "Popular hobbies at home are **playing video games**, **downloading** music and films, **chatting** to friends **online**, **cooking** and **gardening**. In the garden you **grow** flowers and vegetables.",
+      "examples": [
+        { "text": "A lot of young people **play video games** every day." },
+        { "text": "I **download** music and films from the Internet." },
+        { "text": "I **chat to** my friends **online** every evening." },
+        { "text": "Do you like **gardening**? We **grow** flowers and vegetables in our garden." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Reading",
+      "columns": ["What you read", "What it is"],
+      "rows": [
+        ["a novel", "a long story in a book"],
+        ["a comic", "a short story told in pictures"],
+        ["a magazine", "a thin book that comes every week or month, e.g. about music or sport"],
+        ["a newspaper", "the news, every day"],
+        ["a book about nature", "facts about animals, plants and different countries"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Friends at home",
+      "text": "When you ask friends to come to your house, you **have friends round**. If a friend sleeps in your house, they **come to stay**. **Having a sleep** means a short sleep in the day.",
+      "examples": [
+        { "text": "We sometimes **have friends round**.", "note": "= we ask them to come to our house" },
+        { "text": "I often **have friends to dinner**." },
+        { "text": "My best friend **comes to stay** sometimes.", "note": "= sleeps in my house" },
+        { "text": "Grandpa likes to **have a sleep** after lunch." },
+        { "text": "Sometimes, I just **do nothing**." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Watch TV but listen to the radio - not ~~see TV~~ and not ~~listen the radio~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "I usually ___ to music on my laptop at home.",
+      "hint": "(one word)",
+      "answers": ["listen"],
+      "explanation": "We listen to music - we always need to."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I like ___ magazines more than newspapers.",
+      "hint": "(read)",
+      "answers": ["reading", "to read"],
+      "explanation": "After like we can use -ing or to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ___ to my sister on the phone every Sunday.",
+      "hint": "(one word)",
+      "answers": ["talk", "speak"],
+      "explanation": "We talk to someone on the phone."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A lot of people like to ___ a sleep after lunch.",
+      "hint": "(four letters)",
+      "answers": ["have"],
+      "explanation": "We have a sleep - not make a sleep."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Did you ___ the programme about Namibia yesterday?",
+      "options": ["watch", "hear", "look", "listen"],
+      "answer": 0,
+      "explanation": "We watch a TV programme."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The children ___ video games every evening.",
+      "hint": "(play / do / go)",
+      "answers": ["play"],
+      "explanation": "We play video games."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I want to ___ some music from the Internet this evening.",
+      "hint": "(eight letters)",
+      "answers": ["download"],
+      "explanation": "We download music and films from the Internet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "My dad ___ vegetables in his garden.",
+      "hint": "(grow)",
+      "answers": ["grows"],
+      "explanation": "We grow flowers and vegetables."
+    },
+    {
+      "type": "matching",
+      "prompt": "What is each person doing?",
+      "pairs": [
+        { "left": "She is sitting in front of the TV.", "right": "watching TV" },
+        { "left": "He is planting flowers outside.", "right": "gardening" },
+        { "left": "He has a newspaper in his hands.", "right": "reading a newspaper" },
+        { "left": "He is making dinner in the kitchen.", "right": "cooking" },
+        { "left": "She is looking at a website.", "right": "using the Internet" },
+        { "left": "He has headphones on his ears.", "right": "listening to music" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "We see TV every evening after dinner.",
+      "answer": false,
+      "explanation": "We watch TV every evening after dinner. We watch TV, we don't see TV."
+    },
+    {
+      "type": "true_false",
+      "statement": "I like to listen the radio in the car.",
+      "answer": false,
+      "explanation": "I like to listen to the radio in the car. Listen always takes to."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Do you read it, watch it or listen to it?",
+      "categories": ["You read it", "You watch it", "You listen to it"],
+      "items": [
+        { "text": "a novel", "category": 0 },
+        { "text": "a comic", "category": 0 },
+        { "text": "a magazine", "category": 0 },
+        { "text": "a DVD", "category": 1 },
+        { "text": "a TV programme", "category": 1 },
+        { "text": "the radio", "category": 2 },
+        { "text": "music on your headphones", "category": 2 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Say that you sometimes ask friends to come to your house.",
+      "words": ["We", "sometimes", "have", "friends", "round."],
+      "answer": "We sometimes have friends round.",
+      "explanation": "Have friends round = ask them to come to your house."
+    }
+  ]
+}

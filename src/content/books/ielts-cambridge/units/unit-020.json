@@ -1,0 +1,185 @@
+{
+  "number": 20,
+  "title": "Academic Task 1 - Describing maps",
+  "subtitle": "Change over time, location language and tenses",
+  "summary": "Describe what has changed on a map and what has stayed the same, using the right verb for each kind of change and the present perfect passive.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Two maps means two questions",
+      "text": "When you are given the same place at two dates, the examiner wants both halves of the story: **what has changed** and **what has stayed the same**. Work through the map feature by feature and note one or the other for each.",
+      "examples": [
+        { "text": "the hotel - **has been expanded / extended**" },
+        { "text": "Steggle Farm - **has been removed / is no longer there**" },
+        { "text": "the roads - **have been modernised**; traffic lights and a roundabout **have been added**" },
+        { "text": "Goode Farm - **has been replaced with a car park**" },
+        { "text": "the stables - **have been demolished and replaced with a block of flats**" },
+        { "text": "the market square, the church, the bridge, the row of shops - **have not changed**" }
+      ],
+      "note": "Unchanged features are worth real marks. An answer listing only the new buildings has missed half the comparison."
+    },
+    {
+      "type": "table",
+      "heading": "The verb tells the examiner what kind of change it is",
+      "columns": ["Verb", "Meaning"],
+      "rows": [
+        ["expand / extend", "make something bigger"],
+        ["renovate", "make something new again"],
+        ["modernise", "make something modern"],
+        ["replace", "take something away and put something else in its place"],
+        ["improve", "make something better"],
+        ["reduce", "make something smaller"],
+        ["develop", "build several buildings in an area where there was nothing"],
+        ["add", "put in something totally new"],
+        ["remove", "take something away"],
+        ["reconstruct", "build something again"]
+      ],
+      "note": "Choosing *replace* where you mean *renovate* is an accuracy error, not a style one - the two describe different things happening to the building."
+    },
+    {
+      "type": "explain",
+      "heading": "Say where things are",
+      "text": "A map description needs location language on almost every line. Learn a handful of phrases and vary them.",
+      "examples": [
+        { "text": "*The **market square**, which is **right in the centre** of the town, has not changed in 300 years.*" },
+        { "text": "*According to the 1700s map, there was a **house** in the **bottom right-hand corner**.*" },
+        { "text": "*Another feature that has remained the same is the **church**, located **in the centre, to the right of** the market square.*" },
+        { "text": "*The row of **shops** that can be seen in the **bottom centre** of both maps has changed little.*" },
+        { "text": "*Steggle Farm, which can be seen **at the bottom left / in the lower left-hand corner** of the 1700s map, is no longer there.*" },
+        { "text": "*In the **top left-hand corner of** both maps, there is a bridge.*" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "The two tenses a map answer runs on",
+      "left": {
+        "label": "The older map - past simple",
+        "examples": [
+          "*In the 1700s, the town **was** relatively small and **consisted of** a few farms and houses.*",
+          "*Transport **was restricted** to horses at that time, so the roads **were** very basic.*",
+          "*In the 1700s there **were** stables located behind the church.*"
+        ]
+      },
+      "right": {
+        "label": "The change - present perfect passive",
+        "examples": [
+          "*Goode Farm **has** now **been replaced** with a car park.*",
+          "*The hotel **has been extended** and is now almost twice the size it was in 1700.*",
+          "*Traffic lights, a roundabout and a zebra crossing **have** now **been added**.*",
+          "*The stables **have been removed** and replaced with a block of flats.*"
+        ]
+      },
+      "note": "*Has been + past participle* is the single most useful structure in this task, because a map shows results rather than actions."
+    },
+    {
+      "type": "explain",
+      "heading": "Errors that a quick check would catch",
+      "text": "Grammatical Accuracy is a criterion in its own right. In one sample answer, ten mistakes were all of the same few kinds.",
+      "examples": [
+        { "text": "*The two maps **allows** us to see ...* - **allow**", "note": "subject-verb agreement" },
+        { "text": "*the town ... **consists** of a few farms* - **consisted**", "note": "wrong tense for 1700" },
+        { "text": "*Transport **restricted** to horses* - **was restricted**", "note": "missing passive" },
+        { "text": "*a great deal **changing*** - **has changed**" },
+        { "text": "*the roads **are improving*** - **have been improved**" },
+        { "text": "*traffic lights ... **been adding*** - **have been added**" },
+        { "text": "*a car park **now replaced** Goode Farm* - **has now replaced**" },
+        { "text": "*the fields that **are locate*** - **are located**" },
+        { "text": "*Housing is another area where many changes **are made*** - **have been made**" },
+        { "text": "*the hotel, which **is extending*** - **has been extended**" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Work out how much space 150 of your words takes on a page, so you never have to count in the exam. And practise with a timer set to 15 minutes - if you can write it in 15, you have 5 minutes left to check."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with the change it describes.",
+      "pairs": [
+        { "left": "extend", "right": "make something bigger" },
+        { "left": "renovate", "right": "make something new again" },
+        { "left": "replace", "right": "put something else in its place" },
+        { "left": "develop", "right": "build on an area where there was nothing" },
+        { "left": "remove", "right": "take something away" },
+        { "left": "reduce", "right": "make something smaller" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*Goode Farm ___ with a car park.* (replace - present perfect passive)",
+      "hint": "(has been + past participle)",
+      "answers": ["has been replaced", "has now been replaced"],
+      "explanation": "A map shows the result of a change, which is exactly what the present perfect passive expresses."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Between 1700 and today, sort each feature of the town centre.",
+      "categories": ["Has changed", "Has stayed the same"],
+      "items": [
+        { "text": "the hotel", "category": 0 },
+        { "text": "Goode Farm", "category": 0 },
+        { "text": "the stables", "category": 0 },
+        { "text": "the market square", "category": 1 },
+        { "text": "the church", "category": 1 },
+        { "text": "the bridge", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "The two maps allows us to see the changes over a 300-year period.",
+        "The two maps allow us to see the changes over a 300-year period.",
+        "The two maps allowing us to see the changes over a 300-year period.",
+        "The two maps is allowing us to see the changes over a 300-year period."
+      ],
+      "answer": 1,
+      "explanation": "*Maps* is plural, so the verb takes no -s. Subject-verb agreement is one of the commonest accuracy errors in this task."
+    },
+    {
+      "type": "true_false",
+      "statement": "In a map description you should only write about the features that have changed.",
+      "answer": false,
+      "explanation": "Features that have stayed the same are part of the comparison, and the task asks you to make comparisons where relevant."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*In the 1700s, the town was relatively small and ___ of a few farms and houses.* (consist)",
+      "hint": "(the tense must match *the 1700s*)",
+      "answers": ["consisted"],
+      "explanation": "A finished period in the past takes the past simple, even though the sentence next to it may use the present perfect."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a sentence about a feature that has not changed.",
+      "words": ["The", "market", "square,", "which", "is", "right", "in", "the", "centre", "of", "the", "town,", "has", "not", "changed", "in", "300", "years."],
+      "answer": "The market square, which is right in the centre of the town, has not changed in 300 years.",
+      "explanation": "The relative clause adds the location without a second sentence - good for Grammatical Range as well as accuracy."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*The hotel ___ and is now almost twice the size it was in 1700.* Which form is correct?",
+      "options": ["is extending", "extended", "has been extended", "was extending"],
+      "answer": 2,
+      "explanation": "The hotel did not extend itself, and the result is visible now - so present perfect passive."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each location phrase with where it points on a map.",
+      "pairs": [
+        { "left": "right in the centre", "right": "the middle of the map" },
+        { "left": "in the bottom right-hand corner", "right": "low down, on the right" },
+        { "left": "to the right of the market square", "right": "beside a named feature" },
+        { "left": "in the top left-hand corner", "right": "high up, on the left" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Using paragraphs in a Writing Task 1 answer shows that it is well organised.",
+      "answer": true,
+      "explanation": "Coherence and cohesion are marked in Task 1 as well as Task 2, and paragraphing is the clearest evidence of organisation."
+    }
+  ]
+}

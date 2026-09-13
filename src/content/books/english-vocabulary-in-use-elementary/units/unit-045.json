@@ -1,0 +1,154 @@
+{
+  "number": 45,
+  "title": "Get / got / got",
+  "subtitle": "get dark, get a taxi, get home",
+  "summary": "Use get with adjectives for changes (it's getting dark), with nouns to mean buy or find (get a taxi), and in the phrases get married, get to and get back.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Get with adjectives: changes",
+      "text": "**Get** + adjective means become. It shows a change: it is light, then **it's getting dark**, then it is dark.",
+      "examples": [
+        { "text": "It's six o'clock and **it's getting dark**." },
+        { "text": "She was very ill last week, but **she's getting better** now." },
+        { "text": "**I'm getting tired**. I want to go to bed." },
+        { "text": "It's raining! **I'm getting wet**!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Common changes with get",
+      "columns": ["Before", "The change", "After"],
+      "rows": [
+        ["It's light.", "It's getting dark.", "It's dark."],
+        ["It's dark.", "It's getting light.", "It's light."],
+        ["She's ill.", "She's getting better.", "She's well."],
+        ["I'm dry.", "I'm getting wet.", "I'm wet."],
+        ["I'm warm.", "I'm getting cold.", "I'm cold."]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Get with nouns: buy or find",
+      "text": "If you don't have something, you can **get** it. Here **get** means buy or find.",
+      "examples": [
+        { "text": "I want to send a postcard. I have to **get a stamp**." },
+        { "text": "I'm going to the shop to **get a newspaper**." },
+        { "text": "Where can I **get a taxi**?" },
+        { "text": "I've finished my studies. Now I want to **get a job**." },
+        { "text": "My friend is ill! Please **get a doctor**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "get to, get back, get married",
+      "text": "**Get to** a place = arrive at it, reach it. **Get back** = return, come home. And two people **get married**.",
+      "examples": [
+        { "text": "Maria and David are **getting married** in April." },
+        { "text": "*A:* When you **get to** New York, call me. *B:* OK, give me your number." },
+        { "text": "*A:* How can I **get to** the airport? *B:* Take the airport bus at the bus station." },
+        { "text": "I'll see you when you **get back** from Hong Kong." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "No preposition before *home* or *there*: *When I **get home**, I have my lunch* - not ~~get to home~~; *I **get there** at 6 o'clock* - not ~~get to there~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "I studied too much and I got ___.",
+      "options": ["tired", "hot", "sick"],
+      "answer": 0,
+      "explanation": "Too much studying makes you tired."
+    },
+    {
+      "type": "mcq",
+      "prompt": "I ate too much and I got ___.",
+      "options": ["hot", "tired", "sick"],
+      "answer": 2,
+      "explanation": "Too much food makes you sick."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I sat in the sun too much and I got ___.",
+      "hint": "(one adjective)",
+      "answers": ["hot"],
+      "explanation": "Get + adjective shows a change: you become hot."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "In winter in the north it gets ___ very early.",
+      "hint": "(the opposite of light)",
+      "answers": ["dark"],
+      "explanation": "It gets dark = the light goes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vincent got very ___ in the rain.",
+      "hint": "(the opposite of dry)",
+      "answers": ["wet"],
+      "explanation": "Rain makes you wet, so you get wet."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The sun is going down and it's getting dark. When the sun comes up it ___ light again.",
+      "hint": "(get)",
+      "answers": ["gets"],
+      "explanation": "It gets light = the day begins."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She's in hospital but she's ___ better.",
+      "hint": "(get)",
+      "answers": ["getting"],
+      "explanation": "Get better = become well again."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Please close the window. I'm ___ cold.",
+      "hint": "(get)",
+      "answers": ["getting"],
+      "explanation": "Get cold shows the change from warm to cold."
+    },
+    {
+      "type": "matching",
+      "prompt": "What do you get in each situation?",
+      "pairs": [
+        { "left": "Somebody is ill.", "right": "a doctor" },
+        { "left": "You are thirsty.", "right": "a drink" },
+        { "left": "You want to write something down.", "right": "a pen and paper" },
+        { "left": "You want to read the news.", "right": "a newspaper" },
+        { "left": "You want to earn some money.", "right": "a job" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "The plane leaves Singapore at 05.45 and ___ Paris at 12.30.",
+      "hint": "(get + preposition)",
+      "answers": ["gets to"],
+      "explanation": "Get to a place = arrive there."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mike is in New York. He won't ___ till the 14th of July.",
+      "options": ["get back", "get to", "get married", "get dark"],
+      "answer": 0,
+      "explanation": "Get back = return, come home."
+    },
+    {
+      "type": "true_false",
+      "statement": "When I get to home, I have my lunch.",
+      "answer": false,
+      "explanation": "When I get home, I have my lunch. We do not use to before home."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Tell a friend the good news about Maria and David.",
+      "words": ["Maria", "and", "David", "are", "getting", "married", "in", "April."],
+      "answer": "Maria and David are getting married in April."
+    }
+  ]
+}

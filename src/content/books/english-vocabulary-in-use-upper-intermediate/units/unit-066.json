@@ -1,0 +1,191 @@
+{
+  "number": 66,
+  "title": "Referring words",
+  "subtitle": "problem, issue, approach, solution",
+  "summary": "Use text-referring words such as problem, issue, question, approach and solution to organise an argument and point back to what has just been said.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What are text-referring words?",
+      "text": "Some words take their meaning from the text around them. On its own, 'We decided to look at the **problem** again and try to find a **solution**' tells you nothing about the topic. **Problem** and **solution** organise the argument; they refer to something said somewhere else.",
+      "examples": [
+        { "text": "Pollution is increasing. The **problem** is getting worse each day." },
+        { "text": "Should taxes be raised or lowered? This was the biggest **issue** in the election.", "note": "issue = a topic causing great argument and controversy" },
+        { "text": "Whether the war could have been avoided is a **question** that interests historians." },
+        { "text": "Let's discuss crime. That's always an interesting **topic**.", "note": "topic = a subject to argue about or discuss, e.g. in a debate or an essay" },
+        { "text": "Punishment is only one **aspect** of crime.", "note": "aspect = one part of the topic" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Problem-solution word families",
+      "columns": ["Key word", "Words in the same family", "Usual preposition"],
+      "rows": [
+        ["situation", "state of affairs, position", "with regard to"],
+        ["problem", "difficulty (more formal), crisis, matter", "-"],
+        ["response", "reaction, attitude, approach", "to"],
+        ["solution", "answer, key, way out", "to (way out of)"],
+        ["evaluation", "assessment, judgment", "of"]
+      ],
+      "note": "Learn these as a family: a text often moves from situation to problem to response to solution to evaluation."
+    },
+    {
+      "type": "explain",
+      "heading": "A problem-solution text",
+      "text": "In this kind of writing a problem is presented and ways of solving it are discussed. Notice how each word in bold refers back to what came before it.",
+      "examples": [
+        { "text": "The **situation** in our cities with regard to traffic is going from bad to worse." },
+        { "text": "Congestion is a daily feature of urban life. The **problem** is now beginning to affect our national economies." },
+        { "text": "Unless a new **approach** is found to control traffic, we will never find a **solution** to the **dilemma**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Words that refer to parts of an argument",
+      "text": "In a debate, words like **claim**, **fact**, **argument**, **position**, **point** and **view** label what the other speaker has just said - and often judge it at the same time.",
+      "examples": [
+        { "text": "*A:* Your **claim** that we're doing nothing to invest in industry is false. We invested ten billion last year. You've ignored this **fact**." },
+        { "text": "*B:* But the investment has all gone to service industries. The real **point** is that we need to invest in our manufacturing industries." },
+        { "text": "*A:* That **argument** is out-of-date. Our **position** has always been that we should encourage technology." },
+        { "text": "*B:* But that **view** won't help to reduce unemployment." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "From situation to evaluation",
+      "text": "Here is the whole chain in one short text. Each word in bold picks up the stage before it.",
+      "examples": [
+        { "text": "Economically, the government is in a critical **position**. This **state of affairs** is partly a result of the financial **difficulties** currently being experienced globally." },
+        { "text": "Our government's initial **response** to the situation was to impose higher taxes." },
+        { "text": "This **approach** has not proved to be the **solution** to the problem. Economists' current **assessment** is that this may in fact be making **matters** worse." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Choosing the right label",
+      "columns": ["Label", "Use it for"],
+      "rows": [
+        ["fact", "something known to be true"],
+        ["belief", "something someone holds to be true without proof"],
+        ["view", "someone's personal opinion"],
+        ["issue", "a topic people argue and disagree about"],
+        ["evaluation", "a judgment of how well something works"],
+        ["dilemma", "a difficult choice between two options"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "When you start an essay paragraph with *This problem*, *That approach* or *Such a situation*, check that the reader can see exactly which words you are referring back to."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each sentence with the label that best describes it.",
+      "pairs": [
+        { "left": "The earth is in orbit around the sun.", "right": "fact" },
+        { "left": "It has proved to be most efficient.", "right": "evaluation" },
+        { "left": "People are essentially good.", "right": "belief" },
+        { "left": "I've run out of cash.", "right": "problem" },
+        { "left": "World poverty and overpopulation.", "right": "issue" },
+        { "left": "They should get married, to my mind.", "right": "view" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "So you were talking about animal rights? That's quite a big ___ nowadays.",
+      "hint": "(something everyone debates and disagrees about)",
+      "answers": ["issue", "question", "problem"],
+      "explanation": "An issue is a topic that causes argument and controversy."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "We are running out of funds. How do you propose we should deal with the ___?",
+      "hint": "(one word)",
+      "answers": ["problem", "matter", "crisis", "situation"],
+      "explanation": "Problem or matter both refer back to the difficulty just described; crisis if it is really serious."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Is there life on other planets? This is a ___ nobody has yet been able to answer.",
+      "hint": "(one word)",
+      "answers": ["question", "mystery"],
+      "explanation": "A question is something that can be asked and answered; mystery is also possible here."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "You can write your essay on 'My best holiday ever'. If you don't like that ___, I'll give you another one.",
+      "hint": "(a subject to write or talk about)",
+      "answers": ["topic", "subject", "title"],
+      "explanation": "A topic is a subject for an essay or a discussion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "She thinks we should all fly around in tiny little helicopters. This ___ to the traffic problem in cities is rather new and unusual.",
+      "hint": "(a way of dealing with something)",
+      "answers": ["approach", "response", "solution", "answer"],
+      "explanation": "Approach and response take to, as does solution and answer."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each newspaper headline with the text extract that belongs to it.",
+      "pairs": [
+        { "left": "SITUATION IN SAHEL WORSENING DAILY", "right": "... she said if the world community failed to respond, thousands of children could die" },
+        { "left": "NEW APPROACH TO CANCER TREATMENT", "right": "... tests were being carried out to see if the new drug really did work" },
+        { "left": "SCIENTIST REJECTS CLAIMS OVER FAST FOOD", "right": "... there was no proof at all that such things were harmful" },
+        { "left": "SOLUTION TO AGE-OLD MYSTERY IN KENYA", "right": "... the bones proved beyond doubt that human beings had inhabited the region" },
+        { "left": "PRIME MINISTER SETS OUT VIEWS ON NATO", "right": "... also said that he believed that most people had a similar vision" },
+        { "left": "NEW ARGUMENT OVER ECONOMIC RECESSION", "right": "... the Minister denied that this was true and said instead that the evidence pointed to" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort these words into the family they belong to.",
+      "categories": ["Situation words", "Response words", "Solution words"],
+      "items": [
+        { "text": "state of affairs", "category": 0 },
+        { "text": "position", "category": 0 },
+        { "text": "reaction", "category": 1 },
+        { "text": "attitude", "category": 1 },
+        { "text": "approach", "category": 1 },
+        { "text": "answer", "category": 2 },
+        { "text": "key", "category": 2 },
+        { "text": "way out", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which word means 'part of a topic'?",
+      "options": ["aspect", "issue", "claim", "assessment"],
+      "answer": 0,
+      "explanation": "Punishment is only one aspect of crime - one part of the whole topic."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which is the more formal word for a problem?",
+      "options": ["difficulty", "matter", "trouble", "mess"],
+      "answer": 0,
+      "explanation": "Difficulty belongs to the same family as problem but is more formal."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which preposition normally follows *state of affairs* and *position* when you say what they concern?",
+      "options": ["with regard to", "for", "at", "by"],
+      "answer": 0,
+      "explanation": "The situation / position with regard to traffic is going from bad to worse."
+    },
+    {
+      "type": "true_false",
+      "statement": "Economists' current assessment is that higher taxes may be making matters worse.",
+      "answer": true,
+      "explanation": "Correct - an assessment is an evaluation of how well a solution is working."
+    },
+    {
+      "type": "true_false",
+      "statement": "A *dilemma* is a fact that everyone accepts as true.",
+      "answer": false,
+      "explanation": "A dilemma is a difficult choice between two options; a fact is something known to be true."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "number": 36,
+  "title": "Talking about your work",
+  "subtitle": "What do you do? My job involves ...",
+  "summary": "Say what job you do, explain what it involves, and talk about pay, hours and working conditions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "What do you do?",
+      "text": "People can ask about your job in different ways, and you can answer in different ways too. All of these questions mean the same thing.",
+      "examples": [
+        { "text": "*A:* **What do you do?** *B:* I work in sales / marketing / a bank." },
+        { "text": "*A:* **What do you do for a living?** *B:* I'm a doctor / a hairdresser." },
+        { "text": "*A:* **What's your job?** *B:* I work for Union Bank / Fiat / Sony." }
+      ],
+      "note": "We say I work in + an area of work, but I work for + the name of a company."
+    },
+    {
+      "type": "explain",
+      "heading": "What does that involve?",
+      "text": "**What does your job involve?** means 'What do you have to do exactly?'. James and Emma are business **consultants**: people who help others in a particular area. They advise people who want to **set up** (start) a business.",
+      "examples": [
+        { "text": "James **deals with** the marketing.", "note": "= does the work in marketing; handle means the same" },
+        { "text": "Emma is **responsible for** the products.", "note": "= in control of; in charge of means the same" },
+        { "text": "My job **involves** a lot of travel.", "wrong": "involves to travel", "note": "also: My job involves travelling." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Running a small team",
+      "text": "Amy is a manager in a veterinary surgery. She **runs** (organises or controls) the **day-to-day** business of the surgery and is **in charge of** a small team. Her work involves a lot of **admin**, which is short for administration.",
+      "examples": [
+        { "text": "She **runs** the day-to-day business of the surgery.", "note": "day-to-day = happening every day" },
+        { "text": "She is **in charge of** three receptionists, an accounts manager and a secretary." },
+        { "text": "She **handles** any **complaints** that customers make.", "note": "to complain = to say that something is wrong or not satisfactory" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Common mistakes",
+      "text": "Three small words cause a lot of trouble. **Work** is uncountable, the verb is **advise** but the noun is **advice**, and **involve** is followed by *-ing*, not *to*.",
+      "examples": [
+        { "text": "I have a lot of **work** to do.", "wrong": "a lot of works" },
+        { "text": "She **advises** me.", "wrong": "She advices me" },
+        { "text": "She gives me **advice**.", "wrong": "She gives me advise" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "salary or wages?",
+      "left": {
+        "label": "salary",
+        "text": "Money paid to professional people and office workers, usually paid into a bank account every month.",
+        "examples": [
+          "Doctors and teachers are paid a **salary**.",
+          "My **salary** goes into my bank account on the 28th."
+        ]
+      },
+      "right": {
+        "label": "wages",
+        "text": "Money usually paid for each hour, day or week of work to people who do more physical jobs.",
+        "examples": [
+          "Builders and cleaners are often paid **wages**.",
+          "There is a **minimum wage**: employers cannot pay less than this."
+        ]
+      },
+      "note": "Your income is the total amount of money you receive in a year, from one job or from two."
+    },
+    {
+      "type": "explain",
+      "heading": "Pay and income tax",
+      "text": "Most workers are **paid** every month. Some of your **income** you can keep, but some goes to the government. In the UK this is called **income tax**.",
+      "examples": [
+        { "text": "My **income** is about £25,000." },
+        { "text": "I **earn** about £25,000 a year.", "note": "make is also possible: I make about £25,000 a year." },
+        { "text": "I lose 20% of my income in **income tax**." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Conditions",
+      "text": "**Conditions** are the situation in which people work. Most people work **fixed hours**, e.g. 9 am to 5.30 pm; we often call this a **nine-to-five job**. Other people have to **do overtime**, which means work extra hours.",
+      "examples": [
+        { "text": "It's not a **nine-to-five** job: I often work until eight." },
+        { "text": "Some people get paid for **overtime**; others don't.", "note": "you can do overtime or work overtime" },
+        { "text": "Some people have good **working conditions**, e.g. nice offices and paid holidays." },
+        { "text": "New mothers and fathers get extra **time off** when a baby is born.", "note": "time off = time when you are not at work" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Remember the pair: the verb is *advise* (She advises me) but the noun is *advice* (She gives me advice)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which of these words are directly connected with money?",
+      "categories": ["Connected with money", "Not connected with money"],
+      "items": [
+        { "text": "earn", "category": 0 },
+        { "text": "wages", "category": 0 },
+        { "text": "salary", "category": 0 },
+        { "text": "income", "category": 0 },
+        { "text": "handle", "category": 1 },
+        { "text": "consult", "category": 1 },
+        { "text": "product", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each verb or phrase on the left with the words that go with it.",
+      "pairs": [
+        { "left": "set up", "right": "a company" },
+        { "left": "in charge", "right": "of a small department" },
+        { "left": "deal", "right": "with complaints" },
+        { "left": "earn", "right": "money" },
+        { "left": "do", "right": "overtime" },
+        { "left": "advise", "right": "clients" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I'm a marketing assistant.' Another way to say this is: I work ___ marketing.",
+      "hint": "(one word)",
+      "answers": ["in"],
+      "explanation": "We work in an area of work: in marketing, in sales, in a bank."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I'm employed by the government.' Another way to say this is: I work ___ the government.",
+      "hint": "(one word)",
+      "answers": ["for"],
+      "explanation": "We work for an employer or a company."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'What do you have to do exactly?' Another way to ask this is: What does your job ___?",
+      "hint": "(one word)",
+      "answers": ["involve"],
+      "explanation": "What does your job involve? asks what the work actually is."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "My job involves reading government reports.",
+        "My job involves to read government reports.",
+        "My job involve reading government reports.",
+        "My job involves read government reports."
+      ],
+      "answer": 0,
+      "explanation": "After involve we use a noun or an -ing form, never to + verb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I advise clients.' Another way to say this is: My job involves giving ___ to clients.",
+      "hint": "(the noun, one word)",
+      "answers": ["advice"],
+      "explanation": "The verb is advise, but the noun is advice."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "'I complained about the service.' Another way to say this is: I made a ___ about the service.",
+      "hint": "(one word)",
+      "answers": ["complaint"],
+      "explanation": "We make a complaint, and other people handle or deal with complaints."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alexander is a regional manager, and he's ___ for a small team of five sales people.",
+      "hint": "(one word, = in charge of)",
+      "answers": ["responsible"],
+      "explanation": "To be responsible for something means to be in control of it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "He's in contact with his team on a day-to-___ basis.",
+      "hint": "(one word)",
+      "answers": ["day"],
+      "explanation": "Day-to-day means happening every day."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "It's not a nine-to-___ job: Alexander has to do a lot of overtime.",
+      "hint": "(one word)",
+      "answers": ["five"],
+      "explanation": "A nine-to-five job has fixed hours, e.g. 9 am to 5 pm."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "After income ___ he makes £60,000 a year.",
+      "hint": "(the money that goes to the government)",
+      "answers": ["tax"],
+      "explanation": "Income tax is the part of your income that goes to the government."
+    },
+    {
+      "type": "true_false",
+      "statement": "Kelly works fixed hours - 9 am to 5 pm - and she doesn't have to do overtime.",
+      "answer": true,
+      "explanation": "Correct. Fixed hours are always the same, and overtime means extra hours."
+    },
+    {
+      "type": "true_false",
+      "statement": "I have a lot of works to do this week.",
+      "answer": false,
+      "explanation": "Work is uncountable here: I have a lot of work to do this week."
+    }
+  ]
+}

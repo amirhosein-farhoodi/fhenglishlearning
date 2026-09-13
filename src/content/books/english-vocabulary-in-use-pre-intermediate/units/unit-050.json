@@ -1,0 +1,182 @@
+{
+  "number": 50,
+  "title": "Sightseeing holidays",
+  "subtitle": "go sightseeing, packed with tourists, worth visiting",
+  "summary": "Talk about the places tourists visit, what you do on a sightseeing holiday, and how to describe a place.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Things to see",
+      "columns": ["Place", "What it is"],
+      "rows": [
+        ["a castle", "a large strong building built long ago to protect people"],
+        ["a palace", "the large home of a king or queen"],
+        ["a cathedral", "a very large church"],
+        ["a mosque", "a building where Muslims go to pray"],
+        ["a temple", "a religious building in some religions"],
+        ["a statue", "a figure of a person or animal made of stone or metal"],
+        ["a fountain", "water that goes up into the air, often in a square"],
+        ["a market", "a place, often outside, where people sell things"]
+      ],
+      "note": "The religious places here are the cathedral, the mosque and the temple."
+    },
+    {
+      "type": "table",
+      "heading": "Tourist activities",
+      "columns": ["Activity", "Example"],
+      "rows": [
+        ["go sightseeing / see the sights", "We went **sightseeing** almost every day."],
+        ["do a bit of / a lot of sightseeing", "I didn't do a lot of **sightseeing** in Warsaw."],
+        ["have a look round (visit casually, on foot)", "I want to **have a look round** the museum."],
+        ["explore (go round a new place to see what is there)", "We **explored** the flower market."],
+        ["go out (leave your hotel for a restaurant, theatre, etc.)", "On holiday we **went out** every night."],
+        ["get lost (lose your way)", "I **got lost** three times in London."],
+        ["have a great / nice / terrible time", "They **had a lovely time** in Venice."],
+        ["buy souvenirs", "We bought some dolls as **souvenirs**."]
+      ],
+      "note": "A souvenir is something you buy or keep to remember a place or holiday."
+    },
+    {
+      "type": "explain",
+      "heading": "The word place",
+      "text": "**Place** can describe a building, an area, a town or a country. **Guidebooks** are books with information about places.",
+      "examples": [
+        { "text": "Bruges is a lovely **place**.", "note": "place = town" },
+        { "text": "We found a really nice **place** to stay.", "note": "place = hotel" },
+        { "text": "The **guidebooks** say the Alhambra is magnificent." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Describing places",
+      "text": "A **magnificent** building is very good or very beautiful. A **packed** place is very crowded. A **lively** place is full of life and activity, and if there is **plenty** to do, there is a lot to do.",
+      "examples": [
+        { "text": "The Alhambra is always **packed** with tourists in the summer." },
+        { "text": "Sao Paulo is a **lively place**, and there's **plenty** to do in the evening." },
+        { "text": "St Petersburg has lots of historic **monuments**.", "note": "= important places built a long time ago" },
+        { "text": "The Hermitage Museum was the main **attraction** for me.", "note": "an attraction = something that makes people want to come" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "worth",
+      "text": "We use **worth** + noun or **worth** + *-ing* to say that it is a good idea to do something or go somewhere.",
+      "examples": [
+        { "text": "If you go to Poland, it's definitely **worth visiting** Krakow." },
+        { "text": "It's **worth hiring** a car if you go to Scotland." },
+        { "text": "Glasgow is **worth a visit** as well." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "After *worth* use the *-ing* form: it's worth seeing, not ~~it's worth to see~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Which of these places are religious places?",
+      "categories": ["Religious places", "Other places to visit"],
+      "items": [
+        { "text": "temple", "category": 0 },
+        { "text": "cathedral", "category": 0 },
+        { "text": "mosque", "category": 0 },
+        { "text": "castle", "category": 1 },
+        { "text": "palace", "category": 1 },
+        { "text": "market", "category": 1 },
+        { "text": "fountain", "category": 1 },
+        { "text": "statue", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each holiday activity with its meaning.",
+      "pairs": [
+        { "left": "go sightseeing", "right": "visit the famous places of a city" },
+        { "left": "explore", "right": "go round a new place to see what is there" },
+        { "left": "get lost", "right": "lose your way" },
+        { "left": "have a look round", "right": "visit a place casually, often on foot" },
+        { "left": "buy souvenirs", "right": "buy something to remember a place" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I've been in Paris for over a week now and I'm having a great ___.",
+      "hint": "(one word)",
+      "answers": ["time"],
+      "explanation": "We say have a great / nice / terrible time."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I did quite a lot of ___ in the first few days - the Eiffel Tower and Notre-Dame.",
+      "hint": "(visiting famous places)",
+      "answers": ["sightseeing"],
+      "explanation": "do a lot of sightseeing = visit a lot of famous places."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I saw the Eiffel Tower, Notre-Dame and all the usual tourist ___.",
+      "hint": "(plural - things that make people come)",
+      "answers": ["attractions", "sights"],
+      "explanation": "An attraction is something that makes people come to a place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Most places are absolutely ___ with tourists at the moment.",
+      "hint": "(very crowded)",
+      "answers": ["packed", "crowded"],
+      "explanation": "packed = very crowded."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Yesterday I decided to ___ one or two shopping areas.",
+      "hint": "(go round a new place to see what is there)",
+      "answers": ["explore", "visit"],
+      "explanation": "explore = go round a new place to see what is there."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I got ___ on my way back to the hotel, but it didn't matter.",
+      "hint": "(one word)",
+      "answers": ["lost"],
+      "explanation": "get lost = lose your way."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "I ate in the hotel the first night, but now I usually ___ for dinner - the restaurants are great.",
+      "hint": "(two words - leave the hotel for the evening)",
+      "answers": ["go out"],
+      "explanation": "go out = leave home or your hotel for a social event."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* It's lively in the evening, isn't it? *B:* Yes, there's ___.",
+      "options": ["plenty to do", "packed", "a souvenir", "a guidebook"],
+      "answer": 0,
+      "explanation": "A lively place is full of life, so there is plenty (a lot) to do."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*A:* The Taj Mahal was impressive and so beautiful. *B:* Yes, it was ___.",
+      "options": ["magnificent", "packed", "lively", "lost"],
+      "answer": 0,
+      "explanation": "magnificent = very good or very beautiful."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*A:* St Petersburg has many famous old places to see, hasn't it? *B:* Yes, lots of historic ___.",
+      "hint": "(important places built a long time ago)",
+      "answers": ["monuments"],
+      "explanation": "Historic monuments are important places built a long time ago."
+    },
+    {
+      "type": "word_order",
+      "prompt": "*A:* Krakow is a good place to go to, isn't it? Put B's answer in the right order.",
+      "words": ["It's", "definitely", "worth", "visiting", "Krakow"],
+      "answer": "It's definitely worth visiting Krakow",
+      "alternatives": ["It's definitely worth seeing Krakow"],
+      "explanation": "worth + -ing says that it is a good idea to do something."
+    }
+  ]
+}

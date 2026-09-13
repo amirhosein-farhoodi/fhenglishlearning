@@ -1,0 +1,188 @@
+{
+  "number": 21,
+  "title": "General Training Task 1 - A letter",
+  "subtitle": "Register, planning and checking",
+  "summary": "Choose the right level of formality for the reader, plan the letter from the bullet points in the task, and check the tenses and prepositions that most often go wrong.",
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Three registers, one decision",
+      "text": "General Training Task 1 always asks for a letter, and the letter must be in the **correct style**. Who you are writing to decides everything else.",
+      "examples": [
+        { "text": "**informal** - writing to family or friends" },
+        { "text": "**semi-formal** - writing to a work colleague you know well" },
+        { "text": "**formal** - writing to a business or a local newspaper" }
+      ],
+      "note": "Read the situation in the task twice. *Write to the manager of the company* and *write to a friend who works there* need two completely different letters."
+    },
+    {
+      "type": "table",
+      "heading": "The same four moves, three ways",
+      "columns": ["Part", "Informal", "Semi-formal", "Formal"],
+      "rows": [
+        ["greeting", "Hi Mum.", "Dear Mike", "Dear Sir or Madam"],
+        ["opening statement", "Thanks for the parcel, it just arrived!", "I'm afraid I won't be able to attend the meeting next week.", "I'm writing in response to your advertisement."],
+        ["closing statement", "I can't wait to see you next week.", "I'm looking forward to getting back to work.", "I look forward to your reply"],
+        ["ending", "Lots of love", "Kind regards", "Yours sincerely"]
+      ],
+      "note": "Contractions (*I'm*, *can't*) are fine in informal and semi-formal letters. In a formal letter, write the full forms."
+    },
+    {
+      "type": "explain",
+      "heading": "The task is also the plan",
+      "text": "The bullet points in the question tell you exactly what to write about. Turn them into a seven-part plan and you have satisfied Task Achievement and Coherence and Cohesion at the same time.",
+      "examples": [
+        { "text": "**1.** Greeting - *Dear Sir or Madam,*" },
+        { "text": "**2.** Opening statements - introduce yourself and say why you are writing" },
+        { "text": "**3.** Explain the situation" },
+        { "text": "**4.** Describe the problem" },
+        { "text": "**5.** Say what you would like to happen" },
+        { "text": "**6.** Closing statements - signal the end of the letter" },
+        { "text": "**7.** End the letter" }
+      ],
+      "note": "Include **all** the points in the task and **only** relevant ideas. A vivid paragraph about something the task did not ask for lowers your Task Achievement score rather than raising it."
+    },
+    {
+      "type": "compare",
+      "heading": "What the four criteria ask",
+      "left": {
+        "label": "Content",
+        "examples": [
+          "**Task Achievement:** Does your letter answer all the parts of the question? Are all your ideas relevant?",
+          "**Coherence and Cohesion:** Are your ideas well organised, clear and well connected?"
+        ]
+      },
+      "right": {
+        "label": "Language",
+        "examples": [
+          "**Lexical Resource:** Have you avoided repeating the same words and copying words from the question?",
+          "**Grammatical Range and Accuracy:** Have you made few mistakes and shown a range of structures?"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "The tense mistakes that keep recurring",
+      "text": "Decide when the event belongs before you choose the verb: something that **happened** in the past, **has happened** recently, **is true now**, **will happen** in the future, or that you **would like to** happen.",
+      "examples": [
+        { "text": "*I hope that the above information ~~would~~ **will** be helpful to you.*" },
+        { "text": "*I ~~will~~ **would** be grateful if you could think about the situation.*" },
+        { "text": "*However, there ~~were~~ **are** a few things I have to comment on.*" },
+        { "text": "*On the bus, I ~~spend~~ **spent** the entire journey trying to keep warm.*" },
+        { "text": "*I want to describe the kind of area I ~~like~~ **would like** to move to.*" },
+        { "text": "*I am ~~look~~ **looking** forward to **hearing** from you.*" },
+        { "text": "*My uncle is going away, so he ~~need~~ **needs** someone to help run his business.*" },
+        { "text": "*I ~~writing~~ **am writing** you this letter regarding a computer course.*" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Prepositions in a letter",
+      "text": "Letters are full of fixed preposition patterns. These are worth memorising as whole phrases rather than as rules.",
+      "examples": [
+        { "text": "an important examination **on** the following day" },
+        { "text": "**on** the night **of** last Sunday" },
+        { "text": "an advertisement **in** the newspaper" },
+        { "text": "the main reason **for** my trip" },
+        { "text": "looking forward **to** your reply and **to** having more details" },
+        { "text": "contact me **on** my phone **at** home **on** 5467 4539" },
+        { "text": "support the project **in** a lot of ways" },
+        { "text": "experience **in / of** cooking and cleaning" },
+        { "text": "really interested **in** this job" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Task 2 is worth twice as many points as Task 1, so spend only 20 minutes here - and leave at least three of them to check spelling, punctuation and grammar. Take a reliable watch: mobile phones are not allowed in the exam room."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Sort these phrases by the register they belong to.",
+      "categories": ["Informal", "Semi-formal", "Formal"],
+      "items": [
+        { "text": "Hi Mum.", "category": 0 },
+        { "text": "Lots of love", "category": 0 },
+        { "text": "Dear Mike", "category": 1 },
+        { "text": "I'm looking forward to getting back to work.", "category": 1 },
+        { "text": "Dear Sir or Madam", "category": 2 },
+        { "text": "I'm writing in response to your advertisement.", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are asked to write to a local newspaper. Which greeting and ending fit?",
+      "options": [
+        "Hi there ... Lots of love",
+        "Dear Sir or Madam ... Yours sincerely",
+        "Dear Mike ... Kind regards",
+        "Hello ... See you soon"
+      ],
+      "answer": 1,
+      "explanation": "A newspaper is a business you do not know personally, so the letter is formal throughout - including the contractions you leave out."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Correct the tense: *I hope that the above information ___ be helpful to you.*",
+      "hint": "(it refers to the future)",
+      "answers": ["will"],
+      "explanation": "*Would* here suggests a condition that has not been stated. The writer simply means it will help."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each marking criterion with the question it asks.",
+      "pairs": [
+        { "left": "Task Achievement", "right": "Does the letter answer all parts of the question?" },
+        { "left": "Coherence and Cohesion", "right": "Are the ideas well organised and connected?" },
+        { "left": "Lexical Resource", "right": "Have you avoided repeating and copying words?" },
+        { "left": "Grammatical Range and Accuracy", "right": "Few mistakes, and a range of structures?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*I am really interested ___ this job and also have the ability to do it very well.*",
+      "hint": "(a preposition)",
+      "answers": ["in"],
+      "explanation": "*Interested in* is fixed. So are *the reason for*, *an advertisement in* and *looking forward to*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Adding an extra paragraph about something the task did not ask for shows range and raises your score.",
+      "answer": false,
+      "explanation": "Task Achievement asks whether all your ideas are relevant. Irrelevant content costs marks and uses time you need for checking."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*I am look forward to hear from you.* What is wrong?",
+      "options": [
+        "Nothing - it is correct",
+        "It should be *I am looking forward to hearing from you*",
+        "It should be *I look forward to hear from you*",
+        "It should be *I am look forward to hearing from you*"
+      ],
+      "answer": 1,
+      "explanation": "*Am* needs the -ing form, and *forward to* is followed by a gerund - two of the commonest errors in one short phrase."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build a formal opening statement.",
+      "words": ["I", "am", "writing", "in", "response", "to", "your", "advertisement", "in", "the", "newspaper."],
+      "answer": "I am writing in response to your advertisement in the newspaper.",
+      "explanation": "*In response to* and *an advertisement in* are both fixed - and the full form *I am* keeps the register formal."
+    },
+    {
+      "type": "true_false",
+      "statement": "General Training Writing Task 1 and Task 2 are worth the same number of points.",
+      "answer": false,
+      "explanation": "Task 2 is worth twice as much, so Task 1 gets 20 minutes and Task 2 gets 40."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "*My uncle is going away on holiday, so he ___ someone to help run his business.* (need)",
+      "hint": "(third person, present)",
+      "answers": ["needs"],
+      "explanation": "The -s on a third-person present verb is a small mark to lose, and one of the easiest to catch in a three-minute check."
+    }
+  ]
+}
