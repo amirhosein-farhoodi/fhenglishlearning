@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
-import { signInWithGoogle, signOut, useAccount } from '../lib/auth'
+import { signInWithGoogle, useAccount } from '../lib/auth'
 import { cloudEnabled } from '../lib/supabase'
-import { syncStore } from '../lib/sync'
+import { signOutAndClear, syncStore } from '../lib/sync'
 import { GoogleMark } from './Icons'
 
 /** Live sync status, so a failed save is visible instead of silent. */
@@ -77,7 +77,7 @@ export default function AccountMenu() {
             {sync === 'syncing'
               ? 'Saving progress…'
               : sync === 'error'
-                ? 'Could not save - will retry'
+                ? 'Could not save - retrying'
                 : 'Progress saved to your account'}
           </p>
           <button
@@ -86,7 +86,7 @@ export default function AccountMenu() {
             role="menuitem"
             onClick={() => {
               setOpen(false)
-              void signOut()
+              void signOutAndClear()
             }}
           >
             Sign out

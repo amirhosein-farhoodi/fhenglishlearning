@@ -125,7 +125,9 @@ export function useProgress(): Progress {
   useEffect(() => {
     const unsub = progressStore.subscribe(() => setP(progressStore.get()))
     const onStorage = (e: StorageEvent) => {
-      if (e.key === KEY) write(read())
+      // Whichever tab made the change is already pushing it, so adopt the new
+      // state without queueing a duplicate upload of our own.
+      if (e.key === KEY) applyRemoteProgress(read())
     }
     window.addEventListener('storage', onStorage)
     return () => {

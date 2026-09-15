@@ -1,5 +1,5 @@
-import { supabase } from './supabase'
-import { authStore } from './auth'
+import { cloudEnabled, getSupabase } from './supabase'
+import { authStore, signOut } from './auth'
 import {
   applyRemoteProgress,
   emptyProgress,
@@ -13,6 +13,14 @@ import {
 const TABLE = 'progress'
 /** Quiz results arrive in bursts; one write per burst is plenty. */
 const PUSH_DEBOUNCE_MS = 1500
+/** Backoff for a failed save. The last step gives up until the next edit. */
+const RETRY_DELAYS_MS = [2000, 8000, 30000]
+/**
+ * Which account the local blob belongs to, so a shared device cannot fold one
+ * learner's XP into the next person's account. Null means it was never synced
+ * (someone practising before signing up), which *is* safe to merge.
+ */
+const OWNER_KEY = 'fhlanguagelearning:owner'
 
 export type SyncState = 'off' | 'idle' | 'syncing' | 'error'
 
@@ -124,48 +132,111 @@ function normalise(raw: unknown): Progress {
 
 /* ------------------------------------------------------------- transport */
 
+const ownerOf = () => {
+  try {
+    return localStorage.getItem(OWNER_KEY)
+  } catch {
+    return null
+  }
+}
+
+const setOwner = (id: string | null) => {
+  try {
+    if (id) localStorage.setItem(OWNER_KEY, id)
+    else localStorage.removeItem(OWNER_KEY)
+  } catch {
+    /* private mode - the worst case is a merge we would rather have skipped */
+  }
+}
+
 async function pullAndMerge(userId: string) {
-  if (!supabase) return
+  const sb = await getSupabase()
+  if (!sb) return
   setState('syncing')
-  const { data, error } = await supabase
-    .from(TABLE)
-    .select('data')
-    .eq('user_id', userId)
-    .maybeSingle()
+  const { data, error } = await sb.from(TABLE).select('data').eq('user_id', userId).maybeSingle()
   if (error) {
     console.error('[sync] pull failed', error.message)
-    setState('error')
+    scheduleRetry(userId)
     return
   }
+
   const remote = data ? normalise(data.data) : null
-  const merged = remote ? mergeProgress(progressStore.get(), remote) : progressStore.get()
+  const owner = ownerOf()
+  // Someone else was signed in on this device. Their progress must not be
+  // folded into this account, and the merge only ever adds, so it could never
+  // be undone afterwards. Take the server's copy verbatim instead.
+  const foreign = owner !== null && owner !== userId
+  const local = progressStore.get()
+  const merged = !remote
+    ? local
+    : foreign
+      ? { ...remote, settings: local.settings }
+      : mergeProgress(local, remote)
+
   applyRemoteProgress(merged)
+  setOwner(userId)
+
   // A tab regaining focus usually has nothing new to say; skip the round-trip
   // unless the merge actually moved something the server has not seen.
-  if (remote && JSON.stringify(merged.books) === JSON.stringify(remote.books) &&
-      merged.xp === remote.xp && merged.streak.count === remote.streak.count) {
-    setState('idle')
+  if (remote && !foreign && sameProgress(merged, remote)) {
+    settle()
     return
   }
   await push(userId, merged)
 }
 
+const sameProgress = (a: Progress, b: Progress) =>
+  a.xp === b.xp &&
+  a.streak.count === b.streak.count &&
+  a.streak.lastDay === b.streak.lastDay &&
+  JSON.stringify(a.books) === JSON.stringify(b.books)
+
 async function push(userId: string, snapshot: Progress) {
-  if (!supabase) return
+  const sb = await getSupabase()
+  if (!sb) return
   setState('syncing')
-  const { error } = await supabase
+  const { error } = await sb
     .from(TABLE)
     .upsert({ user_id: userId, data: snapshot }, { onConflict: 'user_id' })
   if (error) {
     console.error('[sync] push failed', error.message)
-    setState('error')
+    // Hold the snapshot so the retry has something to send.
+    pending = snapshot
+    scheduleRetry(userId)
     return
   }
+  settle()
+}
+
+/* ------------------------------------------------------- queue and retry */
+
+let pushTimer: ReturnType<typeof setTimeout> | undefined
+let retryTimer: ReturnType<typeof setTimeout> | undefined
+let retryAttempt = 0
+let pending: Progress | null = null
+
+/** A save landed: clear the queue and stop backing off. */
+function settle() {
+  clearTimeout(retryTimer)
+  retryAttempt = 0
+  pending = null
   setState('idle')
 }
 
-let pushTimer: ReturnType<typeof setTimeout> | undefined
-let pending: Progress | null = null
+function scheduleRetry(userId: string) {
+  setState('error')
+  const delay = RETRY_DELAYS_MS[retryAttempt]
+  // Out of attempts. Nothing is lost - localStorage still holds the truth, and
+  // the merge on the next load or focus will carry it up.
+  if (delay === undefined) return
+  retryAttempt++
+  clearTimeout(retryTimer)
+  retryTimer = setTimeout(() => {
+    if (authStore.session()?.user.id !== userId) return
+    if (pending) void push(userId, pending)
+    else void pullAndMerge(userId)
+  }, delay)
+}
 
 function schedulePush() {
   const userId = authStore.session()?.user.id
@@ -174,35 +245,68 @@ function schedulePush() {
   clearTimeout(pushTimer)
   pushTimer = setTimeout(() => {
     const snapshot = pending
-    pending = null
     if (snapshot) void push(userId, snapshot)
   }, PUSH_DEBOUNCE_MS)
 }
 
-function flush() {
-  if (!pending) return
+/**
+ * Send whatever is queued right now, without waiting out the debounce.
+ * Awaitable, because sign-out wipes local progress and must not do so until
+ * the last quiz result is safely on the server.
+ */
+function flush(): Promise<void> {
   const userId = authStore.session()?.user.id
-  if (!userId) return
+  if (!pending || !userId) return Promise.resolve()
   clearTimeout(pushTimer)
-  const snapshot = pending
-  pending = null
-  void push(userId, snapshot)
+  return push(userId, pending)
+}
+
+/* ------------------------------------------------------------- lifecycle */
+
+/**
+ * Flush first, then sign out, then wipe this device's progress. The wipe is
+ * what stops the next person at the same browser from inheriting - and, worse,
+ * merging up - someone else's XP. Nothing is lost: the flush put it on the
+ * server, and signing back in pulls it down again.
+ *
+ * Theme and sound survive, being preferences of the device rather than of the
+ * account.
+ */
+export async function signOutAndClear() {
+  await flush()
+  await signOut()
+  setOwner(null)
+  applyRemoteProgress({ ...emptyProgress(), settings: progressStore.get().settings })
 }
 
 /**
  * Wire local progress to the signed-in account. Safe to call when Supabase is
- * not configured - it simply does nothing and the app stays local-only.
+ * not configured - it does nothing and the app stays local-only.
  */
 export function startSync() {
-  if (!supabase) return
+  if (!cloudEnabled) return
 
   let syncedUser: string | null = null
   const onAccountChange = () => {
     const userId = authStore.session()?.user.id ?? null
     if (userId === syncedUser) return
+    const signedOut = syncedUser !== null && userId === null
     syncedUser = userId
-    if (userId) void pullAndMerge(userId)
-    else setState('off')
+    if (userId) {
+      void pullAndMerge(userId)
+      return
+    }
+    clearTimeout(pushTimer)
+    clearTimeout(retryTimer)
+    pending = null
+    retryAttempt = 0
+    setState('off')
+    // Sign-out from another tab: match signOutAndClear so both tabs end up in
+    // the same state.
+    if (signedOut && ownerOf() !== null) {
+      setOwner(null)
+      applyRemoteProgress({ ...emptyProgress(), settings: progressStore.get().settings })
+    }
   }
   authStore.subscribe(onAccountChange)
   // Covers the case where the stored session resolved before this ran.
@@ -215,8 +319,16 @@ export function startSync() {
   document.addEventListener('visibilitychange', () => {
     const userId = authStore.session()?.user.id
     if (!userId) return
-    if (document.visibilityState === 'hidden') flush()
+    if (document.visibilityState === 'hidden') void flush()
     else void pullAndMerge(userId)
   })
-  window.addEventListener('pagehide', flush)
+  window.addEventListener('pagehide', () => void flush())
+  // Coming back online is the one moment a retry is near-certain to succeed.
+  window.addEventListener('online', () => {
+    const userId = authStore.session()?.user.id
+    if (!userId || syncStore.state() !== 'error') return
+    retryAttempt = 0
+    if (pending) void push(userId, pending)
+    else void pullAndMerge(userId)
+  })
 }

@@ -122,6 +122,22 @@ export default function Quiz() {
     )
   }
 
+  // Jump straight to a result screen for design work: ?demo=pass / ?demo=fail.
+  // Gated on import.meta.env.DEV, which Vite replaces with a literal false in
+  // production - the whole branch is then dropped by dead-code elimination, so
+  // it can never award XP to a real account.
+  if (import.meta.env.DEV) {
+    const demoParam = new URLSearchParams(window.location.search).get('demo')
+    if (demoParam && unit && !outcome) {
+      setOutcome(
+        demoParam === 'fail'
+          ? { score: 41, passed: false, stars: 0, xpGained: 50, streak: 1, newBest: true }
+          : { score: 83, passed: true, stars: 2, xpGained: 150, streak: 1, newBest: true },
+      )
+      setResults(unit.exercises.map((_, i) => i < (demoParam === 'fail' ? 5 : 10)))
+      setPhase('result')
+    }
+  }
   if (phase === 'result' && outcome) {
     const nextUnit = nextAvailableUnit(book, n)
     return (

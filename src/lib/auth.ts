@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Session } from '@supabase/supabase-js'
-import { supabase } from './supabase'
+import { cloudEnabled, getSupabase } from './supabase'
 
 export interface Account {
   id: string
@@ -12,17 +12,26 @@ export interface Account {
 let session: Session | null = null
 /** False only during the first `getSession()` round-trip, so the header can
  *  hold still instead of flashing "Sign in" at someone already signed in. */
-let ready = supabase === null
+let ready = !cloudEnabled
 const listeners = new Set<() => void>()
 const emit = () => listeners.forEach((l) => l())
 
-if (supabase) {
-  // Fires immediately with INITIAL_SESSION, then on every sign-in, sign-out
-  // and token refresh - including ones triggered in another tab.
-  supabase.auth.onAuthStateChange((_event, next) => {
-    session = next
-    ready = true
-    emit()
+if (cloudEnabled) {
+  void getSupabase().then((sb) => {
+    if (!sb) {
+      // Client failed to load; report "signed out" rather than hanging on a
+      // placeholder for ever.
+      ready = true
+      emit()
+      return
+    }
+    // Fires immediately with INITIAL_SESSION, then on every sign-in, sign-out
+    // and token refresh - including ones triggered in another tab.
+    sb.auth.onAuthStateChange((_event, next) => {
+      session = next
+      ready = true
+      emit()
+    })
   })
 }
 
@@ -56,8 +65,9 @@ export function useAccount(): { account: Account | null; ready: boolean } {
 }
 
 export async function signInWithGoogle() {
-  if (!supabase) return
-  const { error } = await supabase.auth.signInWithOAuth({
+  const sb = await getSupabase()
+  if (!sb) return
+  const { error } = await sb.auth.signInWithOAuth({
     provider: 'google',
     // Come back to whichever page they started from.
     options: { redirectTo: window.location.origin },
@@ -66,5 +76,6 @@ export async function signInWithGoogle() {
 }
 
 export async function signOut() {
-  await supabase?.auth.signOut()
+  const sb = await getSupabase()
+  await sb?.auth.signOut()
 }

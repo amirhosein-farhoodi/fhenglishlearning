@@ -359,7 +359,17 @@ the max, a unit once passed stays passed, and a same-day streak on two devices
 counts once. Theme and sound are deliberately *not* synced — they are device
 preferences. Pushes are debounced 1.5s and flushed when the tab is hidden; the
 tab regaining focus pulls and merges, which is how a second device's work shows
-up.
+up. A failed save backs off over 2s/8s/30s and retries the moment the browser
+comes back online; nothing is lost in the meantime, because localStorage still
+holds the truth and the next merge carries it up.
+
+Two rules exist for shared devices. `fhlanguagelearning:owner` records which
+account the local blob belongs to, so signing in as a *different* person takes
+the server's copy verbatim instead of merging - the merge only ever adds, so a
+wrong one could never be undone. And signing out flushes, then wipes local
+progress, so the next person at that browser does not inherit it. Progress made
+before ever signing in has no owner and *is* merged, which is what makes
+"try it, then sign up" work.
 
 ### Setup
 
