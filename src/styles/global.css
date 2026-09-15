@@ -347,7 +347,11 @@ input {
   width: 100%;
   max-width: var(--container-max);
   margin: 0 auto;
-  padding: 0 var(--space-20);
+  /* Inline only. Companion classes ride on the same element (.container.center,
+     .container.result), and a `padding` shorthand there would wipe the side
+     gutters out - the cards would run edge to edge on a phone. Those classes
+     set `padding-block`. */
+  padding-inline: var(--space-20);
 }
 
 .page {
@@ -656,6 +660,7 @@ input {
 .row {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
 }
 
@@ -2448,7 +2453,7 @@ input {
    ================================================================== */
 .result {
   text-align: center;
-  padding: var(--space-32) 0 0;
+  padding-block: var(--space-32) 0;
 }
 
 .result .emoji {
@@ -2619,7 +2624,7 @@ input {
    ================================================================== */
 .center {
   text-align: center;
-  padding: 60px 0;
+  padding-block: 60px;
   color: var(--muted);
 }
 
@@ -3196,5 +3201,176 @@ input {
 
   .audio-tools {
     gap: 0;
+  }
+}
+
+/* ==================================================================
+   Account - Google sign-in button and the signed-in avatar menu.
+   Sits in .header-stats beside the theme toggle, so both the button
+   and the avatar are sized to the 34px chip line.
+   ================================================================== */
+
+/* Reserves the avatar's width while the session is restoring, so the
+   header stats do not jump once it resolves. */
+.account-slot {
+  display: block;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+}
+
+.signin-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 34px;
+  padding: 0 var(--space-12);
+  flex-shrink: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-medium);
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease,
+    background 0.15s ease;
+}
+
+.signin-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-wash);
+}
+
+.account {
+  position: relative;
+  flex-shrink: 0;
+}
+
+.account-btn {
+  display: grid;
+  place-items: center;
+  position: relative;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  background: var(--surface);
+  overflow: visible;
+  transition:
+    border-color 0.15s ease,
+    background 0.15s ease;
+}
+
+.account-btn:hover,
+.account-btn[aria-expanded="true"] {
+  border-color: var(--accent);
+}
+
+.account-btn img {
+  width: 30px;
+  height: 30px;
+  border-radius: var(--r-pill);
+  object-fit: cover;
+}
+
+/* Fallback when Google returns no picture. */
+.account-initial {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: var(--r-pill);
+  background: var(--accent-wash);
+  color: var(--accent);
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-bold);
+  line-height: 1;
+}
+
+/* A failed save is the only thing worth interrupting the header for. */
+.account-dot {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+  width: 9px;
+  height: 9px;
+  border-radius: var(--r-pill);
+  background: var(--danger);
+  border: 2px solid var(--surface);
+}
+
+.account-pop {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 30;
+  min-width: 212px;
+  padding: var(--space-12);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow-lift);
+}
+
+.account-name {
+  margin: 0;
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-bold);
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+
+.account-mail {
+  margin: 2px 0 0;
+  font-size: var(--text-caption);
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+
+.account-sync {
+  margin: var(--space-8) 0 0;
+  padding-top: var(--space-8);
+  border-top: 1px solid var(--line-soft);
+  font-size: var(--text-caption);
+  line-height: var(--leading-caption);
+  color: var(--muted);
+}
+
+.account-signout {
+  width: 100%;
+  margin-top: var(--space-8);
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-medium);
+  transition:
+    color 0.15s ease,
+    border-color 0.15s ease,
+    background 0.15s ease;
+}
+
+.account-signout:hover {
+  color: var(--danger);
+  border-color: var(--danger);
+  background: var(--danger-wash);
+}
+
+/* The header gets tight on phones; the label goes, the mark stays. */
+@media (max-width: 420px) {
+  .signin-btn {
+    width: 34px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  .signin-btn span {
+    display: none;
   }
 }

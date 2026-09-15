@@ -335,3 +335,47 @@ section S = track 39 + (N-1)*4 + (S-1) - should be confirmed by listening before
 
 Lesson texts are paraphrased summaries and the exercises are adapted from the source book for
 personal study. The source PDFs are not committed to the repository.
+
+## Accounts and cloud progress (Supabase)
+
+Signing in is optional. With no account, progress lives in `localStorage`
+exactly as it always has; signing in with Google mirrors that same blob to
+Supabase so it follows the learner across devices.
+
+### How it fits together
+
+- [`src/lib/supabase.ts`](src/lib/supabase.ts) — the browser client. It is
+  `null` when the env vars are missing, which switches accounts off rather than
+  breaking the build.
+- [`src/lib/auth.ts`](src/lib/auth.ts) — session store, `signInWithGoogle`,
+  `signOut`, and the `useAccount()` hook.
+- [`src/lib/sync.ts`](src/lib/sync.ts) — pull-merge-push. `storage.ts` stays the
+  source of truth and knows nothing about Supabase; sync subscribes to it.
+- [`supabase/001_progress.sql`](supabase/001_progress.sql) — the one table plus
+  its RLS policies.
+
+Progress is only ever added by a merge, never replaced: XP and best scores take
+the max, a unit once passed stays passed, and a same-day streak on two devices
+counts once. Theme and sound are deliberately *not* synced — they are device
+preferences. Pushes are debounced 1.5s and flushed when the tab is hidden; the
+tab regaining focus pulls and merges, which is how a second device's work shows
+up.
+
+### Setup
+
+1. **Env vars.** Copy `.env.example` to `.env` and fill in the project URL and
+   the publishable (anon) key from Supabase → Project Settings → API Keys. The
+   same two go into Netlify → Site configuration → Environment variables, or the
+   production build ships without accounts.
+2. **Schema.** Run `supabase/001_progress.sql` in the Supabase SQL editor.
+3. **Google provider.** Create an OAuth client in Google Cloud Console
+   (Web application), with `https://<project-ref>.supabase.co/auth/v1/callback`
+   as the authorized redirect URI, then paste the client ID and secret into
+   Supabase → Authentication → Sign In / Providers → Google.
+4. **Redirect URLs.** Supabase → Authentication → URL Configuration: set Site
+   URL to the production origin and add `http://localhost:5173/**` to the
+   redirect allow-list for local development.
+
+The publishable key is meant to ship in the bundle. Row Level Security is the
+actual protection, so every policy on `public.progress` is scoped to
+`auth.uid() = user_id` — never disable RLS on that table.

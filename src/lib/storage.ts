@@ -69,6 +69,15 @@ let state: Progress = read()
 applyTheme(state.settings.theme)
 const listeners = new Set<() => void>()
 
+/**
+ * Cloud sync (src/lib/sync.ts) listens here rather than the other way round,
+ * so this module stays the source of truth and knows nothing about Supabase.
+ * Callbacks fire only for local edits - applying a remote snapshot must not
+ * bounce straight back to the server.
+ */
+const localWriteListeners = new Set<(p: Progress) => void>()
+let applyingRemote = false
+
 function write(next: Progress) {
   state = next
   applyTheme(next.settings.theme)
@@ -78,7 +87,28 @@ function write(next: Progress) {
     /* storage full or unavailable - keep in memory */
   }
   listeners.forEach((l) => l())
+  if (!applyingRemote) localWriteListeners.forEach((l) => l(next))
 }
+
+export function onLocalWrite(cb: (p: Progress) => void) {
+  localWriteListeners.add(cb)
+  return () => {
+    localWriteListeners.delete(cb)
+  }
+}
+
+/** Install a snapshot pulled (and merged) from the cloud without re-pushing it. */
+export function applyRemoteProgress(next: Progress) {
+  applyingRemote = true
+  try {
+    write(next)
+  } finally {
+    applyingRemote = false
+  }
+}
+
+/** A blank profile - sync uses it to normalise partial rows from the server. */
+export const emptyProgress = empty
 
 export const progressStore = {
   get: () => state,

@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { levelFor, setTheme, useProgress } from "../lib/storage";
 import { Moon, Sun } from "./Icons";
+import AccountMenu from "./AccountMenu";
 
 export default function Header() {
   const p = useProgress();
@@ -47,6 +48,7 @@ export default function Header() {
           >
             {dark ? <Sun /> : <Moon />}
           </button>
+          <AccountMenu />
         </div>
       </div>
     </header>
