@@ -3,6 +3,8 @@ import Donate from '../components/Donate'
 import { ArrowRight } from '../components/Icons'
 import type { BookMeta } from '../content/types'
 import { availableUnits, shelves } from '../content/registry'
+import { useAccount } from '../lib/auth'
+import { cloudEnabled } from '../lib/supabase'
 import { bookStats, levelFor, resetAll, setSound, useProgress } from '../lib/storage'
 import type { Progress } from '../lib/storage'
 
@@ -54,6 +56,7 @@ function BookCard({ book, progress }: { book: BookMeta; progress: Progress }) {
 
 export default function Home() {
   const p = useProgress()
+  const { account } = useAccount()
   const lvl = levelFor(p.xp)
   const totalPassed = Object.values(p.books).reduce(
     (n, b) => n + Object.values(b.units).filter((u) => u.status === 'passed').length,
@@ -71,7 +74,12 @@ export default function Home() {
           </h1>
           <p>
             Pick a book, read a short lesson, then prove it in a playful quiz. Grammar, IELTS exam skills with the
-            official recordings, and vocabulary next. Your progress is saved on this device, no account needed.
+            official recordings, and vocabulary next.{' '}
+            {account
+              ? 'Your progress follows your account to every device.'
+              : cloudEnabled
+                ? 'Your progress is saved as you go - sign in to keep it on every device.'
+                : 'Your progress is saved on this device, no account needed.'}
           </p>
           <div className="stats-row">
             <div className="stat">
@@ -143,12 +151,17 @@ export default function Home() {
 
         <footer className="footer">
           <span>
-            Progress is stored in your browser only.{' '}
+            {account
+              ? 'Progress is saved to your account.'
+              : cloudEnabled
+                ? 'Progress is stored in this browser - sign in to save it to your account.'
+                : 'Progress is stored in your browser only.'}{' '}
             <button
               type="button"
               className="link"
               onClick={() => {
-                if (confirm('Reset all progress, XP and streaks on this device?')) resetAll()
+                const where = account ? 'on your account, on every device' : 'on this device'
+                if (confirm(`Reset all progress, XP and streaks ${where}?`)) resetAll()
               }}
             >
               Reset progress
