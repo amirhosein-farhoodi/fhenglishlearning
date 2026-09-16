@@ -150,7 +150,11 @@
   "exercises": [
     {
       "type": "mcq",
-      "prompt": "You hear *The shop you want is opposite the toilets, next to the lifts.* Which two words on the map are the landmarks?",
+      "context": {
+        "label": "What you hear",
+        "text": "*The shop you want is opposite the toilets, next to the lifts.*"
+      },
+      "prompt": "Which two words are the landmarks already printed on your map?",
       "options": [
         "shop and want",
         "toilets and lifts",

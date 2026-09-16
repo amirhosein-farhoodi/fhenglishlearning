@@ -51,6 +51,24 @@ export interface Example {
   note?: string
 }
 
+/**
+ * The extract a question is asked about - the transcript line, the sentence from the
+ * passage, or the task wording that a learner with the book open would be looking at.
+ * It renders above the prompt, so a question never points at something the app does
+ * not show. Use it whenever a prompt would otherwise say "you hear ...", "the passage
+ * says ..." or "on your map".
+ */
+export interface ExerciseContext {
+  /** Where the words come from, e.g. "What you hear", "From the passage", "On your map". */
+  label: string
+  /** The extract itself. Supports the same inline markup as a prompt. */
+  text: string
+}
+
+interface ExerciseBase {
+  context?: ExerciseContext
+}
+
 export interface CompareSide {
   label: string
   text?: string
@@ -84,7 +102,7 @@ export type LessonBlock =
       text: string
     }
 
-export interface McqExercise {
+export interface McqExercise extends ExerciseBase {
   type: 'mcq'
   prompt: string
   options: string[]
@@ -93,7 +111,7 @@ export interface McqExercise {
   explanation?: string
 }
 
-export interface TrueFalseExercise {
+export interface TrueFalseExercise extends ExerciseBase {
   type: 'true_false'
   /** A sentence the learner judges as correct (true) or incorrect (false). */
   statement: string
@@ -102,7 +120,7 @@ export interface TrueFalseExercise {
   explanation?: string
 }
 
-export interface FillBlankExercise {
+export interface FillBlankExercise extends ExerciseBase {
   type: 'fill_blank'
   /** Contains exactly one ___ placeholder. */
   prompt: string
@@ -113,14 +131,14 @@ export interface FillBlankExercise {
   explanation?: string
 }
 
-export interface MatchingExercise {
+export interface MatchingExercise extends ExerciseBase {
   type: 'matching'
   prompt: string
   /** 3-6 pairs. Right-hand items are shuffled in the UI. */
   pairs: { left: string; right: string }[]
 }
 
-export interface WordOrderExercise {
+export interface WordOrderExercise extends ExerciseBase {
   type: 'word_order'
   prompt: string
   /** The words/chunks to arrange. The UI shuffles them. */
@@ -131,7 +149,7 @@ export interface WordOrderExercise {
   explanation?: string
 }
 
-export interface CategorizeExercise {
+export interface CategorizeExercise extends ExerciseBase {
   type: 'categorize'
   prompt: string
   /** 2-3 category labels. */

@@ -241,7 +241,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The question is *What new discovery have scientists made about pigeons?* You hear that pigeons use the Earth's magnetic field and that this has been known for decades. Why is that option wrong?",
+      "context": {
+        "label": "What you hear",
+        "text": "*Pigeons navigate using the Earth's magnetic field - something scientists have known for decades.*"
+      },
+      "prompt": "The question is *What new discovery have scientists made about pigeons?* Why is this not the answer?",
       "options": [
         "Because it is not true",
         "Because it is not new",

@@ -262,7 +262,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "You hear *The workshop costs $200 - oh, actually, it's just gone up to $250.* What do you write?",
+      "context": {
+        "label": "What you hear",
+        "text": "*The workshop costs $200 - oh, actually, it's just gone up to $250.*"
+      },
+      "prompt": "The question on your paper reads *Cost of workshop:*. What do you write?",
       "options": [
         "$200",
         "$250",

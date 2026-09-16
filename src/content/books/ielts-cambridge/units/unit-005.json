@@ -221,7 +221,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "You hear *A small spring in the centre causes the toy to ...* Which part is being described?",
+      "context": {
+        "label": "What you hear",
+        "text": "*A small spring in the centre causes the toy to ...*"
+      },
+      "prompt": "Which description matches the part being named?",
       "options": [
         "a pipe",
         "a coil of metal that pushes back when pressed",

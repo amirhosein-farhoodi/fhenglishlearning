@@ -210,7 +210,7 @@
     },
     {
       "type": "mcq",
-      "prompt": "The option says *a place to stay*. Which words in the recording point to it?",
+      "prompt": "An option on your question paper says *a place to stay*. Which of these words paraphrases it?",
       "options": [
         "flights",
         "accommodation",
@@ -234,7 +234,7 @@
     },
     {
       "type": "mcq",
-      "prompt": "A list of options A-E is printed under a matching question. In what order will you hear them?",
+      "prompt": "A list of options A-E is printed under a matching question. In what order do they come up?",
       "options": [
         "A to E, in order",
         "In random order",
@@ -286,7 +286,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "You hear *We could hire a car... no, actually Ben said we can borrow his.* The option is *car hire*. Is it correct?",
+      "context": {
+        "label": "What you hear",
+        "text": "*We could hire a car... no, actually Ben said we can borrow his.*"
+      },
+      "prompt": "An option on your paper reads *car hire*. Is it correct?",
       "options": [
         "Yes - the words *hire a car* were said",
         "No - the idea is mentioned and then rejected",

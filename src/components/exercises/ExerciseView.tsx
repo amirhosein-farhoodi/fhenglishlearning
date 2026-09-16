@@ -1,4 +1,5 @@
 import type { Exercise } from '../../content/types'
+import ContextBlock from './ContextBlock'
 import Mcq from './Mcq'
 import TrueFalse from './TrueFalse'
 import FillBlank from './FillBlank'
@@ -41,6 +42,7 @@ export default function ExerciseView({ exercise, seed, onResult }: Props) {
       <span className="q-type">
         <span aria-hidden="true">{meta.icon}</span> {meta.label}
       </span>
+      <ContextBlock context={exercise.context} />
       {body}
     </div>
   )

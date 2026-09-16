@@ -135,7 +135,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The statement is *Some countries reduce inner-city traffic by increasing public transport. Others impose a tax on drivers.* Which question fits it?",
+      "context": {
+        "label": "The statement",
+        "text": "*Some countries reduce inner-city traffic by increasing public transport. Others impose a tax on drivers.*"
+      },
+      "prompt": "Which question fits it?",
       "options": [
         "To what extent do you think this is a positive trend?",
         "What are the advantages and disadvantages of each system?",

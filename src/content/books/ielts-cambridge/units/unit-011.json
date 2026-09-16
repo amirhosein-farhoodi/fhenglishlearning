@@ -164,7 +164,11 @@
     },
     {
       "type": "categorize",
-      "prompt": "The text says officials in Atlanta are advising builders to use light-coloured roofs to reduce the problem. Judge each statement.",
+      "context": {
+        "label": "From the passage",
+        "text": "Officials in Atlanta are advising builders to use light-coloured roofs to reduce the problem."
+      },
+      "prompt": "Judge each statement against the passage.",
       "categories": [
         "True",
         "False",
@@ -205,7 +209,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The text says the Supertrees *contain containers to collect rainwater, making them truly self-sufficient.* The statement is *The Supertrees require regular maintenance.* What is the answer?",
+      "context": {
+        "label": "From the passage",
+        "text": "The Supertrees *contain containers to collect rainwater, making them truly self-sufficient.*"
+      },
+      "prompt": "The statement is *The Supertrees require regular maintenance.* What is the answer?",
       "options": [
         "True",
         "False",
@@ -245,7 +253,7 @@
     },
     {
       "type": "fill_blank",
-      "prompt": "A statement that the passage contradicts is marked ___; one the passage says nothing about is marked Not Given.",
+      "prompt": "A statement that a passage contradicts is marked ___; one it says nothing about is marked Not Given.",
       "hint": "(one word)",
       "answers": [
         "False",

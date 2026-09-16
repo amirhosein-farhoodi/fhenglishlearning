@@ -101,6 +101,10 @@
     },
     {
       "type": "matching",
+      "context": {
+        "label": "From the passage",
+        "text": "*Pagel* argues that some words have changed so little that a speaker of one Indo-European language can recognise them in another simply from their sound. *Lieberman*'s team found that the more often an irregular verb is used, the longer it resists becoming regular. What strikes *Gray* is that language change, far from being random, shows remarkable regularities."
+      },
       "prompt": "Match each researcher with the idea the passage attributes to them.",
       "pairs": [
         { "left": "Pagel", "right": "we can recognise words from other Indo-European languages by their sound" },
@@ -158,7 +162,7 @@
     },
     {
       "type": "mcq",
-      "prompt": "Why is it worth highlighting every name in the passage before reading the statements?",
+      "prompt": "Why is it worth highlighting every name as you read, before you look at the statements?",
       "options": [
         "Because names are always the answers",
         "Because each person may be mentioned in several different sections",

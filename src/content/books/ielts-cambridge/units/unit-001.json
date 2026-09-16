@@ -172,7 +172,11 @@
   "exercises": [
     {
       "type": "mcq",
-      "prompt": "You hear: *You will hear a conversation between a student and a lecturer about an assignment.* Which Listening section is this most likely to be?",
+      "context": {
+        "label": "The introduction you hear before the section",
+        "text": "*You will hear a conversation between a student and a lecturer about an assignment.*"
+      },
+      "prompt": "Which Listening section is this most likely to be?",
       "options": [
         "Section 1",
         "Section 2",
@@ -200,7 +204,7 @@
     },
     {
       "type": "categorize",
-      "prompt": "Sort what you hear into the number you should write down.",
+      "prompt": "Sort each of these into the number you should write down.",
       "categories": [
         "Write 15",
         "Write 50"
@@ -226,7 +230,11 @@
     },
     {
       "type": "matching",
-      "prompt": "A woman is booking a room. Match each number you hear with the reason it is *not* the answer.",
+      "context": {
+        "label": "Three moments from the recordings",
+        "text": "*She pays £95* - £80 was what she paid last time, and £105 is the full price. *New students bring $15* - regular students pay $10, and equipment costs $5 extra. *The party is on 29th July* - 14th July was the first free date, and 1st August is her father's birthday."
+      },
+      "prompt": "Match each number that is *not* the answer with the reason it was mentioned.",
       "pairs": [
         {
           "left": "£80",
@@ -248,7 +256,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The question is *Registration number:* and you hear *It's just three letters and three numbers. It's HLP 528.* What do you write?",
+      "context": {
+        "label": "What you hear",
+        "text": "*It's just three letters and three numbers. It's HLP 528.*"
+      },
+      "prompt": "The question on your paper reads *Registration number:*. What do you write?",
       "options": [
         "three letters and three numbers",
         "HLP 528",

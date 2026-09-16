@@ -39,6 +39,33 @@ function checkStr(f, obj, key, { optional = false, min = 1 } = {}) {
   if (typeof v !== 'string' || v.trim().length < min) err(f, `"${key}" must be a non-empty string`)
 }
 
+
+/**
+ * A question must be answerable from what the app puts on screen. Where a prompt quotes
+ * the book - a transcript line, a sentence from the passage, a label on a map - those
+ * words belong in `context`, which renders above the prompt. A prompt that points at
+ * them without one is asking about something the learner cannot see.
+ *
+ * Deliberately narrow. "You see a bicycle ..." in a grammar book invents a situation and
+ * is self-contained; only "you hear" introducing a quote, or a definite reference to the
+ * recording, the passage or the map, means a real extract is missing.
+ */
+const POINTS_ELSEWHERE =
+  /\byou hear\s*[:*]|\b(?:in|from) the recording\b|\bon (?:your|the) (?:map|paper)\b|\bin the passage\b|\bthe (?:passage|text) (?:says|lists|attributes)\b/i
+
+function checkContext(xf, x) {
+  if (x.context !== undefined) {
+    if (typeof x.context !== 'object' || x.context === null || Array.isArray(x.context))
+      err(xf, 'context must be an object { label, text }')
+    else {
+      checkStr(`${xf}.context`, x.context, 'label')
+      checkStr(`${xf}.context`, x.context, 'text')
+    }
+  }
+  if (!x.context && typeof x.prompt === 'string' && POINTS_ELSEWHERE.test(x.prompt))
+    warn(xf, 'prompt points at something the learner cannot see - quote it in "context"')
+}
+
 function validateBook(dir, slug) {
   const f = `${slug}/book.json`
   const p = join(dir, 'book.json')
@@ -170,6 +197,7 @@ function validateUnit(f, u, expectedNumber, bookTitles) {
   ;(u.exercises ?? []).forEach((x, i) => {
     const xf = `${f} exercises[${i}]`
     types.add(x.type)
+    checkContext(xf, x)
     switch (x.type) {
       case 'mcq':
         checkStr(xf, x, 'prompt')

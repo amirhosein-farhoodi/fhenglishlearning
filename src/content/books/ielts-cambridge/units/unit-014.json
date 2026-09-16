@@ -104,7 +104,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The passage says the science in *Jurassic Park* is *hopelessly flawed* but the book was *successful* and the film a *blockbuster*. What is the writer's opinion of it?",
+      "context": {
+        "label": "From the passage",
+        "text": "The science in *Jurassic Park* is *hopelessly flawed* - and yet the book was *successful* and the film a *blockbuster*."
+      },
+      "prompt": "What is the writer's opinion of it?",
       "options": [
         "The film was not a faithful rendition of the original book",
         "It shows how important thorough research is for successful writers",
@@ -150,7 +154,7 @@
     },
     {
       "type": "word_order",
-      "prompt": "Build the phrase in the passage that marks the first of two related causes.",
+      "prompt": "Build the sentence from the passage that warns you a single cause will not be the answer.",
       "words": ["there", "were", "probably", "several", "related", "phenomena", "that,", "combined,", "could", "explain", "the", "increase."],
       "answer": "there were probably several related phenomena that, combined, could explain the increase.",
       "explanation": "*Several ... combined* warns you that one cause on its own is not the answer."

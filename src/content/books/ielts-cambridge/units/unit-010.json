@@ -95,7 +95,7 @@
   "exercises": [
     {
       "type": "matching",
-      "prompt": "Match the words in the question with their paraphrase in the passage.",
+      "prompt": "Match each phrase from the question with the wording a passage would use instead.",
       "pairs": [
         { "left": "keep ... in", "right": "stored in" },
         { "left": "nowadays", "right": "modern" },
@@ -106,7 +106,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "*Which of the artefacts mentioned are the oldest?* The passage lists beads, bone tools and ochre engravings, and the limit is TWO WORDS AND/OR A NUMBER. Which answer is safe?",
+      "context": {
+        "label": "From the passage",
+        "text": "The site has yielded *beads*, *bone tools* and *ochre engravings*, all of them from the Middle Stone Age."
+      },
+      "prompt": "The question is *Which of the artefacts mentioned are the oldest?* and the limit is THREE WORDS AND/OR A NUMBER. Which answer is safe?",
       "options": ["bone tools", "ochre engravings", "beads, tools, engravings", "artefacts from the Middle Stone Age"],
       "answer": 2,
       "explanation": "The three items are the answer. Adding *bone* or *ochre* pushes the answer over the word limit, so it would be marked wrong."
@@ -146,7 +150,11 @@
     },
     {
       "type": "matching",
-      "prompt": "Match each part of a hydropower plant with what the passage says it does.",
+      "context": {
+        "label": "From the passage",
+        "text": "Water held back by the *dam* flows down a large pipe - the *penstock* - onto the blades of a *turbine*. The spinning turbine drives a *generator*, which produces alternating current; a *transformer* then raises this to the higher voltage carried by the grid."
+      },
+      "prompt": "Match each part of the plant with what the passage says it does.",
       "pairs": [
         { "left": "dam", "right": "holds back the water" },
         { "left": "turbine", "right": "its blades are turned by the water" },

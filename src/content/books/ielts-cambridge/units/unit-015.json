@@ -168,7 +168,11 @@
     },
     {
       "type": "categorize",
-      "prompt": "The passage says hundreds of such developments were built then, but Lafayette Park was unique because of its three famous designers. Judge each statement.",
+      "context": {
+        "label": "From the passage",
+        "text": "Hundreds of such developments were built at that time, but Lafayette Park was unique because of its three famous designers."
+      },
+      "prompt": "Judge each statement against the passage.",
       "categories": [
         "Yes",
         "No",
@@ -203,7 +207,11 @@
     },
     {
       "type": "fill_blank",
-      "prompt": "*In general, the residents feel quite ___ about the famous architecture they live in.* The passage says the writer was struck by the *casual attitude* many residents have.",
+      "context": {
+        "label": "From the passage",
+        "text": "The writer was struck by the *casual attitude* many residents have towards the famous architecture around them."
+      },
+      "prompt": "Complete the summary: *In general, the residents feel quite ___ about the famous architecture they live in.*",
       "hint": "(an adjective: neither for nor against)",
       "answers": [
         "neutral"
@@ -240,7 +248,11 @@
     },
     {
       "type": "mcq",
-      "prompt": "The passage says only that Mies van der Rohe designed Lafayette Park. The statement is *Mies van der Rohe's designs influenced other architects in Detroit.*",
+      "context": {
+        "label": "From the passage",
+        "text": "Lafayette Park was designed by Mies van der Rohe."
+      },
+      "prompt": "The statement is *Mies van der Rohe's designs influenced other architects in Detroit.* What is the answer?",
       "options": [
         "Yes",
         "No",

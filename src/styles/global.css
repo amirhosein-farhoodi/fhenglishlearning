@@ -1863,6 +1863,35 @@ input {
   margin-bottom: var(--space-12);
 }
 
+/* The extract a question is asked about - a transcript line, a sentence from the
+   passage, the wording of the task. IELTS prompts quote these ("you hear ...",
+   "the passage says ..."); with nothing on screen the question reads as though it
+   needs the book. A quiet surface keeps the prompt below it the loudest thing. */
+.q-context {
+  margin: 0 0 var(--space-16);
+  padding: var(--space-12) var(--space-16);
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent-tint);
+  border-radius: var(--r-card);
+}
+
+.q-context figcaption {
+  font-size: var(--text-caption);
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.q-context blockquote {
+  margin: 0;
+  font-size: var(--text-body-sm);
+  line-height: var(--leading-body);
+  color: var(--ink-2);
+}
+
 .q-prompt {
   font-size: var(--text-subheading);
   font-weight: var(--fw-medium);
@@ -2587,6 +2616,10 @@ input {
    ================================================================== */
 .review-item {
   padding: var(--space-20);
+}
+
+.review-item .q-context {
+  margin-bottom: var(--space-12);
 }
 
 .review-item .q-prompt {

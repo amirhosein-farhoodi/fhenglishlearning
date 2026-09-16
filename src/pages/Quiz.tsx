@@ -11,7 +11,7 @@ import type { Unit } from '../content/types'
 import { renderInline } from '../lib/markup'
 import { recordQuiz, XP_PER_CORRECT, type QuizOutcome } from '../lib/storage'
 import { sfx } from '../lib/sfx'
-import { ArrowRight, Headphones } from '../components/Icons'
+import { ArrowRight, Film, Headphones } from '../components/Icons'
 
 type Phase = 'loading' | 'quiz' | 'result'
 
@@ -249,6 +249,8 @@ export default function Quiz() {
   }
 
   const progress = ((index + (answered !== null ? 1 : 0)) / exercises.length) * 100
+  // Units 25-28 carry Speaking test videos, the rest audio tracks.
+  const mediaNoun = unit.media?.every((m) => m.kind === 'video') ? 'video' : 'recording'
 
   return (
     <main className="page" style={{ paddingTop: 8 }}>
@@ -271,8 +273,10 @@ export default function Quiz() {
           Unit {unit.number} · {unit.title}
         </p>
 
-        {/* Listening questions need the recording within reach, but an open player
-            would compete with the question - so it starts collapsed. */}
+        {/* The recordings stay within reach for anyone who wants to hear the real
+            thing, but no question depends on them - whatever a question asks about is
+            printed in its own context block. So this is an extra, not a prerequisite:
+            it is labelled as the lesson's recordings and starts collapsed. */}
         {unit.media && unit.media.length > 0 && (
           <div className="quiz-media">
             <button
@@ -281,8 +285,8 @@ export default function Quiz() {
               onClick={() => setMediaOpen((o) => !o)}
               aria-expanded={mediaOpen}
             >
-              <Headphones size={16} />
-              {mediaOpen ? 'Hide the recording' : 'Play the recording'}
+              {mediaNoun === 'video' ? <Film size={16} /> : <Headphones size={16} />}
+              {mediaOpen ? `Hide the ${mediaNoun}s` : `${mediaNoun === 'video' ? 'Watch' : 'Listen'} again (optional)`}
             </button>
             {mediaOpen && <MediaPanel media={unit.media} compact />}
           </div>

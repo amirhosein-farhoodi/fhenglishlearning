@@ -261,7 +261,7 @@ hence the `--skip-units 27`; the exact command is in the script's docstring.
     { "type": "tip", "text": "..." }
   ],
   "exercises": [
-    { "type": "mcq", "prompt": "...", "options": ["a", "b", "c"], "answer": 0, "explanation": "..." },
+    { "type": "mcq", "context": { "label": "What you hear", "text": "..." }, "prompt": "...", "options": ["a", "b", "c"], "answer": 0, "explanation": "..." },
     { "type": "true_false", "statement": "...", "answer": false, "explanation": "..." },
     { "type": "fill_blank", "prompt": "She ___ to work.", "hint": "(drive)", "answers": ["is driving", "'s driving"] },
     { "type": "matching", "prompt": "...", "pairs": [{ "left": "...", "right": "..." }] },
@@ -272,6 +272,14 @@ hence the `--skip-units 27`; the exact command is in the script's docstring.
 ```
 
 Inline markup: `**bold**` (target form), `*italic*`, `~~wrong~~`, and `___` for the blank.
+
+**`context` is optional and belongs on any exercise type.** It is the extract the question is
+asked about - a transcript line, a sentence from the passage, the wording of a Writing task - and
+renders above the prompt as a quoted block. It exists because IELTS questions are written in the
+voice of the printed book ("you hear ...", "the passage says ...") while the learner here has
+neither the recording open nor the page in front of them. With the extract on screen the question
+asks about something visible; without it, it points at nothing. `npm run validate` warns when a
+prompt uses that wording and has no `context`.
 
 ## Unit media
 

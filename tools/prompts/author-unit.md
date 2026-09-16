@@ -71,6 +71,23 @@ Convert each book exercise into the most natural interactive type:
 | Sort words by rule (countable/uncountable, for/since, -ing/to) | `categorize` |
 | Sentences with picture prompts | rewrite the situation in words, then `fill_blank` or `mcq` |
 
+Every question must be answerable from the screen. The app shows no book page and no
+transcript, so a prompt may never say "you hear ...", "the passage says ..." or "on your map"
+and leave those words off screen. Put the extract in `context` instead - it renders above the
+prompt as a quoted block - and let the prompt ask only the question:
+
+```jsonc
+{
+  "type": "mcq",
+  "context": { "label": "What you hear", "text": "*The workshop costs $200 - oh, actually, it's just gone up to $250.*" },
+  "prompt": "The question on your paper reads *Cost of workshop:*. What do you write?",
+  "options": ["$200", "$250", "$200-$250", "$450"],
+  "answer": 1
+}
+```
+
+Labels in use: *What you hear*, *From the passage*, *The task*, *The statement*.
+
 Type rules:
 - **fill_blank**: exactly one `___`. `answers` lists every accepted variant, contracted and full
   (`["I'm not listening", "I am not listening"]`). Blank = 1-4 words. If the book item has two
