@@ -1,0 +1,73 @@
+{
+  "id": "p2-urban-heat-islands",
+  "slot": 2,
+  "title": "Cooling the concrete jungle",
+  "subtitle": "Why cities are warmer than the countryside around them, and what can be done about it",
+  "topic": "Environment",
+  "paragraphs": [
+    { "label": "A", "text": "On a still summer evening, a cyclist leaving the centre of a large city for the surrounding farmland may notice the air becoming perceptibly cooler with every kilometre. The phenomenon behind this experience, known as the urban heat island, has been recognised for two centuries. In the early 1800s the amateur meteorologist Luke Howard, comparing his own readings with those taken outside the capital, concluded that London was consistently warmer than the countryside around it. Modern instruments have confirmed his findings many times over. In large cities the difference can reach several degrees Celsius, and satellites now allow researchers to map surface temperatures street by street." },
+    { "label": "B", "text": "The main cause lies in the materials from which cities are built. Asphalt, concrete, brick and dark roofing absorb a large proportion of the sunlight that falls on them, rather than reflecting it back into the sky. These materials also store heat efficiently: having warmed up during the day, they release that energy slowly through the evening and night. In rural areas, by contrast, much of the sun's energy is used to evaporate water from soil and from the leaves of plants, a process that cools the surrounding air in much the same way that sweating cools the human body. Where vegetation has been replaced by impermeable surfaces, and rainwater is quickly channelled into drains, this natural form of cooling is largely lost." },
+    { "label": "C", "text": "The shape of the city plays a part too. Tall buildings lining narrow streets create what climatologists call urban canyons, in which heat radiated from one wall is absorbed by the wall opposite instead of escaping to the sky. ‘Built-up areas lose heat very inefficiently after sunset,’ explains Dr Hannah Okafor, an urban climatologist, ‘which is why the gap between city and countryside is usually widest not in the afternoon, but in the early hours of the morning.’ To this must be added the heat produced directly by human activity – from vehicle engines, industrial processes and, ironically, the air-conditioning units that expel warm air into the street as they cool the rooms behind them." },
+    { "label": "D", "text": "Higher temperatures are not merely uncomfortable. Heatwaves are among the deadliest natural hazards in many developed countries, and their effects are magnified in cities, where night-time temperatures may remain too high for the body to recover from the heat of the day. The elderly, the very young and those with heart or lung conditions are most at risk. Moreover, the burden is not shared equally. Dr Mei Lin Ho, a public health researcher, has found that within a single city the poorest districts are frequently several degrees hotter than wealthier ones. ‘Affluent neighbourhoods tend to have parks and tree-lined avenues,’ she notes, ‘while low-income areas are more often dominated by car parks, main roads and densely packed housing.’" },
+    { "label": "E", "text": "One apparently straightforward response is to make surfaces reflect more sunlight. Roofs coated with white or specially formulated pale paints can stay many degrees cooler than conventional dark ones on a sunny day, reducing the need for air conditioning in the building beneath. Some cities have experimented with applying light-coloured coatings to roads and pavements: Los Angeles, for instance, has treated sections of its streets in several neighbourhoods. Yet the results have not been entirely as expected. Professor Tomás Riera, a building engineer, points out that sunlight reflected from a bright pavement does not simply vanish. ‘Some of it ends up striking the people walking along it,’ he says, ‘so the surface may be cooler while the pedestrian actually feels hotter.’ In colder climates, reflective roofs can also increase heating bills in winter." },
+    { "label": "F", "text": "Green roofs, covered with a layer of soil and low-growing plants, offer a different set of advantages. As well as cooling the air through evaporation, they insulate the buildings below, absorb rainwater that might otherwise overwhelm drainage systems and provide a habitat for insects and birds. Several European cities, including Copenhagen, have made green roofs compulsory on certain types of new building. However, they are considerably more expensive to install than reflective coatings, and older buildings may need structural reinforcement to bear the additional weight of wet soil." },
+    { "label": "G", "text": "Most researchers agree, though, that the single most effective cooling measure is the humble street tree. A mature tree shades the ground, walls and pedestrians beneath it, and releases large quantities of water vapour through its leaves. The Colombian city of Medellín has created a network of ‘green corridors’ – planted strips along roads and waterways – which local officials report has lowered temperatures along the routes by around two degrees. The drawback is time. A sapling planted today may take twenty years or more to provide substantial shade, and in crowded streets trees must compete for space with underground pipes and cables. Many newly planted trees also die within their first few years because nobody waters them." },
+    { "label": "H", "text": "For these reasons, specialists increasingly argue against searching for a single remedy. Dr Samuel Adeyemi, who advises municipal governments on climate adaptation, believes that each city must find its own combination of measures. ‘A strategy that works brilliantly in a dry Mediterranean city may be of little use in a humid tropical one, where evaporation offers far less relief,’ he says. What is clear is that as global temperatures rise and urban populations grow, the question of how to keep cities cool will become steadily more pressing." }
+  ],
+  "groups": [
+    {
+      "type": "headings",
+      "headings": [
+        "An early observation that has stood the test of time",
+        "Materials that hold heat and the loss of a natural cooling process",
+        "Machines that add to the problem they are meant to solve",
+        "A danger that does not affect everyone to the same degree",
+        "A seemingly simple fix with unforeseen consequences",
+        "Laws that require greener construction",
+        "A highly effective measure that takes years to deliver",
+        "The need for responses suited to local conditions"
+      ],
+      "items": [
+        { "paragraph": "B", "answer": 1, "evidence": "The main cause lies in the materials from which cities are built." },
+        { "paragraph": "D", "answer": 3, "evidence": "Moreover, the burden is not shared equally." },
+        { "paragraph": "E", "answer": 4, "evidence": "Yet the results have not been entirely as expected." },
+        { "paragraph": "G", "answer": 6, "evidence": "the single most effective cooling measure is the humble street tree", "note": "The paragraph balances effectiveness against 'The drawback is time' - heading v (unforeseen consequences) fits E, where the problems are unexpected side effects, not delay." },
+        { "paragraph": "H", "answer": 7, "evidence": "each city must find its own combination of measures" }
+      ]
+    },
+    {
+      "type": "matching",
+      "kind": "features",
+      "optionsTitle": "List of People",
+      "options": [
+        { "key": "A", "text": "Luke Howard" },
+        { "key": "B", "text": "Hannah Okafor" },
+        { "key": "C", "text": "Mei Lin Ho" },
+        { "key": "D", "text": "Tomás Riera" },
+        { "key": "E", "text": "Samuel Adeyemi" }
+      ],
+      "reuse": false,
+      "items": [
+        { "text": "A method designed to lower the temperature of a surface can make people feel warmer.", "answer": "D", "evidence": "so the surface may be cooler while the pedestrian actually feels hotter" },
+        { "text": "The temperature contrast between a city and its surroundings tends to be greatest before dawn.", "answer": "B", "evidence": "the gap between city and countryside is usually widest not in the afternoon, but in the early hours of the morning", "note": "Howard (A) is described only as finding London warmer than the countryside, with no reference to time of day." },
+        { "text": "A cooling approach that depends on moisture is less helpful in certain climates.", "answer": "E", "evidence": "may be of little use in a humid tropical one, where evaporation offers far less relief" },
+        { "text": "Residents of less wealthy parts of a city are often exposed to higher temperatures.", "answer": "C", "evidence": "the poorest districts are frequently several degrees hotter than wealthier ones" }
+      ]
+    },
+    {
+      "type": "completion",
+      "layout": "summary",
+      "limit": { "words": 2, "number": false },
+      "title": "Why cities stay warm",
+      "lines": [
+        "Many urban building materials take in, rather than reflect, the sunlight that reaches them and give the stored heat back gradually after dark. In the countryside, a large share of solar energy is instead used up as moisture evaporates from the ground and from vegetation, which cools the air in a similar way to {1} in humans. This effect is largely absent in cities, because plants have been replaced by {2} surfaces and rainwater flows rapidly into {3}. In addition, streets bordered by high buildings form so-called {4}, in which heat passes from one wall to another rather than escaping upwards."
+      ],
+      "answers": [
+        { "accept": ["sweating"], "evidence": "in much the same way that sweating cools the human body" },
+        { "accept": ["impermeable"], "evidence": "Where vegetation has been replaced by impermeable surfaces" },
+        { "accept": ["drains"], "evidence": "rainwater is quickly channelled into drains" },
+        { "accept": ["(urban) canyons"], "evidence": "Tall buildings lining narrow streets create what climatologists call urban canyons" }
+      ]
+    }
+  ]
+}

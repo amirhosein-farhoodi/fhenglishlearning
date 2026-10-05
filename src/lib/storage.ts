@@ -217,6 +217,24 @@ export function recordQuiz(slug: string, unit: number, correct: number, total: n
   return { score, passed, stars, xpGained, streak: streakCount, newBest }
 }
 
+/** XP for finishing a mock test section, on top of XP_PER_CORRECT per Reading mark. */
+export const XP_MOCK_SECTION = 100
+
+/**
+ * A finished IELTS mock test: XP for every correct Reading answer plus a flat amount per
+ * section sat, and it keeps the daily streak alive like any quiz. Returns the XP added.
+ */
+export function recordMockTest(readingCorrect: number, sections: number): { xpGained: number; streak: number } {
+  const xpGained = readingCorrect * XP_PER_CORRECT + sections * XP_MOCK_SECTION
+  let streakCount = 0
+  progressStore.set((p) => {
+    const streak = bumpStreak(p.streak)
+    streakCount = streak.count
+    return { ...p, xp: p.xp + xpGained, streak }
+  })
+  return { xpGained, streak: streakCount }
+}
+
 export function setSound(sound: boolean) {
   progressStore.set((p) => ({ ...p, settings: { ...p.settings, sound } }))
 }

@@ -1,0 +1,21 @@
+{
+  "id": "online-shopping-countries",
+  "kind": "table",
+  "prompt": "The table below shows the percentage of adults who regularly bought goods online in six countries in 2005, 2010, 2015 and 2020.",
+  "visuals": [
+    {
+      "type": "table",
+      "title": "Adults who regularly shop online (% of adult population)",
+      "columns": ["Country", "2005", "2010", "2015", "2020"],
+      "rows": [
+        ["South Korea", "25", "47", "72", "88"],
+        ["UK", "22", "41", "68", "83"],
+        ["Japan", "20", "35", "51", "64"],
+        ["Germany", "18", "37", "59", "76"],
+        ["Italy", "4", "10", "26", "49"],
+        ["Brazil", "3", "11", "30", "52"]
+      ]
+    }
+  ],
+  "model": "The table compares the proportion of adults who regularly made purchases online in six countries at five-year intervals between 2005 and 2020.\n\nOverall, online shopping became increasingly popular in every country listed. South Korea had the highest figure throughout, while Italy and Brazil, which started from a very low base, recorded the fastest relative growth.\n\nIn 2005, around a fifth of adults in South Korea (25%), the UK (22%), Japan (20%) and Germany (18%) shopped online, compared with only 4% in Italy and 3% in Brazil. Over the next fifteen years, the figure in South Korea more than tripled, reaching 88% in 2020, and the UK followed a similar pattern, rising to 83%. Germany also saw strong growth, to 76%, whereas the increase in Japan was more modest, with just under two thirds of adults (64%) buying goods online by the end of the period.\n\nThe two countries with the lowest initial rates experienced remarkable change. In Brazil, the proportion rose to 11% in 2010, overtaking Italy, and then climbed to 52% in 2020. Italy's figure grew more slowly at first but reached 49% by 2020, still the lowest in the table but roughly twelve times its 2005 level."
+}

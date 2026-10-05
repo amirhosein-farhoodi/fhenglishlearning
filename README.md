@@ -397,3 +397,21 @@ before ever signing in has no owner and *is* merged, which is what makes
 The publishable key is meant to ship in the bundle. Row Level Security is the
 actual protection, so every policy on `public.progress` is scoped to
 `auth.uid() = user_id` — never disable RLS on that table.
+
+## IELTS Mock Test
+
+`/ielts-mock` runs full-length IELTS Academic papers in the computer-delivered layout: real timings
+(60 minutes each), a clock that cannot be paused, auto-submit when time runs out, a question
+navigator with Review flags, passage highlighting, text-size control and no spell-check.
+
+- **Reading:** 40 questions from three passages, one drawn at random per difficulty slot, marked
+  and converted with the official Academic band table. The results page reviews every question with
+  the passage evidence highlighted.
+- **Writing:** one Academic Task 1 (chart, table, process or map) and one Task 2 essay. The candidate
+  rates both scripts against the four official criteria, next to a band-9 model answer.
+- **Listening:** a paper is drawn at random, one recording per part, from `listening/p1-*.json` to `p4-*.json`. The British Council full sample test gives one recording for each part, and its extracts add more for Parts 1 to 3. The paper runs on the official timeline: introduction, then reading time, recording and checking time for each part, then the final two minutes. Each silent stretch shows a countdown. Recordings play once with no pause. Papers with fewer than 40 questions get a band scaled to 40.
+- A learner gets material they have not seen before until the bank runs out. The bank holds 18 passages
+  (216 different papers), 12 Task 1 and 18 Task 2 prompts.
+
+Content lives in `src/content/ielts-mock/` and the schema is in `types.ts` there.
+`node tools/validate-mock.mjs`, which `npm run validate` also runs, checks question counts, word limits and verbatim evidence.

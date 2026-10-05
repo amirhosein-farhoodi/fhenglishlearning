@@ -1,0 +1,21 @@
+{
+  "id": "water-use-countries",
+  "kind": "table",
+  "prompt": "The table below shows the average amount of water used per person each day for four purposes in six countries in 2019.",
+  "visuals": [
+    {
+      "type": "table",
+      "title": "Daily domestic water use per person, 2019 (litres)",
+      "columns": ["Country", "Personal hygiene", "Toilet flushing", "Laundry and dishes", "Garden and other"],
+      "rows": [
+        ["USA", "95", "70", "55", "80"],
+        ["Australia", "70", "45", "50", "75"],
+        ["Spain", "60", "30", "35", "25"],
+        ["UK", "55", "40", "30", "15"],
+        ["India", "35", "15", "25", "10"],
+        ["Kenya", "18", "2", "12", "3"]
+      ]
+    }
+  ],
+  "model": "The table compares the average amount of water used per person each day for four different purposes in six countries in 2019.\n\nOverall, people in the USA consumed the most water in every category, whereas Kenyans used the least. Personal hygiene was the largest single use of water in all of the countries except Australia, where gardens and other uses accounted for slightly more.\n\nAn American used 95 litres a day for personal hygiene, 70 litres for flushing toilets, 55 litres for laundry and dishes and 80 litres for gardens and other purposes, giving a total of 300 litres, double the figure for Spain (150 litres). Australia came second, with a daily total of 240 litres, largely because of its heavy outdoor use (75 litres), which was three times the Spanish figure of 25 litres and five times the British figure of 15 litres.\n\nConsumption in Spain and the UK was broadly similar, at 150 and 140 litres respectively, although Spaniards used more for hygiene (60 litres compared with 55) and the British more for toilet flushing (40 litres against 30). At the other end of the scale, the average person in India used 85 litres, while in Kenya the figure was only 35 litres, of which just 2 litres went on flushing toilets."
+}

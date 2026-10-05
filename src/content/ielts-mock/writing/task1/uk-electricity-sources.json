@@ -1,0 +1,20 @@
+{
+  "id": "uk-electricity-sources",
+  "kind": "line",
+  "prompt": "The graph below shows the percentage of electricity generated from four sources in the United Kingdom between 1990 and 2020.",
+  "visuals": [
+    {
+      "type": "line",
+      "title": "Electricity generation by source, UK, 1990-2020",
+      "xLabels": ["1990", "1995", "2000", "2005", "2010", "2015", "2020"],
+      "yLabel": "% of total electricity generated",
+      "series": [
+        { "name": "Coal", "values": [65, 50, 32, 34, 28, 22, 2] },
+        { "name": "Gas", "values": [1, 18, 32, 36, 45, 30, 36] },
+        { "name": "Nuclear", "values": [21, 26, 23, 20, 16, 21, 16] },
+        { "name": "Renewables", "values": [2, 2, 3, 4, 7, 25, 43] }
+      ]
+    }
+  ],
+  "model": "The line graph illustrates the proportion of electricity produced from coal, gas, nuclear power and renewable sources in the UK over a thirty-year period starting in 1990.\n\nOverall, the UK's electricity mix changed dramatically. Coal, initially the dominant source, had almost disappeared by 2020, while renewables rose from a negligible share to become the largest single source. Gas also grew considerably, whereas nuclear power remained relatively stable throughout.\n\nIn 1990, coal accounted for 65% of electricity generation, far more than nuclear power (21%) and gas, which supplied just 1%. Over the following decade, coal's share fell sharply to 32% in 2000, the same figure as gas, which had expanded rapidly. After a slight rise to 34% in 2005, coal resumed its decline, contributing only 2% by 2020.\n\nGas was the leading source from 2005, peaking at 45% in 2010 before dropping to 30% five years later and recovering to 36% by the end of the period. Renewables, by contrast, provided a mere 2-4% until 2005, but then surged to 25% in 2015 and 43% in 2020, overtaking gas. Nuclear power fluctuated between 16% and 26%, reaching its highest point in 1995, and finished the period at 16%."
+}

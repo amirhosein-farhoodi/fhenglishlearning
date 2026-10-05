@@ -1,0 +1,18 @@
+{
+  "id": "brisbane-bus-rail",
+  "kind": "line",
+  "prompt": "The graph below shows the number of passenger journeys made by bus and by rail in Brisbane, Australia, between 2000 and 2021.",
+  "visuals": [
+    {
+      "type": "line",
+      "title": "Passenger journeys by bus and rail, Brisbane, 2000-2021",
+      "xLabels": ["2000", "2003", "2006", "2009", "2012", "2015", "2018", "2021"],
+      "yLabel": "Journeys (millions)",
+      "series": [
+        { "name": "Bus", "values": [52, 55, 58, 57, 54, 49, 45, 38] },
+        { "name": "Rail", "values": [18, 21, 26, 33, 41, 50, 56, 47] }
+      ]
+    }
+  ],
+  "model": "The line graph compares the number of journeys made by bus and by rail in Brisbane, Australia, at three-year intervals from 2000 to 2021.\n\nOverall, rail travel grew strongly for most of the period and eventually overtook bus travel, which went into steady decline after an initial rise. Both modes of transport, however, recorded a fall in the final three years.\n\nIn 2000, buses carried 52 million passengers, almost three times as many as trains, which carried 18 million. Bus journeys increased gradually to a peak of 58 million in 2006 and were almost unchanged in 2009, at 57 million. From then on, the figure dropped steadily, reaching 45 million in 2018 and just 38 million in 2021, its lowest level over the period.\n\nRail use, meanwhile, rose consistently for the first eighteen years. It climbed from 18 million to 33 million in 2009 and then accelerated, surpassing bus use for the first time in 2015, when trains carried 50 million passengers compared with 49 million for buses. Rail travel peaked at 56 million in 2018 before falling back to 47 million in 2021, although it still exceeded the bus figure by 9 million."
+}

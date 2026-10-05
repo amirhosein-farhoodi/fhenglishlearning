@@ -1,0 +1,23 @@
+{
+  "id": "olive-oil-production",
+  "kind": "process",
+  "prompt": "The diagram below shows the stages in the production of olive oil.",
+  "visuals": [
+    {
+      "type": "process",
+      "title": "How olive oil is produced",
+      "steps": [
+        { "label": "Harvesting", "detail": "October-December; olives picked by hand or shaken from trees by machine" },
+        { "label": "Cleaning", "detail": "at the mill: leaves and twigs removed, olives washed in cold water" },
+        { "label": "Crushing", "detail": "olives crushed into a paste" },
+        { "label": "Malaxation", "detail": "paste stirred slowly for 30-40 minutes below 27°C" },
+        { "label": "Separation", "detail": "centrifuge separates oil from water and solids; solid waste (pomace) used as fuel or fertiliser" },
+        { "label": "Settling and filtering", "detail": "oil left to settle in stainless steel tanks, then filtered" },
+        { "label": "Storage", "detail": "sealed tanks kept at 15-18°C" },
+        { "label": "Bottling", "detail": "poured into dark glass bottles and labelled" },
+        { "label": "Distribution", "detail": "delivered to shops" }
+      ]
+    }
+  ],
+  "model": "The diagram illustrates the stages involved in producing olive oil, from the harvesting of the fruit to the distribution of the bottled product.\n\nOverall, the process consists of nine steps. It begins with the collection and cleaning of the olives, continues with a series of mechanical stages in which the oil is extracted and purified, and ends with storage, bottling and delivery to retailers.\n\nFirst, the olives are harvested between October and December, either picked by hand or shaken from the trees by machines. The fruit is then taken to a mill, where leaves and twigs are removed and the olives are washed in cold water. Next, they are crushed into a paste, which is stirred slowly for 30 to 40 minutes at a temperature below 27°C, a stage known as malaxation.\n\nAfter this, the paste is placed in a centrifuge, which separates the oil from the water and solid matter; this solid waste, called pomace, is used as fuel or fertiliser. The oil is then left to settle in stainless steel tanks before being filtered, after which it is stored in sealed tanks at 15 to 18°C. Finally, it is poured into dark glass bottles, labelled and delivered to shops."
+}

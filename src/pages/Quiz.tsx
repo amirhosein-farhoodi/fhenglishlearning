@@ -29,6 +29,7 @@ export default function Quiz() {
   const [outcome, setOutcome] = useState<QuizOutcome | null>(null)
   const [run, setRun] = useState(0) // increments on "try again" so components remount
   const [mediaOpen, setMediaOpen] = useState(false)
+  const [activeTrack, setActiveTrack] = useState(0)
   const seed = useMemo(() => Math.floor(Math.random() * 1e9), [run, n])
 
   useEffect(() => {
@@ -44,6 +45,15 @@ export default function Quiz() {
   const correctSoFar = results.filter(Boolean).length
 
   const answeredAt = useRef(0)
+  const mediaRef = useRef<HTMLDivElement>(null)
+
+  const jumpToTrack = (track: string) => {
+    const i = unit?.media?.findIndex((m) => m.label === track) ?? -1
+    if (i < 0) return
+    setActiveTrack(i)
+    setMediaOpen(true)
+    requestAnimationFrame(() => mediaRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' }))
+  }
 
   const onResult = (ok: boolean) => {
     if (answered !== null) return
@@ -276,9 +286,11 @@ export default function Quiz() {
         {/* The recordings stay within reach for anyone who wants to hear the real
             thing, but no question depends on them - whatever a question asks about is
             printed in its own context block. So this is an extra, not a prerequisite:
-            it is labelled as the lesson's recordings and starts collapsed. */}
+            it is labelled as the lesson's recordings and starts collapsed. A context
+            with a `track` still links here (via jumpToTrack) for anyone who wants to
+            hear that exact line, but the answer never requires opening it. */}
         {unit.media && unit.media.length > 0 && (
-          <div className="quiz-media">
+          <div className="quiz-media" ref={mediaRef}>
             <button
               type="button"
               className={`quiz-media-toggle${mediaOpen ? ' on' : ''}`}
@@ -288,7 +300,7 @@ export default function Quiz() {
               {mediaNoun === 'video' ? <Film size={16} /> : <Headphones size={16} />}
               {mediaOpen ? `Hide the ${mediaNoun}s` : `${mediaNoun === 'video' ? 'Watch' : 'Listen'} again (optional)`}
             </button>
-            {mediaOpen && <MediaPanel media={unit.media} compact />}
+            {mediaOpen && <MediaPanel media={unit.media} compact active={activeTrack} onActiveChange={setActiveTrack} />}
           </div>
         )}
 
@@ -300,7 +312,7 @@ export default function Quiz() {
             exit={{ opacity: 0, x: -40 }}
             transition={{ duration: 0.25, ease: 'easeOut' }}
           >
-            {current && <ExerciseView exercise={current} seed={seed + index} onResult={onResult} />}
+            {current && <ExerciseView exercise={current} seed={seed + index} onResult={onResult} onTrackClick={jumpToTrack} />}
           </motion.div>
         </AnimatePresence>
         <div style={{ height: 140 }} />

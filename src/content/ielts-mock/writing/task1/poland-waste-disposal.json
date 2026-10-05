@@ -1,0 +1,30 @@
+{
+  "id": "poland-waste-disposal",
+  "kind": "pie",
+  "prompt": "The charts below show the methods used to dispose of household waste in Poland in 2005 and 2020.",
+  "visuals": [
+    {
+      "type": "pie",
+      "title": "Household waste disposal in Poland, 2005",
+      "slices": [
+        { "label": "Landfill", "value": 72 },
+        { "label": "Recycling", "value": 11 },
+        { "label": "Composting", "value": 4 },
+        { "label": "Incineration", "value": 3 },
+        { "label": "Other", "value": 10 }
+      ]
+    },
+    {
+      "type": "pie",
+      "title": "Household waste disposal in Poland, 2020",
+      "slices": [
+        { "label": "Landfill", "value": 39 },
+        { "label": "Recycling", "value": 27 },
+        { "label": "Composting", "value": 12 },
+        { "label": "Incineration", "value": 18 },
+        { "label": "Other", "value": 4 }
+      ]
+    }
+  ],
+  "model": "The pie charts illustrate the proportion of household waste in Poland that was disposed of by five different methods in 2005 and 2020.\n\nOverall, landfill was the most common method in both years, but its dominance declined dramatically over the period. Meanwhile, recycling, composting and incineration all became considerably more widespread, together accounting for more than half of all household waste by 2020.\n\nIn 2005, almost three quarters of household waste (72%) was sent to landfill. Recycling was a distant second, accounting for 11%, while composting and incineration together dealt with only 7% of the total, at 4% and 3% respectively. The remaining 10% was handled by other means.\n\nBy 2020, the share of waste buried in landfill sites had fallen to 39%, slightly under two fifths of the total. Recycling, by contrast, had more than doubled to 27%, and incineration had grown sixfold to 18%, making it the third most common method. Composting also tripled, from 4% to 12%. The only category apart from landfill to decline was 'other' methods, which shrank from 10% to just 4%."
+}

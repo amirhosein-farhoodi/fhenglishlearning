@@ -1,0 +1,18 @@
+{
+  "id": "ireland-leisure-gender",
+  "kind": "bar",
+  "prompt": "The chart below shows the average number of hours per week that men and women in Ireland spent on six leisure activities in 2020.",
+  "visuals": [
+    {
+      "type": "bar",
+      "title": "Weekly time spent on leisure activities by gender, Ireland, 2020",
+      "categories": ["Watching TV", "Social media", "Sport and exercise", "Socialising", "Reading", "Video gaming"],
+      "yLabel": "Hours per week",
+      "series": [
+        { "name": "Men", "values": [14.5, 6, 5, 6.5, 2, 7] },
+        { "name": "Women", "values": [13, 8.5, 3.5, 7, 4.5, 1.5] }
+      ]
+    }
+  ],
+  "model": "The bar chart compares how much time men and women in Ireland spent each week on six leisure activities in 2020.\n\nOverall, watching television was the most time-consuming pastime for both sexes. While men devoted more time to television, video games and physical activity, women spent longer on social media, reading and socialising with friends.\n\nMen watched television for 14.5 hours a week on average, slightly more than women, at 13 hours. The largest gender gap, however, was in video gaming: men played for 7 hours weekly, almost five times as long as women, who spent only 1.5 hours on this activity, the lowest figure on the chart. Men were also more active in sport and exercise, spending 5 hours on it compared with 3.5 hours for women.\n\nIn contrast, women used social media for 8.5 hours a week, two and a half hours more than men, making it their second most popular activity. They also read for 4.5 hours, more than twice the male figure of 2 hours. Time spent socialising with friends, on the other hand, was broadly similar for the two groups, at 7 hours for women and 6.5 hours for men."
+}

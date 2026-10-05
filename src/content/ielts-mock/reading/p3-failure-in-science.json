@@ -1,0 +1,147 @@
+{
+  "id": "p3-failure-in-science",
+  "slot": 3,
+  "title": "The Uses of Failure",
+  "subtitle": "Why science needs to take its negative results more seriously",
+  "topic": "Science",
+  "paragraphs": [
+    { "text": "Science, in its own account of itself, is a machine for learning from mistakes. Hypotheses are proposed, tested and, where the evidence turns against them, discarded; knowledge advances precisely because ideas are permitted to fail. It is therefore something of an embarrassment that the institutions of science have become so reluctant to acknowledge failure in practice. Experiments that do not yield the result the researcher hoped for are routinely left unpublished, and the surviving record offers a curiously flattering portrait of how research proceeds." },
+    { "text": "One large analysis of scientific papers found that the proportion reporting support for the hypothesis under test rose from around 70 per cent in 1990 to more than 85 per cent by 2007. Researchers have not, over that period, become dramatically more adept at anticipating how nature behaves. What has changed is the filter between laboratory and journal. Editors favour striking findings, which attract readers and citations; researchers, whose careers depend on publication, learn to submit only what editors will accept. A study showing that a promising drug has no effect is liable to end up in what one psychologist, writing in 1979, termed the 'file drawer'." },
+    { "text": "The consequences became undeniable in the 2010s. When a large collaboration attempted to repeat 100 experiments from leading psychology journals, fewer than half of the replications produced results consistent with the originals. Around the same time, scientists at a biotechnology company reported confirming the central findings of only six of 53 landmark cancer studies. These figures do not mean that most published research is false, and some of the failures may reflect differences in method rather than errors in the original work. They do suggest, however, that a literature assembled from successes alone is considerably less dependable than its individual papers make it appear. If ten laboratories test an idea and only the one that obtains a positive result publishes, readers will see a confirmed effect where there may be nothing." },
+    { "text": "Nor is the cost merely intellectual. Unpublished negative results are routinely rediscovered at public expense by teams unaware that an approach has already been tried. In medicine the stakes are higher. When unfavourable trial results are withheld, the apparent benefits of a treatment are inflated, and doctors prescribe on the basis of evidence that has been quietly edited. Partly for this reason, journals and regulators began to require clinical trials to be registered in advance, so that a trial which vanishes without trace at least leaves behind a record that it existed." },
+    { "text": "Some of the most consequential experiments in history, moreover, were failures in the narrow sense. In 1887 the American physicists Albert Michelson and Edward Morley tried to measure the Earth's motion through the 'ether', the invisible medium then believed to carry light. They failed to detect the motion they had expected. Their null result was at first treated as an anomaly to be explained away; it later came to be regarded as one of the key pieces of evidence for Einstein's special theory of relativity. The popular image of the inventor who reframes thousands of setbacks as lessons - a sentiment often attributed to Thomas Edison, though probably never phrased by him that way - captures something true but misleads in one respect. Edison's failures were private stepping stones towards a product. Science needs its failures to be public." },
+    { "text": "The most promising reform so far is the registered report, a format first offered by a neuroscience journal in 2013 and now available at several hundred. Under this model, researchers submit their research question, methods and planned analysis before collecting any data. If reviewers approve the design, the journal commits to publishing the study whatever it finds. This removes both the incentive to obtain a particular result and the temptation to adjust the analysis until something interesting emerges. The evidence is striking: one comparison found that only about 44 per cent of registered reports in psychology supported their main hypothesis, against 96 per cent of conventionally published papers. Professor Anna Lindqvist, who studies research practices at a Scandinavian university, regards the gap as 'the clearest measure we have of how heavily the ordinary literature is curated'." },
+    { "text": "Registered reports are not, however, a panacea, though advocates sometimes write as if they were. The format suits confirmatory studies, in which a precise prediction is tested, far better than the exploratory work in which many discoveries originate; a researcher who does not yet know what she is looking for cannot specify her analysis beforehand. There is also a risk that a format designed to reward rigour becomes a badge of prestige in its own right, producing a two-tier literature in which conventional papers are tacitly assumed to be suspect. That would be unfortunate, since much excellent work will still appear in the ordinary way." },
+    { "text": "Ultimately, the problem is cultural rather than procedural, and no publishing rule will solve it unaided. As long as hiring committees and funding bodies count papers and citations rather than judging the quality of the questions asked, researchers will continue to regard a negative result as a wasted year. What is required is a shift in what scientists themselves recognise as an achievement: a well-designed experiment that convincingly shows an idea to be wrong should be valued as highly as one that appears to show it right. This is not a sentimental plea to celebrate failure for its own sake; poorly conceived studies deserve no special protection. It is simply to recognise that a discipline which claims to learn from its errors must allow those errors to be seen." }
+  ],
+  "groups": [
+    {
+      "type": "matching",
+      "kind": "sentence-endings",
+      "reuse": false,
+      "options": [
+        { "key": "A", "text": "prove that the majority of published research is incorrect." },
+        { "key": "B", "text": "ensures that there is evidence a study took place even if its results never appear." },
+        { "key": "C", "text": "removes researchers' motivation to reach a particular result." },
+        { "key": "D", "text": "is largely the result of how research is filtered before publication." },
+        { "key": "E", "text": "suggest that published findings may appear more trustworthy than they really are." },
+        { "key": "F", "text": "has led to a sharp fall in the number of clinical trials carried out." },
+        { "key": "G", "text": "guarantees that every study submitted to a journal will be published." }
+      ],
+      "items": [
+        {
+          "text": "The growth in the share of papers that confirm the hypothesis being tested",
+          "answer": "D",
+          "evidence": "Researchers have not, over that period, become dramatically more adept at anticipating how nature behaves. What has changed is the filter between laboratory and journal."
+        },
+        {
+          "text": "The outcomes of large-scale attempts to repeat earlier studies",
+          "answer": "E",
+          "evidence": "They do suggest, however, that a literature assembled from successes alone is considerably less dependable than its individual papers make it appear.",
+          "note": "A is the trap: the writer explicitly says these figures do not mean that most published research is false."
+        },
+        {
+          "text": "The requirement that medical trials be registered in advance",
+          "answer": "B",
+          "evidence": "so that a trial which vanishes without trace at least leaves behind a record that it existed"
+        },
+        {
+          "text": "Agreeing to publish a study before its results are known",
+          "answer": "C",
+          "evidence": "This removes both the incentive to obtain a particular result and the temptation to adjust the analysis until something interesting emerges.",
+          "note": "G is the trap: publication is promised only if reviewers approve the design, not for every submission."
+        }
+      ]
+    },
+    {
+      "type": "ynng",
+      "of": "claims",
+      "items": [
+        {
+          "statement": "Some unsuccessful replications may be the result of methodological differences rather than mistakes in the original research.",
+          "answer": "YES",
+          "evidence": "some of the failures may reflect differences in method rather than errors in the original work"
+        },
+        {
+          "statement": "Negative results are less likely to be published in psychology than in medicine.",
+          "answer": "NOT GIVEN",
+          "note": "Both fields are discussed, but the writer never compares how often negative results go unpublished in each."
+        },
+        {
+          "statement": "Withholding unfavourable trial data can lead doctors to make treatment decisions based on misleading evidence.",
+          "answer": "YES",
+          "evidence": "doctors prescribe on the basis of evidence that has been quietly edited"
+        },
+        {
+          "statement": "The importance of Michelson and Morley's result was recognised as soon as it was obtained.",
+          "answer": "NO",
+          "evidence": "Their null result was at first treated as an anomaly to be explained away",
+          "note": "The result was initially dismissed as an anomaly; its significance was appreciated only later."
+        },
+        {
+          "statement": "Registered reports are equally well suited to every type of scientific study.",
+          "answer": "NO",
+          "evidence": "The format suits confirmatory studies, in which a precise prediction is tested, far better than the exploratory work in which many discoveries originate",
+          "note": "The writer says the format suits confirmatory work far better than exploratory work."
+        },
+        {
+          "statement": "Journals that publish registered reports are generally regarded as more prestigious than other journals.",
+          "answer": "NOT GIVEN",
+          "note": "The writer warns that the registered-report format itself might become a badge of prestige, but says nothing about how the journals offering it are regarded."
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "items": [
+        {
+          "stem": "What point does the writer make in the first paragraph?",
+          "options": [
+            "Scientists seldom make errors when designing experiments.",
+            "The way science works in practice is at odds with its own principles.",
+            "Most unsuccessful experiments are the result of careless methods.",
+            "The general public has a mistaken impression of scientific research."
+          ],
+          "answer": 1,
+          "evidence": "It is therefore something of an embarrassment that the institutions of science have become so reluctant to acknowledge failure in practice.",
+          "note": "D borrows the idea of a 'flattering portrait', but that portrait is offered by the published record, and the writer says nothing about the public's view."
+        },
+        {
+          "stem": "Why does the writer refer to Thomas Edison?",
+          "options": [
+            "to show that a well-known saying has been wrongly attributed",
+            "to argue that inventors accept failure more readily than scientists",
+            "to give an example of an inventor whose failures were made public",
+            "to distinguish learning privately from failure from sharing failure openly"
+          ],
+          "answer": 3,
+          "evidence": "Edison's failures were private stepping stones towards a product. Science needs its failures to be public.",
+          "note": "A is mentioned in passing (the attribution is doubtful) but is not the writer's purpose; the point is the contrast between private and public failure."
+        },
+        {
+          "stem": "What does Professor Lindqvist suggest about the difference in results between registered reports and conventional papers?",
+          "options": [
+            "It shows how far ordinary publications are selected for positive outcomes.",
+            "It shows that registered reports tend to be badly designed.",
+            "It proves that most conventional studies reach the wrong conclusions.",
+            "It is likely to shrink as more journals adopt the format."
+          ],
+          "answer": 0,
+          "evidence": "regards the gap as 'the clearest measure we have of how heavily the ordinary literature is curated'"
+        },
+        {
+          "stem": "What is the writer's main conclusion?",
+          "options": [
+            "Stricter publication rules are the best way to solve the problem.",
+            "Hiring committees should give more weight to citation counts.",
+            "Scientists need to change their ideas about what counts as a successful piece of research.",
+            "Every negative result deserves publication, regardless of its quality."
+          ],
+          "answer": 2,
+          "evidence": "What is required is a shift in what scientists themselves recognise as an achievement",
+          "note": "A is rejected ('no publishing rule will solve it unaided'); D is contradicted ('poorly conceived studies deserve no special protection'); B runs against the writer's criticism of counting papers and citations."
+        }
+      ]
+    }
+  ]
+}

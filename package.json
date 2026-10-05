@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "validate": "node tools/validate-content.mjs",
+    "validate": "node tools/validate-mock.mjs && node tools/validate-content.mjs",
     "extract": "python tools/extract_book.py"
   },
   "dependencies": {

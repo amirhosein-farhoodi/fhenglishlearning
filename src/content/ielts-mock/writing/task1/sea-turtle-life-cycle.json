@@ -1,0 +1,22 @@
+{
+  "id": "sea-turtle-life-cycle",
+  "kind": "process",
+  "prompt": "The diagram below shows the life cycle of the green sea turtle.",
+  "visuals": [
+    {
+      "type": "process",
+      "title": "Life cycle of the green sea turtle",
+      "cycle": true,
+      "steps": [
+        { "label": "Mating", "detail": "adults mate in shallow coastal waters near nesting beaches" },
+        { "label": "Nesting", "detail": "female crawls onto the beach at night and lays about 100 eggs in a pit dug in the sand" },
+        { "label": "Incubation", "detail": "eggs warmed by the sand for around 60 days" },
+        { "label": "Hatching", "detail": "hatchlings emerge at night and head for the sea" },
+        { "label": "'Lost years'", "detail": "juveniles drift in ocean currents for 5-10 years, feeding on plankton" },
+        { "label": "Coastal feeding", "detail": "young turtles move to seagrass beds near the coast and become herbivores" },
+        { "label": "Maturity and migration", "detail": "adult at 25-35 years; migrates up to 2,000 km back to the beach where it hatched" }
+      ]
+    }
+  ],
+  "model": "The diagram illustrates the life cycle of the green sea turtle, which is made up of seven stages.\n\nOverall, the cycle begins and ends on the same stretch of coast, and it is extremely long, since turtles spend decades at sea before they are mature enough to return to their birthplace and reproduce.\n\nThe cycle starts when adult turtles mate in shallow coastal waters close to nesting beaches. The female then crawls onto the beach at night and lays approximately 100 eggs in a pit that she digs in the sand. These eggs are kept warm by the sand for around 60 days, after which the young turtles hatch and, again under cover of darkness, make their way to the sea.\n\nThe juveniles then enter a phase known as the 'lost years', drifting in ocean currents for between five and ten years and feeding on plankton. Later, they move to seagrass beds near the coast, where they switch to a plant-based diet. Finally, once they reach maturity at the age of 25 to 35, they migrate as far as 2,000 kilometres back to the beach where they hatched, and the cycle begins again."
+}

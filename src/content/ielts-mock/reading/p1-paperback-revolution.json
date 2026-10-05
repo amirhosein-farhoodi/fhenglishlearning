@@ -1,0 +1,80 @@
+{
+  "id": "p1-paperback-revolution",
+  "slot": 1,
+  "title": "The Paperback Revolution",
+  "subtitle": "How a sixpenny book changed the way Britain read",
+  "topic": "Publishing",
+  "paragraphs": [
+    { "text": "Few objects are as ordinary as the paperback. It is sold in supermarkets and airports, slipped into pockets and left on trains without a second thought. Yet the idea that a well-made book by a serious author could cost no more than a packet of cigarettes is less than a century old, and its arrival in Britain owed as much to a railway platform as to any advance in printing." },
+    { "text": "Cheap books were not new. During the nineteenth century, steam-driven presses and paper made from wood pulp steadily brought down the cost of production, and the spread of the railways created a vast new audience with time on its hands. In 1848 the newsagent W. H. Smith opened its first station bookstall, at Euston in London. George Routledge's Railway Library offered reprinted novels for a shilling or so, bound in boards covered with brightly coloured paper. Because so many of these covers were yellow, the books became known as 'yellowbacks'. They sold in great numbers, but respectable critics regarded them as disposable entertainment rather than literature." },
+    { "text": "Across the Channel, a different model was emerging. From 1841 the Leipzig firm of Tauchnitz published English-language novels in plain paper covers for British and American travellers on the Continent. The books were attractive and inexpensive, but copyright agreements meant they could not legally be sold in Britain itself. In 1932 the Albatross imprint, founded in Hamburg, refined the formula with clean typography and covers whose colours indicated the type of book inside. Albatross, too, was aimed at readers abroad, and in Britain the paper-covered book remained associated with cheap thrillers and poorly printed sensational fiction. Most British publishers believed that anyone who wanted a good book would pay several shillings for a hardback, and that booksellers would not stock anything cheaper." },
+    { "text": "Allen Lane did not share that view. In 1934 he was managing director of the Bodley Head, a respected London publisher then in serious financial difficulty. According to the story Lane liked to tell, the idea came to him on the platform at Exeter station, after a weekend spent in Devon with the crime writer Agatha Christie. Looking for something to read on the journey back to London, he found that the bookstall offered nothing but popular magazines and reprints of Victorian novels. Some historians suspect that the anecdote became tidier with each retelling, but it captures the essence of his plan: good contemporary writing, at a price that anyone could afford, sold wherever people happened to be." },
+    { "text": "The directors of the Bodley Head were unconvinced, and Lane, together with his brothers Richard and John, eventually financed the venture largely with their own money. The price was fixed at sixpence. At that price the profit on each copy would be tiny, so the books had to be printed in tens of thousands, and every title had to sell almost all of its run before it made any money at all. Lane bought the paperback rights to ten books from other publishers, many of whom agreed only because they expected the experiment to fail quickly and were glad of the fee. A young office junior, Edward Young, was sent to London Zoo to sketch penguins for the logo. Apart from that small bird, the covers carried no illustration: just three horizontal bands, the outer two coloured to show the genre - orange for fiction, green for crime and dark blue for biography." },
+    { "text": "Booksellers were largely hostile, fearing that a sixpenny book would leave them almost no margin and would tempt customers away from more expensive editions. The decisive breakthrough came from an unexpected direction. Woolworths, a chain store famous for selling household goods at prices of no more than sixpence, placed a large order, reportedly after the buyer's wife had looked at the samples and approved. The first ten Penguins appeared in the summer of 1935; they included Ernest Hemingway's *A Farewell to Arms* and Christie's *The Mysterious Affair at Styles*. Within a year, around three million copies had been sold." },
+    { "text": "Two years later, Lane launched Pelican Books, which applied the same formula to non-fiction. Unlike the first Penguins, many Pelicans were newly commissioned rather than reprinted, introducing readers to economics, science, archaeology and art. During the Second World War, when paper was strictly rationed, the small, light format proved ideal for servicemen, who carried Penguins in their kitbags across the world. By 1945 Penguin was less a publisher than a national institution." },
+    { "text": "What effect did all this have on reading itself? Critics at the time feared that cheap books would cheapen literature, and some authors worried that sixpenny editions would reduce their earnings by undercutting hardbacks. The novelist George Orwell, reviewing early Penguins, praised them as remarkable value while predicting that they would harm the book trade. In practice, the paperback created readers rather than stealing them: people who had never entered a bookshop discovered that books were something they could own, and many went on to buy hardbacks as well. Above all, the paperback changed where people read. A book no longer had to be a piece of furniture, kept on a shelf at home; it could be read on a bus, in a canteen or on a station platform - the very place where, according to the legend, the whole idea had begun." }
+  ],
+  "groups": [
+    {
+      "type": "completion",
+      "layout": "summary",
+      "limit": { "words": 2, "number": false },
+      "title": "Cheap books before Penguin",
+      "lines": [
+        "During the nineteenth century, new printing methods and cheaper paper lowered the cost of books, while rail travel produced a large public with time to fill. Inexpensive reprinted novels sold at stations were nicknamed {1} because of the colour of their covers. Although they were bought in large quantities, serious {2} dismissed them as throwaway amusement.",
+        "Abroad, the German firm Tauchnitz produced English-language novels for visitors from Britain and America, but agreements on {3} meant these could not lawfully be sold in Britain. Later, Albatross improved on this model, with neat {4} and covers coloured according to the kind of book. In Britain, however, paper covers were still linked with {5} and other low-quality sensational stories, and publishers assumed that anyone wanting a good book would willingly pay more for a {6}."
+      ],
+      "answers": [
+        { "accept": ["yellowbacks", "yellow-backs", "yellow backs"], "evidence": "Because so many of these covers were yellow, the books became known as 'yellowbacks'." },
+        { "accept": ["(respectable) critics"], "evidence": "respectable critics regarded them as disposable entertainment rather than literature" },
+        { "accept": ["copyright"], "evidence": "copyright agreements meant they could not legally be sold in Britain itself" },
+        { "accept": ["(clean) typography"], "evidence": "refined the formula with clean typography and covers whose colours indicated the type of book inside" },
+        { "accept": ["(cheap) thrillers"], "evidence": "in Britain the paper-covered book remained associated with cheap thrillers and poorly printed sensational fiction" },
+        { "accept": ["hardback"], "evidence": "anyone who wanted a good book would pay several shillings for a hardback" }
+      ]
+    },
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "Lane is said to have had the idea for Penguin while he was travelling to visit Agatha Christie.",
+          "answer": "FALSE",
+          "evidence": "the idea came to him on the platform at Exeter station, after a weekend spent in Devon with the crime writer Agatha Christie. Looking for something to read on the journey back to London",
+          "note": "The idea came on the return journey to London, after the visit - not on the way there."
+        },
+        {
+          "statement": "A Penguin title could only become profitable if nearly every copy printed was sold.",
+          "answer": "TRUE",
+          "evidence": "every title had to sell almost all of its run before it made any money at all"
+        },
+        {
+          "statement": "Some of the publishers who sold Lane the rights to their books did not believe Penguin would last.",
+          "answer": "TRUE",
+          "evidence": "many of whom agreed only because they expected the experiment to fail quickly and were glad of the fee"
+        },
+        {
+          "statement": "Edward Young went on to design many later Penguin covers.",
+          "answer": "NOT GIVEN",
+          "note": "The text says only that Young sketched penguins at the zoo for the logo; it says nothing about his later work."
+        },
+        {
+          "statement": "Woolworths remained Penguin's largest customer for several years.",
+          "answer": "NOT GIVEN",
+          "note": "The text says only that Woolworths placed a large order that proved decisive; it gives no information about how much it bought later or how it compared with other customers."
+        },
+        {
+          "statement": "Pelican Books published only works that had already appeared in other editions.",
+          "answer": "FALSE",
+          "evidence": "Unlike the first Penguins, many Pelicans were newly commissioned rather than reprinted",
+          "note": "Many Pelicans were new works, so 'only reprints' is contradicted."
+        },
+        {
+          "statement": "George Orwell thought that the early Penguins offered readers a great deal for their money.",
+          "answer": "TRUE",
+          "evidence": "praised them as remarkable value while predicting that they would harm the book trade",
+          "note": "The trap is his negative prediction about the book trade - but the statement is only about value, which he praised."
+        }
+      ]
+    }
+  ]
+}

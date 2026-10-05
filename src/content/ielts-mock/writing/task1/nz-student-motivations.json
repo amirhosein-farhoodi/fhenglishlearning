@@ -1,0 +1,26 @@
+{
+  "id": "nz-student-motivations",
+  "kind": "bar",
+  "prompt": "The chart below shows the reasons given by undergraduate and postgraduate international students for choosing to study in New Zealand in 2022.",
+  "visuals": [
+    {
+      "type": "bar",
+      "title": "Reasons for choosing New Zealand as a study destination, 2022",
+      "categories": [
+        "Quality and reputation of universities",
+        "Safety and political stability",
+        "English-language environment",
+        "Post-study work opportunities",
+        "Cost of tuition and living",
+        "Friends or family already living there"
+      ],
+      "yLabel": "% of students giving each reason",
+      "horizontal": true,
+      "series": [
+        { "name": "Undergraduate", "values": [68, 61, 55, 42, 34, 29] },
+        { "name": "Postgraduate", "values": [74, 52, 38, 63, 41, 17] }
+      ]
+    }
+  ],
+  "model": "The bar chart illustrates the percentage of undergraduate and postgraduate international students who gave six different reasons for choosing New Zealand as a study destination in 2022.\n\nOverall, the quality and reputation of the country's universities was the most frequently cited reason for both groups. Undergraduates placed greater emphasis on safety and the English-language environment, while postgraduates were far more motivated by work prospects after graduation.\n\nUniversity quality was mentioned by 74% of postgraduates and 68% of undergraduates. For undergraduates, the next most common reasons were safety and political stability (61%) and the chance to live in an English-speaking environment (55%); the corresponding figures for postgraduates were noticeably lower, at 52% and 38% respectively.\n\nThe most striking difference concerned post-study work opportunities, which were cited by 63% of postgraduates, making this their second most important factor, but by only 42% of undergraduates. Cost was also a greater concern for postgraduates (41%) than for undergraduates (34%). Finally, having friends or family already in New Zealand was the least influential factor for both groups, though it mattered more to undergraduates, at 29%, than to postgraduates, at just 17%."
+}

@@ -1,0 +1,64 @@
+/* The IELTS Mock Test entry on the home page's IELTS shelf (the rest of the
+   mock styles load with the mock pages, in mock.css). */
+.mock-banner {
+  display: flex;
+  align-items: center;
+  gap: var(--space-20);
+  padding: var(--space-20) var(--space-24);
+  margin-bottom: var(--space-24);
+  background: var(--surface);
+  border: 1.5px solid var(--accent);
+  border-radius: var(--r-lg);
+  color: var(--ink);
+  transition: box-shadow 0.2s ease, background 0.15s ease;
+}
+.mock-banner:hover {
+  box-shadow: var(--shadow-lift);
+  background: var(--accent-wash);
+}
+.mock-banner-icon {
+  font-size: 34px;
+  line-height: 1;
+}
+.mock-banner-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+}
+.mock-banner-title {
+  font-size: var(--text-subheading);
+  font-weight: var(--fw-bold);
+  display: flex;
+  align-items: center;
+  gap: var(--space-8);
+}
+.mock-banner .cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--accent);
+  font-weight: var(--fw-medium);
+  white-space: nowrap;
+}
+.mock-banner .pill {
+  padding: 2px 9px;
+  border-radius: var(--r-pill);
+  background: var(--accent-wash);
+  border: 1px solid var(--accent-tint);
+  color: var(--accent);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.04em;
+}
+@media (max-width: 640px) {
+  .mock-banner {
+    flex-wrap: wrap;
+    gap: var(--space-12);
+  }
+  .mock-banner .cta {
+    width: 100%;
+  }
+}
+

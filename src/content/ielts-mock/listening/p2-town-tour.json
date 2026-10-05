@@ -1,0 +1,93 @@
+{
+  "id": "p2-town-tour",
+  "part": 2,
+  "title": "A tour of a US town",
+  "intro": "You will hear a tour guide describing different places in a US town.",
+  "source": "British Council IELTS Listening sample task",
+  "audio": "https://ok26.org/i/nmdo4acq",
+  "steps": [
+    {
+      "kind": "read",
+      "seconds": 25.2,
+      "questions": [
+        1,
+        3
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 0,
+      "to": 64.1
+    },
+    {
+      "kind": "check",
+      "seconds": 45.0
+    }
+  ],
+  "transcript": [
+    "All right, those of you who want to go on the ride, please just wait a moment while I give some directions to the rest of the group. You’ll notice that the Welcome Centre, where we are, is located on the southwest corner of Elm and Main Streets. For those of you interested in doing a little shopping ...",
+    "on the other side of Main Street you can see a wonderful quilt shop. These are handmade blankets which are usually made from patches of left over material. They make wonderful gifts, but let me warn you, it will be hard to leave that shop, so you may want to save that for last.",
+    "The next street up Main is Ash Street. On the Southside of Ash, is a handicrafts museum worth a look. You’ll be amazed at the variety of handmade crafts there.",
+    "On Main Street, in the middle of the block past Ash but before Oak Street is a traditional one-room school house. Please be as quiet as possible and do not take photographs, as school is in session."
+  ],
+  "groups": [
+    {
+      "type": "matching",
+      "kind": "features",
+      "optionsTitle": "Plan",
+      "reuse": false,
+      "image": "/mock/listening/town-tour/street-plan.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "F",
+          "text": ""
+        },
+        {
+          "key": "G",
+          "text": ""
+        },
+        {
+          "key": "H",
+          "text": ""
+        }
+      ],
+      "items": [
+        {
+          "text": "Quilt Shop",
+          "answer": "H",
+          "note": "\"On the other side of Main Street [from the Welcome Center] you can see a wonderful quilt shop.\""
+        },
+        {
+          "text": "Handicrafts Museum",
+          "answer": "A",
+          "note": "\"On the south side of Ash is a handicrafts museum.\""
+        },
+        {
+          "text": "School House",
+          "answer": "C",
+          "note": "\"On Main Street, in the middle of the block past Ash but before Oak Street, is a traditional one-room school house.\""
+        }
+      ]
+    }
+  ]
+}

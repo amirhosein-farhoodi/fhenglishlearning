@@ -1,0 +1,55 @@
+{
+  "id": "p1-library-guide",
+  "part": 1,
+  "title": "A guide to the library",
+  "intro": "You will hear two people discussing a guide to a library.",
+  "source": "British Council IELTS Listening sample task",
+  "audio": "https://ok26.org/i/uhwq6jkp",
+  "steps": [
+    {
+      "kind": "read",
+      "seconds": 35.1,
+      "questions": [
+        1,
+        3
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 0,
+      "to": 53.4
+    },
+    {
+      "kind": "check",
+      "seconds": 60.0
+    }
+  ],
+  "transcript": [
+    "M: And we also hold regular events at the library.",
+    "F: Do I have to book for any of the events?",
+    "M: No, that’s not necessary. When you come into the library, do make sure you pick up a copy of the Guide to the Library. Of course, anything you need to know, such as how the catalogue system works, you can ask any member of staff, but the Guide does contain basic information about our services. It doesn’t include things like the special events because they always change, but inside you’ll find a plan of the library, showing where, for example, the reading room is. It also tells you about our café in the basement, though that’s not open at the moment because of building work we’re having done to install disabled lifts. Oh, and if you can’t find what you want on the shelf, there’s a section about how to reserve books that tells you what you need to do.",
+    "F: Thanks, I’ll remember to collect that when..."
+  ],
+  "groups": [
+    {
+      "type": "multi",
+      "stem": "Which THREE things does the Guide to the Library have information about?",
+      "options": [
+        "book reservations",
+        "reading room rules",
+        "catalogue",
+        "disabled facilities",
+        "location of rooms",
+        "café",
+        "regular events",
+        "staff"
+      ],
+      "answers": [
+        0,
+        4,
+        5
+      ],
+      "note": "The Guide has \"a plan of the library\", tells you \"about our café\" and has \"a section about how to reserve books\". Events are left out \"because they always change\"; the catalogue is something to ask staff about."
+    }
+  ]
+}

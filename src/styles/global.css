@@ -749,6 +749,107 @@ input {
   margin-top: var(--space-4);
 }
 
+/* ==================================================================
+   Shelf tabs - a segmented control, not 3 more info boxes. They share
+   one recessed "trough" (--surface-2, the same move .segmented uses
+   for the donate amount picker) so the group reads as a single switch;
+   the active segment is the one lifted back up to --surface. Without
+   that shared trough this looked exactly like the .stat cards above it
+   and nobody tried clicking it.
+
+   An ARIA tablist (Home.tsx wires up role="tab"/"tabpanel" and arrow-
+   key roving focus); the selected category is remembered in
+   localStorage across visits.
+   ================================================================== */
+.shelf-tabs {
+  display: flex;
+  gap: var(--space-4);
+  padding: var(--space-4);
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  margin: 0 0 var(--section-gap);
+}
+
+.shelf-tab {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  padding: var(--space-8) var(--space-12);
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: var(--r-input);
+  text-align: start;
+  cursor: pointer;
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.shelf-tab:not(.active):hover {
+  background: color-mix(in srgb, var(--surface) 60%, var(--surface-2));
+}
+
+.shelf-tab:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.shelf-tab-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  border-radius: var(--r-pill);
+  background: var(--surface-band);
+  font-size: 18px;
+  transition: background 0.15s ease;
+}
+
+.shelf-tab-text {
+  min-width: 0;
+}
+
+.shelf-tab-title {
+  display: block;
+  font-size: var(--text-body-sm);
+  font-weight: var(--fw-bold);
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.15s ease;
+}
+
+.shelf-tab-count {
+  display: block;
+  font-size: var(--text-caption);
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+/* Selected: lifted off the trough - background, border and shadow all
+   flip on together, like a pressed segment, not just a colour change. */
+.shelf-tab.active {
+  background: var(--surface);
+  border-color: var(--line);
+  box-shadow: var(--shadow-lift);
+}
+
+.shelf-tab.active .shelf-tab-icon {
+  background: var(--accent-wash);
+  box-shadow: 0 0 0 1px var(--accent-tint) inset;
+}
+
+.shelf-tab.active .shelf-tab-title {
+  color: var(--accent);
+}
+
 .section-head {
   display: flex;
   align-items: baseline;
@@ -763,12 +864,9 @@ input {
 }
 
 /* ==================================================================
-   Home shelves (Grammar / Vocabulary / Listening)
+   Home shelves (Grammar / Vocabulary / IELTS) - one panel shown at a
+   time, picked by .shelf-tabs above.
    ================================================================== */
-.shelf + .shelf {
-  margin-top: var(--section-gap);
-}
-
 .shelf .section-head {
   align-items: flex-end;
   padding-bottom: var(--space-12);
@@ -845,7 +943,10 @@ input {
 }
 
 /* ==================================================================
-   Book cards - one per row: cover beside the blurb.
+   Book cards - a shelf grid, 2-3 per row depending on viewport width.
+   auto-fill picks the column count from the available width (down to
+   one on phones), so there's no breakpoint deciding "2 or 3" - the
+   grid just fits as many as comfortably reach the minimum card width.
 
    The cover sits on a neutral backdrop (the reference keeps saturated
    local colour inside the artwork, not behind it). The book accent
@@ -854,7 +955,7 @@ input {
    ================================================================== */
 .books-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: var(--element-gap);
 }
 
@@ -862,7 +963,7 @@ input {
   --book: var(--accent);
   position: relative;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: stretch;
   background: var(--surface);
   border: 1px solid var(--line);
@@ -881,18 +982,17 @@ input {
 }
 
 .book-cover {
-  width: 236px;
+  width: 100%;
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: var(--space-12);
-  /* Narrow side padding so a long level label still fits on one line. */
-  padding: var(--card-padding) var(--space-12);
+  padding: var(--space-20) var(--card-padding);
   overflow: hidden;
   background: var(--surface-band);
-  border-right: 1px solid var(--line-soft);
+  border-bottom: 1px solid var(--line-soft);
 }
 
 .book-cover img {
@@ -901,7 +1001,7 @@ input {
   width: auto;
   height: auto;
   object-fit: contain;
-  max-height: 220px;
+  max-height: 200px;
   border-radius: var(--r-input);
   box-shadow: var(--shadow-lift);
   transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -937,7 +1037,6 @@ input {
   padding: var(--card-padding);
   display: flex;
   flex-direction: column;
-  justify-content: center;
   gap: var(--space-8);
   flex: 1;
   min-width: 0;
@@ -948,10 +1047,16 @@ input {
   line-height: var(--leading-heading-sm);
 }
 
+/* Clamped to 3 lines so descriptions of different lengths don't throw off
+   how tall each card in a row ends up. */
 .book-body .desc {
   color: var(--muted);
   font-size: var(--text-body-sm);
   line-height: var(--leading-body-sm);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .book-meta {
@@ -979,13 +1084,15 @@ input {
   color: var(--success);
 }
 
-/* No auto margin here: the body is centred as one block, so pinning the
-   foot to the bottom would just open a gap above it on tall cards. */
+/* Auto margin pins this to the bottom of the body, so the progress bar and
+   CTA line up across a row even when descriptions run to different lengths
+   (grid rows stretch every card to the tallest one). */
 .book-foot {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: var(--space-12);
+  margin-top: auto;
   padding-top: var(--element-gap);
 }
 
@@ -1771,6 +1878,44 @@ input {
   margin-top: var(--card-padding);
 }
 
+.reveal-bar .row {
+  width: 100%;
+  justify-content: center;
+}
+
+/* The pair wants ~355px and a 390px phone leaves 350px, so .row's wrap
+   dropped them into a left-aligned stack. Below 560px they split the line
+   as equal halves instead - tighter padding, one line, never wrapped. */
+@media (max-width: 560px) {
+  .reveal-bar .row {
+    flex-wrap: nowrap;
+    align-items: stretch;
+    gap: var(--space-8);
+  }
+
+  /* No min-width: 0 and no nowrap on purpose. The default min-width: auto
+     floors each half at its longest word, so the worst case is a label on
+     two lines - the text can never spill past the button's own edge. */
+  .reveal-bar .btn {
+    flex: 1 1 0;
+    padding-inline: var(--space-12);
+  }
+
+  /* btn-lg's taller block padding would leave the two halves unequal. */
+  .reveal-bar .btn-lg {
+    padding-block: var(--space-12);
+  }
+}
+
+/* Under 400px the halves are ~155px each; step the label down so
+   "Show everything" keeps clear of its own edges. */
+@media (max-width: 400px) {
+  .reveal-bar .btn {
+    font-size: var(--text-body-sm);
+    padding-inline: var(--space-8);
+  }
+}
+
 .lesson-dots {
   display: flex;
   gap: 6px;
@@ -1877,6 +2022,10 @@ input {
 }
 
 .q-context figcaption {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
   font-size: var(--text-caption);
   font-weight: var(--fw-bold);
   letter-spacing: 0.08em;
@@ -1885,11 +2034,64 @@ input {
   margin-bottom: 6px;
 }
 
+/* Marks which recording a context extract is spoken on. Plain (a span) on the answer
+   key, where there is no player to jump to; a button in the quiz, where clicking it
+   opens the recordings panel on that exact clip. */
+.q-track {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+  padding: 3px 9px;
+  border-radius: var(--r-pill);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: var(--accent);
+  background: none;
+  border: none;
+}
+
+button.q-track {
+  border: 1px solid var(--accent-tint);
+  font-family: inherit;
+  cursor: pointer;
+}
+
+button.q-track:hover {
+  background: var(--accent-wash);
+}
+
 .q-context blockquote {
   margin: 0;
   font-size: var(--text-body-sm);
   line-height: var(--leading-body);
   color: var(--ink-2);
+}
+
+/* A reference table reprinted for a question that needs it, distinct from the quoted
+   .q-context above it - dashed rather than solid, and a plain surface rather than the
+   tinted one, so it reads as "look this up" rather than "this is what you heard". */
+.q-recap {
+  margin: 0 0 var(--space-16);
+  padding: var(--space-12) var(--space-16);
+  background: var(--surface);
+  border: 1px dashed var(--line);
+  border-radius: var(--r-card);
+}
+
+.q-recap figcaption {
+  font-size: var(--text-caption);
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+
+.q-recap .table-wrap {
+  margin-top: 0;
 }
 
 .q-prompt {
@@ -2841,19 +3043,32 @@ input {
     width: 100%;
   }
 
-  .book-card {
+  /* flex already keeps all 3 segments in one row at any width - just
+     stack icon above label and drop the count so each fits. */
+  .shelf-tab {
     flex-direction: column;
+    justify-content: center;
+    gap: 4px;
+    padding: var(--space-8) var(--space-4);
+    text-align: center;
+  }
+
+  .shelf-tab-icon {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+  }
+
+  .shelf-tab-count {
+    display: none;
   }
 
   .book-cover img {
-    max-height: 190px;
+    max-height: 170px;
   }
 
   .book-cover {
-    width: auto;
-    padding: var(--space-20);
-    border-right: 0;
-    border-bottom: 1px solid var(--line-soft);
+    padding: var(--space-16) var(--space-20);
   }
 
   .book-body {

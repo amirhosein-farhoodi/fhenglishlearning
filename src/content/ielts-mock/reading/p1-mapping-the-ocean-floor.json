@@ -1,0 +1,79 @@
+{
+  "id": "p1-mapping-the-ocean-floor",
+  "slot": 1,
+  "title": "Charting the Deep",
+  "subtitle": "How scientists learned to see the floor of the ocean",
+  "topic": "Oceanography",
+  "paragraphs": [
+    { "text": "For most of human history, the floor of the ocean was less well known than the surface of the Moon, and in some respects it still is. Sunlight penetrates only a few hundred metres into seawater, so the deep seabed cannot simply be photographed from above. Its shape has had to be worked out indirectly, through steadily improving instruments - and one remarkable act of interpretation." },
+    { "text": "The oldest method was the simplest. Sailors lowered a weighted rope, known as a lead line, over the side of the ship and measured how much rope ran out before the weight touched the bottom. The base of the lead was often hollowed out and filled with tallow, a kind of animal fat, so that grains of sand or mud would stick to it and reveal the nature of the seabed. In shallow coastal waters this worked well enough, but in the open ocean it was painfully slow. When the British research ship HMS Challenger set out on its pioneering voyage around the world in 1872, a single deep sounding could take several hours, and currents frequently dragged the line sideways, so that more rope was paid out than the true depth of the water. Over almost four years the expedition made fewer than 500 deep soundings. One of them, taken in the western Pacific in 1875, recorded a depth of more than 8,000 metres, the first hint of the trench now known as the Challenger Deep." },
+    { "text": "The breakthrough came in the early twentieth century. In echo sounding, a ship sends a pulse of sound downwards and times how long the echo takes to return. Because sound travels through seawater at roughly 1,500 metres per second, the delay can be converted directly into a depth. Interest in underwater acoustics had been sharpened by the sinking of the Titanic in 1912 and by the submarine threat during the First World War, and by the 1920s practical echo sounders were being fitted to ships. Between 1925 and 1927 the German research vessel Meteor crossed the South Atlantic again and again, taking more than 60,000 depth measurements. Instead of the smooth, featureless basin that many had expected, its records revealed a rugged chain of mountains running down the middle of the ocean." },
+    { "text": "It was the interpretation of such data, rather than its collection, that led to the most important discovery. In the late 1940s and 1950s, Marie Tharp, a geologist and cartographer at Columbia University in New York, was given the task of turning thousands of echo-sounding profiles from the North Atlantic into a map. Women were not then permitted to join research cruises, so Tharp worked entirely from records gathered by others, chiefly her colleague Bruce Heezen. As she plotted profile after profile, she noticed something that had escaped everyone else: a deep, V-shaped valley running along the crest of the Mid-Atlantic Ridge. She concluded that it was a rift, a place where the Earth's crust was being pulled apart. Heezen was at first sceptical, since the idea appeared to support the theory of continental drift, which most geologists at the time dismissed as unscientific. He was won over only when the valley was shown to coincide with a narrow band of earthquake centres. Their later maps, culminating in a painted panorama of the entire world ocean floor in 1977, helped to make plate tectonics the accepted framework of modern geology." },
+    { "text": "Even so, a ship surveys only the narrow strip beneath it, and vast areas of the remote southern oceans had never been visited by a survey vessel. The next leap came from space. Satellites cannot see the seabed, but they can measure the height of the sea surface with extraordinary precision using radar. Because a large underwater mountain exerts a slightly stronger gravitational pull than the surrounding water, it draws extra water towards itself, creating a gentle bulge on the surface above. By mapping these bumps and dips, scientists can estimate the shape of the floor beneath. Much of the most useful early data came from a United States Navy satellite, Geosat, whose measurements were classified when they were collected in the 1980s and released to civilian researchers only in the mid-1990s. The resulting maps covered the entire globe for the first time, but they are blurred: features smaller than a few kilometres across are effectively invisible to the method." },
+    { "text": "For fine detail, scientists still depend on ships, which are now equipped with multibeam sonar. Rather than a single pulse aimed straight down, a multibeam system sends out a fan of hundreds of narrow beams, sweeping a strip of seabed that may be several times wider than the water is deep. Computers combine the returning echoes into a three-dimensional image sharp enough to reveal individual shipwrecks. The drawback is expense: research ships cost tens of thousands of dollars a day to operate, and mapping an entire ocean in this way would occupy a fleet of vessels for many years." },
+    { "text": "In 2017 an international project called Seabed 2030 was launched to coordinate these efforts, with the aim of producing a complete high-resolution map of the ocean floor by the end of the decade. When it began, only about six per cent of the seabed had been mapped to modern standards; that figure has since risen to roughly a quarter, helped by data contributed voluntarily by commercial ships, fishing boats and even private yachts. Whether the target will be met remains uncertain, but a fully mapped planet at last appears to be within reach." }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "The lead used for measuring depth was frequently adapted so that it could bring up material from the sea floor.",
+          "answer": "TRUE",
+          "evidence": "The base of the lead was often hollowed out and filled with tallow, a kind of animal fat, so that grains of sand or mud would stick to it"
+        },
+        {
+          "statement": "Ocean currents tended to make the depths recorded by HMS Challenger lower than they really were.",
+          "answer": "FALSE",
+          "evidence": "currents frequently dragged the line sideways, so that more rope was paid out than the true depth of the water",
+          "note": "More rope than the true depth means the readings were too great, not too low - the statement reverses the direction of the error."
+        },
+        {
+          "statement": "The first echo sounders were tested on military ships.",
+          "answer": "NOT GIVEN",
+          "note": "The text links interest in underwater sound to the Titanic and to submarines in the First World War, but says nothing about where or on what kind of ship echo sounders were first tested."
+        },
+        {
+          "statement": "Marie Tharp gathered much of her own data while working at sea.",
+          "answer": "FALSE",
+          "evidence": "Women were not then permitted to join research cruises, so Tharp worked entirely from records gathered by others",
+          "note": "Tharp did not go to sea at all; she worked only from data collected by others."
+        },
+        {
+          "statement": "Heezen accepted Tharp's interpretation after the valley was linked to the location of earthquakes.",
+          "answer": "TRUE",
+          "evidence": "He was won over only when the valley was shown to coincide with a narrow band of earthquake centres."
+        },
+        {
+          "statement": "Seabed 2030 is paid for mainly by commercial shipping companies.",
+          "answer": "NOT GIVEN",
+          "note": "The text says commercial ships contribute data voluntarily, but it says nothing about who funds the project."
+        }
+      ]
+    },
+    {
+      "type": "completion",
+      "layout": "table",
+      "limit": { "words": 2, "number": true },
+      "title": "Methods of mapping the ocean floor",
+      "table": {
+        "columns": ["Method", "How it works", "Problems / results"],
+        "rows": [
+          ["Lead line", "a weighted rope is lowered to the bottom; {1} placed in the base collects samples of the seabed", "in deep water, each measurement took {2}"],
+          ["Echo sounding", "the time taken for an echo to return is converted into depth (sound travels at about {3} metres per second in seawater)", "the Meteor found mountains in the South Atlantic where a smooth {4} had been predicted"],
+          ["Satellite measurement", "radar records the {5} of the sea surface, which is affected by the gravity of underwater features", "Geosat's data remained {6} until the mid-1990s; small features cannot be detected"],
+          ["Multibeam sonar", "a {7} of hundreds of beams covers a wide strip of seabed", "very detailed, but expensive and slow to cover a whole ocean"]
+        ]
+      },
+      "answers": [
+        { "accept": ["tallow", "animal fat"], "evidence": "filled with tallow, a kind of animal fat" },
+        { "accept": ["(several) hours"], "evidence": "a single deep sounding could take several hours" },
+        { "accept": ["1,500", "1500"], "evidence": "sound travels through seawater at roughly 1,500 metres per second" },
+        { "accept": ["basin", "featureless basin"], "evidence": "Instead of the smooth, featureless basin that many had expected" },
+        { "accept": ["height"], "evidence": "they can measure the height of the sea surface with extraordinary precision using radar" },
+        { "accept": ["classified"], "evidence": "whose measurements were classified when they were collected in the 1980s and released to civilian researchers only in the mid-1990s" },
+        { "accept": ["fan"], "evidence": "a multibeam system sends out a fan of hundreds of narrow beams" }
+      ]
+    }
+  ]
+}

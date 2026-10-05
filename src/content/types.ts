@@ -63,10 +63,35 @@ export interface ExerciseContext {
   label: string
   /** The extract itself. Supports the same inline markup as a prompt. */
   text: string
+  /**
+   * The unit media clip this extract is spoken on, matched against that clip's
+   * `label` (e.g. "Track 2"). Only set it when the extract really is a line from that
+   * recording - most contexts (grammar examples, invented scenarios) have no audio to
+   * point to. When set, the label renders as a jump straight to that clip.
+   */
+  track?: string
+}
+
+/**
+ * A compact reprint of a lesson table a question depends on, shown above the prompt
+ * next to any context. Some lessons teach a reference table (e.g. "what each IELTS
+ * Listening section sounds like") and then ask the learner to apply it - without this,
+ * that application would silently require remembering the table rather than reading
+ * it, breaking the same "nothing off-screen" rule ExerciseContext exists for.
+ * Duplicates the relevant lesson `table` block's columns/rows; there is no live link
+ * back to the lesson, so keep the two in sync by hand if the lesson table changes.
+ */
+export interface ExerciseRecap {
+  /** e.g. "From the lesson". */
+  label: string
+  columns: string[]
+  rows: string[][]
 }
 
 interface ExerciseBase {
   context?: ExerciseContext
+  /** Only exercises whose answer depends on a lesson's reference table need this. */
+  recap?: ExerciseRecap
 }
 
 export interface CompareSide {

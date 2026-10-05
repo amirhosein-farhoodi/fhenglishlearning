@@ -1,0 +1,218 @@
+{
+  "id": "p2-summer-camp",
+  "part": 2,
+  "title": "Children's summer camp",
+  "intro": "You will hear a talk given to new staff at a children's summer camp.",
+  "source": "British Council free IELTS Academic practice test",
+  "audio": "https://ok26.org/i/si28ap78",
+  "steps": [
+    {
+      "kind": "play",
+      "from": 376.8,
+      "to": 383.4
+    },
+    {
+      "kind": "read",
+      "seconds": 36.4,
+      "questions": [
+        1,
+        5
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 419.8,
+      "to": 548.5
+    },
+    {
+      "kind": "read",
+      "seconds": 40.3,
+      "questions": [
+        6,
+        10
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 588.8,
+      "to": 749.6
+    },
+    {
+      "kind": "check",
+      "seconds": 44.6
+    }
+  ],
+  "transcript": [
+    "You will hear a talk given to new staff at a children's summer camp.",
+    "Good morning everyone.",
+    "Welcome to all our staff on this summer's kids' camp.",
+    "In our orientation programme this morning I will introduce you to all the people you need to know at the camp.",
+    "They each have a different responsibility in the centre, so it's a good idea to make a note of who does what.",
+    "Well, first of all, you all know me, Jill Andrews, I'm the coordinator here.",
+    "The next person you need to know is Mary Brown.",
+    "She's our accommodation officer, so she deals with all the housekeeping matters concerning both the children's dormitories and your own accommodation wing.",
+    "Next we have John Stevens, who is our catering manager and he organises all the menus.",
+    "If you have any special dietary requirements, speak to John and he'll do his best to accommodate you.",
+    "We sometimes find that the children complain about not liking certain meals, so if there's a real problem, you should get John involved.",
+    "Then we have Alison Jones.",
+    "She plans all the excursions and does all the bookings for the tour buses, etc.",
+    "Alison also accompanies the children on the excursions and is responsible for making sure that the same number of children return to the centre as leave it.",
+    "Tim Smith is in charge of physical education.",
+    "He'll organise the big athletics carnival that we have at the end of the camp, but he'll also plan the individual training sessions for the kids.",
+    "We have to remember that exercise is one of the key features of this camp.",
+    "Last but not least is our wonderful Jenny James.",
+    "She looks after any of the children who are homesick or have problems getting on with other kids here, so don't feel you have to deal with those problems yourself.",
+    "A chat with Jenny usually does the trick.",
+    "You'll notice that this year we don't have a resident first aid person, instead we have a qualified nurse on call at all times should anyone fall ill.",
+    "rooms and facilities which are available, but first I've passed round some maps for you to look at while I explain everything.",
+    "So if you can start by locating the main hall, which is where we are at the moment, then we can all orientate ourselves.",
+    "Okay?",
+    "So, as you can see, the reception area is behind you, I'll come back to that section later.",
+    "Now, if you go out through these doors into the garden, you'll see a large building ahead of you which holds our sporting facilities.",
+    "There's a fully equipped gym, swimming pool and basketball court.",
+    "All of these are available to both staff and students, though most of the time they will be used by students under supervision.",
+    "Okay, so if we follow the path on the left of the garden area, this block is where the student accommodation is.",
+    "The first room is the student games room, and after that you'll see the boys accommodation and at the end the girls accommodation.",
+    "You'll be pleased to see the children's accommodation is in a separate building from the staff accommodation wing, which is just around the corner from the girls rooms, and you'll see you have your own recreational area on the right side of the building.",
+    "Now, following the path back down the other side of the garden area, you'll see the art and craft block.",
+    "The first room is where the children do pottery.",
+    "It's between the staff lounge and the art room.",
+    "We've tried to keep all these craft areas together.",
+    "We tend to find that the children really enjoy having the opportunity to use their creative talents on a holiday course such as this, which is why we have four different rooms.",
+    "Next comes the art room, followed by the general craft room, which contains a variety of equipment.",
+    "And the last one is the cookery room for all our budding chefs.",
+    "And then we're back to the main hall once again.",
+    "So, I hope you all have a pretty good idea of what's what.",
+    "Now, I'll leave you to have a look around, and we'll meet again for lunch."
+  ],
+  "groups": [
+    {
+      "type": "matching",
+      "kind": "features",
+      "optionsTitle": "Staff Responsibilities",
+      "reuse": false,
+      "extra": "What is each person responsible for?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Finance"
+        },
+        {
+          "key": "B",
+          "text": "Food"
+        },
+        {
+          "key": "C",
+          "text": "Health"
+        },
+        {
+          "key": "D",
+          "text": "Kids' Counselling"
+        },
+        {
+          "key": "E",
+          "text": "Organisation"
+        },
+        {
+          "key": "F",
+          "text": "Rooms"
+        },
+        {
+          "key": "G",
+          "text": "Sport"
+        },
+        {
+          "key": "H",
+          "text": "Trips"
+        }
+      ],
+      "items": [
+        {
+          "text": "Mary Brown",
+          "answer": "F",
+          "note": "\"She's our accommodation officer\" - housekeeping in the dormitories."
+        },
+        {
+          "text": "John Stevens",
+          "answer": "B",
+          "note": "\"Our catering manager and he organises all the menus.\""
+        },
+        {
+          "text": "Alison Jones",
+          "answer": "H",
+          "note": "\"She plans all the excursions.\""
+        },
+        {
+          "text": "Tim Smith",
+          "answer": "G",
+          "note": "\"In charge of physical education.\""
+        },
+        {
+          "text": "Jenny James",
+          "answer": "D",
+          "note": "\"She looks after any of the children who are homesick or have problems getting on with other kids.\""
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "kind": "features",
+      "optionsTitle": "Map of the camp",
+      "reuse": false,
+      "image": "/mock/listening/bc-academic-sample/camp-map-numbered.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cookery room"
+        },
+        {
+          "key": "B",
+          "text": "Games room"
+        },
+        {
+          "key": "C",
+          "text": "Kitchen"
+        },
+        {
+          "key": "D",
+          "text": "Pottery room"
+        },
+        {
+          "key": "E",
+          "text": "Sports complex"
+        },
+        {
+          "key": "F",
+          "text": "Staff accommodation"
+        }
+      ],
+      "items": [
+        {
+          "text": "Building marked 16 on the map",
+          "answer": "E",
+          "note": "\"Go out through these doors into the garden, you'll see a large building ahead of you which holds our sporting facilities.\""
+        },
+        {
+          "text": "Building marked 17 on the map",
+          "answer": "B",
+          "note": "\"The first room is the student games room, and after that you'll see the boys' accommodation.\""
+        },
+        {
+          "text": "Building marked 18 on the map",
+          "answer": "F",
+          "note": "\"The staff accommodation wing ... is just around the corner from the girls' rooms,\" with the staff lounge on its right."
+        },
+        {
+          "text": "Building marked 19 on the map",
+          "answer": "D",
+          "note": "\"The first room is where the children do pottery. It's between the staff lounge and the art room.\""
+        },
+        {
+          "text": "Building marked 20 on the map",
+          "answer": "A",
+          "note": "\"And the last one is the cookery room.\" Kitchen is never mentioned."
+        }
+      ]
+    }
+  ]
+}

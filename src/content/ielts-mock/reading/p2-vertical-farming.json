@@ -1,0 +1,170 @@
+{
+  "id": "p2-vertical-farming",
+  "slot": 2,
+  "title": "Growing Upwards",
+  "subtitle": "Vertical farms promise fresh food in the heart of the city - but can they pay their electricity bills?",
+  "topic": "Agriculture",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "On an industrial estate at the edge of a large city, a windowless warehouse hums quietly. Inside, there is no soil and no sunlight. Instead, shelves of lettuce, basil and kale rise in layers almost to the ceiling, bathed in an eerie pink light. This is vertical farming, and over the past fifteen years it has been promoted as an answer to some of the most pressing problems facing agriculture: a growing urban population, dwindling supplies of fresh water and a climate that is making harvests in the open field ever less predictable."
+    },
+    {
+      "label": "B",
+      "text": "The principle is straightforward, even if the engineering is not. The process typically begins in a nursery area, where seeds are germinated in small plugs of fibrous material rather than in soil. After a week or two, the seedlings are moved to the growing racks. Here their roots hang either in a shallow channel of water enriched with dissolved nutrients, a method known as hydroponics, or inside an enclosed chamber where they are sprayed at intervals with a fine nutrient mist, a technique called aeroponics. Above each layer, banks of light-emitting diodes (LEDs) supply light concentrated in the red and blue wavelengths that plants absorb most readily - hence the pink glow. Sensors track temperature, humidity and carbon dioxide levels around the clock, and software adjusts them to suit each crop. After as little as four weeks the plants are ready, and in the most advanced facilities they are harvested by machines."
+    },
+    {
+      "label": "C",
+      "text": "Advocates point to an impressive list of advantages. Because crops are stacked and grown continuously throughout the year, a vertical farm can produce many times more food per square metre of land than a conventional field. Water that the plants do not absorb is captured and recirculated, so that some operators claim to use up to 95 per cent less than outdoor growers. Since insects and plant diseases can largely be kept out of a sealed building, pesticides are seldom needed. And because farms can be sited close to the supermarkets they supply, produce can reach the shelves within hours of being picked, reducing both transport emissions and waste."
+    },
+    {
+      "label": "D",
+      "text": "The concept is older than many people realise. The term 'vertical farming' appeared in print as early as 1915, but the modern version of the idea took shape in the late 1990s, when a university professor in New York set his students the task of designing a skyscraper that could feed a city. The project was intended as a thought experiment, yet it captured the public imagination. Practical development was led initially by Japan, where so-called 'plant factories' multiplied after the 2011 nuclear accident at Fukushima heightened public anxiety about contaminated farmland. By the end of the 2010s, start-ups in North America and Europe were raising hundreds of millions of dollars at a time."
+    },
+    {
+      "label": "E",
+      "text": "The difficulty lies in a resource that conventional farmers take for granted. Sunlight is free; electric light is not. Even today's efficient LEDs typically convert only around half of the electricity they consume into light, and the rest is released as heat, which must then be removed by air-conditioning - consuming yet more power. Of the light that does reach the leaves, only a few per cent ends up stored as chemical energy in the plant. 'People tend to assume the lamps are the clever part,' says Dr Hanna Lindqvist, a plant physiologist at a Scandinavian agricultural university. 'In fact, every photon has to be paid for. Once you add the cost of producing the light to the cost of getting rid of the heat, a lettuce grown indoors can carry an energy bill many times that of one grown in a greenhouse.'"
+    },
+    {
+      "label": "F",
+      "text": "This arithmetic explains why vertical farms grow such a narrow range of produce. Leafy greens and herbs are ideal: they grow quickly, almost the whole plant can be eaten, and they sell for a high price per kilogram. Staple crops are a different matter. Wheat, rice and maize take months to mature, and much of each plant - the stalk, the leaves and the roots - is inedible, so most of the energy spent on growing them is effectively wasted. Some estimates suggest that a loaf made from wheat grown indoors would cost many times more than an ordinary one. The fragility of the business model was exposed in 2022, when energy prices soared across Europe. Within little more than a year, several well-funded companies had gone bankrupt, closed facilities or withdrawn from entire countries."
+    },
+    {
+      "label": "G",
+      "text": "None of this means that the industry has no future, but its supporters have become more modest in their claims. Some companies are now locating farms beside wind or solar installations, or running their lights at night, when electricity is cheapest. Plant breeders are developing compact varieties that thrive under artificial light, and hybrid systems, in which greenhouses rely on daylight and switch on lamps only when the sky is dull, are attracting renewed interest. In places where both land and water are scarce, such as Singapore or the Gulf states, the economics look more favourable, since the alternative is often to import fresh food by air. 'Vertical farms won't replace fields,' says Marcus Obi, an agricultural economist who advises investors in the sector. 'But as one part of a city's food supply, growing the things that don't travel well, they can earn their place.'"
+    }
+  ],
+  "groups": [
+    {
+      "type": "headings",
+      "headings": [
+        "A disaster that changed government farming policy",
+        "A hidden cost behind the glowing lights",
+        "How the crops are raised",
+        "Why city dwellers prefer locally grown food",
+        "A more limited ambition",
+        "From thought experiment to commercial venture",
+        "Doubts about the safety of food grown without soil",
+        "The case made by the industry's supporters",
+        "Why only certain crops make financial sense"
+      ],
+      "items": [
+        {
+          "paragraph": "B",
+          "answer": 2,
+          "evidence": "The process typically begins in a nursery area"
+        },
+        {
+          "paragraph": "C",
+          "answer": 7,
+          "evidence": "Advocates point to an impressive list of advantages."
+        },
+        {
+          "paragraph": "D",
+          "answer": 5,
+          "evidence": "The project was intended as a thought experiment, yet it captured the public imagination.",
+          "note": "The Fukushima accident is only one detail in the history; nothing is said about government policy, so heading i is a distractor."
+        },
+        {
+          "paragraph": "E",
+          "answer": 1,
+          "evidence": "Sunlight is free; electric light is not."
+        },
+        {
+          "paragraph": "F",
+          "answer": 8,
+          "evidence": "This arithmetic explains why vertical farms grow such a narrow range of produce."
+        },
+        {
+          "paragraph": "G",
+          "answer": 4,
+          "evidence": "its supporters have become more modest in their claims"
+        }
+      ]
+    },
+    {
+      "type": "completion",
+      "layout": "flowchart",
+      "title": "Producing a crop in a vertical farm",
+      "limit": {
+        "words": 1,
+        "number": false
+      },
+      "lines": [
+        "Seeds are germinated in plugs of fibrous material instead of {1}",
+        "After one or two weeks, young plants are moved to the growing racks",
+        "Roots take up nutrients either from a shallow channel of water or from a {2} that is sprayed onto them",
+        "LEDs give out mainly red and blue light, the colours plants {3} most easily",
+        "Conditions are checked continuously by {4} and adjusted by computer",
+        "Crops can be ready in as little as four weeks and are sometimes harvested by machine"
+      ],
+      "answers": [
+        {
+          "accept": [
+            "soil"
+          ],
+          "evidence": "rather than in soil"
+        },
+        {
+          "accept": [
+            "mist"
+          ],
+          "evidence": "sprayed at intervals with a fine nutrient mist"
+        },
+        {
+          "accept": [
+            "absorb"
+          ],
+          "evidence": "the red and blue wavelengths that plants absorb most readily"
+        },
+        {
+          "accept": [
+            "sensors"
+          ],
+          "evidence": "Sensors track temperature, humidity and carbon dioxide levels around the clock"
+        }
+      ]
+    },
+    {
+      "type": "mcq",
+      "items": [
+        {
+          "stem": "What does the writer say about water use in vertical farms?",
+          "options": [
+            "All of the water supplied is taken up by the plants.",
+            "Some producers say they need only a small fraction of the water used in fields.",
+            "The water must be replaced after every harvest.",
+            "Savings are only possible when farms are located near supermarkets."
+          ],
+          "answer": 1,
+          "evidence": "some operators claim to use up to 95 per cent less than outdoor growers",
+          "note": "A distorts 'water that the plants do not absorb'; D borrows 'supermarkets' from a different advantage."
+        },
+        {
+          "stem": "Dr Lindqvist's main point is that",
+          "options": [
+            "LED lamps are the most innovative feature of vertical farming.",
+            "the heat produced by the lamps could be used to warm the building.",
+            "greenhouse crops use more energy than is generally believed.",
+            "the true cost of supplying artificial light is often overlooked."
+          ],
+          "answer": 3,
+          "evidence": "every photon has to be paid for",
+          "note": "A is the assumption she rejects ('People tend to assume the lamps are the clever part'); the heat is a cost to be removed, not reused, so B is wrong."
+        },
+        {
+          "stem": "According to paragraph F, staple crops are poorly suited to vertical farms partly because",
+          "options": [
+            "a large part of each plant cannot be eaten.",
+            "they need more light than LEDs are able to provide.",
+            "consumers will not pay high prices for bread.",
+            "they were the crops most affected by the energy crisis of 2022."
+          ],
+          "answer": 0,
+          "evidence": "much of each plant - the stalk, the leaves and the roots - is inedible",
+          "note": "The loaf of bread is mentioned only as an estimate of cost, and the 2022 crisis affected the companies, not staple crops in particular."
+        }
+      ]
+    }
+  ]
+}

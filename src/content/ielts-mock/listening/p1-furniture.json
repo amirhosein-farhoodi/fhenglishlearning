@@ -1,0 +1,197 @@
+{
+  "id": "p1-furniture",
+  "part": 1,
+  "title": "Second-hand furniture",
+  "intro": "You will hear a woman phoning to enquire about some second-hand furniture.",
+  "source": "British Council free IELTS Academic practice test",
+  "audio": "https://ok26.org/i/si28ap78",
+  "steps": [
+    {
+      "kind": "play",
+      "from": 35.0,
+      "to": 44.0
+    },
+    {
+      "kind": "read",
+      "seconds": 45.3,
+      "questions": [
+        1,
+        7
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 89.3,
+      "to": 211.5
+    },
+    {
+      "kind": "read",
+      "seconds": 29.8,
+      "questions": [
+        8,
+        10
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 241.3,
+      "to": 317.4
+    },
+    {
+      "kind": "check",
+      "seconds": 59.9
+    }
+  ],
+  "transcript": [
+    "I'm calling about your advertisement in the local paper.",
+    "Oh, well, there were two ads, actually.",
+    "Was it the one for second-hand furniture?",
+    "That's right.",
+    "Yes.",
+    "Last Thursday?",
+    "Oh, yes.",
+    "Some of it's already gone, I'm afraid.",
+    "But what exactly were you interested in?",
+    "Mainly the dining room furniture, especially the table.",
+    "Has that gone yet?",
+    "Not yet.",
+    "Oh, good.",
+    "Can you tell me a bit about it?",
+    "Well, it's round.",
+    "I'm not sure of the exact measurements, but it's medium-sized.",
+    "It seats about six.",
+    "And how old is it?",
+    "Hmm, let's see, ten years.",
+    "No, it must be twelve by now.",
+    "And the advertisement said you were asking twenty-five pounds for that?",
+    "That's right.",
+    "And do you still have the dining chairs?",
+    "Yes.",
+    "It's a set of four chairs.",
+    "There were two more, but over the years a couple have disappeared.",
+    "What are they like?",
+    "Quite nice.",
+    "They've got upholstered seats.",
+    "You know, they're covered in material to make them more comfortable to sit on.",
+    "That's green, but you could change it, of course, if you wanted something different.",
+    "What sort of condition are they in?",
+    "I'd say reasonable.",
+    "They've had a bit of wear, and we're asking twenty pounds for those.",
+    "Right.",
+    "And the other thing I wanted to ask about was the desk.",
+    "Can you tell me roughly how long the top is so I know if it'll fit in my room?",
+    "Let's see, it's seventy-five centimetres high, I know, and the length's one metre twenty, and it's forty centimetres deep.",
+    "It's got three drawers, the top one's got a lock so you can keep your valuables there.",
+    "And you were asking fifty pounds for that?",
+    "Yes, it's a bit more, because it's in good condition.",
+    "OK.",
+    "Where do you live?",
+    "I'm in Stonethorpe.",
+    "Oh yes, I know where that is.",
+    "So can you give me the address?",
+    "It's three hundred and twenty-six Old Lane.",
+    "OK, Stonedthorpe.",
+    "And what would you say was the best way for me to get to the house?",
+    "Well, from the centre of Stonethorpe you take the main road going towards Hawcroft, and you pass the secondary school on your left, then at the crossroads you turn right.",
+    "Go straight down the road and you'll see a bank, and my house is just opposite.",
+    "If you get to the traffic lights you've gone too far and you'll have to turn back.",
+    "Good.",
+    "Got that.",
+    "I can keep the things till Friday, if you like, and then after that I'll let them go to someone else.",
+    "Oh, thanks.",
+    "I should be able to get round by then.",
+    "In fact, I've got Thursday off work.",
+    "And what would be the most convenient time for me to come?",
+    "We're usually out during the day till four or five.",
+    "That is the end of part one.",
+    "You now have one minute to check your answers to part one."
+  ],
+  "groups": [
+    {
+      "type": "completion",
+      "layout": "notes",
+      "limit": {
+        "words": 1,
+        "number": true
+      },
+      "title": "Phone call about second-hand furniture",
+      "lines": [
+        "# Items:",
+        "- Dining table: {1} shape, medium size, {2} old, price: £25.00",
+        "- Dining chairs: set of {3} chairs; seats covered in {4} material; in {5} condition; price: £20.00",
+        "- Desk: length 1 metre 20; 3 drawers. Top drawer has a {6}; price: £{7}",
+        "# Address:",
+        "- {8} Old Lane, Stonethorpe",
+        "# Directions:",
+        "- Take the Hawcroft road out of Stonethorpe. Go past the secondary school, then turn {9} at the crossroads. House is down this road, opposite the {10}."
+      ],
+      "answers": [
+        {
+          "accept": [
+            "round"
+          ],
+          "evidence": "Well, it's round."
+        },
+        {
+          "accept": [
+            "12 years",
+            "12",
+            "twelve"
+          ],
+          "note": "\"Ten years. No, it must be twelve by now.\""
+        },
+        {
+          "accept": [
+            "4",
+            "four"
+          ],
+          "note": "\"It's a set of four chairs.\" Two more have disappeared."
+        },
+        {
+          "accept": [
+            "green"
+          ],
+          "note": "\"That's green, but you could change it.\""
+        },
+        {
+          "accept": [
+            "reasonable"
+          ],
+          "note": "\"I'd say reasonable.\""
+        },
+        {
+          "accept": [
+            "lock"
+          ],
+          "note": "\"The top one's got a lock so you can keep your valuables there.\""
+        },
+        {
+          "accept": [
+            "50",
+            "50.00",
+            "fifty"
+          ],
+          "note": "\"And you were asking fifty pounds for that?\" \"Yes.\""
+        },
+        {
+          "accept": [
+            "326"
+          ],
+          "note": "\"It's three hundred and twenty-six Old Lane.\""
+        },
+        {
+          "accept": [
+            "right"
+          ],
+          "note": "\"At the crossroads you turn right.\""
+        },
+        {
+          "accept": [
+            "bank"
+          ],
+          "note": "\"You'll see a bank, and my house is just opposite.\""
+        }
+      ]
+    }
+  ]
+}

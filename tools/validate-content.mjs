@@ -53,17 +53,37 @@ function checkStr(f, obj, key, { optional = false, min = 1 } = {}) {
 const POINTS_ELSEWHERE =
   /\byou hear\s*[:*]|\b(?:in|from) the recording\b|\bon (?:your|the) (?:map|paper)\b|\bin the passage\b|\bthe (?:passage|text) (?:says|lists|attributes)\b/i
 
-function checkContext(xf, x) {
+function checkContext(xf, x, mediaLabels) {
   if (x.context !== undefined) {
     if (typeof x.context !== 'object' || x.context === null || Array.isArray(x.context))
       err(xf, 'context must be an object { label, text }')
     else {
       checkStr(`${xf}.context`, x.context, 'label')
       checkStr(`${xf}.context`, x.context, 'text')
+      checkStr(`${xf}.context`, x.context, 'track', { optional: true })
+      if (x.context.track && !mediaLabels.has(x.context.track))
+        err(`${xf}.context`, `track "${x.context.track}" does not match any unit media label (${[...mediaLabels].join(', ') || 'unit has no media'})`)
     }
   }
   if (!x.context && typeof x.prompt === 'string' && POINTS_ELSEWHERE.test(x.prompt))
     warn(xf, 'prompt points at something the learner cannot see - quote it in "context"')
+}
+
+function checkRecap(xf, x) {
+  if (x.recap === undefined) return
+  const r = x.recap
+  if (typeof r !== 'object' || r === null || Array.isArray(r)) {
+    err(xf, 'recap must be an object { label, columns, rows }')
+    return
+  }
+  checkStr(`${xf}.recap`, r, 'label')
+  if (!Array.isArray(r.columns) || r.columns.length === 0) err(`${xf}.recap`, 'columns must be a non-empty array')
+  if (!Array.isArray(r.rows) || r.rows.length === 0) err(`${xf}.recap`, 'rows must be a non-empty array')
+  else
+    r.rows.forEach((row, j) => {
+      if (!Array.isArray(row) || row.length !== r.columns?.length)
+        err(`${xf}.recap`, `row ${j} must have ${r.columns?.length} cells`)
+    })
 }
 
 function validateBook(dir, slug) {
@@ -194,10 +214,12 @@ function validateUnit(f, u, expectedNumber, bookTitles) {
 
   if (!Array.isArray(u.exercises) || u.exercises.length < 5) err(f, 'exercises must have at least 5 items')
   const types = new Set()
+  const mediaLabels = new Set((u.media ?? []).map((m) => m?.label).filter(Boolean))
   ;(u.exercises ?? []).forEach((x, i) => {
     const xf = `${f} exercises[${i}]`
     types.add(x.type)
-    checkContext(xf, x)
+    checkContext(xf, x, mediaLabels)
+    checkRecap(xf, x)
     switch (x.type) {
       case 'mcq':
         checkStr(xf, x, 'prompt')

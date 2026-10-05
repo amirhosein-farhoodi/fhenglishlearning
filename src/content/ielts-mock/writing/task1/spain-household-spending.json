@@ -1,0 +1,34 @@
+{
+  "id": "spain-household-spending",
+  "kind": "pie",
+  "prompt": "The charts below give information about how the average household in Spain divided its spending between seven categories in 1995 and 2020.",
+  "visuals": [
+    {
+      "type": "pie",
+      "title": "Household spending in Spain, 1995",
+      "slices": [
+        { "label": "Food and drink", "value": 32 },
+        { "label": "Housing", "value": 18 },
+        { "label": "Transport", "value": 12 },
+        { "label": "Clothing", "value": 11 },
+        { "label": "Leisure", "value": 9 },
+        { "label": "Health", "value": 4 },
+        { "label": "Other", "value": 14 }
+      ]
+    },
+    {
+      "type": "pie",
+      "title": "Household spending in Spain, 2020",
+      "slices": [
+        { "label": "Food and drink", "value": 19 },
+        { "label": "Housing", "value": 31 },
+        { "label": "Transport", "value": 14 },
+        { "label": "Clothing", "value": 6 },
+        { "label": "Leisure", "value": 13 },
+        { "label": "Health", "value": 6 },
+        { "label": "Other", "value": 11 }
+      ]
+    }
+  ],
+  "model": "The pie charts compare how the average Spanish household divided its spending between seven categories in 1995 and 2020.\n\nOverall, the most noticeable change was a shift away from food and drink towards housing, which replaced it as the largest area of expenditure. Spending on leisure also rose, whereas the share devoted to clothing fell.\n\nIn 1995, food and drink accounted for almost a third of household budgets (32%), well ahead of housing at 18%. By 2020, however, the positions had been reversed: housing costs had risen to 31% of spending, while the proportion allocated to food and drink had dropped to 19%.\n\nAmong the smaller categories, leisure grew from 9% to 13%, and transport rose slightly from 12% to 14%. Health, the smallest category in 1995, also increased, from 4% to 6%. In contrast, the share spent on clothing nearly halved, falling from 11% to 6%, so that by 2020 it was equal to the figure for health. Finally, miscellaneous 'other' expenses declined moderately, from 14% to 11% of the total."
+}

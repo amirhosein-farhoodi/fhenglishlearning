@@ -1,0 +1,86 @@
+{
+  "id": "p1-lighthouses",
+  "slot": 1,
+  "title": "Lights on the Edge of the Sea",
+  "subtitle": "How the lighthouse developed from a beacon fire into an unmanned machine",
+  "topic": "History",
+  "paragraphs": [
+    { "text": "For as long as people have put to sea, they have needed some way of knowing where the land begins. The earliest aids to navigation were nothing more elaborate than fires lit on hilltops and headlands by local people. The most celebrated early lighthouse was the Pharos of Alexandria. Completed around 280 BC on an island at the entrance to the Egyptian city's harbour, it may have stood more than 100 metres high. It survived for well over a thousand years until a series of earthquakes finally brought it down, and its name lives on in the word for 'lighthouse' in several European languages, including the French phare and the Italian faro." },
+    { "text": "The Romans spread the idea along the coasts of their empire. One of their towers still stands within the walls of Dover Castle, while the Tower of Hercules at A Coruña in north-western Spain, though extensively rebuilt in the eighteenth century, remains in service today. After the collapse of Roman rule, however, progress was slow. For many centuries most lights were simply open fires of wood or coal burning in iron baskets, or clusters of candles behind glass. Both were feeble and unreliable. A single coal fire could consume hundreds of tonnes of fuel a year and still be invisible to sailors in heavy rain." },
+    { "text": "Constructing the towers presented its own difficulties, nowhere more so than on isolated rocks, where the danger to shipping was greatest. The Eddystone reef, off Plymouth in south-west England, illustrates the point. The first lighthouse there, an ornate wooden structure designed by Henry Winstanley, was lit in 1698 but swept away five years later in a violent storm, taking its designer with it. Its successor, also built largely of timber, lasted almost half a century before it was destroyed by fire. The engineer John Smeaton then took a different approach. Modelling his tower on the trunk of an oak tree, he built it from granite blocks cut so that each one locked into its neighbours, and bonded them with a quick-setting lime that would harden even under water. Completed in 1759, Smeaton's tower stood for more than a hundred years and was dismantled only because the rock beneath it had begun to erode." },
+    { "text": "Lighting improved dramatically towards the end of the eighteenth century. In the 1780s the Swiss scientist Aimé Argand developed an oil lamp with a hollow, circular wick and a glass chimney, which drew air through the centre of the flame so that it burned far more brightly and with very little smoke. Mounted in front of polished metal reflectors, Argand lamps could send a concentrated beam towards the horizon. Yet the reflectors absorbed a large proportion of the light that fell on them, and keeping them free of tarnish was a never-ending task." },
+    { "text": "The decisive breakthrough came from France. In 1822 the physicist Augustin Fresnel presented a design for an entirely new kind of lens. A conventional lens large enough for a lighthouse would have had to be a thick slab of glass, enormously heavy and liable to absorb much of the light passing through it. Fresnel instead surrounded a relatively thin central lens with concentric rings of glass prisms, each angled so that light which would otherwise have escaped upwards or downwards was bent into a single horizontal beam. The first such lens was installed in the Cordouan lighthouse in south-west France in 1823, and within a few decades the design had been adopted around the world. Lenses were manufactured in several sizes, known as 'orders'. So that sailors could distinguish one lighthouse from another, many lenses were made to rotate, producing a characteristic sequence of flashes." },
+    { "text": "None of this worked without people. Until well into the twentieth century, a lighthouse could not be left unattended for a single night. Keepers trimmed wicks, topped up the oil, rewound the clockwork that turned the lens and spent their mornings polishing glass so that no film of soot would dim the light after dark. On remote rock stations they usually worked in teams of three, spending weeks at a stretch away from their families, and relief boats could be held up by bad weather for days. The work acquired a romantic reputation, strengthened by episodes such as the rescue carried out in 1838 by Grace Darling, a keeper's daughter who helped her father row through heavy seas to reach the survivors of a shipwreck. The reality, as keepers' own diaries reveal, was more often monotony and, for some, a loneliness that was hard to bear." },
+    { "text": "The twentieth century gradually made the keeper redundant. Electric lamps replaced oil, and devices were invented that could switch a light on at dusk and automatically replace a failed bulb. Lighthouse authorities gradually withdrew their staff, and in Britain the last keepers left North Foreland lighthouse in Kent in 1998. Today, satellite navigation means that most vessels seldom rely on lighthouses at all. Many, however, continue to operate, often with small, energy-efficient LED lamps, as a back-up in case electronic systems fail. A growing number of former keepers' cottages, meanwhile, have been converted into museums or holiday homes, attracting visitors who are drawn by the very isolation that once made the keepers' lives so hard." }
+  ],
+  "groups": [
+    {
+      "type": "completion",
+      "layout": "table",
+      "title": "Stages in the development of lighthouses",
+      "limit": { "words": 2, "number": false },
+      "table": {
+        "columns": ["Date", "Lighthouse or invention", "Details"],
+        "rows": [
+          ["c. 280 BC", "Pharos of Alexandria", "finally destroyed by a number of {1}"],
+          ["after Roman times", "open fires and candles", "coal fires might not be seen in bad weather such as {2}"],
+          ["1759", "Smeaton's Eddystone tower", "shape inspired by an {3}; granite blocks joined with {4}"],
+          ["1780s", "Argand lamp", "a hollow wick and a {5} gave a brighter, cleaner flame"],
+          ["1823", "Fresnel lens at Cordouan", "light directed into one beam by rings of {6}"]
+        ]
+      },
+      "answers": [
+        { "accept": ["earthquakes"], "evidence": "until a series of earthquakes finally brought it down" },
+        { "accept": ["(heavy) rain"], "evidence": "still be invisible to sailors in heavy rain" },
+        { "accept": ["oak tree", "oak"], "evidence": "Modelling his tower on the trunk of an oak tree" },
+        { "accept": ["quick-setting lime", "lime"], "evidence": "bonded them with a quick-setting lime that would harden even under water" },
+        { "accept": ["glass chimney", "chimney"], "evidence": "an oil lamp with a hollow, circular wick and a glass chimney" },
+        { "accept": ["(glass) prisms"], "evidence": "concentric rings of glass prisms" }
+      ]
+    },
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "Words used for a lighthouse in some modern languages come from the name of a structure built in ancient Egypt.",
+          "answer": "TRUE",
+          "evidence": "its name lives on in the word for 'lighthouse' in several European languages",
+          "note": "The Pharos was completed around 280 BC at the entrance to the harbour of Alexandria, 'the Egyptian city', so it was a structure built in ancient Egypt."
+        },
+        {
+          "statement": "The Tower of Hercules has remained largely unaltered since it was built by the Romans.",
+          "answer": "FALSE",
+          "evidence": "though extensively rebuilt in the eighteenth century",
+          "note": "The tower is still in use, but it was extensively rebuilt in the eighteenth century, so it has not remained unaltered."
+        },
+        {
+          "statement": "Henry Winstanley lost his life when his lighthouse was destroyed.",
+          "answer": "TRUE",
+          "evidence": "swept away five years later in a violent storm, taking its designer with it"
+        },
+        {
+          "statement": "Argand lamps were more expensive to run than the lights they replaced.",
+          "answer": "NOT GIVEN",
+          "note": "The text says the lamps were brighter and less smoky and that the reflectors needed constant polishing, but says nothing about running costs."
+        },
+        {
+          "statement": "Fresnel lenses were produced in a single standard size.",
+          "answer": "FALSE",
+          "evidence": "Lenses were manufactured in several sizes, known as 'orders'",
+          "note": "There were several sizes, not one."
+        },
+        {
+          "statement": "Keepers on rock stations were normally able to go home at the end of each week.",
+          "answer": "FALSE",
+          "evidence": "spending weeks at a stretch away from their families",
+          "note": "Keepers were away for several weeks at a time, not for a single week."
+        },
+        {
+          "statement": "Most former keepers' cottages are now used as museums.",
+          "answer": "NOT GIVEN",
+          "note": "The text says only that 'a growing number' have become museums or holiday homes; it gives no proportion and does not say whether this is most of them."
+        }
+      ]
+    }
+  ]
+}

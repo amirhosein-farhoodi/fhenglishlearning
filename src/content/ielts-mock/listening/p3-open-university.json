@@ -1,0 +1,84 @@
+{
+  "id": "p3-open-university",
+  "part": 3,
+  "title": "Studying with the Open University",
+  "intro": "You will hear two friends, Paul and Rachel, discussing studying with the Open University.",
+  "source": "British Council IELTS Listening sample task",
+  "audio": "https://ok26.org/i/91d7k3el",
+  "steps": [
+    {
+      "kind": "read",
+      "seconds": 25.2,
+      "questions": [
+        1,
+        4
+      ]
+    },
+    {
+      "kind": "play",
+      "from": 0,
+      "to": 84.4
+    },
+    {
+      "kind": "check",
+      "seconds": 30.0
+    }
+  ],
+  "transcript": [
+    "Paul: The other thing I wanted to ask you was, did you find it hard, studying with the Open University?",
+    "Rachel: You mean, because you’re studying on your own, most of the time?",
+    "Paul: Mm.",
+    "Rachel: Well, it took me a while to get used to it. I found I needed to maintain a high level of motivation because it’s so different from school. There’s no- one saying, ‘Why haven’t you written your assignment yet?’ and that sort of thing.",
+    "Paul: Oh dear.",
+    "Rachel: You’ll learn it, Paul. Another thing was that I got very good at time- management because I had to fit time for studying round a full-time job.",
+    "Paul: Well, I’m hoping to change to working part-time, so that’ll help.",
+    "Rachel: What makes it easier is that the degree is made up of modules, so you can take time off between them if you need to. It isn’t like a traditional three- or four-year course, where you’ve got to do the whole thing of it in one go.",
+    "Paul: That’s good, because I’d like to spend six months travelling next year.",
+    "Rachel: Huh, it’s all right for some. Then even though you’re mostly studying at home, remember you’ve got tutors to help you, and from time to time there are summer schools. They usually last a week. They’re great because you meet all the other people struggling with the same things as you. I’ve made some really good friends that way.",
+    "Paul: Sounds good. So how do I apply?"
+  ],
+  "groups": [
+    {
+      "type": "completion",
+      "layout": "sentences",
+      "limit": {
+        "words": 2,
+        "number": false
+      },
+      "lines": [
+        "Studying with the Open University demanded a great deal of {1}.",
+        "Studying and working at the same time improved Rachel's {2} skills.",
+        "It is helpful that the course was structured in {3}.",
+        "She enjoyed meeting other students at {4}."
+      ],
+      "answers": [
+        {
+          "accept": [
+            "motivation"
+          ],
+          "note": "\"I found I needed to maintain a high level of motivation.\""
+        },
+        {
+          "accept": [
+            "time management",
+            "time-management"
+          ],
+          "note": "\"I got very good at time-management.\""
+        },
+        {
+          "accept": [
+            "modules"
+          ],
+          "note": "\"The degree is made up of modules.\""
+        },
+        {
+          "accept": [
+            "summer schools",
+            "summer school"
+          ],
+          "note": "\"From time to time there are summer schools ... you meet all the other people.\""
+        }
+      ]
+    }
+  ]
+}

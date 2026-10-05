@@ -1,0 +1,105 @@
+{
+  "id": "p2-microplastics-soil",
+  "slot": 2,
+  "title": "Plastic in the Plough Layer",
+  "subtitle": "Scientists are only beginning to understand what happens when microplastics enter agricultural soil",
+  "topic": "Environment",
+  "paragraphs": [
+    { "label": "A", "text": "When people think of plastic pollution, they usually picture the ocean: bottles on beaches and floating debris in the Pacific. Yet a growing body of research suggests that farmland may hold more microplastics, the fragments smaller than five millimetres across, than the world's oceans do. One frequently quoted estimate puts the quantity of microplastics released into land environments each year at between four and twenty-three times the amount entering the sea, although such figures rest on many assumptions. What does seem clear is that agricultural soil has become a major sink for plastic waste." },
+    { "label": "B", "text": "One of the main routes by which microplastics reach fields is, ironically, a product of environmental good practice. Modern wastewater treatment plants are highly efficient at removing microplastics from water, often capturing more than 90 per cent of the particles that flow into them, many of them fibres shed from synthetic clothing. But the particles do not disappear; they become concentrated in the sewage sludge that remains after treatment. Because this sludge is rich in nitrogen and phosphorus, it is commonly spread on farmland as a fertiliser, a practice that recycles valuable nutrients and avoids landfill costs. A widely cited 2016 study calculated that between 63,000 and 430,000 tonnes of microplastics could be added to European farmland in this way every year." },
+    { "label": "C", "text": "A second source is deliberate. Across large parts of Asia, Europe and the Americas, farmers cover their fields with thin sheets of polyethylene known as mulch film. The film warms the soil, holds in moisture and suppresses weeds, and it can raise yields of crops such as cotton, maize and vegetables considerably. China alone uses more than a million tonnes of it every year. The difficulty lies in what happens after harvest. The thinnest films tear easily and are hard to collect, so fragments are frequently ploughed back into the ground, where sunlight, abrasion and changes in temperature slowly break them into ever smaller pieces. Biodegradable films have been developed as an alternative, but they are more expensive, and whether they break down fully under real field conditions, rather than in the laboratory, is still debated." },
+    { "label": "D", "text": "Smaller contributions come from a variety of other sources: particles worn from vehicle tyres and carried onto fields by wind and runoff, plastic coatings on slow-release fertilisers, contaminated compost, and even irrigation water drawn from polluted rivers. Taken together, these inputs mean that few fields are entirely free of plastic, and because most conventional plastics degrade so slowly, the amount in the soil tends to accumulate year after year." },
+    { "label": "E", "text": "What does all this plastic do once it is in the ground? Much of the early research focused on earthworms, which are often described as ecosystem engineers because their burrowing aerates the soil and their feeding mixes organic matter into it. In laboratory experiments, worms exposed to high concentrations of polyethylene particles grew more slowly and were more likely to die than worms kept in clean soil. At lower concentrations, however, many studies found no measurable effect at all. Earthworms also appear to act as carriers: by swallowing particles at the surface and excreting them further down, or by dragging them along their burrows, they move plastic into deeper layers of soil, from which it may eventually reach groundwater. 'The worm is both a victim and a vehicle,' says soil ecologist Dr Hanna Lindqvist." },
+    { "label": "F", "text": "Effects on crops are more complex still. Microplastic fibres can alter the physical structure of soil, loosening it and changing how much water it holds, and in some experiments this has actually improved root growth. In others, plants grown in contaminated soil produced less biomass, possibly because chemical additives leached out of the particles. Of particular concern are nanoplastics, particles so small that they can be absorbed by roots. Studies using fluorescently labelled particles have shown that these can travel from the roots of wheat and lettuce into the stems and leaves, raising the question of whether they could enter the human food chain. So far, though, there is no evidence that eating such crops harms human health." },
+    { "label": "G", "text": "Part of the reason for such mixed findings is that measuring microplastics in soil is extraordinarily difficult. Unlike water, soil is full of organic matter and mineral grains that must be separated from the plastic before anything can be counted, and the chemicals used to do this can damage the particles themselves. There is still no standard method, so results from different laboratories are hard to compare. 'Two teams can analyse samples from the same field and report figures that differ by an order of magnitude,' observes Professor Marco Bellini, an environmental chemist. Moreover, many experiments use clean, spherical beads of a single polymer at concentrations far higher than those found on farms, whereas real soil contains a mixture of fibres, fragments and films of many different plastics, often weathered." },
+    { "label": "H", "text": "None of this means that the problem can be ignored until the science is settled. Some countries have already begun to act: regulators are reviewing the rules on spreading sludge, and several governments have introduced minimum thickness standards for mulch film so that it can be retrieved more easily after harvest. Researchers argue, however, that the most effective measure would be to reduce the amount of plastic entering wastewater and fields in the first place, since once it is in the soil it is practically impossible to remove." }
+  ],
+  "groups": [
+    {
+      "type": "matching",
+      "kind": "information",
+      "options": [
+        { "key": "A", "text": "" },
+        { "key": "B", "text": "" },
+        { "key": "C", "text": "" },
+        { "key": "D", "text": "" },
+        { "key": "E", "text": "" },
+        { "key": "F", "text": "" },
+        { "key": "G", "text": "" },
+        { "key": "H", "text": "" }
+      ],
+      "reuse": false,
+      "items": [
+        {
+          "text": "a reason why farmers find a particular waste material useful",
+          "answer": "B",
+          "evidence": "Because this sludge is rich in nitrogen and phosphorus, it is commonly spread on farmland as a fertiliser"
+        },
+        {
+          "text": "a reference to the possibility that plastic particles could pass from food plants to people",
+          "answer": "F",
+          "evidence": "raising the question of whether they could enter the human food chain"
+        },
+        {
+          "text": "a description of how an animal moves plastic below the surface",
+          "answer": "E",
+          "evidence": "by swallowing particles at the surface and excreting them further down, or by dragging them along their burrows, they move plastic into deeper layers of soil"
+        },
+        {
+          "text": "an example of an official rule intended to make plastic easier to remove from fields",
+          "answer": "H",
+          "evidence": "several governments have introduced minimum thickness standards for mulch film so that it can be retrieved more easily"
+        },
+        {
+          "text": "a comparison between the amounts of plastic reaching land and reaching the sea",
+          "answer": "A",
+          "evidence": "between four and twenty-three times the amount entering the sea"
+        }
+      ]
+    },
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "Wastewater treatment plants allow the majority of microplastics to pass through them.",
+          "answer": "FALSE",
+          "evidence": "often capturing more than 90 per cent of the particles that flow into them",
+          "note": "The plants retain most particles; the problem is that the retained particles end up in sludge, not that they pass through."
+        },
+        {
+          "statement": "Mulch film helps soil to retain water.",
+          "answer": "TRUE",
+          "evidence": "The film warms the soil, holds in moisture and suppresses weeds"
+        },
+        {
+          "statement": "Of the minor sources of soil microplastics, tyre particles contribute the largest amount.",
+          "answer": "NOT GIVEN",
+          "note": "Tyre particles are listed first among the 'smaller contributions', but the text does not rank these sources by size."
+        },
+        {
+          "statement": "Laboratory studies have consistently shown that microplastics harm earthworms, whatever the concentration.",
+          "answer": "FALSE",
+          "evidence": "At lower concentrations, however, many studies found no measurable effect at all.",
+          "note": "Harm was found at high concentrations only; the qualifier 'whatever the concentration' is contradicted."
+        }
+      ]
+    },
+    {
+      "type": "completion",
+      "layout": "sentences",
+      "limit": { "words": 2, "number": false },
+      "lines": [
+        "In some experiments, the way microplastic fibres changed soil structure resulted in better {1} growth.",
+        "Reduced plant growth in other studies may have been caused by chemical {2} escaping from the plastic.",
+        "Scientists have used {3} particles to follow the movement of nanoplastics inside plants.",
+        "It is hard to compare results from different laboratories because there is no {4} for measuring microplastics in soil."
+      ],
+      "answers": [
+        { "accept": ["root"], "evidence": "in some experiments this has actually improved root growth" },
+        { "accept": ["additives"], "evidence": "possibly because chemical additives leached out of the particles" },
+        { "accept": ["(fluorescently) labelled", "(fluorescently) labeled"], "evidence": "Studies using fluorescently labelled particles have shown that these can travel from the roots of wheat and lettuce" },
+        { "accept": ["standard method"], "evidence": "There is still no standard method, so results from different laboratories are hard to compare." }
+      ]
+    }
+  ]
+}

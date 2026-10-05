@@ -142,8 +142,18 @@ function VideoClip({ clip }: { clip: MediaClip }) {
   )
 }
 
-export default function MediaPanel({ media, compact = false }: { media: MediaClip[]; compact?: boolean }) {
-  const [active, setActive] = useState(0)
+interface Props {
+  media: MediaClip[]
+  compact?: boolean
+  /** Controlled active-clip index; omit to let the panel manage its own (the default). */
+  active?: number
+  onActiveChange?: (index: number) => void
+}
+
+export default function MediaPanel({ media, compact = false, active: activeProp, onActiveChange }: Props) {
+  const [activeState, setActiveState] = useState(0)
+  const active = activeProp ?? activeState
+  const setActive = onActiveChange ?? setActiveState
   const clip = media[active]
   const kinds = useMemo(() => new Set(media.map((m) => m.kind)), [media])
 

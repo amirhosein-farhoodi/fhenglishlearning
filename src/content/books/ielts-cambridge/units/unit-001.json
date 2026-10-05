@@ -174,7 +174,18 @@
       "type": "mcq",
       "context": {
         "label": "The introduction you hear before the section",
-        "text": "*You will hear a conversation between a student and a lecturer about an assignment.*"
+        "text": "*You will hear a conversation between a student and a lecturer about an assignment.*",
+        "track": "Track 2"
+      },
+      "recap": {
+        "label": "From the lesson",
+        "columns": ["Section", "Speakers", "Situation"],
+        "rows": [
+          ["1", "two", "An everyday conversation - booking, enquiring, arranging"],
+          ["2", "one", "A monologue on a general topic - a tour, a radio talk"],
+          ["3", "two or three", "An academic conversation - students and a tutor"],
+          ["4", "one", "An academic monologue - a lecture"]
+        ]
       },
       "prompt": "Which Listening section is this most likely to be?",
       "options": [

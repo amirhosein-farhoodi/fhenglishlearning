@@ -1,0 +1,83 @@
+{
+  "id": "p1-murano-glass",
+  "slot": 1,
+  "title": "The glassmakers of Murano",
+  "subtitle": "How a small island in the Venetian lagoon became the centre of European glass-making",
+  "topic": "History",
+  "paragraphs": [
+    { "text": "Visitors who take the short boat ride from Venice to the island of Murano soon notice the heat. Behind the shopfronts along its canals, furnaces burn day and night, and through open doorways it is possible to watch craftsmen turning glowing lumps of molten material into vases, figurines and goblets. The island has been associated with glass for more than seven centuries, and its name has become a byword for fine decorative glassware." },
+    { "text": "Glass had been made in the Venetian lagoon long before Murano became famous for it; archaeologists have found the remains of a glass workshop on the nearby island of Torcello dating from the seventh or eighth century. By the thirteenth century, glassworking was an established trade in Venice itself, and the craftsmen had organised themselves into a guild, whose rules were set down in writing in 1271. In 1291, however, the government of the Venetian Republic ordered that almost all furnaces be moved out of the city to Murano. The official reason was the danger of fire: Venice was a crowded city with many wooden buildings, and a single accident could destroy an entire neighbourhood. Historians have suggested that the move also made it easier for the authorities to keep watch over an industry whose secrets were becoming extremely valuable." },
+    { "text": "Those secrets were guarded with remarkable severity. Glassmakers enjoyed a social standing far above that of most artisans, and their daughters were permitted to marry into the city's aristocratic families, with any children keeping their noble status. In return for these privileges, however, master glassmakers were forbidden to leave the Republic. Those who tried to set up workshops abroad risked heavy penalties. Despite these measures, skilled workers did escape, and by the sixteenth century glass 'in the Venetian manner' was being produced in cities across northern Europe." },
+    { "text": "The island's reputation rested on a series of technical breakthroughs. The most important came in the mid-fifteenth century, when Angelo Barovier, a member of one of Murano's oldest glassmaking families, is credited with developing cristallo, a glass so clear and colourless that it resembled rock crystal. Ordinary glass of the period had a greenish or brownish tint caused by impurities in its raw materials. The Murano makers achieved their clarity by using ash from plants imported from the eastern Mediterranean as a source of soda, which they purified carefully before mixing it with finely ground quartz pebbles from rivers in northern Italy. The resulting glass was also thin and light, which allowed craftsmen to create elaborate shapes." },
+    { "text": "Other innovations followed. Lattimo, an opaque white glass intended to imitate the porcelain then being imported at great expense from China, was produced from the late fifteenth century. Later, makers perfected filigrana, a technique in which fine rods of white or coloured glass are embedded in clear glass to create patterns of lines and spirals. Murano was also, for a time, Europe's leading source of mirrors. In the sixteenth century its workshops learned to back flat glass with an alloy of tin and mercury, producing mirrors of a quality that made them luxury items across the continent. This monopoly was finally broken in the 1660s, when the French government persuaded several Murano craftsmen to move to Paris; their expertise later contributed to the famous Hall of Mirrors at Versailles." },
+    { "text": "The techniques used today are, in essentials, those of the Renaissance. A batch of raw materials is melted in a furnace at temperatures above 1,000°C. The glassmaker then collects a quantity of molten glass, known as a gather, on the end of a long hollow iron blowpipe. By blowing into the pipe while turning it constantly, he inflates the glass into a bubble, which is shaped by rolling it on a flat steel or marble surface called a marver. Because glass stiffens rapidly as it cools, the piece must be returned to the furnace again and again. Larger objects are made by a team led by a master, the maestro, who is assisted by several less experienced workers. Once complete, every piece is placed in an annealing oven, where it is cooled slowly over many hours; without this stage, internal stresses would cause it to crack." },
+    { "text": "The fall of the Venetian Republic in 1797 brought a long period of decline. Under foreign rule, the old guild was abolished, foreign competition intensified and many furnaces closed. Recovery began in the middle of the nineteenth century, helped by the founding of the island's glass museum in 1861 and by entrepreneurs who revived historic techniques and found new customers among wealthy tourists." },
+    { "text": "Today the industry faces new difficulties. Cheap imitations, many made abroad and sold to visitors as genuine, have damaged the reputation of local workshops, and in 1994 a regional law created a trademark, 'Vetro Artistico Murano', to certify authentic pieces. More recently, sharp rises in the price of natural gas, which fuels the furnaces, have forced some firms to reduce production or close temporarily. The number of people employed in glassmaking has fallen considerably in recent decades, and some observers fear that skills passed down through generations may be lost. Others point out that Murano has survived crises before, and that demand for objects made by hand shows little sign of disappearing." }
+  ],
+  "groups": [
+    {
+      "type": "completion",
+      "layout": "notes",
+      "limit": { "words": 2, "number": false },
+      "title": "Glass-making on Murano",
+      "lines": [
+        "# Early history",
+        "- 7th or 8th century: a glass workshop already existed on {1}",
+        "- 1291: furnaces relocated to Murano - the official justification was the risk of {2}",
+        "# Innovations",
+        "- cristallo (mid-15th century): soda obtained from the {3} of imported plants",
+        "- the silica came from crushed {4} found in Italian rivers",
+        "- lattimo: a white glass designed to look like Chinese {5}",
+        "- mirrors (16th century): glass coated with a mixture of tin and {6}",
+        "# The production process",
+        "- the hot glass is formed on a flat working surface known as a {7}"
+      ],
+      "answers": [
+        { "accept": ["Torcello"], "evidence": "archaeologists have found the remains of a glass workshop on the nearby island of Torcello dating from the seventh or eighth century" },
+        { "accept": ["fire"], "evidence": "The official reason was the danger of fire" },
+        { "accept": ["ash"], "evidence": "by using ash from plants imported from the eastern Mediterranean as a source of soda" },
+        { "accept": ["(quartz) pebbles", "quartz"], "evidence": "finely ground quartz pebbles from rivers in northern Italy" },
+        { "accept": ["porcelain"], "evidence": "an opaque white glass intended to imitate the porcelain then being imported at great expense from China" },
+        { "accept": ["mercury"], "evidence": "back flat glass with an alloy of tin and mercury" },
+        { "accept": ["marver"], "evidence": "rolling it on a flat steel or marble surface called a marver" }
+      ]
+    },
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "Before 1291, Venetian glassworkers already belonged to a professional body with its own regulations.",
+          "answer": "TRUE",
+          "evidence": "the craftsmen had organised themselves into a guild, whose rules were set down in writing in 1271"
+        },
+        {
+          "statement": "The Venetian authorities allowed master glassmakers to settle outside the Republic.",
+          "answer": "FALSE",
+          "evidence": "master glassmakers were forbidden to leave the Republic",
+          "note": "The text says they were forbidden to leave; the fact that some escaped does not mean they were allowed to."
+        },
+        {
+          "statement": "Cristallo was more costly to manufacture than any other glass made in Europe at the time.",
+          "answer": "NOT GIVEN",
+          "note": "The passage describes how cristallo was made and what it looked like, but says nothing about its cost compared with other European glass."
+        },
+        {
+          "statement": "Lattimo was already being made before the filigrana technique had been fully developed.",
+          "answer": "TRUE",
+          "evidence": "was produced from the late fifteenth century. Later, makers perfected filigrana"
+        },
+        {
+          "statement": "Murano kept its European monopoly on high-quality mirrors until the eighteenth century.",
+          "answer": "FALSE",
+          "evidence": "This monopoly was finally broken in the 1660s",
+          "note": "The 1660s are in the seventeenth century, so Murano's monopoly ended earlier than the statement claims."
+        },
+        {
+          "statement": "Since the trademark was introduced, fewer fake Murano products have been sold.",
+          "answer": "NOT GIVEN",
+          "note": "The passage says the 1994 trademark was created to certify authentic pieces, but gives no information about its effect on sales of imitations."
+        }
+      ]
+    }
+  ]
+}

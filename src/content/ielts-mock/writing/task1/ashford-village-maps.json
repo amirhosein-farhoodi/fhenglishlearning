@@ -1,0 +1,41 @@
+{
+  "id": "ashford-village-maps",
+  "kind": "map",
+  "prompt": "The maps below show the village of Ashford in 1995 and today.",
+  "visuals": [
+    {
+      "type": "map",
+      "title": "Ashford in 1995",
+      "features": [
+        { "label": "River Ash", "x": 0, "y": 0, "w": 12, "h": 1.5, "kind": "water" },
+        { "label": "Farmland", "x": 0.5, "y": 2, "w": 4.5, "h": 2.5, "kind": "green" },
+        { "label": "Church", "x": 6, "y": 2.5, "w": 1.5, "h": 1.5, "kind": "building" },
+        { "label": "Shops", "x": 8.5, "y": 3, "w": 3, "h": 1.5, "kind": "building" },
+        { "label": "Main Road", "x": 0, "y": 5, "w": 12, "h": 1, "kind": "road" },
+        { "label": "Houses", "x": 1, "y": 7, "w": 3, "h": 2, "kind": "building" },
+        { "label": "School", "x": 6, "y": 7, "w": 2, "h": 2, "kind": "building" },
+        { "label": "Forest", "x": 8.5, "y": 6.5, "w": 3.5, "h": 5.5, "kind": "green" },
+        { "label": "Fields", "x": 0, "y": 10, "w": 8, "h": 2, "kind": "green" }
+      ]
+    },
+    {
+      "type": "map",
+      "title": "Ashford today",
+      "features": [
+        { "label": "River Ash", "x": 0, "y": 0, "w": 12, "h": 1.5, "kind": "water" },
+        { "label": "Housing estate", "x": 0.5, "y": 2, "w": 4, "h": 2.5, "kind": "building" },
+        { "label": "New road", "x": 5, "y": 1.5, "w": 0.6, "h": 3.5, "kind": "road" },
+        { "label": "Church", "x": 6, "y": 2.5, "w": 1.5, "h": 1.5, "kind": "building" },
+        { "label": "Supermarket", "x": 8.5, "y": 2, "w": 3, "h": 1.5, "kind": "building" },
+        { "label": "Car park", "x": 8.5, "y": 3.8, "w": 3, "h": 1, "kind": "road" },
+        { "label": "Main Road", "x": 0, "y": 5, "w": 12, "h": 1, "kind": "road" },
+        { "label": "Houses", "x": 1, "y": 7, "w": 3, "h": 2, "kind": "building" },
+        { "label": "School", "x": 6, "y": 7, "w": 2, "h": 3.5, "kind": "building" },
+        { "label": "Sports centre", "x": 8.5, "y": 6.5, "w": 3.5, "h": 1.5, "kind": "building" },
+        { "label": "Forest", "x": 8.5, "y": 8.5, "w": 3.5, "h": 3.5, "kind": "green" },
+        { "label": "Park", "x": 0, "y": 10, "w": 5, "h": 2, "kind": "green" }
+      ]
+    }
+  ],
+  "model": "The maps illustrate the changes that have taken place in the village of Ashford between 1995 and the present day.\n\nOverall, Ashford has become considerably more developed, with new housing, shopping and leisure facilities replacing much of its open land. However, the basic layout of the village, with the River Ash along its northern edge and Main Road running east to west through the centre, has remained the same.\n\nNorth of Main Road, the farmland that once occupied the north-west of the village has been replaced by a housing estate, and a new road has been built just east of it, leading from Main Road up to the river. The church is unchanged, but the shops in the north-east have been demolished to make way for a supermarket with its own car park.\n\nSouth of Main Road, the original houses are still standing, while the school has been extended southwards and is now almost twice its former size. The fields along the southern edge have disappeared, and a smaller park now occupies the south-west corner. In the south-east, the northern part of the forest has been cleared to build a sports centre, leaving a much smaller area of woodland."
+}

@@ -1,5 +1,6 @@
 import type { Exercise } from '../../content/types'
 import ContextBlock from './ContextBlock'
+import RecapChip from './RecapChip'
 import Mcq from './Mcq'
 import TrueFalse from './TrueFalse'
 import FillBlank from './FillBlank'
@@ -12,9 +13,10 @@ interface Props {
   exercise: Exercise
   seed: number
   onResult: (correct: boolean) => void
+  onTrackClick?: (track: string) => void
 }
 
-export default function ExerciseView({ exercise, seed, onResult }: Props) {
+export default function ExerciseView({ exercise, seed, onResult, onTrackClick }: Props) {
   const meta = TYPE_LABEL[exercise.type]
   let body
   switch (exercise.type) {
@@ -42,7 +44,8 @@ export default function ExerciseView({ exercise, seed, onResult }: Props) {
       <span className="q-type">
         <span aria-hidden="true">{meta.icon}</span> {meta.label}
       </span>
-      <ContextBlock context={exercise.context} />
+      <ContextBlock context={exercise.context} onTrackClick={onTrackClick} />
+      <RecapChip recap={exercise.recap} />
       {body}
     </div>
   )

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import ContextBlock from '../components/exercises/ContextBlock'
+import RecapChip from '../components/exercises/RecapChip'
 import { explanationOf, solutionLines, TYPE_LABEL } from '../components/exercises/solution'
 import { getBook, loadUnit, nextAvailableUnit } from '../content/registry'
 import type { Exercise, Unit } from '../content/types'
@@ -75,6 +76,7 @@ export default function Review() {
                 {i + 1} · {TYPE_LABEL[x.type].icon} {TYPE_LABEL[x.type].label}
               </div>
               <ContextBlock context={x.context} />
+              <RecapChip recap={x.recap} />
               <p className="q-prompt">{renderInline(questionText(x))}</p>
               <div className="review-answer">
                 {solutionLines(x).length === 1 ? (

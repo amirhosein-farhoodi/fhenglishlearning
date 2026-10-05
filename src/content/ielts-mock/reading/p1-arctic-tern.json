@@ -1,0 +1,137 @@
+{
+  "id": "p1-arctic-tern",
+  "slot": 1,
+  "title": "The pole-to-pole traveller",
+  "subtitle": "How scientists finally mapped the longest migration in the animal kingdom",
+  "topic": "Biology",
+  "paragraphs": [
+    {
+      "text": "Few creatures embody the idea of endurance as completely as the Arctic tern (*Sterna paradisaea*). Slender and pale grey, with a black cap and a blood-red bill, it weighs little more than 100 grams. Yet every year this modest seabird travels from its breeding grounds in the far north to the edge of the Antarctic pack ice and back again, a journey that makes it the undisputed champion of animal migration. Because it leaves the northern summer just as the southern one is beginning, the tern is thought to experience more daylight than any other living thing."
+    },
+    {
+      "text": "The bird's extraordinary range has been suspected for well over a century. From the early 1900s, ornithologists began fitting small numbered metal rings to the legs of chicks, in the hope that someone, somewhere, would one day find and report them. Occasionally the method paid off spectacularly: a tern ringed as a chick on the coast of Labrador in 1928 was recovered in South Africa only a few months later. Such records confirmed that the species crossed oceans, but they revealed nothing about the route between the two points. A ringed bird is, in effect, a postcard with a sender's address and a final destination but no indication of how it was delivered. Moreover, the vast majority of rings were never seen again."
+    },
+    {
+      "text": "For decades, therefore, estimates of the distance the terns covered were little more than educated guesses, usually assuming that the birds took the most direct line along the Atlantic coasts. The figure most often quoted in textbooks was around 40,000 kilometres a year. Only when tracking devices became small enough to be carried by such a light bird did it become possible to test that assumption."
+    },
+    {
+      "text": "The breakthrough came with the geolocator, a device that does not communicate with satellites at all. Instead, it simply records the intensity of light at regular intervals and stores the readings, along with the time, on a memory chip. Researchers can work out the length of each day, which indicates latitude, and the precise moment of local midday, which reveals longitude. The models fitted to the terns weighed just 1.4 grams, less than two per cent of the bird's body weight, and were attached to a plastic ring on the leg. Positions are accurate only to within about 180 kilometres, and for a few weeks around the spring and autumn equinoxes, when day and night are of roughly equal length all over the globe, latitude cannot be calculated at all. More awkwardly, because the device stores rather than sends its data, the bird has to be caught again the following year before anything can be learnt."
+    },
+    {
+      "text": "In 2007, an international team fitted geolocators to fifty adult terns nesting in eastern Greenland and Iceland. A year later they returned to the colonies, which the birds faithfully revisit, and managed to recover eleven of the devices. The data showed that the birds had flown an average of about 70,900 kilometres during the year, with one individual covering more than 81,000. Far from following the shortest route, the terns had travelled in a series of great loops."
+    },
+    {
+      "text": "After leaving their colonies in August and September, the birds did not head straight south. Instead, almost all of them paused for several weeks in the middle of the North Atlantic, north of the Azores. This region, where cold and warm waters meet, is unusually rich in plankton and small fish, and the terns appear to use it as a refuelling station before the long haul ahead. From there the population divided: some birds continued down the coast of West Africa, while others crossed the Atlantic and followed the coast of Brazil. Both groups eventually reached the Weddell Sea, off Antarctica, where they spent the southern summer feeding among the drifting ice."
+    },
+    {
+      "text": "The return journey proved even more surprising. In April the terns set off north, but instead of retracing their outward route, they followed a huge S-shaped path through the Atlantic. Researchers believe this apparently roundabout course allows the birds to take advantage of the prevailing wind systems, which circulate anticlockwise in the South Atlantic and clockwise in the North Atlantic. Riding these winds, the terns completed the northward flight in around 40 days, less than half the time they had taken to fly south, and without a major stopover."
+    },
+    {
+      "text": "Terns tagged in the Netherlands, near the southern edge of the species' breeding range, were found to take an even longer route, some travelling across the Indian Ocean towards Australia before heading on to Antarctica; one bird logged around 90,000 kilometres in a single year. Since Arctic terns may live for 30 years or more, a long-lived individual could fly well over two million kilometres in its lifetime – the equivalent of travelling to the Moon and back about three times."
+    },
+    {
+      "text": "For conservationists, these findings are more than a curiosity. A species that depends on several widely separated parts of the ocean is vulnerable to change in any one of them, and the mid-Atlantic stopover in particular has emerged as a site that may deserve protection. Arctic terns remain numerous, but some colonies have declined sharply, and scientists do not yet know whether warming seas are reducing the food on which the birds' journeys depend."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "items": [
+        {
+          "statement": "The Arctic tern is believed to see more hours of light each year than any other animal.",
+          "answer": "TRUE",
+          "evidence": "the tern is thought to experience more daylight than any other living thing"
+        },
+        {
+          "statement": "The bird ringed in Labrador provided the first proof that Arctic terns travel as far as Africa.",
+          "answer": "NOT GIVEN",
+          "note": "The text calls the Labrador recovery spectacular and says 'such records' showed terns crossed oceans, but never says it was the first evidence of terns reaching Africa."
+        },
+        {
+          "statement": "Most of the rings fitted to tern chicks were eventually found and reported.",
+          "answer": "FALSE",
+          "evidence": "the vast majority of rings were never seen again",
+          "note": "The trap is 'Occasionally the method paid off spectacularly' - success was the exception, not the rule."
+        },
+        {
+          "statement": "Early calculations of the terns' annual journey generally assumed that the birds flew the shortest possible course.",
+          "answer": "TRUE",
+          "evidence": "usually assuming that the birds took the most direct line along the Atlantic coasts"
+        },
+        {
+          "statement": "Geolocators allow researchers to follow a tern's position while it is still migrating.",
+          "answer": "FALSE",
+          "evidence": "because the device stores rather than sends its data, the bird has to be caught again the following year before anything can be learnt",
+          "note": "The data can only be read after the bird is recaptured a year later, so positions cannot be followed during the journey."
+        },
+        {
+          "statement": "Some of the terns carrying geolocators failed to breed successfully the following year.",
+          "answer": "NOT GIVEN",
+          "note": "The passage says only eleven of fifty devices were recovered, but gives no information on whether the tagged birds bred successfully or why the others were not recovered."
+        },
+        {
+          "statement": "Terns usually go back to the same breeding site each year.",
+          "answer": "TRUE",
+          "evidence": "they returned to the colonies, which the birds faithfully revisit"
+        }
+      ]
+    },
+    {
+      "type": "completion",
+      "layout": "sentences",
+      "limit": {
+        "words": 2,
+        "number": false
+      },
+      "lines": [
+        "Knowing exactly when the sun reached its highest point each day enables scientists to calculate a bird's {1}.",
+        "Each geolocator was fastened to a {2} around the tern's leg.",
+        "The terns' stopping place in the North Atlantic offers an abundant supply of plankton and {3}.",
+        "Both groups of terns spent the southern summer in the {4}, where they fed among floating ice.",
+        "The S-shaped route taken by the returning terns enables them to make use of the prevailing {5}.",
+        "Some terns from the Netherlands flew across the {6} before continuing to Antarctica."
+      ],
+      "answers": [
+        {
+          "accept": [
+            "longitude"
+          ],
+          "evidence": "the precise moment of local midday, which reveals longitude"
+        },
+        {
+          "accept": [
+            "(plastic) ring"
+          ],
+          "evidence": "were attached to a plastic ring on the leg"
+        },
+        {
+          "accept": [
+            "small fish",
+            "fish"
+          ],
+          "evidence": "is unusually rich in plankton and small fish"
+        },
+        {
+          "accept": [
+            "Weddell Sea"
+          ],
+          "evidence": "Both groups eventually reached the Weddell Sea, off Antarctica, where they spent the southern summer feeding among the drifting ice."
+        },
+        {
+          "accept": [
+            "wind systems",
+            "winds",
+            "wind"
+          ],
+          "evidence": "allows the birds to take advantage of the prevailing wind systems"
+        },
+        {
+          "accept": [
+            "Indian Ocean"
+          ],
+          "evidence": "some travelling across the Indian Ocean towards Australia before heading on to Antarctica"
+        }
+      ]
+    }
+  ]
+}
