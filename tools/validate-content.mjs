@@ -17,16 +17,26 @@ const CATEGORY_IDS = (() => {
   if (!m) throw new Error('could not find CATEGORY_IDS in src/content/categories.ts')
   return m[1].match(/'([^']+)'/g)?.map((q) => q.slice(1, -1)) ?? []
 })()
+
+/** Likewise the language codes from languages.ts. */
+const LANGUAGE_CODES = (() => {
+  const src = readFileSync(join(process.cwd(), 'src', 'content', 'languages.ts'), 'utf8')
+  const m = src.match(/export const LANGUAGE_CODES = \[([^\]]*)\]/)
+  if (!m) throw new Error('could not find LANGUAGE_CODES in src/content/languages.ts')
+  return m[1].match(/'([^']+)'/g)?.map((q) => q.slice(1, -1)) ?? []
+})()
 const errors = []
 const warnings = []
 const err = (f, m) => errors.push(`${f}: ${m}`)
 const warn = (f, m) => warnings.push(`${f}: ${m}`)
 
+/** Same rule as looseEquals in src/lib/answers.ts: \p{L} keeps accented letters ("où" != "ou"). */
 const norm = (s) =>
   String(s)
+    .normalize('NFC')
     .toLowerCase()
-    .replace(/[‘’]/g, "'")
-    .replace(/[^a-z0-9' ]+/g, ' ')
+    .replace(/[‘’ʼ]/g, "'")
+    .replace(/[^\p{L}\p{N}' ]+/gu, ' ')
     .replace(/\s+/g, ' ')
     .trim()
 
@@ -51,7 +61,7 @@ function checkStr(f, obj, key, { optional = false, min = 1 } = {}) {
  * recording, the passage or the map, means a real extract is missing.
  */
 const POINTS_ELSEWHERE =
-  /\byou hear\s*[:*]|\b(?:in|from) the recording\b|\bon (?:your|the) (?:map|paper)\b|\bin the passage\b|\bthe (?:passage|text) (?:says|lists|attributes)\b/i
+  /\byou hear\s*[:*]|\b(?:in|from) the recording\b|\bon (?:your|the) (?:map|paper)\b|\bin the (?:passage|dialogue|email|document)\b|\bthe (?:passage|text|dialogue) (?:says|lists|attributes)\b/i
 
 function checkContext(xf, x, mediaLabels) {
   if (x.context !== undefined) {
@@ -113,6 +123,15 @@ function validateBook(dir, slug) {
   else if (!CATEGORY_IDS.includes(b.category))
     err(f, `category "${b.category}" is not one of ${CATEGORY_IDS.join(', ')} (see src/content/categories.ts)`)
   if (b.order !== undefined && !Number.isInteger(b.order)) err(f, '"order" must be an integer')
+  if (b.language !== undefined && !LANGUAGE_CODES.includes(b.language))
+    err(f, `language "${b.language}" is not one of ${LANGUAGE_CODES.join(', ')} (see src/content/languages.ts)`)
+  // The "Other Languages" shelf exists for non-English books, and a non-English book anywhere
+  // else would sit among English courses with no chip saying so.
+  const foreign = b.language !== undefined && b.language !== 'en'
+  if (b.category === 'languages' && !foreign)
+    err(f, 'a book on the "languages" shelf must set "language" to the language it teaches (e.g. "fr")')
+  if (foreign && b.category !== 'languages')
+    err(f, `a "${b.language}" book belongs on the "languages" shelf, not "${b.category}"`)
   if (!Array.isArray(b.sections) || b.sections.length === 0) err(f, 'sections must be a non-empty array')
   if (!b.unitTitles || typeof b.unitTitles !== 'object') err(f, 'unitTitles must be an object')
   const listed = new Set()
@@ -231,6 +250,8 @@ function validateUnit(f, u, expectedNumber, bookTitles) {
       case 'true_false':
         checkStr(xf, x, 'statement')
         if (typeof x.answer !== 'boolean') err(xf, 'answer must be true/false')
+        if (x.judge !== undefined && x.judge !== 'grammar' && x.judge !== 'fact')
+          err(xf, 'judge must be "grammar" or "fact"')
         if (x.answer === false && !x.explanation)
           warn(xf, 'false statement without an explanation (add the corrected sentence)')
         break

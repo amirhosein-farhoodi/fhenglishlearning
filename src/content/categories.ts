@@ -7,7 +7,7 @@
  * drop the first book into it and the grid appears on its own.
  */
 
-export const CATEGORY_IDS = ['grammar', 'vocabulary', 'ielts'] as const
+export const CATEGORY_IDS = ['grammar', 'vocabulary', 'ielts', 'languages'] as const
 
 export type CategoryId = (typeof CATEGORY_IDS)[number]
 
@@ -41,6 +41,15 @@ export const CATEGORIES: Category[] = [
     blurb: 'Exam skills for all four papers, with the official audio tracks and Speaking test videos built in.',
     emoji: '🎓',
     teaser: 'Listening, Reading, Writing and Speaking strategies, each lesson paired with its recording.',
+  },
+  {
+    // Books that teach a language other than English. Each sets `language` in its book.json
+    // (see src/content/languages.ts), which labels the card and tags its text for read-aloud.
+    id: 'languages',
+    title: 'Other Languages',
+    blurb: 'Beyond English - French to start, explained in English with the same lessons and quizzes.',
+    emoji: '🌍',
+    teaser: 'Complete beginner courses in other languages, explained in English.',
   },
 ]
 

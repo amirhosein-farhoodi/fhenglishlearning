@@ -1,0 +1,178 @@
+{
+  "number": 40,
+  "title": "The imparfait and the passive",
+  "subtitle": "je prenais ; le musée a été rénové",
+  "summary": "Form and use the imparfait for habits and descriptions in the past, turn sentences into the passive, and add emphasis with exclamations.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Forming the imparfait",
+      "text": "Take the **nous** form of the present, drop **-ons**, and add the endings **-ais, -ais, -ait, -ions, -iez, -aient**. The same rule works for regular and irregular verbs.",
+      "examples": [
+        { "text": "prendre → nous **pren**ons → je **prenais**" },
+        { "text": "faire → nous **fais**ons → je **faisais**" },
+        { "text": "aller → nous **all**ons → j'**allais**" },
+        { "text": "finir → nous **finiss**ons → je **finissais**" },
+        { "text": "voir → nous **voy**ons → je **voyais**" },
+        { "text": "avoir → nous **av**ons → j'**avais**" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Prendre in the imparfait",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["je **prenais**", "je **ne** prenais **pas**"],
+        ["tu **prenais**", "tu **ne** prenais **pas**"],
+        ["il / elle / on **prenait**", "il / elle / on **ne** prenait **pas**"],
+        ["nous **prenions**", "nous **ne** prenions **pas**"],
+        ["vous **preniez**", "vous **ne** preniez **pas**"],
+        ["ils / elles **prenaient**", "ils / elles **ne** prenaient **pas**"]
+      ],
+      "note": "**Être** is the one exception to the stem rule: its stem is **ét-**, with the same endings - *j'étais, tu étais, il était, nous étions, vous étiez, ils étaient*."
+    },
+    {
+      "type": "explain",
+      "heading": "When to use the imparfait",
+      "text": "The imparfait is a past tense for **habits and routines** (memories of how life used to be) and for **descriptions** - the background of a scene. The passé composé tells the event that happens against that background. Verbs of state like *être, penser, croire, savoir* are often in the imparfait.",
+      "examples": [
+        { "text": "Quand j'**étais** jeune, j'**allais** à l'école, j'**aidais** ma mère...", "note": "When I was young, I used to go to school, I used to help my mother..." },
+        { "text": "Quand **je suis arrivé** au parc, des gens **faisaient** du jogging, d'autres **lisaient** au soleil.", "note": "When I got to the park, people were jogging, others were reading in the sun." },
+        { "text": "Je **croyais** que Rémi **était** en vacances.", "note": "I thought Rémi was on holiday." },
+        { "text": "Tu **savais** qu'il y **avait** un château ici ?", "note": "Did you know there was a castle here?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The passive voice",
+      "text": "The passive is **être + past participle**. The object of the active sentence becomes the subject, and the participle **agrees** with it. The person who does the action comes after **par**. *Être* takes the tense of the original verb.",
+      "examples": [
+        { "text": "Des amateurs jouent la pièce. → La pièce **est jouée** par des amateurs.", "note": "The play is performed by amateurs. (present)" },
+        { "text": "Le médecin soignera le malade. → Le malade **sera soigné** par le médecin.", "note": "The patient will be treated by the doctor. (future)" },
+        { "text": "Molière a écrit cette pièce. → Cette pièce **a été écrite** par Molière.", "note": "This play was written by Molière. (passé composé)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Passive without par",
+      "text": "When we don't know or don't care who did it, drop **par**. A sentence with **on** often becomes a passive. The passive is common for historical events and dates.",
+      "examples": [
+        { "text": "On a construit le château en 1662. → Le château **a été construit** en 1662.", "note": "The castle was built in 1662." },
+        { "text": "On fermera le musée pour travaux. → Le musée **sera fermé** pour travaux.", "note": "The museum will be closed for building work." },
+        { "text": "Le traité de Rome **a été signé** en 1957.", "note": "The Treaty of Rome was signed in 1957." },
+        { "text": "Ce tableau **a été peint** en 1872.", "note": "This painting was painted in 1872." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Emphasis and exclamations",
+      "text": "To put a word in the spotlight, say it first and follow with **c'est que**. To exclaim, start the sentence with **Que** or **Comme**.",
+      "examples": [
+        { "text": "**Le problème, c'est que** je dois partir.", "note": "The problem is that I have to leave." },
+        { "text": "**L'inconvénient, c'est que** le prix a augmenté.", "note": "The drawback is that the price has gone up." },
+        { "text": "**Que** c'est beau !", "note": "How beautiful it is!" },
+        { "text": "**Qu'**il est intelligent !", "note": "How clever he is!" },
+        { "text": "**Comme** elle a grandi !", "note": "How she has grown!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "In the passive, check the participle like an adjective: *la route a été ferm**ée***, *les billets seront rembours**és***."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb to its imparfait form.",
+      "pairs": [
+        { "left": "prendre", "right": "je prenais" },
+        { "left": "faire", "right": "je faisais" },
+        { "left": "finir", "right": "je finissais" },
+        { "left": "voir", "right": "je voyais" },
+        { "left": "être", "right": "j'étais" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tous les dimanches, on ___ au foot.",
+      "hint": "(jouer)",
+      "answers": ["jouait"],
+      "explanation": "Habit in the past: **on jouait**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tous les jours, il ___ son café et son croissant au bistrot.",
+      "hint": "(prendre)",
+      "answers": ["prenait"],
+      "explanation": "nous **pren**ons → il **prenait**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "En général, elle ___ tôt.",
+      "hint": "(se coucher)",
+      "answers": ["se couchait"],
+      "explanation": "Reflexive verb in the imparfait: **elle se couchait**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand il était jeune, il ___ beaucoup de sport.",
+      "hint": "(faire)",
+      "answers": ["faisait"],
+      "explanation": "nous **fais**ons → il **faisait**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Avant, elle ne ___ jamais le bus.",
+      "options": ["prenait", "prennait", "prendait", "prenaient"],
+      "answer": 0,
+      "explanation": "Stem from *nous prenons*: **pren-** + *-ait* = **prenait**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "rénovation du musée → Le musée ___.",
+      "hint": "(rénover, passive, passé composé)",
+      "answers": ["a été rénové"],
+      "explanation": "Passive passé composé: **a été** + participle - *le musée* is masculine: **rénové**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "annulation de la réunion internationale → La réunion internationale ___.",
+      "hint": "(annuler, passive, passé composé)",
+      "answers": ["a été annulée"],
+      "explanation": "*La réunion* is feminine, so the participle takes **-e**: **a été annulée**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Make it passive, keeping the tense: *On fermera la bibliothèque pour travaux.*",
+      "options": [
+        "La bibliothèque sera fermée pour travaux.",
+        "La bibliothèque a été fermée pour travaux.",
+        "La bibliothèque est fermée pour travaux.",
+        "La bibliothèque sera fermé pour travaux."
+      ],
+      "answer": 0,
+      "explanation": "*Fermera* is future, so **sera** + participle agreeing with *la bibliothèque*: **fermée**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Les billets de train seront remboursé.",
+      "answer": false,
+      "explanation": "The participle agrees with *les billets*: **Les billets de train seront remboursés.**"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the word that starts the exclamation: ___ c'est beau !",
+      "options": ["Que", "Qui", "Quoi", "Quelle"],
+      "answer": 0,
+      "explanation": "Exclamations start with **Que** or *Comme*: *Que c'est beau !*"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make it passive: \"Molière a écrit cette pièce.\"",
+      "words": ["Cette pièce", "a été", "écrite", "par", "Molière."],
+      "answer": "Cette pièce a été écrite par Molière.",
+      "explanation": "**a été** + participle agreeing with *cette pièce* (**écrite**), then **par** + the author."
+    }
+  ]
+}

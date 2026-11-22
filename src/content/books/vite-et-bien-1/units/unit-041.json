@@ -1,0 +1,212 @@
+{
+  "number": 41,
+  "title": "Final assessment",
+  "subtitle": "Évaluation finale",
+  "summary": "Review the key verbs, tenses, pronouns and time expressions of the whole course and check you can use them together.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Présent: être, avoir, aller",
+      "columns": ["", "être", "avoir", "aller"],
+      "rows": [
+        ["je / j'", "**suis**", "**ai**", "**vais**"],
+        ["tu", "**es**", "**as**", "**vas**"],
+        ["il / elle / on", "**est**", "**a**", "**va**"],
+        ["nous", "**sommes**", "**avons**", "**allons**"],
+        ["vous", "**êtes**", "**avez**", "**allez**"],
+        ["ils / elles", "**sont**", "**ont**", "**vont**"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Présent: faire, prendre, venir",
+      "columns": ["", "faire", "prendre", "venir"],
+      "rows": [
+        ["je", "**fais**", "**prends**", "**viens**"],
+        ["tu", "**fais**", "**prends**", "**viens**"],
+        ["il / elle / on", "**fait**", "**prend**", "**vient**"],
+        ["nous", "**faisons**", "**prenons**", "**venons**"],
+        ["vous", "**faites**", "**prenez**", "**venez**"],
+        ["ils / elles", "**font**", "**prennent**", "**viennent**"]
+      ],
+      "note": "*Venir de* + infinitive gives the recent past: *L'avion **vient d'**arriver.* (The plane has just landed.)"
+    },
+    {
+      "type": "compare",
+      "heading": "Passé composé: avoir or être?",
+      "left": {
+        "label": "With avoir (most verbs)",
+        "text": "The participle does not agree with the subject.",
+        "examples": [
+          "Nous **avons écouté** les nouvelles hier soir.",
+          "J'**ai fait** mes études à Marseille.",
+          "Elle **a pris** le bus."
+        ]
+      },
+      "right": {
+        "label": "With être",
+        "text": "Verbs of movement (*aller, venir, partir, sortir, arriver ...*) and all reflexive verbs. The participle agrees with the subject.",
+        "examples": [
+          "Dimanche dernier, elle **est sortie** avec des amis.",
+          "Nous **sommes allés** à Lausanne.",
+          "Les étudiants **se sont inscrits** au cours."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Futur simple and imparfait",
+      "columns": ["Infinitive", "Futur simple", "Imparfait"],
+      "rows": [
+        ["parler", "je **parlerai**", "je **parlais**"],
+        ["finir", "je **finirai**", "je **finissais**"],
+        ["prendre", "je **prendrai**", "je **prenais**"],
+        ["être", "je **serai**", "j'**étais**"],
+        ["avoir", "j'**aurai**", "j'**avais**"],
+        ["aller", "j'**irai**", "j'**allais**"],
+        ["faire", "je **ferai**", "je **faisais**"],
+        ["venir", "je **viendrai**", "je **venais**"],
+        ["voir", "je **verrai**", "je **voyais**"]
+      ],
+      "note": "Futur endings: *-ai, -as, -a, -ons, -ez, -ont*. Imparfait endings: *-ais, -ais, -ait, -ions, -iez, -aient*, added to the *nous* stem (*nous fais-ons → je faisais*)."
+    },
+    {
+      "type": "explain",
+      "heading": "Which past tense?",
+      "text": "Use the **passé composé** for a finished event, the **imparfait** for habits, descriptions and states in the past, and **venir de** for something that has only just happened.",
+      "examples": [
+        { "text": "Dimanche dernier, elle **est sortie** avec des amis.", "note": "Last Sunday she went out with friends. - one event" },
+        { "text": "Quand vous **étiez** jeune, vous **faisiez** plus de sport ?", "note": "When you were young, did you do more sport? - a habit" },
+        { "text": "Je **croyais** que tu **étais** en vacances !", "note": "I thought you were on holiday! - a state of mind" },
+        { "text": "Je **viens de** rentrer.", "note": "I've just got back. - a moment ago" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Object pronouns",
+      "columns": ["Pronoun", "Replaces", "Example"],
+      "rows": [
+        ["**le, la, l', les**", "a direct object (person or thing)", "Mes amis voient l'émission. → Ils **la** voient."],
+        ["**lui, leur**", "à + a person", "Nous parlons à nos voisins. → Nous **leur** parlons."],
+        ["**en**", "de + a thing, or a quantity", "David s'occupe du dîner. → Il s'**en** occupe."],
+        ["**y**", "à + a place", "Nous allons à Lausanne. → Nous **y** allons."]
+      ],
+      "note": "In the passé composé the pronoun goes before *avoir* or *être*, and a participle with *avoir* agrees with a direct object pronoun before it: *J'emmène mes enfants. → Je **les** ai emmen**és**.*"
+    },
+    {
+      "type": "table",
+      "heading": "Time expressions",
+      "columns": ["Word", "Meaning", "Example"],
+      "rows": [
+        ["**depuis**", "since / for (still true now)", "Elle vit à Toulouse **depuis** trois ans."],
+        ["**il y a**", "ago", "**Il y a** trois ans, Fanny est partie à l'étranger."],
+        ["**pendant**", "for (a finished period)", "Elle a étudié le français **pendant** deux ans."],
+        ["**dans**", "in (from now, future)", "Elle retournera dans son pays **dans** deux ans."],
+        ["**pour**", "for (a planned period)", "Elle s'est installée en Allemagne **pour** six mois."]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**Savoir** a fact or how to do something (*Il sait nager. Vous savez à quelle heure ferme le musée ?*); **connaître** a person, a place or a thing (*Tu connais un bon restaurant ?*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Cyprien ___ l'avion tous les mois.",
+      "hint": "(prendre)",
+      "answers": ["prend"],
+      "explanation": "Prendre: **il prend** - no *-s* with *il / elle*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le petit garçon ___ nager ?",
+      "options": ["sait", "connaît", "savez", "connaissent"],
+      "answer": 0,
+      "explanation": "**Savoir** + infinitive for a skill: *il **sait** nager*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Demain, ils ___ peut-être à la plage.",
+      "hint": "(aller, futur simple)",
+      "answers": ["iront"],
+      "explanation": "Aller has an irregular future stem **ir-**: *ils **iront***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dimanche dernier, elle ___ avec des amis.",
+      "hint": "(sortir, passé composé)",
+      "answers": ["est sortie"],
+      "explanation": "*Sortir* takes **être**, and the participle agrees: *elle **est sortie***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand vous étiez jeune, est-ce que vous ___ plus de sport ?",
+      "hint": "(faire, imparfait)",
+      "answers": ["faisiez"],
+      "explanation": "A past habit takes the imparfait: *vous **faisiez***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "L'avion est à l'heure ? — Oui, il ___ !",
+      "hint": "(venir de + arriver)",
+      "answers": ["vient d'arriver", "vient juste d'arriver"],
+      "explanation": "Recent past: *il **vient d'**arriver* - *de* becomes *d'* before a vowel."
+    },
+    {
+      "type": "mcq",
+      "context": { "label": "The task", "text": "Nous parlons à nos voisins. → Ce matin, ... (passé composé + pronoun)" },
+      "prompt": "Which sentence is correct?",
+      "options": [
+        "Ce matin, nous leur avons parlé.",
+        "Ce matin, nous les avons parlé.",
+        "Ce matin, nous leur sommes parlé.",
+        "Ce matin, nous avons leur parlé."
+      ],
+      "answer": 0,
+      "explanation": "*Parler à* + people → **leur**, placed before *avoir*: *nous **leur avons parlé***."
+    },
+    {
+      "type": "true_false",
+      "context": { "label": "The task", "text": "Bastien finit son travail à temps. → Vendredi, ... (passé composé + pronoun)" },
+      "statement": "Vendredi, Bastien l'a finie à temps.",
+      "answer": false,
+      "explanation": "*Le travail* is masculine: **Vendredi, Bastien l'a fini à temps.**"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite with a pronoun in the passé composé: \"J'emmène mes enfants à la plage.\"",
+      "words": ["Hier,", "je", "les", "ai", "emmenés", "à la plage."],
+      "answer": "Hier, je les ai emmenés à la plage.",
+      "explanation": "**les** before *ai*, and the participle agrees with *les* (= *mes enfants*): **emmenés**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Sophia a étudié le français ___ deux ans, entre 2015 et 2017.",
+      "options": ["pendant", "depuis", "il y a", "dans"],
+      "answer": 0,
+      "explanation": "A finished period in the past: **pendant** deux ans."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "___ trois ans, Fanny est partie à l'étranger.",
+      "hint": "ago",
+      "answers": ["Il y a"],
+      "explanation": "**Il y a** + a length of time = *ago*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Qui, que or où? Sort the phrases by the missing word.",
+      "categories": ["qui", "que", "où"],
+      "items": [
+        { "text": "Les livres ___ sont sur mon bureau", "category": 0 },
+        { "text": "Voici le livre ___ a reçu un prix littéraire.", "category": 0 },
+        { "text": "un sociologue ___ j'admire beaucoup", "category": 1 },
+        { "text": "tous les amis ___ nous avons invités à la soirée", "category": 1 },
+        { "text": "2014, c'est l'année ___ Arthur et Mina se sont rencontrés.", "category": 2 },
+        { "text": "Amélie habite dans le quartier ___ elle est née.", "category": 2 }
+      ]
+    }
+  ]
+}

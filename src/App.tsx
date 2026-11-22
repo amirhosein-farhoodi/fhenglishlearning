@@ -6,6 +6,7 @@ import Course from './pages/Course'
 import Lesson from './pages/Lesson'
 import Quiz from './pages/Quiz'
 import Review from './pages/Review'
+import { BookScope } from './lib/targetLang'
 // The mock test is a separate, heavier area - load it only when someone opens it.
 const MockLobby = lazy(() => import('./pages/MockLobby'))
 const MockExam = lazy(() => import('./pages/MockExam'))
@@ -41,10 +42,13 @@ export default function App() {
       <Suspense fallback={loading}>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/learn/:slug" element={<Course />} />
-        <Route path="/learn/:slug/:unit" element={<Lesson />} />
-        <Route path="/learn/:slug/:unit/quiz" element={<Quiz />} />
-        <Route path="/learn/:slug/:unit/answers" element={<Review />} />
+        {/* BookScope tells everything inside which language the book teaches. */}
+        <Route path="/learn/:slug" element={<BookScope />}>
+          <Route index element={<Course />} />
+          <Route path=":unit" element={<Lesson />} />
+          <Route path=":unit/quiz" element={<Quiz />} />
+          <Route path=":unit/answers" element={<Review />} />
+        </Route>
         <Route path="/ielts-mock" element={<MockLobby />} />
         <Route path="/ielts-mock/exam" element={<MockExam />} />
         <Route path="/ielts-mock/result/:id" element={<MockResult />} />

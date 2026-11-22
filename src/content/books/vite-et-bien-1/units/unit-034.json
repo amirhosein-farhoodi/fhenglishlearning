@@ -1,0 +1,180 @@
+{
+  "number": 34,
+  "title": "Ce, cet, cette and the pronouns en and y",
+  "subtitle": "ce marteau, cet outil ; j'en ai deux, j'y vais",
+  "summary": "Point things out with ce, cet, cette, ces, and avoid repeating yourself with the pronouns en and y.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Demonstratives: this, that, these",
+      "columns": ["", "Demonstrative", "Example"],
+      "rows": [
+        ["masculine", "**ce**", "un marteau → **ce** marteau"],
+        ["masculine + vowel or silent h", "**cet**", "un outil → **cet** outil"],
+        ["feminine", "**cette**", "une échelle → **cette** échelle ; une perceuse → **cette** perceuse"],
+        ["plural (both genders)", "**ces**", "des outils → **ces** outils ; des perceuses → **ces** perceuses"]
+      ],
+      "note": "**Cet** sounds exactly like **cette**: *cet outil, cette échelle*. Only the spelling shows the gender."
+    },
+    {
+      "type": "explain",
+      "heading": "En: replacing a quantity",
+      "text": "**En** replaces a noun introduced by **un, une, des, du, de la** or **de**. Keep the number or quantity at the end when there is one - and with *un / une*, say it again in a yes answer.",
+      "examples": [
+        { "text": "— Il y a de la peinture ? — Oui, **il y en a**. / Oui, il y en a **deux pots**.", "note": "Yes, there is some. / Yes, there are two tins." },
+        { "text": "Non, **il n'y en a pas**.", "note": "No, there isn't any." },
+        { "text": "— Tu as des outils ? — Oui, **j'en ai quelques-uns**. / Non, **je n'en ai pas**.", "note": "Yes, I've got a few. / No, I haven't got any." },
+        { "text": "— Vous avez une perceuse ? — Oui, **j'en ai une**.", "note": "Yes, I've got one." },
+        { "text": "— Il a lu un livre de Romain Gary ? — Oui, il **en** a lu **plusieurs**.", "note": "Yes, he's read several." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "En with verbs + de",
+      "text": "**En** also replaces **de** + a thing after verbs built with *de*: **avoir besoin de** (to need), **se servir de** (to use), **parler de** (to talk about).",
+      "examples": [
+        { "text": "— Vous avez besoin de la perceuse ? — Oui, **j'en ai besoin**. / Non, **je n'en ai pas besoin**.", "note": "Yes, I need it. / No, I don't need it." },
+        { "text": "— Il se sert des outils ? — Oui, **il s'en sert**. / Non, **il ne s'en sert pas**.", "note": "Yes, he uses them. / No, he doesn't use them." },
+        { "text": "— Il a parlé du livre ? — Oui, **il en a parlé**.", "note": "Yes, he talked about it." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Y: places, and verbs + à",
+      "text": "**Y** (there) replaces a place introduced by **à, en, dans** ... It also replaces **à** + a thing after verbs like **jouer à**, **penser à**, **arriver à**.",
+      "examples": [
+        { "text": "— Elle va dans un magasin de bricolage ? — Oui, **elle y va**. / Non, **elle n'y va pas**.", "note": "Yes, she's going there. / No, she isn't." },
+        { "text": "— Il a habité en Italie ? — Oui, **il y a habité**.", "note": "Yes, he lived there." },
+        { "text": "— Tu dois aller à la mairie ? — Oui, **je dois y aller**.", "note": "Yes, I have to go there." },
+        { "text": "— Elle joue au tennis ? — Oui, **elle y joue**.", "note": "Yes, she plays (it)." },
+        { "text": "— Tu penses à ton projet ? — Oui, **j'y pense** tout le temps.", "note": "Yes, I think about it all the time." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where en and y go",
+      "text": "Same place as *le, la, les*: **before the conjugated verb**, before **avoir / être** in the passé composé, and before the **infinitive** when there are two verbs. In the negative, *ne ... pas* goes round the pronoun and the verb.",
+      "examples": [
+        { "text": "Je **n'en** ai **pas**.", "note": "I haven't got any." },
+        { "text": "Il **n'y** a **pas** habité.", "note": "He didn't live there." },
+        { "text": "Je **ne** dois **pas y aller**.", "wrong": "Je n'y dois pas aller", "note": "I don't have to go there." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Questions with en and y",
+      "columns": ["Full question", "With the pronoun", "Familiar"],
+      "rows": [
+        ["Combien de livres est-ce que tu as ?", "Combien est-ce que tu **en** as ?", "Tu **en** as combien ?"],
+        ["Est-ce qu'il y a beaucoup d'outils ?", "Est-ce qu'il y **en** a beaucoup ?", "Il y **en** a beaucoup ?"],
+        ["Quand est-ce qu'elle va à la poste ?", "Quand est-ce qu'elle **y** va ?", "Elle **y** va quand ?"],
+        ["Est-ce que vous devez aller à Biarritz ?", "Est-ce que vous devez **y** aller ?", "Vous devez **y** aller ?"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "With *en*, say how many whenever you know: *— Vous avez des enfants ? — Oui, j'en ai **trois**.* A bare *j'en ai* sounds odd when the number matters."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each noun with its demonstrative.",
+      "pairs": [
+        { "left": "___ marteau", "right": "ce" },
+        { "left": "___ outil", "right": "cet" },
+        { "left": "___ échelle", "right": "cette" },
+        { "left": "___ ampoules", "right": "ces" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "*« Passe-moi l'outil ! »* — *« ___ outil ? »*",
+      "options": ["Cet", "Ce", "Cette", "Ces"],
+      "answer": 0,
+      "explanation": "*Outil* is masculine and starts with a vowel → **cet**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous avez une perceuse ? — Oui, j'en ai ___.",
+      "hint": "say how many",
+      "answers": ["une"],
+      "explanation": "With **en**, repeat the quantity: *j'en ai **une***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ont une échelle ? — Non, ils ___.",
+      "hint": "use en",
+      "answers": ["n'en ont pas"],
+      "explanation": "Negative: *ils **n'en ont pas*** - no number after a negative."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tu te sers du marteau ? — Oui, je ___.",
+      "hint": "use en (se servir de)",
+      "answers": ["m'en sers"],
+      "explanation": "*Se servir **de*** → **en**, after the reflexive pronoun: *je **m'en** sers*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il va en Provence ? — Non, il ___.",
+      "hint": "use y",
+      "answers": ["n'y va pas"],
+      "explanation": "A place → **y**: *il **n'y** va **pas***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle doit aller à Rennes ? — Oui, elle ___.",
+      "hint": "use y",
+      "answers": ["doit y aller"],
+      "explanation": "With two verbs, **y** goes before the infinitive: *elle doit **y** aller*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "En or y? Sort the sentences by the pronoun that fills the gap.",
+      "categories": ["en", "y"],
+      "items": [
+        { "text": "Des livres ? Joëlle ___ achète très souvent.", "category": 0 },
+        { "text": "Une échelle ? Philippe ___ a une.", "category": 0 },
+        { "text": "Des dossiers ? Il y ___ a combien ?", "category": 0 },
+        { "text": "Des outils ? Paul s'___ sert très souvent.", "category": 0 },
+        { "text": "Les vacances ? J'___ pense tous les jours !", "category": 1 },
+        { "text": "Liège ? Samuel doit ___ aller la semaine prochaine.", "category": 1 },
+        { "text": "Le tennis ? Manuel ___ joue de temps en temps.", "category": 1 },
+        { "text": "La politique ? Marion s'___ intéresse beaucoup.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Vous avez besoin de la perceuse ? — Oui, j'y ai besoin.",
+      "answer": false,
+      "explanation": "*Avoir besoin **de*** takes **en**: *Oui, **j'en ai besoin**.*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Tu es arrivé à poser cette moquette ? — Non, je n'y suis pas arrivé.",
+      "answer": true,
+      "explanation": "*Arriver **à*** + infinitive → **y**, before *être* in the passé composé."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Replace the place with a pronoun: *Quand est-ce qu'elle va à la poste ?*",
+      "options": [
+        "Quand est-ce qu'elle y va ?",
+        "Quand est-ce qu'elle en va ?",
+        "Quand est-ce qu'elle va y ?",
+        "Quand est-ce qu'y elle va ?"
+      ],
+      "answer": 0,
+      "explanation": "A place → **y**, placed just before the verb."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask with en: \"How many have you got?\" (Combien de clous est-ce que tu as ?)",
+      "words": ["Combien", "est-ce que", "tu", "en", "as ?"],
+      "answer": "Combien est-ce que tu en as ?",
+      "explanation": "**En** replaces *de clous* and goes before the verb: *tu **en** as*."
+    }
+  ]
+}

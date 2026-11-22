@@ -1,0 +1,173 @@
+{
+  "number": 36,
+  "title": "Comparisons",
+  "subtitle": "plus ... que, moins ... que, aussi ... que",
+  "summary": "Compare people, things and the weather with plus, moins, aussi and autant, use mieux and meilleur, and meet être and avoir in the imparfait.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The comparative at a glance",
+      "columns": ["", "+ adjective / adverb", "+ noun", "after a verb"],
+      "rows": [
+        ["more", "**plus** rapide **que**", "**plus de** vacances **que**", "il voyage **plus (que)**"],
+        ["less", "**moins** vite **que**", "**moins de** temps **que**", "il fume **moins (que)**"],
+        ["as / as much", "**aussi** intelligent **que**", "**autant de** livres **que**", "elle voyage **autant (que)**"]
+      ],
+      "note": "*Que* becomes **qu'** before a vowel: *plus chaud **qu'**hier*, *moins vite **qu'**Élodie*."
+    },
+    {
+      "type": "explain",
+      "heading": "More and less: plus, moins",
+      "text": "Put **plus** or **moins** before an adjective or adverb, and **plus de** / **moins de** before a noun. After a verb, *plus* and *moins* stand alone. The second part of the comparison starts with **que**.",
+      "examples": [
+        { "text": "Le TGV est **plus rapide que** le train.", "note": "The TGV is faster than the train." },
+        { "text": "J'ai beaucoup **plus de** vacances **qu'**avant.", "note": "I have a lot more holiday than before." },
+        { "text": "Ce train est **moins rapide que** le TGV.", "note": "This train is slower than the TGV." },
+        { "text": "Elle a **moins de** temps libre **qu'**avant.", "note": "She has less free time than before." },
+        { "text": "Ils fument un peu **moins qu'**avant.", "note": "They smoke a bit less than before." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Equal: aussi and autant",
+      "text": "Use **aussi** before an adjective or adverb, **autant de** before a noun, and **autant** on its own after a verb. Don't mix them up: ~~aussi de~~ and ~~autant intelligent~~ are wrong.",
+      "examples": [
+        { "text": "Il est **aussi** intelligent **que** son frère.", "note": "He is as clever as his brother." },
+        { "text": "Elle conduit **aussi** vite **qu'**avant !", "note": "She drives as fast as before!" },
+        { "text": "Je n'ai pas **autant d'**amis **que** ma sœur.", "note": "I don't have as many friends as my sister." },
+        { "text": "Tu travailles **autant que** moi.", "note": "You work as much as I do." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Better: mieux and meilleur",
+      "text": "*Bien* and *bon* have their own comparatives. **Bien** (well, an adverb) becomes **mieux**; **bon** (good, an adjective) becomes **meilleur**, which agrees like any adjective. For the weather, say **il fait meilleur**.",
+      "examples": [
+        { "text": "Ce film est **meilleur que** le précédent.", "wrong": "plus bon", "note": "This film is better than the last one." },
+        { "text": "Elle parle **mieux** allemand **que** lui.", "wrong": "plus bien", "note": "She speaks German better than he does." },
+        { "text": "**Il fait meilleur** aujourd'hui.", "note": "The weather is better today." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "More and more, same and different",
+      "text": "**De plus en plus** and **de moins en moins** describe a change over time. To say two things are alike, use **comme**, **le même / la même**, **pareil** or **identique (à)**; the opposite is **différent (de)**.",
+      "examples": [
+        { "text": "Papi, tu entends **de plus en plus** mal !", "note": "Grandpa, your hearing is getting worse and worse!" },
+        { "text": "C'est **de mieux en mieux** ≠ **de pire en pire**.", "note": "It's getting better and better ≠ worse and worse." },
+        { "text": "Tu es **comme** ta mère.", "note": "You're like your mother." },
+        { "text": "Il fait **le même** temps **que** l'année dernière.", "note": "The weather is the same as last year." },
+        { "text": "Aujourd'hui, c'est **pareil qu'**hier.", "note": "Today it's the same as yesterday." },
+        { "text": "Ma mère est **différente de** ma tante.", "note": "My mother is different from my aunt." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "A first look at the imparfait: être and avoir",
+      "columns": ["Être", "Avoir"],
+      "rows": [
+        ["j'**étais**", "j'**avais**"],
+        ["tu **étais**", "tu **avais**"],
+        ["il / elle / on **était**", "il / elle / on **avait**"],
+        ["nous **étions**", "nous **avions**"],
+        ["vous **étiez**", "vous **aviez**"],
+        ["ils / elles **étaient**", "ils / elles **avaient**"]
+      ],
+      "note": "The imparfait describes how things were in the past: *c'est → **c'était***, *il y a → **il y avait***. *Hier, l'eau **était** froide.* *Avant, nous n'**avions** pas d'ordinateur.*"
+    },
+    {
+      "type": "tip",
+      "text": "Adjective or noun? Adjective → **aussi** (*aussi beau*); noun → **autant de** (*autant de livres*); verb → **autant** (*elle voyage autant*)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Il fait ___ beau qu'hier.",
+      "hint": "aussi, autant or autant de",
+      "answers": ["aussi"],
+      "explanation": "Before an adjective (*beau*), use **aussi ... que**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle voyage ___ que l'année dernière.",
+      "hint": "aussi, autant or autant de",
+      "answers": ["autant"],
+      "explanation": "After a verb (*voyage*), use **autant que**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il a ___ livres que ses parents.",
+      "hint": "aussi, autant or autant de",
+      "answers": ["autant de"],
+      "explanation": "Before a noun (*livres*), use **autant de ... que**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct form: Il fait ___ chaud que ce matin.",
+      "options": ["aussi", "moins de", "autant de", "plus de"],
+      "answer": 0,
+      "explanation": "*Chaud* is an adjective, so no *de*: **aussi chaud que**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct form: Il y a ___ brouillard que ce matin.",
+      "options": ["autant de", "aussi", "autant", "aussi de"],
+      "answer": 0,
+      "explanation": "*Brouillard* is a noun: **autant de brouillard**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct form: Il fait ___ aujourd'hui.",
+      "options": ["meilleur", "plus bon", "plus de bon", "autant bon"],
+      "answer": 0,
+      "explanation": "*Bon* becomes **meilleur**; for the weather, say **il fait meilleur**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Complete the expression: C'est de pire en ___ !",
+      "options": ["pire", "mieux", "plus", "moins"],
+      "answer": 0,
+      "explanation": "**De pire en pire** - worse and worse. The opposite is *de mieux en mieux*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Elle parle plus bien allemand que lui.",
+      "answer": false,
+      "explanation": "*Plus bien* does not exist: **Elle parle mieux allemand que lui.**"
+    },
+    {
+      "type": "matching",
+      "prompt": "Complete each sentence with the missing word.",
+      "pairs": [
+        { "left": "Ces deux verres sont ___ : on ne peut pas les distinguer.", "right": "identiques" },
+        { "left": "Fais ___ moi, fais du sport !", "right": "comme" },
+        { "left": "Je vais prendre la ___ chose que toi.", "right": "même" },
+        { "left": "Mes amis sont très ___ de moi.", "right": "différents" },
+        { "left": "Il fait plus chaud ? — Non, c'est ___ qu'hier.", "right": "pareil" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "C'est magnifique ! → Hier, c'___ magnifique !",
+      "hint": "(être, imparfait)",
+      "answers": ["était"],
+      "explanation": "Être in the imparfait: **c'était**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il y a du vent. → Hier, il y ___ du vent.",
+      "hint": "(avoir, imparfait)",
+      "answers": ["avait"],
+      "explanation": "*Il y a* in the imparfait: **il y avait**."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"It's a bit less hot than yesterday.\"",
+      "words": ["Il fait", "un peu", "moins", "chaud", "qu'hier."],
+      "answer": "Il fait un peu moins chaud qu'hier.",
+      "explanation": "**moins** + adjective + **que**; *que* becomes *qu'* before *hier*."
+    }
+  ]
+}

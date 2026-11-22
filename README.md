@@ -1,7 +1,7 @@
 # FH Language Learning
 
-A gamified English-learning web app. Pick a book, read a short lesson, then prove it in a quiz
-with six interactive exercise types. Everything (progress, XP, streaks) is stored in the browser's
+A gamified language-learning web app - English first, and now French. Pick a book, read a short
+lesson, then prove it in a quiz with six interactive exercise types. Everything (progress, XP, streaks) is stored in the browser's
 `localStorage` - there is no backend.
 
 Any English-learning book can become a course - grammar, vocabulary, phrasal verbs, exam practice.
@@ -21,9 +21,15 @@ Books are grouped into shelves on the home page. Currently:
 |---|---|---|---|
 | 1 | The Official Cambridge Guide to IELTS | IELTS - B1/C1 | 28 skills units (based on Cullen, French and Jakeman) |
 
-**Vocabulary** is declared but has no books yet, so the home page shows it as
-"in the works". Adding the first book with that `category` is all it takes to turn the shelf live -
-see [Shelves (categories)](#shelves-categories).
+**Vocabulary** - the four *English Vocabulary in Use* books, Elementary to Advanced.
+
+**Other Languages** - courses for languages other than English, explained in English
+
+| # | Book | Language | Level | Units |
+|---|---|---|---|---|
+| 1 | Vite et Bien 1 | French | Beginner - A1/A2 | 41 lessons: 20 book units x (situations + grammar), plus a final assessment (based on Claire Miquel, CLE International, 2nd edition) |
+
+A shelf with no books shows an "in the works" teaser - see [Shelves (categories)](#shelves-categories).
 
 ## Features
 
@@ -40,6 +46,9 @@ see [Shelves (categories)](#shelves-categories).
 - **Offline-friendly, no accounts.** Reset progress from the home page footer.
 - **Optional tip jar** on the home page: USDT on Ethereum (sent straight from MetaMask) or USDT on
   TRON (TronLink, or copy the address for any TRC-20 wallet).
+- **Language books** (see [Other languages](#other-languages)): target-language text is tagged with
+  its `lang`, examples can be read aloud by the device's own voice, typed answers get accent keys
+  (é, à, ç ...) and an accent slip earns the point with a "mind the accents" note.
 - Responsive, light/dark aware, keyboard-accessible.
 
 ## Tech
@@ -107,7 +116,8 @@ pick the repo and deploy. Every push redeploys.
 src/
   content/
     types.ts                 # content schema (BookMeta, Unit, LessonBlock, Exercise)
-    categories.ts            # the home-page shelves (Grammar, Vocabulary, IELTS)
+    categories.ts            # the home-page shelves (Grammar, Vocabulary, IELTS, Other Languages)
+    languages.ts             # languages a book can teach: name, speech locale, accent keys
     registry.ts              # auto-discovers books with import.meta.glob, groups them by shelf
     books/<slug>/book.json   # book metadata: category + order, sections, unit titles
     books/<slug>/units/unit-001.json ... one JSON per unit (lesson + exercises)
@@ -122,6 +132,7 @@ tools/
   link-ielts-media.mjs       # resolves AUDIO:n / VIDEO:n placeholders to real media URLs
   ielts-media.json           # track/video number -> file URL, built from public/uploads/
   prompts/author-unit.md     # the prompt used to turn a raw unit into unit JSON
+  prompts/author-language-unit.md  # extra rules for foreign-language course books
 .claude/commands/add-book.md # Claude Code slash command: /add-book <pdf> <slug> <units>
 content-src/<slug>/raw/      # text extraction output (git-ignored, regenerate any time)
 content-src/<slug>/pages/    # page images for scanned books (git-ignored, regenerate any time)
@@ -215,6 +226,46 @@ fans out the unit authoring to subagents using `tools/prompts/author-unit.md`, v
 
 Units listed in `book.json` but not yet authored show as "Coming soon" in the course map, so a book
 can be published incrementally.
+
+## Other languages
+
+English is the app's own language: every explanation, instruction and button is English. A book
+that teaches another language sits on the **Other Languages** shelf and declares what it teaches:
+
+```jsonc
+{
+  "category": "languages",
+  "language": "fr"          // a LANGUAGE_CODES value from src/content/languages.ts
+}
+```
+
+`npm run validate` insists the two go together. Everything else follows from `language`:
+
+- **Language chip** ("FR French · Français") on the book card and the course page.
+- **`lang` attributes** on examples, statements, blank sentences and word-order chips, so screen
+  readers pronounce them in that language. `BookScope` (a layout route around `/learn/:slug/*`, in
+  `src/lib/targetLang.tsx`) provides the language; components read it with `useTargetLang()`.
+- **Read-aloud.** A speaker button on every lesson example, using the browser's speech synthesis
+  (`src/lib/speech.ts`). It appears only when the device has a voice for the language - nothing is
+  fetched, so there is no audio hosting to set up.
+- **Accent keys** under typed answers (the `accents` list in `languages.ts`). Shift-click types the
+  capital. Grading folds accents: *ete* for *été* scores, and shows the right spelling in amber.
+  Because of that, a difference of accent alone (*a / à*) must be tested with `mcq`, not `fill_blank`.
+- Word-order and option comparison are Unicode-aware, so *où* and *ou* stay different words.
+- `true_false` takes `"judge": "fact"` for comprehension ("Vrai ou faux ?" about a dialogue in
+  `context`): the buttons read True / False instead of Correct / Incorrect.
+
+Adding a language: append its code to `LANGUAGE_CODES` and an entry to `LANGUAGES` in
+`src/content/languages.ts`. Adding a book: `/add-book` as usual, authored with
+`tools/prompts/author-language-unit.md` on top of `author-unit.md`.
+
+**Vite et Bien 1** was extracted with
+`python tools/extract_book.py source-books/vite-et-bien-1.pdf --slug vite-et-bien-1 --units 20 --pages-per-unit 10 --first-page 11 --no-key`.
+Each 10-page book unit became two lessons - situations and vocabulary (odd numbers), then grammar
+(even numbers) - and the book's *Évaluation finale* became lesson 41 (its raw text is
+`content-src/vite-et-bien-1/raw/final-assessment.md`, cut from PDF pages 211-218 of `pages.txt`).
+The book has no answer key, so its answers were written and checked during authoring, and its audio
+CD is not included: listening activities were turned into reading questions on the quoted dialogue.
 
 ## Scanned books
 

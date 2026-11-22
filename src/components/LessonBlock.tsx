@@ -1,7 +1,13 @@
+import { langAttr } from '../content/languages'
 import type { LessonBlock as Block } from '../content/types'
 import { renderInline } from '../lib/markup'
+import { useTargetLang } from '../lib/targetLang'
+import SpeakButton from './SpeakButton'
 
 export default function LessonBlock({ block, index }: { block: Block; index: number }) {
+  // Examples are the target language; headings, text and notes stay English. For an English
+  // book `lang` is undefined and no speaker buttons render, so nothing changes there.
+  const lang = langAttr(useTargetLang())
   if (block.type === 'tip') {
     return (
       <section className="block tip">
@@ -26,16 +32,21 @@ export default function LessonBlock({ block, index }: { block: Block; index: num
         {heading}
         <p className="block-text">{renderInline(block.text)}</p>
         {block.examples && block.examples.length > 0 && (
-          <ul className="examples">
+          <ul className="examples" lang={lang}>
             {block.examples.map((e, i) => (
-              <li key={i} className="example">
+              <li key={i} className={`example${lang ? ' speakable' : ''}`}>
                 <span>{renderInline(e.text)}</span>
                 {e.wrong && (
                   <span className="wrong">
                     (not <s>{e.wrong}</s>)
                   </span>
                 )}
-                {e.note && <span className="note">{renderInline(e.note)}</span>}
+                {e.note && (
+                  <span className="note" lang={lang && 'en'}>
+                    {renderInline(e.note)}
+                  </span>
+                )}
+                {lang && <SpeakButton text={e.text} />}
               </li>
             ))}
           </ul>
@@ -56,9 +67,12 @@ export default function LessonBlock({ block, index }: { block: Block; index: num
               <div key={side} className={`compare-side ${side}`}>
                 <div className="label">{renderInline(s.label)}</div>
                 {s.text && <p className="text">{renderInline(s.text)}</p>}
-                <ul>
+                <ul lang={lang}>
                   {s.examples.map((ex, i) => (
-                    <li key={i}>{renderInline(ex)}</li>
+                    <li key={i}>
+                      {renderInline(ex)}
+                      {lang && <SpeakButton text={ex} />}
+                    </li>
                   ))}
                 </ul>
               </div>

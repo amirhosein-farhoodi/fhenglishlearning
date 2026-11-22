@@ -1,0 +1,201 @@
+{
+  "number": 31,
+  "title": "Job interviews and careers",
+  "subtitle": "Parlez-moi de votre parcours professionnel.",
+  "summary": "Talk about your career in a job interview, ask about pay and conditions, and understand how a French company works.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A job interview",
+      "text": "Corentin meets the HR director (**le DRH**, *directeur des ressources humaines*). He sums up his **parcours professionnel** - his career so far - in the passé composé.",
+      "examples": [
+        { "text": "*Le DRH :* Alors, **parlez-moi de** votre parcours professionnel.", "note": "So, tell me about your career." },
+        { "text": "J'ai travaillé dans **une PME** de téléphonie, comme **vendeur**.", "note": "I worked for a small telephone company as a salesman." },
+        { "text": "Elle **a fait faillite**. Je suis resté quelques mois **au chômage**.", "note": "It went bankrupt. I was unemployed for a few months." },
+        { "text": "J'ai eu **une promotion**. Je suis devenu **responsable des ventes**.", "note": "I was promoted. I became sales manager." },
+        { "text": "Je voudrais **prendre plus de responsabilités**.", "note": "I'd like to take on more responsibility." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking about the job",
+      "text": "Inès applies for a post as an executive assistant. Note **maîtriser** (to have a good command of) and the question about **les conditions** - pay and status.",
+      "examples": [
+        { "text": "**Le poste à pourvoir** est bien pour une assistante de direction ?", "note": "The vacancy is for an executive assistant, isn't it?" },
+        { "text": "Je suis parfaitement **bilingue**.", "note": "I'm perfectly bilingual." },
+        { "text": "Quels **logiciels** est-ce que vous **maîtrisez** ?", "note": "Which software are you good at?" },
+        { "text": "**Le salaire brut est de** 25 000 euros par an.", "note": "The gross salary is 25,000 euros a year." },
+        { "text": "Vous aurez **un statut de cadre**.", "note": "You'll have executive / managerial status." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Ways to agree, link ideas and admit mistakes in a professional conversation.",
+      "examples": [
+        { "text": "**Oui, effectivement.** = **Oui, en effet !** = **Oui, c'est cela !**", "note": "Yes, indeed. / Yes, that's right." },
+        { "text": "**Oui, c'est le cas.**", "note": "Yes, that's so." },
+        { "text": "**Parlez-moi de** ... / **Parle-moi de** ...", "note": "Tell me about ... (vous / tu)" },
+        { "text": "**Je fais des gaffes.**", "note": "I put my foot in it. (diplomatic blunders)" },
+        { "text": "**Donc** ... / **Cependant** ...", "note": "So, therefore ... / However ..." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "L'entreprise - the company",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["un entrepreneur **crée** son entreprise", "an entrepreneur sets up a company"],
+        ["une **PME** (petite et moyenne entreprise)", "a small or medium-sized business"],
+        ["un **contrat de travail**, le **salaire**, les **horaires**", "an employment contract, pay, working hours"],
+        ["le **chiffre d'affaires augmente** ≠ **diminue**", "turnover rises ≠ falls"],
+        ["faire des **bénéfices**", "to make a profit"],
+        ["**embaucher** ≠ **licencier**", "to hire ≠ to lay off"],
+        ["**faire faillite**", "to go bankrupt"],
+        ["être **au chômage**, chercher un **emploi**", "to be unemployed, look for a job"],
+        ["**prendre sa retraite**, toucher une **pension**", "to retire, draw a pension"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Training and careers",
+      "text": "Employees can **suivre une formation** (do a training course) given by **un formateur / une formatrice**. A student on a work placement is **un(e) stagiaire**. Over a **carrière**, you move up through different **postes**.",
+      "examples": [
+        { "text": "vendeur → attaché commercial → responsable des ventes → directeur des ventes", "note": "salesman → sales representative → sales manager → sales director" },
+        { "text": "comptable → chef comptable → directeur de la comptabilité", "note": "accountant → chief accountant → head of accounting" },
+        { "text": "Le DRH **gère** les carrières, les salaires, les embauches et les licenciements.", "note": "The HR director manages careers, pay, hiring and redundancies." },
+        { "text": "Un chef de projet doit savoir **encadrer une équipe**.", "note": "A project manager must know how to lead a team." }
+      ],
+      "note": "**Le poste** = a job, a position. **La poste** = the post office."
+    },
+    {
+      "type": "tip",
+      "text": "*Le franglais* mixes French and English: *le week-end, le marketing, le mail* - and English words even become regular -er verbs (*faxer, manager → je manage*). But technical words like *l'ordinateur* and *le logiciel* stay French. **Les cadres** (managerial staff) enjoy extra benefits and a better pension."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Who is it? Match each description with the right person.",
+      "pairs": [
+        { "left": "Il a créé sa propre entreprise.", "right": "un entrepreneur" },
+        { "left": "Il a pris sa retraite.", "right": "un retraité" },
+        { "left": "Elle assure une formation en entreprise.", "right": "une formatrice" },
+        { "left": "Elle fait un stage dans mon entreprise.", "right": "une stagiaire" },
+        { "left": "Il est responsable du personnel.", "right": "le DRH" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Corentin :* Malheureusement, elle a fait faillite. Je suis resté quelques mois au chômage, mais j'ai assez rapidement retrouvé du travail."
+      },
+      "statement": "Corentin est resté plusieurs années au chômage.",
+      "answer": false,
+      "explanation": "Only **quelques mois** - a few months - and he found work fairly quickly."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Corentin :* J'aime beaucoup mon travail, mais je voudrais élargir un peu mes compétences, prendre plus de responsabilités..."
+      },
+      "statement": "Corentin voudrait prendre plus de responsabilités.",
+      "answer": true,
+      "explanation": "He says so directly: *prendre plus de responsabilités*."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Inès :* Ma mère est espagnole, donc je suis parfaitement bilingue. Je parle également anglais et un peu allemand."
+      },
+      "statement": "Inès parle parfaitement l'allemand.",
+      "answer": false,
+      "explanation": "She speaks only **un peu allemand** - a little German. She's bilingual in French and Spanish."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La responsable de formation :* Vous parlez déjà bien l'anglais, non ?\n*Philippe :* Oui, mais maintenant, je dois négocier avec des clients américains."
+      },
+      "statement": "Philippe ne parle pas l'anglais.",
+      "answer": false,
+      "explanation": "He already speaks English well; he needs a higher level to negotiate with American clients."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*« Il a retrouvé du travail ? »* Choose the logical answer.",
+      "options": [
+        "Oui, il est devenu attaché commercial.",
+        "Oui, il est toujours au chômage.",
+        "Oui, il a fait faillite.",
+        "Oui, il a pris sa retraite."
+      ],
+      "answer": 0,
+      "explanation": "Finding work again = getting a new job, e.g. **attaché commercial**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*« Vous pouvez me parler des conditions ? »* Choose the logical answer.",
+      "options": [
+        "Oui, bien sûr, le salaire est de 29 000 € par an.",
+        "Oui, c'est cela.",
+        "Oui, je fais des gaffes.",
+        "Cependant, je suis bilingue."
+      ],
+      "answer": 0,
+      "explanation": "*Les conditions* means pay and status: **le salaire est de ... € par an**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Henri a 65 ans, il a pris sa ___.",
+      "hint": "he has stopped working",
+      "answers": ["retraite"],
+      "explanation": "**Prendre sa retraite** = to retire. *La pension* is the money you receive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tout va mal : l'entreprise a fait ___.",
+      "hint": "it has gone bankrupt",
+      "answers": ["faillite"],
+      "explanation": "**Faire faillite** = to go bankrupt."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le ___ d'affaires a augmenté de 5 %.",
+      "options": ["chiffre", "poste", "salaire", "contrat"],
+      "answer": 0,
+      "explanation": "**Le chiffre d'affaires** = turnover."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Good news or bad news for a company's staff?",
+      "categories": ["Bonne nouvelle", "Mauvaise nouvelle"],
+      "items": [
+        { "text": "L'entreprise embauche.", "category": 0 },
+        { "text": "Elle a eu une promotion.", "category": 0 },
+        { "text": "L'entreprise fait des bénéfices.", "category": 0 },
+        { "text": "Le chiffre d'affaires augmente.", "category": 0 },
+        { "text": "L'entreprise a fait faillite.", "category": 1 },
+        { "text": "Cinquante personnes ont été licenciées.", "category": 1 },
+        { "text": "Il est au chômage.", "category": 1 },
+        { "text": "Le chiffre d'affaires diminue.", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"Then I was promoted. I became sales manager.\"",
+      "words": ["Ensuite,", "j'ai eu", "une promotion.", "Je suis devenu", "responsable", "des ventes."],
+      "answer": "Ensuite, j'ai eu une promotion. Je suis devenu responsable des ventes.",
+      "explanation": "**Avoir une promotion**; **devenir** takes *être* in the passé composé."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "number": 29,
+  "title": "Skiing, fitness and sporty holidays",
+  "subtitle": "On ira aux sports d'hiver !",
+  "summary": "Talk about sports you love or hate, plan a skiing holiday, and describe the aches and benefits of exercise.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Off to the ski slopes",
+      "text": "Adèle tells a friend about the family's winter holiday. **Aller aux sports d'hiver** means to go on a skiing holiday. Notice the verbs ending in *-ra*, *-rai*, *-rons*: that is the future tense, taught in the next lesson.",
+      "examples": [
+        { "text": "*Antoine :* Vous partirez **aux sports d'hiver**, cette année ?", "note": "Are you going skiing this year?" },
+        { "text": "*Adèle :* Oui, on ira dans les Alpes en février.", "note": "Yes, we'll go to the Alps in February." },
+        { "text": "Je suis **débutante**, alors je prendrai des cours avec **un moniteur**.", "note": "I'm a beginner, so I'll take lessons with an instructor." },
+        { "text": "Étienne est **un skieur confirmé**.", "note": "Étienne is an experienced skier." },
+        { "text": "J'ai horreur de ça, **j'ai le vertige** !", "note": "I hate that, I'm scared of heights!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Useful phrases for reassuring, refusing and explaining.",
+      "examples": [
+        { "text": "**Tout ira bien !**", "note": "Everything will be fine!" },
+        { "text": "**J'ai horreur de ça !**", "note": "I can't stand that!" },
+        { "text": "**Justement !**", "note": "Exactly! / That's just the point!" },
+        { "text": "**Calme-toi !** **Calmez-vous !**", "note": "Calm down! (tu / vous)" },
+        { "text": "**C'est pour ça que** j'aime le vélo.", "note": "That's why I like cycling. (familiar)" },
+        { "text": "Je te **laisserai un message sur ton répondeur**.", "note": "I'll leave a message on your answering machine." },
+        { "text": "Tu sais bien skier ? — **Pas vraiment !**", "note": "Can you ski well? - Not really! (a bit ironic)" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Quelques sports",
+      "columns": ["Type", "Sports"],
+      "rows": [
+        ["les sports d'équipe (team sports)", "le rugby, le football, le basket, le volley, le handball"],
+        ["les jeux de balle (ball games)", "le tennis, le squash, le ping-pong"],
+        ["les sports individuels", "le vélo, le jogging, la randonnée (hiking), l'escalade (climbing), la natation (swimming), la gym"]
+      ],
+      "note": "**Faire du / de la** + sport (*je fais du vélo, de la natation*), but **jouer au** + game (*je joue au foot, au tennis*). **S'entraîner** = to train."
+    },
+    {
+      "type": "explain",
+      "heading": "Le ski",
+      "text": "You choose between **le ski alpin** (downhill) and **le ski de fond** (cross-country). Ski runs are colour-coded by difficulty, from easy green to expert black.",
+      "examples": [
+        { "text": "On peut **louer** des skis, des chaussures de ski et des **bâtons**.", "note": "You can hire skis, ski boots and poles." },
+        { "text": "On prend **les remontées mécaniques**.", "note": "You take the ski lifts." },
+        { "text": "On descend **les pistes** vertes, bleues, rouges, noires.", "note": "You ski down the green, blue, red and black runs." },
+        { "text": "La neige est **bonne**, **fraîche** ≠ **mauvaise**.", "note": "The snow is good, fresh ≠ bad." },
+        { "text": "Elle est **dure** ≠ **molle**, « comme de la soupe ».", "note": "It's hard ≠ soft, \"like soup\"." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Sport: the downside and the upside",
+      "left": {
+        "label": "Les inconvénients",
+        "text": "Too much effort, or a fall ...",
+        "examples": [
+          "avoir des **courbatures** (aching muscles)",
+          "**se tordre la cheville** = se faire une **entorse** (to sprain your ankle)",
+          "**se casser la jambe** = avoir une **fracture** (to break your leg)",
+          "mettre **un plâtre** (to have a plaster cast)"
+        ]
+      },
+      "right": {
+        "label": "Les bienfaits",
+        "text": "Sport helps you ...",
+        "examples": [
+          "**se muscler**, **rester en forme** (build muscle, stay fit)",
+          "**perdre** ≠ **prendre du poids** (lose ≠ put on weight)",
+          "**prendre l'air** (get some fresh air)",
+          "**reprendre des couleurs** = **avoir bonne mine** (look healthy again)",
+          "**se changer les idées** (take your mind off things)"
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Walking is France's most popular sport, followed by swimming, cycling and skiing. France hosts the Tour de France and the Roland-Garros tennis tournament; a Frenchman, Pierre de Coubertin, revived the Olympic Games in 1896; and the daily sports paper *L'Équipe* dates from 1946."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "Team sport or individual sport?",
+      "categories": ["Un sport d'équipe", "Un sport individuel"],
+      "items": [
+        { "text": "le rugby", "category": 0 },
+        { "text": "le volley", "category": 0 },
+        { "text": "le handball", "category": 0 },
+        { "text": "le basket", "category": 0 },
+        { "text": "la natation", "category": 1 },
+        { "text": "l'escalade", "category": 1 },
+        { "text": "le jogging", "category": 1 },
+        { "text": "la randonnée", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Adèle :* Thomas montera sur des skis pour la première fois de sa vie.\n*Antoine :* Étienne lui apprendra à skier ?\n*Adèle :* Oui, il lui apprendra."
+      },
+      "statement": "Thomas apprendra à skier.",
+      "answer": true,
+      "explanation": "It's his first time on skis, and Étienne will teach him."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Adèle :* Comme Étienne est un skieur confirmé, il passera ses journées sur les pistes rouges et noires."
+      },
+      "statement": "Étienne ne skiera pas.",
+      "answer": false,
+      "explanation": "He's an experienced skier: he'll spend his days on the **red and black runs**."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La mère :* Tu m'appelleras quand tu arriveras ?\n*Adèle :* Oui, maman ! Et si tu n'es pas là, je te laisserai un message sur ton répondeur."
+      },
+      "statement": "Adèle enverra un mail à sa mère.",
+      "answer": false,
+      "explanation": "She'll **phone** her, or leave a message on her answering machine - no email."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Boniface :* Je ferai de la randonnée en montagne.\n*Anatole :* Je déteste ça : les grosses chaussures, le sac à dos, marcher pendant des heures, quelle horreur !"
+      },
+      "statement": "Anatole a horreur de marcher.",
+      "answer": true,
+      "explanation": "Walking for hours? *Quelle horreur !* He prefers football and rugby."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Vous partirez aux sports d'hiver ?", "right": "Oui, nous irons faire du ski." },
+        { "left": "Quelles pistes est-ce qu'elle prendra ?", "right": "Les bleues et les rouges." },
+        { "left": "Tu aimes les sports d'équipe ?", "right": "Oui, j'adore le basket et le rugby." },
+        { "left": "Il fera de la randonnée ?", "right": "Oui, certainement, il adore marcher." },
+        { "left": "Tu m'appelleras ?", "right": "Oui, bien sûr, je te téléphonerai !" },
+        { "left": "Elle ira à la piscine ?", "right": "Non, elle déteste nager." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il aime le foot ? — Ah non, il a ___ de ça !",
+      "hint": "he can't stand it",
+      "answers": ["horreur"],
+      "explanation": "**Avoir horreur de** = to hate, can't stand."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'espère qu'ils n'auront pas d'accident... — Calme-toi, tout ira ___ !",
+      "hint": "everything will be fine",
+      "answers": ["bien"],
+      "explanation": "**Tout ira bien !** = Everything will be fine!"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Il a fait trop de sport, il a des ___.",
+      "options": ["courbatures", "fractures", "remontées", "bâtons"],
+      "answer": 0,
+      "explanation": "Too much effort gives you **des courbatures** - aching muscles."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le pauvre Henri s'est ___ la jambe, il a un plâtre.",
+      "options": ["cassé", "tordu", "entraîné", "lavé"],
+      "answer": 0,
+      "explanation": "A plaster cast means a fracture: **se casser la jambe**. *Se tordre* is for a sprained ankle."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each expression with its meaning.",
+      "pairs": [
+        { "left": "prendre l'air", "right": "to get some fresh air" },
+        { "left": "avoir bonne mine", "right": "to look healthy" },
+        { "left": "se faire une entorse", "right": "to sprain a joint" },
+        { "left": "perdre du poids", "right": "to lose weight" },
+        { "left": "rester en forme", "right": "to stay fit" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"I love nature. That's why I go hiking.\"",
+      "words": ["J'aime la nature.", "C'est", "pour ça", "que", "je fais", "de la randonnée."],
+      "answer": "J'aime la nature. C'est pour ça que je fais de la randonnée.",
+      "explanation": "**C'est pour ça que** + the consequence (familiar)."
+    }
+  ]
+}

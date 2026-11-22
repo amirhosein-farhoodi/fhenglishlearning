@@ -1,0 +1,197 @@
+{
+  "number": 9,
+  "title": "The library, the bank and the train",
+  "subtitle": "Je voudrais un renseignement, s'il vous plaît.",
+  "summary": "Ask for information at a counter, deal with forms, bank accounts and train tickets, and write a polite e-mail.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Asking for information",
+      "text": "At any counter, open with **je voudrais un renseignement** (I'd like some information). Staff offer help with **Je peux vous renseigner ?** and tell you what you **must** do with **vous devez ...**",
+      "examples": [
+        { "text": "Bonjour, madame, **je voudrais un renseignement**, s'il vous plaît. Comment est-ce que je peux obtenir une carte de bibliothèque ?", "note": "Hello, I'd like some information, please. How can I get a library card?" },
+        { "text": "**Vous devez apporter** une photo d'identité et un justificatif de domicile.", "note": "You must bring a passport photo and proof of address." },
+        { "text": "Vous devez **remplir ce formulaire**. Voilà !", "note": "You must fill in this form. Here you are!" },
+        { "text": "*L'employé :* Bonjour, mademoiselle. **Je peux vous renseigner ?**", "note": "Hello. Can I help you? (literally: can I give you information?)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Questions for when you don't understand, and polite ways to ask and thank.",
+      "examples": [
+        { "text": "**Qu'est-ce que c'est**, un justificatif de domicile ?", "note": "What's a 'proof of address'?" },
+        { "text": "**Qu'est-ce que ça veut dire ?**", "note": "What does that mean?" },
+        { "text": "**Comment est-ce que ça marche ?**", "note": "How does it work?" },
+        { "text": "**Qu'est-ce que vous avez comme** types de comptes ?", "note": "What kinds of accounts do you have?" },
+        { "text": "**Est-ce que je peux prendre** ce dépliant ?", "note": "Can I take this leaflet?" },
+        { "text": "**Ce n'est pas possible !**", "note": "This is unbelievable! - anger, irritation" },
+        { "text": "**Je vous remercie !** / **Je te remercie !**", "note": "Thank you! (a little more formal than merci)" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Un peu d'administration - paperwork",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["un **guichet**", "a counter, ticket window"],
+        ["un **formulaire** (= un papier, un document)", "a form"],
+        ["**remplir** (= compléter) un formulaire", "to fill in a form"],
+        ["un **justificatif de domicile** : une quittance de loyer, une facture d'électricité", "proof of address: a rent receipt, an electricity bill"],
+        ["une **pièce d'identité** : une carte d'identité, un passeport, un permis de conduire", "ID: an identity card, a passport, a driving licence"],
+        ["une **inscription** → **s'inscrire** à un club, à une université", "registration → to sign up"],
+        ["un **prospectus**, un **dépliant**", "a brochure, a leaflet"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "At the bank",
+      "text": "Julie opens a savings account. She can pay in when she likes and take money out at any time.",
+      "examples": [
+        { "text": "**ouvrir** ≠ **fermer** un compte ; un **compte courant**, un **compte d'épargne**", "note": "open ≠ close an account; a current account, a savings account" },
+        { "text": "**retirer** de l'argent = **faire un retrait**", "note": "to withdraw money (casually: prendre de l'argent)" },
+        { "text": "**verser** de l'argent = **faire un versement**", "note": "to pay money in (casually: mettre de l'argent sur un compte)" },
+        { "text": "payer l'électricité **par prélèvement automatique**", "note": "to pay the electricity by direct debit" },
+        { "text": "Vous pouvez retirer de l'argent **quand vous voulez** !", "note": "You can take money out whenever you like!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Train tickets and strikes",
+      "text": "A **remboursable** ticket gets your money back if you don't travel; an **échangeable** one can be swapped for another trip. During **une grève** (a strike) staff stop work in protest. In the dialogue, Antoine's tickets are *ni échangeables, ni remboursables* - but he argues, and the manager gives him travel vouchers.",
+      "examples": [
+        { "text": "On annonce **une grève** nationale, vendredi.", "note": "A national strike has been announced for Friday." },
+        { "text": "Est-ce que je peux obtenir **le remboursement** ou **l'échange** des billets ?", "note": "Can I get a refund or an exchange for the tickets?" },
+        { "text": "Vous pouvez avoir des **bons de voyage**, valables un an.", "note": "You can have travel vouchers, valid for a year." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Le style écrit - writing a letter or e-mail",
+      "columns": ["", "Formal and distant", "Warmer"],
+      "rows": [
+        ["To start", "**Madame, Monsieur,**", "**Chère Madame, Cher Monsieur,** / Bonjour, Florence, (e-mail)"],
+        ["To thank", "**Je vous en remercie par avance.**", "**Merci d'avance.**"],
+        ["To end", "**Meilleures salutations.** / **Bien à vous.**", "**Cordialement.** / **Bien cordialement.**"]
+      ],
+      "note": "Sending an e-mail with no greeting at the top is quite rude in French."
+    },
+    {
+      "type": "tip",
+      "text": "The French love to discuss and debate - with family, shopkeepers, officials, even the police. A *non* can often turn into a *oui* after a polite discussion, just as it does for Antoine at the station."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Où est-ce que je peux avoir des informations ?", "right": "Au guichet n° 5." },
+        { "left": "Qu'est-ce que je dois apporter ?", "right": "Un justificatif de domicile." },
+        { "left": "Qu'est-ce que ça veut dire ?", "right": "Ça veut dire « information »." },
+        { "left": "Est-ce que je peux obtenir un remboursement ?", "right": "Non, c'est impossible." },
+        { "left": "Madame ?", "right": "Je voudrais des renseignements, s'il vous plaît." }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Boniface :* Comment est-ce que je peux obtenir une carte de bibliothèque ?\n*L'employée :* Eh bien, vous devez apporter une photo d'identité et un justificatif de domicile !"
+      },
+      "statement": "Boniface doit apporter une photo d'identité.",
+      "answer": true,
+      "explanation": "**Vous devez apporter une photo d'identité** - and proof of address too."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Boniface :* Qu'est-ce que c'est : « un justificatif de domicile » ?\n*L'employée :* Eh bien, c'est une quittance de loyer ou une facture d'électricité..."
+      },
+      "prompt": "What is *un justificatif de domicile*?",
+      "options": ["A rent receipt or a utility bill", "A passport or an ID card", "A library card", "A form you fill in"],
+      "answer": 0,
+      "explanation": "It proves where you live: **une quittance de loyer** or **une facture d'électricité**."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Julie :* Si je veux prendre de l'argent pendant l'année, comment est-ce que ça marche ?\n*L'employé :* C'est très facile : vous pouvez retirer de l'argent quand vous voulez !"
+      },
+      "statement": "Avec ce compte, Julie peut retirer de l'argent quand elle veut.",
+      "answer": true,
+      "explanation": "**Vous pouvez retirer de l'argent quand vous voulez** - whenever she likes."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*L'employée :* Bon, ça va, pas de problème, vous pouvez avoir des bons de voyage, valables un an.\n*Antoine :* C'est très bien ! Votre responsable est humain, je vois..."
+      },
+      "statement": "Antoine obtient le remboursement de ses billets.",
+      "answer": false,
+      "explanation": "He gets no refund: he gets **des bons de voyage**, travel vouchers valid for a year."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it proof of identity or proof of address?",
+      "categories": ["Une pièce d'identité", "Un justificatif de domicile"],
+      "items": [
+        { "text": "une carte d'identité", "category": 0 },
+        { "text": "un passeport", "category": 0 },
+        { "text": "un permis de conduire", "category": 0 },
+        { "text": "une quittance de loyer", "category": 1 },
+        { "text": "une facture d'électricité", "category": 1 },
+        { "text": "une facture de téléphone", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "L'employé demande une pièce d'identité. Donc ...",
+      "options": ["Hortense donne son passeport.", "Hortense donne une facture.", "Hortense donne un dépliant.", "Hortense remplit un formulaire."],
+      "answer": 0,
+      "explanation": "A passport is **une pièce d'identité**; a bill is proof of address."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je voudrais ___ un compte d'épargne.",
+      "hint": "to open",
+      "answers": ["ouvrir"],
+      "explanation": "**Ouvrir** ≠ fermer un compte."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pour obtenir votre passeport, vous devez ___ ce formulaire.",
+      "hint": "to fill in",
+      "answers": ["remplir", "compléter"],
+      "explanation": "**Remplir** (or *compléter*) un formulaire - to fill in a form."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "statement": "Quand on fait un retrait à la banque, on prend de l'argent de son compte.",
+      "answer": true,
+      "explanation": "**Un retrait** is a withdrawal; paying money in is *un versement*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You are writing a formal e-mail to someone you don't know. How do you start?",
+      "options": ["Madame, Monsieur,", "Salut, madame !", "Bisous,", "Bien cordialement,"],
+      "answer": 0,
+      "explanation": "**Madame, Monsieur,** is the polite, neutral opening; *Bien cordialement* ends a letter."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask politely: \"Can I take this leaflet?\"",
+      "words": ["Est-ce que", "je", "peux", "prendre", "ce", "dépliant ?"],
+      "answer": "Est-ce que je peux prendre ce dépliant ?",
+      "explanation": "**Est-ce que je peux** + infinitive asks for permission or a service."
+    }
+  ]
+}

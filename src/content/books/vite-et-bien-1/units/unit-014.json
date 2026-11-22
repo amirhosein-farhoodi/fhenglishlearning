@@ -1,0 +1,194 @@
+{
+  "number": 14,
+  "title": "The imperative and stressed pronouns",
+  "subtitle": "Prends ! Asseyez-vous ! C'est à moi.",
+  "summary": "Give instructions and advice with the imperative, use moi, toi, lui... after prepositions, place adverbs, ask with qu'est-ce qui, and talk about unspecified quantities.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The imperative",
+      "columns": ["Verb", "tu", "nous", "vous"],
+      "rows": [
+        ["parler", "**Parle !**", "**Parlons !**", "**Parlez !**"],
+        ["prendre", "**Prends !**", "**Prenons !**", "**Prenez !**"],
+        ["attendre", "**Attends !**", "**Attendons !**", "**Attendez !**"],
+        ["faire", "**Fais !**", "**Faisons !**", "**Faites !**"],
+        ["partir", "**Pars !**", "**Partons !**", "**Partez !**"]
+      ],
+      "note": "Take the *tu*, *nous* and *vous* forms of the present and drop the subject. Verbs in **-er** lose the **-s** of the *tu* form: *tu parles* → **Parle !**"
+    },
+    {
+      "type": "table",
+      "heading": "Irregular and reflexive imperatives",
+      "columns": ["Verb", "tu", "nous", "vous"],
+      "rows": [
+        ["être", "**Sois !**", "**Soyons !**", "**Soyez !**"],
+        ["avoir", "**Aie !**", "**Ayons !**", "**Ayez !**"],
+        ["aller", "**Va !**", "**Allons !**", "**Allez !**"],
+        ["s'occuper", "**Occupe-toi !**", "**Occupons-nous !**", "**Occupez-vous !**"],
+        ["s'asseoir", "**Assieds-toi !**", "**Asseyons-nous !**", "**Asseyez-vous !**"]
+      ],
+      "note": "With a reflexive verb, the pronoun comes after the verb with a hyphen, and *te* becomes **toi**."
+    },
+    {
+      "type": "explain",
+      "heading": "Pronouns and the negative imperative",
+      "text": "In a positive order, the pronoun follows the verb: **Donne-moi**, **Donne-lui**, **Donne-nous**, **Donne-leur**. In a negative order, put **ne ... pas** around the verb and the pronoun goes back in front, in its normal form (*toi* → **te**).",
+      "examples": [
+        { "text": "**Donne-moi** l'adresse d'un bon médecin !", "note": "Give me the address of a good doctor!" },
+        { "text": "**Ne fais pas** ça !", "note": "Don't do that!" },
+        { "text": "**Ne t'assieds pas** ici !", "wrong": "Ne assieds-toi pas", "note": "Don't sit here!" },
+        { "text": "**Ne vous occupez pas** de lui !", "note": "Don't worry about him!" },
+        { "text": "**Ne me téléphonez pas** ce soir.", "note": "Don't phone me tonight." }
+      ],
+      "note": "The imperative can sound abrupt. It's normal for instructions (a recipe, a gym class) or to encourage someone, but to ask a favour say **Est-ce que vous pouvez répéter, s'il vous plaît ?** rather than *Répétez !*"
+    },
+    {
+      "type": "explain",
+      "heading": "Stressed pronouns: moi, toi, lui ...",
+      "text": "The stressed pronouns are **moi, toi, lui, elle, nous, vous, eux, elles**. Use them after a preposition (*chez, avec, pour, sans* ...) and after **c'est ... qui**. To say who something belongs to, use **être à** + a pronoun or a name.",
+      "examples": [
+        { "text": "C'est **pour lui**. Je viens **avec toi**. Ils partent **sans eux**.", "note": "It's for him. I'm coming with you. They're leaving without them." },
+        { "text": "Tu peux aller **chez lui** en toute confiance.", "note": "You can go to him (to his practice) with complete confidence." },
+        { "text": "**C'est moi qui** organise la conférence.", "note": "I'm the one organising the conference." },
+        { "text": "— À qui est ce livre ? — Il est **à moi** !", "note": "Whose book is this? - It's mine!" },
+        { "text": "Ce verre est à Isabelle ? — Non, il est **à Fabienne**.", "note": "Is this Isabelle's glass? - No, it's Fabienne's." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adverbs and how strong an adjective is",
+      "text": "With a verb in the present, an adverb usually goes **right after the verb**. To make an adjective weaker or stronger, put **un peu**, **assez**, **très** or **extrêmement** in front of it.",
+      "examples": [
+        { "text": "Elle parle **lentement**. Il comprend **vite**.", "note": "She speaks slowly. He understands quickly." },
+        { "text": "Il tousse **beaucoup**.", "note": "He coughs a lot." },
+        { "text": "Elle fait **souvent** des cauchemars.", "note": "She often has nightmares." },
+        { "text": "**un peu** fatiguée < **assez** fatiguée < fatiguée < **très** fatiguée < **extrêmement** fatiguée", "note": "a bit tired < quite tired < tired < very tired < extremely tired" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Qu'est-ce qui ... ? or Qu'est-ce que ... ?",
+      "left": {
+        "label": "Qu'est-ce qui = what (subject)",
+        "text": "The *thing* is the subject: the verb follows directly.",
+        "examples": ["**Qu'est-ce qui** ne va pas ?", "**Qu'est-ce qui** se passe ?", "**Qu'est-ce qui** pose problème ?"]
+      },
+      "right": {
+        "label": "Qu'est-ce que = what (object)",
+        "text": "The thing is the object: a subject (*tu, vous* ...) follows *que*.",
+        "examples": ["**Qu'est-ce que** tu as ?", "**Qu'est-ce que** vous mangez ?"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Some: du, de la, de l' → pas de",
+      "text": "For an amount you don't count, use **du** (masculine), **de la** (feminine) or **de l'** before a vowel or silent *h*. In the negative, all of them become **pas de** (**pas d'** before a vowel).",
+      "examples": [
+        { "text": "Il mange **de la** soupe, **du** fromage, **du** pain.", "note": "He eats (some) soup, cheese, bread." },
+        { "text": "Il achète **de l'**aspirine, **de l'**huile, **de l'**eau.", "note": "He buys (some) aspirin, oil, water." },
+        { "text": "Elle ne mange **pas de** soupe, **pas de** pain.", "wrong": "pas de la soupe", "note": "She doesn't eat any soup or bread." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its tu imperative.",
+      "pairs": [
+        { "left": "attendre", "right": "Attends !" },
+        { "left": "faire", "right": "Fais !" },
+        { "left": "être", "right": "Sois !" },
+        { "left": "avoir", "right": "Aie !" },
+        { "left": "aller", "right": "Va !" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous pouvez faire ce travail ? → ___ ce travail !",
+      "hint": "(faire) - vous",
+      "answers": ["Faites"],
+      "explanation": "Faire: *vous faites* → **Faites !**"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tu peux t'occuper des enfants ? → ___ des enfants !",
+      "hint": "(s'occuper) - tu",
+      "answers": ["Occupe-toi", "Occupe toi"],
+      "explanation": "Reflexive imperative: **Occupe-toi !** - no *-s*, and *te* becomes *toi* after the verb."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous pouvez vous asseoir ? → Which is the imperative?",
+      "options": ["Asseyez-vous !", "Assieds-toi !", "Vous asseyez !", "Asseyez-toi !"],
+      "answer": 0,
+      "explanation": "S'asseoir with *vous*: **Asseyez-vous !**"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Make it negative: *Occupe-toi du chien !*",
+      "options": [
+        "Ne t'occupe pas du chien !",
+        "Ne occupe-toi pas du chien !",
+        "Occupe-toi pas du chien !",
+        "Ne toi occupe pas du chien !"
+      ],
+      "answer": 0,
+      "explanation": "In the negative the pronoun goes back before the verb as **te** (**t'**): *Ne t'occupe pas*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make it negative: *Donnez-lui l'adresse !* (\"Don't give him the address!\")",
+      "words": ["Ne", "lui", "donnez", "pas", "l'adresse !"],
+      "answer": "Ne lui donnez pas l'adresse !",
+      "explanation": "Negative imperative: **ne** + pronoun + verb + **pas**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je vais chez mes amis, je vais chez ___.",
+      "hint": "stressed pronoun for mes amis",
+      "answers": ["eux"],
+      "explanation": "*Mes amis* = ils → after a preposition, **eux**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ce document est pour Louise et Émilie ? — Non, ce n'est pas pour ___.",
+      "options": ["elles", "eux", "leur", "lui"],
+      "answer": 0,
+      "explanation": "Two women → **elles**. *Leur* is never used after a preposition."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Monsieur, ce livre est à vous ? — Oui, il est à ___.",
+      "hint": "it's mine",
+      "answers": ["moi"],
+      "explanation": "Belonging: **être à moi** - it's mine."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put the adverb in the right place: \"He often goes to the cinema.\"",
+      "words": ["Il", "va", "souvent", "au cinéma."],
+      "answer": "Il va souvent au cinéma.",
+      "explanation": "In the present, the adverb goes **right after the verb**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "*La machine ne marche pas.* Which question asks about it?",
+      "options": [
+        "Qu'est-ce qui ne marche pas ?",
+        "Qu'est-ce que ne marche pas ?",
+        "Qui est-ce que ne marche pas ?",
+        "Qu'est-ce qu'il ne marche pas ?"
+      ],
+      "answer": 0,
+      "explanation": "The thing is the subject of *marche*, so use **qu'est-ce qui**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Elle ne mange pas de la soupe.",
+      "answer": false,
+      "explanation": "In the negative, *de la* becomes **de**: *Elle ne mange **pas de** soupe.*"
+    }
+  ]
+}

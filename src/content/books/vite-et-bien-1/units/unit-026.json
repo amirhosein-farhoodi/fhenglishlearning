@@ -1,0 +1,205 @@
+{
+  "number": 26,
+  "title": "Indirect object pronouns and -ment adverbs",
+  "subtitle": "je lui parle, je leur ai téléphoné ; rapidement, évidemment",
+  "summary": "Replace à + a person with me, te, lui, nous, vous or leur in every tense, and build adverbs from adjectives with -ment.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Indirect object pronouns",
+      "columns": ["Replaces", "Pronoun", "Example"],
+      "rows": [
+        ["à moi", "**me** (m')", "Il **me** demande une adresse."],
+        ["à toi", "**te** (t')", "Il **te** parle."],
+        ["à lui / à elle", "**lui**", "Je **lui** demande un renseignement."],
+        ["à nous", "**nous**", "Il **nous** a demandé un rapport."],
+        ["à vous", "**vous**", "Je **vous** présente deux collaborateurs."],
+        ["à eux / à elles", "**leur**", "Je **leur** ai téléphoné."]
+      ],
+      "note": "**Lui** is for a man *or* a woman; **leur** is for any group. *Me* and *te* become **m'** and **t'** before a vowel."
+    },
+    {
+      "type": "explain",
+      "heading": "Where the pronoun goes",
+      "text": "The pronoun goes **directly in front of the verb it belongs to**, and that never changes. In the negative, *ne* comes before the pronoun. In the passé composé it goes before the auxiliary. With *aller, devoir, pouvoir* + infinitive, it goes before the infinitive.",
+      "examples": [
+        { "text": "Il **te** parle. → Il ne **te** parle pas.", "note": "He talks to you. → He doesn't talk to you." },
+        { "text": "Il **t'**a parlé. → Il ne **t'**a pas parlé.", "note": "He talked to you. → He didn't talk to you." },
+        { "text": "Il **me** demande une adresse. → Il ne **me** demande pas d'adresse.", "note": "He asks me for an address. → He doesn't ask me for an address." },
+        { "text": "Je vais **vous** expliquer la situation. → Je ne vais pas **vous** expliquer la situation.", "note": "I'm going to explain the situation to you. → I'm not going to ..." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Lui or leur?",
+      "left": {
+        "label": "lui = to him / to her",
+        "text": "Replaces **à** + one person, masculine or feminine.",
+        "examples": [
+          "Je demande un renseignement à Félix. → Je **lui** demande un renseignement.",
+          "J'ai demandé une adresse à Sylvie. → Je **lui** ai demandé une adresse.",
+          "→ Je ne **lui** ai pas demandé d'adresse."
+        ]
+      },
+      "right": {
+        "label": "leur = to them",
+        "text": "Replaces **à** + several people. As a pronoun it never takes *-s*.",
+        "examples": [
+          "Je demande un renseignement à Félix et à Sylvie. → Je **leur** demande un renseignement.",
+          "Il a dit bonjour à ses voisins. → Il **leur** a dit bonjour.",
+          "→ Il ne **leur** a pas dit bonjour."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "\"Indirect\" verbs: verb + à + a person",
+      "text": "These pronouns go with verbs built with **à quelqu'un**. Most are verbs of communication or giving, and the person is always a person (or an animal!): **parler, dire, expliquer, raconter, écrire, envoyer, téléphoner, donner, sourire, offrir, demander, répondre, proposer** ... *à quelqu'un*.",
+      "examples": [
+        { "text": "Évidemment, je **leur** ai téléphoné ! Je **leur** ai confirmé l'heure de la réunion.", "note": "Of course I phoned them! I confirmed the time of the meeting to them." },
+        { "text": "Tu peux **lui** expliquer que les coûts ont augmenté.", "note": "You can explain to him that costs have gone up." },
+        { "text": "Il ne **m'**a rien dit.", "note": "He didn't tell me anything." },
+        { "text": "Est-ce que je **vous** ai donné l'ordre du jour ?", "note": "Did I give you the agenda?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adverbs in -ment",
+      "columns": ["Adjective", "Feminine", "Adverb"],
+      "rows": [
+        ["seul", "seule", "**seulement** (only)"],
+        ["lent", "lente", "**lentement** (slowly)"],
+        ["général", "générale", "**généralement** (generally)"],
+        ["heureux", "heureuse", "**heureusement** (fortunately)"],
+        ["rapide", "rapide", "**rapidement** (quickly)"],
+        ["simple", "simple", "**simplement** (simply)"]
+      ],
+      "note": "Take the **feminine** form and add **-ment**. If the adjective already ends in *-e*, just add *-ment*: *confortable → confortable**ment***."
+    },
+    {
+      "type": "compare",
+      "heading": "Exceptions",
+      "left": {
+        "label": "Built on the masculine",
+        "text": "A few adjectives ending in a vowel add -ment to the masculine form.",
+        "examples": ["poli → **poliment**", "vrai → **vraiment**", "absolu → **absolument**"]
+      },
+      "right": {
+        "label": "-ent → -emment, -ant → -amment",
+        "text": "Both endings are pronounced the same: *-amment*.",
+        "examples": [
+          "évident → **évidemment**",
+          "apparent → **apparemment**",
+          "récent → **récemment**",
+          "constant → **constamment**",
+          "courant → **couramment**",
+          "élégant → **élégamment**"
+        ]
+      },
+      "note": "*Lent* is the exception to the exception: its adverb is regular, **lentement**."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each adjective with its adverb.",
+      "pairs": [
+        { "left": "rapide", "right": "rapidement" },
+        { "left": "évident", "right": "évidemment" },
+        { "left": "poli", "right": "poliment" },
+        { "left": "heureux", "right": "heureusement" },
+        { "left": "courant", "right": "couramment" },
+        { "left": "vrai", "right": "vraiment" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would you replace these with lui or leur?",
+      "categories": ["lui", "leur"],
+      "items": [
+        { "text": "à Félix", "category": 0 },
+        { "text": "à sa mère", "category": 0 },
+        { "text": "au client", "category": 0 },
+        { "text": "à Rachel", "category": 0 },
+        { "text": "à ses voisins", "category": 1 },
+        { "text": "à mes parents", "category": 1 },
+        { "text": "à Nora et Aziz", "category": 1 },
+        { "text": "à tous ses collègues", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Elle téléphone à sa mère ? — Non, elle ne ___ téléphone pas.",
+      "hint": "pronoun for à sa mère",
+      "answers": ["lui"],
+      "explanation": "*À sa mère* = one person: **lui**, for a man or a woman."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Ils ont téléphoné à leurs parents ? — Oui, ils ___ ont téléphoné.",
+      "hint": "pronoun for à leurs parents",
+      "answers": ["leur"],
+      "explanation": "Several people: **leur**, placed before the auxiliary - and never *leurs*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bonjour, madame, je ___ présente mon assistant, Clément Dupuis.",
+      "hint": "to you (polite)",
+      "answers": ["vous"],
+      "explanation": "**Je vous présente** ... - let me introduce ... to you."
+    },
+    {
+      "type": "mcq",
+      "prompt": "— Tu as parlé à Adèle ? — Oui, ...",
+      "options": ["je lui ai parlé.", "j'ai lui parlé.", "je leur ai parlé.", "je l'ai parlé."],
+      "answer": 0,
+      "explanation": "*Parler à* + one person → **lui**, placed before the auxiliary *ai*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "— Roland t'a donné son numéro ? — Non, ...",
+      "options": [
+        "il ne m'a pas donné son numéro.",
+        "il ne t'a pas donné son numéro.",
+        "il m'a ne pas donné son numéro.",
+        "il ne m'a donné pas son numéro."
+      ],
+      "answer": 0,
+      "explanation": "*Te* in the question becomes **me** in the answer, and **ne ... pas** goes around *m'a*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ludovic conduit ___ sur cette route de montagne.",
+      "hint": "(prudent)",
+      "answers": ["prudemment"],
+      "explanation": "Adjectives in **-ent** make adverbs in **-emment**: *prudent → prudemment*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Cette jeune femme s'habille ___.",
+      "hint": "(élégant)",
+      "answers": ["élégamment"],
+      "explanation": "Adjectives in **-ant** make adverbs in **-amment**: *élégant → élégamment*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Violaine a répondu poliement au professeur.",
+      "answer": false,
+      "explanation": "*Poli* builds its adverb on the masculine: Violaine a répondu **poliment** au professeur."
+    },
+    {
+      "type": "true_false",
+      "statement": "Évidemment, je leur ai téléphoné !",
+      "answer": true,
+      "explanation": "**Leur** before the auxiliary, and *évident → **évidemment***."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Replace *à mes voisins* with a pronoun: *Je ne vais pas raconter la situation à mes voisins.*",
+      "words": ["Je", "ne", "vais", "pas", "leur", "raconter", "la situation."],
+      "answer": "Je ne vais pas leur raconter la situation.",
+      "explanation": "With *aller* + infinitive, the pronoun goes before the infinitive: *je ne vais pas **leur** raconter*."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "number": 10,
+  "title": "Pouvoir, vouloir, devoir and si",
+  "subtitle": "je peux, je veux, je dois + infinitif ; si tu veux ...",
+  "summary": "Use pouvoir, vouloir and devoir with an infinitive, make conditions with si, ask questions in written style, and link nouns with de.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Pouvoir, vouloir, devoir in the present",
+      "columns": ["Pouvoir (can)", "Vouloir (want)", "Devoir (must)"],
+      "rows": [
+        ["je **peux**", "je **veux**", "je **dois**"],
+        ["tu **peux**", "tu **veux**", "tu **dois**"],
+        ["il / elle / on **peut**", "il / elle / on **veut**", "il / elle / on **doit**"],
+        ["nous **pouvons**", "nous **voulons**", "nous **devons**"],
+        ["vous **pouvez**", "vous **voulez**", "vous **devez**"],
+        ["ils / elles **peuvent**", "ils / elles **veulent**", "ils / elles **doivent**"]
+      ],
+      "note": "*Je voudrais*, which you already know, is the polite form of **vouloir**."
+    },
+    {
+      "type": "explain",
+      "heading": "+ infinitive",
+      "text": "**Pouvoir** and **devoir** are followed by a verb in the **infinitive**. **Vouloir** can take either an infinitive or a noun. The negative goes around the first verb.",
+      "examples": [
+        { "text": "Est-ce que je **peux prendre** le sel ?", "note": "Can I have the salt? (at the table)" },
+        { "text": "Est-ce que vous **pouvez répéter** la question, s'il vous plaît ?", "wrong": "vous pouvez répétez", "note": "Could you repeat the question, please?" },
+        { "text": "Nous sommes désolés, nous **ne pouvons pas venir**.", "note": "We're sorry, we can't come." },
+        { "text": "Je **dois partir** à 16 heures. Qu'est-ce que nous **devons faire** ?", "note": "I have to leave at 4 pm. What must we do?" },
+        { "text": "Tu **veux un café** ? Il **veut changer** de travail.", "note": "Do you want a coffee? He wants to change jobs." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Vouloir dire and qu'est-ce que c'est ?",
+      "text": "**Vouloir dire** means *to mean*. To ask what a thing is, say **Qu'est-ce que c'est ?** - or casually, **C'est quoi ?**",
+      "examples": [
+        { "text": "— Qu'est-ce que tu **veux dire** ? — Je **veux dire** que c'est difficile !", "note": "What do you mean? - I mean it's difficult!" },
+        { "text": "— Qu'est-ce que **ça veut dire**, « können » en allemand ? — Ça veut dire « pouvoir ».", "note": "What does 'können' mean in German? - It means 'pouvoir'." },
+        { "text": "— **Qu'est-ce que c'est ?** — C'est une facture.", "note": "What is it? - It's a bill." },
+        { "text": "— **C'est quoi**, une « pièce d'identité » ? — C'est un passeport, par exemple.", "note": "What's 'ID'? - A passport, for example. (casual)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Conditions: si + present",
+      "text": "**Si** (if) + present tense, then the result in the present. The *si* part can come first or second.",
+      "examples": [
+        { "text": "**Si** vous **voulez** une carte de bibliothèque, vous **devez** remplir un formulaire.", "note": "If you want a library card, you must fill in a form." },
+        { "text": "Tu peux prendre ce papier, **si** tu veux !", "note": "You can take this paper if you like!" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Questions in written style",
+      "left": {
+        "label": "Spoken: est-ce que",
+        "examples": ["Est-ce que vous pouvez venir ?", "Est-ce que je dois contacter Paul ?", "Comment est-ce que je peux faire ?", "Où est-ce que nous devons aller ?"]
+      },
+      "right": {
+        "label": "Written: swap verb and subject",
+        "examples": ["**Pouvez-vous** venir ?", "**Dois-je** contacter Paul ?", "Comment **puis-je** faire ?", "Où **devons-nous** aller ?"]
+      },
+      "note": "Join the verb and subject with a hyphen. ~~Peux-je~~ does not exist: the written form is **puis-je**."
+    },
+    {
+      "type": "explain",
+      "heading": "Sur = about, and noun + de + noun",
+      "text": "**Sur** can mean *about / on a subject*. To make a compound noun, French puts the main noun first and links the second one with **de** (or **d'**) - the reverse of English order.",
+      "examples": [
+        { "text": "Je voudrais des renseignements **sur** votre association.", "note": "I'd like some information about your association." },
+        { "text": "Il achète un livre **sur** l'histoire de Paris.", "note": "He's buying a book on the history of Paris." },
+        { "text": "une carte **de** bibliothèque, une quittance **de** loyer", "note": "a library card, a rent receipt" },
+        { "text": "un compte **d'**épargne, une photo **d'**identité", "note": "a savings account, a passport photo" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with its form of devoir.",
+      "pairs": [
+        { "left": "je", "right": "dois" },
+        { "left": "il", "right": "doit" },
+        { "left": "nous", "right": "devons" },
+        { "left": "vous", "right": "devez" },
+        { "left": "ils", "right": "doivent" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ venir demain.",
+      "hint": "(pouvoir)",
+      "answers": ["pouvons"],
+      "explanation": "Pouvoir: **nous pouvons**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ___ apprendre le français.",
+      "hint": "(vouloir)",
+      "answers": ["veulent"],
+      "explanation": "Vouloir: **ils veulent**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Qu'est-ce que ça ___ dire ?",
+      "hint": "(vouloir)",
+      "answers": ["veut"],
+      "explanation": "**Vouloir dire** = to mean: *ça **veut** dire*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pouvoir or devoir? Je ___ poster cette lettre aujourd'hui, elle est urgente.",
+      "options": ["dois", "peux", "veux", "doit"],
+      "answer": 0,
+      "explanation": "The letter is urgent, so it's an obligation: **je dois**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Est-ce que vous pouvez répétez la question ?",
+      "answer": false,
+      "explanation": "After *pouvoir* the second verb is an **infinitive**: *Est-ce que vous pouvez **répéter** la question ?*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Nous ne pouvons pas venir.",
+      "answer": true,
+      "explanation": "**Ne ... pas** goes around the conjugated verb, and the infinitive follows."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the halves to make complete sentences.",
+      "pairs": [
+        { "left": "Si tu veux,", "right": "tu peux prendre ce document." },
+        { "left": "Si vous remplissez ce formulaire,", "right": "vous pouvez obtenir une carte." },
+        { "left": "Si elle veut ouvrir un compte,", "right": "elle doit aller à la banque." },
+        { "left": "Tu peux retirer de l'argent,", "right": "si tu as ta carte bancaire." },
+        { "left": "Elle peut obtenir le remboursement de son billet,", "right": "si elle ne part pas." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Write it in written style: *Est-ce que je peux venir ?*",
+      "options": ["Puis-je venir ?", "Peux-je venir ?", "Je peux-venir ?", "Peut-je venir ?"],
+      "answer": 0,
+      "explanation": "*Peux-je* does not exist: the inverted form is **puis-je**."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Written style: \"Can you bring the document?\"",
+      "words": ["Pouvez-vous", "apporter", "le", "document ?"],
+      "answer": "Pouvez-vous apporter le document ?",
+      "explanation": "Swap verb and subject with a hyphen: **Pouvez-vous** + infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right word: Je voudrais des renseignements ___ votre association.",
+      "options": ["sur", "à", "en", "chez"],
+      "answer": 0,
+      "explanation": "**Sur** can mean *about*: *des renseignements sur ...*"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pour emprunter des livres, j'ai une carte ___ bibliothèque.",
+      "hint": "link the two nouns",
+      "answers": ["de"],
+      "explanation": "Noun + **de** + noun: *une carte **de** bibliothèque* (a library card)."
+    }
+  ]
+}

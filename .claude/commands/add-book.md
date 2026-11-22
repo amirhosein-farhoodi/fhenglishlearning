@@ -47,7 +47,10 @@ Follow these steps exactly and report progress after each one.
    another book, `sections` copied from the book's Contents pages (every unit in exactly one
    section) and `unitTitles` for **every** unit.
    Also set `category` (an id from `src/content/categories.ts`) and `order` (its slot on that shelf,
-   ascending). Ask the user where the book belongs if it is not obviously grammar. A shelf shows its
+   ascending). Ask the user where the book belongs if it is not obviously grammar.
+   A book that teaches a language other than English goes on the `languages` shelf and sets
+   `language` (a code from `src/content/languages.ts`; add the language there first if it is new).
+   Its unit titles are English, since the app explains everything in English. A shelf shows its
    "coming soon" teaser only while it has no books, so nothing else needs flipping.
    Use `content-src/<slug>/raw/toc.json` as a starting point but fix any garbled titles by hand -
    for a scanned book, read the Contents pages as images instead.
@@ -57,6 +60,9 @@ Follow these steps exactly and report progress after each one.
    precisely. This is the long step:
    - Do units in batches of about 10 per subagent (about 6 for a scanned book, since each unit
      costs several page images) and run several subagents in parallel.
+   - For a `languages` book, subagents also read `tools/prompts/author-language-unit.md` (no answer
+     key, English explanations, accents, how a long course-book unit splits into lessons), and the
+     golden examples are `src/content/books/vite-et-bien-1/units/unit-001.json` and `unit-002.json`.
    - Each subagent must first read `tools/prompts/author-unit.md`, `src/content/types.ts`, the book's
      `book.json` and the golden example
      `src/content/books/english-grammar-in-use/units/unit-001.json`, then author its batch and run

@@ -1,0 +1,194 @@
+{
+  "number": 20,
+  "title": "The passé composé with être",
+  "subtitle": "je suis allé(e), je me suis levé(e)",
+  "summary": "Form the passé composé of movement verbs and reflexive verbs with être, and make the past participle agree with the subject.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Which verbs take être?",
+      "text": "Most verbs form the passé composé with *avoir*. A small group uses **être** instead: mostly verbs of movement or change of state - **aller, venir, partir, arriver, entrer, sortir, monter, descendre, retourner, tomber, rester, passer, naître, mourir** (and *revenir, rentrer*). **All reflexive verbs** (*se lever, s'occuper ...*) also take être.",
+      "examples": [
+        { "text": "Il **est arrivé** à Époisses.", "note": "He arrived in Époisses." },
+        { "text": "Il **est resté** quatre jours seulement.", "note": "He stayed only four days." },
+        { "text": "Il **est rentré** dimanche soir à Paris.", "note": "He came back home on Sunday evening." },
+        { "text": "Je **me suis promené** dans la vieille ville.", "note": "I went for a walk in the old town." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Aller in the passé composé",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["je **suis allé(e)**", "je **ne suis pas** allé(e)"],
+        ["tu **es allé(e)**", "tu **n'es pas** allé(e)"],
+        ["il / elle / on **est allé(e)(s)**", "il / elle / on **n'est pas** allé(e)(s)"],
+        ["nous **sommes allé(e)s**", "nous **ne sommes pas** allé(e)s"],
+        ["vous **êtes allé(e)(s)**", "vous **n'êtes pas** allé(e)(s)"],
+        ["ils / elles **sont allé(e)s**", "ils / elles **ne sont pas** allé(e)s"]
+      ],
+      "note": "In the negative, **ne ... pas** goes around the auxiliary *être*, not around the participle."
+    },
+    {
+      "type": "table",
+      "heading": "Past participles to learn",
+      "columns": ["Verb", "Passé composé", "In English"],
+      "rows": [
+        ["sortir", "je suis **sorti(e)**", "I went out"],
+        ["partir", "je suis **parti(e)**", "I left"],
+        ["venir", "je suis **venu(e)**", "I came"],
+        ["tomber", "je suis **tombé(e)**", "I fell"],
+        ["descendre", "je suis **descendu(e)**", "I went down"],
+        ["naître", "je suis **né(e)**", "I was born"],
+        ["mourir", "il est **mort** / elle est **morte**", "he / she died"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Reflexive verbs: s'occuper (to take care of)",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["je **me suis** occupé(e)", "je **ne me suis pas** occupé(e)"],
+        ["tu **t'es** occupé(e)", "tu **ne t'es pas** occupé(e)"],
+        ["il / elle / on **s'est** occupé(e)(s)", "il / elle / on **ne s'est pas** occupé(e)(s)"],
+        ["nous **nous sommes** occupé(e)s", "nous **ne nous sommes pas** occupé(e)s"],
+        ["vous **vous êtes** occupé(e)(s)", "vous **ne vous êtes pas** occupé(e)(s)"],
+        ["ils / elles **se sont** occupé(e)s", "ils / elles **ne se sont pas** occupé(e)s"]
+      ],
+      "note": "The same pattern for *se lever* (je me suis **levé(e)**), *se coucher* (**couché(e)**), *se débrouiller* (**débrouillé(e)**), *s'entendre* (**entendu(e)**), *s'inscrire* (**inscrit(e)**)."
+    },
+    {
+      "type": "explain",
+      "heading": "The participle agrees with the subject",
+      "text": "With être, treat the past participle like an adjective: add **-e** for a feminine subject, **-s** for a plural one, **-es** for feminine plural. A woman writing about herself adds the *-e* too. You usually can't hear the difference, but you must write it.",
+      "examples": [
+        { "text": "Anne **est allée** au cinéma.", "note": "feminine singular: -e" },
+        { "text": "Anne et Christian **sont revenus** tard.", "note": "mixed group = masculine plural: -s" },
+        { "text": "Claire et Anne **sont parties** en vacances.", "note": "feminine plural: -es" },
+        { "text": "Christian écrit : « je suis **allé** au cinéma. » Anne écrit : « je suis **allée** au cinéma. »", "note": "The writer's gender decides." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "On = nous, and passer = to go via",
+      "text": "When **on** means *we*, the participle goes plural (and feminine if the group is all women). **Passer** meaning *to go / call in somewhere* or *to go via* also takes être.",
+      "examples": [
+        { "text": "Paul et moi, **on est allés** au cinéma.", "note": "Paul and I went to the cinema." },
+        { "text": "Florence et moi, **on est revenues** tard.", "note": "Florence and I (two women) came back late." },
+        { "text": "Il **est passé** à la poste avant d'aller au bureau.", "note": "He called in at the post office before going to the office." },
+        { "text": "— Par où est-ce que vous êtes passés ? — Nous **sommes passés** par Rennes.", "note": "Which way did you go? - We went via Rennes." }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "With a reflexive verb, the little pronoun stays in front of *être*, and the negative wraps around both: *Je **ne me suis** même **pas** rasé !* - I didn't even shave!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "In the passé composé, does the verb take avoir or être?",
+      "categories": ["avoir", "être"],
+      "items": [
+        { "text": "visiter", "category": 0 },
+        { "text": "acheter", "category": 0 },
+        { "text": "manger", "category": 0 },
+        { "text": "voir", "category": 0 },
+        { "text": "aller", "category": 1 },
+        { "text": "tomber", "category": 1 },
+        { "text": "rester", "category": 1 },
+        { "text": "se lever", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle ___ avec son ami.",
+      "hint": "(venir, passé composé)",
+      "answers": ["est venue"],
+      "explanation": "Venir takes être, and the participle agrees with *elle*: **est venue**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il ___ en faisant du ski.",
+      "hint": "(tomber, passé composé)",
+      "answers": ["est tombé"],
+      "explanation": "Tomber takes être: **il est tombé**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle est arrivé___ mercredi matin.",
+      "hint": "add the right ending: e, s or es",
+      "answers": ["e"],
+      "explanation": "Feminine singular subject: **arrivée**."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each subject with the end of the sentence.",
+      "pairs": [
+        { "left": "Vincent", "right": "est parti en vacances." },
+        { "left": "Raphaël et Bruno", "right": "ne sont pas venus à la fête." },
+        { "left": "Patricia et Béatrice", "right": "se sont inscrites à un club de tennis." },
+        { "left": "Sophie", "right": "est restée à la maison le week-end dernier." },
+        { "left": "Vous", "right": "êtes allé au théâtre ?" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je ___ à un club de danse.",
+      "hint": "(s'inscrire, passé composé)",
+      "answers": ["me suis inscrit", "me suis inscrite"],
+      "explanation": "Reflexive verbs take être: **je me suis inscrit(e)**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Put into the passé composé: *Il ne vient pas à la fête.*",
+      "options": [
+        "Il n'est pas venu à la fête.",
+        "Il n'a pas venu à la fête.",
+        "Il n'est venu pas à la fête.",
+        "Il ne pas est venu à la fête."
+      ],
+      "answer": 0,
+      "explanation": "Venir takes **être**, and **ne ... pas** goes around the auxiliary: *il **n'est pas** venu*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Put into the passé composé: *Nous passons à la poste.* (a group of men)",
+      "options": [
+        "Nous sommes passés à la poste.",
+        "Nous avons passé à la poste.",
+        "Nous sommes passé à la poste.",
+        "Nous êtes passés à la poste."
+      ],
+      "answer": 0,
+      "explanation": "*Passer* = to call in somewhere takes **être**, and the participle agrees: **nous sommes passés**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Ils ont arrivé à l'heure.",
+      "answer": false,
+      "explanation": "Arriver takes être: *Ils **sont arrivés** à l'heure.*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Paul et moi, on est allés au cinéma.",
+      "answer": true,
+      "explanation": "When **on** means *nous*, the participle is plural: **allés**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elles se sont couché___ tard.",
+      "hint": "add the right ending: e, s or es",
+      "answers": ["es"],
+      "explanation": "Reflexive verb with être, feminine plural subject: **couchées**."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Answer the question: *La danseuse va se préparer ?* \"No, she's already got ready.\"",
+      "words": ["Non,", "elle", "s'est", "déjà", "préparée."],
+      "answer": "Non, elle s'est déjà préparée.",
+      "explanation": "Reflexive verb with être; *déjà* goes between the auxiliary and the participle, which agrees: **préparée**."
+    }
+  ]
+}

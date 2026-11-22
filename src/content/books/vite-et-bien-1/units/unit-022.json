@@ -1,0 +1,194 @@
+{
+  "number": 22,
+  "title": "Il faut, indefinites and adjective position",
+  "subtitle": "il faut repeindre, tous les châteaux, un beau jardin",
+  "summary": "Say what is necessary with il faut, use avoir besoin de and avoir envie de, quantify with quelques, plusieurs and tout, and put adjectives in the right place.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Il faut = it is necessary",
+      "text": "**Il faut** never changes - it has only the *il* form. Follow it with a **noun** (what you need) or an **infinitive** (what must be done). It often translates as *you need*, *we must* or *it needs*.",
+      "examples": [
+        { "text": "**Il faut** un peu de lumière.", "note": "You need a bit of light." },
+        { "text": "Pour faire ce plat, **il faut** des tomates.", "note": "To make this dish, you need tomatoes." },
+        { "text": "**Il faut** repeindre l'appartement.", "note": "The flat needs repainting." },
+        { "text": "Pour bien parler français, **il faut** connaître la grammaire !", "note": "To speak French well, you have to know the grammar!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Avoir + a noun without an article",
+      "text": "Many everyday expressions use **avoir** + a bare noun where English uses *to be* or *to need*. **Avoir besoin de** (to need) is strong - it's essential. **Avoir envie de** means *to feel like* or *want*. Both take a noun or an infinitive, and *de* becomes **d'** before a vowel.",
+      "examples": [
+        { "text": "J'**ai besoin d'**argent.", "note": "I need money (to pay my rent)." },
+        { "text": "Il **a besoin de** se reposer.", "note": "He needs to rest." },
+        { "text": "Nous **avons envie d'**une bonne tarte.", "note": "We feel like a nice tart." },
+        { "text": "Je **n'ai pas envie de** sortir, ce soir.", "note": "I don't feel like going out tonight." },
+        { "text": "**avoir faim**, **avoir soif**, **avoir sommeil**", "note": "to be hungry, to be thirsty, to be sleepy" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Quelques, plusieurs - and tout",
+      "text": "**Quelques** and **plusieurs** both mean *a few / several / a certain number of*. **Tout** on its own means *everything*; in the passé composé it goes before the participle.",
+      "examples": [
+        { "text": "Je peux vous poser **quelques** questions ?", "note": "May I ask you a few questions?" },
+        { "text": "Elle utilise **plusieurs** dictionnaires.", "note": "She uses several dictionaries." },
+        { "text": "**Tout** est sale ! **Tout** va bien ! Il comprend **tout** !", "note": "Everything is dirty! Everything's fine! He understands everything!" },
+        { "text": "J'ai **tout** lu. Ils ont **tout** vendu.", "note": "I've read everything. They've sold everything." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Tout le, toute la, tous les, toutes les (all the, the whole)",
+      "columns": ["", "Singular", "Plural"],
+      "rows": [
+        ["Masculine", "**tout le** monde (everyone)", "**tous les** garçons"],
+        ["Feminine", "**toute la** région (the whole region)", "**toutes les** filles"]
+      ],
+      "note": "*Tout* agrees with the noun that follows it: *J'ai visité **toute la** région. Ils ont invité **tous les** garçons et **toutes les** filles.*"
+    },
+    {
+      "type": "explain",
+      "heading": "Where does the adjective go?",
+      "text": "Most adjectives go **after** the noun. A few short, very common ones go **before** it: *petit, grand, joli, beau, bon, mauvais, gros*. In careful French, **des** becomes **de** when the adjective comes before a plural noun.",
+      "examples": [
+        { "text": "une maison **confortable**, un appartement **sale**, **sombre**", "note": "after the noun - the usual place" },
+        { "text": "un **petit** appartement, une **jolie** femme, un **grand** jardin", "note": "before the noun" },
+        { "text": "un **bon** café, un **mauvais** film, un **gros** problème", "note": "a good coffee, a bad film, a big problem" },
+        { "text": "**de** beaux châteaux", "wrong": "des beaux châteaux", "note": "careful French; you will hear *des beaux* in conversation" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Irregular adjectives and plurals",
+      "columns": ["Masc. singular", "Fem. singular", "Masc. plural", "Fem. plural"],
+      "rows": [
+        ["beau", "**belle**", "**beaux**", "belles"],
+        ["nouveau", "**nouvelle**", "**nouveaux**", "nouvelles"],
+        ["vieux", "**vieille**", "vieux", "vieilles"],
+        ["général", "générale", "**généraux**", "générales"]
+      ],
+      "note": "Nouns follow the same plural rules: **-eau → -eaux** (*un château → des châteaux*) and **-al → -aux** (*un canal → des canaux*, *un journal → des journaux*). Most adjectives in *-al* do the same: *des exercices **oraux***. Before a masculine noun starting with a vowel, *beau* becomes **bel**: *un **bel** appartement*."
+    },
+    {
+      "type": "explain",
+      "heading": "Noun + à + infinitive",
+      "text": "**À** + infinitive after a noun says what has to be done with it - like English *to rent*, *to do*. You see it in every property advert.",
+      "examples": [
+        { "text": "une maison **à vendre**", "note": "a house for sale" },
+        { "text": "un appartement **à louer**", "note": "a flat to rent" },
+        { "text": "des travaux **à faire**", "note": "work to be done" },
+        { "text": "une pièce **à repeindre**, une voiture **à réparer**", "note": "a room to repaint, a car to repair" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each expression with its meaning.",
+      "pairs": [
+        { "left": "avoir faim", "right": "to be hungry" },
+        { "left": "avoir soif", "right": "to be thirsty" },
+        { "left": "avoir sommeil", "right": "to be sleepy" },
+        { "left": "avoir besoin de", "right": "to need" },
+        { "left": "avoir envie de", "right": "to feel like" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pour faire ce plat, ___ des tomates.",
+      "hint": "you need",
+      "answers": ["il faut"],
+      "explanation": "**Il faut** + noun = you need ..."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Does the adjective usually go before or after the noun?",
+      "categories": ["Before the noun", "After the noun"],
+      "items": [
+        { "text": "petit", "category": 0 },
+        { "text": "bon", "category": 0 },
+        { "text": "beau", "category": 0 },
+        { "text": "mauvais", "category": 0 },
+        { "text": "confortable", "category": 1 },
+        { "text": "sombre", "category": 1 },
+        { "text": "intéressant", "category": 1 },
+        { "text": "médiéval", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Answer in the negative: *Est-ce que tu as besoin d'argent ?* — Non, ...",
+      "options": [
+        "je n'ai pas besoin d'argent.",
+        "je n'ai besoin pas d'argent.",
+        "je ne suis pas besoin d'argent.",
+        "je n'ai pas un besoin d'argent."
+      ],
+      "answer": 0,
+      "explanation": "**ne ... pas** goes around *ai*, and the expression stays **avoir besoin de**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Est-ce qu'ils ont faim ? — Non, ils ___ faim.",
+      "hint": "(avoir, negative)",
+      "answers": ["n'ont pas"],
+      "explanation": "*Avoir faim* in the negative: **ils n'ont pas faim** - no article."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "une ___ voiture",
+      "hint": "(vieux)",
+      "answers": ["vieille"],
+      "explanation": "*Vieux* goes before the noun, and its feminine is irregular: **une vieille voiture**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "In careful French, which is correct? \"We visited some beautiful castles.\"",
+      "options": [
+        "Nous avons visité de beaux châteaux.",
+        "Nous avons visité des châteaux beaux.",
+        "Nous avons visité de belles châteaux.",
+        "Nous avons visité des beaus châteaux."
+      ],
+      "answer": 0,
+      "explanation": "*Beau* goes before the noun, so **des → de**; *château* is masculine and *beau* → **beaux**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il y a un joli canal dans la ville ? — En fait, il y a plusieurs jolis ___ dans la ville.",
+      "hint": "(canal, plural)",
+      "answers": ["canaux"],
+      "explanation": "Nouns in **-al** make their plural in **-aux**: *un canal → des canaux*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous n'avons pas visité ___ châteaux de la Loire !",
+      "hint": "tout le / toute la / tous les / toutes les",
+      "answers": ["tous les"],
+      "explanation": "*Châteaux* is masculine plural: **tous les**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il a passé ___ journée à jardiner.",
+      "hint": "tout le / toute la / tous les / toutes les",
+      "answers": ["toute la"],
+      "explanation": "*Journée* is feminine singular: **toute la journée** - the whole day."
+    },
+    {
+      "type": "true_false",
+      "statement": "Toute le monde sait que la grammaire est importante.",
+      "answer": false,
+      "explanation": "*Monde* is masculine: **Tout le monde** sait que ..."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Answer the question: *Tu vends un meuble ?* \"Yes, I've got a piece of furniture to sell.\"",
+      "words": ["Oui,", "j'ai", "un meuble", "à", "vendre."],
+      "answer": "Oui, j'ai un meuble à vendre.",
+      "explanation": "Noun + **à** + infinitive: *un meuble à vendre*."
+    }
+  ]
+}

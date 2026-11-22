@@ -1,0 +1,197 @@
+{
+  "number": 8,
+  "title": "Irregular verbs and question words",
+  "subtitle": "je fais, je vais, je prends ... où, quand, comment ?",
+  "summary": "Conjugate eight common irregular verbs, use en/au/aux with countries and chez with people, ask open questions, use ordinals and say on for nous.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Faire, aller, prendre, mettre",
+      "columns": ["Faire (do, make)", "Aller (go)", "Prendre (take)", "Mettre (put)"],
+      "rows": [
+        ["je **fais**", "je **vais**", "je **prends**", "je **mets**"],
+        ["tu **fais**", "tu **vas**", "tu **prends**", "tu **mets**"],
+        ["il / elle / on **fait**", "il / elle / on **va**", "il / elle / on **prend**", "il / elle / on **met**"],
+        ["nous **faisons**", "nous **allons**", "nous **prenons**", "nous **mettons**"],
+        ["vous **faites**", "vous **allez**", "vous **prenez**", "vous **mettez**"],
+        ["ils / elles **font**", "ils / elles **vont**", "ils / elles **prennent**", "ils / elles **mettent**"]
+      ],
+      "note": "**Comprendre** (understand) follows *prendre*: je comprends, nous comprenons, ils comprennent. Watch out: **vous faites**, never ~~vous faisez~~."
+    },
+    {
+      "type": "table",
+      "heading": "Partir, venir, voir",
+      "columns": ["Partir (leave)", "Venir (come)", "Voir (see)"],
+      "rows": [
+        ["je **pars**", "je **viens**", "je **vois**"],
+        ["tu **pars**", "tu **viens**", "tu **vois**"],
+        ["il / elle / on **part**", "il / elle / on **vient**", "il / elle / on **voit**"],
+        ["nous **partons**", "nous **venons**", "nous **voyons**"],
+        ["vous **partez**", "vous **venez**", "vous **voyez**"],
+        ["ils / elles **partent**", "ils / elles **viennent**", "ils / elles **voient**"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Countries: en or au?",
+      "left": {
+        "label": "Feminine country → en",
+        "text": "Most countries ending in **-e** are feminine.",
+        "examples": ["Il habite **en** France.", "Elle va **en** Allemagne.", "Ils travaillent **en** Espagne, **en** Italie."]
+      },
+      "right": {
+        "label": "Masculine country → au (plural → aux)",
+        "text": "**Au** = *à + le*, **aux** = *à + les*.",
+        "examples": ["Il va **au** Maroc.", "Elle habite **au** Canada.", "Ils sont **aux** États-Unis."]
+      },
+      "note": "The same word means both *in* and *to*: *J'habite en France* (in), *Je vais en France* (to)."
+    },
+    {
+      "type": "explain",
+      "heading": "Chez - at someone's place",
+      "text": "**Chez** + a person means *at / to that person's home*. There is no English word for it.",
+      "examples": [
+        { "text": "Nous allons **chez** des amis.", "note": "We're going to some friends' place." },
+        { "text": "Il habite **chez** ses parents.", "note": "He lives at his parents' house." },
+        { "text": "Nous dînons **chez** Paul.", "note": "We're having dinner at Paul's." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Question words + est-ce que",
+      "text": "Put the question word first, then **est-ce que** (or **est-ce qu'** before a vowel), then the ordinary sentence.",
+      "examples": [
+        { "text": "— **Où** est-ce qu'elle habite ? — À Aix-en-Provence.", "note": "Where does she live?" },
+        { "text": "— **Qu'est-ce qu'**ils font ? — Ils réservent une chambre.", "note": "What are they doing?" },
+        { "text": "— **Comment** est-ce que vous allez à Lyon ? — En TGV.", "note": "How are you getting to Lyon? - By high-speed train." },
+        { "text": "— **Pourquoi** est-ce que vous ne partez pas ? — **Parce que** je suis malade.", "note": "Why aren't you leaving? - Because I'm ill." },
+        { "text": "— **Quand** est-ce qu'ils viennent ? — Mardi prochain.", "note": "When are they coming? - Next Tuesday." },
+        { "text": "— **Combien** est-ce que ça coûte ? / **À quelle heure** est-ce qu'il vient ?", "note": "How much does it cost? / What time is he coming?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Ordinal numbers - first, second ...",
+      "columns": ["", "Ordinal", "In English"],
+      "rows": [
+        ["1er / 1re", "**premier** / **première**", "first"],
+        ["2e", "deux**ième**", "second"],
+        ["3e", "trois**ième**", "third"],
+        ["10e", "dix**ième**", "tenth"],
+        ["100e", "cent**ième**", "hundredth"]
+      ],
+      "note": "Only **premier** changes for gender and number: *la **première** fois, les **premiers** livres, les **premières** personnes*. The others just add *-ième*: *la deuxième fois, le cinquième hôtel*."
+    },
+    {
+      "type": "explain",
+      "heading": "On = nous",
+      "text": "In everyday speech, **on** replaces **nous**. It takes the *il / elle* form of the verb.",
+      "examples": [
+        { "text": "— Où est-ce qu'**on va** ? — **On va** au cinéma.", "wrong": "On allons", "note": "Where are we going? - We're going to the cinema." },
+        { "text": "— Qu'est-ce qu'**on fait** ? — **On prend** un café.", "note": "What shall we do? - Let's have a coffee." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with its form of aller.",
+      "pairs": [
+        { "left": "je", "right": "vais" },
+        { "left": "tu", "right": "vas" },
+        { "left": "nous", "right": "allons" },
+        { "left": "vous", "right": "allez" },
+        { "left": "ils", "right": "vont" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous ___ du sport ?",
+      "hint": "(faire)",
+      "answers": ["faites"],
+      "explanation": "Faire: **vous faites** - an irregular form."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ___ le train.",
+      "hint": "(prendre)",
+      "answers": ["prennent"],
+      "explanation": "Prendre: **ils prennent** - with a double *n*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mes amis ___ mardi prochain.",
+      "hint": "(venir)",
+      "answers": ["viennent"],
+      "explanation": "Venir: **ils viennent**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle ___ deux heures pour venir.",
+      "hint": "(mettre)",
+      "answers": ["met"],
+      "explanation": "Mettre: **elle met** - no ending after the *t*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "En, au or aux? Sort the countries.",
+      "categories": ["en", "au", "aux"],
+      "items": [
+        { "text": "France", "category": 0 },
+        { "text": "Irlande", "category": 0 },
+        { "text": "Italie", "category": 0 },
+        { "text": "Maroc", "category": 1 },
+        { "text": "Canada", "category": 1 },
+        { "text": "Brésil", "category": 1 },
+        { "text": "Portugal", "category": 1 },
+        { "text": "États-Unis", "category": 2 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous dînons ___ Paul.",
+      "hint": "at Paul's home",
+      "answers": ["chez"],
+      "explanation": "**Chez** + a person = at that person's home."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Comment est-ce que vous partez au Luxembourg ?", "right": "En voiture." },
+        { "left": "Où est-ce qu'ils habitent ?", "right": "À Liège." },
+        { "left": "À quelle heure est-ce qu'il vient ?", "right": "À 20 h 30." },
+        { "left": "Pourquoi est-ce que tu prends le train ?", "right": "Parce que c'est plus rapide." },
+        { "left": "Quand est-ce que tes amis partent au Brésil ?", "right": "Samedi prochain." },
+        { "left": "Combien coûte le billet d'avion ?", "right": "387 euros." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right form: C'est la ___ fois que je vais en Espagne.",
+      "options": ["première", "premier", "premiers", "premières"],
+      "answer": 0,
+      "explanation": "*Fois* is feminine singular, so **première**."
+    },
+    {
+      "type": "true_false",
+      "statement": "On allons au cinéma ce soir.",
+      "answer": false,
+      "explanation": "**On** takes the *il / elle* form: *On **va** au cinéma ce soir.*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Nous partons en Grèce jeudi.",
+      "answer": true,
+      "explanation": "Partir: **nous partons**; *la Grèce* is feminine, so **en** Grèce."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask: \"How are you going to the airport?\"",
+      "words": ["Comment", "est-ce que", "vous", "allez", "à", "l'aéroport ?"],
+      "answer": "Comment est-ce que vous allez à l'aéroport ?",
+      "explanation": "Question word + **est-ce que** + the ordinary sentence."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "number": 18,
+  "title": "Irregular past participles and the gerund",
+  "subtitle": "j'ai pris, j'ai vu, en faisant",
+  "summary": "Use irregular verbs in the passé composé, say what you have already, not yet or never done, describe how and when with the gerund, and answer negative questions with si.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Four irregular verbs in the passé composé",
+      "columns": ["prendre", "faire", "finir", "voir"],
+      "rows": [
+        ["j'ai **pris**", "j'ai **fait**", "j'ai **fini**", "j'ai **vu**"],
+        ["tu as **pris**", "tu as **fait**", "tu as **fini**", "tu as **vu**"],
+        ["il / elle / on a **pris**", "il / elle / on a **fait**", "il / elle / on a **fini**", "il / elle / on a **vu**"],
+        ["nous avons **pris**", "nous avons **fait**", "nous avons **fini**", "nous avons **vu**"],
+        ["vous avez **pris**", "vous avez **fait**", "vous avez **fini**", "vous avez **vu**"],
+        ["ils / elles ont **pris**", "ils / elles ont **fait**", "ils / elles ont **fini**", "ils / elles ont **vu**"]
+      ],
+      "note": "The system is the same as for regular verbs - *avoir* + past participle - but the participle has to be learned."
+    },
+    {
+      "type": "table",
+      "heading": "More irregular past participles",
+      "columns": ["Ends in -u", "Other endings"],
+      "rows": [
+        ["pouvoir → j'ai **pu**", "dire → j'ai **dit**"],
+        ["devoir → j'ai **dû**", "comprendre → j'ai **compris**"],
+        ["vouloir → j'ai **voulu**", "apprendre → j'ai **appris**"],
+        ["recevoir → j'ai **reçu**", "mettre → j'ai **mis**"],
+        ["avoir → j'ai **eu**", "être → j'ai **été**"],
+        ["entendre → j'ai **entendu**", "ouvrir → j'ai **ouvert**"],
+        ["lire → j'ai **lu**", "découvrir → j'ai **découvert**"]
+      ],
+      "note": "Most verbs ending in **-oir** or **-oire** have a past participle in **-u**."
+    },
+    {
+      "type": "explain",
+      "heading": "Déjà, pas encore, jamais, toujours",
+      "text": "**Déjà** (already) goes between *avoir* and the participle. To answer no, say **pas encore** (not yet - you still intend to) or **jamais** (never - not once so far). Never say ~~pas déjà~~. **Toujours** with the passé composé means *always, without a break*.",
+      "examples": [
+        { "text": "Tu as **déjà** visité le musée d'Orsay ?", "note": "Have you already visited the Musée d'Orsay?" },
+        { "text": "Non, je **n'ai pas encore** visité ce musée.", "wrong": "je n'ai pas déjà visité", "note": "No, I haven't visited it yet (but I mean to)." },
+        { "text": "Non, je **n'ai jamais** visité ce musée.", "note": "No, I've never visited it." },
+        { "text": "Elle a **toujours** travaillé.", "note": "She has always worked (she never stopped)." },
+        { "text": "Il a **toujours** habité à Lyon.", "note": "He has always lived in Lyon." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The gerund: en + -ant",
+      "text": "Take the **nous** form of the present, drop *-ons* and add **-ant**, then put **en** in front. The gerund says *how* something happened or *when* - while doing something else. Two exceptions: *être* → **en étant**, *avoir* → **en ayant**.",
+      "examples": [
+        { "text": "prendre → nous pren-ons → **en prenant**", "note": "(by / while) taking" },
+        { "text": "faire → nous fais-ons → **en faisant**", "note": "(by / while) doing" },
+        { "text": "aller → nous all-ons → **en allant**", "note": "(by / while) going" },
+        { "text": "Elle est tombée **en faisant** le ménage.", "note": "She fell while doing the housework. (how?)" },
+        { "text": "J'ai rencontré un ami **en partant** au travail.", "note": "I met a friend as I was leaving for work. (when?)" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Oui or si?",
+      "left": {
+        "label": "Oui - yes to a positive question",
+        "examples": ["— Vous êtes français ?", "— **Oui**, je suis français !"]
+      },
+      "right": {
+        "label": "Si - yes to a negative question",
+        "examples": ["— Vous **n'**êtes **pas** français ?", "— **Si**, je suis français !"]
+      },
+      "note": "To *disagree* with a negative question you say **si**; *oui* would sound wrong."
+    },
+    {
+      "type": "explain",
+      "heading": "Trop / pas assez + adjective + pour",
+      "text": "**Trop** (too) and **pas assez** (not ... enough) go before an adjective, often followed by **pour** + infinitive.",
+      "examples": [
+        { "text": "Elle est **trop** fatiguée **pour** sortir.", "note": "She's too tired to go out." },
+        { "text": "Il **n'est pas assez** intelligent **pour** comprendre.", "note": "He isn't clever enough to understand." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each verb with its past participle.",
+      "pairs": [
+        { "left": "pouvoir", "right": "pu" },
+        { "left": "recevoir", "right": "reçu" },
+        { "left": "lire", "right": "lu" },
+        { "left": "mettre", "right": "mis" },
+        { "left": "ouvrir", "right": "ouvert" },
+        { "left": "avoir", "right": "eu" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ___ le portugais.",
+      "hint": "(apprendre) - passé composé",
+      "answers": ["ont appris"],
+      "explanation": "Apprendre → **appris**, like *prendre → pris*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tu ___ Sarah ?",
+      "hint": "(voir) - passé composé",
+      "answers": ["as vu"],
+      "explanation": "Voir → **vu**: *tu as vu*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous ___ une lettre importante.",
+      "hint": "(recevoir) - passé composé",
+      "answers": ["avez reçu"],
+      "explanation": "Recevoir → **reçu** (with *ç*): *vous avez reçu*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Elle ___ le TGV pour aller à Marseille.",
+      "options": ["a pris", "a prendu", "a prit", "a prenu"],
+      "answer": 0,
+      "explanation": "Prendre → **pris**: *elle a pris le TGV*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tu as déjà visité le musée d'Orsay ? — Non, ... (but you plan to go)",
+      "options": [
+        "je n'ai pas encore visité ce musée.",
+        "je n'ai pas déjà visité ce musée.",
+        "je n'ai jamais visité ce musée.",
+        "j'ai toujours visité ce musée."
+      ],
+      "answer": 0,
+      "explanation": "**Pas encore** = not yet, and you still intend to. *Jamais* just means never, and says nothing about a plan to go."
+    },
+    {
+      "type": "true_false",
+      "statement": "Je n'ai pas déjà fini.",
+      "answer": false,
+      "explanation": "The negative of *déjà* is **pas encore**: *Je n'ai **pas encore** fini.*"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand est-ce que tu as vu Agathe ? — ___ au cinéma.",
+      "hint": "(aller) - gerund",
+      "answers": ["En allant"],
+      "explanation": "nous all-ons → **en allant**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Comment est-ce que tu as appris la nouvelle ? — ___ le journal.",
+      "hint": "(lire) - gerund",
+      "answers": ["En lisant"],
+      "explanation": "nous lis-ons → **en lisant**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand est-ce que tu as cassé le vase ? — Ce matin, ___ le ménage.",
+      "hint": "(faire) - gerund",
+      "answers": ["en faisant"],
+      "explanation": "nous fais-ons → **en faisant**."
+    },
+    {
+      "type": "categorize",
+      "prompt": "You want to answer \"yes\". Do you start with Oui or Si?",
+      "categories": ["Oui", "Si"],
+      "items": [
+        { "text": "Il prend sa douche ?", "category": 0 },
+        { "text": "Vous êtes français ?", "category": 0 },
+        { "text": "Tu as fait les courses ?", "category": 0 },
+        { "text": "Vous n'êtes pas désordonné ?", "category": 1 },
+        { "text": "Tu ne mets pas de crème ?", "category": 1 },
+        { "text": "Elle n'a pas mis la table ?", "category": 1 }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"She's too tired to go out.\"",
+      "words": ["Elle", "est", "trop", "fatiguée", "pour", "sortir."],
+      "answer": "Elle est trop fatiguée pour sortir.",
+      "explanation": "**trop** + adjective + **pour** + infinitive."
+    }
+  ]
+}

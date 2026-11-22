@@ -1,0 +1,188 @@
+{
+  "number": 6,
+  "title": "Regular -er verbs, questions and possessives",
+  "subtitle": "je parle, est-ce que ... ?, mon/ma/mes",
+  "summary": "Conjugate regular -er verbs, ask yes/no questions, say whose something is, give your age, and count into the thousands.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parler (to speak): a regular -er verb",
+      "columns": ["Affirmative", "Negative", "In English"],
+      "rows": [
+        ["je parl**e**", "je **ne** parle **pas**", "I speak"],
+        ["tu parl**es**", "tu **ne** parles **pas**", "you speak"],
+        ["il / elle / on parl**e**", "il / elle / on **ne** parle **pas**", "he / she / one speaks"],
+        ["nous parl**ons**", "nous **ne** parlons **pas**", "we speak"],
+        ["vous parl**ez**", "vous **ne** parlez **pas**", "you speak"],
+        ["ils / elles parl**ent**", "ils / elles **ne** parlent **pas**", "they speak"]
+      ],
+      "note": "Most verbs ending in **-er** follow this pattern: take off *-er* and add the endings. Like *parler*: chercher, dîner, travailler, regarder, organiser, préparer ..."
+    },
+    {
+      "type": "explain",
+      "heading": "Sound and spelling",
+      "text": "Four forms sound exactly the same: *je trouve*, *tu trouves*, *il trouve*, *ils trouvent* - the **-ent** of *ils/elles* is never pronounced. *Trouver* and *vous trouvez* also sound alike. Before a vowel or a silent *h*, **je** becomes **j'** and **ne** becomes **n'**.",
+      "examples": [
+        { "text": "**j'**aime, je **n'**aime pas", "note": "I like, I don't like" },
+        { "text": "**j'**invite, je **n'**invite pas", "note": "I invite, I don't invite" },
+        { "text": "**j'**habite, je **n'**habite pas", "note": "I live, I don't live" },
+        { "text": "Ils parl**ent** sounds exactly like il parle.", "note": "the -ent ending is silent" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Asking a yes/no question",
+      "left": {
+        "label": "Intonation only",
+        "text": "Say the sentence with a rising voice. Common in conversation.",
+        "examples": ["Vous habitez à Lyon ?", "Elle parle chinois ?", "Ils étudient le grec ?"]
+      },
+      "right": {
+        "label": "Est-ce que + sentence",
+        "text": "Put **est-ce que** in front. **Que** becomes **qu'** before a vowel.",
+        "examples": ["**Est-ce que** vous travaillez à Dijon ?", "**Est-ce qu'**il déjeune dans un bistrot ?", "**Est-ce que** tu aimes les langues étrangères ?"]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "Possessive adjectives - my, your, his ...",
+      "columns": ["Owner", "Masc. singular", "Fem. singular", "Plural"],
+      "rows": [
+        ["je", "**mon** père", "**ma** mère", "**mes** parents"],
+        ["tu", "**ton** père", "**ta** mère", "**tes** parents"],
+        ["il / elle", "**son** père", "**sa** mère", "**ses** parents"],
+        ["nous", "**notre** père", "**notre** mère", "**nos** parents"],
+        ["vous", "**votre** père", "**votre** mère", "**vos** parents"],
+        ["ils / elles", "**leur** père", "**leur** mère", "**leurs** parents"]
+      ],
+      "note": "The possessive agrees with the thing owned, not the owner: **son père** is Anne's father *or* Paul's father; **sa mère** is Anne's mother *or* Paul's mother."
+    },
+    {
+      "type": "tip",
+      "text": "Before a vowel or silent *h*, **ma, ta, sa** become **mon, ton, son** - even for a feminine word: **mon** amie, **ton** écharpe, **son** idée (never ~~ma amie~~)."
+    },
+    {
+      "type": "explain",
+      "heading": "Avoir + age, and c'est / ce sont",
+      "text": "French *has* an age: use **avoir** + number + **ans**, never *être*. **C'est** (it's / this is) has a plural, **ce sont**, used before a plural noun.",
+      "examples": [
+        { "text": "**J'ai** 32 **ans**. Ma fille **a** 11 **ans**.", "wrong": "Je suis 32 ans", "note": "I'm 32. My daughter is 11." },
+        { "text": "Mes parents **ont** 65 et 67 ans.", "note": "My parents are 65 and 67." },
+        { "text": "**C'est** ma mère. **C'est** mon père.", "note": "This is my mother. This is my father." },
+        { "text": "**Ce sont** mes parents. **Ce ne sont pas** mes enfants.", "note": "These are my parents. They aren't my children." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les chiffres de 101 à 10 000",
+      "columns": ["Number", "In French"],
+      "rows": [
+        ["101 / 102", "cent un / cent deux"],
+        ["200", "deux cent**s**"],
+        ["270", "deux cent soixante-dix"],
+        ["999", "neuf cent quatre-vingt-dix-neuf"],
+        ["1000 / 2000", "mille / deux mille"],
+        ["3400", "trois mille quatre cent**s**"],
+        ["10 000", "dix mille"]
+      ],
+      "note": "**Cents** takes an *-s* only when nothing follows it (*deux cents*, but *deux cent soixante-dix*). **Mille** never takes an *-s*, and you say **mille**, never ~~un mille~~."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Vous ___ à Nice ?",
+      "hint": "(habiter)",
+      "answers": ["habitez"],
+      "explanation": "-er verbs: **vous** + **-ez** → *vous habitez*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ une conférence.",
+      "hint": "(préparer)",
+      "answers": ["préparons"],
+      "explanation": "-er verbs: **nous** + **-ons** → *nous préparons*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Les filles ___ des amis.",
+      "hint": "(inviter)",
+      "answers": ["invitent"],
+      "explanation": "-er verbs: **ils / elles** + **-ent** → *elles invitent*. The *-ent* is silent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ne ___ pas ensemble.",
+      "hint": "(travailler)",
+      "answers": ["travaillons"],
+      "explanation": "*Nous travaillons* → negative: *nous **ne** travaillons **pas***."
+    },
+    {
+      "type": "mcq",
+      "prompt": "— C'est la mère de Gilles ? — Oui, c'est ___ mère.",
+      "options": ["sa", "son", "ses", "leur"],
+      "answer": 0,
+      "explanation": "*Mère* is feminine singular, so **sa** - it doesn't matter that Gilles is a man."
+    },
+    {
+      "type": "mcq",
+      "prompt": "— Ce sont les parents de Félix ? — Oui, ce sont ___ parents.",
+      "options": ["ses", "son", "sa", "leurs"],
+      "answer": 0,
+      "explanation": "One owner (Félix), several things owned (parents): **ses**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right possessive: C'est ___ amie Julie.",
+      "options": ["mon", "ma", "mes", "me"],
+      "answer": 0,
+      "explanation": "*Amie* is feminine, but it starts with a vowel, so *ma* becomes **mon**: *mon amie*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "C'est or ce sont? Sort what comes after it.",
+      "categories": ["C'est ...", "Ce sont ..."],
+      "items": [
+        { "text": "mon père", "category": 0 },
+        { "text": "ma sœur", "category": 0 },
+        { "text": "son idée", "category": 0 },
+        { "text": "votre numéro", "category": 0 },
+        { "text": "mes parents", "category": 1 },
+        { "text": "nos enfants", "category": 1 },
+        { "text": "leurs amis", "category": 1 },
+        { "text": "tes collègues", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Est-ce que il habite à Dijon ?",
+      "answer": false,
+      "explanation": "*Que* becomes **qu'** before a vowel: *Est-ce **qu'il** habite à Dijon ?*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Je suis 25 ans.",
+      "answer": false,
+      "explanation": "Age uses **avoir**: *J'**ai** 25 ans.*"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask with est-ce que: \"Do you like foreign languages?\" (to a friend)",
+      "words": ["Est-ce que", "tu", "aimes", "les", "langues", "étrangères ?"],
+      "answer": "Est-ce que tu aimes les langues étrangères ?",
+      "explanation": "**Est-ce que** + the normal sentence: *tu aimes les langues étrangères*."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the numbers.",
+      "pairs": [
+        { "left": "200", "right": "deux cents" },
+        { "left": "270", "right": "deux cent soixante-dix" },
+        { "left": "1000", "right": "mille" },
+        { "left": "2000", "right": "deux mille" },
+        { "left": "3400", "right": "trois mille quatre cents" }
+      ]
+    }
+  ]
+}

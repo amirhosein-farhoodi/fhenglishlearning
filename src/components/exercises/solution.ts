@@ -23,6 +23,7 @@ export function solutionLines(x: Exercise): string[] {
     case 'mcq':
       return [x.options[x.answer]]
     case 'true_false':
+      if (x.judge === 'fact') return [x.answer ? 'The statement is true.' : 'The statement is false.']
       return [x.answer ? 'The sentence is correct.' : 'The sentence is incorrect.']
     case 'fill_blank':
       return [x.prompt.replace('___', `**${x.answers[0]}**`), ...(x.answers.length > 1 ? [`Also accepted: ${x.answers.slice(1).join(' / ')}`] : [])]

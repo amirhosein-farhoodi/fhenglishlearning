@@ -1,0 +1,205 @@
+{
+  "number": 37,
+  "title": "University life and opinions",
+  "subtitle": "Qu'est-ce que tu penses de cette fac ?",
+  "summary": "Talk about studying at a French university, ask for someone's opinion and give your own.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Asking for an opinion",
+      "text": "There are many ways to ask what someone thinks. **Qu'est-ce que tu penses de ... ?** is the everyday one; **Je voudrais avoir votre avis sur ...** is more formal. Use *tu* or *vous* forms as the situation needs.",
+      "examples": [
+        { "text": "Dis-moi, **qu'est-ce que tu penses de** cette fac ?", "note": "Tell me, what do you think of this university?" },
+        { "text": "**Que pensez-vous de** ce projet ?", "note": "What do you think of this project?" },
+        { "text": "Monsieur, **j'aimerais avoir votre avis sur** les programmes Erasmus.", "note": "Sir, I'd like your opinion on the Erasmus programmes." },
+        { "text": "**Quel est ton point de vue sur** le sujet ?", "note": "What's your view on the subject?" },
+        { "text": "**Comment tu trouves** ce cours ?", "note": "What do you think of this class?" },
+        { "text": "**À votre avis**, où est-ce que je peux aller ?", "note": "In your opinion, where can I go?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Giving your opinion",
+      "text": "Start with a verb of opinion + **que**, or with **À mon avis**. **Ça a l'air ...** gives a first impression. If you are not sure yet, say **J'hésite un peu**.",
+      "examples": [
+        { "text": "**Je pense que** / **Je crois que** / **Je trouve que** c'est bien.", "note": "I think it's good." },
+        { "text": "**J'ai l'impression que** c'est intéressant.", "note": "I have the feeling that it's interesting." },
+        { "text": "**Il me semble que** ce programme est le meilleur.", "note": "It seems to me that this programme is the best." },
+        { "text": "**Ça a l'air bien.**", "note": "It looks good." },
+        { "text": "A priori, **je suis pour**. ≠ **Je suis contre.**", "note": "In principle I'm in favour. ≠ I'm against it." },
+        { "text": "**À mon avis**, oui.", "note": "In my opinion, yes." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Talking about an idea",
+      "columns": ["Positive", "Negative", "In English"],
+      "rows": [
+        ["C'est **intéressant**.", "C'est **ennuyeux**.", "interesting ≠ boring"],
+        ["C'est **utile**.", "C'est **inutile**.", "useful ≠ useless"],
+        ["C'est **original**.", "C'est **banal**.", "original ≠ ordinary"],
+        ["C'est **intelligent**.", "C'est **idiot**, **stupide**.", "clever ≠ stupid"],
+        ["C'est **clair**.", "C'est **confus**.", "clear ≠ muddled"],
+        ["C'est **bien organisé**.", "C'est **mal organisé**.", "well ≠ badly organised"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La fac - university words",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["la **fac** (la faculté) de droit, de médecine, des lettres", "the law / medical / arts faculty"],
+        ["la **B.U.** (bibliothèque universitaire)", "the university library"],
+        ["la **cité U** (cité universitaire)", "the student halls of residence"],
+        ["le **restau U** (restaurant universitaire)", "the university canteen"],
+        ["les **T.D.** (travaux dirigés)", "small-group classes, seminars"],
+        ["un **cours magistral** dans un **amphi**", "a lecture in a lecture hall"],
+        ["un **partiel**", "an exam during the year"],
+        ["un **exposé**, une **dissertation**, un **mémoire**", "a presentation, an essay, a dissertation"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "A student's year",
+      "text": "A student **s'inscrit** (enrols) at the university, chooses courses and **suit des cours** (attends classes). At the end, they **passent des examens** and get a degree. **Faire des études de** names the general field; **étudier** is used for a specific subject.",
+      "examples": [
+        { "text": "Je viens de **m'inscrire** en histoire.", "note": "I've just enrolled in history." },
+        { "text": "Les étudiants **prennent des notes** pendant les cours.", "note": "Students take notes during classes." },
+        { "text": "Il **passe un examen**, puis il **obtient un diplôme**.", "note": "He takes an exam, then he gets a degree." },
+        { "text": "Tu vas **faire des études de** quoi ? — **Des études d'**allemand.", "note": "What are you going to study? - German." },
+        { "text": "J'ai **fait mes études** à Marseille.", "note": "I studied (went to university) in Marseille." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Some handy phrases from the dialogues and the student email. *Coucou !* is a very casual hello for friends and family.",
+      "examples": [
+        { "text": "**C'est fait pour.**", "note": "That's what it's for." },
+        { "text": "**J'hésite un peu.**", "note": "I can't quite decide." },
+        { "text": "**Je suis débordé(e) !**", "note": "I'm snowed under (too much work)!" },
+        { "text": "**C'est dans l'air du temps !**", "note": "It's very much the trend these days!" },
+        { "text": "**Coucou !**", "note": "Hi! (very informal)" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "French degrees follow the European **L.M.D.** system: *licence* (3 years), *master* (2 years), *doctorat* (3 years). A student in **L2** is in the 2nd year of the licence; **M1** is the 1st year of the master."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each university word to its meaning.",
+      "pairs": [
+        { "left": "la B.U.", "right": "the university library" },
+        { "left": "le restau U", "right": "the university canteen" },
+        { "left": "la cité U", "right": "the student halls of residence" },
+        { "left": "un amphi", "right": "a lecture hall" },
+        { "left": "un partiel", "right": "an exam during the year" }
+      ]
+    },
+    {
+      "type": "categorize",
+      "prompt": "Positive or negative? Sort the opinions about a project.",
+      "categories": ["Positive", "Negative"],
+      "items": [
+        { "text": "C'est intéressant.", "category": 0 },
+        { "text": "C'est utile.", "category": 0 },
+        { "text": "C'est original.", "category": 0 },
+        { "text": "C'est clair.", "category": 0 },
+        { "text": "C'est ennuyeux.", "category": 1 },
+        { "text": "C'est inutile.", "category": 1 },
+        { "text": "C'est banal.", "category": 1 },
+        { "text": "C'est confus.", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Virginie :* Des études d'allemand. C'est la langue que je préfère. Et toi ?\n*Anatole :* Je viens de m'inscrire en histoire. Tu as déjà choisi tes cours ?\n*Virginie :* Non, j'hésite encore un peu."
+      },
+      "statement": "Virginie a déjà choisi ses cours.",
+      "answer": false,
+      "explanation": "She says **Non, j'hésite encore un peu** - she hasn't decided yet."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Anatole :* Je viens de m'inscrire en histoire. Tu as déjà choisi tes cours ?"
+      },
+      "statement": "Anatole va faire des études d'histoire.",
+      "answer": true,
+      "explanation": "**Je viens de m'inscrire en histoire** - he has just enrolled in history."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Clément :* Le problème, comme d'habitude, est de trouver le budget...\n*Laurence :* Oh, je crois que nous obtiendrons des fonds. C'est un genre d'échange que nous devons développer."
+      },
+      "statement": "Laurence pense que le projet n'obtiendra jamais de budget.",
+      "answer": false,
+      "explanation": "Laurence is optimistic: **je crois que nous obtiendrons des fonds** (I think we'll get funding)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "A friend asks: *« Comment est-ce que tu trouves ce cours ? »* What is the best answer?",
+      "options": ["Ça a l'air assez intéressant.", "Je suis pour.", "C'est fait pour.", "Je suis débordé."],
+      "answer": 0,
+      "explanation": "*Comment tu trouves ... ?* asks for your impression: **Ça a l'air assez intéressant.**"
+    },
+    {
+      "type": "mcq",
+      "prompt": "*« Avec cette carte, je peux emprunter des livres à la bibliothèque ? »* What is the best answer?",
+      "options": ["Bien sûr, c'est fait pour.", "C'est inutile.", "Je suis contre.", "J'ai l'impression que c'est banal."],
+      "answer": 0,
+      "explanation": "**C'est fait pour** - that's exactly what the card is for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ariel aimerait bien connaître le ___ de vue de son frère.",
+      "hint": "point of view",
+      "answers": ["point"],
+      "explanation": "**le point de vue** - the point of view."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "À votre ___, quelle est la meilleure solution ?",
+      "hint": "opinion",
+      "answers": ["avis"],
+      "explanation": "**À votre avis** - in your opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vincent est d'accord avec nous, il est ___ ce projet.",
+      "hint": "in favour of",
+      "answers": ["pour"],
+      "explanation": "**être pour** (in favour of) ≠ *être contre* (against)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question to its answer.",
+      "pairs": [
+        { "left": "Leila va faire des études de quoi ?", "right": "De droit, probablement." },
+        { "left": "Où est-ce que Sonia a fait ses études ?", "right": "À Marseille." },
+        { "left": "Tu as des examens ?", "right": "Oui, j'ai un partiel mardi prochain." },
+        { "left": "Ambroise suit un cours magistral ?", "right": "Oui, et il a lieu dans un grand amphi." },
+        { "left": "Où est-ce que tu as trouvé cet article ?", "right": "À la B.U., dans une revue spécialisée." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask a friend: \"What do you think of this university?\"",
+      "words": ["Qu'est-ce que", "tu", "penses", "de", "cette fac ?"],
+      "answer": "Qu'est-ce que tu penses de cette fac ?",
+      "explanation": "**Qu'est-ce que tu penses de** + the thing you're asking about."
+    }
+  ]
+}

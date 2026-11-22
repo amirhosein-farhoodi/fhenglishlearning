@@ -1,0 +1,214 @@
+{
+  "number": 3,
+  "title": "Phone calls, days and the time",
+  "subtitle": "Allô ? Je voudrais parler à ...",
+  "summary": "Make and answer a phone call, book an appointment, say the day and the time, and say where someone is.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "On the phone",
+      "text": "**Allô ?** is used only on the phone. Say who you are with **c'est ...**, then ask for the person with **je voudrais parler à ...**. The receptionist asks you to hold with **un instant** or **ne quittez pas** (don't hang up).",
+      "examples": [
+        { "text": "*Le standardiste :* Entreprise Béraut, bonjour.", "note": "Béraut company, good morning." },
+        { "text": "Bonjour, monsieur, **je voudrais parler à** Véronique Dumaurier, s'il vous plaît. Elle est là ?", "note": "Hello, I'd like to speak to Véronique Dumaurier, please. Is she in?" },
+        { "text": "Oui, elle est là. **Un instant, ne quittez pas !**", "note": "Yes, she's in. One moment, hold the line!" },
+        { "text": "**Allô**, Paul ? **C'est** Maxime !", "note": "Hello, Paul? It's Maxime!" },
+        { "text": "**Vous êtes madame ... ?**", "note": "And your name is ...? (polite way to ask who is calling)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Booking an appointment",
+      "text": "To book, say **je voudrais un rendez-vous avec ...** or **je voudrais réserver ...**. The other person checks the details and confirms with **c'est noté**. If you did not catch something, say **Pardon ?**",
+      "examples": [
+        { "text": "**Je voudrais un rendez-vous** avec le docteur Gaillard, s'il vous plaît.", "note": "I'd like an appointment with Dr Gaillard, please." },
+        { "text": "— C'est urgent ? — Un peu, oui !", "note": "Is it urgent? - A bit, yes!" },
+        { "text": "— Mercredi à midi, **ça vous va ?** — Oui, **ça me va**.", "note": "Wednesday at noon, does that suit you? - Yes, that suits me." },
+        { "text": "**C'est noté**, madame Langlois.", "note": "That's written down / booked, Mrs Langlois." },
+        { "text": "Je suis un peu en retard, **je suis désolé**. — **Ce n'est pas grave !** **À tout à l'heure !**", "note": "I'm a bit late, I'm sorry. - It doesn't matter! See you soon (later today)!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les jours de la semaine - the days of the week",
+      "columns": ["Jour", "In English"],
+      "rows": [
+        ["lundi", "Monday"],
+        ["mardi", "Tuesday"],
+        ["mercredi", "Wednesday"],
+        ["jeudi", "Thursday"],
+        ["vendredi", "Friday"],
+        ["samedi", "Saturday"],
+        ["dimanche", "Sunday"]
+      ],
+      "note": "Days take no capital letter in French. *Samedi et dimanche = le week-end.* Ask the day with **Quel jour sommes-nous ?** - *Nous sommes samedi.*"
+    },
+    {
+      "type": "compare",
+      "heading": "Quelle heure est-il ? Two ways to tell the time",
+      "left": {
+        "label": "Official (trains, planes, appointments)",
+        "text": "The 24-hour clock, with the minutes simply added.",
+        "examples": ["7 h 30 - **sept heures trente**", "18 h 42 - **dix-huit heures quarante-deux**", "16 h - **seize heures**"]
+      },
+      "right": {
+        "label": "Everyday (at home, with friends)",
+        "text": "The 12-hour clock, with quarters and halves.",
+        "examples": ["6 h 15 - six heures **et quart**", "6 h 30 - six heures **et demie**", "6 h 40 - sept heures **moins vingt**", "6 h 45 - sept heures **moins le quart**", "12 h - **midi** ; 0 h - **minuit**"]
+      },
+      "note": "Ask the time with **Quelle heure est-il ?** and answer with **Il est ...**"
+    },
+    {
+      "type": "explain",
+      "heading": "Au bureau - where is everyone?",
+      "text": "Use **être** + one of these phrases to say where someone is or what state they are in. Several come in opposite pairs.",
+      "examples": [
+        { "text": "Rémi est **là** ≠ Rémi est **en déplacement**.", "note": "Rémi is in (here) ≠ Rémi is away on business." },
+        { "text": "Il est **libre** ≠ il est **occupé**.", "note": "He is free ≠ he is busy." },
+        { "text": "Elle est **en réunion** / **en rendez-vous**.", "note": "She's in a meeting / at an appointment." },
+        { "text": "La réunion est à 14 h. Rémi arrive à 14 h 15 : il est **en retard**. Il arrive à 13 h 45 : il est **en avance**.", "note": "late ≠ early" },
+        { "text": "Ils sont **en vacances** / **en voyage**.", "note": "They're on holiday / travelling." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "La politesse (2) - friends or strangers?",
+      "left": {
+        "label": "With friends (tu)",
+        "examples": ["**Salut !** (hi / bye)", "**S'il te plaît**, Vincent ...", "— Pardon, **excuse-moi** ! — **Je t'en prie !** Ce n'est rien !"]
+      },
+      "right": {
+        "label": "Polite (vous)",
+        "examples": ["**Bonjour**, madame ! / **Au revoir**, monsieur !", "**S'il vous plaît**, monsieur ...", "— **Excusez-moi**, monsieur ! — **Je vous en prie**, madame !"]
+      },
+      "note": "*Je suis désolé(e)* (I'm sorry) is answered with *Ce n'est pas grave !* (it doesn't matter)."
+    },
+    {
+      "type": "tip",
+      "text": "French phone numbers are read in pairs: *01 45 66 11 27* is \"zéro un, quarante-cinq, soixante-six, onze, vingt-sept\". Ask for one with **Quel est votre numéro de téléphone ?** - *C'est le ...*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each office expression to its meaning.",
+      "pairs": [
+        { "left": "en déplacement", "right": "away on business" },
+        { "left": "en réunion", "right": "in a meeting" },
+        { "left": "en retard", "right": "late" },
+        { "left": "en avance", "right": "early" },
+        { "left": "occupé", "right": "busy" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Matthieu :* Bonjour, monsieur, je voudrais parler à Véronique Dumaurier, s'il vous plaît. Elle est là ?\n*Le standardiste :* Oui, elle est là. Un instant, ne quittez pas !"
+      },
+      "statement": "Véronique est là.",
+      "answer": true,
+      "explanation": "The receptionist answers **Oui, elle est là** - yes, she's in."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Matthieu :* Nous avons rendez-vous à 16 heures, mais j'ai un petit problème, je suis un peu en retard, je suis désolé.\n*Véronique :* Ce n'est pas grave !"
+      },
+      "statement": "Matthieu est en avance.",
+      "answer": false,
+      "explanation": "He says **je suis un peu en retard** - he is a bit late, not early."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Solange :* Et Philippe ?\n*Sébastien :* Philippe est là aujourd'hui, mais il est en réunion. Demain, il n'est pas libre, il est en rendez-vous."
+      },
+      "statement": "Philippe n'est pas là aujourd'hui.",
+      "answer": false,
+      "explanation": "Philippe **est là aujourd'hui** - he is in, but he is in a meeting."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La secrétaire :* J'ai une possibilité mercredi à 12 heures.\n*Colette Langlois :* Pardon ? À deux heures ?\n*La secrétaire :* Non, à douze heures ! À midi !\n*Colette Langlois :* D'accord, excusez-moi. Oui, mercredi à midi, c'est parfait."
+      },
+      "prompt": "When is Mrs Langlois's appointment?",
+      "options": ["Wednesday at noon", "Wednesday at 2 pm", "Wednesday at midnight", "Wednesday at 2 am"],
+      "answer": 0,
+      "explanation": "**Douze heures = midi** (noon). She misheard *deux heures* at first."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La standardiste :* À 6 heures ou à 18 heures ?\n*Philippe :* À 6 heures du matin ! J'ai un vol pour Budapest à 7 heures 50."
+      },
+      "prompt": "What time does Philippe want the taxi?",
+      "options": ["6 am", "6 pm", "7.50 am", "6.50 am"],
+      "answer": 0,
+      "explanation": "**6 heures du matin** is 6 am; 7 h 50 is the time of his flight."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone says: *« Excusez-moi, je suis en retard ! »* What is the best answer?",
+      "options": ["Ce n'est pas grave !", "C'est parfait !", "S'il vous plaît !", "C'est noté !"],
+      "answer": 0,
+      "explanation": "**Ce n'est pas grave !** (it doesn't matter) answers an apology."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Would you say it to a friend (tu) or politely to a stranger (vous)?",
+      "categories": ["To a friend (tu)", "Polite (vous)"],
+      "items": [
+        { "text": "Salut !", "category": 0 },
+        { "text": "S'il te plaît.", "category": 0 },
+        { "text": "Excuse-moi !", "category": 0 },
+        { "text": "Je t'en prie !", "category": 0 },
+        { "text": "S'il vous plaît.", "category": 1 },
+        { "text": "Excusez-moi !", "category": 1 },
+        { "text": "Je vous en prie !", "category": 1 },
+        { "text": "Bonjour, madame !", "category": 1 }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'ai rendez-vous à 15 h. Il est 15 h 10. Je suis ___ !",
+      "hint": "late",
+      "answers": ["en retard"],
+      "explanation": "You arrive after the time: **en retard** (late). Before the time is *en avance*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quelle est votre ___ ? — 92, rue Beaumarchais.",
+      "hint": "address",
+      "answers": ["adresse"],
+      "explanation": "**Une adresse** is feminine, so the question is *Quelle est votre adresse ?*"
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each everyday time to the clock time (morning).",
+      "pairs": [
+        { "left": "six heures et quart", "right": "6 h 15" },
+        { "left": "six heures et demie", "right": "6 h 30" },
+        { "left": "sept heures moins vingt", "right": "6 h 40" },
+        { "left": "sept heures moins le quart", "right": "6 h 45" },
+        { "left": "midi", "right": "12 h" }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask for someone on the phone: \"Hello, I'd like to speak to Mr Lemaire, please.\"",
+      "words": ["Bonjour,", "je", "voudrais", "parler", "à", "monsieur Lemaire,", "s'il vous plaît."],
+      "answer": "Bonjour, je voudrais parler à monsieur Lemaire, s'il vous plaît.",
+      "explanation": "**Je voudrais parler à** + the person + **s'il vous plaît**."
+    }
+  ]
+}

@@ -23,7 +23,7 @@ export default function Header() {
             width={38}
             height={38}
           />
-          <span className="name">English Learning</span>
+          <span className="name">Language Learning</span>
         </Link>
         <div className="header-stats">
           <span className="chip chip-fire" title="Daily streak">

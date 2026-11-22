@@ -1,0 +1,214 @@
+{
+  "number": 13,
+  "title": "The body and seeing a doctor",
+  "subtitle": "J'ai mal à la tête.",
+  "summary": "Name the parts of the body, say where it hurts, describe a cold or the flu, and get what you need from the doctor and the chemist.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Ça ne va pas ?",
+      "text": "Émilie sees that Virginie looks unwell. To ask what's wrong, say **Qu'est-ce que tu as ?** (*vous avez* to someone you call *vous*) or **Qu'est-ce qui ne va pas ?**. **Avoir l'air** + adjective means to look or seem.",
+      "examples": [
+        { "text": "*Émilie :* Ça ne va pas ? **Qu'est-ce que tu as ?**", "note": "Aren't you well? What's the matter?" },
+        { "text": "Tu es toute pâle, **tu as l'air fatiguée** !", "note": "You're very pale, you look tired!" },
+        { "text": "*Virginie :* **J'ai mal au ventre.**", "note": "I've got a stomach ache." },
+        { "text": "*Le médecin :* Dites-moi, **qu'est-ce qui ne va pas ?**", "note": "Tell me, what seems to be the problem?" },
+        { "text": "— Vous avez **des soucis** ? — **Pas vraiment.**", "note": "Have you got any worries? - Not really." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "À la pharmacie",
+      "text": "At the chemist's, ask for **quelque chose pour** + the problem. The pharmacist tells you how to take the medicine.",
+      "examples": [
+        { "text": "Je voudrais **quelque chose pour le rhume**, s'il vous plaît.", "note": "I'd like something for a cold, please." },
+        { "text": "J'ai **le nez qui coule** et je **tousse** beaucoup.", "note": "I've got a runny nose and I'm coughing a lot." },
+        { "text": "— Je prends combien de **comprimés** ? — Un comprimé **toutes les deux heures**.", "note": "How many tablets do I take? - One tablet every two hours." },
+        { "text": "Pour **la toux**, voici un très bon **sirop**.", "note": "For the cough, here's a very good syrup." },
+        { "text": "Donnez-moi aussi de l'aspirine. J'ai un peu de **fièvre**.", "note": "Give me some aspirin too. I've got a bit of a temperature." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Le corps - the body",
+      "columns": ["Le corps", "Le visage (the face)", "Les organes"],
+      "rows": [
+        ["**la tête** (head)", "**les cheveux** (hair)", "**le cœur** (heart)"],
+        ["**le bras**, **la main** (arm, hand)", "**un œil**, **deux yeux** (eye, eyes)", "**les poumons** (lungs)"],
+        ["**les épaules**, **le dos** (shoulders, back)", "**les oreilles** (ears)", "**l'estomac** (stomach)"],
+        ["**la poitrine**, **le ventre** (chest, belly)", "**le nez** (nose)", "**le foie** (liver)"],
+        ["**la jambe**, **la cuisse** (leg, thigh)", "**la bouche**, **les dents** (mouth, teeth)", "**les intestins** (intestines)"],
+        ["**le pied** (foot)", "**le cou** (neck)", ""]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Avoir mal à ...",
+      "text": "To say where it hurts, use **avoir mal à** + the body part. *À* joins with the article: **à la**, **à l'**, **au** (à + le), **aux** (à + les).",
+      "examples": [
+        { "text": "J'ai mal **à la** tête.", "note": "I've got a headache." },
+        { "text": "Elle a mal **au** ventre.", "note": "She's got a stomach ache." },
+        { "text": "Il a mal **aux** dents.", "note": "He's got toothache." },
+        { "text": "Clément a mal **à l'**estomac.", "note": "Clément has a stomach ache." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Small illnesses",
+      "text": "Common complaints and how to describe them. **Faire des rêves** is to dream; bad dreams are **des cauchemars**.",
+      "examples": [
+        { "text": "Il **est enrhumé** = il **a un rhume**.", "note": "He has a cold." },
+        { "text": "Ils ont **la grippe** = un rhume + de la fièvre.", "note": "They have flu = a cold + a temperature." },
+        { "text": "Virginie a **une indigestion** : elle ne digère pas bien.", "note": "Virginie has indigestion: she can't digest properly." },
+        { "text": "Le petit garçon **fait des cauchemars**.", "note": "The little boy has nightmares." },
+        { "text": "Elle **est allergique aux** fraises.", "note": "She's allergic to strawberries." },
+        { "text": "Sa **tension** est **basse** ≠ **haute**.", "note": "His / her blood pressure is low ≠ high." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Chez le médecin",
+      "text": "The doctor examines (**ausculte**) the patient and takes their blood pressure, then writes a prescription (**une ordonnance**) that you take to the chemist.",
+      "examples": [
+        { "text": "Venez, je vais vous **ausculter**.", "note": "Come, I'm going to examine you." },
+        { "text": "Voilà **l'ordonnance**.", "note": "Here's the prescription." },
+        { "text": "**un antibiotique**, **un remontant**, **des vitamines**", "note": "an antibiotic, a tonic, vitamins" },
+        { "text": "**un comprimé**, **un sirop**, **une pommade**", "note": "a tablet, a syrup, an ointment (= a cream)" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*La Sécurité sociale* - the French health system - pays back part or all of the cost of consultations, operations and medicines. The French buy more medicines than anyone else in Europe, and towns are full of pharmacies."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each part of the body to its meaning.",
+      "pairs": [
+        { "left": "la tête", "right": "the head" },
+        { "left": "le dos", "right": "the back" },
+        { "left": "le ventre", "right": "the belly" },
+        { "left": "le cou", "right": "the neck" },
+        { "left": "les yeux", "right": "the eyes" },
+        { "left": "le pied", "right": "the foot" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Virginie :* J'ai mal au ventre. Je crois que j'ai une indigestion."
+      },
+      "statement": "Virginie a mal à la tête.",
+      "answer": false,
+      "explanation": "She has **mal au ventre** - a stomach ache, probably indigestion."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Sébastien :* Je prends combien de comprimés ?\n*La pharmacienne :* Un comprimé toutes les deux heures, pendant trois jours."
+      },
+      "prompt": "How should Sébastien take his tablets?",
+      "options": [
+        "One every two hours, for three days",
+        "One every three hours, for two days",
+        "Two a day, for three days",
+        "Three a day, for two days"
+      ],
+      "answer": 0,
+      "explanation": "**Un comprimé toutes les deux heures, pendant trois jours.**"
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Sébastien :* Donnez-moi aussi de l'aspirine, s'il vous plaît. J'ai un peu de fièvre."
+      },
+      "statement": "Sébastien n'a pas de fièvre.",
+      "answer": false,
+      "explanation": "He says **j'ai un peu de fièvre** - he has a slight temperature."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Docteur Gaillard :* Venez, je vais vous ausculter. (...) Oui, votre tension est basse. Je vais vous donner un petit remontant."
+      },
+      "prompt": "What does the doctor find when he examines Colette?",
+      "options": [
+        "Her blood pressure is low.",
+        "Her blood pressure is high.",
+        "She has a temperature.",
+        "She has indigestion."
+      ],
+      "answer": 0,
+      "explanation": "**Votre tension est basse** - so he prescribes a tonic (*un remontant*)."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Who is speaking: the doctor or the patient?",
+      "categories": ["Le médecin", "Le malade (the patient)"],
+      "items": [
+        { "text": "Je vais vous ausculter.", "category": 0 },
+        { "text": "Qu'est-ce qui ne va pas ?", "category": 0 },
+        { "text": "Vous dormez bien ?", "category": 0 },
+        { "text": "Je vais vous faire une ordonnance.", "category": 0 },
+        { "text": "Je tousse beaucoup.", "category": 1 },
+        { "text": "J'ai mal au ventre.", "category": 1 },
+        { "text": "Je fais beaucoup de cauchemars.", "category": 1 },
+        { "text": "J'ai le nez qui coule.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each problem with a piece of advice.",
+      "pairs": [
+        { "left": "Je tousse beaucoup.", "right": "Achète un sirop contre la toux !" },
+        { "left": "Je cherche un bon médecin.", "right": "Demande à Lucie l'adresse de son médecin !" },
+        { "left": "J'ai mal à la tête.", "right": "Prends de l'aspirine !" },
+        { "left": "Je digère mal.", "right": "Mange plus légèrement !" },
+        { "left": "Je suis stressé, je dors mal.", "right": "Prends des vacances, tu travailles trop !" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The doctor asks: *« Vous avez des soucis ? »* Which answer fits?",
+      "options": ["Non, pas vraiment.", "Non, je dors bien.", "Deux par jour.", "C'est pour la toux."],
+      "answer": 0,
+      "explanation": "**Pas vraiment** (not really) answers a question about worries (*des soucis*)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right form: Il a mal ___ dents.",
+      "options": ["aux", "au", "à la", "à l'"],
+      "answer": 0,
+      "explanation": "*Les dents* is plural: à + les = **aux**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Clément a mal à l'estomac, il a une ___.",
+      "hint": "a stomach problem",
+      "answers": ["indigestion"],
+      "explanation": "**Une indigestion** - he can't digest properly."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Bertrand a un rhume, mal à la tête et de la fièvre : il a la ___.",
+      "hint": "a cold + a temperature",
+      "answers": ["grippe"],
+      "explanation": "**La grippe** = a cold + a temperature."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "statement": "La Sécurité sociale rembourse seulement les médicaments.",
+      "answer": false,
+      "explanation": "It also pays back consultations and operations - not only medicines."
+    }
+  ]
+}

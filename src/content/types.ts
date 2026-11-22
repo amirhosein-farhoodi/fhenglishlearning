@@ -12,6 +12,7 @@
  */
 
 import type { CategoryId } from './categories'
+import type { LanguageCode } from './languages'
 
 export interface BookSection {
   title: string
@@ -31,6 +32,12 @@ export interface BookMeta {
    * to DEFAULT_CATEGORY so a new book never disappears from the home page.
    */
   category?: CategoryId
+  /**
+   * The language the book teaches, as a code from src/content/languages.ts. Leave it out for
+   * English. Explanations are always written in English; this marks the example sentences,
+   * dialogues and answers as another language.
+   */
+  language?: LanguageCode
   /** Position within its category on the home page (ascending). Ties fall back to title. */
   order?: number
   /** Fallback shown when there is no cover image. */
@@ -138,7 +145,14 @@ export interface McqExercise extends ExerciseBase {
 
 export interface TrueFalseExercise extends ExerciseBase {
   type: 'true_false'
-  /** A sentence the learner judges as correct (true) or incorrect (false). */
+  /**
+   * What the learner judges:
+   *   'grammar' (default) - is the sentence correct language? Buttons: Correct / Incorrect.
+   *   'fact'              - is the statement true? For comprehension ("Vrai ou faux ?") about a
+   *                         dialogue in `context` or a fact taught in the lesson. Buttons: True / False.
+   */
+  judge?: 'grammar' | 'fact'
+  /** A sentence the learner judges as correct/true (true) or incorrect/false (false). */
   statement: string
   answer: boolean
   /** Shown after answering; for false statements give the corrected sentence. */

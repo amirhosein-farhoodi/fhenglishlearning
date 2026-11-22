@@ -1,0 +1,170 @@
+{
+  "number": 16,
+  "title": "The passé composé with avoir",
+  "subtitle": "j'ai parlé, je n'ai pas mangé",
+  "summary": "Say what you did with the passé composé of regular -er verbs, make it negative, place adverbs correctly, and use passer du temps à and tout + adjective.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Parler in the passé composé",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["**j'ai parlé**", "je **n'ai pas parlé**"],
+        ["tu **as parlé**", "tu **n'as pas parlé**"],
+        ["il / elle / on **a parlé**", "il / elle / on **n'a pas parlé**"],
+        ["nous **avons parlé**", "nous **n'avons pas parlé**"],
+        ["vous **avez parlé**", "vous **n'avez pas parlé**"],
+        ["ils / elles **ont parlé**", "ils / elles **n'ont pas parlé**"]
+      ],
+      "note": "**Avoir** in the present + the **past participle**. For regular *-er* verbs the participle ends in **-é**: *manger → mangé, regarder → regardé, écouter → écouté, utiliser → utilisé*. In the negative, *ne ... pas* goes around **avoir** only."
+    },
+    {
+      "type": "explain",
+      "heading": "When to use the passé composé",
+      "text": "Use it for a series of actions in the past, and for single, completed actions at a precise moment. It translates both *I spoke* and *I have spoken*.",
+      "examples": [
+        { "text": "Mardi dernier, **j'ai déjeuné** rapidement, **j'ai travaillé**, puis **j'ai téléphoné** à un client.", "note": "Last Tuesday I had a quick lunch, worked, then phoned a client." },
+        { "text": "— Hier, où est-ce qu'il **a dîné** ? — Il **a dîné** à la maison.", "note": "Where did he have dinner yesterday? - He had dinner at home." },
+        { "text": "— Est-ce qu'il **a écouté** la radio ? — Non, il **n'a pas écouté** la radio.", "note": "Did he listen to the radio? - No, he didn't." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "The negative: pas de",
+      "text": "As in the present, **un, une, des, du, de la, de l'** all become **pas de** (**pas d'** before a vowel) after a negative verb.",
+      "examples": [
+        { "text": "Il a essayé un pantalon. → Il n'a pas essayé **de** pantalon.", "note": "He didn't try on any trousers." },
+        { "text": "Ils ont commandé une sole. → Ils n'ont pas commandé **de** sole.", "note": "They didn't order a sole." },
+        { "text": "J'ai trouvé des vêtements. → Je n'ai pas trouvé **de** vêtements.", "note": "I didn't find any clothes." },
+        { "text": "Elle a acheté de l'eau minérale. → Elle n'a pas acheté **d'**eau minérale.", "wrong": "pas de l'eau minérale", "note": "She didn't buy any mineral water." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Where the adverb goes",
+      "text": "Short, common adverbs (**bien, mal, peu, beaucoup, vraiment, trop** ...) go **between** *avoir* and the past participle. Most other adverbs usually go **after** the participle.",
+      "examples": [
+        { "text": "J'ai **bien** mangé. Il a **mal** parlé.", "note": "I ate well. He spoke badly." },
+        { "text": "Nous avons **peu** discuté. Ils ont **beaucoup** aimé.", "note": "We didn't talk much. They liked it a lot." },
+        { "text": "J'ai **vraiment** détesté !", "note": "I really hated it!" },
+        { "text": "Ils ont parlé **lentement**. Elle a dîné **rapidement**.", "note": "They spoke slowly. She had dinner quickly." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Passer du temps (à faire)",
+      "text": "**Passer** + a period of time means to spend it. To say what you spent the time doing, add **à + infinitive** - never an *-ing* form.",
+      "examples": [
+        { "text": "Tu **as passé** de bonnes vacances ?", "note": "Did you have a good holiday?" },
+        { "text": "Alain **a passé** un mauvais week-end.", "note": "Alain had a bad weekend." },
+        { "text": "J'ai passé la journée **à travailler** !", "note": "I spent the day working!" },
+        { "text": "Il a passé la soirée **à lire**.", "wrong": "Il a passé la soirée lisant", "note": "He spent the evening reading." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Tout = très",
+      "text": "**Tout** in front of an adjective means *very* or *completely*. It agrees with a feminine adjective: **toute**, **toutes**.",
+      "examples": [
+        { "text": "Nicolas est **tout** petit.", "note": "Nicolas is very small." },
+        { "text": "Il a les cheveux **tout** bouclés.", "note": "His hair is all curly." },
+        { "text": "Elle est **toute** bronzée !", "note": "She's really tanned!" },
+        { "text": "Je suis **tout** content.", "note": "I'm really pleased." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with the passé composé of parler.",
+      "pairs": [
+        { "left": "j'", "right": "ai parlé" },
+        { "left": "tu", "right": "as parlé" },
+        { "left": "elle", "right": "a parlé" },
+        { "left": "nous", "right": "avons parlé" },
+        { "left": "ils", "right": "ont parlé" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ de littérature.",
+      "hint": "(discuter) - passé composé",
+      "answers": ["avons discuté"],
+      "explanation": "**nous avons** + **discuté**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'___ de la musique.",
+      "hint": "(écouter) - passé composé",
+      "answers": ["ai écouté"],
+      "explanation": "**j'ai** + **écouté**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il ___ Louise.",
+      "hint": "(ne pas inviter) - passé composé",
+      "answers": ["n'a pas invité"],
+      "explanation": "*Ne ... pas* goes around *avoir*: **il n'a pas invité**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pourquoi est-ce qu'il ___ la radio ?",
+      "hint": "(ne pas écouter) - passé composé",
+      "answers": ["n'a pas écouté"],
+      "explanation": "**il n'a pas écouté** - *ne ... pas* around the auxiliary."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tu as commandé une salade ? — Non, ...",
+      "options": [
+        "je n'ai pas commandé de salade.",
+        "je n'ai pas commandé une salade.",
+        "je n'ai commandé pas de salade.",
+        "je ai pas commandé de salade."
+      ],
+      "answer": 0,
+      "explanation": "**ne ... pas** around *avoir*, and *une* becomes **de** after a negative."
+    },
+    {
+      "type": "true_false",
+      "statement": "Elle n'a pas acheté d'eau minérale.",
+      "answer": true,
+      "explanation": "*De l'eau* becomes **pas d'eau** in the negative."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Put it in the passé composé: *Il danse bien.*",
+      "options": ["Il a bien dansé.", "Il a dansé bien.", "Il bien a dansé.", "Il bien dansé."],
+      "answer": 0,
+      "explanation": "Short adverbs like **bien** go between *avoir* and the past participle."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Put it in the passé composé: *Il aime beaucoup ce film.*",
+      "words": ["Il", "a", "beaucoup", "aimé", "ce film."],
+      "answer": "Il a beaucoup aimé ce film.",
+      "explanation": "**beaucoup** sits between *a* and *aimé*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'___ la journée à travailler.",
+      "hint": "(passer) - passé composé",
+      "answers": ["ai passé"],
+      "explanation": "**Passer** du temps **à** + infinitive: *j'ai passé la journée à travailler*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Il a passé la soirée lisant.",
+      "answer": false,
+      "explanation": "Use **à** + infinitive: *Il a passé la soirée **à lire**.*"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle est ___ bronzée !",
+      "hint": "(tout) = very",
+      "answers": ["toute"],
+      "explanation": "*Bronzée* is feminine, so **tout** becomes **toute**."
+    }
+  ]
+}

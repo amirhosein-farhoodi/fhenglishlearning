@@ -1033,6 +1033,47 @@ input {
   text-overflow: ellipsis;
 }
 
+/* The language a non-English book teaches: a neutral ink chip with the code
+   in a small solid tile, so it reads as a label, not a second level badge. */
+.lang-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 3px 10px 3px 3px;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: var(--text-caption);
+  font-weight: var(--fw-medium);
+  white-space: nowrap;
+}
+
+.lang-chip .lang-code {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: var(--r-pill);
+  background: var(--solid-bg);
+  color: var(--solid-fg);
+  font-size: 10px;
+  font-weight: var(--fw-bold);
+  letter-spacing: 0.06em;
+}
+
+.lang-chip .lang-native {
+  color: var(--muted);
+  font-weight: var(--fw-regular);
+}
+
+.course-head .lang-chip {
+  margin-top: var(--space-8);
+}
+
 .book-body {
   padding: var(--card-padding);
   display: flex;
@@ -1754,6 +1795,75 @@ input {
   margin-top: 2px;
 }
 
+/* Read-aloud (language books only). Pinned to the example's top-right corner;
+   .speakable reserves room for it so long sentences never run underneath. */
+.example.speakable {
+  padding-right: 48px;
+}
+
+.speak-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  padding: 0;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--muted);
+  cursor: pointer;
+  transition:
+    color 0.15s,
+    border-color 0.15s,
+    background 0.15s;
+}
+
+.speak-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.speak-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.speak-btn.on {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-wash);
+}
+
+.speak-btn.on .icon {
+  animation: speak-pulse 0.9s ease-in-out infinite;
+}
+
+@keyframes speak-pulse {
+  50% {
+    opacity: 0.45;
+  }
+}
+
+.example .speak-btn {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+}
+
+.compare-side li .speak-btn {
+  width: 24px;
+  height: 24px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+.compare-side li .speak-btn .icon {
+  width: 13px;
+  height: 13px;
+}
+
 .block-note {
   margin-top: var(--space-12);
   font-size: var(--text-body-sm);
@@ -2300,6 +2410,54 @@ button.q-track:hover {
   border: 1px solid var(--success-tint);
   color: var(--success);
   font-weight: var(--fw-medium);
+}
+
+/* Right word, wrong accents: it still counts, so this is a nudge in Ember,
+   not the red of a wrong answer. */
+.answer-reveal.accents .pill {
+  background: var(--ember-wash);
+  border-color: var(--ember-tint);
+  color: var(--ember-ink);
+}
+
+/* Letters a US/UK keyboard lacks (é, à, ç ...), under a typed answer in a
+   language book. Keys keep the input's focus, so typing carries on. */
+.accent-keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: var(--space-12);
+}
+
+.accent-key {
+  min-width: 34px;
+  height: 34px;
+  padding: 0 var(--space-8);
+  border-radius: var(--r-input);
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--ink);
+  font-size: var(--text-body);
+  font-weight: var(--fw-medium);
+  cursor: pointer;
+  touch-action: manipulation;
+  transition:
+    border-color 0.15s,
+    background 0.15s;
+}
+
+.accent-key:hover {
+  border-color: var(--accent);
+  background: var(--accent-wash);
+}
+
+.accent-key:active {
+  background: var(--accent-tint);
+}
+
+.accent-key:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 /* ------------------------------------------------------------------
@@ -3043,11 +3201,11 @@ button.q-track:hover {
     width: 100%;
   }
 
-  /* flex already keeps all 3 segments in one row at any width - just
+  /* flex already keeps every segment in one row at any width - just
      stack icon above label and drop the count so each fits. */
   .shelf-tab {
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 4px;
     padding: var(--space-8) var(--space-4);
     text-align: center;
@@ -3057,6 +3215,15 @@ button.q-track:hover {
     width: 30px;
     height: 30px;
     font-size: 15px;
+  }
+
+  /* Four tabs leave ~72px each on a phone: a two-word title like
+     "Other Languages" wraps onto a second line instead of truncating. */
+  .shelf-tab-title {
+    font-size: var(--text-caption);
+    line-height: 1.25;
+    white-space: normal;
+    overflow-wrap: anywhere;
   }
 
   .shelf-tab-count {

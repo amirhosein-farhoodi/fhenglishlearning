@@ -1,0 +1,178 @@
+{
+  "number": 12,
+  "title": "Reflexive verbs and the near future",
+  "subtitle": "je m'occupe, je vais me marier, c'est moi qui...",
+  "summary": "Conjugate reflexive verbs, talk about plans with aller + infinitive, stress who does something with c'est moi qui..., and use adjective + de + infinitive.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Reflexive verbs: s'occuper (de)",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["je **m'**occupe", "je **ne m'**occupe **pas**"],
+        ["tu **t'**occupes", "tu **ne t'**occupes **pas**"],
+        ["il / elle / on **s'**occupe", "il / elle / on **ne s'**occupe **pas**"],
+        ["nous **nous** occupons", "nous **ne nous** occupons **pas**"],
+        ["vous **vous** occupez", "vous **ne vous** occupez **pas**"],
+        ["ils / elles **s'**occupent", "ils / elles **ne s'**occupent **pas**"]
+      ],
+      "note": "A reflexive verb has an extra pronoun (**me, te, se, nous, vous, se**) that matches the subject. The verb itself is conjugated normally. *Me, te, se* become **m', t', s'** before a vowel. In the negative, *ne* goes before the pronoun."
+    },
+    {
+      "type": "explain",
+      "heading": "Everyday reflexive verbs",
+      "text": "Many daily-routine verbs are reflexive. **S'occuper de** means to take care of, to deal with.",
+      "examples": [
+        { "text": "**Je me lève** à 7 heures.", "note": "I get up at 7." },
+        { "text": "**Je me couche** à 23 heures.", "note": "I go to bed at 11 pm." },
+        { "text": "Il **se rase** tous les jours.", "note": "He shaves every day." },
+        { "text": "Nous **nous occupons** des enfants.", "note": "We look after the children." },
+        { "text": "Vous **vous débrouillez** en français.", "note": "You get by in French." }
+      ],
+      "note": "Others: *s'organiser, se marier, se préparer, s'habiller* (to get dressed), *se laver* (to wash)."
+    },
+    {
+      "type": "table",
+      "heading": "Le futur proche: aller + infinitive",
+      "columns": ["Affirmative", "Negative"],
+      "rows": [
+        ["je **vais** avoir", "je **ne vais pas** avoir"],
+        ["tu **vas** avoir", "tu **ne vas pas** avoir"],
+        ["il / elle / on **va** avoir", "il / elle / on **ne va pas** avoir"],
+        ["nous **allons** avoir", "nous **n'allons pas** avoir"],
+        ["vous **allez** avoir", "vous **n'allez pas** avoir"],
+        ["ils / elles **vont** avoir", "ils / elles **ne vont pas** avoir"]
+      ],
+      "note": "Conjugate **aller** in the present and add any infinitive: *je vais être, je vais prendre, je vais faire*. **Ne ... pas** goes around *aller*, not around the infinitive."
+    },
+    {
+      "type": "explain",
+      "heading": "The near future of reflexive verbs",
+      "text": "With a reflexive verb, the pronoun stays just before the infinitive and still matches the subject: **je vais me** marier, **nous allons nous** occuper. The near future describes something fairly certain to happen.",
+      "examples": [
+        { "text": "**Je vais me débrouiller.**", "wrong": "Je vais se débrouiller", "note": "I'll manage." },
+        { "text": "Nous **n'allons pas nous** débrouiller.", "note": "We aren't going to manage." },
+        { "text": "**Il va y avoir** une réunion.", "note": "There's going to be a meeting. (il y a → il va y avoir)" },
+        { "text": "**Ça ne va pas être** facile.", "note": "It isn't going to be easy. (c'est → ça va être)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "C'est moi qui...",
+      "text": "To stress *who* does something, use **c'est** + stressed pronoun + **qui**. The verb after *qui* agrees with the pronoun, not with *c'est*. In the plural, *ils/elles* become **ce sont eux / elles qui**.",
+      "examples": [
+        { "text": "**C'est moi qui vais** organiser la réunion.", "note": "I'm the one who's going to organise the meeting." },
+        { "text": "**C'est toi qui as** un rendez-vous.", "note": "You're the one with an appointment." },
+        { "text": "**C'est lui qui part** en Espagne. / **C'est elle qui va** se marier.", "note": "He's the one leaving for Spain. / She's the one getting married." },
+        { "text": "**C'est nous qui allons** garder le petit.", "wrong": "C'est nous qui va garder", "note": "We're the ones who'll look after the little one." },
+        { "text": "**C'est vous qui pouvez** répondre. / **Ce sont eux qui vont** venir.", "note": "You're the one who can answer. / They're the ones coming." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Adjective + de + infinitive",
+      "text": "After an adjective, link an infinitive with **de** (**d'** before a vowel).",
+      "examples": [
+        { "text": "Ils sont contents **de** venir.", "note": "They're happy to come." },
+        { "text": "Je suis ravie **de** vous rencontrer !", "note": "I'm delighted to meet you!" },
+        { "text": "Ça va être difficile **de** voyager.", "note": "It's going to be hard to travel." },
+        { "text": "Nous sommes désolés **d'**être en retard.", "note": "We're sorry to be late." },
+        { "text": "Il est impossible **de** réserver maintenant.", "note": "It's impossible to book now." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with the right form of se lever.",
+      "pairs": [
+        { "left": "je", "right": "me lève" },
+        { "left": "tu", "right": "te lèves" },
+        { "left": "nous", "right": "nous levons" },
+        { "left": "vous", "right": "vous levez" },
+        { "left": "ils", "right": "se lèvent" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ des enfants.",
+      "hint": "(s'occuper) - present",
+      "answers": ["nous occupons"],
+      "explanation": "S'occuper: **nous nous occupons** - the pronoun matches the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ___ samedi.",
+      "hint": "(se marier) - present",
+      "answers": ["se marient"],
+      "explanation": "Se marier: **ils se marient**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tu ___ à quelle heure ?",
+      "hint": "(se coucher) - present",
+      "answers": ["te couches"],
+      "explanation": "Se coucher: **tu te couches**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ en septembre.",
+      "hint": "(déménager) - near future",
+      "answers": ["allons déménager"],
+      "explanation": "Near future: **nous allons** + infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "En juin, je ___.",
+      "hint": "(se marier) - near future",
+      "answers": ["vais me marier"],
+      "explanation": "Near future of a reflexive verb: **je vais me marier** - the pronoun matches *je*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Make it negative: *Ils vont s'occuper des enfants.*",
+      "options": [
+        "Ils ne vont pas s'occuper des enfants.",
+        "Ils vont ne pas s'occuper des enfants.",
+        "Ils ne vont s'occuper pas des enfants.",
+        "Ils vont s'occuper pas des enfants."
+      ],
+      "answer": 0,
+      "explanation": "**Ne ... pas** goes around *aller*: *ils **ne vont pas** s'occuper*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make it negative: \"We aren't going to get up at 6 o'clock.\"",
+      "words": ["Nous", "n'allons", "pas", "nous", "lever", "à 6 heures."],
+      "answer": "Nous n'allons pas nous lever à 6 heures.",
+      "explanation": "**n'allons pas** around *aller*, then the pronoun **nous** before the infinitive."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Qui va s'occuper du bébé ? — Nous ! → C'est nous qui ___ du bébé.",
+      "options": ["allons nous occuper", "va s'occuper", "vont s'occuper", "allons s'occuper"],
+      "answer": 0,
+      "explanation": "After **c'est nous qui**, the verb agrees with *nous*: **allons nous occuper**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Qui est fatigué ? — Moi ! → C'est moi qui ___ fatigué.",
+      "hint": "(être)",
+      "answers": ["suis"],
+      "explanation": "**C'est moi qui suis** - the verb agrees with *moi* (= je)."
+    },
+    {
+      "type": "true_false",
+      "statement": "Je suis ravie à vous rencontrer !",
+      "answer": false,
+      "explanation": "Adjective + **de** + infinitive: *Je suis ravie **de** vous rencontrer !*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Nous sommes désolés d'être en retard.",
+      "answer": true,
+      "explanation": "*Désolés* + **d'** + *être* - *de* becomes *d'* before a vowel."
+    }
+  ]
+}

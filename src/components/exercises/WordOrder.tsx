@@ -1,12 +1,15 @@
 import { useMemo, useState } from 'react'
 import type { WordOrderExercise } from '../../content/types'
+import { langAttr } from '../../content/languages'
 import { looseEquals, shuffleDifferent } from '../../lib/answers'
 import { renderInline } from '../../lib/markup'
 import { sfx } from '../../lib/sfx'
+import { useTargetLang } from '../../lib/targetLang'
 import type { ExProps } from './solution'
 
 /** Tap chips to build the sentence; tap a placed chip to send it back. */
 export default function WordOrder({ exercise, onResult, seed }: ExProps<WordOrderExercise>) {
+  const lang = langAttr(useTargetLang())
   const chips = useMemo(
     () => shuffleDifferent(exercise.words.map((w, i) => ({ id: i, w })), seed),
     [exercise, seed],
@@ -41,8 +44,8 @@ export default function WordOrder({ exercise, onResult, seed }: ExProps<WordOrde
       <p className="q-prompt">{renderInline(exercise.prompt)}</p>
       <p className="q-hint">Tap the words in the right order.</p>
       <div className="q-body">
-        <div className={`answer-line ${state !== 'idle' ? state : ''}`} aria-live="polite">
-          {placed.length === 0 && <span className="placeholder">Your sentence will appear here…</span>}
+        <div className={`answer-line ${state !== 'idle' ? state : ''}`} aria-live="polite" lang={lang}>
+          {placed.length === 0 && <span className="placeholder" lang="en">Your sentence will appear here…</span>}
           {placed.map((id) => (
             <button
               key={id}
@@ -55,7 +58,7 @@ export default function WordOrder({ exercise, onResult, seed }: ExProps<WordOrde
             </button>
           ))}
         </div>
-        <div className="pool">
+        <div className="pool" lang={lang}>
           {chips.map(({ id, w }) => (
             <button
               key={id}
@@ -71,7 +74,10 @@ export default function WordOrder({ exercise, onResult, seed }: ExProps<WordOrde
         </div>
         {state === 'wrong' && (
           <div className="answer-reveal">
-            Correct: <span className="pill">{exercise.answer}</span>
+            Correct:{' '}
+            <span className="pill" lang={lang}>
+              {exercise.answer}
+            </span>
           </div>
         )}
       </div>

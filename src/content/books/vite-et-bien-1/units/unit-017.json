@@ -1,0 +1,208 @@
+{
+  "number": 17,
+  "title": "Housework and shops",
+  "subtitle": "J'ai fait le ménage !",
+  "summary": "Talk about housework and getting ready in the morning, name cleaning and bathroom items, and choose the right kind of French shop.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Une mamie active !",
+      "text": "Émilie visits her 85-year-old grandmother, Jeanne, who has been cleaning the house all by herself. Notice the past tense **j'ai fait** (I did) and the reply **pas encore** (not yet).",
+      "examples": [
+        { "text": "*Émilie :* Mamie, **qu'est-ce que tu as fait**, ce matin ?", "note": "Granny, what did you do this morning?" },
+        { "text": "*Jeanne :* **J'ai fait le ménage !**", "note": "I did the housework!" },
+        { "text": "— Tu as déjà fini ? — Non, je **n'ai pas encore** fini.", "note": "Have you finished already? - No, I haven't finished yet." },
+        { "text": "J'ai fait **les vitres**, j'ai fait **la vaisselle**...", "note": "I did the windows, I did the washing-up..." },
+        { "text": "— En montant sur une chaise ? — Mais non ! Sur **un escabeau** !", "note": "By climbing on a chair? - Of course not! On a stepladder!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Useful reactions from the three dialogues. **Si !** says *yes* to a negative question. **Disons que...** softens a criticism.",
+      "examples": [
+        { "text": "**Tiens, regarde !**", "note": "Here, look!" },
+        { "text": "Elle **est comme ça**.", "note": "That's just how she is." },
+        { "text": "Tu as fait le repassage ? **Comme c'est gentil !**", "note": "You did the ironing? How kind!" },
+        { "text": "— **Tu n'as pas vu** ma brosse à dents ? — **Si**, elle est là.", "note": "Haven't you seen my toothbrush? - Yes, it's there." },
+        { "text": "**Disons que** tu n'es pas très ordonnée...", "note": "Let's say you're not very tidy..." },
+        { "text": "**Je ne suis pas folle !** / **Comment est-ce que tu as fait ?**", "note": "I'm not mad! / How did you do it?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les tâches domestiques - housework",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["**faire le ménage**", "to do the housework, to clean"],
+        ["faire **la vaisselle**, **les vitres**, **les lits**", "to do the washing-up, the windows, the beds"],
+        ["faire **la lessive**, **le repassage**", "to do the washing, the ironing"],
+        ["**passer l'aspirateur**", "to vacuum"],
+        ["**repasser** une chemise (avec un fer à repasser)", "to iron a shirt (with an iron)"],
+        ["**ranger** sa chambre", "to tidy your room"],
+        ["**faire les courses**, **faire la cuisine**", "to do the shopping, to cook"],
+        ["**mettre la table** ≠ **débarrasser la table**", "to lay the table ≠ to clear the table"],
+        ["**faire du bricolage** (changer une ampoule, monter une étagère)", "to do DIY (change a bulb, put up a shelf)"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cleaning and bathroom things",
+      "columns": ["Pour le ménage", "Pour la toilette"],
+      "rows": [
+        ["**un balai** (a broom)", "**du savon**, **du shampooing** (soap, shampoo)"],
+        ["**un seau**, **une serpillière** (a bucket, a floor cloth)", "**un gant de toilette**, **une serviette** (a flannel, a towel)"],
+        ["**une éponge**, **un chiffon** (a sponge, a duster)", "**un rasoir**, **de la mousse à raser** (a razor, shaving foam)"],
+        ["**un torchon** (a tea towel)", "**une brosse à dents**, **du dentifrice** (a toothbrush, toothpaste)"],
+        ["**un aspirateur** (a vacuum cleaner)", "**un peigne**, **une brosse** (a comb, a hairbrush)"],
+        ["**de la lessive**, **des produits de nettoyage** (washing powder, cleaning products)", "**de la crème**, **du déodorant** (cream, deodorant)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "La toilette - getting washed",
+      "text": "Most morning-routine verbs are reflexive. **Faire sa toilette** means to get washed and ready.",
+      "examples": [
+        { "text": "Il **prend une douche**, puis il **se sèche** avec sa serviette.", "note": "He has a shower, then dries himself with his towel." },
+        { "text": "Devant le miroir, il **se rase** avec un rasoir.", "note": "In front of the mirror, he shaves with a razor." },
+        { "text": "Elle **se brosse les dents** avec sa brosse à dents.", "note": "She brushes her teeth with her toothbrush." },
+        { "text": "Elle **se coiffe** avec un peigne.", "note": "She does her hair with a comb." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les types de magasins",
+      "columns": ["Type", "Where", "What they sell"],
+      "rows": [
+        ["**les petits commerces**: une boulangerie, une boucherie, une poissonnerie, une fromagerie, **une droguerie**", "in every neighbourhood", "one speciality each; a *droguerie* sells a bit of everything for the home - washing powder, soap, kitchen utensils"],
+        ["**les grandes surfaces** (Auchan, Carrefour ...)", "usually outside town", "everything: food, tools, cleaning products, books, clothes, lingerie"],
+        ["**les grands magasins** (les Galeries Lafayette, le Printemps)", "in the town centre", "clothes, lingerie, perfume, furniture"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "The French live a long time: on average about 79 years for men and 85 for women (2016 figures) - so an energetic *mamie* of 85 is not so unusual!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Émilie :* Tu as fait ça toute seule ? Tu n'as pas pris de femme de ménage ?\n*Jeanne :* Mais non, je suis en forme, ma petite fille !"
+      },
+      "statement": "Mamie a pris une femme de ménage.",
+      "answer": false,
+      "explanation": "She did it **toute seule** (all by herself) - she's fit and needs no cleaner."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Émilie :* Tu as pu faire les vitres ? Comment est-ce que tu as fait ?\n*Jeanne :* J'ai pris du produit et j'ai tout nettoyé...\n*Émilie :* En montant sur une chaise ?\n*Jeanne :* Mais non ! En montant sur un escabeau !"
+      },
+      "prompt": "How did Jeanne reach the windows?",
+      "options": ["She climbed on a stepladder.", "She climbed on a chair.", "A cleaner helped her.", "She didn't clean the windows."],
+      "answer": 0,
+      "explanation": "**En montant sur un escabeau** - by climbing on a stepladder, not a chair."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Corentin :* En allant faire les courses, j'ai découvert une merveilleuse droguerie, qui vend tous les produits de nettoyage possibles. J'adore ces vieux magasins, c'est beaucoup plus agréable que les grandes surfaces."
+      },
+      "statement": "Corentin a découvert un merveilleux supermarché.",
+      "answer": false,
+      "explanation": "He found **une droguerie** - a small, old-fashioned shop. He prefers them to big supermarkets."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Adèle :* Tu n'as pas vu ma brosse à dents ?\n*Étienne :* Si, elle est là, avec le dentifrice."
+      },
+      "statement": "Adèle cherche sa brosse à dents.",
+      "answer": true,
+      "explanation": "She's looking for her toothbrush - it's next to the toothpaste."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each line with the best reply.",
+      "pairs": [
+        { "left": "Tu n'as pas vu le savon ?", "right": "Si, il est là !" },
+        { "left": "Il a toujours été comme ça ?", "right": "Ah oui, toujours." },
+        { "left": "Tu vas accepter ce projet impossible à réaliser ?", "right": "Mais non, je ne suis pas fou !" },
+        { "left": "Regarde, j'ai acheté des fleurs.", "right": "Oh, comme c'est gentil !" },
+        { "left": "Elle ne va jamais au supermarché ?", "right": "Non, elle est comme ça, elle préfère les petits commerces." },
+        { "left": "Comment est-ce que tu as trouvé ce magasin ?", "right": "En me promenant dans la ville, tout simplement." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Your friend says: *« Ce produit est très mauvais ! »* You agree, but politely. What do you say?",
+      "options": [
+        "Disons qu'il n'est pas très bon.",
+        "Non, il est très mauvais.",
+        "Comme c'est gentil !",
+        "Je ne suis pas fou !"
+      ],
+      "answer": 0,
+      "explanation": "**Disons que...** (let's say...) softens a negative comment."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Is it for getting washed or for cleaning the house?",
+      "categories": ["La toilette (getting washed)", "Le ménage (housework)"],
+      "items": [
+        { "text": "un peigne", "category": 0 },
+        { "text": "une brosse à dents", "category": 0 },
+        { "text": "un shampooing", "category": 0 },
+        { "text": "un déodorant", "category": 0 },
+        { "text": "un balai", "category": 1 },
+        { "text": "un seau", "category": 1 },
+        { "text": "une serpillière", "category": 1 },
+        { "text": "un torchon", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right verb: Elle ___ l'aspirateur.",
+      "options": ["passe", "fait", "met", "range"],
+      "answer": 0,
+      "explanation": "**Passer l'aspirateur** = to vacuum. Most other chores use *faire*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tu as fait le ___ ? Oh, comme c'est gentil !",
+      "hint": "the ironing",
+      "answers": ["repassage"],
+      "explanation": "**Faire le repassage** = to do the ironing (*repasser* = to iron)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils ___ la table avant le dîner.",
+      "hint": "(mettre) - to lay",
+      "answers": ["mettent"],
+      "explanation": "**Mettre la table** = to lay the table; the opposite is *débarrasser la table*."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "statement": "En France, les grandes surfaces sont en général au centre-ville.",
+      "answer": false,
+      "explanation": "**Les grandes surfaces** are usually outside town; it's **les grands magasins** that are in the centre."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the answer: \"No, I haven't finished yet.\"",
+      "words": ["Non,", "je", "n'ai", "pas", "encore", "fini."],
+      "answer": "Non, je n'ai pas encore fini.",
+      "explanation": "**ne ... pas encore** = not yet."
+    }
+  ]
+}

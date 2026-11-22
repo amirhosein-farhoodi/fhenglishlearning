@@ -3,12 +3,16 @@ import Stars from '../components/Stars'
 import { availableUnits, getBook, orderedUnits } from '../content/registry'
 import { bookStats, getUnitProgress, useProgress } from '../lib/storage'
 import { ArrowLeft, ArrowRight, Lock } from '../components/Icons'
+import LanguageChip from '../components/LanguageChip'
+import { langAttr } from '../content/languages'
+import { useTargetLang } from '../lib/targetLang'
 
 export default function Course() {
   const { slug } = useParams()
   const book = getBook(slug)
   const p = useProgress()
   const nav = useNavigate()
+  const language = useTargetLang()
 
   if (!book) {
     return (
@@ -49,7 +53,8 @@ export default function Course() {
             <p className="eyebrow">
               {book.coverEmoji} {book.level ?? 'Course'}
             </p>
-            <h1>{book.title}</h1>
+            <h1 lang={langAttr(language)}>{book.title}</h1>
+            {langAttr(language) && <LanguageChip language={language} />}
             <p className="desc">{book.description}</p>
             {book.author && (
               <p className="muted" style={{ fontSize: '0.8rem', marginTop: 10 }}>

@@ -363,7 +363,12 @@ def main():
         title = unit_title(pages_raw[start], n, toc)
         titles[str(n)] = title
         parts = [f'# Unit {n} — {title}\n']
-        labels = ['Lesson page (explanations & examples)', 'Exercises page'] + [f'Continued page {i+1}' for i in range(2, len(unit_pages))]
+        if a.pages_per_unit == 2 and not spans:
+            labels = ['Lesson page (explanations & examples)', 'Exercises page'] + [f'Continued page {i+1}' for i in range(2, len(unit_pages))]
+        else:
+            # Longer units (a course book's 10-page unit) have no fixed lesson/exercise split, so
+            # label each page by position and PDF page instead of guessing what is on it.
+            labels = [f'Page {i + 1} of {len(unit_pages)} (PDF page {start + i + 1})' for i in range(len(unit_pages))]
         for i, p in enumerate(unit_pages):
             parts.append(f'\n## {labels[i]}\n\n```\n{clean(p)}\n```\n')
         if n in key:

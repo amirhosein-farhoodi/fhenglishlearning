@@ -1,0 +1,208 @@
+{
+  "number": 35,
+  "title": "Weather, seasons and the beach",
+  "subtitle": "Quel temps fait-il ?",
+  "summary": "Talk about the weather and the temperature, describe a day at the beach and react with everyday expressions.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Quel temps fait-il ?",
+      "text": "To ask about the weather, say **Quel temps fait-il ?** Most answers start with **il fait** + an adjective. *Il fait doux* or *il fait bon* means mild - not too hot, not too cold. *Il fait gris* means the sky is cloudy.",
+      "examples": [
+        { "text": "**Il fait beau.** / **Il fait mauvais.**", "note": "The weather is nice. / The weather is bad." },
+        { "text": "**Il fait chaud.** ≠ **Il fait froid.**", "note": "It's hot. ≠ It's cold." },
+        { "text": "**Il fait frais.** **Il fait doux.**", "note": "It's cool. It's mild." },
+        { "text": "Il fait **un temps magnifique** !", "note": "The weather is wonderful!" },
+        { "text": "Il fait **un temps épouvantable** !", "note": "The weather is awful!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Bad weather",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["**Il pleut.** < Il pleut **à torrents**.", "It's raining. < It's pouring down."],
+        ["**Il neige.** Il est tombé 20 cm de neige.", "It's snowing. 20 cm of snow fell."],
+        ["**Il y a du vent.** < Il y a une tempête.", "It's windy. < There's a storm."],
+        ["**Il y a du brouillard**, on n'y voit rien !", "It's foggy, you can't see a thing!"],
+        ["**Il y a des averses.**", "There are showers."],
+        ["**Il fait lourd.** = Il fait orageux.", "It's close / thundery."]
+      ],
+      "note": "*Il pleut* comes from *pleuvoir*, *il neige* from *neiger*. They only exist with *il*."
+    },
+    {
+      "type": "explain",
+      "heading": "Temperature and changes",
+      "text": "Ask **Il fait combien ?** and answer with **Il fait** + the number of degrees. For water, the French say **elle est à** 17 degrés. To compare with yesterday, use *plus*, *moins* or **meilleur** (better).",
+      "examples": [
+        { "text": "— **Il fait combien ?** — Il fait 24 degrés.", "note": "What's the temperature? - It's 24 degrees." },
+        { "text": "— Quelle est la température de l'eau ? — **Elle est à** 17 degrés.", "note": "How warm is the water? - It's 17 degrees." },
+        { "text": "Le ciel **se dégage** ≠ le ciel **se couvre**.", "note": "The sky is clearing ≠ the sky is clouding over." },
+        { "text": "**Il fait meilleur** aujourd'hui.", "note": "The weather is better today." },
+        { "text": "Il fait **moins chaud qu'hier**.", "note": "It's not as hot as yesterday." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Sur la plage - at the beach",
+      "text": "The words for a day by the sea. **Se baigner** is to go for a swim; **prendre le soleil** is to sunbathe. To avoid sunburn (*des coups de soleil*), you put on sun cream or sit in the shade.",
+      "examples": [
+        { "text": "Les **baigneurs** se baignent dans la mer.", "note": "The swimmers swim in the sea." },
+        { "text": "Ils **prennent le soleil**. ≠ Ils **se mettent à l'ombre**, sous un **parasol**.", "note": "They sunbathe. ≠ They sit in the shade, under a beach umbrella." },
+        { "text": "Ils mettent de la **crème solaire**.", "note": "They put on sun cream." },
+        { "text": "Tu risques de prendre **des coups de soleil**.", "note": "You might get sunburnt." },
+        { "text": "Les enfants construisent **des châteaux de sable**.", "note": "The children build sandcastles." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Short reactions from the dialogues at the beach and in the family. **Tant mieux !** shows you are pleased; **Tu veux dire que ...** checks what someone means.",
+      "examples": [
+        { "text": "**Tant mieux !**", "note": "Good! / So much the better!" },
+        { "text": "Hier, **il y avait un monde fou** sur la plage.", "note": "Yesterday the beach was packed (lots of people)." },
+        { "text": "**C'est une question d'habitude !**", "note": "You just have to get used to it!" },
+        { "text": "**Pense à** mettre de la crème solaire.", "note": "Remember to put on sun cream." },
+        { "text": "Ah oui, **ça change de** ma région !", "note": "That's a change from my region!" },
+        { "text": "**Tu veux dire que** je suis sourd ?", "note": "Do you mean I'm deaf?" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Family nicknames",
+      "columns": ["Who", "What children call them"],
+      "rows": [
+        ["le père / la mère", "**papa** / **maman**"],
+        ["le grand-père", "**papi**, papé, pépé"],
+        ["la grand-mère", "**mamie**, mamé, mémé"],
+        ["l'oncle", "**tonton**"],
+        ["la tante", "**tatie**, tata"],
+        ["le chat", "**minou**"]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Holidays matter in France: most French holidaymakers stay in France, and the seaside is their first choice, ahead of the countryside, the mountains and cities."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each weather expression to its meaning.",
+      "pairs": [
+        { "left": "Il pleut.", "right": "It's raining." },
+        { "left": "Il neige.", "right": "It's snowing." },
+        { "left": "Il y a du brouillard.", "right": "It's foggy." },
+        { "left": "Il fait lourd.", "right": "It's close and thundery." },
+        { "left": "Il fait doux.", "right": "It's mild." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "A child says: *« Au revoir, tonton ! »* Who is the child talking to?",
+      "options": ["an uncle", "an aunt", "a grandfather", "a cat"],
+      "answer": 0,
+      "explanation": "**Tonton** is a child's word for *l'oncle*; an aunt is *tatie* or *tata*."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Corentin :* Papi, tu entends de plus en plus mal ! Je te dis qu'il fait plus chaud aujourd'hui qu'hier.\n*Papi :* Ah bon ? Mais pourquoi est-ce que tu parles plus doucement qu'avant ?\n*Corentin :* Papi, je parle exactement comme avant..."
+      },
+      "statement": "Corentin parle plus doucement qu'avant.",
+      "answer": false,
+      "explanation": "Corentin speaks **exactement comme avant** - the problem is that Papi doesn't hear well any more."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Clotilde :* Regarde, il y a beaucoup moins de baigneurs aujourd'hui. Hier, il y avait un monde fou sur la plage, aujourd'hui, c'est vide.\n*Anatole :* Tant mieux ! C'est plus agréable comme ça."
+      },
+      "statement": "Aujourd'hui, il y a moins de monde sur la plage qu'hier.",
+      "answer": true,
+      "explanation": "Yesterday there was **un monde fou** (a huge crowd); today the beach is **vide** (empty)."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Philippe :* Tu connais le climat de la Provence ? Quel temps fait-il, en hiver ?\n*Antoine :* En hiver, il fait souvent très beau, mais assez froid. Il y a beaucoup de vent, du mistral..."
+      },
+      "statement": "En Provence, il ne fait pas froid en hiver.",
+      "answer": false,
+      "explanation": "In winter it is often sunny **mais assez froid** - and the mistral is a strong, cold wind."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone says: *« Le ciel se dégage ! »* What is the best reply?",
+      "options": [
+        "Tu veux dire qu'il fait meilleur ?",
+        "Alors, il y a des averses ?",
+        "Il y a du brouillard, on n'y voit rien !",
+        "Quel temps épouvantable !"
+      ],
+      "answer": 0,
+      "explanation": "**Le ciel se dégage** means the clouds are going away, so the weather is getting better."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il pleut énormément, il pleut à ___.",
+      "hint": "it's pouring",
+      "answers": ["torrents"],
+      "explanation": "**Il pleut à torrents** - it's raining very hard."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il ne fait ni trop chaud, ni trop froid, il fait ___.",
+      "hint": "mild",
+      "answers": ["doux", "bon"],
+      "explanation": "**Il fait doux** or **il fait bon**: not too hot, not too cold."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "statement": "À la plage, on s'installe sous un parapluie.",
+      "answer": false,
+      "explanation": "At the beach you sit under **un parasol**; *un parapluie* is an umbrella for the rain."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Good weather or bad weather? Sort the sentences.",
+      "categories": ["Il fait beau (good)", "Il fait mauvais (bad)"],
+      "items": [
+        { "text": "Il fait un temps splendide.", "category": 0 },
+        { "text": "Le ciel se dégage.", "category": 0 },
+        { "text": "Il fait doux.", "category": 0 },
+        { "text": "Il fait meilleur qu'hier.", "category": 0 },
+        { "text": "Il pleut à torrents.", "category": 1 },
+        { "text": "Il fait un temps épouvantable.", "category": 1 },
+        { "text": "Il y a une tempête de vent.", "category": 1 },
+        { "text": "Le ciel se couvre.", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark to the best reply.",
+      "pairs": [
+        { "left": "Quel brouillard !", "right": "Oui, on n'y voit rien !" },
+        { "left": "Vous vous baignez ? Mais l'eau est trop froide !", "right": "Oh, c'est une question d'habitude !" },
+        { "left": "Quel temps fait-il ?", "right": "Assez beau, mais un peu frais !" },
+        { "left": "Il fait froid, il pleut, il y a du vent...", "right": "Tu veux dire qu'il fait un temps épouvantable ?" },
+        { "left": "Attention, tu vas prendre un coup de soleil !", "right": "Alors, je vais me mettre sous le parasol." }
+      ]
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"Remember to put on sun cream.\"",
+      "words": ["Pense", "à", "mettre", "de la", "crème solaire."],
+      "answer": "Pense à mettre de la crème solaire.",
+      "explanation": "**Penser à** + infinitive: remember to do something."
+    }
+  ]
+}

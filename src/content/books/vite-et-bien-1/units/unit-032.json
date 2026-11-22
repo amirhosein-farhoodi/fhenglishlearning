@@ -1,0 +1,176 @@
+{
+  "number": 32,
+  "title": "Time expressions: depuis, pendant, il y a",
+  "subtitle": "depuis, pendant, il y a, pour, dans, en",
+  "summary": "Say how long, how long ago and how soon with depuis, pendant, il y a, pour, dans and en, and use verbs that take à or de.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Depuis + present: it's still going on",
+      "text": "**Depuis** (since, for) describes something that started in the past and **continues now**, so French uses the **present** tense - where English says *have been*. Ask with *depuis quand ?* or *depuis combien de temps ?*",
+      "examples": [
+        { "text": "— Depuis quand est-ce que vous travaillez en France ? — Je **travaille** en France **depuis** deux ans.", "note": "I've been working in France for two years (and I still do)." },
+        { "text": "Ils **sont** mariés **depuis** dix ans.", "wrong": "Ils ont été mariés depuis dix ans", "note": "They've been married for ten years (and still are)." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Pendant + passé composé: it's finished",
+      "text": "**Pendant** (for, during) gives a **set length of time** for an action that is **over**. Ask with *pendant combien de temps ?*",
+      "examples": [
+        { "text": "Il **a vécu** en Italie **pendant** cinq ans.", "note": "He lived in Italy for five years (and that's over)." },
+        { "text": "Elle **a été** mariée **pendant** six ans.", "note": "She was married for six years (now she's divorced)." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Il y a + passé composé: how long ago",
+      "text": "**Il y a** + a length of time means *ago*: it points to the moment something happened.",
+      "examples": [
+        { "text": "Elle est partie **il y a** cinq minutes.", "note": "She left five minutes ago. (It's 2.05; she left at 2.00.)" },
+        { "text": "Nous avons vu ce film **il y a** dix ans.", "note": "We saw this film ten years ago." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pour, dans, en",
+      "columns": ["Word", "Meaning", "Example"],
+      "rows": [
+        ["**pour** + present / future", "for (a planned length of time)", "Elle part en voyage **pour** quinze jours."],
+        ["**dans** + present / future", "in (time from now)", "Je reviens **dans** cinq minutes !"],
+        ["**en** + any tense", "in (time needed to do it)", "Ils ont fait cet exercice **en** cinq minutes."]
+      ],
+      "note": "A French oddity: **huit jours** = one week and **quinze jours** = two weeks. *Je prends huit jours de congés.*"
+    },
+    {
+      "type": "explain",
+      "heading": "Avant, après; intéresser, s'intéresser à",
+      "text": "**Avant** (before) and **après** (after) are followed by a noun. **Intéresser quelqu'un** means *to interest someone*; **s'intéresser à** means *to be interested in*.",
+      "examples": [
+        { "text": "Je dois partir **avant** la fin de la réunion.", "note": "I have to leave before the end of the meeting." },
+        { "text": "Nous organisons une conférence **après** les vacances d'été.", "note": "We're organising a conference after the summer holidays." },
+        { "text": "Ce projet **m'intéresse** beaucoup.", "note": "This project interests me a lot." },
+        { "text": "Elle **s'intéresse à** la philosophie.", "note": "She's interested in philosophy." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Verbs + à or de + infinitive",
+      "columns": ["+ à", "+ de"],
+      "rows": [
+        ["commencer **à**", "essayer **de**"],
+        ["avoir du mal **à** (find it hard to)", "accepter **de** / refuser **de**"],
+        ["arriver **à** / réussir **à** (manage to)", "décider **de**"],
+        ["continuer **à**", "oublier **de**"],
+        ["hésiter **à**", "arrêter **de** / finir **de**"],
+        ["passer du temps **à**", "avoir envie **de** / avoir peur **de**"],
+        ["autoriser quelqu'un **à**", "promettre **de** / interdire **de**"]
+      ],
+      "note": "*J'essaye **de** parler français, mais j'ai du mal **à** conjuguer les verbes !* Modal verbs like *pouvoir* and *vouloir* take **no** preposition: *il ne peut pas venir*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Le train part dans combien de temps ?", "right": "Dans cinq minutes." },
+        { "left": "Vous avez attendu le bus pendant combien de temps ?", "right": "Pendant dix minutes." },
+        { "left": "Il a fait le trajet en combien de temps ?", "right": "En trois heures." },
+        { "left": "Ils partent pour combien de temps ?", "right": "Juste pour trois jours." },
+        { "left": "Quand est-ce que tu as vu ce film ?", "right": "Il y a trois semaines, environ." },
+        { "left": "Elle habite ici depuis longtemps ?", "right": "Depuis dix ans, je crois." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils partent en vacances ___ deux semaines.",
+      "hint": "pendant or pour?",
+      "answers": ["pour"],
+      "explanation": "A planned length of time with the present → **pour**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'ai habité dans le sud de la France ___ dix ans.",
+      "hint": "pendant or pour?",
+      "answers": ["pendant"],
+      "explanation": "A finished period with the passé composé → **pendant**."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Il y a or depuis? Sort the sentences by the word that fills the gap.",
+      "categories": ["il y a", "depuis"],
+      "items": [
+        { "text": "Il a téléphoné ___ cinq minutes.", "category": 0 },
+        { "text": "Ils sont arrivés ___ deux jours.", "category": 0 },
+        { "text": "J'ai visité Carcassonne ___ longtemps.", "category": 0 },
+        { "text": "Elle est au téléphone ___ une heure !", "category": 1 },
+        { "text": "Il attend une réponse ___ trois semaines.", "category": 1 },
+        { "text": "Je travaille en France ___ deux ans.", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ils ont mis du temps ? — Pas vraiment, ils ont fait le trajet ___ deux heures.",
+      "options": ["en", "pendant", "depuis", "dans"],
+      "answer": 0,
+      "explanation": "The time **needed** to do something → **en**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quand est-ce que vous vous êtes rencontrés ? — Nous nous sommes rencontrés ___ quatre ans.",
+      "options": ["il y a", "pour", "pendant", "dans"],
+      "answer": 0,
+      "explanation": "*Ago*, with the passé composé → **il y a**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tu quittes la réunion ? — Non, je reviens ___ deux minutes !",
+      "options": ["dans", "en", "depuis", "il y a"],
+      "answer": 0,
+      "explanation": "Time from now until something happens → **dans**."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Which preposition comes before the infinitive: à or de?",
+      "categories": ["+ à", "+ de"],
+      "items": [
+        { "text": "commencer", "category": 0 },
+        { "text": "continuer", "category": 0 },
+        { "text": "hésiter", "category": 0 },
+        { "text": "avoir du mal", "category": 0 },
+        { "text": "refuser", "category": 1 },
+        { "text": "accepter", "category": 1 },
+        { "text": "arrêter", "category": 1 },
+        { "text": "avoir envie", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "What goes in the gap? *Il ne peut pas ___ venir.*",
+      "options": ["nothing", "à", "de", "en"],
+      "answer": 0,
+      "explanation": "**Pouvoir** (like *vouloir*, *devoir*) is followed directly by the infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Elle s'intéresse la philosophie.",
+      "answer": false,
+      "explanation": "**S'intéresser à**: *Elle s'intéresse **à** la philosophie.*"
+    },
+    {
+      "type": "true_false",
+      "statement": "J'ai vécu en Italie depuis cinq ans.",
+      "answer": false,
+      "explanation": "A finished period with the passé composé takes **pendant**: *J'ai vécu en Italie **pendant** cinq ans.* (Or, if you still live there: *Je vis en Italie depuis cinq ans.*)"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Ask: \"How long have you been working in France?\"",
+      "words": ["Depuis", "combien de temps", "est-ce que", "vous", "travaillez", "en France ?"],
+      "answer": "Depuis combien de temps est-ce que vous travaillez en France ?",
+      "explanation": "**Depuis** + the **present** for something still going on."
+    }
+  ]
+}

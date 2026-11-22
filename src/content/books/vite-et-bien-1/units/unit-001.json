@@ -1,0 +1,210 @@
+{
+  "number": 1,
+  "title": "Ordering at the café",
+  "subtitle": "Je voudrais un café, s'il vous plaît.",
+  "summary": "Order food and drinks in a French café, politely, and understand what the waiter says back.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Ordering: je voudrais ...",
+      "text": "In a café the waiter opens with a single word - *Madame ?*, *Monsieur ?* or *Messieurs-dames ?* - which means \"What can I get you?\". You answer with **je voudrais** (I would like) and finish with **s'il vous plaît**. *Pour moi* (for me) works too when you order after someone else.",
+      "examples": [
+        { "text": "*Le serveur :* Madame ?", "note": "What would you like, madam?" },
+        { "text": "*La cliente :* Bonjour, monsieur. **Je voudrais** un café crème, **s'il vous plaît**.", "note": "Hello. I'd like a white coffee, please." },
+        { "text": "**Pour moi**, un sandwich jambon-beurre, s'il vous plaît.", "note": "For me, a ham and butter sandwich, please." },
+        { "text": "*Le serveur :* Et **comme boisson** ?", "note": "And to drink?" },
+        { "text": "Un demi et une carafe d'eau.", "note": "A small draught beer and a jug of tap water." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "These short replies keep a conversation moving. **Voici** and **voilà** both mean \"here is / here you are\" - waiters say them as they bring the menu or the plates.",
+      "examples": [
+        { "text": "**Voici** la carte.", "note": "Here is the menu." },
+        { "text": "**Bien sûr !**", "note": "Of course!" },
+        { "text": "**Très bien !** / **D'accord !**", "note": "Very good! / OK!" },
+        { "text": "**Alors**, un petit verre d'aligoté.", "note": "So / well then, a small glass of aligoté." },
+        { "text": "**Ah bon ?**", "note": "Oh really? - mild surprise" },
+        { "text": "**Quelle horreur !**", "note": "How awful! - strong dislike" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les repas - the meals",
+      "columns": ["Meal", "When", "In English"],
+      "rows": [
+        ["le **petit-déjeuner**", "à 7 h", "breakfast"],
+        ["le **déjeuner**", "à 12 h", "lunch"],
+        ["le **dîner**", "à 20 h", "dinner"]
+      ],
+      "note": "French times use the 24-hour clock: *20 h* (vingt heures) is 8 pm."
+    },
+    {
+      "type": "explain",
+      "heading": "At the table",
+      "text": "The people and things you need in any café. Learn each noun **with** its article: *un/le* marks a masculine word, *une/la* a feminine one, and the article is the only way to tell.",
+      "examples": [
+        { "text": "**le serveur**, **la serveuse** ; **le client**, **la cliente**", "note": "the waiter, the waitress; the customer (man, woman)" },
+        { "text": "**la carte**, **le menu**", "note": "the menu; a set menu" },
+        { "text": "un verre, une assiette, un plat", "note": "a glass, a plate, a dish" },
+        { "text": "un couteau, une fourchette, une cuiller", "note": "a knife, a fork, a spoon" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Drinks and desserts",
+      "columns": ["Les boissons", "Les desserts"],
+      "rows": [
+        ["une eau minérale **plate** / **gazeuse** (still / sparkling)", "une tarte aux pommes (apple tart)"],
+        ["un jus de pomme, un jus de raisin (apple, grape juice)", "un gâteau au chocolat (chocolate cake)"],
+        ["un demi (a 25 cl draught beer)", "une glace à la vanille (vanilla ice cream)"],
+        ["une orange pressée, un citron pressé (fresh orange, lemon juice)", "une crème brûlée"],
+        ["un café crème, un thé, un chocolat", "une salade de fruits (fruit salad)"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "La politesse - being polite",
+      "text": "Always greet before you ask for anything, and add **madame** or **monsieur** - it is the French way, not extra formality. **Bonjour** works all day; **bonsoir** is for the evening.",
+      "examples": [
+        { "text": "**Bonjour, madame !** **Bonjour, monsieur !**", "note": "Hello (to a woman / to a man)" },
+        { "text": "**Bonsoir**, Anne !", "note": "Good evening, Anne!" },
+        { "text": "**Au revoir**, madame !", "note": "Goodbye!" },
+        { "text": "**Merci**, mademoiselle !", "note": "Thank you!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Wine is part of the meal in France: *un bon repas = un bon plat + un bon vin*. Wines are named after their region - *un muscadet*, *un chablis*, *un bordeaux* - and you order them with *un verre de ...* (a glass of ...)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each French word to its meaning.",
+      "pairs": [
+        { "left": "une fourchette", "right": "a fork" },
+        { "left": "un couteau", "right": "a knife" },
+        { "left": "une assiette", "right": "a plate" },
+        { "left": "un verre", "right": "a glass" },
+        { "left": "la carte", "right": "the menu" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to order a coffee politely. What do you say?",
+      "options": [
+        "Je voudrais un café, s'il vous plaît.",
+        "Un café !",
+        "Voici un café, monsieur.",
+        "Quelle horreur, un café !"
+      ],
+      "answer": 0,
+      "explanation": "Order with **je voudrais** (I would like) and finish with **s'il vous plaît**."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Sort the café words: is it something to drink or something to eat?",
+      "categories": ["Une boisson (a drink)", "À manger (to eat)"],
+      "items": [
+        { "text": "un demi", "category": 0 },
+        { "text": "une orange pressée", "category": 0 },
+        { "text": "un jus de raisin", "category": 0 },
+        { "text": "une eau gazeuse", "category": 0 },
+        { "text": "un croque-monsieur", "category": 1 },
+        { "text": "une tarte aux pommes", "category": 1 },
+        { "text": "un saumon grillé", "category": 1 },
+        { "text": "une tartine", "category": 1 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La cliente :* Bonjour, madame. Alors... un croque-monsieur avec une salade verte, s'il vous plaît.\n*Le client :* Pour moi, un sandwich jambon-beurre, s'il vous plaît."
+      },
+      "statement": "Le client voudrait un sandwich au fromage.",
+      "answer": false,
+      "explanation": "He orders **un sandwich jambon-beurre** - ham and butter, not cheese (*fromage*)."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Le serveur :* Et une orange pressée ou un citron pressé ?\n*La cliente :* Une orange pressée."
+      },
+      "statement": "La cliente voudrait une orange pressée.",
+      "answer": true,
+      "explanation": "She chooses **une orange pressée** - freshly squeezed orange juice."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Virginie :* Je suis végétarienne !\n*Le serveur :* Ah... Alors, nous avons un saumon grillé avec du riz.\n*Virginie :* Ah non ! Je voudrais juste des légumes."
+      },
+      "prompt": "Why does Virginie say no to the salmon?",
+      "options": [
+        "She is vegetarian.",
+        "She wants a dessert.",
+        "She has no money.",
+        "She wants a drink first."
+      ],
+      "answer": 0,
+      "explanation": "She says *Je suis végétarienne !* - she wants only vegetables (*juste des légumes*)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Who says it? Match each line to the person who would say it.",
+      "pairs": [
+        { "left": "« Et comme boisson ? »", "right": "the waiter, asking about drinks" },
+        { "left": "« Voici la carte ! »", "right": "the waiter, bringing the menu" },
+        { "left": "« Vous avez un plat du jour ? »", "right": "the customer, asking about today's special" },
+        { "left": "« Je suis végétarien. »", "right": "the customer, explaining what they eat" }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "The waiter says: *« Nous avons un saumon grillé. »* You are happy with that. What do you answer?",
+      "options": ["Très bien !", "Quelle horreur !", "Ah bon ?", "Au revoir !"],
+      "answer": 0,
+      "explanation": "**Très bien !** (very good) accepts the suggestion; *Quelle horreur !* would mean you hate it."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je voudrais une ___ d'eau, s'il vous plaît.",
+      "hint": "a jug",
+      "answers": ["carafe"],
+      "explanation": "**Une carafe d'eau** is a jug of tap water - free in French cafés."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Et comme ___ ? — Un demi, s'il vous plaît.",
+      "hint": "drink",
+      "answers": ["boisson"],
+      "explanation": "**Et comme boisson ?** - \"And to drink?\" The waiter's standard question."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the order: \"Hello, madam. I'd like a white coffee, please.\"",
+      "words": ["Bonjour, madame.", "Je", "voudrais", "un café crème,", "s'il vous plaît."],
+      "answer": "Bonjour, madame. Je voudrais un café crème, s'il vous plaît.",
+      "explanation": "Greeting first, then **je voudrais** + what you want + **s'il vous plaît**."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*La cliente :* Bonjour, monsieur. Je voudrais une omelette au fromage et une assiette de crudités, s'il vous plaît.\n*Le serveur :* Et comme boisson ?\n*La cliente :* Juste une petite bouteille d'eau minérale.\n*Le serveur :* Évian ? Badoit ? Perrier ?\n*La cliente :* Une bouteille d'Évian, s'il vous plaît."
+      },
+      "statement": "La cliente voudrait une carafe d'eau.",
+      "answer": false,
+      "explanation": "She asks for **une bouteille d'Évian** - a bottle of mineral water, not a jug of tap water."
+    }
+  ]
+}

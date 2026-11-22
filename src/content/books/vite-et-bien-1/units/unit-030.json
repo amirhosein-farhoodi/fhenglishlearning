@@ -1,0 +1,200 @@
+{
+  "number": 30,
+  "title": "The future tense",
+  "subtitle": "je parlerai, j'irai, si + présent, quand + futur",
+  "summary": "Form the futur simple of regular and irregular verbs, use it after si and quand, and say why with comme and c'est pour ça que.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Le futur simple: infinitive + endings",
+      "columns": ["", "Parler", "Prendr(e)", "Ending"],
+      "rows": [
+        ["je", "parler**ai**", "prendr**ai**", "-ai"],
+        ["tu", "parler**as**", "prendr**as**", "-as"],
+        ["il / elle / on", "parler**a**", "prendr**a**", "-a"],
+        ["nous", "parler**ons**", "prendr**ons**", "-ons"],
+        ["vous", "parler**ez**", "prendr**ez**", "-ez"],
+        ["ils / elles", "parler**ont**", "prendr**ont**", "-ont"]
+      ],
+      "note": "For most verbs, take the **infinitive** and add the endings. Infinitives in **-re** drop the final *e*: *prendre → je prendrai*. The endings never change."
+    },
+    {
+      "type": "table",
+      "heading": "Irregular stems, same endings",
+      "columns": ["Infinitive", "Future", "Infinitive", "Future"],
+      "rows": [
+        ["aller", "**j'irai**", "pouvoir", "**je pourrai**"],
+        ["venir", "**je viendrai**", "voir", "**je verrai**"],
+        ["être", "**je serai**", "faire", "**je ferai**"],
+        ["avoir", "**j'aurai**", "vouloir", "**je voudrai**"],
+        ["devoir", "**je devrai**", "savoir", "**je saurai**"],
+        ["recevoir", "**je recevrai**", "", ""]
+      ],
+      "note": "Only the stem is irregular: *nous **irons**, vous **serez**, ils **auront***. *Il y a* becomes **il y aura**."
+    },
+    {
+      "type": "explain",
+      "heading": "When to use the futur simple",
+      "text": "The futur simple talks about a future that is **less certain** or depends on something: plans with *peut-être* or *probablement*, hopes after **j'espère que**, good resolutions, and the weather forecast.",
+      "examples": [
+        { "text": "Je **verrai** des amis ce soir, probablement.", "note": "I'll probably see some friends tonight." },
+        { "text": "Nous **ferons** peut-être du tennis.", "note": "We might play tennis." },
+        { "text": "J'espère qu'ils **viendront**.", "note": "I hope they'll come." },
+        { "text": "À partir de janvier, j'**arrêterai** de fumer.", "note": "From January, I'll stop smoking." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Si and quand",
+      "left": {
+        "label": "Si + present → future",
+        "text": "A condition. After **si**, never use the future.",
+        "examples": [
+          "**Si** je **peux**, j'**irai** au théâtre.",
+          "**Si** nous **avons** le temps, nous **viendrons**.",
+          "Elle **partira** à l'étranger **si** elle **a** assez d'argent."
+        ]
+      },
+      "right": {
+        "label": "Quand + future → future",
+        "text": "A time in the future. Unlike English, **quand** takes the future too.",
+        "examples": [
+          "**Quand** nous **irons** en Pologne, nous **visiterons** Cracovie.",
+          "Il me **téléphonera** **quand** il **reviendra**.",
+          "**Quand** je le **verrai**, je lui **raconterai** tout."
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Apprendre: learn or teach",
+      "text": "**Apprendre** means *to learn*, but with **à quelqu'un** it means *to teach*. Before an infinitive, add **à**.",
+      "examples": [
+        { "text": "David **apprend** l'espagnol.", "note": "David is learning Spanish." },
+        { "text": "Alice **apprend à** conduire.", "note": "Alice is learning to drive." },
+        { "text": "Carmen apprend l'espagnol **à David**.", "note": "Carmen teaches David Spanish." },
+        { "text": "Marius apprend à conduire **à Alice**.", "note": "Marius is teaching Alice to drive." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Se casser la jambe",
+      "text": "For your own body, French uses a **reflexive verb + le / la / les**, not *mon / ma / mes*. In the passé composé the participle does **not** agree here, because the object (*le bras*) comes after it.",
+      "examples": [
+        { "text": "Lucie **s'est cassé le bras**.", "wrong": "Lucie a cassé son bras", "note": "Lucie broke her arm." },
+        { "text": "Juliette **se lave les cheveux** tous les jours.", "note": "Juliette washes her hair every day." },
+        { "text": "Je **me brosse les dents** après chaque repas.", "note": "I brush my teeth after every meal." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Giving a reason: comme, c'est pour ça que",
+      "text": "**Comme** (as, since) gives the cause at the **start** of a sentence - *parce que* normally follows the main clause instead. **C'est pour ça que** (that's why) introduces the result; it is familiar.",
+      "examples": [
+        { "text": "**Comme** il est fatigué, il ne sort pas. = Il ne sort pas **parce qu'**il est fatigué.", "note": "As he's tired, he isn't going out." },
+        { "text": "J'ai raté le bus, puis le train. **C'est pour ça que** je suis arrivé en retard.", "note": "I missed the bus, then the train. That's why I was late." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each infinitive with its future form.",
+      "pairs": [
+        { "left": "aller", "right": "j'irai" },
+        { "left": "être", "right": "je serai" },
+        { "left": "avoir", "right": "j'aurai" },
+        { "left": "faire", "right": "je ferai" },
+        { "left": "voir", "right": "je verrai" },
+        { "left": "venir", "right": "je viendrai" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand est-ce qu'ils ___ ?",
+      "hint": "(revenir) - future",
+      "answers": ["reviendront"],
+      "explanation": "*Revenir* is like *venir*: **ils reviendront**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Qu'est-ce que vous ___, l'été prochain ?",
+      "hint": "(faire) - future",
+      "answers": ["ferez"],
+      "explanation": "Faire → stem *fer-*: **vous ferez**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Est-ce que je ___ vous accompagner ?",
+      "hint": "(pouvoir) - future",
+      "answers": ["pourrai"],
+      "explanation": "Pouvoir → stem *pourr-*: **je pourrai**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quand mes amis ___, je leur offrirai un apéritif.",
+      "hint": "(arriver)",
+      "answers": ["arriveront"],
+      "explanation": "**Quand** + future when the main verb is future: *quand mes amis **arriveront***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pierre viendra, s'il ___ le temps.",
+      "hint": "(avoir)",
+      "answers": ["a"],
+      "explanation": "**Si** + present, never future: *s'il **a** le temps*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Si tu fais du sport, tu ___ mieux.",
+      "hint": "(se sentir) - future",
+      "answers": ["te sentiras"],
+      "explanation": "Si + present → **future** in the result: *tu **te sentiras** mieux*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct sentence.",
+      "options": [
+        "Si je peux, j'irai au théâtre.",
+        "Si je pourrai, j'irai au théâtre.",
+        "Si je peux, j'allerai au théâtre.",
+        "Si je pourrai, j'allerai au théâtre."
+      ],
+      "answer": 0,
+      "explanation": "**Si** + present (*je peux*), and *aller* has the irregular future **j'irai**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct sentence: \"Éléonore would like to learn to dance.\"",
+      "options": [
+        "Éléonore voudrait apprendre à danser.",
+        "Éléonore voudrait apprendre danser.",
+        "Éléonore voudrait apprendre de danser.",
+        "Éléonore voudrait apprendre la danser."
+      ],
+      "answer": 0,
+      "explanation": "**Apprendre à** + infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Lucie a cassé son bras.",
+      "answer": false,
+      "explanation": "With parts of the body, use the reflexive verb: *Lucie **s'est cassé le bras**.*"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Elle s'est ___ la jambe.",
+      "options": ["cassé", "cassée", "cassés", "casser"],
+      "answer": 0,
+      "explanation": "The object *la jambe* comes after the participle, so there's no agreement: *elle s'est **cassé** la jambe*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Rewrite with comme: \"Il est fatigué, c'est pour ça qu'il ne viendra pas à la fête.\"",
+      "words": ["Comme", "il est fatigué,", "il", "ne viendra pas", "à la fête."],
+      "answer": "Comme il est fatigué, il ne viendra pas à la fête.",
+      "explanation": "**Comme** + cause at the start, then the result."
+    }
+  ]
+}

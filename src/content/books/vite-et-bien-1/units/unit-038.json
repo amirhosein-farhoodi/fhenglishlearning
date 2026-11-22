@@ -1,0 +1,187 @@
+{
+  "number": 38,
+  "title": "Venir de, relative pronouns and articles",
+  "subtitle": "je viens de finir ; qui, que, où",
+  "summary": "Say what has just happened with venir de, link sentences with qui, que and où, and know when a subject takes le, la, les.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "The recent past: venir de + infinitive",
+      "columns": ["Venir de + infinitive", "In English"],
+      "rows": [
+        ["je **viens de** faire", "I have just done"],
+        ["tu **viens de** faire", "you have just done"],
+        ["il / elle / on **vient de** faire", "he / she has just done"],
+        ["nous **venons de** faire", "we have just done"],
+        ["vous **venez de** faire", "you have just done"],
+        ["ils / elles **viennent de** faire", "they have just done"]
+      ],
+      "note": "*De* becomes **d'** before a vowel: *je viens **d'**aller*, *elle vient **d'**obtenir son diplôme*."
+    },
+    {
+      "type": "explain",
+      "heading": "Using venir de",
+      "text": "**Venir** in the present + **de** + infinitive says that something happened a moment ago. A question in the passé composé is often answered this way. Add **juste** to stress how recent it is. The negative is very rare.",
+      "examples": [
+        { "text": "— Félix a téléphoné ? — Oui, il **vient de** téléphoner.", "note": "Has Félix called? - Yes, he's just called." },
+        { "text": "— Vous avez entendu la nouvelle ? — Oui, je **viens juste de** l'apprendre.", "note": "Have you heard the news? - Yes, I've only just found out." },
+        { "text": "— Pierre est là ? — Non, il **vient juste de** partir.", "note": "Is Pierre here? - No, he's just left." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reflexive verbs with venir de",
+      "text": "With a reflexive verb, the pronoun matches the subject and goes **before the infinitive**: *je viens de **me** lever*, *nous venons de **nous** occuper*.",
+      "examples": [
+        { "text": "Je **viens de me lever**.", "note": "I've just got up." },
+        { "text": "Je **viens de m'inscrire** en histoire.", "note": "I've just enrolled in history." },
+        { "text": "Il **vient de s'occuper** du dîner.", "note": "He's just taken care of dinner." },
+        { "text": "Vous **venez de vous préparer** ?", "note": "Have you just got ready?" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Qui and que",
+      "text": "Relative pronouns join two sentences. **Qui** is the **subject** of the verb that follows (a verb comes straight after it). **Que** is the **direct object**: a new subject follows it. *Que* becomes **qu'** before a vowel; *qui* never changes.",
+      "examples": [
+        { "text": "C'est David **qui** a crié ?", "note": "Was it David who shouted?" },
+        { "text": "Où est la photocopieuse **qui** ne marche pas ?", "note": "Where's the photocopier that doesn't work?" },
+        { "text": "Montre-moi les livres **que** tu as trouvés !", "note": "Show me the books you found!" },
+        { "text": "Nous visitons la maison **qu'**ils ont achetée.", "note": "We're visiting the house they bought." }
+      ],
+      "note": "In the passé composé with *avoir*, the participle agrees with a *que* placed before it: *les livres que tu as trouvé**s***, *la maison qu'ils ont acheté**e***."
+    },
+    {
+      "type": "explain",
+      "heading": "Où: place and time",
+      "text": "**Où** links a place - and also a moment in time. After *le jour*, *l'année*, *le moment*, French uses **où** where English says *when*.",
+      "examples": [
+        { "text": "Paris est une ville **où** de nombreux artistes ont vécu.", "note": "Paris is a city where many artists have lived." },
+        { "text": "Voici la région **où** ils sont nés.", "note": "Here is the region where they were born." },
+        { "text": "L'année **où** ils se sont mariés, ils ont fait un voyage en Asie.", "note": "The year (when) they got married, they travelled to Asia." },
+        { "text": "Mardi, c'est le jour **où** je prends mon cours de gym.", "note": "Tuesday is the day I have my gym class." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Le, la, les - or no article?",
+      "left": {
+        "label": "With an article",
+        "text": "After verbs like *aimer, adorer, détester, apprécier, étudier, connaître*, the subject of study takes **le, la, l', les**.",
+        "examples": [
+          "Elle étudie **l'**histoire de l'art.",
+          "Il adore **la** peinture du XVIIe siècle.",
+          "Elle connaît **le** mouvement impressionniste."
+        ]
+      },
+      "right": {
+        "label": "Without an article",
+        "text": "After **faire des études de**, the subject of study has **no article**: just *de* or *d'*.",
+        "examples": [
+          "Il fait des études **d'**histoire.",
+          "Elle fait des études **de** philosophie.",
+          "Ils font des études **de** sciences politiques."
+        ]
+      }
+    },
+    {
+      "type": "tip",
+      "text": "Quick test: if a **verb** follows, use *qui* (*le professeur qui enseigne*); if a **subject** follows, use *que* (*le professeur que je connais*); for a **place or time**, use *où*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with venir in the present.",
+      "pairs": [
+        { "left": "je", "right": "viens" },
+        { "left": "il", "right": "vient" },
+        { "left": "nous", "right": "venons" },
+        { "left": "vous", "right": "venez" },
+        { "left": "ils", "right": "viennent" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Félix a téléphoné ? — Oui, il ___ téléphoner.",
+      "hint": "(venir de)",
+      "answers": ["vient de", "vient juste de"],
+      "explanation": "Recent past: **il vient de** + infinitive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Salomé a obtenu son diplôme. → Salomé ___ son diplôme.",
+      "hint": "(venir de + obtenir)",
+      "answers": ["vient d'obtenir", "vient juste d'obtenir"],
+      "explanation": "*De* becomes **d'** before a vowel: **vient d'obtenir**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Mathieu s'est occupé de son chien. → Mathieu ___ de son chien.",
+      "hint": "(venir de + s'occuper)",
+      "answers": ["vient de s'occuper", "vient juste de s'occuper"],
+      "explanation": "The reflexive pronoun goes before the infinitive: **vient de s'occuper**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "— Tu t'es inscrit à la fac ? — Oui, ___",
+      "options": ["je viens de m'inscrire.", "je viens de s'inscrire.", "je viens m'inscrire.", "je viens de t'inscrire."],
+      "answer": 0,
+      "explanation": "The pronoun matches the subject (*je → me → m'*), and **de** is needed: *je viens **de m'**inscrire*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Mardi est le jour ___ je prends des cours de suédois.",
+      "options": ["où", "qui", "que", "quand"],
+      "answer": 0,
+      "explanation": "After *le jour*, French uses **où** for time - not ~~quand~~, even though English says *when*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Armelle a relu ce document ___ présente les grandes lignes du projet.",
+      "hint": "qui or que?",
+      "answers": ["qui"],
+      "explanation": "A verb (*présente*) follows directly: **qui** is the subject."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "L'ordinateur a été réparé par un technicien ___ je connais depuis longtemps.",
+      "hint": "qui or que?",
+      "answers": ["que"],
+      "explanation": "A subject (*je*) follows: **que** is the object of *connais*."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Qui, que or où? Sort the phrases by the missing word.",
+      "categories": ["qui", "que", "où"],
+      "items": [
+        { "text": "La Suède est un pays ___ me plaît beaucoup.", "category": 0 },
+        { "text": "un prof ___ donne des cours de littérature", "category": 0 },
+        { "text": "L'avion ___ nous avons pris est arrivé en retard.", "category": 1 },
+        { "text": "les étudiants ___ nous avons rencontrés chez Pierre", "category": 1 },
+        { "text": "Antoine va à la fac de la ville ___ il est né.", "category": 2 },
+        { "text": "Ce sera le moment ___ je ferai le plus de progrès.", "category": 2 }
+      ]
+    },
+    {
+      "type": "true_false",
+      "statement": "Elle fait des études de l'histoire.",
+      "answer": false,
+      "explanation": "No article after *faire des études de*: **Elle fait des études d'histoire.**"
+    },
+    {
+      "type": "true_false",
+      "statement": "Il adore la peinture du XVIIe siècle.",
+      "answer": true,
+      "explanation": "After *adorer*, the noun takes an article: **la peinture**."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Join the two ideas: \"Ce cours est intéressant. Je l'ai choisi pour ce semestre.\"",
+      "words": ["C'est", "un cours", "intéressant", "que", "j'ai choisi", "pour ce semestre."],
+      "answer": "C'est un cours intéressant que j'ai choisi pour ce semestre.",
+      "explanation": "*Je* is the subject of *ai choisi*, so the link word is **que**."
+    }
+  ]
+}

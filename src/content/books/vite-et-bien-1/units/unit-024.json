@@ -1,0 +1,188 @@
+{
+  "number": 24,
+  "title": "Prepositions of place and être en train de",
+  "subtitle": "à Paris, en France, au Maroc ; dans, sur, chez ; je suis en train de ...",
+  "summary": "Choose the right preposition for towns, countries and places, use reflexive verbs with a passive meaning, and say what is happening right now with être en train de.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Towns and countries: à, en, au, aux",
+      "columns": ["Use", "With", "Examples"],
+      "rows": [
+        ["**à**", "a town or city", "Il habite **à** Senlis, il travaille **à** Paris."],
+        ["**en**", "a feminine country (usually ending in *-e*)", "Elle vit **en** France ; elle va **en** Allemagne et **en** Norvège."],
+        ["**au**", "a masculine country", "Il va souvent **au** Danemark, **au** Maroc."],
+        ["**aux**", "a plural country", "**aux** États-Unis, **aux** Pays-Bas"]
+      ],
+      "note": "*Le Mexique* and *le Cambodge* end in *-e* but are masculine: **au** Mexique, **au** Cambodge. A masculine country beginning with a vowel takes **en**: **en** Iran, **en** Irak."
+    },
+    {
+      "type": "compare",
+      "heading": "Dans or à?",
+      "left": {
+        "label": "dans = inside",
+        "text": "An enclosed space you are inside.",
+        "examples": [
+          "Le papier est **dans** mon sac.",
+          "Les yaourts sont **dans** le réfrigérateur.",
+          "Je lis le journal **dans** le train, **dans** le métro.",
+          "Je suis **dans** le restaurant. (inside the building)"
+        ]
+      },
+      "right": {
+        "label": "à = at a place",
+        "text": "Going to or being at a place. **À + le = au**, **à + les = aux**.",
+        "examples": [
+          "Je vais **à** la poste.",
+          "Il habite **à** la campagne.",
+          "Ils dînent **au** restaurant.",
+          "Je suis **au** restaurant. (inside or on the terrace)"
+        ]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Sur and sous",
+      "text": "**Sur** (on) is for a surface; **sous** (under) is its opposite. A bed is a surface for a coat, but you are *in* it when you are ill.",
+      "examples": [
+        { "text": "Le verre est **sur** la table. Les livres sont **sur** l'étagère.", "note": "The glass is on the table. The books are on the shelf." },
+        { "text": "Le restaurant est **sur** la place de la Bastille.", "note": "The restaurant is on the Place de la Bastille." },
+        { "text": "Le chat est **sous** la table.", "note": "The cat is under the table." },
+        { "text": "Je pose un manteau **sur** le lit. / Je suis malade, je suis **dans** mon lit.", "note": "I put a coat on the bed. / I'm ill, I'm in bed." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "De (where from) and chez (at someone's place)",
+      "text": "**De** gives the origin: *de + le* = **du**, *de + les* = **des**. **Chez** + a person or a stressed pronoun means *at / to someone's home*.",
+      "examples": [
+        { "text": "Ce vase vient **du** marché aux puces.", "note": "This vase comes from the flea market." },
+        { "text": "Elle vient **de** Chicago, **des** États-Unis.", "note": "She comes from Chicago, from the United States." },
+        { "text": "Je suis **chez moi**, ce soir.", "note": "I'm at home tonight." },
+        { "text": "Vous habitez **chez** vos parents ?", "note": "Do you live with your parents?" },
+        { "text": "Nous dînons **chez** Anne et Christian.", "note": "We're having dinner at Anne and Christian's." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Reflexive verbs with a passive meaning",
+      "text": "French often uses a reflexive verb where English says *is done* or *you do*. The subject is a thing, not a person.",
+      "examples": [
+        { "text": "Ça **se met** où ?", "note": "Where does this go? (= where do you put it?)" },
+        { "text": "Où **se trouve** la gare ?", "note": "Where is the station (located)?" },
+        { "text": "Comment **s'appelle** cet objet ?", "note": "What is this object called?" },
+        { "text": "Ce plat **se mange** chaud ou froid ?", "note": "Is this dish eaten hot or cold?" },
+        { "text": "Ça ne **se dit** pas !", "note": "You don't say that!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Être en train de + infinitive",
+      "text": "**Être en train de** stresses that an action is in progress right now - *to be (busy) doing*. The question is usually in the simple present, and the answer uses *en train de*. Only *être* changes.",
+      "examples": [
+        { "text": "— Qu'est-ce que tu lis, en ce moment ? — **Je suis en train de lire** un roman de Tolstoï.", "note": "I'm reading a Tolstoy novel (and I haven't finished it)." },
+        { "text": "Regarde, **il est en train de faire** un gâteau.", "note": "Look, he's making a cake." },
+        { "text": "**Nous sommes en train de repeindre** le couloir.", "note": "We're repainting the corridor." },
+        { "text": "**Je suis en train de** tout installer.", "note": "I'm in the middle of setting everything up." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "categorize",
+      "prompt": "En, au or aux? Sort the countries.",
+      "categories": ["en", "au", "aux"],
+      "items": [
+        { "text": "France", "category": 0 },
+        { "text": "Allemagne", "category": 0 },
+        { "text": "Iran", "category": 0 },
+        { "text": "Danemark", "category": 1 },
+        { "text": "Maroc", "category": 1 },
+        { "text": "Mexique", "category": 1 },
+        { "text": "États-Unis", "category": 2 },
+        { "text": "Pays-Bas", "category": 2 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Ils vont déménager ___ Bordeaux.",
+      "options": ["à", "en", "au", "dans"],
+      "answer": 0,
+      "explanation": "**À** + a town: *à Bordeaux*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je pars ___ Finlande.",
+      "hint": "à, en, au or aux",
+      "answers": ["en"],
+      "explanation": "*La Finlande* is feminine: **en** Finlande."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "J'ai mis mon appareil photo ___ mon sac.",
+      "hint": "dans, sur or chez",
+      "answers": ["dans"],
+      "explanation": "Inside an enclosed space: **dans** mon sac."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pose les assiettes ___ la table !",
+      "hint": "dans, sur or chez",
+      "answers": ["sur"],
+      "explanation": "On a surface: **sur** la table."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je vais déjeuner ___ mes grands-parents.",
+      "hint": "dans, sur or chez",
+      "answers": ["chez"],
+      "explanation": "At someone's home: **chez** mes grands-parents."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Je suis malade, je suis ___ mon lit.",
+      "options": ["dans", "sur", "sous", "chez"],
+      "answer": 0,
+      "explanation": "In bed = **dans** mon lit. You put a coat **sur** the bed."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— D'où est-ce qu'elle vient ? — Elle vient de Chicago, ___ États-Unis.",
+      "hint": "de + les",
+      "answers": ["des"],
+      "explanation": "*De + les* = **des**: elle vient **des** États-Unis."
+    },
+    {
+      "type": "matching",
+      "prompt": "Which question fits each situation?",
+      "pairs": [
+        { "left": "You want to know the dog's name.", "right": "Comment il s'appelle ?" },
+        { "left": "You are looking for the town museum.", "right": "Où se trouve le musée ?" },
+        { "left": "You don't know where to put these plates.", "right": "Ces assiettes se mettent où ?" },
+        { "left": "You ask how to drink this white wine.", "right": "Ce vin blanc se boit frais ?" },
+        { "left": "You say this phrase doesn't exist in French.", "right": "Ça ne se dit pas !" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Attention, nous ___ repeindre le couloir !",
+      "hint": "(être en train de)",
+      "answers": ["sommes en train de"],
+      "explanation": "Only *être* changes: **nous sommes en train de** + infinitive."
+    },
+    {
+      "type": "true_false",
+      "statement": "Il habite en Paris.",
+      "answer": false,
+      "explanation": "With a town, use **à**: *Il habite **à** Paris.*"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Answer the question: *Qu'est-ce qu'il fait ?* \"He's making a cake.\"",
+      "words": ["Il", "est", "en train de", "faire", "un gâteau."],
+      "answer": "Il est en train de faire un gâteau.",
+      "explanation": "**être en train de** + infinitive = an action in progress."
+    }
+  ]
+}

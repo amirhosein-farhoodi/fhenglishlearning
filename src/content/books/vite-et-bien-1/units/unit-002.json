@@ -1,0 +1,204 @@
+{
+  "number": 2,
+  "title": "Avoir, articles and the negative",
+  "subtitle": "j'ai, un/une/des, le/la/les, ne ... pas",
+  "summary": "Use avoir in the present, choose the right article, say what there is and isn't, and count to 20.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Avoir (to have) in the present",
+      "columns": ["Affirmative", "Negative", "In English"],
+      "rows": [
+        ["**j'ai**", "je **n'ai pas**", "I have"],
+        ["tu **as**", "tu **n'as pas**", "you have (friend, family)"],
+        ["il / elle / on **a**", "il / elle / on **n'a pas**", "he / she / one has"],
+        ["nous **avons**", "nous **n'avons pas**", "we have"],
+        ["vous **avez**", "vous **n'avez pas**", "you have (polite or plural)"],
+        ["ils / elles **ont**", "ils / elles **n'ont pas**", "they have"]
+      ],
+      "note": "*Je* becomes *j'* before a vowel: **j'ai**, never ~~je ai~~."
+    },
+    {
+      "type": "explain",
+      "heading": "The negative: ne ... pas",
+      "text": "Put **ne** before the verb and **pas** after it. Before a vowel or a silent *h*, *ne* shortens to **n'**. After a negative, *un*, *une* and *des* all become **pas de** (or **pas d'** before a vowel).",
+      "examples": [
+        { "text": "— Vous avez un plat du jour ? — Oui, nous **avons** un saumon grillé.", "note": "Do you have a dish of the day? - Yes, we have grilled salmon." },
+        { "text": "Nous **n'avons pas de** rosé d'Anjou.", "wrong": "Nous n'avons pas un rosé", "note": "We don't have any Anjou rosé." },
+        { "text": "Il n'y a **pas d'**omelette.", "note": "There's no omelette." }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Un, une, des - or le, la, les?",
+      "left": {
+        "label": "Indefinite: a / some",
+        "text": "Something new, not yet mentioned - like *a* in English. **Des** is the plural (*some*).",
+        "examples": ["**un** café (masc.)", "**une** omelette (fem.)", "**des** cafés, **des** omelettes"]
+      },
+      "right": {
+        "label": "Definite: the",
+        "text": "Something specific or already known. **Le** and **la** become **l'** before a vowel or silent *h*.",
+        "examples": ["**le** café, **le** croque-monsieur", "**la** carafe d'eau", "**l'**omelette, **l'**aligoté", "**les** cafés, **les** omelettes"]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Il y a / il n'y a pas de ...",
+      "text": "**Il y a** means *there is* or *there are* - one form for singular and plural. In the negative it becomes **il n'y a pas de**.",
+      "examples": [
+        { "text": "**Il y a** un plat du jour.", "note": "There is a dish of the day." },
+        { "text": "**Il y a** des croissants.", "note": "There are some croissants." },
+        { "text": "**Il n'y a pas de** saumon.", "note": "There's no salmon." },
+        { "text": "**Il n'y a pas de** tarte.", "note": "There's no tart." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Adjectives agree with the noun",
+      "columns": ["", "Singular", "Plural"],
+      "rows": [
+        ["Masculine", "un chocolat **chaud**", "des chocolats **chauds**"],
+        ["Feminine", "une omelette **chaude**", "des omelettes **chaudes**"]
+      ],
+      "note": "Add **-e** for feminine and **-s** for plural, so feminine plural ends in **-es**. Most adjectives go after the noun: *une salade verte, des légumes cuits*. A few short ones go before: *trois petits verres*."
+    },
+    {
+      "type": "explain",
+      "heading": "Quantities: un verre de ...",
+      "text": "After a container or quantity, use **de** - never an article. Before a vowel it becomes **d'**.",
+      "examples": [
+        { "text": "un verre **de** vin", "note": "a glass of wine" },
+        { "text": "une carafe **d'**eau", "note": "a jug of water" },
+        { "text": "une bouteille **d'**aligoté", "note": "a bottle of aligoté" },
+        { "text": "une assiette **de** crudités", "note": "a plate of raw vegetables" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Les chiffres de 0 à 20",
+      "columns": ["0 - 4", "5 - 9", "10 - 14", "15 - 20"],
+      "rows": [
+        ["0 zéro", "5 cinq", "10 dix", "15 quinze"],
+        ["1 un", "6 six", "11 onze", "16 seize"],
+        ["2 deux", "7 sept", "12 douze", "17 dix-sept"],
+        ["3 trois", "8 huit", "13 treize", "18 dix-huit"],
+        ["4 quatre", "9 neuf", "14 quatorze", "19 dix-neuf"],
+        ["", "", "", "20 vingt"]
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each subject with its form of avoir.",
+      "pairs": [
+        { "left": "j'", "right": "ai" },
+        { "left": "tu", "right": "as" },
+        { "left": "nous", "right": "avons" },
+        { "left": "vous", "right": "avez" },
+        { "left": "ils", "right": "ont" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nous ___ des salades.",
+      "hint": "(avoir)",
+      "answers": ["avons"],
+      "explanation": "Avoir: **nous avons**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous ___ la carte ?",
+      "hint": "(avoir)",
+      "answers": ["avez"],
+      "explanation": "Avoir: **vous avez**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il n'___ pas de chocolat.",
+      "hint": "(avoir)",
+      "answers": ["a"],
+      "explanation": "Avoir: **il a** - in the negative, **il n'a pas**."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Un or une? Sort the nouns by their article.",
+      "categories": ["un", "une"],
+      "items": [
+        { "text": "saumon", "category": 0 },
+        { "text": "thé", "category": 0 },
+        { "text": "café", "category": 0 },
+        { "text": "croissant", "category": 0 },
+        { "text": "omelette", "category": 1 },
+        { "text": "salade", "category": 1 },
+        { "text": "orange pressée", "category": 1 },
+        { "text": "carafe", "category": 1 }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the correct negative: \"We don't have any salmon.\"",
+      "options": [
+        "Nous n'avons pas de saumon.",
+        "Nous n'avons pas un saumon.",
+        "Nous avons pas de saumon.",
+        "Nous n'avons de saumon pas."
+      ],
+      "answer": 0,
+      "explanation": "**ne ... pas** around the verb, and *un* becomes **de** after a negative."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right article: ___ omelette est chaude.",
+      "options": ["L'", "Le", "La", "Les"],
+      "answer": 0,
+      "explanation": "*Omelette* is feminine, but *la* becomes **l'** before a vowel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "une salade vert___",
+      "hint": "add the right ending: e, s or es",
+      "answers": ["e"],
+      "explanation": "*Salade* is feminine singular: **verte**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "des tartines beurré___",
+      "hint": "add the right ending: e, s or es",
+      "answers": ["es"],
+      "explanation": "*Tartines* is feminine plural: **beurrées**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Je voudrais un verre d'eau.",
+      "answer": true,
+      "explanation": "After a quantity, **de** shortens to **d'** before a vowel: *un verre d'eau*."
+    },
+    {
+      "type": "true_false",
+      "statement": "Il n'y a pas des croissants.",
+      "answer": false,
+      "explanation": "After a negative, *des* becomes **de**: *Il n'y a **pas de** croissants.*"
+    },
+    {
+      "type": "word_order",
+      "prompt": "Make it negative: \"She doesn't have a plate.\"",
+      "words": ["Elle", "n'a", "pas", "d'assiette."],
+      "answer": "Elle n'a pas d'assiette.",
+      "explanation": "**ne ... pas** around the verb, and **pas d'** before a vowel."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match the numbers.",
+      "pairs": [
+        { "left": "11", "right": "onze" },
+        { "left": "12", "right": "douze" },
+        { "left": "14", "right": "quatorze" },
+        { "left": "16", "right": "seize" },
+        { "left": "19", "right": "dix-neuf" }
+      ]
+    }
+  ]
+}

@@ -2,8 +2,10 @@ import { useEffect, useState, type KeyboardEvent } from "react";
 import { Link } from "react-router-dom";
 import Donate from "../components/Donate";
 import { ArrowRight } from "../components/Icons";
+import LanguageChip from "../components/LanguageChip";
 import type { CategoryId } from "../content/categories";
 import { isCategoryId } from "../content/categories";
+import { langAttr, languageOf } from "../content/languages";
 import { availableUnits, shelves } from "../content/registry";
 import type { BookMeta } from "../content/types";
 import { useAccount } from "../lib/auth";
@@ -37,6 +39,7 @@ function BookCard({ book, progress }: { book: BookMeta; progress: Progress }) {
   const avail = availableUnits(book.slug);
   const s = bookStats(progress, book, avail);
   const started = s.started > 0;
+  const language = languageOf(book);
   return (
     <Link
       to={`/learn/${book.slug}`}
@@ -52,9 +55,10 @@ function BookCard({ book, progress }: { book: BookMeta; progress: Progress }) {
           </span>
         )}
         {book.level && <span className="badge">{book.level}</span>}
+        {langAttr(language) && <LanguageChip language={language} />}
       </div>
       <div className="book-body">
-        <h3>{book.title}</h3>
+        <h3 lang={langAttr(language)}>{book.title}</h3>
         {book.subtitle && (
           <p className="muted" style={{ fontSize: "0.9rem" }}>
             {book.subtitle}
@@ -134,12 +138,12 @@ export default function Home() {
         <section className="hero">
           <p className="eyebrow">Welcome back</p>
           <h1>
-            Learn English, <em>one lesson</em> at a time.
+            Learn a language, <em>one lesson</em> at a time.
           </h1>
           <p>
             Pick a book, read a short lesson, then prove it in a playful quiz.
-            Grammar, IELTS exam skills with the official recordings, and
-            vocabulary next.{" "}
+            English grammar and vocabulary, IELTS exam skills with the official
+            recordings, and French for beginners.{" "}
             {account
               ? "Your progress follows your account to every device."
               : cloudEnabled

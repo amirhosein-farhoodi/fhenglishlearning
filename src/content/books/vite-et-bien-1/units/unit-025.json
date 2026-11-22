@@ -1,0 +1,207 @@
+{
+  "number": 25,
+  "title": "Meetings and introductions at work",
+  "subtitle": "Je vous présente ... — Enchanté(e) !",
+  "summary": "Introduce colleagues, ask someone's name, organise a meeting and write a short professional email in French.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Introductions at the office",
+      "text": "To introduce someone, say **Je vous présente** + name + job (or **je te présente** to a friend). In a hurry, the name and job alone will do. The answer is always **Enchanté !** - with an extra *-e* in writing when a woman says it.",
+      "examples": [
+        { "text": "Bonjour, madame. Philippe Le Goff.", "note": "Hello. (I'm) Philippe Le Goff." },
+        { "text": "**Je vous présente** deux de mes collaborateurs : Sébastien Meyer, notre responsable clientèle...", "note": "Let me introduce two of my colleagues: Sébastien Meyer, our customer relations manager..." },
+        { "text": "**Enchanté**, madame ! — **Enchantée** !", "note": "Pleased to meet you! (a man / a woman speaking)" },
+        { "text": "Viviane Hulot, **mon assistante**. — Enchanté !", "note": "Viviane Hulot, my assistant. - Pleased to meet you!" },
+        { "text": "Je vous ai déjà parlé au téléphone, je crois.", "note": "I think I've already spoken to you on the phone." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Asking someone's name: s'appeler",
+      "text": "**S'appeler** is a reflexive verb. Use inversion in polite or written French, and the name at the end in casual speech.",
+      "examples": [
+        { "text": "**Comment vous appelez-vous ?** / Vous vous appelez comment ? (familiar)", "note": "What's your name?" },
+        { "text": "— **Je m'appelle** Victor Chan.", "note": "My name is Victor Chan." },
+        { "text": "— **Comment s'appelle-t-elle ?** — Elle s'appelle Lise.", "note": "What's her name? - Her name is Lise." },
+        { "text": "— **Tu t'appelles comment ?** — Antoine.", "note": "What's your name? (to a friend)" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Organising a meeting",
+      "columns": ["Step", "French", "In English"],
+      "rows": [
+        ["Before", "décider de **l'ordre du jour**", "set the agenda (the topics)"],
+        ["Before", "envoyer **les convocations**", "send the invitations to the meeting"],
+        ["Before", "**confirmer sa participation**", "confirm you will attend"],
+        ["Before", "**réserver une salle de conférences**", "book a conference room"],
+        ["If needed", "**avancer** ≠ **reporter** / **repousser** la réunion", "bring forward ≠ postpone the meeting"],
+        ["During", "**prendre des notes**", "take notes"],
+        ["After", "faire **un compte rendu** / **un rapport**", "write the minutes / a report"],
+        ["Any time", "envoyer **une note de service** par mail", "send a memo by email"]
+      ],
+      "note": "Typical documents: **un tableau** (a table / spreadsheet), **un graphique** (a chart), **un contrat**. *Un mail* = *un courriel* (an email)."
+    },
+    {
+      "type": "explain",
+      "heading": "Places of work and the company",
+      "text": "Each job has its own workplace. A company also has **des concurrents** (competitors, who make or sell the same kind of product) and **des fournisseurs** (suppliers, who sell it the materials it needs).",
+      "examples": [
+        { "text": "Les employés travaillent dans **un bureau**.", "note": "Office workers work in an office." },
+        { "text": "Les ouvriers fabriquent des produits dans **une usine**.", "note": "Factory workers make products in a factory." },
+        { "text": "Un médecin, un avocat, un notaire travaillent dans **un cabinet**.", "note": "A doctor, a lawyer, a notary work in a practice." },
+        { "text": "Une vendeuse travaille dans **un magasin** / **une boutique**.", "note": "A shop assistant works in a shop." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Bien: checking and confirming",
+      "text": "Slip **bien** after the verb to check that something is right (in a question) or to confirm it (in a statement). It is not *well* here, more like *really* or *indeed*.",
+      "examples": [
+        { "text": "Vous êtes **bien** le responsable clientèle ?", "note": "You are the customer relations manager, aren't you?" },
+        { "text": "Elle travaille **bien** à Limoges ?", "note": "She does work in Limoges, doesn't she?" },
+        { "text": "Il a **bien** reçu les documents.", "note": "He did receive the documents." },
+        { "text": "**J'ai bien reçu** votre courriel.", "note": "I have received your email. (standard email opening)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions for work emails",
+      "text": "These fixed phrases make an email sound professional. **Tiens !** shows surprise, and **Évidemment !** is a strong *of course!*",
+      "examples": [
+        { "text": "**N'hésitez pas à me contacter.** / **N'hésitez pas à m'appeler.**", "note": "Don't hesitate to contact me / to call me." },
+        { "text": "**Je vous en remercie par avance.**", "note": "Thank you in advance." },
+        { "text": "**Bien à vous.**", "note": "Best regards. (written)" },
+        { "text": "**Tiens**, c'est bizarre, il ne m'a rien dit.", "note": "Well, that's odd, he didn't tell me anything." },
+        { "text": "**Évidemment**, je leur ai téléphoné !", "note": "Of course I phoned them!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "French companies hold a lot of meetings - some people joke about *la réunionite*, \"meeting-itis\". People like to discuss and convince before acting, and they prefer to say *Nous sommes arrivés à **un accord*** rather than talk of a *consensus*, which can sound negative."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each word with what it is.",
+      "pairs": [
+        { "left": "l'ordre du jour", "right": "the list of topics for the meeting" },
+        { "left": "une convocation", "right": "the invitation to the meeting" },
+        { "left": "un compte rendu", "right": "the document written after the meeting" },
+        { "left": "une note de service", "right": "a memo for a whole group of colleagues" },
+        { "left": "les concurrents", "right": "companies that sell the same product" },
+        { "left": "les fournisseurs", "right": "companies that sell you materials" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Sébastien :* Bonjour, madame. Enchanté !\n*Colette :* Enchantée ! Je vous ai déjà parlé au téléphone, je crois."
+      },
+      "statement": "Colette a déjà parlé à Sébastien.",
+      "answer": true,
+      "explanation": "She says she has already spoken to him **au téléphone**."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Philippe :* ... Et Jean-Paul Becker, notre responsable de la fabrication."
+      },
+      "statement": "Jean-Paul est responsable de la clientèle.",
+      "answer": false,
+      "explanation": "Jean-Paul is in charge of **la fabrication** (production); Sébastien handles the customers."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Solange :* Ils m'ont aussi demandé votre adresse électronique. Je leur ai seulement donné votre adresse professionnelle.\n*Philippe :* Vous avez bien fait."
+      },
+      "statement": "Solange a donné l'adresse personnelle de Philippe.",
+      "answer": false,
+      "explanation": "She gave only his **adresse professionnelle** - his work address."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Solange :* Patrice m'a demandé de reporter la réunion de mardi à jeudi. Apparemment, certains fournisseurs ne sont pas disponibles, ce jour-là."
+      },
+      "statement": "Certaines personnes ne peuvent pas venir à la réunion mardi.",
+      "answer": true,
+      "explanation": "Some suppliers are **pas disponibles** on Tuesday, so the meeting is postponed to Thursday."
+    },
+    {
+      "type": "mcq",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Adrienne :* Regarde, j'ai reçu les chiffres du trimestre. Ils sont franchement mauvais."
+      },
+      "prompt": "What are the quarter's figures like?",
+      "options": ["Really bad", "Excellent", "Not ready yet", "Better than expected"],
+      "answer": 0,
+      "explanation": "**Franchement mauvais** - frankly bad."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Pendant une réunion, on ___ des notes.",
+      "hint": "(prendre)",
+      "answers": ["prend"],
+      "explanation": "**Prendre des notes** - to take notes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Il est ouvrier, il fabrique des voitures, il travaille dans une ___.",
+      "hint": "a factory",
+      "answers": ["usine"],
+      "explanation": "Factory workers (*les ouvriers*) work in **une usine**."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle est avocate, elle travaille dans un ___.",
+      "hint": "a practice",
+      "answers": ["cabinet"],
+      "explanation": "Lawyers, doctors and notaries work in **un cabinet**."
+    },
+    {
+      "type": "mcq",
+      "prompt": "You want to confirm to a client that you have received their documents. What do you write?",
+      "options": [
+        "J'ai bien reçu vos documents.",
+        "J'ai bien envoyé vos documents.",
+        "Tiens ! Vos documents !",
+        "Je vous présente vos documents."
+      ],
+      "answer": 0,
+      "explanation": "**Bien** confirms: *J'ai **bien** reçu ...*"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Which of these is NOT a good way to end an email to a new client?",
+      "options": [
+        "Salut, à bientôt !",
+        "N'hésitez pas à me contacter.",
+        "Je vous en remercie par avance.",
+        "Bien à vous."
+      ],
+      "answer": 0,
+      "explanation": "*Salut* is for friends. With a client, use **Bien à vous** or **N'hésitez pas à me contacter**."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Introduce your assistant: \"Let me introduce Viviane Hulot, my assistant.\"",
+      "words": ["Je", "vous", "présente", "Viviane Hulot,", "mon assistante."],
+      "answer": "Je vous présente Viviane Hulot, mon assistante.",
+      "explanation": "**Je vous présente** + name + job."
+    }
+  ]
+}

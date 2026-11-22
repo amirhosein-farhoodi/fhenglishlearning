@@ -11,7 +11,7 @@ import { ArrowLeft, ArrowRight } from '../components/Icons'
 function questionText(x: Exercise): string {
   switch (x.type) {
     case 'true_false':
-      return `Is this correct? "${x.statement}"`
+      return x.judge === 'fact' ? `True or false? "${x.statement}"` : `Is this correct? "${x.statement}"`
     case 'fill_blank':
       return x.prompt + (x.hint ? `  ${x.hint}` : '')
     default:

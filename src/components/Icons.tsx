@@ -219,6 +219,28 @@ export function Skip({ size = 20, seconds = 5, back = false, className = '' }: I
   )
 }
 
+/** A loudspeaker with sound waves - "read this aloud". */
+export function Speaker({ size = 18, className = '' }: IconProps) {
+  return (
+    <svg
+      className={`icon ${className}`}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M11 5 6 9H3v6h3l5 4V5Z" />
+      <path d="M15.5 8.5a5 5 0 0 1 0 7" />
+      <path d="M18.5 5.5a9 9 0 0 1 0 13" />
+    </svg>
+  )
+}
+
 export function Headphones({ size = 20, className = '' }: IconProps) {
   return (
     <svg

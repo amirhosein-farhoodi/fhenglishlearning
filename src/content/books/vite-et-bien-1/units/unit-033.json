@@ -1,0 +1,209 @@
+{
+  "number": 33,
+  "title": "Tools, repairs and borrowing",
+  "subtitle": "Tu peux me prêter ta perceuse ?",
+  "summary": "Name common tools and DIY jobs, ask to borrow things, and cope with small household disasters.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "A great handyman ...",
+      "text": "Étienne is putting up shelves - badly. Adèle helps, and a neighbour drops by to borrow a drill. **Un bricoleur / une bricoleuse** is someone who does DIY (**le bricolage**).",
+      "examples": [
+        { "text": "*Adèle :* Tu as besoin du **marteau** ?", "note": "Do you need the hammer?" },
+        { "text": "*Étienne :* Je dois encore **planter des clous**.", "note": "I still have to knock in some nails." },
+        { "text": "Passe-moi cette **boîte**, s'il te plaît.", "note": "Pass me that box, please. (la boîte à outils = the toolbox)" },
+        { "text": "Il en a besoin pour **faire des trous** : il est en train de **fixer des étagères**.", "note": "He needs it to drill holes: he's putting up shelves." },
+        { "text": "Zut, cette **ampoule est grillée** !", "note": "Damn, this light bulb has blown!" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Handy phrases for any DIY drama.",
+      "examples": [
+        { "text": "**J'y vais !**", "note": "I'll go! / I'll get it! (the door, the phone)" },
+        { "text": "**Attention à** l'échelle !", "note": "Mind the ladder!" },
+        { "text": "**Tu risques de** te faire mal, de tomber.", "note": "You might hurt yourself, fall." },
+        { "text": "Nous sommes **au bord de la crise**.", "note": "We're on the verge of a crisis." },
+        { "text": "Je suis **crevé(e)**.", "note": "I'm shattered. (familiar = très fatigué)" },
+        { "text": "**On n'y arrivera jamais !**", "note": "We'll never manage it!" },
+        { "text": "Je suis **en plein** bricolage, ménage, rangement.", "note": "I'm in the middle of DIY, cleaning, tidying." },
+        { "text": "**Je plaisante !**", "note": "I'm joking!" }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La boîte à outils - the toolbox",
+      "columns": ["Category", "French", "In English"],
+      "rows": [
+        ["Hand tools", "un marteau, un tournevis, une clé à molette, une pince, une scie", "a hammer, a screwdriver, an adjustable spanner, pliers, a saw"],
+        ["To climb", "une échelle, un escabeau", "a ladder, a stepladder"],
+        ["Essentials", "un clou, une vis, un tuyau", "a nail, a screw, a pipe"],
+        ["Power tools", "une perceuse, une scie électrique", "a drill, an electric saw"],
+        ["Painting", "un pinceau, un rouleau, de la peinture", "a paintbrush, a roller, paint"],
+        ["Electrics", "une ampoule, un fil électrique, une rallonge, un interrupteur, une prise de courant", "a light bulb, a wire, an extension lead, a switch, a socket"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "DIY jobs - and accidents",
+      "text": "Many DIY verbs come in opposite pairs. And when things go wrong, the reflexive verbs come out.",
+      "examples": [
+        { "text": "**peindre** / **repeindre** les murs", "note": "to paint / repaint the walls" },
+        { "text": "**réparer** = **arranger** un objet", "note": "to repair, fix something" },
+        { "text": "**fixer** quelque chose au mur ≠ **enlever**", "note": "to fix something to the wall ≠ take it down" },
+        { "text": "**poser** ≠ **enlever** une moquette, un papier peint", "note": "to lay / hang ≠ remove a carpet, wallpaper" },
+        { "text": "**monter** ≠ **démonter** un meuble", "note": "to assemble ≠ take apart a piece of furniture" },
+        { "text": "**se faire mal**, **se blesser**, **se couper**, **se taper sur le doigt**", "note": "to hurt yourself, injure yourself, cut yourself, hit your finger" }
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Prêter or emprunter?",
+      "left": {
+        "label": "Prêter (to lend)",
+        "text": "The everyday verb: you **lend** something **to** someone.",
+        "examples": ["Tu peux **me prêter** un stylo ?", "Le voisin **prête** un tournevis **à** Étienne."]
+      },
+      "right": {
+        "label": "Emprunter (to borrow)",
+        "text": "More formal: you **borrow** something **from** someone.",
+        "examples": ["Nous avons **emprunté** de l'argent **à** la banque.", "Je ne veux pas **emprunter** la voiture de mes parents."]
+      }
+    },
+    {
+      "type": "explain",
+      "heading": "Arriver à = to manage to",
+      "text": "**Arriver à** + infinitive means *to manage to, succeed in*. With **y** it gives a very common cry of despair.",
+      "examples": [
+        { "text": "Je **n'arrive pas à** comprendre cette attitude !", "note": "I just can't understand that attitude!" },
+        { "text": "Avec la perceuse, il **est arrivé à** faire des trous dans le mur.", "note": "With the drill, he managed to make holes in the wall." },
+        { "text": "On **n'y arrivera** jamais !", "note": "We'll never manage it!" }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "DIY is a French national passion: 88 % of the French do it, for fun or to save money, more and more women among them - and the sector keeps growing, with around 1,800 DIY stores."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each tool with its English name.",
+      "pairs": [
+        { "left": "un marteau", "right": "a hammer" },
+        { "left": "un tournevis", "right": "a screwdriver" },
+        { "left": "une perceuse", "right": "a drill" },
+        { "left": "une échelle", "right": "a ladder" },
+        { "left": "une rallonge", "right": "an extension lead" },
+        { "left": "un pinceau", "right": "a paintbrush" }
+      ]
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Adèle :* Tu as besoin du marteau ?\n*Étienne :* Oui, j'en ai besoin ! Aïe ! Sur le doigt !"
+      },
+      "statement": "Étienne s'est fait mal au doigt.",
+      "answer": true,
+      "explanation": "*Aïe ! Sur le doigt !* - he hit his finger with the hammer."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Étienne :* Ah zut, maintenant, on sonne à la porte ! Chérie, tu peux y aller ?\n*Adèle :* Mais oui, mon chéri, reste là, j'y vais !"
+      },
+      "statement": "Étienne va ouvrir la porte.",
+      "answer": false,
+      "explanation": "He asks Adèle to go, and she answers **j'y vais** - she opens the door."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Un voisin :* Est-ce que vous avez une perceuse ?\n*Adèle :* Oui, on en a une, mais Étienne s'en sert.\n*Un voisin :* Moi, j'ai tout le matériel du parfait bricoleur, sauf une perceuse."
+      },
+      "statement": "Le voisin va prêter une perceuse à Étienne.",
+      "answer": false,
+      "explanation": "The neighbour has **no drill** - he came to borrow one. He offers a small screwdriver instead."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Anatole :* Ne parlons pas de la plomberie...\n*Boniface :* Si, parlons-en, au contraire ! Il faut appeler un plombier, non ?"
+      },
+      "statement": "Il n'y a pas de problème de plomberie.",
+      "answer": false,
+      "explanation": "There is: they think they need to **call a plumber** (*appeler un plombier*)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Zut, cette ___ est grillée.",
+      "hint": "a light bulb",
+      "answers": ["ampoule"],
+      "explanation": "**Une ampoule grillée** = a blown light bulb."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Excusez-moi, je suis en ___ bricolage !",
+      "hint": "in the middle of",
+      "answers": ["plein"],
+      "explanation": "**Être en plein** + activity = to be in the middle of it."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Il se sert de la ___ pour faire des trous.",
+      "options": ["perceuse", "scie", "pince", "rallonge"],
+      "answer": 0,
+      "explanation": "You make holes with **une perceuse** (a drill)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Tu peux ___ un escabeau ?",
+      "options": ["me prêter", "m'emprunter", "me prête", "me planter"],
+      "answer": 0,
+      "explanation": "You ask someone to **lend** you something: *Tu peux **me prêter** ...?*"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pour acheter son appartement, il a ___ de l'argent à sa banque.",
+      "options": ["emprunté", "prêté", "posé", "réparé"],
+      "answer": 0,
+      "explanation": "He **borrowed** money from the bank: **emprunter** quelque chose **à** quelqu'un."
+    },
+    {
+      "type": "categorize",
+      "prompt": "Painter's kit or electrician's kit?",
+      "categories": ["Le matériel du peintre", "Le matériel de l'électricien"],
+      "items": [
+        { "text": "un pinceau", "category": 0 },
+        { "text": "un rouleau", "category": 0 },
+        { "text": "de la peinture", "category": 0 },
+        { "text": "une ampoule", "category": 1 },
+        { "text": "un fil électrique", "category": 1 },
+        { "text": "un interrupteur", "category": 1 },
+        { "text": "une prise de courant", "category": 1 }
+      ]
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each question with its answer.",
+      "pairs": [
+        { "left": "Tu peux y aller ?", "right": "Oui, j'y vais !" },
+        { "left": "On a des clous ?", "right": "Oui, on en a beaucoup !" },
+        { "left": "Vous avez une perceuse ?", "right": "Oui, j'en ai une, mais elle ne marche pas très bien." },
+        { "left": "Tu as besoin du marteau ?", "right": "Non, je n'en ai pas besoin." },
+        { "left": "Elle arrivera à monter cette étagère ?", "right": "Non, elle n'y arrivera jamais !" },
+        { "left": "Il est bricoleur ?", "right": "Ah non, pas du tout ! Il a horreur du bricolage !" }
+      ]
+    }
+  ]
+}

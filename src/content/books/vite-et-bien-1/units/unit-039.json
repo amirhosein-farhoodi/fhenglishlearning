@@ -1,0 +1,182 @@
+{
+  "number": 39,
+  "title": "City life, then and now",
+  "subtitle": "Les choses ont changé !",
+  "summary": "Name the places in a French town, talk about how a neighbourhood has changed and react with nostalgia, relief or regret.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "explain",
+      "heading": "Then and now",
+      "text": "In this unit people compare a place before and after. **Avant** + the imparfait describes how it used to be; **maintenant** + the present says how it is now. **Tout a été refait** - everything has been redone.",
+      "examples": [
+        { "text": "**Avant**, tout **était** sale, triste, pauvre.", "note": "Before, everything was dirty, sad, poor." },
+        { "text": "Les enfants ne **pouvaient** pas jouer dehors.", "note": "The children couldn't play outside." },
+        { "text": "**Maintenant**, le logement est bien plus confortable.", "note": "Now the housing is much more comfortable." },
+        { "text": "Le bâtiment **a été rénové**.", "note": "The building has been renovated." },
+        { "text": "Il y avait une ferme ? Mais c'est un centre commercial, **maintenant**.", "note": "There was a farm? But it's a shopping centre now." }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Key expressions",
+      "text": "Ways to admire, to remember and to weigh up a change. **Hélas !** (sadly) is the opposite of **Heureusement !** (luckily).",
+      "examples": [
+        { "text": "**Qu'il est beau**, ce musée !", "note": "Isn't this museum beautiful!" },
+        { "text": "**C'est une réussite !**", "note": "It's a real success!" },
+        { "text": "**Les choses ont changé.**", "note": "Things have changed." },
+        { "text": "**C'était le bon vieux temps...**", "note": "Those were the good old days..." },
+        { "text": "Oui, **je m'en souviens** bien.", "note": "Yes, I remember it well." },
+        { "text": "**L'inconvénient, c'est que** le prix a augmenté. ≠ **L'avantage, c'est que** ...", "note": "The drawback is that the price has gone up. ≠ The advantage is that ..." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "La ville et ses bâtiments",
+      "columns": ["French", "In English"],
+      "rows": [
+        ["**la mairie** = l'hôtel de ville", "the town hall"],
+        ["**le commissariat** de police", "the police station"],
+        ["**l'hôpital**", "the hospital"],
+        ["**la poste**", "the post office"],
+        ["**le marché**, le marché aux fleurs", "the market, the flower market"],
+        ["**le jardin public**", "the park"],
+        ["un ensemble de **H.L.M.** (habitations à loyer modéré)", "a social housing estate"]
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Sport and culture",
+      "columns": ["Les lieux sportifs", "Les lieux culturels"],
+      "rows": [
+        ["**la piscine** (swimming pool)", "**le cinéma**"],
+        ["**le stade** (stadium)", "**le théâtre**"],
+        ["**le court** de tennis", "**le musée**"],
+        ["**la salle de sport** (sports hall)", "**la salle de concert**"],
+        ["**le club de gym** (gym)", "**une galerie d'art**"]
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Getting around and city problems",
+      "text": "In town you can take **le bus**, **le métro**, **le tramway** or **un taxi**, and some cities have self-service bikes (*des vélos en libre-service*). **Un quartier sensible** is a neighbourhood with social problems and crime.",
+      "examples": [
+        { "text": "C'était **un quartier « sensible »**, comme on dit.", "note": "It was a \"problem area\", as they say." },
+        { "text": "Il y avait du **trafic de drogue**, des **vols**...", "note": "There was drug dealing, thefts..." },
+        { "text": "**Le vol** de voitures est **un délit**.", "note": "Car theft is an offence." }
+      ],
+      "note": "Emergency numbers in France: **15** for the SAMU (medical emergencies), **17** for the police, **18** for the fire brigade (*les pompiers*)."
+    },
+    {
+      "type": "tip",
+      "text": "France has about 36,000 **communes** (towns and villages), each run by a **maire** and a town council. Most larger towns must have 20-25% social housing (*H.L.M.*) or pay a fine."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Where do you go? Match each description to the place.",
+      "pairs": [
+        { "left": "On y va pour voir un film.", "right": "le cinéma" },
+        { "left": "Les œuvres d'art y sont exposées.", "right": "le musée" },
+        { "left": "On y va quand on est malade.", "right": "l'hôpital" },
+        { "left": "C'est là qu'on traite le courrier.", "right": "la poste" },
+        { "left": "On y va pour faire de la natation.", "right": "la piscine" },
+        { "left": "C'est la même chose que l'hôtel de ville.", "right": "la mairie" }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "En France, pour appeler la police, on fait le ___.",
+      "hint": "a number",
+      "answers": ["17", "dix-sept"],
+      "explanation": "**17** for the police, 15 for the SAMU, 18 for the fire brigade."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "statement": "Le SAMU est un service de police.",
+      "answer": false,
+      "explanation": "The **SAMU** is the medical emergency service (number 15); the police is 17."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Boniface :* Je suppose que vous avez fait beaucoup de travaux ?\n*Maire de la ville :* Ah oui ! Tout a été refait ! Le bâtiment a été rénové, restructuré..."
+      },
+      "statement": "Le musée a été restauré en partie.",
+      "answer": false,
+      "explanation": "Not just part of it: **Tout a été refait !** - everything was redone."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Maire de la ville :* Oui, mais l'inconvénient, c'est que le prix des logements, dans ce quartier, a augmenté de 35 % !"
+      },
+      "statement": "Le quartier est devenu plus cher.",
+      "answer": true,
+      "explanation": "Housing prices **ont augmenté de 35 %** - that's the drawback."
+    },
+    {
+      "type": "true_false",
+      "judge": "fact",
+      "context": {
+        "label": "From the dialogue",
+        "text": "*Jeanne :* Tu vois, mes parents ne voyageaient pas, ils ne connaissaient pas d'autres pays, ils ne parlaient pas de langue étrangère..."
+      },
+      "statement": "Les parents de Jeanne parlaient anglais.",
+      "answer": false,
+      "explanation": "**Ils ne parlaient pas de langue étrangère** - they spoke no foreign language."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone says: *« Quand j'étais jeune, j'allais à l'école à vélo... »* What is the best reply?",
+      "options": ["C'était le bon vieux temps !", "C'est une réussite !", "L'inconvénient, c'est que c'est cher.", "Heureusement !"],
+      "answer": 0,
+      "explanation": "A fond memory calls for nostalgia: **C'était le bon vieux temps !**"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Someone says: *« Le prix des maisons a beaucoup augmenté. »* What is the best reply?",
+      "options": ["Oui, hélas !", "C'est plus agréable !", "Heureusement !", "Qu'il est beau !"],
+      "answer": 0,
+      "explanation": "Higher prices are bad news: **Hélas !** (sadly)."
+    },
+    {
+      "type": "matching",
+      "prompt": "Match each remark to the best reply.",
+      "pairs": [
+        { "left": "Ce stade est magnifique.", "right": "Oui, c'est une réussite." },
+        { "left": "Avant, tout était calme, ici.", "right": "Oui, ça a changé, c'est animé maintenant !" },
+        { "left": "Tu as quitté la ville ?", "right": "Oui, heureusement, je préfère la campagne." },
+        { "left": "Regarde ce petit château, là-bas !", "right": "Qu'il est beau ! Qui a la chance d'y habiter ?" },
+        { "left": "Cette vieille maison a été détruite ?", "right": "Oui, hélas, elle était en trop mauvais état." }
+      ]
+    },
+    {
+      "type": "mcq",
+      "prompt": "On a construit beaucoup de ___ dans cette commune : ce sont des logements sociaux.",
+      "options": ["H.L.M.", "SAMU", "stades", "commissariats"],
+      "answer": 0,
+      "explanation": "**Les H.L.M.** (habitations à loyer modéré) are social housing."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Le ___ de la commune a son bureau à la mairie.",
+      "hint": "the mayor",
+      "answers": ["maire"],
+      "explanation": "**Le maire** works at **la mairie** (the town hall)."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Build the sentence: \"The drawback is that the price has gone up.\"",
+      "words": ["L'inconvénient,", "c'est que", "le prix", "a augmenté."],
+      "answer": "L'inconvénient, c'est que le prix a augmenté.",
+      "explanation": "**L'inconvénient, c'est que** + a full sentence puts the drawback first."
+    }
+  ]
+}

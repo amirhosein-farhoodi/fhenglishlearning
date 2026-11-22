@@ -1,0 +1,203 @@
+{
+  "number": 28,
+  "title": "Direct object pronouns, savoir and connaître",
+  "subtitle": "je le vois, je ne la connais pas, il ne sait rien",
+  "summary": "Replace people and things with le, la, les, choose between savoir and connaître, and use ne ... jamais, plus, rien and personne.",
+  "passScore": 70,
+  "lesson": [
+    {
+      "type": "table",
+      "heading": "Direct object pronouns",
+      "columns": ["Pronoun", "Example", "In English"],
+      "rows": [
+        ["**me** (m')", "Il **me** regarde.", "He's looking at me."],
+        ["**te** (t')", "Je **t'**écoute.", "I'm listening to you."],
+        ["**le** (l')", "Luc ? Je **le** regarde. Le film ? Je **le** regarde.", "him / it (masc.)"],
+        ["**la** (l')", "Anne ? Je **la** regarde. La télé ? Je **la** regarde.", "her / it (fem.)"],
+        ["**nous**", "Elle **nous** invite.", "She invites us."],
+        ["**vous**", "Je **vous** comprends.", "I understand you."],
+        ["**les**", "Anne et Luc ? Les livres ? Je **les** regarde.", "them (people or things)"]
+      ],
+      "note": "**Le** and **la** become **l'** before a vowel or silent *h*: *je **l'**aime, il **l'**invite*."
+    },
+    {
+      "type": "explain",
+      "heading": "Where the pronoun goes",
+      "text": "The pronoun sits **directly before the verb** - in the negative too, inside *ne ... pas*. With two verbs (*vais, dois, peux, voudrais* + infinitive) it goes before the **infinitive**. In the passé composé it goes before **avoir**, and the past participle then agrees with it.",
+      "examples": [
+        { "text": "Je **le** regarde. Je **ne le** regarde **pas**.", "note": "I watch it. I don't watch it." },
+        { "text": "Je vais **l'inviter**. Je dois **l'inviter**.", "wrong": "Je l'vais inviter", "note": "I'm going to invite her. I must invite her." },
+        { "text": "Le film ? Je **l'ai regardé**. Je ne l'ai pas regardé.", "note": "I watched it. I didn't watch it." },
+        { "text": "La télévision ? Je **l'ai regardée**.", "note": "la = feminine, so add -e" },
+        { "text": "Les livres ? Je **les ai regardés**.", "note": "les = plural, so add -s" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "Direct verbs",
+      "text": "These pronouns replace the object of a **direct** verb - one with no preposition before its object: *voir, écouter, entendre, regarder, aimer, connaître, inviter, appeler, trouver ...* Watch out: some verbs are direct in French but not in English, and vice versa.",
+      "examples": [
+        { "text": "J'**invite** mes amis. → Je **les** invite.", "note": "direct: no preposition" },
+        { "text": "Je téléphone **à** mes amis.", "note": "not direct: téléphoner à" },
+        { "text": "J'**écoute** la radio. → Je **l'**écoute.", "note": "I listen to the radio. (no 'to' in French)" },
+        { "text": "Je **regarde** Anne. → Je **la** regarde.", "note": "I look at Anne. (no 'at' in French)" }
+      ]
+    },
+    {
+      "type": "explain",
+      "heading": "C'est quelqu'un de + adjective",
+      "text": "Instead of *il / elle est timide*, you can say **c'est quelqu'un de** + adjective. The adjective is **always masculine**, even for a woman, and *de* becomes *d'* before a vowel.",
+      "examples": [
+        { "text": "Paul, **c'est quelqu'un de timide**.", "note": "Paul is a shy person." },
+        { "text": "Anne, c'est quelqu'un de **généreux**.", "wrong": "quelqu'un de généreuse", "note": "Anne is a generous person." },
+        { "text": "C'est quelqu'un **d'**intelligent.", "note": "He / she is an intelligent person." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Feminine adjectives: -if and -eux",
+      "columns": ["Masculine", "Feminine"],
+      "rows": [
+        ["vi**f**, acti**f**, positi**f**", "vi**ve**, acti**ve**, positi**ve**"],
+        ["curi**eux**, génér**eux**, chaleur**eux**", "curi**euse**, génér**euse**, chaleur**euse**"]
+      ],
+      "note": "Adjectives in **-if** take **-ive** in the feminine; adjectives in **-eux** take **-euse**."
+    },
+    {
+      "type": "table",
+      "heading": "Savoir and connaître in the present",
+      "columns": ["", "Savoir (to know a fact, how to)", "Connaître (to know, be familiar with)"],
+      "rows": [
+        ["je", "**sais**", "**connais**"],
+        ["tu", "**sais**", "**connais**"],
+        ["il / elle / on", "**sait**", "**connaît**"],
+        ["nous", "**savons**", "**connaissons**"],
+        ["vous", "**savez**", "**connaissez**"],
+        ["ils / elles", "**savent**", "**connaissent**"]
+      ]
+    },
+    {
+      "type": "compare",
+      "heading": "Savoir or connaître?",
+      "left": {
+        "label": "Savoir",
+        "text": "+ **si, que, quand, pourquoi, comment, où, à quelle heure ...**; + an **infinitive** (know how to); or alone as a short answer.",
+        "examples": [
+          "Tu **sais si** Félix est là ?",
+          "Je ne sais pas **pourquoi** il n'est pas là.",
+          "Il **sait nager** ? Vous ne savez pas conduire ?",
+          "— Julien est parti en vacances. — Oui, **je sais**."
+        ]
+      },
+      "right": {
+        "label": "Connaître",
+        "text": "+ a **person** or a **place** (a noun).",
+        "examples": [
+          "Tu **connais** la Provence ?",
+          "Oui, je connais Avignon et sa région.",
+          "Ils connaissent tous leurs voisins.",
+          "Vous connaissez un bon restaurant italien ?"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "heading": "More negatives",
+      "columns": ["Negative", "Example", "Opposite of"],
+      "rows": [
+        ["**ne ... jamais** (never)", "Je **ne** le vois **jamais**.", "souvent, toujours"],
+        ["**ne ... plus** (no longer)", "Il **ne** fume **plus**.", "encore, toujours (still)"],
+        ["**ne ... rien** (nothing)", "Elle **ne** voit **rien** !", "quelque chose"],
+        ["**ne ... personne** (nobody)", "Il **n'**invite **personne**.", "quelqu'un"]
+      ],
+      "note": "They work like *ne ... pas*: **ne** before the verb, the second word after it. *Ne* becomes *n'* before a vowel."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "matching",
+      "prompt": "Match each question with its negative answer.",
+      "pairs": [
+        { "left": "Il fume encore ?", "right": "Non, il ne fume plus." },
+        { "left": "Tu vas souvent au cinéma ?", "right": "Non, je ne vais jamais au cinéma." },
+        { "left": "Elle boit quelque chose ?", "right": "Non, elle ne boit rien." },
+        { "left": "Il connaît quelqu'un dans cette ville ?", "right": "Non, il ne connaît personne." }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous ___ Antoinette ?",
+      "hint": "(savoir or connaître)",
+      "answers": ["connaissez"],
+      "explanation": "A person → **connaître**: *vous connaissez*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Je ne ___ pas où Gilles habite.",
+      "hint": "(savoir or connaître)",
+      "answers": ["sais"],
+      "explanation": "Before **où, si, quand, pourquoi ...** → **savoir**: *je sais*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "La petite fille ___ nager.",
+      "hint": "(savoir or connaître)",
+      "answers": ["sait"],
+      "explanation": "Know **how to** + infinitive → **savoir**: *elle sait nager*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choose the right verb: Ils ___ bien l'Allemagne.",
+      "options": ["connaissent", "savent", "connaissons", "sait"],
+      "answer": 0,
+      "explanation": "A place → **connaître**: *ils connaissent*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ils regardent la télévision ? — Non, ils ___.",
+      "hint": "use a pronoun",
+      "answers": ["ne la regardent pas"],
+      "explanation": "*La télévision* → **la**, placed between *ne* and the verb: *ils ne la regardent pas*."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Elle va voir Boniface ? — Oui, elle ___.",
+      "hint": "use a pronoun",
+      "answers": ["va le voir"],
+      "explanation": "With two verbs, the pronoun goes before the infinitive: *elle va **le** voir*."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous avez vu ces photos ? — Oui, je les ai ___.",
+      "options": ["vues", "vu", "vus", "vue"],
+      "answer": 0,
+      "explanation": "*Les* stands for *ces photos* (feminine plural), and the participle agrees: **vues**."
+    },
+    {
+      "type": "true_false",
+      "statement": "Je téléphone mes amis tous les jours.",
+      "answer": false,
+      "explanation": "*Téléphoner* takes **à**: *Je téléphone **à** mes amis tous les jours.*"
+    },
+    {
+      "type": "true_false",
+      "statement": "Anne, c'est quelqu'un de très généreuse.",
+      "answer": false,
+      "explanation": "After *quelqu'un de*, the adjective stays masculine: *c'est quelqu'un de très **généreux***."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Vous travaillez toujours à Lyon ? — Non, c'est fini, je ___ à Lyon.",
+      "hint": "no longer",
+      "answers": ["ne travaille plus"],
+      "explanation": "*Toujours* (still) → **ne ... plus**: *je ne travaille plus*."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Answer with a pronoun: \"Did you watch these films? - No, I didn't watch them.\"",
+      "words": ["Non,", "je", "ne", "les", "ai", "pas", "regardés."],
+      "answer": "Non, je ne les ai pas regardés.",
+      "explanation": "The pronoun goes before *avoir*, inside *ne ... pas*; the participle agrees with *les*: **regardés**."
+    }
+  ]
+}
