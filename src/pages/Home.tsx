@@ -58,7 +58,14 @@ function BookCard({ book, progress }: { book: BookMeta; progress: Progress }) {
         {langAttr(language) && <LanguageChip language={language} />}
       </div>
       <div className="book-body">
-        <h3 lang={langAttr(language)}>{book.title}</h3>
+        <h3 lang={langAttr(language)}>
+          {book.title}
+          {book.slug === "vite-et-bien-1" && (
+            <span className="frog-note" lang="en">
+              <span aria-hidden="true">🐸</span> “ordered by a frog”
+            </span>
+          )}
+        </h3>
         {book.subtitle && (
           <p className="muted" style={{ fontSize: "0.9rem" }}>
             {book.subtitle}

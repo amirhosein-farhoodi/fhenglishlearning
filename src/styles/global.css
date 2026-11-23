@@ -3795,3 +3795,14 @@ button.q-track:hover {
     display: none;
   }
 }
+
+/* A small easter egg next to one book's title. */
+.frog-note {
+  margin-left: 0.5em;
+  font-size: 0.75rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--muted, #6b7280);
+  white-space: nowrap;
+  vertical-align: middle;
+}
