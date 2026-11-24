@@ -11,6 +11,8 @@ import { BookScope } from './lib/targetLang'
 const MockLobby = lazy(() => import('./pages/MockLobby'))
 const MockExam = lazy(() => import('./pages/MockExam'))
 const MockResult = lazy(() => import('./pages/MockResult'))
+const OfferBook = lazy(() => import('./pages/OfferBook'))
+const Admin = lazy(() => import('./pages/Admin'))
 
 const loading = (
   <main className="page">
@@ -52,6 +54,8 @@ export default function App() {
         <Route path="/ielts-mock" element={<MockLobby />} />
         <Route path="/ielts-mock/exam" element={<MockExam />} />
         <Route path="/ielts-mock/result/:id" element={<MockResult />} />
+        <Route path="/offer-book" element={<OfferBook />} />
+        <Route path="/admin" element={<Admin />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       </Suspense>

@@ -19,6 +19,7 @@ import {
 } from "../lib/storage";
 import { cloudEnabled } from "../lib/supabase";
 import "../styles/mock-banner.css";
+import "../styles/offer.css";
 
 const plural = (n: number, one: string, many = `${one}s`) =>
   `${n} ${n === 1 ? one : many}`;
@@ -290,6 +291,22 @@ export default function Home() {
             )}
           </section>
         )}
+
+        <Link to="/offer-book" className="mock-banner offer-banner">
+          <span className="mock-banner-icon" aria-hidden="true">
+            📖
+          </span>
+          <span className="mock-banner-text">
+            <span className="mock-banner-title">Missing a book?</span>
+            <span className="muted">
+              Tell us which book to turn into a course next. Offer it with a
+              donation and it is published within a few days.
+            </span>
+          </span>
+          <span className="cta">
+            Offer a book <ArrowRight size={18} />
+          </span>
+        </Link>
 
         <Donate />
 

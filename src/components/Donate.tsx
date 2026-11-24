@@ -81,13 +81,28 @@ type Status =
   | { kind: 'sent'; hash: string }
   | { kind: 'error'; message: string }
 
-export default function Donate() {
+interface DonateProps {
+  /** Called with the explorer link once a wallet submits the transaction. */
+  onSent?: (txLink: string) => void
+  /** Replaces the "Enjoying the app?" intro, e.g. when used inside the book-offer flow. */
+  title?: string
+  intro?: string
+  className?: string
+}
+
+export default function Donate({ onSent, title, intro, className = '' }: DonateProps = {}) {
   const [net, setNet] = useState<Network>(NETWORKS[0])
   const [amount, setAmount] = useState(3)
   const [status, setStatus] = useState<Status>({ kind: 'idle' })
   const [copied, setCopied] = useState(false)
 
   useEffect(() => setStatus({ kind: 'idle' }), [net, amount])
+
+  useEffect(() => {
+    if (status.kind === 'sent') onSent?.(net.explorer + status.hash)
+    // Report each transaction once; `net` cannot change while status is 'sent'.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [status])
 
   useEffect(() => {
     if (!copied) return
@@ -162,16 +177,16 @@ export default function Donate() {
   const busy = status.kind === 'working'
 
   return (
-    <section className="donate" aria-labelledby="donate-title">
+    <section className={`donate ${className}`.trim()} aria-labelledby="donate-title">
       <div className="donate-intro">
         <span className="donate-mark" aria-hidden="true">
           <Heart size={16} />
         </span>
         <div>
-          <h2 id="donate-title">Enjoying the app?</h2>
+          <h2 id="donate-title">{title ?? 'Enjoying the app?'}</h2>
           <p>
-            It is free, has no ads and no accounts. If it helped you, a small tip keeps it going. Entirely optional -
-            nothing is locked behind it.
+            {intro ??
+              'It is free, has no ads and no accounts. If it helped you, a small tip keeps it going. Entirely optional - nothing is locked behind it.'}
           </p>
         </div>
       </div>

@@ -436,7 +436,8 @@ before ever signing in has no owner and *is* merged, which is what makes
    the publishable (anon) key from Supabase → Project Settings → API Keys. The
    same two go into Netlify → Site configuration → Environment variables, or the
    production build ships without accounts.
-2. **Schema.** Run `supabase/001_progress.sql` in the Supabase SQL editor.
+2. **Schema.** Run `supabase/001_progress.sql`, then `supabase/002_book_offers.sql`,
+   in the Supabase SQL editor.
 3. **Google provider.** Create an OAuth client in Google Cloud Console
    (Web application), with `https://<project-ref>.supabase.co/auth/v1/callback`
    as the authorized redirect URI, then paste the client ID and secret into
@@ -448,6 +449,35 @@ before ever signing in has no owner and *is* merged, which is what makes
 The publishable key is meant to ship in the bundle. Row Level Security is the
 actual protection, so every policy on `public.progress` is scoped to
 `auth.uid() = user_id` — never disable RLS on that table.
+
+## Book offers and /admin
+
+`/offer-book` (linked from the "Missing a book?" banner on the home page) lets
+anyone, signed in or not, ask for a new book: a title and/or a link, plus an
+optional name. There are two ways in:
+
+- **With a donation** - published within a few days, guaranteed. The tip jar
+  opens in a dialog first; when the wallet sends the payment, its explorer link
+  is attached to the offer and locked. Paid from another wallet? The learner
+  pastes the transaction link or hash instead. The owner checks it by hand.
+- **Without a donation** - joins the list; the most requested books go first.
+
+Offers land in `public.book_offers` (`supabase/002_book_offers.sql`). Anyone can
+insert; only the admin can read, change or delete.
+
+`/admin` is for the owner account only. `public.is_admin()` hard-codes that
+email and checks it against `auth.users`. To hand admin to someone else,
+change the address there and run the file again. The page has three tabs:
+
+- **Overview** - users, active today / this week / this month (from progress
+  saves), lessons passed, XP, offers, sign-ups per day, and learners per book.
+- **Offers** - every offer with its donation link. Set a status (new, planned,
+  published, declined) or delete it.
+- **Learners** - each account with join date, last activity, XP, streak and
+  lessons passed.
+
+Only signed-in learners are counted. Anyone using the app without an account
+leaves no trace on the server.
 
 ## IELTS Mock Test
 
