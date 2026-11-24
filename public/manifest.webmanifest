@@ -1,0 +1,35 @@
+{
+  "id": "/",
+  "name": "FH Language Learning",
+  "short_name": "FH Learning",
+  "description": "Learn English, and now French, lesson by lesson with playful, interactive exercises.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#e9eaf2",
+  "theme_color": "#ffffff",
+  "categories": ["education", "books"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "IELTS Mock Test",
+      "short_name": "Mock test",
+      "url": "/ielts-mock",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Offer a book",
+      "short_name": "Offer a book",
+      "url": "/offer-book",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}

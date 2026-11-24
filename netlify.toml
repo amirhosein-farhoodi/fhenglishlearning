@@ -19,6 +19,20 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+# The service worker and manifest must never be cached by the browser, or a
+# deploy would not reach installed apps until the cache expired.
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    Service-Worker-Allowed = "/"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 [[headers]]
   for = "/index.html"
   [headers.values]

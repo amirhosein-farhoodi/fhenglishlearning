@@ -127,7 +127,7 @@ src/
 tools/
   extract_book.py            # text PDF -> per-unit raw text (needs pdftotext / poppler)
   render_scanned_book.py     # scanned PDF -> per-unit page images (needs pymupdf)
-  make_icons.py              # logo-transparent.png -> header mark (needs pillow)
+  make_icons.py              # logo-transparent.png -> header mark, favicon, app icons (needs pillow)
   validate-content.mjs       # content validator (npm run validate)
   link-ielts-media.mjs       # resolves AUDIO:n / VIDEO:n placeholders to real media URLs
   ielts-media.json           # track/video number -> file URL, built from public/uploads/
@@ -141,12 +141,9 @@ source-books/                # put PDFs here (git-ignored)
 
 ## Logo and icons
 
-`public/icon.png` is the app icon. `index.html` points at it directly for both the browser tab
-and the iOS home screen, so replacing that one file changes the icon everywhere.
-
-`public/logo-transparent.png` is the master header artwork. It is ~1150px square and close to a
-megabyte, so it is never shipped directly - `tools/make_icons.py` writes the small,
-alpha-preserving derivative that the app actually loads:
+`public/logo-transparent.png` is the master artwork: the white FH-and-book mark with a violet
+glow, on transparency. It is close to a megabyte, so it is never shipped directly.
+`tools/make_icons.py` writes every derivative the app loads:
 
 ```bash
 pip install pillow
@@ -155,11 +152,36 @@ python tools/make_icons.py
 
 | File | Size | Used by |
 |---|---|---|
-| `public/icon.png` | 959px | browser tab + iOS home screen (`index.html`) |
-| `public/logo-mark.png` | 96px | the header mark (`.brand-mark`, drawn at 38px) |
+| `public/logo-mark.png` | 96px | the header mark (`.brand-mark` paints the violet tile behind it) |
+| `public/favicon-48.png` | 48px | browser tab |
+| `public/apple-touch-icon.png` | 180px | iOS home screen (full bleed - iOS rounds the corners) |
+| `public/icons/icon-192.png`, `icon-512.png` | 192/512px | manifest icons, Android splash screen |
+| `public/icons/icon-maskable-512.png` | 512px | Android adaptive icon (mark kept inside the 80% safe circle) |
 
-Replace the master and re-run the script; the filenames in `index.html` stay the same. The script
-trims the transparent margin before resizing, so the mark fills its box at small sizes.
+Home-screen icons cannot be transparent - iOS fills the gaps with black and Android crops to its
+own shape - so they put the mark on the same Aubergine tile (`#6d28d2`) as the header. Replace
+the master and re-run the script; no filenames change.
+
+## Installable app (PWA)
+
+The site installs as an app: "Install" on Chrome, Edge and Android, or Share -> Add to Home
+Screen on iPhone and iPad. The home page shows a "Get the app" card with the right steps for the
+device, and hides it once the app is installed.
+
+- `public/manifest.webmanifest` - name, icons, colours, standalone display, and shortcuts to
+  the IELTS mock test and "Offer a book" (long-press the icon).
+- `src/sw/sw.js` - the service worker. The `serviceWorker` plugin in `vite.config.ts` writes it
+  to `dist/sw.js` at build time with the list of files to cache and a version hash. It is not
+  registered on the dev server.
+- `src/lib/pwa.ts` - registration, the install prompt, and update detection.
+
+**Offline.** Installing caches only the app shell (about 1 MB), not the ~8 MB of lesson content.
+Each lesson is cached the first time it is opened, so anything a learner has opened works with
+no connection. Sign-in, sync, offers and the IELTS audio still need the network.
+
+**Updates.** A new deploy downloads in the background. The app then shows "A new version of the
+app is ready - Reload" instead of swapping code mid-quiz. `netlify.toml` serves `sw.js` and the
+manifest uncached, so installed apps see a deploy as soon as they are next opened.
 
 ## Donations
 

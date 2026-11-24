@@ -1,6 +1,7 @@
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import { lazy, Suspense, useEffect } from 'react'
 import Header from './components/Header'
+import AppUpdate from './components/AppUpdate'
 import Home from './pages/Home'
 import Course from './pages/Course'
 import Lesson from './pages/Lesson'
@@ -59,6 +60,7 @@ export default function App() {
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       </Suspense>
+      <AppUpdate />
     </div>
   )
 }

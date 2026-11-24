@@ -1,6 +1,7 @@
 import { useEffect, useState, type KeyboardEvent } from "react";
 import { Link } from "react-router-dom";
 import Donate from "../components/Donate";
+import InstallApp from "../components/InstallApp";
 import { ArrowRight } from "../components/Icons";
 import LanguageChip from "../components/LanguageChip";
 import type { CategoryId } from "../content/categories";
@@ -291,6 +292,8 @@ export default function Home() {
             )}
           </section>
         )}
+
+        <InstallApp />
 
         <Link to="/offer-book" className="mock-banner offer-banner">
           <span className="mock-banner-icon" aria-hidden="true">

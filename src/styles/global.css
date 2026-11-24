@@ -3806,3 +3806,79 @@ button.q-track:hover {
   white-space: nowrap;
   vertical-align: middle;
 }
+
+/* ==================================================================
+   Installable app: "Get the app" card (home) and the update bar
+   ================================================================== */
+.install-app {
+  display: flex;
+  align-items: center;
+  gap: var(--space-16);
+  margin-top: var(--section-gap);
+  padding: var(--space-20) var(--space-24);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+}
+.install-app-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 11px;
+  flex-shrink: 0;
+}
+.install-app-text {
+  flex: 1;
+  min-width: 0;
+}
+.install-app h2 {
+  font-size: var(--text-subheading);
+  line-height: var(--leading-subheading);
+}
+.install-app p {
+  margin-top: 4px;
+  font-size: var(--text-body-sm);
+  line-height: var(--leading-body-sm);
+}
+.install-steps {
+  margin: var(--space-12) 0 0;
+  padding-left: 1.2em;
+  font-size: var(--text-body-sm);
+  line-height: 1.9;
+}
+.install-steps svg {
+  vertical-align: -2px;
+  color: var(--accent);
+}
+@media (max-width: 640px) {
+  .install-app {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: var(--space-16);
+  }
+  .install-app .btn {
+    width: 100%;
+  }
+}
+/* The offer banner sits right under the card; one section gap is enough. */
+.install-app + .offer-banner {
+  margin-top: var(--space-16);
+}
+
+.app-update {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--space-16) + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 60;
+  display: flex;
+  align-items: center;
+  gap: var(--space-12);
+  width: max-content;
+  max-width: calc(100vw - 2 * var(--space-16));
+  padding: var(--space-8) var(--space-8) var(--space-8) var(--space-16);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow-lift);
+  font-size: var(--text-body-sm);
+}
